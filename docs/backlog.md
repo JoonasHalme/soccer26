@@ -705,6 +705,30 @@ Nothing else in active development. Remaining tasks below are untouched.
   / knockout+outright sims only** (never the blended `forecast`/edges) — and only
   after the CLV ledger exists to measure whether it does anything. Not worth it now.
 
+### TASK-066 — "Road to the World Cup": warm-up form + pre-match model calls — ✅ SHIPPED 2026-06-06
+- **Why:** Show each team's recent international form AND — the on-brand part — what
+  the model *predicted* for each game, walk-forward (no hindsight), as an honest
+  pre-kickoff track record. The "show form/results as context, don't model it" path
+  that TASK-065 endorsed, plus a free, public model-vs-reality demonstration.
+- **What shipped:**
+  - `model/build_form.py` → `site/public/data/form.json`: per-team last-6 internationals
+    (W/D/L + scores, competition, ×½ friendly weight) **and** a walk-forward 1X2
+    prediction per game (`_model_view`: pick + correct + prob of the actual result),
+    a per-team `record`, and a deduped run-in **feed** (`recent_feed`, since 2026-05-01)
+    with home-perspective calls + an aggregate record.
+  - Team pages: a "Road to the World Cup" form strip (`TeamForm.astro`) with per-game
+    `model ✓/✗ N%` chips + a `model called X/6` badge.
+  - **New page `/road-to-the-world-cup`** (nav: "Road to WC"): headline record
+    (26/38 = 68% on the run-in), the full run-in feed (model call vs reality, hits AND
+    misses), and a "how every team is arriving" form table. Owner chose **full
+    transparency** (show the misses).
+  - `/methodology#ratings` documents the match-importance half-weight rule (now that the
+    ×½ badges expose it). +6 `test_form.py` tests.
+- **Freshness:** `form.json` is current through the committed `internationals.csv`
+  (June 4). A June-10 refresh is scheduled (one-shot reminder caacaa32, **session-only
+  — unreliable across 4 days**; a GitHub Action is the robust alternative if wanted).
+  `build_form.py` reads the historical CSV, which the matchday-poll does NOT refresh.
+
 ### TASK-038 — Model uncertainty / confidence indicator
 - **Why:** Point probabilities hide that minor-nation ratings rest on tiny samples
   (improvements L5).
