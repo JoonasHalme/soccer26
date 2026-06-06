@@ -1,0 +1,163 @@
+---
+import Base from "../layouts/Base.astro";
+import PageHero from "../components/PageHero.astro";
+import TeamFlag from "../components/TeamFlag.astro";
+import { loadSimulation, teamSlug } from "../lib/data";
+
+const sim = loadSimulation();
+const teams = sim.teams ?? [];
+const hasData = teams.length > 0;
+
+const top = teams.slice(0, 12);
+const maxChamp = top.length ? Math.max(...top.map((t) => t.champion)) : 1;
+
+const pct = (v: number) =>
+  v <= 0 ? "—" : v < 0.001 ? "<0.1%" : `${(v * 100).toFixed(1)}%`;
+const fmtGen = (iso: string | null) =>
+  iso ? new Date(iso).toLocaleString("en-GB", {
+    day: "numeric", month: "short", year: "numeric", hour: "2-digit", minute: "2-digit", hour12: false,
+  }) + " UTC" : "—";
+
+const title = "Tournament simulation — World Cup 2026 outright odds | Soccer 26";
+const description = "Monte-Carlo of the whole World Cup 2026 from the model's match probabilities: per-team chances to win the group, qualify, reach each knockout round, and lift the trophy.";
+---
+<Base title={title} description={description}>
+  <PageHero eyebrow="FIFA World Cup 2026 · Simulation" title="Tournament simulation" tint="gold">
+    <p class="subtle" style="max-width: 70ch; margin: 0.4rem 0 0;">
+      The model's match probabilities, run forward through the entire tournament —
+      group round-robins, the eight-best-thirds qualification, and the full knockout
+      bracket — many times over. Each number is the share of simulations in which a
+      team reaches that stage.
+    </p>
+    {hasData && (
+      <div class="hero-chips" style="margin-top: 1rem;">
+        <span class="hero-chip"><b>{sim.n_sims.toLocaleString()}</b> simulations</span>
+        <span class="hero-chip accent"><b>{top[0]?.team}</b> most likely champion</span>
+        <span class="hero-chip">updated {fmtGen(sim.generated_at)}</span>
+      </div>
+    )}
+  </PageHero>
+
+  <div class="panel callout" style="margin-top:1.2rem; border-left:3px solid var(--warn);">
+    <strong>Read this as the model's opinion, not a tip.</strong> Outrights carry the
+    highest margin in the market and these probabilities compound one model over a
+    month, so the tails are soft and we hold <em>no</em> edge claim here. The sim runs on
+    the <b>confederation-anchored</b> ratings (the same source correction the match pages
+    use), so it no longer over-rates teams from isolated confederations — but unlike a
+    priced match it has no per-game market blend, so treat it as "what the model thinks the
+    bracket looks like." Knockout paths use a simplified third-place allocation that
+    respects the official slot rules.
+  </div>
+
+  {!hasData ? (
+    <div class="panel" style="margin-top:1.2rem;">
+      <p class="subtle" style="margin:0">
+        No simulation yet — run <code>python model/simulate.py</code> to generate
+        <code>site/public/data/simulation.json</code>.
+      </p>
+    </div>
+  ) : (
+    <>
+      <section style="margin-top:2rem;">
+        <div class="section-head"><h2>Most likely champions</h2><span class="count">P(win tournament)</span><span class="rule"></span></div>
+        <div class="ou-board">
+          {top.map((t, i) => (
+            <a class="ou-row" href={`/team/${teamSlug(t.team)}`}>
+              <span class="ou-rank">{i + 1}</span>
+              <TeamFlag team={t.team} size={22} />
+              <span class="ou-name">{t.team}</span>
+              <span class="ou-bar-wrap" aria-hidden="true">
+                <span class="ou-bar" style={`width:${Math.max(2, (t.champion / maxChamp) * 100)}%`}></span>
+              </span>
+              <span class="ou-champ">{pct(t.champion)}</span>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <section style="margin-top:2.25rem;">
+        <div class="section-head"><h2>Every team</h2><span class="count">group → trophy</span><span class="rule"></span></div>
+        <div class="table-wrap">
+          <table class="ou-table table--cards">
+            <thead>
+              <tr>
+                <th>Team</th><th>Grp</th>
+                <th class="num">Win grp</th>
+                <th class="num">Qualify</th>
+                <th class="num">R16</th>
+                <th class="num">QF</th>
+                <th class="num">SF</th>
+                <th class="num">Final</th>
+                <th class="num champ">Champion</th>
+              </tr>
+            </thead>
+            <tbody>
+              {teams.map((t) => (
+                <tr>
+                  <td class="t-team">
+                    <TeamFlag team={t.team} size={18} />
+                    <a href={`/team/${teamSlug(t.team)}`}>{t.team}</a>
+                  </td>
+                  <td data-label="Group"><a class="grp" href={`/group/${t.group.toLowerCase()}`}>{t.group}</a></td>
+                  <td class="num" data-label="Win group">{pct(t.win_group)}</td>
+                  <td class="num" data-label="Qualify">{pct(t.qualify)}</td>
+                  <td class="num" data-label="Reach R16">{pct(t.r16)}</td>
+                  <td class="num" data-label="Reach QF">{pct(t.qf)}</td>
+                  <td class="num" data-label="Reach SF">{pct(t.sf)}</td>
+                  <td class="num" data-label="Reach Final">{pct(t.final)}</td>
+                  <td class="num champ" data-label="Champion">{pct(t.champion)}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        <p class="meta" style="margin-top:0.7rem;">
+          {sim.n_sims.toLocaleString()} Monte-Carlo runs · sorted by title probability ·
+          a vectorised mirror of the same expected-goals model used across the site.
+        </p>
+      </section>
+    </>
+  )}
+</Base>
+
+<style>
+  .callout em { color: var(--fg); font-style: normal; font-weight: 600; }
+  .callout strong { color: var(--fg); }
+
+  .ou-board { display: flex; flex-direction: column; gap: 0.5rem; }
+  .ou-row {
+    display: grid;
+    grid-template-columns: 1.6rem 22px minmax(110px, 1fr) 2fr auto;
+    align-items: center; gap: 0.7rem;
+    padding: 0.55rem 0.8rem; border-radius: var(--radius-sm);
+    border: 1px solid var(--border-soft); background: var(--surface);
+    color: var(--fg); text-decoration: none;
+    transition: border-color 0.14s ease, background 0.14s ease;
+  }
+  .ou-row:hover { border-color: var(--border-strong); background: var(--surface-2); text-decoration: none; }
+  .ou-rank { font-variant-numeric: tabular-nums; color: var(--muted-2); font-weight: 700; text-align: center; }
+  .ou-name { font-weight: 700; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .ou-bar-wrap { height: 12px; border-radius: var(--radius-sm); background: var(--surface-3); overflow: hidden; }
+  .ou-bar { display: block; height: 100%; border-radius: var(--radius-sm); background: linear-gradient(90deg, var(--accent-2), var(--accent)); }
+  .ou-champ { font-family: var(--font-mono); font-weight: 600; font-variant-numeric: tabular-nums slashed-zero; min-width: 3.4rem; text-align: right; }
+
+  .ou-table { border-collapse: collapse; width: 100%; font-size: 0.88rem; }
+  .ou-table th, .ou-table td { padding: 0.55rem 0.7rem; border-bottom: 1px solid var(--border-soft); white-space: nowrap; text-align: left; }
+  .ou-table thead th { color: var(--muted-2); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.05em; }
+  .ou-table .num { text-align: right; font-variant-numeric: tabular-nums; }
+  .ou-table tbody tr:last-child td { border-bottom: none; }
+  .ou-table tbody tr:hover { background: var(--elev); }
+  .ou-table .champ { color: var(--fg); font-weight: 700; }
+  .ou-table thead .champ { color: var(--accent); }
+  .t-team { display: flex; align-items: center; gap: 0.5rem; }
+  .t-team a { color: var(--fg); text-decoration: none; font-weight: 600; }
+  .t-team a:hover { color: var(--accent); text-decoration: underline; }
+  .grp { color: var(--muted); text-decoration: none; font-weight: 700; }
+  .grp:hover { color: var(--accent); }
+
+  @media (max-width: 720px) {
+    .ou-hero { padding: 1.3rem 1.2rem; }
+    .ou-row { grid-template-columns: 1.4rem 22px 1fr auto; }
+    .ou-bar-wrap { display: none; }
+  }
+</style>

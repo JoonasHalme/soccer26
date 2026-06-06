@@ -1,0 +1,67 @@
+---
+import Base from "../layouts/Base.astro";
+import PageHero from "../components/PageHero.astro";
+import GroupCard from "../components/GroupCard.astro";
+import { loadFixtures, computeStandings } from "../lib/data";
+
+const fixtures = loadFixtures();
+const standings = computeStandings(fixtures.matches, fixtures.groups);
+const letters = Object.keys(standings).sort();
+
+const totalPlayed = Object.values(standings)
+  .flat()
+  .reduce((s, r) => s + r.played, 0);
+const started = totalPlayed > 0;
+---
+<Base title="Groups & standings — Soccer 26">
+  <PageHero eyebrow="FIFA World Cup 2026 · Group stage" title="Groups & standings" tint="cyan">
+    <p class="subtle" style="max-width: 60ch; margin: 0.4rem 0 0;">
+      All {letters.length} groups with live points tables. Top two of each group advance,
+      along with the eight best third-placed teams in this 48-team format.
+    </p>
+    <div class="hero-chips" style="margin-top: 1rem;">
+      <span class="hero-chip"><b>{letters.length}</b> groups</span>
+      <span class="hero-chip"><b>{letters.length * 4}</b> teams</span>
+      <span class={`hero-chip ${started ? "accent" : ""}`}>
+        <b>{totalPlayed}</b> matches played
+      </span>
+    </div>
+  </PageHero>
+
+  {!started && (
+    <div class="panel not-started" role="status">
+      <span class="ns-dot" aria-hidden="true"></span>
+      <span>
+        <b>Tournament not started.</b> Every team shows P0 / 0 pts in seeded order —
+        tables update automatically once results land in <code>fixtures.json</code>.
+      </span>
+    </div>
+  )}
+
+  <section class="groups-grid">
+    {letters.map((l) => (
+      <GroupCard letter={l} rows={standings[l]} full linkGroup />
+    ))}
+  </section>
+</Base>
+
+<style>
+  .not-started {
+    display: flex; align-items: center; gap: 0.7rem;
+    margin-top: 1.4rem; padding: 0.85rem 1.1rem;
+    font-size: 0.92rem; color: var(--muted);
+  }
+  .not-started b { color: var(--fg); }
+  .ns-dot {
+    flex: none; width: 0.6rem; height: 0.6rem; border-radius: 999px;
+    background: var(--warn); box-shadow: 0 0 8px var(--warn);
+  }
+
+  .groups-grid {
+    display: grid; gap: 1rem; margin-top: 1.6rem;
+    grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+  }
+  @media (max-width: 720px) {
+    .groups-grid { grid-template-columns: 1fr; }
+  }
+</style>

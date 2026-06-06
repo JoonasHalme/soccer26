@@ -1,0 +1,9 @@
+# Pinned to compatible-release (minor) ranges so a fresh CI runner reproduces the
+# tested numeric behaviour — a silent major/minor bump could shift the model outputs,
+# which would change predictions.json and break the SHA-256 ledger for reasons
+# unrelated to tampering. Tested on Python 3.12. Install: pip install -r model/requirements.txt
+numpy~=2.4.0
+pandas~=3.0.0
+scipy~=1.17.0
+requests~=2.33.0
+pytest~=9.0    # test framework; does not affect model output

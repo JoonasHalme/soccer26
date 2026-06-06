@@ -1,0 +1,66 @@
+---
+import { flagCode } from "../lib/data";
+
+interface Props {
+  team: string;
+  /** rendered flag width in px (height derived 3:2) */
+  size?: number;
+}
+const { team, size = 21 } = Astro.props;
+const code = flagCode(team);
+// flagcdn flags are 4:3. Serve via the width-based `wNN` endpoint (the only
+// formats it actually hosts; arbitrary WxH pairs 404).
+const h = Math.round((size * 3) / 4);
+
+// Monogram fallback: up to 3 uppercase initials from the team name.
+const initials = team
+  .replace(/&/g, " ")
+  .split(/[\s-]+/)
+  .filter(Boolean)
+  .map((w) => w[0]!.toUpperCase())
+  .join("")
+  .slice(0, 3);
+---
+{code ? (
+  <img
+    class="team-flag"
+    src={`https://flagcdn.com/w40/${code}.png`}
+    srcset={`https://flagcdn.com/w80/${code}.png 2x`}
+    width={size}
+    height={h}
+    loading="lazy"
+    decoding="async"
+    alt={`Flag of ${team}`}
+    style={`width:${size}px;height:${h}px;`}
+  />
+) : (
+  <span
+    class="team-flag team-monogram"
+    role="img"
+    aria-label={`${team} (no flag available)`}
+    style={`width:${size}px;height:${h}px;`}
+  >{initials}</span>
+)}
+
+<style>
+  .team-flag {
+    display: inline-block;
+    flex: none;
+    border-radius: 3px;
+    object-fit: cover;
+    background: var(--surface-3);
+    box-shadow: 0 0 0 1px var(--border-soft), var(--shadow);
+    vertical-align: middle;
+  }
+  .team-monogram {
+    display: inline-grid;
+    place-items: center;
+    font-family: var(--font-display);
+    font-size: 0.58rem;
+    font-weight: 800;
+    letter-spacing: 0.01em;
+    color: var(--fg);
+    background: linear-gradient(150deg, var(--surface-3), var(--surface-2));
+    line-height: 1;
+  }
+</style>

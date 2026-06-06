@@ -1,0 +1,171 @@
+---
+import { bestBookPrices, type BookOdds } from "../lib/data";
+
+interface Props {
+  books?: BookOdds[];
+  homeLabel: string;
+  awayLabel: string;
+}
+
+const { books = [], homeLabel, awayLabel } = Astro.props;
+
+// Best (highest) price per outcome across all books — the line-shopping winner.
+const best = bestBookPrices(books);
+
+// Only show the Over/Under columns if at least one book quotes totals.
+const hasTotals = books.some(
+  (b) => b.totals?.over_2_5 != null || b.totals?.under_2_5 != null,
+);
+
+const fmt = (n?: number) => (typeof n === "number" ? n.toFixed(2) : "—");
+
+// Is this cell the best available price for its column?
+const isBest = (key: string, price?: number) =>
+  typeof price === "number" && best[key]?.price === price;
+---
+{books.length === 0 ? (
+  <p class="subtle" style="margin:0">No bookmaker odds available for this match yet.</p>
+) : (
+  <details class="bo-collapse">
+    <summary class="bo-sum">
+      <span class="bo-sum-toggle">
+        <span class="bo-sum-label">All {books.length} bookmakers</span>
+        <span class="bo-sum-hint">line-shopping · best price marked ★</span>
+      </span>
+      <span class="bo-sum-best" aria-hidden="true">
+        <span><b>{homeLabel}</b> {fmt(best.home?.price)}</span>
+        <span><b>Draw</b> {fmt(best.draw?.price)}</span>
+        <span><b>{awayLabel}</b> {fmt(best.away?.price)}</span>
+      </span>
+    </summary>
+    <div class="table-wrap bo-tablewrap">
+      <table class="bo-table table--cards">
+        <thead>
+          <tr>
+            <th>Bookmaker</th>
+            <th class="num">{homeLabel}</th>
+            <th class="num">Draw</th>
+            <th class="num">{awayLabel}</th>
+            {hasTotals && <th class="num">Over 2.5</th>}
+            {hasTotals && <th class="num">Under 2.5</th>}
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="bo-best">
+            <td><strong>Best available</strong></td>
+            <td class="num" data-label={homeLabel}><span class="bo-cell best">{fmt(best.home?.price)}<span class="bo-flag" aria-hidden="true">★</span><span class="sr-only"> (best price)</span></span></td>
+            <td class="num" data-label="Draw"><span class="bo-cell best">{fmt(best.draw?.price)}<span class="bo-flag" aria-hidden="true">★</span><span class="sr-only"> (best price)</span></span></td>
+            <td class="num" data-label={awayLabel}><span class="bo-cell best">{fmt(best.away?.price)}<span class="bo-flag" aria-hidden="true">★</span><span class="sr-only"> (best price)</span></span></td>
+            {hasTotals && <td class="num" data-label="Over 2.5"><span class="bo-cell best">{fmt(best.over_2_5?.price)}<span class="bo-flag" aria-hidden="true">★</span><span class="sr-only"> (best price)</span></span></td>}
+            {hasTotals && <td class="num" data-label="Under 2.5"><span class="bo-cell best">{fmt(best.under_2_5?.price)}<span class="bo-flag" aria-hidden="true">★</span><span class="sr-only"> (best price)</span></span></td>}
+          </tr>
+          {books.map((b) => (
+            <tr>
+              <td>{b.title}</td>
+              <td class="num" data-label={homeLabel}><span class={`bo-cell ${isBest("home", b.h2h?.home) ? "best" : ""}`}>{fmt(b.h2h?.home)}{isBest("home", b.h2h?.home) && <><span class="bo-flag" aria-hidden="true">★</span><span class="sr-only"> (best price)</span></>}</span></td>
+              <td class="num" data-label="Draw"><span class={`bo-cell ${isBest("draw", b.h2h?.draw) ? "best" : ""}`}>{fmt(b.h2h?.draw)}{isBest("draw", b.h2h?.draw) && <><span class="bo-flag" aria-hidden="true">★</span><span class="sr-only"> (best price)</span></>}</span></td>
+              <td class="num" data-label={awayLabel}><span class={`bo-cell ${isBest("away", b.h2h?.away) ? "best" : ""}`}>{fmt(b.h2h?.away)}{isBest("away", b.h2h?.away) && <><span class="bo-flag" aria-hidden="true">★</span><span class="sr-only"> (best price)</span></>}</span></td>
+              {hasTotals && <td class="num" data-label="Over 2.5"><span class={`bo-cell ${isBest("over_2_5", b.totals?.over_2_5) ? "best" : ""}`}>{fmt(b.totals?.over_2_5)}{isBest("over_2_5", b.totals?.over_2_5) && <><span class="bo-flag" aria-hidden="true">★</span><span class="sr-only"> (best price)</span></>}</span></td>}
+              {hasTotals && <td class="num" data-label="Under 2.5"><span class={`bo-cell ${isBest("under_2_5", b.totals?.under_2_5) ? "best" : ""}`}>{fmt(b.totals?.under_2_5)}{isBest("under_2_5", b.totals?.under_2_5) && <><span class="bo-flag" aria-hidden="true">★</span><span class="sr-only"> (best price)</span></>}</span></td>}
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </details>
+)}
+
+<style>
+  /* Collapsible wrapper — the long per-bookmaker table is hidden by default; the
+     summary teases the best 1X2 prices so line-shopping value stays at a glance. */
+  .bo-collapse {
+    border: 1px solid var(--border-soft);
+    border-radius: var(--radius-sm);
+    background: var(--surface);
+  }
+  .bo-sum {
+    list-style: none; cursor: pointer; user-select: none;
+    display: flex; align-items: center; justify-content: space-between;
+    flex-wrap: wrap; gap: 0.5rem 1.2rem;
+    padding: 0.75rem 0.95rem;
+  }
+  .bo-sum::-webkit-details-marker { display: none; }
+  .bo-sum:hover .bo-sum-label { color: var(--accent); }
+  .bo-sum-toggle { display: flex; flex-direction: column; gap: 0.1rem; }
+  .bo-sum-label {
+    font-weight: 700; color: var(--fg);
+    display: inline-flex; align-items: center; gap: 0.45rem;
+    transition: color 0.15s ease;
+  }
+  .bo-sum-label::before {
+    content: "▸"; font-size: 0.8em; color: var(--muted-2);
+    transition: transform 0.15s ease;
+  }
+  .bo-collapse[open] .bo-sum-label::before { transform: rotate(90deg); }
+  .bo-sum-hint { font-size: 0.76rem; color: var(--muted-2); }
+  .bo-sum-best {
+    display: inline-flex; flex-wrap: wrap; gap: 0.4rem 0.9rem;
+    font-family: var(--font-mono); font-size: 0.84rem; color: var(--accent);
+    font-variant-numeric: tabular-nums slashed-zero; font-weight: 600;
+  }
+  .bo-sum-best b { color: var(--muted-2); font-weight: 600; margin-right: 0.2rem; font-family: var(--font-sans, inherit); }
+  .bo-collapse[open] .bo-sum-best { display: none; }  /* the table's Best row covers it */
+  .bo-tablewrap { padding: 0 0.7rem 0.7rem; }
+
+  .bo-intro {
+    margin: 0 0 0.9rem;
+    font-size: 0.86rem;
+  }
+  .bo-key {
+    display: inline-flex; align-items: center; gap: 0.3rem;
+    margin-left: 0.25rem; color: var(--accent); font-weight: 700;
+  }
+  .bo-dot {
+    width: 0.55rem; height: 0.55rem; border-radius: 999px;
+    background: var(--accent);
+  }
+  .bo-table td:first-child, .bo-table th:first-child { white-space: nowrap; }
+  .bo-best td {
+    background: var(--surface-2);
+    border-bottom: 1px solid var(--border);
+  }
+  .bo-best td:first-child { color: var(--fg); }
+
+  /* Default cell — neutral price pill so the best ones pop */
+  .bo-cell {
+    display: inline-block;
+    min-width: 2.9rem;
+    text-align: right;
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums slashed-zero;
+    font-weight: 500;
+  }
+  .bo-cell.best {
+    color: var(--accent);
+    font-weight: 600;
+    background: var(--accent-soft);
+    border: 1px solid var(--accent-line);
+    border-radius: var(--radius-sm);
+    padding: 0.1rem 0.45rem;
+  }
+
+  /* Non-colour redundant marker so the best price is distinguishable without
+     relying on the green highlight (colourblind / high-contrast users). */
+  .bo-flag {
+    margin-left: 0.3rem;
+    font-size: 0.78em;
+    line-height: 1;
+    color: var(--accent);
+  }
+
+  /* Visually hidden but read by screen readers. */
+  .sr-only {
+    position: absolute;
+    width: 1px; height: 1px;
+    padding: 0; margin: -1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+    border: 0;
+  }
+</style>

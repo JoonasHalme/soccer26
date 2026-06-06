@@ -1,0 +1,31 @@
+---
+/**
+ * Live countdown to kickoff. Renders the kickoff time as a no-JS fallback; a
+ * single page-level script (see the matchday hero) fills in the relative
+ * countdown and flips to LIVE / FT. One <time> per match, class `.countdown`.
+ */
+interface Props {
+  kickoff?: string;
+  status?: string;
+}
+const { kickoff, status } = Astro.props;
+const fallback = kickoff
+  ? new Date(kickoff).toLocaleString("en-GB", {
+      weekday: "short", hour: "2-digit", minute: "2-digit",
+    })
+  : "TBD";
+---
+<time class="countdown" datetime={kickoff} data-kickoff={kickoff} data-status={status}>
+  {fallback}
+</time>
+
+<style>
+  .countdown {
+    font-variant-numeric: tabular-nums;
+    font-weight: 600;
+    color: var(--muted);
+    white-space: nowrap;
+  }
+  .countdown[data-live="1"] { color: var(--bad); font-weight: 700; }
+  .countdown[data-soon="1"] { color: var(--warn); }
+</style>

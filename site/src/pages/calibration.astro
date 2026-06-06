@@ -1,0 +1,255 @@
+---
+import Base from "../layouts/Base.astro";
+import PageHero from "../components/PageHero.astro";
+import { loadCalibration, loadFixtures, loadPredictionArchive, liveCalibration } from "../lib/data";
+
+const cal = loadCalibration();
+// Tournament-to-date calibration: the model's frozen pre-kickoff predictions vs the
+// actual 2026 results (empty until matches finish — fills in automatically).
+const live = liveCalibration(loadPredictionArchive(), loadFixtures().matches);
+const lpct = (v: number | null) => (v == null ? "—" : `${(v * 100).toFixed(0)}%`);
+const o = cal?.overall ?? {};
+const fitted = cal?.metrics?.fitted;
+const handset = cal?.metrics?.handset;
+const rel = (cal?.reliability ?? []).filter((b) => b.count > 0 && b.mean_pred != null);
+
+const pct = (v: any) => (typeof v === "number" ? `${(v * 100).toFixed(1)}%` : "—");
+const f3 = (v: any) => (typeof v === "number" ? v.toFixed(3) : "—");
+const beats = o.beats_baseline === true;
+
+// Reliability curve geometry: predicted (x) vs observed (y), both 0..1.
+const VW = 460, VH = 460, PAD = 38;
+const sx = (p: number) => PAD + p * (VW - 2 * PAD);
+const sy = (p: number) => VH - PAD - p * (VH - 2 * PAD);
+const maxCount = Math.max(1, ...rel.map((b) => b.count));
+
+const CONST_LABELS: Record<string, string> = {
+  K: "K (rating volatility)",
+  HOME_ADV: "Home advantage (Elo)",
+  ELO_TO_GOAL_DIFF: "Elo → goal-diff",
+  GOALS_BASELINE: "Goals baseline",
+  DIXON_COLES_RHO: "Dixon-Coles ρ",
+};
+const constants = cal?.constants ?? {};
+const handsetC = cal?.handset_fallback ?? {};
+---
+<Base title="Model calibration — Soccer 26">
+  <PageHero eyebrow="Transparency" title="How good is the model, honestly?" tint="cyan">
+    <p class="subtle" style="margin:0.4rem 0 0;max-width:74ch;">
+      Every probability on this site comes from one Elo + Poisson model. Rather than
+      ask you to trust it, here is how it scores on a leakage-free walk-forward
+      backtest over {typeof o.n === "number" ? o.n.toLocaleString() : "thousands of"}
+      historical internationals — measured with the same proper scoring rules the
+      forecasting field uses. The constants are <strong>fitted</strong> to minimise
+      log-loss, not hand-tuned.
+    </p>
+  </PageHero>
+
+  {!cal ? (
+    <div class="panel" style="margin-top:1.4rem;"><p class="subtle" style="margin:0">
+      The calibration report appears here once the model has been backtested.
+    </p></div>
+  ) : (
+    <>
+      <section class="grid cols-4" style="margin:1.4rem 0 0.6rem;" aria-label="Headline metrics">
+        <div class="panel stat-card">
+          <div class="stat-label">Log-loss</div>
+          <div class="stat-value">{f3(o.log_loss)}</div>
+          <div class="stat-sub">vs {f3(o.baseline_log_loss)} base-rate {beats ? "✓ beats" : ""}</div>
+          <p class="stat-gloss">Punishes confident wrong calls hardest. Lower is better.</p>
+        </div>
+        <div class="panel stat-card tone-cyan">
+          <div class="stat-label">Ranked PS</div>
+          <div class="stat-value">{f3(o.rps)}</div>
+          <div class="stat-sub">ordered 1X2 (lower = better)</div>
+          <p class="stat-gloss">Like Brier, but credits being close in the home→draw→away order. Lower is better.</p>
+        </div>
+        <div class="panel stat-card tone-mag">
+          <div class="stat-label">Accuracy</div>
+          <div class="stat-value">{pct(o.accuracy)}</div>
+          <div class="stat-sub">most-likely outcome hit</div>
+          <p class="stat-gloss">How often the model's top pick was the actual result. Higher is better.</p>
+        </div>
+        <div class="panel stat-card tone-warn">
+          <div class="stat-label">Calibration error</div>
+          <div class="stat-value">{pct(o.ece)}</div>
+          <div class="stat-sub">ECE — lower = better calibrated</div>
+          <p class="stat-gloss">Average gap between stated probability and what actually happened. 0% = perfectly calibrated; lower is better.</p>
+        </div>
+      </section>
+
+      <div class="grid cols-2" style="margin-top:1.4rem;gap:1.2rem;align-items:start;">
+        <section class="panel">
+          <div class="section-head"><h2>Reliability curve</h2><span class="count">predicted vs observed</span><span class="rule"></span></div>
+          <p class="subtle" style="margin:0 0 0.5rem;font-size:0.86rem;">
+            Each dot is a probability bucket: x = what the model said, y = what
+            actually happened. A perfectly calibrated model sits on the diagonal.
+            Dot size = number of predictions in the bucket.
+          </p>
+          <svg class="rcurve" viewBox={`0 0 ${VW} ${VH}`} role="img"
+               aria-label="Reliability diagram: predicted vs observed frequency"
+               aria-describedby="rc-table">
+            <rect x={PAD} y={PAD} width={VW - 2 * PAD} height={VH - 2 * PAD} class="rc-frame" />
+            <line x1={sx(0)} y1={sy(0)} x2={sx(1)} y2={sy(1)} class="rc-diag" />
+            {[0.25, 0.5, 0.75].map((g) => (
+              <>
+                <line x1={sx(g)} y1={sy(0)} x2={sx(g)} y2={sy(1)} class="rc-grid" />
+                <line x1={sx(0)} y1={sy(g)} x2={sx(1)} y2={sy(g)} class="rc-grid" />
+              </>
+            ))}
+            <polyline
+              points={rel.map((b) => `${sx(b.mean_pred!).toFixed(1)},${sy(b.mean_obs!).toFixed(1)}`).join(" ")}
+              class="rc-path" vector-effect="non-scaling-stroke" />
+            {rel.map((b) => (
+              <circle cx={sx(b.mean_pred!)} cy={sy(b.mean_obs!)}
+                      r={3 + 7 * Math.sqrt(b.count / maxCount)} class="rc-dot">
+                <title>{`predicted ${(b.mean_pred! * 100).toFixed(0)}% → observed ${(b.mean_obs! * 100).toFixed(0)}% (${b.count} preds)`}</title>
+              </circle>
+            ))}
+            <text x={VW / 2} y={VH - 8} class="rc-axis">model predicted probability →</text>
+            <text x={14} y={VH / 2} class="rc-axis" transform={`rotate(-90 14 ${VH / 2})`}>observed frequency →</text>
+          </svg>
+          <table id="rc-table" class="sr-only">
+            <caption>
+              Reliability bins: for each band of predicted probability, the mean
+              predicted probability, the observed frequency (how often the
+              predicted outcome actually occurred), and the number of predictions
+              in that band. A perfectly calibrated model has predicted equal to
+              observed in every band.
+            </caption>
+            <thead>
+              <tr>
+                <th scope="col">Predicted probability band</th>
+                <th scope="col">Mean predicted</th>
+                <th scope="col">Observed frequency</th>
+                <th scope="col">Predictions</th>
+              </tr>
+            </thead>
+            <tbody>
+              {rel.map((b) => (
+                <tr>
+                  <th scope="row">{`${(b.lo * 100).toFixed(0)}–${(b.hi * 100).toFixed(0)}%`}</th>
+                  <td>{`${(b.mean_pred! * 100).toFixed(1)}%`}</td>
+                  <td>{`${(b.mean_obs! * 100).toFixed(1)}%`}</td>
+                  <td>{b.count.toLocaleString()}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </section>
+
+        <section class="panel">
+          <div class="section-head"><h2>Fitted vs hand-set</h2><span class="count">held-out validation</span><span class="rule"></span></div>
+          <p class="subtle" style="margin:0 0 0.6rem;font-size:0.86rem;">
+            The constants were fitted by minimising training log-loss; these are the
+            scores on data the fit never saw. Fitting improves every metric — it
+            isn't overfitting.
+          </p>
+          <div class="table-wrap">
+            <table>
+              <thead><tr><th>Metric (validation)</th><th class="num">Hand-set</th><th class="num">Fitted</th></tr></thead>
+              <tbody>
+                <tr><td><abbr class="m-gloss" title="Penalises confident wrong predictions; lower is better.">Log-loss</abbr></td><td class="num">{f3(handset?.validation?.log_loss)}</td><td class="num pos">{f3(fitted?.validation?.log_loss)}</td></tr>
+                <tr><td><abbr class="m-gloss" title="Mean squared error of the probabilities; lower is better (0 = perfect).">Brier</abbr></td><td class="num">{f3(handset?.validation?.brier)}</td><td class="num pos">{f3(fitted?.validation?.brier)}</td></tr>
+                <tr><td><abbr class="m-gloss" title="Ranked probability score — like Brier but respects the home/draw/away ordering; lower is better.">RPS</abbr></td><td class="num">{f3(handset?.validation?.rps)}</td><td class="num pos">{f3(fitted?.validation?.rps)}</td></tr>
+                <tr><td><abbr class="m-gloss" title="Share of matches where the most-likely outcome was correct; higher is better.">Accuracy</abbr></td><td class="num">{pct(handset?.validation?.accuracy)}</td><td class="num pos">{pct(fitted?.validation?.accuracy)}</td></tr>
+                <tr><td><abbr class="m-gloss" title="Expected calibration error — average gap between predicted probability and actual frequency; lower is better (0 = perfectly calibrated).">ECE</abbr></td><td class="num">{pct(handset?.validation?.ece)}</td><td class="num pos">{pct(fitted?.validation?.ece)}</td></tr>
+              </tbody>
+            </table>
+          </div>
+
+          <h3 style="margin:1.1rem 0 0.4rem;">Fitted constants</h3>
+          <div class="table-wrap">
+            <table>
+              <thead><tr><th>Constant</th><th class="num">Hand-set</th><th class="num">Fitted</th></tr></thead>
+              <tbody>
+                {Object.keys(constants).map((k) => (
+                  <tr>
+                    <td>{CONST_LABELS[k] ?? k}</td>
+                    <td class="num subtle">{handsetC[k]}</td>
+                    <td class="num">{typeof constants[k] === "number" ? Number(constants[k]).toFixed(k === "ELO_TO_GOAL_DIFF" ? 4 : 2) : constants[k]}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </section>
+      </div>
+
+      <p class="meta" style="margin-top:1.4rem;">
+        Backtest over {typeof o.n === "number" ? o.n.toLocaleString() : "—"} matches since
+        {` ${cal.split?.since ?? "—"}`} · fit method {cal.method ?? "—"} ·
+        {cal.generated_at ? ` generated ${cal.generated_at.slice(0, 10)}` : ""}.
+        <strong> "Beats the market" is a different, harder bar</strong> — see CLV on the
+        <a href="/bets"> bet log</a>.
+      </p>
+    </>
+  )}
+
+  <section class="panel" style="margin-top:1.6rem;">
+    <div class="section-head"><h2>Tournament 2026 — live</h2><span class="count">model vs actual results</span><span class="rule"></span></div>
+    {live.nMatches === 0 ? (
+      <p class="subtle" style="margin:0;max-width:74ch;">
+        As 2026 matches finish, the model's <strong>pre-kickoff</strong> predictions are
+        scored against the actual results here — the honest, ongoing proof it stays
+        calibrated on the tournament itself, not just the historical backtest above.
+        Nothing graded yet; the first matches kick off 11 June.
+      </p>
+    ) : (
+      <>
+        <div class="grid cols-3" style="margin-bottom:1rem;">
+          <div class="panel stat-card">
+            <div class="stat-label">Matches graded</div>
+            <div class="stat-value">{live.nMatches}</div>
+            <div class="stat-sub">2026 results to date</div>
+          </div>
+          <div class="panel stat-card tone-cyan">
+            <div class="stat-label">Top-pick hit rate</div>
+            <div class="stat-value">{lpct(live.hitRate)}</div>
+            <div class="stat-sub">model's favourite won</div>
+          </div>
+          <div class="panel stat-card tone-warn">
+            <div class="stat-label">Brier (live)</div>
+            <div class="stat-value">{live.brier != null ? live.brier.toFixed(3) : "—"}</div>
+            <div class="stat-sub">lower = better; 0 = perfect</div>
+          </div>
+        </div>
+        <div class="table-wrap">
+          <table class="table--cards">
+            <thead><tr><th>Predicted band</th><th class="num">Predicted</th><th class="num">Observed</th><th class="num">Events</th></tr></thead>
+            <tbody>
+              {live.bins.filter((b) => b.count > 0).map((b) => (
+                <tr>
+                  <td>{Math.round(b.lo * 100)}–{Math.round(b.hi * 100)}%</td>
+                  <td class="num" data-label="Predicted">{lpct(b.predMean)}</td>
+                  <td class="num" data-label="Observed">{lpct(b.obs)}</td>
+                  <td class="num" data-label="Events">{b.count}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        <p class="subtle" style="margin:0.7rem 0 0;font-size:0.85rem;max-width:74ch;">
+          One-vs-rest reliability of the model's pre-kickoff 1X2 probabilities ({live.nEvents} outcome-events
+          across {live.nMatches} matches). "Observed" should track "Predicted" if the model stays calibrated live.
+        </p>
+      </>
+    )}
+  </section>
+</Base>
+
+<style>
+  .sr-only { position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0 0 0 0); white-space:nowrap; border:0; }
+  .stat-gloss { margin: 0.45rem 0 0; font-size: 0.74rem; line-height: 1.35; color: var(--muted-2); }
+  .m-gloss { text-decoration: underline dotted var(--border); text-underline-offset: 2px; cursor: help; }
+  .rcurve { width: 100%; max-width: 460px; height: auto; display: block; margin: 0 auto; }
+  .rc-frame { fill: var(--bg-2); stroke: var(--border); }
+  .rc-diag { stroke: var(--muted-2); stroke-dasharray: 5 5; stroke-width: 1.5; }
+  .rc-grid { stroke: var(--border-soft); stroke-width: 1; }
+  .rc-path { fill: none; stroke: var(--accent); stroke-width: 2; opacity: 0.85; }
+  .rc-dot { fill: var(--accent); opacity: 0.55; stroke: var(--accent); }
+  .rc-axis { fill: var(--muted-2); font-size: 13px; text-anchor: middle; font-family: var(--font-sans); }
+  @media (max-width: 860px) {
+    .grid.cols-2 { grid-template-columns: 1fr; }
+  }
+</style>

@@ -1,0 +1,207 @@
+{
+  "generated_at": "2026-06-05T20:42:46.335601+00:00",
+  "method": "scipy.Nelder-Mead",
+  "split": {
+    "since": "2020-01-01",
+    "warmup": 800,
+    "val_cutoff": "2025-01-01"
+  },
+  "constants": {
+    "K": 100.938073,
+    "HOME_ADV": 97.25046,
+    "ELO_TO_GOAL_DIFF": 0.002297,
+    "GOALS_BASELINE": 2.898273,
+    "DIXON_COLES_RHO": -0.152776
+  },
+  "handset_fallback": {
+    "K": 32.0,
+    "HOME_ADV": 65.0,
+    "ELO_TO_GOAL_DIFF": 0.004,
+    "GOALS_BASELINE": 2.55,
+    "DIXON_COLES_RHO": -0.05
+  },
+  "metrics": {
+    "handset": {
+      "label": "HAND-SET (old)",
+      "params": {
+        "K": 32.0,
+        "HOME_ADV": 65.0,
+        "ELO_TO_GOAL_DIFF": 0.004,
+        "GOALS_BASELINE": 2.55,
+        "DIXON_COLES_RHO": -0.05
+      },
+      "train": {
+        "n": 3916,
+        "log_loss": 0.95037,
+        "brier": 0.56183,
+        "rps": 0.19267,
+        "accuracy": 0.55771,
+        "ou_n": 3916,
+        "ou_log_loss": 0.69905,
+        "ou_brier": 0.25287,
+        "base_rates": [
+          0.4717,
+          0.2316,
+          0.2967
+        ],
+        "ece": 0.01335,
+        "baseline_log_loss": 1.05374,
+        "beats_baseline": true
+      },
+      "validation": {
+        "n": 1227,
+        "log_loss": 0.87666,
+        "brier": 0.51586,
+        "rps": 0.17282,
+        "accuracy": 0.59821,
+        "ou_n": 1227,
+        "ou_log_loss": 0.70623,
+        "ou_brier": 0.25636,
+        "base_rates": [
+          0.4857,
+          0.2233,
+          0.291
+        ],
+        "ece": 0.02467,
+        "baseline_log_loss": 1.04474,
+        "beats_baseline": true
+      }
+    },
+    "fitted": {
+      "label": "FITTED (new)",
+      "params": {
+        "K": 100.938073,
+        "HOME_ADV": 97.25046,
+        "ELO_TO_GOAL_DIFF": 0.002297,
+        "GOALS_BASELINE": 2.898273,
+        "DIXON_COLES_RHO": -0.152776
+      },
+      "train": {
+        "n": 3916,
+        "log_loss": 0.93659,
+        "brier": 0.55458,
+        "rps": 0.1895,
+        "accuracy": 0.56027,
+        "ou_n": 3916,
+        "ou_log_loss": 0.69576,
+        "ou_brier": 0.25129,
+        "base_rates": [
+          0.4717,
+          0.2316,
+          0.2967
+        ],
+        "ece": 0.00662,
+        "baseline_log_loss": 1.05374,
+        "beats_baseline": true
+      },
+      "validation": {
+        "n": 1227,
+        "log_loss": 0.86483,
+        "brier": 0.50775,
+        "rps": 0.16922,
+        "accuracy": 0.60391,
+        "ou_n": 1227,
+        "ou_log_loss": 0.70071,
+        "ou_brier": 0.25376,
+        "base_rates": [
+          0.4857,
+          0.2233,
+          0.291
+        ],
+        "ece": 0.0172,
+        "baseline_log_loss": 1.04474,
+        "beats_baseline": true
+      }
+    }
+  },
+  "overall": {
+    "n": 5143,
+    "log_loss": 0.92206,
+    "brier": 0.54454,
+    "rps": 0.18484,
+    "accuracy": 0.57068,
+    "ou_n": 5143,
+    "ou_log_loss": 0.69463,
+    "ou_brier": 0.25072,
+    "base_rates": [
+      0.475,
+      0.2296,
+      0.2954
+    ],
+    "ece": 0.00665,
+    "baseline_log_loss": 1.05167,
+    "beats_baseline": true
+  },
+  "reliability": [
+    {
+      "lo": 0.0,
+      "hi": 0.1,
+      "mean_pred": 0.0515,
+      "mean_obs": 0.0653,
+      "count": 1454
+    },
+    {
+      "lo": 0.1,
+      "hi": 0.2,
+      "mean_pred": 0.1541,
+      "mean_obs": 0.1546,
+      "count": 2205
+    },
+    {
+      "lo": 0.2,
+      "hi": 0.3,
+      "mean_pred": 0.259,
+      "mean_obs": 0.2578,
+      "count": 4539
+    },
+    {
+      "lo": 0.3,
+      "hi": 0.4,
+      "mean_pred": 0.3326,
+      "mean_obs": 0.3172,
+      "count": 2948
+    },
+    {
+      "lo": 0.4,
+      "hi": 0.5,
+      "mean_pred": 0.449,
+      "mean_obs": 0.4549,
+      "count": 1319
+    },
+    {
+      "lo": 0.5,
+      "hi": 0.6,
+      "mean_pred": 0.5475,
+      "mean_obs": 0.5487,
+      "count": 1077
+    },
+    {
+      "lo": 0.6,
+      "hi": 0.7,
+      "mean_pred": 0.6474,
+      "mean_obs": 0.6523,
+      "count": 811
+    },
+    {
+      "lo": 0.7,
+      "hi": 0.8,
+      "mean_pred": 0.748,
+      "mean_obs": 0.7723,
+      "count": 593
+    },
+    {
+      "lo": 0.8,
+      "hi": 0.9,
+      "mean_pred": 0.8454,
+      "mean_obs": 0.8445,
+      "count": 328
+    },
+    {
+      "lo": 0.9,
+      "hi": 1.0,
+      "mean_pred": 0.933,
+      "mean_obs": 0.9484,
+      "count": 155
+    }
+  ]
+}

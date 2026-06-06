@@ -1,0 +1,31 @@
+---
+// Renders a UTC kickoff/ISO time with a server-side UTC fallback, then the global
+// localizer in Base.astro rewrites it to the VIEWER's local timezone on load.
+// (A static build can't know the visitor's zone, so the conversion is client-side;
+// crawlers / no-JS users still get a correct UTC value with its label.)
+interface Props {
+  iso?: string | null;
+  fmt?: "datetime" | "time" | "date";
+  fallback?: string;
+  class?: string;
+}
+const { iso, fmt = "datetime", fallback = "TBD", class: klass } = Astro.props;
+
+const OPTS: Record<string, Intl.DateTimeFormatOptions> = {
+  datetime: { weekday: "short", day: "numeric", month: "short", hour: "2-digit", minute: "2-digit", hour12: false },
+  time: { hour: "2-digit", minute: "2-digit", hour12: false },
+  date: { day: "numeric", month: "short" },
+};
+
+function serverText(value: string): string {
+  const d = new Date(value);
+  if (Number.isNaN(d.getTime())) return fallback;
+  const s = d.toLocaleString("en-GB", { timeZone: "UTC", ...OPTS[fmt] });
+  return fmt === "date" ? s : `${s} UTC`;
+}
+---
+{iso ? (
+  <time class={klass} datetime={iso} data-lt={iso} data-lt-fmt={fmt}>{serverText(iso)}</time>
+) : (
+  <span class={klass}>{fallback}</span>
+)}

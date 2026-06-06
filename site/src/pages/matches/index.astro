@@ -1,0 +1,217 @@
+---
+import { getCollection } from "astro:content";
+import Base from "../../layouts/Base.astro";
+import MatchCard from "../../components/MatchCard.astro";
+import { loadFixtures, loadPredictions, pct1 } from "../../lib/data";
+
+const { matches } = loadFixtures();
+const { predictions } = loadPredictions();
+const analyses = await getCollection("matches");
+const analyzedIds = new Set(analyses.map((a) => a.data.match_id));
+const predById = new Map(predictions.map((p) => [p.match_id, p]));
+
+const byStage: Record<string, typeof matches> = {};
+for (const m of matches) {
+  (byStage[m.stage] ??= []).push(m);
+}
+const stages = ["GROUP", "R32", "R16", "QF", "SF", "3RD", "FINAL"] as const;
+const stageLabel: Record<string, string> = {
+  GROUP: "Group stage", R32: "Round of 32", R16: "Round of 16",
+  QF: "Quarter-finals", SF: "Semi-finals", "3RD": "Third place", FINAL: "Final",
+};
+const presentStages = stages.filter((s) => (byStage[s] ?? []).length);
+
+const edgeCount = predictions.reduce((s, p) => s + (p.edges?.length ?? 0), 0);
+const analyzedCount = analyzedIds.size;
+
+// Top edge per match (for the edge sort + a data hook).
+const topEdge = (id: string) => {
+  const es = predById.get(id)?.edges ?? [];
+  return es.length ? Math.max(...es.map((e) => e.edge_pct)) : null;
+};
+---
+<Base title="Matches — Soccer 26">
+  <p class="eyebrow">All fixtures</p>
+  <h1 style="margin-bottom:0.5rem;">Match centre</h1>
+  <p class="subtle" style="margin-top:0; max-width:60ch;">
+    {matches.length} fixtures · {analyzedCount} with written analysis · {edgeCount} live value edges.
+    Cards with a green spine flag a model edge against the market.
+  </p>
+
+  {matches.length === 0 ? (
+    <div class="panel">
+      <p class="subtle" style="margin: 0">
+        No fixtures loaded yet. Run <code>python model/fetch_fixtures.py</code> or hand-edit
+        <code>fixtures/fixtures.json</code>.
+      </p>
+    </div>
+  ) : (
+    <>
+      <div class="m-controls" role="group" aria-label="Search, filter and sort matches">
+        <input id="m-search" class="m-search" type="search" placeholder="Search team…"
+               autocomplete="off" aria-label="Search matches by team" />
+        <div class="m-chips" role="group" aria-label="Filter by stage">
+          <button class="chip is-on" data-stage="ALL" aria-pressed="true">All stages</button>
+          {presentStages.map((s) => (
+            <button class="chip" data-stage={s} aria-pressed="false">{stageLabel[s] ?? s}</button>
+          ))}
+        </div>
+        <div class="m-right">
+          <button id="m-follow" class="chip follow" data-on="false" aria-pressed="false" title="Show only your followed teams">
+            <span aria-hidden="true">★</span> Following
+          </button>
+          <label class="m-sort">Sort
+            <select id="m-sort">
+              <option value="kickoff">Kickoff</option>
+              <option value="edge">Top edge</option>
+            </select>
+          </label>
+        </div>
+      </div>
+
+      <p id="m-status" class="meta" aria-live="polite" style="margin:0.7rem 0 0.2rem;">{matches.length} fixtures shown</p>
+      <p id="m-empty" class="subtle" hidden style="margin:1rem 0;">No matches fit those filters. <button type="button" id="m-clear" class="linkbtn">Clear filters</button></p>
+
+      {presentStages.map((stage) => {
+        const list = (byStage[stage] ?? []).slice().sort((a, b) =>
+          (a.kickoff ?? "9999").localeCompare(b.kickoff ?? "9999"),
+        );
+        return (
+          <section class="m-section" data-stage-section={stage} style="margin-bottom: 2.5rem;">
+            <div class="section-head">
+              <h2>{stageLabel[stage] ?? stage}</h2>
+              <span class="count" data-count>{list.length}</span>
+              <span class="rule"></span>
+            </div>
+            <div class="cards-grid">
+              {list.map((m) => (
+                <div class="m-cell"
+                     data-teams={`${m.home} ${m.away}`.toLowerCase()}
+                     data-stage={m.stage}
+                     data-kickoff={m.kickoff ?? "9999"}
+                     data-edge={topEdge(m.id) ?? -999}>
+                  <MatchCard match={m} pred={predById.get(m.id)} analyzed={analyzedIds.has(m.id)} />
+                </div>
+              ))}
+            </div>
+          </section>
+        );
+      })}
+    </>
+  )}
+</Base>
+
+<script is:inline>
+  (function () {
+    const KEY = "soccer26:following";
+    const read = () => { try { return new Set(JSON.parse(localStorage.getItem(KEY) || "[]")); } catch { return new Set(); } };
+
+    const search = document.getElementById("m-search");
+    if (!search) return;
+    const chips = Array.from(document.querySelectorAll(".m-chips .chip"));
+    const followBtn = document.getElementById("m-follow");
+    const sortSel = document.getElementById("m-sort");
+    const status = document.getElementById("m-status");
+    const empty = document.getElementById("m-empty");
+    const clearBtn = document.getElementById("m-clear");
+    const sections = Array.from(document.querySelectorAll(".m-section"));
+    const cells = Array.from(document.querySelectorAll(".m-cell"));
+
+    let stage = "ALL";
+    let followOnly = false;
+
+    function apply() {
+      const q = search.value.trim().toLowerCase();
+      const followed = followOnly ? read() : null;
+      let shown = 0;
+
+      cells.forEach((c) => {
+        const teams = c.dataset.teams || "";
+        const okSearch = !q || teams.includes(q);
+        const okStage = stage === "ALL" || c.dataset.stage === stage;
+        const okFollow = !followed || [...followed].some((f) => teams.includes(String(f).toLowerCase()));
+        const visible = okSearch && okStage && okFollow;
+        c.style.display = visible ? "" : "none";
+        if (visible) shown++;
+      });
+
+      // Sort visible cells within each section.
+      const mode = sortSel.value;
+      sections.forEach((sec) => {
+        const grid = sec.querySelector(".cards-grid");
+        const vis = Array.from(grid.querySelectorAll(".m-cell")).filter((c) => c.style.display !== "none");
+        vis.sort((a, b) =>
+          mode === "edge"
+            ? parseFloat(b.dataset.edge) - parseFloat(a.dataset.edge)
+            : a.dataset.kickoff.localeCompare(b.dataset.kickoff));
+        vis.forEach((c) => grid.appendChild(c));
+        // Hide empty stage sections and update the per-section count.
+        const count = sec.querySelector("[data-count]");
+        if (count) count.textContent = String(vis.length);
+        sec.hidden = vis.length === 0;
+      });
+
+      status.textContent = `${shown} fixture${shown === 1 ? "" : "s"} shown`;
+      empty.hidden = shown !== 0;
+    }
+
+    search.addEventListener("input", apply);
+    chips.forEach((c) => c.addEventListener("click", () => {
+      chips.forEach((x) => { x.classList.remove("is-on"); x.setAttribute("aria-pressed", "false"); });
+      c.classList.add("is-on"); c.setAttribute("aria-pressed", "true");
+      stage = c.dataset.stage; apply();
+    }));
+    followBtn.addEventListener("click", () => {
+      followOnly = !followOnly;
+      followBtn.dataset.on = String(followOnly);
+      followBtn.classList.toggle("is-on", followOnly);
+      followBtn.setAttribute("aria-pressed", String(followOnly));
+      apply();
+    });
+    sortSel.addEventListener("change", apply);
+    if (clearBtn) clearBtn.addEventListener("click", () => {
+      search.value = ""; stage = "ALL"; followOnly = false;
+      chips.forEach((x, i) => { x.classList.toggle("is-on", i === 0); x.setAttribute("aria-pressed", String(i === 0)); });
+      followBtn.dataset.on = "false"; followBtn.classList.remove("is-on"); followBtn.setAttribute("aria-pressed", "false");
+      apply();
+    });
+    // Re-apply when the watchlist changes in another tab/component.
+    window.addEventListener("watchlist:change", () => { if (followOnly) apply(); });
+  })();
+</script>
+
+<style>
+  .m-controls {
+    display: flex; flex-wrap: wrap; gap: 0.7rem 0.9rem; align-items: center;
+    margin: 1.2rem 0 0.2rem;
+  }
+  .m-search {
+    flex: 1; min-width: 200px; font: inherit; font-size: 0.92rem;
+    padding: 0.55rem 0.85rem; border-radius: var(--radius-sm);
+    background: var(--surface-2); color: var(--fg); border: 1px solid var(--border-strong);
+  }
+  .m-search::placeholder { color: var(--muted-2); }
+  .m-search:focus-visible { outline: 2px solid var(--accent-line); outline-offset: 1px; }
+  .m-chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+  .m-right { display: flex; align-items: center; gap: 0.7rem; margin-left: auto; }
+  .chip {
+    font: inherit; cursor: pointer; display: inline-flex; align-items: center; gap: 0.3rem;
+    min-height: 38px; padding: 0.3rem 0.8rem; border-radius: var(--radius-sm);
+    border: 1px solid var(--border-strong); background: var(--surface-2); color: var(--muted);
+    font-size: 0.8rem; font-weight: 600;
+    transition: color 0.15s, background 0.15s, border-color 0.15s;
+  }
+  .chip:hover { color: var(--fg); }
+  .chip.is-on {
+    color: #03210f; border-color: transparent;
+    background: linear-gradient(140deg, var(--accent), var(--accent-2));
+  }
+  .chip.follow[aria-pressed="false"] { color: var(--warn); border-color: rgba(255,181,36,0.4); }
+  .m-sort { font-size: 0.82rem; color: var(--muted); display: inline-flex; align-items: center; gap: 0.5rem; }
+  .m-sort select {
+    font: inherit; font-size: 0.85rem; background: var(--surface-2); color: var(--fg);
+    border: 1px solid var(--border-strong); border-radius: var(--radius-sm); padding: 0.35rem 0.6rem;
+  }
+  .linkbtn { background: none; border: none; color: var(--link); cursor: pointer; font: inherit; padding: 0; text-decoration: underline; }
+  [hidden] { display: none !important; }
+</style>

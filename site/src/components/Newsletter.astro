@@ -1,0 +1,75 @@
+---
+// Newsletter signup. Point NEWSLETTER_ACTION at your email provider's embed
+// endpoint (Buttondown / Substack / Mailchimp) to make it live; until then it's a
+// stub and the RSS feed (/feed.xml) is the working channel. No backend required.
+const NEWSLETTER_ACTION = ""; // e.g. "https://buttondown.email/api/emails/embed-subscribe/soccer26"
+const configured = NEWSLETTER_ACTION.length > 0;
+---
+<section class="nl panel">
+  <div class="nl-glow" aria-hidden="true"></div>
+  <p class="eyebrow">Follow the model</p>
+  <h2 class="nl-title">Get new value edges by email</h2>
+  <p class="subtle nl-sub">
+    A digest of the model's biggest edges vs the de-vigged market, plus tagged team
+    news — straight to your inbox. No spam, unsubscribe anytime. Analysis, not tips.
+  </p>
+
+  {configured ? (
+    <>
+      <form class="nl-form" action={NEWSLETTER_ACTION} method="post" target="_blank" rel="noopener">
+        <input type="email" name="email" class="nl-input" placeholder="you@example.com"
+               autocomplete="email" aria-label="Email address" required />
+        <button type="submit" class="nl-btn">Subscribe</button>
+      </form>
+      <p class="nl-foot">Prefer a reader? <a href="/feed.xml">RSS feed</a> available too.</p>
+    </>
+  ) : (
+    <>
+      <a class="nl-btn nl-rss-cta" href="/feed.xml">
+        <span aria-hidden="true">●</span> Follow new edges via RSS
+      </a>
+      <p class="nl-foot">Works in any reader — new edges &amp; news land automatically. Email digest coming soon.</p>
+    </>
+  )}
+</section>
+
+<style>
+  .nl {
+    position: relative; overflow: hidden;
+    background: linear-gradient(180deg, var(--surface-2), var(--surface));
+    border: 1px solid var(--accent-line);
+  }
+  .nl-glow {
+    position: absolute; inset: -60% -10% auto -10%; height: 220px;
+    background: radial-gradient(60% 100% at 50% 0%, rgba(47,182,114,0.08), transparent 70%);
+    pointer-events: none;
+  }
+  .nl-title { margin: 0.2rem 0 0.3rem; }
+  .nl-sub { max-width: 60ch; margin: 0 0 1rem; }
+
+  .nl-form { display: flex; flex-wrap: wrap; gap: 0.6rem; max-width: 480px; }
+  .nl-input {
+    flex: 1; min-width: 220px;
+    font: inherit; font-size: 0.95rem;
+    padding: 0.65rem 0.85rem; border-radius: var(--radius-sm);
+    background: var(--bg-2); color: var(--fg);
+    border: 1px solid var(--border-strong);
+  }
+  .nl-input::placeholder { color: var(--muted-2); }
+  .nl-input:focus-visible { outline: 2px solid var(--accent-line); outline-offset: 1px; }
+  .nl-input:disabled { opacity: 0.7; }
+  .nl-btn {
+    font: inherit; font-weight: 700; cursor: pointer;
+    padding: 0.65rem 1.3rem; border-radius: var(--radius-sm); border: none;
+    color: #03210f; background: linear-gradient(140deg, var(--accent), var(--accent-2));
+    transition: filter 0.15s ease, opacity 0.15s ease;
+  }
+  .nl-btn:hover { filter: brightness(1.05); }
+  .nl-btn:disabled { cursor: not-allowed; opacity: 0.55; filter: grayscale(0.3); }
+  .nl-rss-cta { display: inline-flex; align-items: center; gap: 0.45rem; text-decoration: none; }
+  .nl-rss-cta:hover { text-decoration: none; }
+
+  .nl-foot { margin: 0.85rem 0 0; font-size: 0.88rem; color: var(--muted); }
+  .nl-foot b { color: var(--fg); }
+  .nl-foot a { font-weight: 600; }
+</style>

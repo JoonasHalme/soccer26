@@ -1,0 +1,297 @@
+---
+import Base from "../layouts/Base.astro";
+import { loadPredictions, loadLedger } from "../lib/data";
+
+const { predictions, generated_at } = loadPredictions();
+const ledger = loadLedger();
+const latest = ledger.length ? ledger[ledger.length - 1] : null;
+const recent = [...ledger].reverse().slice(0, 8);
+
+const fmtTime = (iso?: string | null) =>
+  iso ? new Date(iso).toLocaleString("en-GB", {
+    day: "numeric", month: "short", year: "numeric", hour: "2-digit", minute: "2-digit", hour12: false,
+  }) + " UTC" : "—";
+
+const title = "Methodology — how the model works & how it's audited | Soccer 26";
+const description = "How Soccer 26's World Cup 2026 model works (Elo + Poisson, Dixon-Coles, calibrated constants), how it finds value vs the de-vigged market, how every pick is graded by CLV, and the tamper-evident SHA-256 prediction ledger.";
+
+const GLOSSARY: { term: string; def: string }[] = [
+  { term: "Elo rating", def: "A single strength number per team, updated after every match by the gap between expected and actual result. Higher = stronger." },
+  { term: "Poisson / scoreline matrix", def: "Goals are modelled as a Poisson process from each side's expected goals, giving a probability for every exact scoreline — which is summed into 1X2, Over/Under and BTTS." },
+  { term: "Dixon-Coles", def: "A correction to the independent-Poisson matrix that fixes the well-known under-counting of 0-0/1-0/0-1/1-1 results in low-scoring games." },
+  { term: "De-vig (fair price)", def: "Bookmaker odds include a margin (the 'vig'/overround). De-vigging normalises a market's implied probabilities back to sum to 1 so the model is compared against the market's true opinion, not its margin. We use the power method (one fitted exponent), which corrects the favourite-longshot bias better than splitting the margin proportionally." },
+  { term: "Edge", def: "Our published call minus the de-vigged market probability for the same outcome. A positive edge means we disagree with the market in your favour — not a guarantee of profit." },
+  { term: "Our call (market blend)", def: "The probability we publish: the raw Elo+Poisson model pulled toward the de-vigged market on the markets the books price (1X2, Over/Under). The pull is confidence-weighted — the more the model disagrees with the market, the less it's trusted, because the model is mis-scaled across confederations and a big disagreement is usually its error, not value. Knockout rounds have no odds, so they stay pure model." },
+  { term: "EV (expected value)", def: "Expected return per unit staked at the best available price. Long prices inflate EV, so it's read alongside the Kelly stake, not on its own." },
+  { term: "Kelly stake", def: "A bankroll-aware bet size proportional to the edge and the odds. We use a fractional (¼) Kelly, capped, to stay conservative on an uncertain edge." },
+  { term: "CLV (closing-line value)", def: "How your taken price compares to the de-vigged closing line — the sharpest the market gets. On a small sample, consistent positive CLV is the strongest evidence of real skill." },
+  { term: "Calibration / ECE", def: "Whether stated probabilities match reality (of all '60%' calls, ~60% should happen). ECE is the average gap; lower is better." },
+];
+---
+<Base title={title} description={description}>
+  <section class="mx-hero">
+    <p class="eyebrow">Transparency · How this works</p>
+    <h1>Methodology</h1>
+    <p class="subtle" style="max-width: 68ch; margin: 0.5rem 0 0;">
+      Everything here is meant to be checkable. Below: how the model turns team
+      strength into match probabilities, how it decides something is a value edge,
+      how every pick is graded honestly against the closing line, and the
+      tamper-evident ledger that timestamps each prediction set. The honest summary
+      up front — the model is <b>well-calibrated and beats a naive baseline, but
+      "beats the market" is not yet proven</b>. That's exactly what the public CLV
+      record is being built to test.
+    </p>
+  </section>
+
+  <section class="mx-section">
+    <div class="section-head"><h2>How the model works</h2><span class="rule"></span></div>
+    <div class="mx-grid">
+      <div class="panel mx-card">
+        <span class="mx-step">1</span>
+        <h3>Team strength (Elo)</h3>
+        <p>Each team carries an <b>Elo rating</b> trained on thousands of historical
+        internationals. Wins against strong teams move it more than wins against weak
+        ones; home advantage and venue/host context adjust it per match.</p>
+      </div>
+      <div class="panel mx-card">
+        <span class="mx-step">2</span>
+        <h3>Scoreline matrix (Poisson + Dixon-Coles)</h3>
+        <p>The rating gap becomes each side's <b>expected goals</b>, and a Poisson
+        model gives a probability for every exact scoreline, with a
+        <b>Dixon-Coles</b> correction for low-scoring results.</p>
+      </div>
+      <div class="panel mx-card">
+        <span class="mx-step">3</span>
+        <h3>Markets &amp; calibration</h3>
+        <p>The matrix is summed into 1X2, Over/Under 2.5 and BTTS probabilities.
+        Five model constants are <b>fitted by minimising out-of-sample log-loss</b>,
+        then checked on data the fit never saw — see the
+        <a href="/calibration">calibration report</a>.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="mx-section">
+    <div class="section-head"><h2>Finding value</h2><span class="count">model vs market</span><span class="rule"></span></div>
+    <div class="panel mx-prose">
+      <p>For each market we <b>de-vig</b> the bookmaker prices to fair probabilities,
+      then compute <b>edge = our call − fair</b>. A positive edge means a genuine
+      disagreement, not a sure thing. We de-vig with the <b>power method</b> (fit one
+      exponent so the book's implied probabilities sum to 1) rather than splitting the
+      margin proportionally — the proportional shortcut overstates longshots and
+      understates favourites, the well-known favourite-longshot bias, so the power
+      baseline is closer to realised frequencies. Edges are priced against the <b>best
+      available book</b> (line-shopping is worth real EV), shown with their expected
+      value, and sized with a capped <b>fractional-Kelly</b> stake — the honest signal,
+      since raw EV flatters longshots. See them all on the <a href="/edges">edges page</a>.</p>
+      <p><b>Why "our call", not the raw model.</b> Plain Elo is poorly anchored
+      <em>between</em> confederations that rarely play each other — left alone it rates
+      Germany below Iran and Morocco second in the world. We fix that at the source:
+      a <b>per-confederation anchoring</b> step fits one Elo offset per confederation to the
+      de-vigged market (UEFA up, CONCACAF/AFC/CAF down, mean-zero overall), which roughly
+      halves the model's disagreement with the market and — crucially — also corrects the
+      knockout/outright simulations. On top of that, because no model can fully see squad
+      quality, we publish a <b>confidence-weighted market blend</b>: where odds exist, the
+      anchored model's 1X2 and Over/Under probabilities are pulled toward the de-vigged
+      market, and the further they stray the <em>less</em> the model is trusted (a big
+      disagreement with a sharp 29-book consensus is more often model error than value).
+      Edges are measured from that blend, so a structural error no longer masquerades as
+      value. Each match's <b>Model vs market</b> panel shows the (anchored) model, the
+      market, and the blended call side by side; the <a href="/divergence">divergence
+      tracker</a> ranks the residual gaps.</p>
+    </div>
+  </section>
+
+  <section class="mx-section">
+    <div class="section-head"><h2>Grading honestly</h2><span class="count">the part that matters</span><span class="rule"></span></div>
+    <div class="panel mx-prose">
+      <p>Beating base rates is not the same as beating the market. Every logged bet is
+      settled against the result and scored for <b>closing-line value</b> — the taken
+      price vs the de-vigged closing line. The <a href="/bets">track record</a> shows
+      P/L, ROI and average CLV (with a confidence interval, because the sample is
+      small and the CI is the honest part of the claim). Until that record exists,
+      nothing here should be read as a proven market edge.</p>
+    </div>
+  </section>
+
+  <section class="mx-section" id="ledger">
+    <div class="section-head"><h2>Tamper-evident predictions</h2><span class="count">SHA-256 ledger</span><span class="rule"></span></div>
+    <div class="panel mx-ledger">
+      <p class="mx-led-intro">
+        Every prediction run writes a SHA-256 hash of the exact
+        <code>predictions.json</code> bytes into an <b>append-only, hash-chained ledger</b>:
+        each entry also records the hash of the entry before it, so altering one historical
+        line breaks every line after it. You can <b>check the current numbers yourself</b> —
+        re-hash the live file and it must match the latest line below (and the sidecar). And
+        because the chain links every set, a past prediction can't be silently rewritten
+        without the chain failing to verify.
+      </p>
+      <p class="mx-led-honest">
+        <b>What this does and doesn't prove.</b> It lets anyone confirm the published file
+        matches its recorded hash, and that the history hasn't been edited after the fact. It
+        is <em>self-published</em>, though — the ledger lives in this repo, so the strongest
+        possible proof (that the whole chain wasn't regenerated at once) would need an
+        <em>external</em> anchor — committing each hash to a public, append-only place we
+        can't rewrite (e.g. a public git remote or a timestamping service). That external
+        anchoring is on the roadmap; until then, treat this as a self-auditable record, not a
+        third-party-notarised one.
+      </p>
+
+      {latest ? (
+        <>
+          <div class="mx-led-latest">
+            <div class="led-stat">
+              <span class="led-lab">Latest prediction set</span>
+              <span class="led-val">{fmtTime(latest.generated_at)}</span>
+            </div>
+            <div class="led-stat">
+              <span class="led-lab">Predictions</span>
+              <span class="led-val">{latest.n_predictions}</span>
+            </div>
+            <div class="led-stat led-hash">
+              <span class="led-lab">SHA-256 of predictions.json</span>
+              <code class="led-digest" title={latest.sha256}>{latest.sha256}</code>
+            </div>
+          </div>
+
+          <details class="mx-verify">
+            <summary>How to verify it yourself</summary>
+            <ol>
+              <li>Download the live file: <code>/data/predictions.json</code></li>
+              <li>Hash it — macOS/Linux: <code>shasum -a 256 predictions.json</code>; Windows PowerShell: <code>Get-FileHash predictions.json</code></li>
+              <li>It must equal the SHA-256 above (and the sidecar <code>/data/predictions.hash.json</code>).</li>
+              <li>To check the whole history, fetch <code>/data/predictions_ledger.json</code>: each entry's <code>prev</code> must equal the SHA-256 of the previous entry (sorted-keys JSON); the first is all-zeros.</li>
+            </ol>
+          </details>
+
+          {ledger.length > 1 && (
+            <div class="table-wrap mx-led-table">
+              <table>
+                <thead><tr><th>Generated (UTC)</th><th class="num">Picks</th><th>SHA-256</th></tr></thead>
+                <tbody>
+                  {recent.map((e) => (
+                    <tr>
+                      <td>{fmtTime(e.generated_at)}</td>
+                      <td class="num">{e.n_predictions}</td>
+                      <td><code class="led-short" title={e.sha256}>{e.sha256.slice(0, 16)}…</code></td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+              {ledger.length > recent.length && (
+                <p class="meta" style="margin:0.6rem 0 0;">Showing the {recent.length} most recent of {ledger.length} recorded prediction sets.</p>
+              )}
+            </div>
+          )}
+        </>
+      ) : (
+        <p class="subtle" style="margin:0">
+          No ledger entries yet — run <code>python model/predict.py</code> to record the
+          first tamper-evident prediction set.
+        </p>
+      )}
+    </div>
+  </section>
+
+  <section class="mx-section">
+    <div class="section-head"><h2>Glossary</h2><span class="count">the jargon, plainly</span><span class="rule"></span></div>
+    <dl class="mx-glossary">
+      {GLOSSARY.map((g) => (
+        <div class="mx-term panel">
+          <dt>{g.term}</dt>
+          <dd>{g.def}</dd>
+        </div>
+      ))}
+    </dl>
+  </section>
+
+  <section class="mx-section">
+    <div class="section-head"><h2>Honest limitations</h2><span class="rule"></span></div>
+    <div class="panel mx-prose">
+      <ul class="mx-limits">
+        <li><b>Small sample.</b> 104 World Cup matches can't establish a market edge on their own — the CLV record is the test, and it's only just starting.</li>
+        <li><b>Minor-nation uncertainty.</b> Ratings for teams with few recent internationals rest on thin data; those predictions are less certain than the single number suggests.</li>
+        <li><b>Not advice.</b> Edges are estimates and can be wrong. This is analysis for interest, not betting or financial advice.</li>
+      </ul>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .mx-hero {
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--border);
+    background:
+      radial-gradient(120% 140% at 0% 0%, rgba(61,215,255,0.12), transparent 52%),
+      radial-gradient(120% 140% at 100% 0%, rgba(47,182,114,0.09), transparent 50%),
+      linear-gradient(180deg, var(--surface-2), var(--surface));
+    padding: 1.7rem 1.9rem;
+    box-shadow: var(--shadow-lg);
+  }
+  .mx-hero h1 { margin: 0.3rem 0 0; }
+  .mx-hero b { color: var(--fg); }
+
+  .mx-section { margin-top: 2.1rem; }
+
+  .mx-grid { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
+  .mx-card { position: relative; padding: 1.2rem 1.2rem 1rem; }
+  .mx-card h3 { margin: 0.5rem 0 0.4rem; font-size: 1.02rem; }
+  .mx-card p { margin: 0; color: var(--muted); font-size: 0.92rem; line-height: 1.6; }
+  .mx-card b { color: var(--fg); font-weight: 600; }
+  .mx-step {
+    display: grid; place-items: center; width: 1.7rem; height: 1.7rem;
+    border-radius: 8px; font-family: var(--font-display); font-weight: 800; font-size: 0.9rem;
+    color: #03210f; background: linear-gradient(140deg, var(--accent), var(--accent-2));
+  }
+
+  .mx-prose { line-height: 1.65; }
+  .mx-prose p { margin: 0; color: var(--muted); }
+  .mx-prose b { color: var(--fg); font-weight: 600; }
+
+  .mx-ledger { display: flex; flex-direction: column; gap: 1.1rem; }
+  .mx-led-intro { margin: 0; color: var(--muted); line-height: 1.65; }
+  .mx-led-intro b { color: var(--fg); }
+  .mx-led-honest {
+    margin: 0; padding: 0.85rem 1rem; line-height: 1.6; font-size: 0.9rem;
+    color: var(--muted); border-left: 3px solid var(--border-strong);
+    background: var(--surface); border-radius: var(--radius-sm);
+  }
+  .mx-led-honest b { color: var(--fg); }
+  .mx-led-honest em { color: var(--fg); font-style: normal; font-weight: 600; }
+  .mx-led-latest {
+    display: flex; flex-wrap: wrap; gap: 1rem 2rem; align-items: flex-start;
+    padding: 1rem 1.1rem; border-radius: var(--radius-sm);
+    border: 1px solid var(--accent-line); background: var(--accent-soft);
+  }
+  .led-stat { display: flex; flex-direction: column; gap: 0.2rem; min-width: 0; }
+  .led-stat.led-hash { flex: 1; min-width: 240px; }
+  .led-lab { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 700; color: var(--muted-2); }
+  .led-val { font-family: var(--font-mono); font-weight: 600; font-size: 1rem; color: var(--fg); font-variant-numeric: tabular-nums slashed-zero; }
+  .led-digest {
+    font-size: 0.78rem; word-break: break-all; line-height: 1.4;
+    color: var(--accent); background: rgba(10,12,20,0.5); border-color: var(--accent-line);
+  }
+
+  .mx-verify { font-size: 0.9rem; }
+  .mx-verify summary { cursor: pointer; font-weight: 600; color: var(--link); }
+  .mx-verify ol { margin: 0.7rem 0 0; padding-left: 1.2rem; color: var(--muted); line-height: 1.7; }
+
+  .mx-led-table table { width: 100%; border-collapse: collapse; font-size: 0.88rem; }
+  .mx-led-table th, .mx-led-table td { text-align: left; padding: 0.55rem 0.8rem; border-bottom: 1px solid var(--border-soft); white-space: nowrap; }
+  .mx-led-table thead th { color: var(--muted-2); font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.05em; }
+  .mx-led-table tbody tr:last-child td { border-bottom: none; }
+  .mx-led-table .num { text-align: right; }
+  .led-short { font-size: 0.78rem; color: var(--muted); }
+
+  .mx-glossary { display: grid; gap: 0.7rem; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); margin: 0; }
+  .mx-term { padding: 0.9rem 1rem; }
+  .mx-term dt { font-family: var(--font-display); font-weight: 700; color: var(--fg); margin-bottom: 0.2rem; }
+  .mx-term dd { margin: 0; color: var(--muted); font-size: 0.9rem; line-height: 1.55; }
+
+  .mx-limits { margin: 0; padding-left: 1.2rem; color: var(--muted); line-height: 1.7; }
+  .mx-limits b { color: var(--fg); font-weight: 600; }
+
+  @media (max-width: 720px) {
+    .mx-hero { padding: 1.3rem 1.2rem; }
+  }
+</style>

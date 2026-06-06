@@ -1,0 +1,115 @@
+---
+import Base from "../layouts/Base.astro";
+
+const title = "Policy & disclosures | Soccer 26";
+const description = "Soccer 26's disclosures: no affiliate or sportsbook relationships, not betting advice, responsible-gambling resources, data sources & attribution, and a privacy note (no accounts, no tracking).";
+const updated = "6 June 2026";
+---
+<Base title={title} description={description}>
+  <section class="pol-hero">
+    <p class="eyebrow">Transparency · The fine print</p>
+    <h1>Policy &amp; disclosures</h1>
+    <p class="subtle" style="max-width:68ch;margin:0.5rem 0 0;">
+      What this site is, what it isn't, where the data comes from, and how it treats your
+      privacy. Plain language, no surprises. <span class="pol-upd">Last updated {updated}.</span>
+    </p>
+  </section>
+
+  <section class="mx-section">
+    <div class="section-head"><h2>No affiliate or sportsbook relationship</h2><span class="rule"></span></div>
+    <div class="panel pol-prose">
+      <p>Soccer 26 has <b>no affiliate, referral, advertising, or commercial relationship</b>
+      with any sportsbook, betting operator, or data reseller. We are not paid if you sign up
+      anywhere or place a bet, and there are no tracked outbound betting links. Bookmaker odds
+      are displayed <b>solely for comparison and analysis</b> — to measure the model against the
+      market and to compute closing-line value. If that ever changes, it will be disclosed here
+      and on every page it affects, before the fact.</p>
+    </div>
+  </section>
+
+  <section class="mx-section">
+    <div class="section-head"><h2>Not betting or financial advice</h2><span class="rule"></span></div>
+    <div class="panel pol-prose">
+      <p>Everything here is a <b>statistical estimate for interest and education</b>. Model
+      probabilities and "edges" are uncertain and frequently wrong; a positive edge is a
+      disagreement with the market, not a tip and not a guarantee of profit. Nothing on this site
+      is betting, investment, tax, or financial advice, and it is not personalised to you. Any
+      decisions you make are your own.</p>
+    </div>
+  </section>
+
+  <section class="mx-section">
+    <div class="section-head"><h2>Eligibility &amp; jurisdiction</h2><span class="rule"></span></div>
+    <div class="panel pol-prose">
+      <p>Gambling laws differ by country and region, and many places restrict or prohibit it.
+      This is an <b>18+ (or your local legal age)</b> analysis project; it does not target,
+      solicit, or knowingly accept users from any jurisdiction where viewing or acting on this
+      content is unlawful. <b>It is your responsibility</b> to know and follow the laws that
+      apply to you. Gamble only where it is legal, only what you can afford to lose.</p>
+    </div>
+  </section>
+
+  <section class="mx-section">
+    <div class="section-head"><h2>Responsible gambling</h2><span class="count">help is free</span><span class="rule"></span></div>
+    <div class="panel pol-prose">
+      <p>Betting should be entertainment, never a way to make money or recover losses. Set time
+      and money limits, never chase, and stop if it stops being fun. If gambling is affecting you
+      or someone you know, free, confidential help is available:</p>
+      <ul class="pol-links">
+        <li><a href="https://www.begambleaware.org" rel="noopener noreferrer" target="_blank">BeGambleAware</a> — advice and self-assessment (UK)</li>
+        <li><a href="https://www.gamcare.org.uk" rel="noopener noreferrer" target="_blank">GamCare</a> — support and the National Gambling Helpline (UK)</li>
+        <li><a href="https://www.ncpgambling.org" rel="noopener noreferrer" target="_blank">NCPG</a> — 1-800-GAMBLER (US)</li>
+        <li><a href="https://www.gamblersanonymous.org" rel="noopener noreferrer" target="_blank">Gamblers Anonymous</a> — peer support</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="mx-section">
+    <div class="section-head"><h2>Data sources &amp; attribution</h2><span class="rule"></span></div>
+    <div class="panel pol-prose">
+      <ul class="pol-srcs">
+        <li><b>Match odds</b> — <a href="https://the-odds-api.com" rel="noopener noreferrer" target="_blank">The Odds API</a> (consensus &amp; per-book prices for the de-vig, edges, and CLV).</li>
+        <li><b>Historical results &amp; team ratings</b> — the public <a href="https://github.com/martj42/international_results" rel="noopener noreferrer" target="_blank">martj42 international football results</a> dataset, which trains the Elo ratings.</li>
+        <li><b>Team news</b> — public RSS from BBC Sport, The Guardian, and ESPN, shown as headline links back to the source.</li>
+        <li><b>Fixtures &amp; venues</b> — the official FIFA World Cup 2026 schedule.</li>
+      </ul>
+      <p class="subtle" style="margin:0.6rem 0 0;">All trademarks and content belong to their
+      owners; sources are linked rather than reproduced. How the numbers are produced and audited
+      is detailed on the <a href="/methodology">methodology page</a>.</p>
+    </div>
+  </section>
+
+  <section class="mx-section">
+    <div class="section-head"><h2>Privacy</h2><span class="count">no accounts, no tracking</span><span class="rule"></span></div>
+    <div class="panel pol-prose">
+      <p>This is a static site with <b>no accounts, no logins, and no analytics or advertising
+      trackers</b>. It collects no personal information. Features like your <b>watchlist</b> and
+      <b>"Beat the Model" picks</b> are stored only in your own browser's <code>localStorage</code>
+      — they never leave your device and are not sent anywhere. The newsletter (when enabled) is
+      the only opt-in that would involve a third-party provider, and only with an email you give
+      deliberately.</p>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .pol-hero {
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--border);
+    background:
+      radial-gradient(120% 140% at 0% 0%, rgba(157,123,255,0.12), transparent 52%),
+      linear-gradient(180deg, var(--surface-2), var(--surface));
+    padding: 1.7rem 1.9rem;
+    box-shadow: var(--shadow-lg);
+  }
+  .pol-hero h1 { margin: 0.3rem 0 0; }
+  .pol-upd { color: var(--muted-2); }
+  .mx-section { margin-top: 2rem; }
+  .pol-prose { line-height: 1.65; }
+  .pol-prose p { margin: 0; color: var(--muted); }
+  .pol-prose b { color: var(--fg); font-weight: 600; }
+  .pol-prose code { font-size: 0.86em; }
+  .pol-links, .pol-srcs { margin: 0.7rem 0 0; padding-left: 1.2rem; color: var(--muted); line-height: 1.8; }
+  .pol-srcs b { color: var(--fg); font-weight: 600; }
+  @media (max-width: 720px) { .pol-hero { padding: 1.3rem 1.2rem; } }
+</style>

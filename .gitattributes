@@ -1,0 +1,8 @@
+# Normalise text to LF in the repo; check out LF for the generated JSON the pipeline
+# writes, so a Windows checkout can't rewrite line endings.
+* text=auto
+*.json text eol=lf
+
+# The hash-verified prediction artifact: treat as bytes, NEVER convert — so the
+# SHA-256 ledger ("re-hash the live file and it must match") verifies on any OS.
+site/public/data/predictions.json -text

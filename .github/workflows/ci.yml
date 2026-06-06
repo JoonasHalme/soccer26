@@ -1,0 +1,35 @@
+name: ci
+
+# Quality gate on every push / PR — mirrors scripts/check.ps1 on Linux:
+# Python model + pipeline tests, then the JS/TS suite, then the Astro build.
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install Python deps
+        run: pip install -r model/requirements.txt
+      - name: pytest (model + pipeline)
+        run: python -m pytest tests/ -q
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+      - name: Install site deps
+        run: npm --prefix site ci
+      - name: vitest (site/src/lib)
+        run: npm --prefix site run test
+      - name: astro build
+        env:
+          SITE_URL: https://soccer26.pages.dev
+        run: npm --prefix site run build

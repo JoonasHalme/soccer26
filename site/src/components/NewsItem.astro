@@ -1,0 +1,99 @@
+---
+import { newsAge, type NewsItem } from "../lib/data";
+
+interface Props {
+  item: NewsItem;
+  /** Restrict the team chips to these teams (e.g. the two teams on a match page). */
+  highlightTeams?: string[];
+}
+const { item, highlightTeams } = Astro.props;
+
+// Show all matched teams on the dashboard; on a match page only the relevant ones.
+const chips = highlightTeams
+  ? item.teams.filter((t) => highlightTeams.includes(t))
+  : item.teams;
+const age = newsAge(item.published_at);
+// Defence-in-depth: only ever emit an http(s) href. Feed URLs are third-party;
+// a javascript:/data: scheme would be a one-click XSS even though Astro escapes
+// the value. (Ingestion also rejects these in fetch_news._norm_url.)
+const safeUrl = /^https?:\/\//i.test(item.url) ? item.url : "#";
+---
+<a class="news-item" href={safeUrl} target="_blank" rel="noopener noreferrer">
+  <div class="ni-head">
+    <span class="ni-source">{item.source}</span>
+    {item.is_injury_related && <span class="ni-tag">team news</span>}
+    <span class="ni-spacer"></span>
+    {age && <time class="ni-age">{age}</time>}
+  </div>
+  <div class="ni-title">{item.title}</div>
+  {chips.length > 0 && (
+    <div class="ni-teams">
+      {chips.map((t) => <span class="ni-chip">{t}</span>)}
+    </div>
+  )}
+</a>
+
+<style>
+  .news-item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    padding: 0.85rem 0.95rem;
+    border-radius: var(--radius-sm);
+    border: 1px solid var(--border-soft);
+    background: var(--surface);
+    color: var(--fg);
+    text-decoration: none;
+    transition: border-color 0.16s ease, transform 0.16s ease, background 0.16s ease;
+  }
+  .news-item:hover {
+    text-decoration: none;
+    border-color: var(--border-strong);
+    background: var(--surface-2);
+    transform: translateY(-2px);
+  }
+  .ni-head {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.72rem;
+  }
+  .ni-source {
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-weight: 700;
+    color: var(--muted);
+  }
+  .ni-tag {
+    padding: 0.05rem 0.4rem;
+    border-radius: var(--radius-sm);
+    font-size: 0.64rem;
+    font-weight: 700;
+    color: var(--warn);
+    background: var(--warn-soft);
+    border: 1px solid rgba(255, 181, 36, 0.35);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .ni-spacer { flex: 1; }
+  .ni-age { color: var(--muted-2); font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .ni-title {
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: 0.95rem;
+    line-height: 1.3;
+    letter-spacing: -0.01em;
+    color: var(--fg);
+  }
+  .news-item:hover .ni-title { color: var(--accent); }
+  .ni-teams { display: flex; flex-wrap: wrap; gap: 0.3rem; }
+  .ni-chip {
+    font-size: 0.68rem;
+    font-weight: 700;
+    color: var(--cyan);
+    background: var(--cyan-soft);
+    border: 1px solid rgba(61, 215, 255, 0.3);
+    border-radius: var(--radius-sm);
+    padding: 0.08rem 0.5rem;
+  }
+</style>

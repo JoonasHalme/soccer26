@@ -1,0 +1,40 @@
+---
+// Shared page hero — consolidates the per-page hero panels that had drifted
+// (different paddings/gradients across index/groups/bracket/outrights/team). Pass
+// the subtitle + any chips as default-slot content. `tint` picks the accent wash.
+interface Props {
+  eyebrow?: string;
+  title: string;
+  tint?: "green" | "cyan" | "gold" | "violet";
+}
+const { eyebrow, title, tint = "green" } = Astro.props;
+---
+<section class={`pagehero tint-${tint}`}>
+  {eyebrow && <p class="eyebrow">{eyebrow}</p>}
+  <h1 class="ph-title">{title}</h1>
+  <slot />
+</section>
+
+<style>
+  .pagehero {
+    position: relative; overflow: hidden;
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--border);
+    background: linear-gradient(180deg, var(--surface-2), var(--surface));
+    padding: 1.7rem 1.9rem;
+    box-shadow: var(--shadow-lg);
+  }
+  .pagehero::before {
+    content: ""; position: absolute; inset: 0; pointer-events: none;
+    background:
+      radial-gradient(120% 130% at 0% 0%, var(--ph-tint, rgba(47,182,114,0.09)), transparent 55%);
+  }
+  .pagehero > * { position: relative; }
+  .tint-green  { --ph-tint: rgba(47,182,114,0.10); }
+  .tint-cyan   { --ph-tint: rgba(61,215,255,0.10); }
+  .tint-gold   { --ph-tint: rgba(240,194,58,0.12); }
+  .tint-violet { --ph-tint: rgba(157,123,255,0.12); }
+  .ph-title { margin: 0.3rem 0 0; }
+
+  @media (max-width: 720px) { .pagehero { padding: 1.3rem 1.2rem; } }
+</style>

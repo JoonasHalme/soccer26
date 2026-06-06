@@ -1,0 +1,68 @@
+---
+// A small inline jargon tooltip: a dotted-underlined term that reveals a plain
+// definition on hover OR keyboard focus. The wrapper carries an aria-label so
+// screen readers announce "term: definition"; the visual bubble is aria-hidden
+// to avoid double-reading. Full glossary lives on /methodology.
+interface Props {
+  term: string;
+  def: string;
+  /** Render the label as-is (e.g. an abbreviation like "EV") without the dotted cue width tweak. */
+  short?: boolean;
+}
+const { term, def, short = false } = Astro.props;
+---
+<span class={`tip ${short ? "is-short" : ""}`} tabindex="0" role="note" aria-label={`${term}: ${def}`}>
+  <span class="tip-term">{term}</span>
+  <span class="tip-bubble" role="tooltip" aria-hidden="true">{def}</span>
+</span>
+
+<style>
+  .tip {
+    position: relative;
+    cursor: help;
+    border-bottom: 1px dotted var(--muted-2);
+    outline: none;
+  }
+  .tip-term { white-space: nowrap; }
+  .tip:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; border-radius: 3px; }
+
+  .tip-bubble {
+    position: absolute;
+    bottom: calc(100% + 8px);
+    left: 50%;
+    transform: translateX(-50%) translateY(4px);
+    z-index: 40;
+    width: max-content;
+    max-width: 260px;
+    padding: 0.5rem 0.65rem;
+    border-radius: var(--radius-sm);
+    border: 1px solid var(--border-strong);
+    background: var(--surface-3);
+    color: var(--fg);
+    font-size: 0.8rem;
+    font-weight: 400;
+    line-height: 1.45;
+    letter-spacing: normal;
+    text-transform: none;
+    text-align: left;
+    white-space: normal;
+    box-shadow: var(--shadow-md);
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transition: opacity 0.14s ease, transform 0.14s ease;
+  }
+  .tip-bubble::after {
+    content: "";
+    position: absolute; top: 100%; left: 50%; transform: translateX(-50%);
+    border: 5px solid transparent; border-top-color: var(--border-strong);
+  }
+  .tip:hover .tip-bubble,
+  .tip:focus-visible .tip-bubble {
+    opacity: 1; visibility: visible; transform: translateX(-50%) translateY(0);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .tip-bubble { transition: none; }
+  }
+</style>

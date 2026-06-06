@@ -1,0 +1,16 @@
+---
+interface Props {
+  stage: string;
+  group?: string;
+}
+const { stage, group } = Astro.props;
+const labels: Record<string, string> = {
+  GROUP: "Group", R32: "Round of 32", R16: "Round of 16",
+  QF: "Quarter-final", SF: "Semi-final", "3RD": "Third place", FINAL: "Final",
+};
+const text =
+  stage === "GROUP"
+    ? `Group ${group ?? ""}`.trim()
+    : labels[stage] ?? stage;
+---
+<span class={`stage-chip stage-${stage}`}>{text}</span>

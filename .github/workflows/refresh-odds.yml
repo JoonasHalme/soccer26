@@ -1,0 +1,54 @@
+name: refresh-odds
+
+# Job B — the credit-spending full refresh: pull fresh consensus + per-book odds,
+# re-anchor, re-predict, re-simulate, then commit (auto-deploys via Cloudflare).
+# fetch_odds.py spends Odds API credits on EVERY run, so this is MANUAL by design
+# (workflow_dispatch) — trigger it deliberately when you want fresh edges (e.g. once
+# or twice a day pre-matchday), not on a blind hourly cron. The hourly matchday-poll
+# workflow handles the quota-safe capture/results loop.
+
+on:
+  workflow_dispatch:
+    inputs:
+      markets:
+        description: "Odds markets to fetch"
+        default: "h2h,totals"
+
+permissions:
+  contents: write
+
+concurrency: refresh-odds
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r model/requirements.txt
+
+      - name: Fetch fresh odds (spends API credits)
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python model/fetch_odds.py --markets "${{ github.event.inputs.markets }}"
+
+      - name: Re-anchor + re-predict + re-simulate
+        run: |
+          python model/anchor.py
+          python model/predict.py
+          python model/simulate.py
+          python model/publish_live.py
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name  "soccer26-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add fixtures/fixtures.json site/public/data/*.json model/data/confederation_offsets.json
+          if git diff --cached --quiet; then
+            echo "No changes — nothing to commit."
+          else
+            git commit -m "data: odds refresh + re-predict $(date -u +%FT%TZ)"
+            git push
+          fi

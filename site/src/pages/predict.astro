@@ -1,0 +1,264 @@
+---
+import Base from "../layouts/Base.astro";
+import TeamFlag from "../components/TeamFlag.astro";
+import { loadFixtures, loadSimulation, computeStandings } from "../lib/data";
+
+const { matches, groups } = loadFixtures();
+const sim = loadSimulation();
+const standings = computeStandings(matches, groups);
+const letters = Object.keys(groups).sort();
+const byTeam = new Map(sim.teams.map((t) => [t.team, t]));
+
+// Model's pick per group = the team it most often wins the group (win_group).
+const modelGroupWinner = (l: string) => {
+  let best = groups[l][0], bp = -1;
+  for (const t of groups[l]) {
+    const w = byTeam.get(t)?.win_group ?? 0;
+    if (w > bp) { bp = w; best = t; }
+  }
+  return best;
+};
+// A group is decided once all 6 of its matches are played (sum of `played` = 12).
+const groupDecided = (l: string) => standings[l].reduce((s, r) => s + r.played, 0) >= 12;
+const actualGroupWinner = (l: string) => (groupDecided(l) ? standings[l][0].team : null);
+
+const groupRows = letters.map((l) => ({
+  letter: l,
+  teams: groups[l],
+  model: modelGroupWinner(l),
+  actual: actualGroupWinner(l),
+}));
+
+// Champion: model's pick = highest title probability; actual = winner of the Final.
+const championPick = sim.teams[0]?.team ?? null;
+const finalMatch = matches.find((m) => m.stage === "FINAL");
+const actualChampion = (() => {
+  const s = finalMatch?.score;
+  if (s && s.home != null && s.away != null && s.home !== s.away) {
+    return s.home > s.away ? finalMatch!.home : finalMatch!.away;
+  }
+  return null;
+})();
+// Champion dropdown options, strongest title odds first.
+const allTeams = sim.teams.map((t) => t.team);
+
+// Server-rendered model score (deterministic): 3 per correct group winner, 10 for champion.
+let modelScore = 0;
+for (const g of groupRows) if (g.actual && g.model === g.actual) modelScore += 3;
+if (actualChampion && championPick === actualChampion) modelScore += 10;
+const decidedGroups = groupRows.filter((g) => g.actual).length;
+const decidedCount = decidedGroups + (actualChampion ? 1 : 0);
+
+const title = "Beat the Model — World Cup 2026 prediction game | Soccer 26";
+const description = "Make your World Cup 2026 calls — group winners and the champion — and see if you can out-predict the transparent Elo+Poisson model as results land. Free to play, no stakes.";
+---
+<Base title={title} description={description}>
+  <section class="pr-hero">
+    <p class="eyebrow">Free to play · no stakes</p>
+    <h1>Beat the Model</h1>
+    <p class="subtle" style="max-width: 66ch; margin: 0.4rem 0 0;">
+      Pick each group winner and your World Cup 2026 champion, then watch how your
+      calls score against the model's as results come in. The model's picks are
+      locked and shown — can you out-forecast it? Picks are saved in your browser only.
+    </p>
+  </section>
+
+  <div class="pr-scoreboard panel">
+    <div class="pr-score">
+      <span class="pr-score-lab">You</span>
+      <span class="pr-score-val" id="pr-you">0</span>
+    </div>
+    <div class="pr-vs">vs</div>
+    <div class="pr-score">
+      <span class="pr-score-lab">Model</span>
+      <span class="pr-score-val model">{modelScore}</span>
+    </div>
+    <div class="pr-meta">
+      <span id="pr-decided">{decidedCount}</span> of 13 calls decided ·
+      3 pts per group winner, 10 for the champion
+      {decidedCount === 0 && <span class="pr-note"> · scoring begins once results land (11 Jun)</span>}
+    </div>
+    <button type="button" id="pr-reset" class="pr-reset">Reset picks</button>
+  </div>
+
+  <section class="pr-section">
+    <div class="section-head"><h2>Your champion</h2><span class="count">10 points</span><span class="rule"></span></div>
+    <div class="pr-champ-row" data-model={championPick ?? ""} data-actual={actualChampion ?? ""}>
+      <label class="pr-champ-pick">
+        <span class="pr-lab">Your pick</span>
+        <select id="pr-champion" class="pr-select" aria-label="Your champion pick">
+          <option value="">— choose a champion —</option>
+          {allTeams.map((t) => <option value={t}>{t}</option>)}
+        </select>
+      </label>
+      <div class="pr-champ-model">
+        <span class="pr-lab">Model's pick</span>
+        <span class="pr-modelteam">{championPick ? <><TeamFlag team={championPick} size={18} /> {championPick}</> : "—"}</span>
+      </div>
+      <div class="pr-champ-result">
+        <span class="pr-lab">Result</span>
+        <span class="pr-resultteam">{actualChampion ?? "TBD"}</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="pr-section">
+    <div class="section-head"><h2>Group winners</h2><span class="count">3 points each</span><span class="rule"></span></div>
+    <div class="pr-groups">
+      {groupRows.map((g) => (
+        <div class="pr-group" data-group={g.letter} data-model={g.model} data-actual={g.actual ?? ""}>
+          <div class="pr-group-head">
+            <span class="pr-group-letter">{g.letter}</span>
+            <span class="pr-group-status" data-status>{g.actual ? "Decided" : "Open"}</span>
+          </div>
+          <label class="pr-grouplabel">
+            <span class="pr-lab">Your pick</span>
+            <select class="pr-select pr-group-select" data-group-select={g.letter} aria-label={`Your Group ${g.letter} winner`}>
+              <option value="">— pick winner —</option>
+              {g.teams.map((t) => <option value={t}>{t}</option>)}
+            </select>
+          </label>
+          <div class="pr-group-foot">
+            <span class="pr-model-pick" title="The model's most-likely group winner">Model: <b>{g.model}</b></span>
+            {g.actual && <span class="pr-actual">Winner: <b>{g.actual}</b></span>}
+          </div>
+        </div>
+      ))}
+    </div>
+  </section>
+</Base>
+
+<script is:inline>
+  (function () {
+    const KEY = "soccer26:picks";
+    const read = () => { try { return JSON.parse(localStorage.getItem(KEY) || "{}"); } catch { return {}; } };
+    const write = (o) => localStorage.setItem(KEY, JSON.stringify(o));
+
+    const champSel = document.getElementById("pr-champion");
+    if (!champSel) return;
+    const groupSels = Array.from(document.querySelectorAll(".pr-group-select"));
+    const youEl = document.getElementById("pr-you");
+    const resetBtn = document.getElementById("pr-reset");
+
+    let picks = read();
+
+    function score() {
+      let you = 0;
+      // Champion (10 pts).
+      const champRow = document.querySelector(".pr-champ-row");
+      const cActual = champRow.dataset.actual;
+      const cPick = picks.champion || "";
+      if (cActual && cPick === cActual) you += 10;
+      markResult(champRow.querySelector(".pr-champ-pick"), cActual, cPick);
+      // Groups (3 pts each).
+      document.querySelectorAll(".pr-group").forEach((g) => {
+        const actual = g.dataset.actual;
+        const pick = (picks.groups && picks.groups[g.dataset.group]) || "";
+        if (actual && pick === actual) you += 3;
+        const status = g.querySelector("[data-status]");
+        if (actual) {
+          status.textContent = pick ? (pick === actual ? "You ✓" : "You ✗") : "Decided";
+          status.className = "pr-group-status " + (pick ? (pick === actual ? "ok" : "bad") : "");
+        }
+      });
+      youEl.textContent = String(you);
+    }
+    function markResult(el, actual, pick) {
+      if (!el) return;
+      el.classList.remove("ok", "bad");
+      if (actual && pick) el.classList.add(pick === actual ? "ok" : "bad");
+    }
+
+    // Restore saved picks into the controls.
+    if (picks.champion) champSel.value = picks.champion;
+    groupSels.forEach((s) => {
+      const v = picks.groups && picks.groups[s.dataset.groupSelect];
+      if (v) s.value = v;
+    });
+
+    champSel.addEventListener("change", () => {
+      picks.champion = champSel.value; write(picks); score();
+    });
+    groupSels.forEach((s) => s.addEventListener("change", () => {
+      picks.groups = picks.groups || {};
+      picks.groups[s.dataset.groupSelect] = s.value;
+      write(picks); score();
+    }));
+    resetBtn.addEventListener("click", () => {
+      picks = {}; write(picks);
+      champSel.value = "";
+      groupSels.forEach((s) => { s.value = ""; });
+      score();
+    });
+
+    score();
+  })();
+</script>
+
+<style>
+  .pr-hero {
+    border-radius: var(--radius-lg); border: 1px solid var(--border);
+    background:
+      radial-gradient(120% 140% at 0% 0%, rgba(255,61,139,0.12), transparent 52%),
+      radial-gradient(120% 140% at 100% 0%, rgba(47,182,114,0.09), transparent 50%),
+      linear-gradient(180deg, var(--surface-2), var(--surface));
+    padding: 1.7rem 1.9rem; box-shadow: var(--shadow-lg);
+  }
+  .pr-hero h1 { margin: 0.3rem 0 0; }
+
+  .pr-scoreboard {
+    display: flex; flex-wrap: wrap; align-items: center; gap: 1rem 1.4rem;
+    margin-top: 1.2rem;
+  }
+  .pr-score { display: flex; flex-direction: column; align-items: center; }
+  .pr-score-lab { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted-2); font-weight: 700; }
+  .pr-score-val { font-family: var(--font-mono); font-weight: 600; font-size: 2.1rem; line-height: 1; color: var(--accent); font-variant-numeric: tabular-nums slashed-zero; }
+  .pr-score-val.model { color: var(--cyan); }
+  .pr-vs { color: var(--muted-2); font-weight: 700; }
+  .pr-meta { flex: 1; min-width: 220px; font-size: 0.85rem; color: var(--muted); }
+  .pr-note { color: var(--muted-2); }
+  .pr-reset {
+    font: inherit; font-size: 0.82rem; cursor: pointer; color: var(--muted);
+    background: var(--surface-2); border: 1px solid var(--border-strong);
+    border-radius: var(--radius-sm); padding: 0.4rem 0.8rem;
+  }
+  .pr-reset:hover { color: var(--fg); border-color: var(--bad); }
+
+  .pr-section { margin-top: 2rem; }
+  .pr-lab { display: block; font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted-2); font-weight: 700; margin-bottom: 0.25rem; }
+  .pr-select {
+    font: inherit; font-size: 0.92rem; width: 100%;
+    background: var(--surface-2); color: var(--fg);
+    border: 1px solid var(--border-strong); border-radius: var(--radius-sm); padding: 0.45rem 0.6rem;
+  }
+  .pr-select:focus-visible { outline: 2px solid var(--accent-line); outline-offset: 1px; }
+
+  .pr-champ-row {
+    display: grid; gap: 1rem; align-items: end;
+    grid-template-columns: minmax(0, 1.4fr) 1fr 1fr;
+    padding: 1.1rem 1.2rem; border-radius: var(--radius); border: 1px solid var(--border); background: var(--surface);
+  }
+  .pr-champ-pick.ok { box-shadow: 0 0 0 2px var(--accent-line); border-radius: var(--radius-sm); }
+  .pr-champ-pick.bad { box-shadow: 0 0 0 2px var(--bad); border-radius: var(--radius-sm); }
+  .pr-modelteam, .pr-resultteam { display: inline-flex; align-items: center; gap: 0.4rem; font-weight: 700; color: var(--fg); }
+  .pr-champ-model .pr-modelteam { color: var(--cyan); }
+  @media (max-width: 640px) { .pr-champ-row { grid-template-columns: 1fr; } }
+
+  .pr-groups {
+    display: grid; gap: 0.9rem;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  }
+  .pr-group { padding: 0.9rem 1rem; border-radius: var(--radius-sm); border: 1px solid var(--border); background: var(--surface); }
+  .pr-group-head { display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.6rem; }
+  .pr-group-letter {
+    display: grid; place-items: center; width: 1.5rem; height: 1.5rem; border-radius: 7px;
+    font-family: var(--font-display); font-weight: 800; font-size: 0.85rem; color: #03210f;
+    background: linear-gradient(140deg, var(--accent), var(--accent-2));
+  }
+  .pr-group-status { margin-left: auto; font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted-2); }
+  .pr-group-status.ok { color: var(--accent); }
+  .pr-group-status.bad { color: var(--bad); }
+  .pr-group-foot { margin-top: 0.6rem; display: flex; flex-wrap: wrap; gap: 0.2rem 0.8rem; font-size: 0.78rem; color: var(--muted); }
+  .pr-model-pick b { color: var(--cyan); }
+  .pr-actual b { color: var(--accent); }
+</style>

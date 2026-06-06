@@ -1,0 +1,27 @@
+---
+interface Props {
+  home: number;
+  draw: number;
+  away: number;
+  homeLabel: string;
+  awayLabel: string;
+}
+const { home, draw, away, homeLabel, awayLabel } = Astro.props;
+const pct = (n: number) => `${(n * 100).toFixed(1)}%`;
+// Only show inline % text if the segment is wide enough to fit it.
+const label = (n: number) => (n >= 0.1 ? `${Math.round(n * 100)}%` : "");
+---
+<div
+  class="probbar"
+  role="img"
+  aria-label={`Model: ${homeLabel} win ${pct(home)}, draw ${pct(draw)}, ${awayLabel} win ${pct(away)}`}
+>
+  <span class="seg-home" style={`flex: ${home}`}>{label(home)}</span>
+  <span class="seg-draw" style={`flex: ${draw}`}>{label(draw)}</span>
+  <span class="seg-away" style={`flex: ${away}`}>{label(away)}</span>
+</div>
+<div class="probbar-legend">
+  <span><span class="swatch" style="background:var(--viz-home)"></span><b>{homeLabel}</b> {pct(home)}</span>
+  <span><span class="swatch" style="background:var(--viz-draw)"></span>Draw {pct(draw)}</span>
+  <span><span class="swatch" style="background:var(--viz-away)"></span><b>{awayLabel}</b> {pct(away)}</span>
+</div>

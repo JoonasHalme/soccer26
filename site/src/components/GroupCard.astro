@@ -1,0 +1,152 @@
+---
+import TeamFlag from "./TeamFlag.astro";
+import { teamSlug, type TeamRow } from "../lib/data";
+
+interface Props {
+  letter: string;
+  rows: TeamRow[];
+  /** when true, show the full P/W/D/L/GF/GA/GD/Pts columns; else compact */
+  full?: boolean;
+  /** team name to emphasise (the current team on a /team/[slug] page) */
+  highlight?: string;
+  /** link the "Group X" title to its landing page */
+  linkGroup?: boolean;
+}
+const { letter, rows, full = false, highlight, linkGroup = false } = Astro.props;
+
+const played = rows.reduce((s, r) => s + r.played, 0);
+const started = played > 0;
+---
+<div class="group-card panel">
+  <div class="gc-head">
+    <span class="gc-letter">{letter}</span>
+    <h3 class="gc-title">
+      {linkGroup ? <a class="gc-title-link" href={`/group/${letter.toLowerCase()}`}>Group {letter}</a> : `Group ${letter}`}
+    </h3>
+    <span class="gc-status">{started ? `${played} played` : "Not started"}</span>
+  </div>
+  <div class="gc-table-wrap">
+    <table class="gc-table">
+      <thead>
+        <tr>
+          <th class="c-pos" aria-label="Position">#</th>
+          <th class="c-team">Team</th>
+          <th class="num">P</th>
+          {full && <th class="num">W</th>}
+          {full && <th class="num">D</th>}
+          {full && <th class="num">L</th>}
+          {full && <th class="num">GF</th>}
+          {full && <th class="num">GA</th>}
+          <th class="num">GD</th>
+          <th class="num pts">Pts</th>
+        </tr>
+      </thead>
+      <tbody>
+        {rows.map((r, i) => (
+          <tr class={`${i < 2 ? "qualify" : ""} ${highlight === r.team ? "is-current" : ""}`}>
+            <td class="c-pos">
+              <span class="pos-dot" aria-hidden="true"></span>{i + 1}
+            </td>
+            <td class="c-team">
+              <TeamFlag team={r.team} />
+              <a class="team-name" href={`/team/${teamSlug(r.team)}`} aria-current={highlight === r.team ? "page" : undefined}>{r.team}</a>
+            </td>
+            <td class="num">{r.played}</td>
+            {full && <td class="num">{r.won}</td>}
+            {full && <td class="num">{r.drawn}</td>}
+            {full && <td class="num">{r.lost}</td>}
+            {full && <td class="num">{r.gf}</td>}
+            {full && <td class="num">{r.ga}</td>}
+            <td class="num">{r.gd > 0 ? `+${r.gd}` : r.gd}</td>
+            <td class="num pts">{r.points}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <div class="gc-legend">
+    <span class="key"><span class="key-dot adv" aria-hidden="true"></span>Top 2 advance</span>
+    {!started && <span class="key muted-2">Tournament not started</span>}
+  </div>
+</div>
+
+<style>
+  .group-card { padding: 1rem 1.05rem 0.85rem; }
+  .gc-head {
+    display: flex; align-items: center; gap: 0.55rem;
+    margin-bottom: 0.65rem;
+  }
+  .gc-letter {
+    display: grid; place-items: center;
+    width: 1.7rem; height: 1.7rem; border-radius: 8px;
+    font-family: var(--font-display); font-weight: 800; font-size: 0.95rem;
+    color: #03210f;
+    background: linear-gradient(140deg, var(--accent), var(--accent-2));
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.25);
+  }
+  .gc-title { margin: 0; font-size: 0.98rem; flex: 1; }
+  .gc-status {
+    font-size: 0.68rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.06em; color: var(--muted-2);
+  }
+
+  .gc-table-wrap { width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  .gc-table { border-collapse: collapse; width: 100%; font-size: 0.86rem; }
+  .gc-table th, .gc-table td {
+    padding: 0.4rem 0.4rem; border-bottom: 1px solid var(--border-soft);
+    white-space: nowrap;
+  }
+  .gc-table thead th {
+    background: transparent; color: var(--muted-2);
+    font-size: 0.64rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em;
+  }
+  .gc-table tbody tr:last-child td { border-bottom: none; }
+  .gc-table .num { text-align: right; font-variant-numeric: tabular-nums; }
+  .gc-table th.num { text-align: right; }
+  .gc-table .pts { font-weight: 800; color: var(--fg); }
+  .gc-table th.pts { color: var(--accent); }
+
+  .c-pos { width: 1.4rem; color: var(--muted-2); font-variant-numeric: tabular-nums; }
+  th.c-pos { text-align: left; }
+  .pos-dot {
+    display: inline-block; width: 0.4rem; height: 0.4rem; border-radius: 999px;
+    margin-right: 0.35rem; vertical-align: middle;
+    background: var(--border-strong);
+  }
+  .c-team { width: 100%; }
+  .c-team { display: table-cell; }
+  td.c-team {
+    display: flex; align-items: center; gap: 0.5rem;
+    min-width: 0;
+  }
+  .team-name {
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+    font-weight: 600; color: var(--fg); text-decoration: none;
+  }
+  a.team-name:hover { color: var(--accent); text-decoration: underline; }
+  .gc-title-link { color: inherit; text-decoration: none; }
+  .gc-title-link:hover { color: var(--accent); text-decoration: underline; }
+  .gc-table tr.is-current {
+    outline: 1px solid var(--accent-line); outline-offset: -1px;
+    background: var(--accent-soft);
+  }
+  .gc-table tr.is-current .team-name { color: var(--accent); }
+
+  /* qualification cutline: top 2 */
+  .gc-table tr.qualify .pos-dot { background: var(--accent); box-shadow: 0 0 6px var(--accent); }
+  .gc-table tr.qualify .team-name { color: var(--fg); }
+  .gc-table tr:not(.qualify) .team-name { color: var(--muted); }
+  .gc-table tr.qualify {
+    background: linear-gradient(90deg, var(--accent-soft), transparent 70%);
+  }
+
+  .gc-legend {
+    display: flex; flex-wrap: wrap; gap: 0.3rem 1rem;
+    margin-top: 0.7rem; padding-top: 0.6rem;
+    border-top: 1px solid var(--border-soft);
+    font-size: 0.72rem; color: var(--muted);
+  }
+  .gc-legend .key { display: inline-flex; align-items: center; gap: 0.35rem; }
+  .key-dot { width: 0.5rem; height: 0.5rem; border-radius: 999px; }
+  .key-dot.adv { background: var(--accent); box-shadow: 0 0 6px var(--accent); }
+</style>

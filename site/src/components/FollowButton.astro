@@ -1,0 +1,59 @@
+---
+// A ★ follow toggle for a team, persisted to localStorage (key shared with the
+// matches "Following" filter). No backend. Emits a `watchlist:change` event so
+// other components (e.g. the matches filter) can react live.
+interface Props { team: string; }
+const { team } = Astro.props;
+---
+<button class="follow-btn" data-team={team} type="button" aria-pressed="false">
+  <span class="fb-star" aria-hidden="true">☆</span>
+  <span class="fb-label">Follow</span>
+</button>
+
+<script is:inline>
+  if (!window.__followInit) {
+    window.__followInit = true;
+    const KEY = "soccer26:following";
+    const read = () => { try { return new Set(JSON.parse(localStorage.getItem(KEY) || "[]")); } catch { return new Set(); } };
+    const write = (s) => localStorage.setItem(KEY, JSON.stringify([...s]));
+    const syncAll = () => {
+      const s = read();
+      document.querySelectorAll(".follow-btn").forEach((btn) => {
+        const on = s.has(btn.dataset.team);
+        btn.setAttribute("aria-pressed", String(on));
+        btn.classList.toggle("is-on", on);
+        const star = btn.querySelector(".fb-star");
+        const label = btn.querySelector(".fb-label");
+        if (star) star.textContent = on ? "★" : "☆";
+        if (label) label.textContent = on ? "Following" : "Follow";
+      });
+    };
+    document.addEventListener("click", (e) => {
+      const btn = e.target.closest(".follow-btn");
+      if (!btn) return;
+      const s = read();
+      const team = btn.dataset.team;
+      if (s.has(team)) s.delete(team); else s.add(team);
+      write(s); syncAll();
+      window.dispatchEvent(new CustomEvent("watchlist:change"));
+    });
+    window.addEventListener("watchlist:change", syncAll);
+    syncAll();
+  }
+</script>
+
+<style>
+  .follow-btn {
+    display: inline-flex; align-items: center; gap: 0.4rem;
+    font: inherit; font-size: 0.85rem; font-weight: 700; cursor: pointer;
+    padding: 0.4rem 0.85rem; border-radius: var(--radius-sm);
+    border: 1px solid var(--border-strong); background: var(--surface-2); color: var(--muted);
+    transition: color 0.15s, background 0.15s, border-color 0.15s;
+  }
+  .follow-btn:hover { color: var(--fg); border-color: var(--warn); }
+  .follow-btn:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
+  .follow-btn.is-on {
+    color: var(--warn); border-color: rgba(255,181,36,0.5); background: var(--warn-soft);
+  }
+  .fb-star { font-size: 1rem; line-height: 1; }
+</style>

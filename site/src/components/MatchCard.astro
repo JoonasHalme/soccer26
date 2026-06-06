@@ -1,0 +1,161 @@
+---
+import StageChip from "./StageChip.astro";
+import LocalTime from "./LocalTime.astro";
+import { pct1, publishedProbs } from "../lib/data";
+import type { Match, Prediction } from "../lib/data";
+
+interface Props {
+  match: Match;
+  pred?: Prediction;
+  analyzed?: boolean;
+}
+const { match, pred, analyzed = false } = Astro.props;
+
+
+const topEdge = pred?.edges?.[0];
+// Published (market-blended) call — must match the match page / OG cards, not the
+// raw skewed model (code review C1: cards previously showed the pre-blend numbers).
+const p = pred ? publishedProbs(pred) : undefined;
+const pct = (n?: number) => (n == null ? "—" : `${Math.round(n * 100)}%`);
+
+// Determine favourite for a subtle lean indicator
+let lean: "home" | "draw" | "away" | null = null;
+if (p) {
+  const m = Math.max(p.home, p.draw, p.away);
+  lean = m === p.home ? "home" : m === p.away ? "away" : "draw";
+}
+const statusClass =
+  match.status === "LIVE" ? "live" : match.status === "FINISHED" ? "finished" : "open";
+const hasScore = match.score?.home != null && match.score?.away != null;
+---
+<a class="match-card" href={`/matches/${match.id}`} data-edge={topEdge ? "1" : undefined}>
+  <div class="mc-top">
+    <StageChip stage={match.stage} group={match.group} />
+    <LocalTime class="mc-kick" iso={match.kickoff} fmt="datetime" />
+  </div>
+
+  <div class="mc-teams">
+    <div class={`mc-team ${lean === "home" ? "fav" : ""}`}>
+      <span class="mc-name">{match.home}</span>
+      {p && <span class="mc-prob">{pct(p.home)}</span>}
+    </div>
+    <div class="mc-vs">
+      {hasScore ? (
+        <span class="mc-score">{match.score!.home}–{match.score!.away}</span>
+      ) : (
+        <span class="mc-vstag">VS</span>
+      )}
+    </div>
+    <div class={`mc-team ${lean === "away" ? "fav" : ""}`}>
+      <span class="mc-name">{match.away}</span>
+      {p && <span class="mc-prob">{pct(p.away)}</span>}
+    </div>
+  </div>
+
+  {p && (
+    <div class="mc-bar" aria-hidden="true">
+      <span style={`flex:${p.home}`} class="seg-home"></span>
+      <span style={`flex:${p.draw}`} class="seg-draw"></span>
+      <span style={`flex:${p.away}`} class="seg-away"></span>
+    </div>
+  )}
+
+  <div class="mc-foot">
+    <span class={`pill ${statusClass}`}>{match.status}</span>
+    {p && <span class="mc-xg">xG {p.expected_goals.home.toFixed(1)}–{p.expected_goals.away.toFixed(1)}</span>}
+    <span class="mc-spacer"></span>
+    {analyzed && <span class="badge badge-analyzed" title="Has written analysis">✎</span>}
+    {topEdge ? (
+      <span class="badge badge-edge">{topEdge.selection} +{pct1(topEdge.edge_pct)}%</span>
+    ) : (
+      <span class="mc-arrow" aria-hidden="true">→</span>
+    )}
+  </div>
+</a>
+
+<style>
+  .match-card {
+    display: flex;
+    flex-direction: column;
+    gap: 0.85rem;
+    padding: 0.9rem 1rem;
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--fg);
+    text-decoration: none;
+    /* Flat + bordered; hover sharpens (border step) rather than floats. */
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.03);
+    transition: transform var(--dur-fast) var(--ease), border-color var(--dur-fast) var(--ease);
+    position: relative;
+    overflow: hidden;
+  }
+  .match-card:hover {
+    transform: translateY(-1px);
+    border-color: var(--border-strong);
+    text-decoration: none;
+  }
+  /* value-edge highlight */
+  .match-card[data-edge]::before {
+    content: "";
+    position: absolute; inset: 0 auto 0 0; width: 3px;
+    background: linear-gradient(180deg, var(--accent), var(--accent-2));
+  }
+  .match-card[data-edge] { border-color: var(--accent-line); }
+
+  .mc-top {
+    display: flex; align-items: center; justify-content: space-between; gap: 0.5rem;
+  }
+  .mc-kick { font-size: 0.78rem; color: var(--muted-2); font-variant-numeric: tabular-nums; }
+
+  .mc-teams {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .mc-team { display: flex; flex-direction: column; gap: 0.15rem; min-width: 0; }
+  .mc-team:last-child { text-align: right; align-items: flex-end; }
+  .mc-name {
+    font-family: var(--font-display);
+    font-weight: 700; font-size: 1.02rem; letter-spacing: -0.01em;
+    line-height: 1.15;
+    color: var(--fg);
+    overflow: hidden; text-overflow: ellipsis;
+  }
+  .mc-team.fav .mc-name { color: var(--fg); }
+  .mc-team:not(.fav) .mc-name { color: var(--muted); }
+  .mc-prob { font-family: var(--font-mono); font-size: 0.78rem; font-weight: 600; color: var(--muted-2); font-variant-numeric: tabular-nums slashed-zero; }
+  .mc-team.fav .mc-prob { color: var(--accent); }
+
+  .mc-vs { display: grid; place-items: center; padding: 0 0.2rem; }
+  .mc-vstag {
+    font-family: var(--font-mono);
+    font-size: 0.68rem; font-weight: 600; letter-spacing: 0.08em;
+    color: var(--muted-2);
+    border: 1px solid var(--border-strong); border-radius: var(--radius-sm);
+    padding: 0.1rem 0.45rem;
+  }
+  .mc-score {
+    font-family: var(--font-mono);
+    font-size: 1.2rem; font-weight: 700;
+    font-variant-numeric: tabular-nums slashed-zero;
+  }
+
+  .mc-bar {
+    display: flex; height: 0.4rem; border-radius: var(--radius-sm); overflow: hidden;
+    border: 1px solid var(--border-soft);
+  }
+  .mc-bar .seg-home { background: var(--viz-home); }
+  .mc-bar .seg-draw { background: var(--viz-draw); }
+  .mc-bar .seg-away { background: var(--viz-away); }
+
+  .mc-foot {
+    display: flex; align-items: center; gap: 0.45rem;
+    font-size: 0.78rem;
+  }
+  .mc-xg { color: var(--muted-2); font-variant-numeric: tabular-nums; }
+  .mc-spacer { flex: 1; }
+  .mc-arrow { color: var(--muted-2); font-weight: 700; transition: transform 0.16s ease; }
+  .match-card:hover .mc-arrow { transform: translateX(3px); color: var(--accent); }
+</style>

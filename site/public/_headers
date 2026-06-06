@@ -1,0 +1,9 @@
+# Cloudflare Pages edge-cache rules.
+# live.json is polled every 60s by the dashboard; a short max-age lets the CDN
+# absorb the fan-out while staying fresh. Hashed Astro assets are immutable.
+
+/data/live.json
+  Cache-Control: public, max-age=30, stale-while-revalidate=30
+
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable

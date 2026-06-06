@@ -1,0 +1,60 @@
+name: matchday-poll
+
+# Job A — hourly, QUOTA-SAFE matchday loop (the moat + live scores). Every step
+# either spends 0 credits or self-gates to spend one ONLY when a match is near
+# kickoff / live:
+#   - capture_closing.py : closing line, only within --within-hours of a kickoff
+#   - fetch_results.py --only-if-active : scores, only when a match is LIVE/just-ended
+#   - settle.py / publish_live.py : no API
+# Commits any changed data back to the repo → auto-triggers the Cloudflare deploy.
+#
+# Requires repo secret ODDS_API_KEY (use the ROTATED key — see docs/infra-plan.md).
+# Keep the local scripts/capture-closing.ps1 Task Scheduler job too as a June-11
+# backup: GitHub crons can be delayed under load and pause after 60d of inactivity.
+
+on:
+  schedule:
+    - cron: "7 * * * *" # hourly (offset 7 min)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency: matchday-poll # never overlap runs
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r model/requirements.txt
+
+      - name: Capture closing odds (only within hours of a kickoff)
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python model/capture_closing.py
+
+      - name: Fetch results (only when a match is live/just-ended)
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python model/fetch_results.py --only-if-active
+
+      - name: Settle graded bets + refresh the live feed (no API)
+        run: |
+          python model/settle.py
+          python model/publish_live.py
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name  "soccer26-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add fixtures/fixtures.json bets/bets.json site/public/data/live.json
+          if git diff --cached --quiet; then
+            echo "No changes — nothing to commit."
+          else
+            git commit -m "data: matchday poll $(date -u +%FT%TZ)"
+            git push
+          fi
