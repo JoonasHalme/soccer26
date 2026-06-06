@@ -1,7 +1,15 @@
 # HANDOFF — read this first
 
 Continuation notes for soccer26, a personal **World Cup 2026 betting-analysis**
-site. Last worked: **2026-06-06**. Tournament kicks off **2026-06-11**.
+site. Last worked: **2026-06-07**. Tournament kicks off **2026-06-11** (4 days).
+
+> **Most recent work is the `2026-06-07 session` block right below "What was done
+> recently".** Today: a full **UI redesign to a steel-azure "instrument" theme**
+> (supersedes the older `docs/design-direction.md` workstream), the **Road to the
+> World Cup** page with **live warm-up scores** + the **model's pre-match call on
+> every game**, and a results pipeline that's now **live-fresh** (martj42 + an
+> ESPN bridge). The project is **in git + deployed** (see below) — the old
+> "not a git repo" warning is obsolete.
 
 If you're picking this up cold: read this file, then `docs/backlog.md` (the task
 list) and `docs/site-improvements.md` (review findings). For the strategic roadmap
@@ -32,30 +40,39 @@ fixtures/    fixtures.json — 104 WC2026 matches (incl. full knockout bracket s
 docs/        backlog + research + this handoff
 ```
 
-## Current state (verified 2026-06-06)
+## Current state (verified 2026-06-07)
 
-- **99 pytest tests pass** (`python -m pytest tests/ -q`).
-- **Site builds clean — 174 pages + 166 OG PNGs** (`cd site && npm run build`).
-  Build now takes **~35s** (was ~3s) because OG-card rendering (satori→resvg) runs at
-  build; `npm run dev` is unaffected. (111 pages before the SEO pages + /methodology.)
-- `bets/bets.json` is **empty** (no bets logged yet — correct, tournament hasn't started).
-- **0 fixtures have closing-odds snapshots** — see the #1 next step below.
-- Pages live: `/` `/edges` `/matches` `/matches/[id]` `/groups` `/group/[id]`
-  `/team/[slug]` `/bets` `/calibration` `/bracket` `/outrights` `/predict`
-  `/methodology` (+ `/feed.xml`, `/og/*` images). Nav is in
-  `site/src/layouts/Base.astro` (the /team + /group pages are SEO landing pages,
-  reached via internal links, not the top nav).
+- **164 pytest + 29 vitest pass** (`python -m pytest -q`; `npm --prefix site run test`).
+- **Site builds clean — 177 pages** (`cd site && npm run build`, ~22–35s incl. OG cards).
+- **In git, public, auto-deployed:** repo `github.com/JoonasHalme/soccer26` (`main`) →
+  Cloudflare Pages **https://matchprediction.pages.dev** (every push deploys; CI runs
+  pytest+vitest+build). Commit/push freely (the user expects it now).
+- `bets/bets.json` is **empty** (correct — tournament hasn't started).
+- **0 fixtures have closing-odds snapshots** — still the standing ops blocker (see #1 below).
+- New top nav (`Base.astro`): **Dashboard · Road to WC · Matches · Groups · Bracket ·
+  Outrights** + a **"More ▾"** dropdown (`Edges · Bets · Calibration · Methodology ·
+  Divergence · Predict`). Edges/Bets were moved into More + their sections removed from
+  the dashboard (owner de-emphasised betting on the landing page). New page:
+  **`/road-to-the-world-cup`** (warm-up form + live scores + model calls).
+  `/team` + `/group` are still SEO pages reached via internal links.
 
 ## ⚠️ Environment gotchas (important)
 
-- **NOT a git repo.** There is no version control / no commits / no undo. Be
-  careful with destructive edits; there's no safety net.
+- **It IS a git repo now** (public, on GitHub, auto-deploys to Cloudflare on push).
+  Commit + push when done — the owner expects shipping. Each commit message ends with
+  `Co-Authored-By: Claude Opus 4.8 (1M context) <noreply@anthropic.com>`. The hourly
+  `matchday-poll` bot also commits; `git pull --rebase` before pushing.
 - **Windows / PowerShell.** Run shell commands **individually** — do NOT chain with
   `&&` or `;` (the user's pre-approved permission list depends on this).
-- **Dev server is NOT running across sessions.** Start it with `cd site` then
-  `npm run dev` → http://localhost:4321.
-- `ODDS_API_KEY` is in `.env` (The Odds API free tier, ~490 requests/month left).
-  Only `fetch_odds.py` and `fetch_results.py` call it — be frugal.
+- **Dev/preview server is NOT running across sessions.** `cd site` → `npm run dev`
+  (4321) or `npm run preview` (serves `dist/`). NOTE: ~20 orphaned preview servers
+  from the 06-07 session may be squatting ports 4321–4343 — kill stray `node` procs if
+  needed.
+- `ODDS_API_KEY` is in `.env` AND repo secrets. **It was rotated 06-06 and the repo was
+  audited clean** (value in no file/commit — TASK-051 done); any GitHub secret-scanning
+  alert is the pre-rotation one and can be dismissed. Only `fetch_odds.py`/`fetch_results.py`
+  call it (paid, ~490/mo). `fetch_internationals.py`/`fetch_recent_espn.py`/`fetch_squads.py`
+  use **free, no-key** sources (martj42, ESPN, Wikipedia).
 - Generated artifacts (don't hand-edit): `site/public/data/predictions.json`
   (+ `.hash.json` + append-only `predictions_ledger.json` + `predictions_archive.json`
   — frozen pre-kickoff 1X2 per match, drives the post-match card + live calibration),
@@ -91,6 +108,13 @@ python model/settle.py                 # grade bets -> result + pnl
 python model/clv.py                    # CLV vs de-vigged close + beat-rate/avg/CI
 ```
 
+Warm-up form / results (free, no key — runs automatically in the hourly poll):
+```
+python model/fetch_internationals.py   # refresh internationals.csv from martj42 (free)
+python model/fetch_recent_espn.py      # bridge martj42's lag: append just-finished friendlies from ESPN
+python model/build_form.py             # -> form.json: per-team form + walk-forward model calls + run-in feed
+```
+
 ## 🔝 #1 next step — the ops prerequisite that unblocks everything
 
 **Run `python model/fetch_odds.py --closing` before kickoffs to capture closing
@@ -102,6 +126,55 @@ populated (on warm-ups/qualifiers if possible) so a real track record exists bef
 the tournament. Everything the project is *for* depends on this.
 
 ## What was done recently (so you don't redo it)
+
+### 2026-06-07 session (latest — start here)
+
+**Model-accuracy bundle (TASK-063/032/064):** adopted **match-importance K-weighting**
+(`elo.match_importance`: friendly 0.5 → World Cup 1.75, threaded through backtest +
+`train_ratings`; base K re-fit to **117.98**, K bound widened to 200). Validated as a
+*marginal* net-positive on held-out **competitive** matches (the WC's job: acc 0.624→0.631,
+RPS slightly better, train ECE 0.0089→0.0080); cost falls only on friendly prediction.
+Regenerated ratings → anchors → predictions+ledger → sims. **Accepted side effect:** the
+un-blended **outrights got more competitive-weighted / market-contrarian** (Spain ~20→23.6%,
+Germany #14, Norway #6) — owner chose to ship it; revisit by blending outrights to a futures
+market post-tournament. **Time-decay ξ tested & REJECTED** (monotonically worsens a sequential
+Elo). **O/U blend** already shipped; **BTTS unpriced** by the WC odds endpoint (both moot).
+
+**Player form / injuries as a MODEL input — RESEARCHED & DECLINED (TASK-065).** Verdict:
+keep injuries/squads as *display context only*, don't feed the forecast — it's redundant with
+the market blend (the market prices lineups faster), and free data coverage is *backwards*
+(abundant for big nations the market nails, blank for the minnows where a model could help →
+adds variance where we know least). Full reasoning in `docs/backlog.md` TASK-065.
+
+**Road to the World Cup (TASK-066).** `model/build_form.py` → `site/public/data/form.json`:
+each team's recent internationals (W/D/L + scores) **and** the model's **walk-forward
+(no-hindsight) pre-match call** on each game (`pick`/`correct`/`p_actual`), plus a deduped
+**run-in feed** and an aggregate record. New **`/road-to-the-world-cup`** page (nav "Road to
+WC") = headline record + the full feed (model ✓/✗ vs reality, hits AND misses) + a per-team
+form table; team pages got a "Road to the World Cup" form strip. `/methodology#ratings`
+documents the half-weight rule. +6 `test_form.py` tests.
+
+**Warm-up results pipeline — now live-fresh.** `model/fetch_internationals.py` refreshes
+`internationals.csv` from the free martj42 dataset; **`model/fetch_recent_espn.py`** bridges
+martj42's ~1-day lag by appending just-finished friendlies from **ESPN's free scoreboard**
+(name-mapped, self-healing, ±1-day dedup) so results are **model-graded within minutes** (e.g.
+June 6's USA 1–2 Germany → model Germany ✓ shows the same night). Pipeline wired into the hourly
+`matchday-poll`: `fetch_internationals → fetch_recent_espn → build_form`. Plus a client-side
+**"Tonight's warm-ups" live widget** on the Road-to-WC page (ESPN scoreboard, CORS-open, no key:
+live + recent results + upcoming, with flags; fetches yesterday..+3 because ESPN dates by UTC).
+
+**UI redesign → steel-azure "instrument" theme (supersedes `docs/design-direction.md`).** Ran a
+5-expert design audit + a 4-palette panel; owner picked **steel-azure dark**. Shipped: **monolithic
+Inter** (dropped Sora) + real type/spacing scales (`--t-*`/`--s-*`); **flattened all ~12 radial
+"glow" heroes** onto one flat `PageHero`; **de-emoji'd** chrome (SVG crest + trophy; removed
+ticket/warning); **one chip + one `.btn`** (with `:active`) + **unified motion/focus tokens**;
+**hairline ledger tables** (dropped vertical rules); and the full palette swap — **azure** brand
+(`--accent #3e7bd6`) + teal `--info` + gold trophy + red loss, **green retired**; every hardcoded
+literal tokenised; OG cards updated to match. All token-driven, so swapping palettes is a cheap
+`:root` change (the other 3 directions — markets-terminal, monochrome, light-editorial — are
+documented if the owner wants to try them). 164 pytest + 29 vitest green throughout.
+
+---
 
 **2026-06-06 session:** Rebuilt `/bracket` as a real *connected* bracket
 (site-improvements #15). It derives the knockout feeder tree from `fixtures.json`
@@ -426,10 +499,9 @@ ruleset on `main` blocks **force-push + deletion** (admin bypass) — guards the
 blocking the auto-commit bots. (Require-PR/CI isn't possible on a personal repo — the GitHub Actions
 integration can't be a bypass actor, so it'd block the bots; force-push/deletion protection is the
 correct fit.)
-**Still OWNER action (one thing):** **rotate `ODDS_API_KEY`** and add it as repo secret `ODDS_API_KEY`
-(Settings → Secrets → Actions) before June 11 — the hourly `matchday-poll` runs harmlessly without it
-pre-tournament but needs it once matches start. Keep the local `capture-closing.ps1` Task Scheduler
-job as a June-11 backup.
+**OWNER action — DONE (06-06):** `ODDS_API_KEY` was rotated + added as repo secret; repo audited clean
+(TASK-051 ✅). Keep the local `capture-closing.ps1` Task Scheduler job as a June-11 backup for the
+closing-odds capture (the matchday-poll bot also does it, but GitHub crons can lag/pause).
 **Follow-up (nice):** `/methodology` could now point to the public repo as the verification path for
 the ledger (the external-anchor item).
 
