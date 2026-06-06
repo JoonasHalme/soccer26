@@ -1,7 +1,7 @@
 ---
 import Base from "../layouts/Base.astro";
 import TeamFlag from "../components/TeamFlag.astro";
-import { loadForm, teamSlug } from "../lib/data";
+import { loadForm, teamSlug, flagCode } from "../lib/data";
 
 const form = loadForm();
 const feed = form.recent ?? [];
@@ -37,9 +37,9 @@ const ALIASES: Record<string, string[]> = {
   "Cape Verde": ["Cabo Verde"],
   "Bosnia & Herzegovina": ["Bosnia and Herzegovina"],
 };
-const wcLookup: Record<string, { name: string; slug: string }> = {};
+const wcLookup: Record<string, { name: string; slug: string; cc: string | null }> = {};
 for (const team of Object.keys(form.teams)) {
-  const entry = { name: team, slug: teamSlug(team) };
+  const entry = { name: team, slug: teamSlug(team), cc: flagCode(team) };
   wcLookup[norm(team)] = entry;
   for (const a of ALIASES[team] ?? []) wcLookup[norm(a)] = entry;
 }
@@ -189,26 +189,36 @@ const description =
     const ymd = (d) => `${d.getFullYear()}${String(d.getMonth() + 1).padStart(2, "0")}${String(d.getDate()).padStart(2, "0")}`;
     const windowDates = () => {
       const out = [], now = new Date();
-      for (let i = 0; i < 4; i++) { const d = new Date(now); d.setDate(now.getDate() + i); out.push(ymd(d)); }
+      // yesterday..+3. "Yesterday" matters because ESPN files a game under its UTC
+      // date: a 22:00Z kickoff is tonight in Europe but ESPN dates it the prior day,
+      // so without it a game live right now in a later timezone would be missed.
+      for (let i = -1; i <= 3; i++) { const d = new Date(now); d.setDate(now.getDate() + i); out.push(ymd(d)); }
       return out;
     };
-    const teamCell = (t) => t.wc
-      ? `<a href="/team/${t.wc.slug}">${esc(t.wc.name)}</a>`
-      : `<span>${esc(t.name)}</span>`;
+    const flagImg = (cc) => cc
+      ? `<img class="lw-flag" src="https://flagcdn.com/w20/${cc}.png" srcset="https://flagcdn.com/w40/${cc}.png 2x" width="20" height="15" alt="" loading="lazy" decoding="async">`
+      : "";
+    const teamCell = (t) => {
+      const flag = t.wc ? flagImg(t.wc.cc) : "";
+      const nm = t.wc
+        ? `<a href="/team/${t.wc.slug}">${esc(t.wc.name)}</a>`
+        : `<span>${esc(t.name)}</span>`;
+      return `<span class="lw-team">${flag}${nm}</span>`;
+    };
     function rowHtml(r) {
       const live = r.state === "in", post = r.state === "post";
-      const ko = new Date(r.date).toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
+      const d = new Date(r.date);
+      const time = d.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
+      const today = new Date().toDateString() === d.toDateString();
+      const koLabel = today ? time : `${d.toLocaleDateString([], { weekday: "short" })} ${time}`;
       const mid = (live || post)
-        ? `<b class="lw-score">${esc(String(r.hs))}–${esc(String(r.as))}</b>`
+        ? `<span class="lw-score">${esc(String(r.hs))}–${esc(String(r.as))}</span>`
         : `<span class="lw-vs">v</span>`;
       const status = live
-        ? `<span class="lw-status lw-live"><span class="lw-dot"></span>${esc(r.clock || "LIVE")}</span>`
-        : post ? `<span class="lw-status lw-ft">FT</span>`
-        : `<span class="lw-status lw-ko">${esc(ko)}</span>`;
-      return `<li class="lw-row">
-        <span class="lw-fix"><span class="lw-side">${teamCell(r.home)}</span>${mid}<span class="lw-side">${teamCell(r.away)}</span></span>
-        ${status}
-      </li>`;
+        ? `<span class="lw-tag lw-live"><span class="lw-dot"></span>${esc(r.clock || "LIVE")}</span>`
+        : post ? `<span class="lw-tag lw-ft">FT</span>`
+        : `<span class="lw-tag lw-ko">${esc(koLabel)}</span>`;
+      return `<li class="lw-row${live ? " is-live" : ""}">${teamCell(r.home)}${mid}${teamCell(r.away)}${status}</li>`;
     }
     async function load() {
       let events = [];
@@ -220,8 +230,10 @@ const description =
           if (Array.isArray(json.events)) events = events.concat(json.events);
         } catch (_) { /* ignore a single bad date */ }
       }
-      const rows = [];
+      const rows = [], seen = new Set();
       for (const e of events) {
+        if (seen.has(e.id)) continue;
+        seen.add(e.id);
         const comp = e.competitions && e.competitions[0];
         const cs = (comp && comp.competitors) || [];
         const home = cs.find((c) => c.homeAway === "home");
@@ -231,6 +243,8 @@ const description =
         const aw = wcLookup[norm(away.team.displayName || away.team.name)];
         if (!hw && !aw) continue; // only friendlies involving a WC team
         const st = (e.status && e.status.type) || {};
+        // drop stale finals (yesterday's are recent; older ones live in the feed below)
+        if (st.state === "post" && (Date.now() - new Date(e.date).getTime()) / 3.6e6 > 20) continue;
         rows.push({
           date: e.date, state: st.state, clock: (e.status && e.status.displayClock) || st.shortDetail,
           hs: home.score, as: away.score,
@@ -240,7 +254,7 @@ const description =
       if (!rows.length) { sec.hidden = true; return false; }
       const rank = (s) => (s === "in" ? 0 : s === "pre" ? 1 : 2);
       rows.sort((a, b) => rank(a.state) - rank(b.state) || new Date(a.date) - new Date(b.date));
-      list.innerHTML = rows.slice(0, 12).map(rowHtml).join("");
+      list.innerHTML = rows.slice(0, 10).map(rowHtml).join("");
       sec.hidden = false;
       return rows.some((r) => r.state === "in");
     }
@@ -312,32 +326,44 @@ const description =
   .rd-foot { margin: 0.8rem 0 0; font-size: 0.8rem; line-height: 1.55; }
   .rd-foot b { color: var(--fg); }
 
-  /* Live "Tonight's warm-ups" widget */
-  .lw-count { color: var(--accent); }
-  .lw-list { list-style: none; margin: 0; padding: 0; }
-  .lw-row {
-    display: flex; align-items: center; justify-content: space-between; gap: 1rem;
-    padding: 0.6rem 0.85rem; border-top: 1px solid var(--border-soft);
-  }
-  .lw-row:first-child { border-top: none; }
-  .lw-fix { display: flex; align-items: center; gap: 0.7rem; min-width: 0; }
-  .lw-side { color: var(--fg); white-space: nowrap; }
-  .lw-side a { color: var(--link); text-decoration: none; }
-  .lw-side a:hover { text-decoration: underline; }
-  .lw-vs { color: var(--muted-2); font-size: 0.8rem; }
-  .lw-score { font-family: var(--font-mono); font-variant-numeric: tabular-nums slashed-zero; font-weight: 700; color: var(--fg); }
-  .lw-status { flex: 0 0 auto; font-family: var(--font-mono); font-size: 0.74rem; white-space: nowrap; }
-  .lw-ko { color: var(--muted-2); }
-  .lw-ft { color: var(--muted); }
-  .lw-live { display: inline-flex; align-items: center; gap: 0.35rem; color: var(--bad); font-weight: 700; }
-  .lw-dot { width: 0.5rem; height: 0.5rem; border-radius: 999px; background: var(--bad); animation: lw-breathe 1.8s ease-in-out infinite; }
-  @keyframes lw-breathe { 50% { opacity: 0.4; } }
-  .lw-foot { margin: 0.8rem 0 0; font-size: 0.78rem; }
-  .lw-foot a { color: var(--link); text-decoration: none; }
-  .lw-foot a:hover { text-decoration: underline; }
+  .lw-count { color: var(--accent); }   /* the rest of .lw-* lives in the global block (JS-injected) */
 
   @media (max-width: 720px) {
     .rd-hero { padding: 1.3rem 1.2rem; }
     .rd-stats { gap: 1.1rem; }
   }
+</style>
+
+<style is:global>
+  /* "Tonight's warm-ups" rows are injected by JS, so their styles must be global
+     (scoped styles only match server-rendered elements). Namespaced under
+     #live-warmups so nothing leaks. */
+  #live-warmups .lw-list { list-style: none; margin: 0; padding: 0; }
+  #live-warmups .lw-row {
+    display: flex; align-items: center; gap: 0.55rem;
+    padding: 0.6rem 0.85rem; border-top: 1px solid var(--border-soft);
+  }
+  #live-warmups .lw-row:first-child { border-top: none; }
+  #live-warmups .lw-row.is-live { box-shadow: inset 2px 0 0 var(--bad); }
+  #live-warmups .lw-team { display: inline-flex; align-items: center; gap: 0.4rem; min-width: 0; color: var(--fg); white-space: nowrap; }
+  #live-warmups .lw-team a { color: var(--fg); text-decoration: none; }
+  #live-warmups .lw-team a:hover { color: var(--accent); text-decoration: underline; }
+  #live-warmups .lw-flag { border-radius: 2px; box-shadow: 0 0 0 1px var(--border-soft); flex: none; vertical-align: middle; }
+  #live-warmups .lw-vs { color: var(--muted-2); font-size: 0.78rem; padding: 0 0.1rem; }
+  #live-warmups .lw-score { font-family: var(--font-mono); font-variant-numeric: tabular-nums slashed-zero; font-weight: 700; color: var(--fg); padding: 0 0.15rem; }
+  #live-warmups .lw-tag {
+    margin-left: auto; flex: none; font-family: var(--font-mono); font-size: 0.72rem;
+    white-space: nowrap; padding: 0.1rem 0.5rem; border-radius: 999px; border: 1px solid var(--border-soft);
+  }
+  #live-warmups .lw-ko { color: var(--muted-2); }
+  #live-warmups .lw-ft { color: var(--muted); }
+  #live-warmups .lw-live {
+    display: inline-flex; align-items: center; gap: 0.3rem;
+    color: var(--bad); font-weight: 700; background: var(--bad-soft); border-color: var(--bad-line);
+  }
+  #live-warmups .lw-dot { width: 0.45rem; height: 0.45rem; border-radius: 999px; background: var(--bad); animation: lw-breathe 1.8s ease-in-out infinite; }
+  @keyframes lw-breathe { 50% { opacity: 0.4; } }
+  #live-warmups .lw-foot { margin: 0.8rem 0 0; font-size: 0.78rem; color: var(--muted); }
+  #live-warmups .lw-foot a { color: var(--link); text-decoration: none; }
+  #live-warmups .lw-foot a:hover { text-decoration: underline; }
 </style>
