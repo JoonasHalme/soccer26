@@ -23,6 +23,27 @@ const pct0 = (x: number) => Math.round(x * 100);
 const pickName = (m: (typeof feed)[number]) =>
   m.model.pick === "H" ? m.home : m.model.pick === "A" ? m.away : "Draw";
 
+// Normalised name → {name, slug} lookup so the client-side live widget can match
+// ESPN's team spellings to our 48 (e.g. "United States" → USA). Aliases cover the
+// known divergences; everything else matches on accent-stripped alphanumerics.
+const norm = (s: string) =>
+  s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/\b(and|the)\b/g, "").replace(/[^a-z0-9]/g, "");
+const ALIASES: Record<string, string[]> = {
+  "USA": ["United States"],
+  "South Korea": ["Korea Republic"],
+  "Iran": ["IR Iran"],
+  "Ivory Coast": ["Cote d'Ivoire", "Côte d'Ivoire"],
+  "DR Congo": ["Congo DR", "Congo DR (Kinshasa)"],
+  "Cape Verde": ["Cabo Verde"],
+  "Bosnia & Herzegovina": ["Bosnia and Herzegovina"],
+};
+const wcLookup: Record<string, { name: string; slug: string }> = {};
+for (const team of Object.keys(form.teams)) {
+  const entry = { name: team, slug: teamSlug(team) };
+  wcLookup[norm(team)] = entry;
+  for (const a of ALIASES[team] ?? []) wcLookup[norm(a)] = entry;
+}
+
 const title = "Road to the World Cup — the model's pre-match calls on every warm-up | Soccer 26";
 const description =
   "Every pre-tournament warm-up and run-in result for the 48 World Cup 2026 teams, each with the model's own pre-match call (walk-forward, no hindsight) — hits and misses shown in full as an honest track record going into kickoff.";
@@ -56,6 +77,16 @@ const description =
       stake — so even a sharp model is often wrong, and the market itself moves little on
       them. That's exactly why the model counts them at <b>half weight</b>. Read the hit
       rate as honesty, not a promise. <a href="/methodology#ratings">How ratings work →</a>
+    </p>
+  </section>
+
+  <!-- Live + upcoming warm-ups (client-side, ESPN scoreboard). Hidden until populated. -->
+  <section class="rd-section" id="live-warmups" hidden>
+    <div class="section-head"><h2>Tonight's warm-ups</h2><span class="count lw-count">live &amp; upcoming</span><span class="rule"></span></div>
+    <div class="table-wrap"><ul id="lw-list" class="lw-list"></ul></div>
+    <p class="subtle lw-foot">
+      Live scores fetched in your browser from <a href="https://www.espn.com/soccer/scoreboard/_/league/fifa.friendly" rel="noopener noreferrer" target="_blank">ESPN</a>;
+      finished games also flow into the permanent record below.
     </p>
   </section>
 
@@ -143,6 +174,90 @@ const description =
   </section>
 </Base>
 
+<script define:vars={{ wcLookup }}>
+  // Live + upcoming WC-team warm-ups, fetched client-side from ESPN's free, no-key
+  // friendly scoreboard. Degrades silently: on any failure or no relevant games the
+  // section stays hidden. Polls while a game is live; pauses when the tab is hidden.
+  (() => {
+    const sec = document.getElementById("live-warmups");
+    const list = document.getElementById("lw-list");
+    if (!sec || !list) return;
+    const ENDPOINT = "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.friendly/scoreboard?dates=";
+    const norm = (s) => (s || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "")
+      .replace(/\b(and|the)\b/g, "").replace(/[^a-z0-9]/g, "");
+    const esc = (s) => (s || "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+    const ymd = (d) => `${d.getFullYear()}${String(d.getMonth() + 1).padStart(2, "0")}${String(d.getDate()).padStart(2, "0")}`;
+    const windowDates = () => {
+      const out = [], now = new Date();
+      for (let i = 0; i < 4; i++) { const d = new Date(now); d.setDate(now.getDate() + i); out.push(ymd(d)); }
+      return out;
+    };
+    const teamCell = (t) => t.wc
+      ? `<a href="/team/${t.wc.slug}">${esc(t.wc.name)}</a>`
+      : `<span>${esc(t.name)}</span>`;
+    function rowHtml(r) {
+      const live = r.state === "in", post = r.state === "post";
+      const ko = new Date(r.date).toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
+      const mid = (live || post)
+        ? `<b class="lw-score">${esc(String(r.hs))}–${esc(String(r.as))}</b>`
+        : `<span class="lw-vs">v</span>`;
+      const status = live
+        ? `<span class="lw-status lw-live"><span class="lw-dot"></span>${esc(r.clock || "LIVE")}</span>`
+        : post ? `<span class="lw-status lw-ft">FT</span>`
+        : `<span class="lw-status lw-ko">${esc(ko)}</span>`;
+      return `<li class="lw-row">
+        <span class="lw-fix"><span class="lw-side">${teamCell(r.home)}</span>${mid}<span class="lw-side">${teamCell(r.away)}</span></span>
+        ${status}
+      </li>`;
+    }
+    async function load() {
+      let events = [];
+      for (const d of windowDates()) {
+        try {
+          const res = await fetch(ENDPOINT + d, { mode: "cors" });
+          if (!res.ok) continue;
+          const json = await res.json();
+          if (Array.isArray(json.events)) events = events.concat(json.events);
+        } catch (_) { /* ignore a single bad date */ }
+      }
+      const rows = [];
+      for (const e of events) {
+        const comp = e.competitions && e.competitions[0];
+        const cs = (comp && comp.competitors) || [];
+        const home = cs.find((c) => c.homeAway === "home");
+        const away = cs.find((c) => c.homeAway === "away");
+        if (!home || !away) continue;
+        const hw = wcLookup[norm(home.team.displayName || home.team.name)];
+        const aw = wcLookup[norm(away.team.displayName || away.team.name)];
+        if (!hw && !aw) continue; // only friendlies involving a WC team
+        const st = (e.status && e.status.type) || {};
+        rows.push({
+          date: e.date, state: st.state, clock: (e.status && e.status.displayClock) || st.shortDetail,
+          hs: home.score, as: away.score,
+          home: { name: home.team.displayName, wc: hw }, away: { name: away.team.displayName, wc: aw },
+        });
+      }
+      if (!rows.length) { sec.hidden = true; return false; }
+      const rank = (s) => (s === "in" ? 0 : s === "pre" ? 1 : 2);
+      rows.sort((a, b) => rank(a.state) - rank(b.state) || new Date(a.date) - new Date(b.date));
+      list.innerHTML = rows.slice(0, 12).map(rowHtml).join("");
+      sec.hidden = false;
+      return rows.some((r) => r.state === "in");
+    }
+    let timer;
+    async function tick() {
+      let anyLive = false;
+      try { anyLive = await load(); } catch (_) { /* keep section as-is */ }
+      clearTimeout(timer);
+      timer = setTimeout(tick, anyLive ? 60000 : 300000); // 1 min while live, else 5 min
+    }
+    document.addEventListener("visibilitychange", () => {
+      if (document.hidden) clearTimeout(timer); else tick();
+    });
+    if (!document.hidden) tick();
+  })();
+</script>
+
 <style>
   .rd-hero {
     border-radius: var(--radius-lg); border: 1px solid var(--border);
@@ -196,6 +311,30 @@ const description =
 
   .rd-foot { margin: 0.8rem 0 0; font-size: 0.8rem; line-height: 1.55; }
   .rd-foot b { color: var(--fg); }
+
+  /* Live "Tonight's warm-ups" widget */
+  .lw-count { color: var(--accent); }
+  .lw-list { list-style: none; margin: 0; padding: 0; }
+  .lw-row {
+    display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+    padding: 0.6rem 0.85rem; border-top: 1px solid var(--border-soft);
+  }
+  .lw-row:first-child { border-top: none; }
+  .lw-fix { display: flex; align-items: center; gap: 0.7rem; min-width: 0; }
+  .lw-side { color: var(--fg); white-space: nowrap; }
+  .lw-side a { color: var(--link); text-decoration: none; }
+  .lw-side a:hover { text-decoration: underline; }
+  .lw-vs { color: var(--muted-2); font-size: 0.8rem; }
+  .lw-score { font-family: var(--font-mono); font-variant-numeric: tabular-nums slashed-zero; font-weight: 700; color: var(--fg); }
+  .lw-status { flex: 0 0 auto; font-family: var(--font-mono); font-size: 0.74rem; white-space: nowrap; }
+  .lw-ko { color: var(--muted-2); }
+  .lw-ft { color: var(--muted); }
+  .lw-live { display: inline-flex; align-items: center; gap: 0.35rem; color: var(--bad); font-weight: 700; }
+  .lw-dot { width: 0.5rem; height: 0.5rem; border-radius: 999px; background: var(--bad); animation: lw-breathe 1.8s ease-in-out infinite; }
+  @keyframes lw-breathe { 50% { opacity: 0.4; } }
+  .lw-foot { margin: 0.8rem 0 0; font-size: 0.78rem; }
+  .lw-foot a { color: var(--link); text-decoration: none; }
+  .lw-foot a:hover { text-decoration: underline; }
 
   @media (max-width: 720px) {
     .rd-hero { padding: 1.3rem 1.2rem; }
