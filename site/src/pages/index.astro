@@ -6,14 +6,12 @@ import NewsItem from "../components/NewsItem.astro";
 import KickoffCountdown from "../components/KickoffCountdown.astro";
 import LocalTime from "../components/LocalTime.astro";
 import Newsletter from "../components/Newsletter.astro";
-import { loadFixtures, loadBets, loadPredictions, loadNews, bankrollStats, nextMatchday, selectionLabel, selectionShort, pct1, money, signedPct, oddsMovedSincePredictions, oddsAsOf } from "../lib/data";
+import { loadFixtures, loadPredictions, loadNews, nextMatchday, selectionLabel, selectionShort, pct1, oddsMovedSincePredictions, oddsAsOf } from "../lib/data";
 
 const fixtures = loadFixtures();
-const { bets, currency } = loadBets();
 const { predictions, generated_at } = loadPredictions();
 const news = loadNews();
 const latestNews = news.items.slice(0, 8);
-const stats = bankrollStats(bets);
 
 const analyses = await getCollection("matches");
 const analyzedIds = new Set(analyses.map((a) => a.data.match_id));
@@ -29,18 +27,6 @@ const upcoming = scheduled
   .filter((m) => new Date(m.kickoff!) > now)
   .slice(0, 6);
 
-// Biggest model edges across all predictions, joined to fixtures for labels.
-const matchById = new Map(fixtures.matches.map((m) => [m.id, m]));
-const topEdges = predictions
-  .flatMap((p) =>
-    (p.edges ?? []).map((e) => ({ pred: p, edge: e, match: matchById.get(p.match_id) })),
-  )
-  .filter((x) => x.match)
-  .sort((a, b) => b.edge.edge_pct - a.edge.edge_pct)
-  .slice(0, 4);
-
-const fmt = (n: number) => `${n.toFixed(2)} ${currency}`;
-const winRate = stats.count ? Math.round((stats.wins / stats.count) * 100) : null;
 const edgeCount = predictions.reduce((s, p) => s + (p.edges?.length ?? 0), 0);
 
 // Date-aware "what to look at right now" module.
@@ -60,7 +46,6 @@ const injuryFor = (m: { home: string; away: string }) =>
 ---
 <Base title="Dashboard — Soccer 26">
   <section class="hero">
-    <div class="hero-glow" aria-hidden="true"></div>
     <p class="eyebrow">FIFA World Cup 2026 · Transparent model</p>
     <h1 class="hero-title">Every probability,<br />shown and <em>graded in public</em>.</h1>
     <p class="hero-sub">
@@ -119,25 +104,6 @@ const injuryFor = (m: { home: string; away: string }) =>
     </section>
   )}
 
-  {topEdges.length > 0 && (
-    <section style="margin-top: 2.25rem;">
-      <div class="section-head">
-        <h2>Biggest value edges</h2>
-        <span class="count">model vs market</span>
-        <span class="rule"></span>
-      </div>
-      <div class="edge-strip">
-        {topEdges.map(({ pred, edge, match }) => (
-          <a class="edge-tile" href={`/matches/${pred.match_id}`}>
-            <span class="edge-pct">+{pct1(edge.edge_pct)}%</span>
-            <span class="edge-sel">{selectionShort(edge.selection)} · {edge.odds_decimal.toFixed(2)}</span>
-            <span class="edge-match">{match!.home} vs {match!.away}</span>
-          </a>
-        ))}
-      </div>
-    </section>
-  )}
-
   <section style="margin-top: 2.25rem;">
     <div class="section-head">
       <h2>Next up</h2>
@@ -174,46 +140,13 @@ const injuryFor = (m: { home: string; away: string }) =>
     <Newsletter />
   </section>
 
-  <section style="margin-top: 2.25rem;" aria-label="Bankroll summary">
-    <div class="section-head">
-      <h2>Bankroll &amp; P&amp;L</h2>
-      <span class="count">logged &amp; graded</span>
-      <span class="rule"></span>
-    </div>
-    <div class="grid cols-4 statrow">
-      <div class="panel stat-card">
-        <div class="stat-label">Profit / Loss</div>
-        <div class={`stat-value ${stats.pnl >= 0 ? "pos" : "neg"}`}>{money(stats.pnl, currency)}</div>
-        <div class="stat-sub">across {stats.count} settled bet{stats.count === 1 ? "" : "s"}</div>
-      </div>
-      <div class="panel stat-card tone-cyan">
-        <div class="stat-label">ROI</div>
-        <div class={`stat-value ${stats.roi >= 0 ? "pos" : "neg"}`}>{signedPct(stats.roi, 1)}</div>
-        <div class="stat-sub">return on staked capital</div>
-      </div>
-      <div class="panel stat-card tone-mag">
-        <div class="stat-label">Win rate</div>
-        <div class="stat-value">{winRate == null ? "—" : `${winRate}%`}</div>
-        <div class="stat-sub">{stats.wins}W · {stats.losses}L</div>
-      </div>
-      <div class="panel stat-card tone-warn">
-        <div class="stat-label">Staked</div>
-        <div class="stat-value">{stats.totalStake.toFixed(0)} {currency}</div>
-        <div class="stat-sub">total exposure</div>
-      </div>
-    </div>
-    {stats.count === 0 && (
-      <p class="subtle bankroll-empty">No bets logged yet — the bankroll and P&amp;L fill in once the tournament starts (11 Jun).</p>
-    )}
-  </section>
-
   <p class="meta freshness" style="margin-top: 2rem;">
     {generated_at ? (
       <>
         Predictions generated <LocalTime iso={generated_at} fmt="datetime" />
         {oddsAsOf(fixtures.matches) && (
           oddsMovedSincePredictions(generated_at, fixtures.matches) ? (
-            <span class="fresh-badge stale" title="The market has moved since the model last ran — re-run python model/predict.py">⚠ odds moved since — refresh</span>
+            <span class="fresh-badge stale" title="The market has moved since the model last ran — re-run python model/predict.py">odds moved since — refresh</span>
           ) : (
             <span class="fresh-badge ok" title="No book quotes a price newer than this prediction set">✓ in sync with latest odds</span>
           )
@@ -299,16 +232,9 @@ const injuryFor = (m: { home: string; away: string }) =>
     overflow: hidden;
     border-radius: var(--radius-lg);
     border: 1px solid var(--border);
-    background:
-      radial-gradient(120% 140% at 0% 0%, rgba(47,182,114,0.07), transparent 52%),
-      linear-gradient(180deg, var(--surface-2), var(--surface));
-    padding: 2.4rem 2.2rem 2.1rem;
+    background: linear-gradient(180deg, var(--surface-2), var(--surface));
+    padding: var(--s-6) var(--s-5);
     box-shadow: inset 0 1px 0 rgba(255,255,255,0.03);
-  }
-  .hero-glow {
-    position: absolute; inset: auto -10% -60% -10%; height: 200px;
-    background: radial-gradient(60% 100% at 50% 0%, rgba(47,182,114,0.07), transparent 70%);
-    pointer-events: none;
   }
   .hero-title {
     font-size: clamp(1.9rem, 4.4vw, 3rem);
@@ -322,8 +248,6 @@ const injuryFor = (m: { home: string; away: string }) =>
   .hero-sub { max-width: 56ch; color: var(--muted); font-size: 1.02rem; margin: 0 0 1.25rem; }
   /* .hero-chip styles are global (Base.astro). */
 
-  .statrow { margin-top: 0; }
-  .bankroll-empty { margin: 0.85rem 0 0; font-size: 0.88rem; color: var(--muted-2); }
 
   .freshness { display: inline-flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; }
   .fresh-badge {
@@ -331,7 +255,7 @@ const injuryFor = (m: { home: string; away: string }) =>
     padding: 0.08rem 0.5rem; border-radius: var(--radius-sm); white-space: nowrap;
   }
   .fresh-badge.ok { color: var(--accent); background: var(--accent-soft); border: 1px solid var(--accent-line); }
-  .fresh-badge.stale { color: var(--warn); background: var(--warn-soft); border: 1px solid rgba(255,181,36,0.4); }
+  .fresh-badge.stale { color: var(--warn); background: var(--warn-soft); border: 1px solid var(--warn-line); }
 
   /* Date-aware matchday band */
   .matchday {
@@ -375,7 +299,7 @@ const injuryFor = (m: { home: string; away: string }) =>
   .md-injury {
     display: inline-flex; align-items: center; gap: 0.25rem;
     font-size: 0.7rem; font-weight: 700; letter-spacing: 0.02em;
-    color: var(--warn); border: 1px solid rgba(255,181,36,0.4);
+    color: var(--warn); border: 1px solid var(--warn-line);
     background: var(--warn-soft); border-radius: var(--radius-sm);
     padding: 0.12rem 0.5rem; white-space: nowrap;
   }
@@ -387,23 +311,6 @@ const injuryFor = (m: { home: string; away: string }) =>
     .md-row { grid-template-columns: auto 1fr; }
     .md-tail { grid-column: 1 / -1; justify-content: flex-start; }
   }
-
-  .edge-strip {
-    display: grid; gap: 0.85rem;
-    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-  }
-  .edge-tile {
-    display: flex; flex-direction: column; gap: 0.2rem;
-    padding: 0.95rem 1.05rem; border-radius: var(--radius);
-    border: 1px solid var(--accent-line);
-    background: linear-gradient(160deg, var(--accent-soft), transparent 70%), var(--surface);
-    color: var(--fg); text-decoration: none;
-    transition: transform 0.16s ease, box-shadow 0.16s ease;
-  }
-  .edge-tile:hover { transform: translateY(-3px); box-shadow: var(--shadow-lg); text-decoration: none; }
-  .edge-pct { font-family: var(--font-mono); font-weight: 600; font-size: 1.5rem; color: var(--accent); letter-spacing: -0.02em; font-variant-numeric: tabular-nums slashed-zero; }
-  .edge-sel { font-family: var(--font-mono); font-size: 0.74rem; font-weight: 500; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; }
-  .edge-match { font-size: 0.92rem; color: var(--fg); font-weight: 600; }
 
   .see-all { font-size: 0.85rem; font-weight: 600; white-space: nowrap; }
 

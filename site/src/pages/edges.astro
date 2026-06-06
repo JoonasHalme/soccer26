@@ -282,22 +282,7 @@ const exposurePct = bankroll > 0 ? (totalStake / bankroll) * 100 : 0;
     align-items: center; justify-content: space-between;
     margin-top: 1.1rem;
   }
-  .filters { display: flex; flex-wrap: wrap; gap: 0.4rem; }
-  .chip {
-    font: inherit; cursor: pointer;
-    display: inline-flex; align-items: center;
-    min-height: 44px;
-    padding: 0.3rem 0.85rem; border-radius: var(--radius-sm);
-    border: 1px solid var(--border-strong);
-    background: var(--surface-2); color: var(--muted);
-    font-size: 0.8rem; font-weight: 600;
-    transition: color 0.15s, background 0.15s, border-color 0.15s;
-  }
-  .chip:hover { color: var(--fg); }
-  .chip.is-on {
-    color: #03210f; border-color: transparent;
-    background: linear-gradient(140deg, var(--accent), var(--accent-2));
-  }
+  .filters { display: flex; flex-wrap: wrap; gap: 0.4rem; }  /* .chip is global (Base.astro) */
   .sort { font-size: 0.82rem; color: var(--muted); display: inline-flex; align-items: center; gap: 0.5rem; }
   .sort select {
     font: inherit; font-size: 0.85rem;
@@ -318,7 +303,7 @@ const exposurePct = bankroll > 0 ? (totalStake / bankroll) * 100 : 0;
     display: inline-block; margin-left: 0.4rem; vertical-align: 1px;
     font-size: 0.62rem; font-weight: 700; letter-spacing: 0.04em;
     text-transform: uppercase;
-    color: var(--warn); border: 1px solid rgba(255,181,36,0.4);
+    color: var(--warn); border: 1px solid var(--warn-line);
     background: var(--warn-soft); border-radius: var(--radius-sm);
     padding: 0.04rem 0.4rem; white-space: nowrap;
   }
@@ -329,7 +314,7 @@ const exposurePct = bankroll > 0 ? (totalStake / bankroll) * 100 : 0;
   .stake { font-variant-numeric: tabular-nums; white-space: nowrap; font-weight: 600; color: var(--fg); }
   .stake .cap {
     margin-left: 0.35rem; font-size: 0.66rem; font-weight: 700;
-    color: var(--warn); border: 1px solid rgba(255,181,36,0.4);
+    color: var(--warn); border: 1px solid var(--warn-line);
     background: var(--warn-soft); border-radius: var(--radius-sm); padding: 0.02rem 0.32rem;
     vertical-align: 1px;
   }

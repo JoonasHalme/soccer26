@@ -1,15 +1,17 @@
 ---
-// Shared page hero — consolidates the per-page hero panels that had drifted
-// (different paddings/gradients across index/groups/bracket/outrights/team). Pass
-// the subtitle + any chips as default-slot content. `tint` picks the accent wash.
+// Shared page hero — the single hero treatment for the whole site (the per-page
+// glow-gradient panels were the #1 "AI landing page" tell). Flat surface + 1px
+// border + a catch-light; no radial wash. Pass the subtitle + any chips as
+// default-slot content. `size="display"` gives the homepage a larger headline.
 interface Props {
   eyebrow?: string;
   title: string;
-  tint?: "green" | "cyan" | "gold" | "violet";
+  tint?: "green" | "cyan" | "gold" | "violet"; // accepted for back-compat; no longer a glow
+  size?: "default" | "display";
 }
-const { eyebrow, title, tint = "green" } = Astro.props;
+const { eyebrow, title, size = "default" } = Astro.props;
 ---
-<section class={`pagehero tint-${tint}`}>
+<section class={`pagehero size-${size}`}>
   {eyebrow && <p class="eyebrow">{eyebrow}</p>}
   <h1 class="ph-title">{title}</h1>
   <slot />
@@ -17,24 +19,18 @@ const { eyebrow, title, tint = "green" } = Astro.props;
 
 <style>
   .pagehero {
-    position: relative; overflow: hidden;
     border-radius: var(--radius-lg);
     border: 1px solid var(--border);
+    /* a barely-there vertical surface lift — NOT a coloured glow */
     background: linear-gradient(180deg, var(--surface-2), var(--surface));
-    padding: 1.7rem 1.9rem;
-    box-shadow: var(--shadow-lg);
+    padding: var(--s-6) var(--s-5);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.03);
   }
-  .pagehero::before {
-    content: ""; position: absolute; inset: 0; pointer-events: none;
-    background:
-      radial-gradient(120% 130% at 0% 0%, var(--ph-tint, rgba(47,182,114,0.09)), transparent 55%);
+  .ph-title { margin: var(--s-1) 0 0; }
+  .size-display .ph-title {
+    font-size: clamp(2rem, 4.6vw, var(--t-display));
+    line-height: var(--lh-tight);
+    letter-spacing: -0.03em;
   }
-  .pagehero > * { position: relative; }
-  .tint-green  { --ph-tint: rgba(47,182,114,0.10); }
-  .tint-cyan   { --ph-tint: rgba(61,215,255,0.10); }
-  .tint-gold   { --ph-tint: rgba(240,194,58,0.12); }
-  .tint-violet { --ph-tint: rgba(157,123,255,0.12); }
-  .ph-title { margin: 0.3rem 0 0; }
-
-  @media (max-width: 720px) { .pagehero { padding: 1.3rem 1.2rem; } }
+  @media (max-width: 720px) { .pagehero { padding: var(--s-5) var(--s-4); } }
 </style>

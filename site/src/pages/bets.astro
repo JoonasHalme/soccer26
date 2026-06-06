@@ -237,7 +237,6 @@ const marketRows = Object.entries(clv.byMarket);
 
   {sorted.length === 0 ? (
     <div class="empty">
-      <div class="empty-icon" aria-hidden="true">🎟️</div>
       <h2 style="margin:0 0 0.3rem;">No settled bets yet</h2>
       <p class="subtle" style="margin:0; max-width:52ch;">
         CLV and P/L populate automatically once bets are logged and results arrive.
@@ -279,7 +278,7 @@ const marketRows = Object.entries(clv.byMarket);
 <style>
   .lead-tag {
     font-size: 0.6rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em;
-    color: var(--cyan); background: var(--cyan-soft); border: 1px solid rgba(61,215,255,0.3);
+    color: var(--info); background: var(--info-soft); border: 1px solid var(--info-line);
     border-radius: var(--radius-sm); padding: 0.02rem 0.34rem; vertical-align: 1px; margin-left: 0.35rem;
   }
   .clv-note b { color: var(--fg); font-weight: 600; }
@@ -292,11 +291,8 @@ const marketRows = Object.entries(clv.byMarket);
     display: flex; flex-direction: column; align-items: center; text-align: center;
     gap: 0.4rem; padding: 3rem 1.5rem;
     border: 1px dashed var(--border-strong); border-radius: var(--radius-lg);
-    background:
-      radial-gradient(80% 100% at 50% 0%, var(--accent-soft), transparent 60%),
-      var(--surface);
+    background: var(--surface);
   }
-  .empty-icon { font-size: 2.4rem; filter: saturate(0.9); }
 
   .equity { width: 100%; height: 180px; display: block; margin-top: 0.4rem; }
   .equity-base { stroke: var(--border-strong); stroke-width: 1; stroke-dasharray: 4 4; }

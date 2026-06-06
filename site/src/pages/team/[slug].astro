@@ -170,12 +170,9 @@ const description = `${team}'s FIFA World Cup 2026 squad, schedule (Group ${grou
     display: flex; align-items: center; gap: 1.1rem; flex-wrap: wrap;
     border-radius: var(--radius-lg);
     border: 1px solid var(--border);
-    background:
-      radial-gradient(120% 140% at 0% 0%, rgba(47,182,114,0.10), transparent 52%),
-      radial-gradient(120% 140% at 100% 0%, rgba(61,215,255,0.10), transparent 50%),
-      linear-gradient(180deg, var(--surface-2), var(--surface));
-    padding: 1.5rem 1.7rem;
-    box-shadow: var(--shadow-lg);
+    background: linear-gradient(180deg, var(--surface-2), var(--surface));
+    padding: var(--s-5) var(--s-5);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.03);
   }
   .tm-hero-body { flex: 1; min-width: 200px; }
   .tm-headrow { display: flex; align-items: center; gap: 0.9rem; flex-wrap: wrap; }

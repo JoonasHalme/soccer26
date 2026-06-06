@@ -206,7 +206,14 @@ const champion = (() => {
         </div>
         <div class="bk-round" style={`width:${CHAMP_W}px;height:${H}px;`}>
           <div class={`bk-champ ${champion ? "is-won" : ""}`} style={`top:${r2(H / 2)}px;`}>
-            <span class="bk-trophy" aria-hidden="true">🏆</span>
+            <span class="bk-trophy" aria-hidden="true">
+              <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M8 4h8v3a4 4 0 0 1-8 0V4z" />
+                <path d="M8 5H5.5A2.5 2.5 0 0 0 8 8.5" />
+                <path d="M16 5h2.5A2.5 2.5 0 0 1 16 8.5" />
+                <path d="M12 11v3M9.5 17h5M10 14h4" />
+              </svg>
+            </span>
             {champion
               ? <span class="bk-champ-team"><TeamFlag team={champion} size={20} /><b>{champion}</b></span>
               : <span class="bk-champ-team"><b>Champion</b><small>to be decided</small></span>}
@@ -306,7 +313,7 @@ const champion = (() => {
     border-radius: var(--radius-sm);
     padding: 0.3rem 0.5rem;
     box-shadow: var(--shadow);
-    transition: border-color 0.14s ease, background 0.14s ease, transform 0.14s ease;
+    transition: border-color var(--dur-fast) var(--ease), background var(--dur-fast) var(--ease), transform var(--dur-fast) var(--ease);
   }
   .bk-tie:hover {
     text-decoration: none;
@@ -315,7 +322,7 @@ const champion = (() => {
     transform: translateY(-50%) scale(1.015);
     z-index: 2;
   }
-  .bk-tie:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; z-index: 3; }
+  .bk-tie:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; z-index: 3; }
 
   .bk-slot { display: flex; align-items: center; gap: 0.4rem; min-width: 0; line-height: 1.1; }
   .bk-name {
@@ -342,7 +349,7 @@ const champion = (() => {
     background: linear-gradient(180deg, rgba(255,216,77,0.12), var(--surface));
     box-shadow: var(--shadow-md);
   }
-  .bk-trophy { font-size: 1.4rem; line-height: 1; filter: saturate(1.1); }
+  .bk-trophy { display: inline-flex; align-items: center; color: var(--stage-final); }
   .bk-champ-team { display: flex; flex-direction: column; gap: 0.1rem; min-width: 0; }
   .bk-champ-team b { font-size: 0.95rem; color: var(--fg); }
   .bk-champ-team small { font-size: 0.7rem; color: var(--muted-2); }

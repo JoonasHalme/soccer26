@@ -95,11 +95,11 @@ const isBest = (key: string, price?: number) =>
   .bo-sum-label {
     font-weight: 700; color: var(--fg);
     display: inline-flex; align-items: center; gap: 0.45rem;
-    transition: color 0.15s ease;
+    transition: color var(--dur-fast) var(--ease);
   }
   .bo-sum-label::before {
     content: "▸"; font-size: 0.8em; color: var(--muted-2);
-    transition: transform 0.15s ease;
+    transition: transform var(--dur-fast) var(--ease);
   }
   .bo-collapse[open] .bo-sum-label::before { transform: rotate(90deg); }
   .bo-sum-hint { font-size: 0.76rem; color: var(--muted-2); }

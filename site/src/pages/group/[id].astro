@@ -136,18 +136,15 @@ const description = `FIFA World Cup 2026 Group ${letter}: ${teams.join(", ")}. L
     display: flex; align-items: center; gap: 1.2rem; flex-wrap: wrap;
     border-radius: var(--radius-lg);
     border: 1px solid var(--border);
-    background:
-      radial-gradient(120% 140% at 0% 0%, rgba(47,182,114,0.10), transparent 52%),
-      radial-gradient(120% 140% at 100% 0%, rgba(255,61,139,0.10), transparent 50%),
-      linear-gradient(180deg, var(--surface-2), var(--surface));
-    padding: 1.5rem 1.7rem;
-    box-shadow: var(--shadow-lg);
+    background: linear-gradient(180deg, var(--surface-2), var(--surface));
+    padding: var(--s-5) var(--s-5);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.03);
   }
   .gr-letter {
     display: grid; place-items: center;
     width: 3rem; height: 3rem; border-radius: 12px;
     font-family: var(--font-display); font-weight: 800; font-size: 1.6rem;
-    color: #03210f;
+    color: var(--accent-ink);
     background: linear-gradient(140deg, var(--accent), var(--accent-2));
     box-shadow: inset 0 1px 0 rgba(255,255,255,0.25);
   }

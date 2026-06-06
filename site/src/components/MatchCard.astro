@@ -156,6 +156,6 @@ const hasScore = match.score?.home != null && match.score?.away != null;
   }
   .mc-xg { color: var(--muted-2); font-variant-numeric: tabular-nums; }
   .mc-spacer { flex: 1; }
-  .mc-arrow { color: var(--muted-2); font-weight: 700; transition: transform 0.16s ease; }
+  .mc-arrow { color: var(--muted-2); font-weight: 700; transition: transform var(--dur-fast) var(--ease); }
   .match-card:hover .mc-arrow { transform: translateX(3px); color: var(--accent); }
 </style>
