@@ -243,8 +243,10 @@ const description =
         const aw = wcLookup[norm(away.team.displayName || away.team.name)];
         if (!hw && !aw) continue; // only friendlies involving a WC team
         const st = (e.status && e.status.type) || {};
-        // drop stale finals (yesterday's are recent; older ones live in the feed below)
-        if (st.state === "post" && (Date.now() - new Date(e.date).getTime()) / 3.6e6 > 20) continue;
+        // drop stale finals (keep ~a day so yesterday's results stay until martj42
+        // ingests them into the permanent feed below); skip cancelled games.
+        if (st.state === "post" && (Date.now() - new Date(e.date).getTime()) / 3.6e6 > 30) continue;
+        if (/cancel|postpon|abandon/i.test(st.description || st.shortDetail || "")) continue;
         rows.push({
           date: e.date, state: st.state, clock: (e.status && e.status.displayClock) || st.shortDetail,
           hs: home.score, as: away.score,
@@ -252,9 +254,14 @@ const description =
         });
       }
       if (!rows.length) { sec.hidden = true; return false; }
-      const rank = (s) => (s === "in" ? 0 : s === "pre" ? 1 : 2);
-      rows.sort((a, b) => rank(a.state) - rank(b.state) || new Date(a.date) - new Date(b.date));
-      list.innerHTML = rows.slice(0, 10).map(rowHtml).join("");
+      // Show LIVE first, then recent RESULTS (so yesterday's finals aren't buried by
+      // the long list of upcoming games), then UPCOMING — each capped so all three
+      // are represented instead of upcoming crowding out the results.
+      const live = rows.filter((r) => r.state === "in");
+      const finals = rows.filter((r) => r.state === "post").sort((a, b) => new Date(b.date) - new Date(a.date));
+      const upcoming = rows.filter((r) => r.state === "pre").sort((a, b) => new Date(a.date) - new Date(b.date));
+      const ordered = [...live, ...finals.slice(0, 8), ...upcoming.slice(0, 8)];
+      list.innerHTML = ordered.map(rowHtml).join("");
       sec.hidden = false;
       return rows.some((r) => r.state === "in");
     }
