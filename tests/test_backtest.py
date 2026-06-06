@@ -107,8 +107,11 @@ def test_walk_forward_no_leakage_first_scored_match_uses_only_prior():
     # the first scored match index == warmup).
     table = elo.EloTable()
     for row in df.iloc[:warmup].itertuples(index=False):
+        # Mirror run_backtest exactly, including the match-importance weight it
+        # applies to each update (no tournament column -> match_importance("")).
         table.update(row.home_team, row.away_team,
-                     int(row.home_score), int(row.away_score), neutral=True)
+                     int(row.home_score), int(row.away_score), neutral=True,
+                     importance=elo.match_importance(getattr(row, "tournament", "")))
     expected_rh = table.get(df.iloc[warmup].home_team)
     expected_ra = table.get(df.iloc[warmup].away_team)
 

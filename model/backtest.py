@@ -32,7 +32,7 @@ from pathlib import Path
 import pandas as pd
 
 import elo
-from elo import EloTable, expected_goals, match_probabilities
+from elo import EloTable, expected_goals, match_probabilities, match_importance
 
 ROOT = Path(__file__).resolve().parent.parent
 CSV = ROOT / "model" / "data" / "internationals.csv"
@@ -210,8 +210,10 @@ def run_backtest(df: pd.DataFrame, warmup: int = 800,
 
                 records.append((pv, outcome, p_over, over_actual))
 
-            # Update ratings AFTER predicting (no leakage).
-            table.update(row.home_team, row.away_team, gh, ga, neutral=neutral)
+            # Update ratings AFTER predicting (no leakage). Weight the update by
+            # match importance so friendlies move ratings less than real games.
+            imp = match_importance(getattr(row, "tournament", ""))
+            table.update(row.home_team, row.away_team, gh, ga, neutral=neutral, importance=imp)
 
         if n == 0:
             raise ValueError("No matches scored — check warmup / window vs data span.")

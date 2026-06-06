@@ -169,6 +169,47 @@ def canonical(team: str) -> str:
     return NAME_ALIASES.get(team, team)
 
 
+# --------------------------------------------------------------------------- #
+# Match-importance weighting (eloratings.net style).
+#
+# Not every result deserves the same weight. A friendly is a half-strength,
+# rotated, low-stakes exhibition; a World Cup match is the real thing. Weighting
+# the rating UPDATE by the match's importance stops 1,500+ friendlies in the
+# dataset from dragging the ratings around as much as competitive results do.
+#
+# The multiplier scales the per-match K (see EloTable.update). Tiers are a fixed,
+# documented schedule (NOT fitted — that would overfit); the base K is re-fit by
+# calibrate.py with this weighting active, so the average effective K is preserved
+# and only the RELATIVE weight of friendly-vs-competitive changes. Values are
+# centred near 1.0 so the scale stays comparable to the un-weighted model.
+# --------------------------------------------------------------------------- #
+IMPORTANCE_FRIENDLY = 0.5      # exhibitions: rotated XIs, low stakes
+IMPORTANCE_MINOR = 0.85        # minor/invitational cups (COSAFA, Arab Cup, FIFA Series…)
+IMPORTANCE_QUALIFIER = 1.0     # WC/continental qualifiers + Nations League group — the baseline
+IMPORTANCE_CONTINENTAL = 1.4   # continental finals (Euro, Copa, AFCON, Asian Cup, Gold Cup)
+IMPORTANCE_WORLD_CUP = 1.75    # the World Cup finals themselves
+
+
+def match_importance(tournament: str) -> float:
+    """Map a tournament name to its rating-update weight (see tiers above).
+
+    Order matters: qualifiers contain their parent competition's name
+    ("FIFA World Cup qualification" contains "world cup"), so they are matched
+    BEFORE the finals tiers. Unknown competitions fall to the minor-cup weight.
+    """
+    t = (tournament or "").lower()
+    if "friendly" in t:
+        return IMPORTANCE_FRIENDLY
+    if "qualif" in t or "nations league" in t:
+        return IMPORTANCE_QUALIFIER
+    if "world cup" in t:                       # finals (qualifiers already handled)
+        return IMPORTANCE_WORLD_CUP
+    if any(k in t for k in ("euro", "copa am", "african cup of nations",
+                            "asian cup", "gold cup")):
+        return IMPORTANCE_CONTINENTAL
+    return IMPORTANCE_MINOR
+
+
 @dataclass
 class EloTable:
     ratings: dict[str, float] = field(default_factory=dict)
@@ -181,7 +222,8 @@ class EloTable:
         rb = self.get(away)
         return 1.0 / (1.0 + 10.0 ** ((rb - ra) / 400.0))
 
-    def update(self, home: str, away: str, gh: int, ga: int, neutral: bool = False) -> None:
+    def update(self, home: str, away: str, gh: int, ga: int, neutral: bool = False,
+               importance: float = 1.0) -> None:
         expected = self.expected_score(home, away, neutral)
         if gh > ga:
             actual = 1.0
@@ -191,7 +233,10 @@ class EloTable:
             actual = 0.5
         goal_diff = abs(gh - ga)
         multiplier = math.log(max(goal_diff, 1) + 1) * (2.2 / (abs(self.get(home) - self.get(away)) * 0.001 + 2.2))
-        delta = K * multiplier * (actual - expected)
+        # `importance` scales how far ratings move for this match (eloratings.net
+        # style): a friendly shifts ratings half as much as a competitive game, so
+        # exhibition results stop polluting the ratings the forecast is built on.
+        delta = K * multiplier * importance * (actual - expected)
         # Write to the canonical key so an aliased spelling can't split a team's
         # rating across two keys (get() canonicalises but the write previously
         # used the raw name — latent bug per docs/improvements.md L1).

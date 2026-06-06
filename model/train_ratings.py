@@ -16,7 +16,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from elo import EloTable
+from elo import EloTable, match_importance
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -46,6 +46,7 @@ def main() -> None:
             gh=int(row.home_score),
             ga=int(row.away_score),
             neutral=_is_neutral(row.neutral),
+            importance=match_importance(getattr(row, "tournament", "")),
         )
     elo.save(OUT)
     print(f"Trained on {len(df)} matches; wrote {len(elo.ratings)} team ratings to {OUT.relative_to(ROOT)}")

@@ -1,16 +1,16 @@
 {
   "constants": {
-    "K": 100.938073,
-    "HOME_ADV": 97.25046,
-    "ELO_TO_GOAL_DIFF": 0.002297,
-    "DIXON_COLES_RHO": -0.152776,
-    "GOALS_BASELINE": 2.590574,
-    "GOALS_STRENGTH_COEF": -9.5e-05,
-    "GOALS_MISMATCH_COEF": 0.001521
+    "K": 117.981793,
+    "HOME_ADV": 103.784172,
+    "ELO_TO_GOAL_DIFF": 0.00209,
+    "DIXON_COLES_RHO": -0.087233,
+    "GOALS_BASELINE": 2.573384,
+    "GOALS_STRENGTH_COEF": -9.6e-05,
+    "GOALS_MISMATCH_COEF": 0.001245
   },
-  "fitted_at": "2026-06-06T14:32:31.534777+00:00",
+  "fitted_at": "2026-06-06T19:22:30.533437+00:00",
   "method": {
-    "one_x_two": "kept (active calibration.json)",
+    "one_x_two": "scipy.Nelder-Mead",
     "totals": "scipy.Nelder-Mead"
   },
   "objective": {
@@ -45,37 +45,37 @@
       },
       "train": {
         "n": 3916,
-        "log_loss": 0.96328,
-        "brier": 0.56632,
-        "rps": 0.19358,
-        "accuracy": 0.54903,
+        "log_loss": 0.96911,
+        "brier": 0.57045,
+        "rps": 0.19534,
+        "accuracy": 0.55107,
         "ou_n": 3916,
-        "ou_log_loss": 0.71851,
-        "ou_brier": 0.26201,
+        "ou_log_loss": 0.72001,
+        "ou_brier": 0.26273,
         "base_rates": [
           0.4717,
           0.2316,
           0.2967
         ],
-        "ece": 0.02842,
+        "ece": 0.022,
         "baseline_log_loss": 1.05374,
         "beats_baseline": true
       },
       "validation": {
         "n": 1227,
-        "log_loss": 0.88678,
-        "brier": 0.51904,
-        "rps": 0.17356,
-        "accuracy": 0.5868,
+        "log_loss": 0.89058,
+        "brier": 0.52059,
+        "rps": 0.17423,
+        "accuracy": 0.59087,
         "ou_n": 1227,
-        "ou_log_loss": 0.72799,
-        "ou_brier": 0.26649,
+        "ou_log_loss": 0.72926,
+        "ou_brier": 0.26711,
         "base_rates": [
           0.4857,
           0.2233,
           0.291
         ],
-        "ece": 0.03483,
+        "ece": 0.03338,
         "baseline_log_loss": 1.04474,
         "beats_baseline": true
       }
@@ -83,47 +83,47 @@
     "fitted": {
       "label": "FITTED (new)",
       "params": {
-        "K": 100.938073,
-        "HOME_ADV": 97.25046,
-        "ELO_TO_GOAL_DIFF": 0.002297,
-        "DIXON_COLES_RHO": -0.152776,
-        "GOALS_BASELINE": 2.590574,
-        "GOALS_STRENGTH_COEF": -9.5e-05,
-        "GOALS_MISMATCH_COEF": 0.001521
+        "K": 117.981793,
+        "HOME_ADV": 103.784172,
+        "ELO_TO_GOAL_DIFF": 0.00209,
+        "DIXON_COLES_RHO": -0.087233,
+        "GOALS_BASELINE": 2.573384,
+        "GOALS_STRENGTH_COEF": -9.6e-05,
+        "GOALS_MISMATCH_COEF": 0.001245
       },
       "train": {
         "n": 3916,
-        "log_loss": 0.93908,
-        "brier": 0.55573,
-        "rps": 0.18978,
-        "accuracy": 0.56027,
+        "log_loss": 0.94505,
+        "brier": 0.55972,
+        "rps": 0.19155,
+        "accuracy": 0.5549,
         "ou_n": 3916,
-        "ou_log_loss": 0.68728,
-        "ou_brier": 0.24709,
+        "ou_log_loss": 0.68821,
+        "ou_brier": 0.24755,
         "base_rates": [
           0.4717,
           0.2316,
           0.2967
         ],
-        "ece": 0.00972,
+        "ece": 0.00804,
         "baseline_log_loss": 1.05374,
         "beats_baseline": true
       },
       "validation": {
         "n": 1227,
-        "log_loss": 0.86218,
-        "brier": 0.50809,
-        "rps": 0.16933,
-        "accuracy": 0.60391,
+        "log_loss": 0.86483,
+        "brier": 0.50925,
+        "rps": 0.16979,
+        "accuracy": 0.60717,
         "ou_n": 1227,
-        "ou_log_loss": 0.68924,
-        "ou_brier": 0.24812,
+        "ou_log_loss": 0.68916,
+        "ou_brier": 0.24806,
         "base_rates": [
           0.4857,
           0.2233,
           0.291
         ],
-        "ece": 0.01901,
+        "ece": 0.01941,
         "baseline_log_loss": 1.04474,
         "beats_baseline": true
       }

@@ -577,17 +577,50 @@ Nothing else in active development. Remaining tasks below are untouched.
 - **Acceptance criteria:**
   - [ ] λ derive from attack/defence ratings; OU log-loss improves vs current.
 
-### TASK-032 — Exponential time-decay weighting (ξ)
-- **Why:** Currently a Jan-2020 friendly weighs the same as a 2026 qualifier;
-  Dixon-Coles-style decay measurably improves RPS.
-- **Scope/what to build:** Add a ξ time-decay weight to the rating updates /
-  fit; expose ξ as a calibrated constant in `calibration.json`.
-- **Files likely touched:** `model/elo.py`, `model/train_ratings.py`,
-  `model/calibrate.py`, `model/data/calibration.json`.
-- **Dependencies:** none.
-- **Effort:** M
-- **Acceptance criteria:**
-  - [ ] ξ is fit and applied; backtest RPS/log-loss does not regress.
+### TASK-032 — Exponential time-decay weighting (ξ) — ❌ TESTED & REJECTED 2026-06-06
+- **Why (original hypothesis):** A Jan-2020 friendly weighs the same as a 2026
+  qualifier; Dixon-Coles-style decay should improve RPS.
+- **Outcome:** Tested empirically (recency-weighted train objective, refit the
+  1X2 constants, eval on held-out 2025 competitive matches). ξ **monotonically
+  worsens** every metric: competitive log-loss 0.8421 → 0.8439 (ξ=0.4) → 0.8450
+  (ξ=0.8); RPS and accuracy likewise degrade. **ξ=0 is optimal.**
+- **Why it fails here:** Dixon-Coles ξ is for *static* models that weight all
+  matches equally in one likelihood. soccer26's Elo is already **sequential /
+  recency-aware** — old results are continuously overwritten by newer ones — so
+  re-weighting the calibration objective on top just discards useful older signal
+  and overfits recent dynamics, generalising worse. Not applicable to a sequential
+  Elo. Left rejected; do not re-open without a fundamentally different mechanism.
+
+### TASK-063 — Match-importance K-weighting — ✅ SHIPPED 2026-06-06
+- **Why:** ~1,500 friendlies in the training set moved ratings as much as
+  competitive results. Weight the rating update by match importance (eloratings.net
+  style) so exhibitions stop polluting the ratings.
+- **What shipped:** `match_importance(tournament)` in `model/elo.py` (friendly 0.5,
+  minor cup 0.85, qualifier/Nations-League 1.0, continental final 1.4, World Cup
+  1.75); `EloTable.update(..., importance=)` scales the per-match delta; threaded
+  through `backtest.py` + `train_ratings.py`; base **K re-fit to 117.98** with
+  weighting active (K bound widened to 200 in `calibrate.py`); ratings + anchors +
+  predictions + sims regenerated.
+- **Empirical result:** marginal **net-positive on competitive matches** (the WC's
+  job): held-out accuracy 0.6244 → 0.6313, RPS 0.1657 → 0.1653, log-loss ~tied;
+  cost falls only on *friendly* prediction (never forecast by the site). Train ECE
+  improved 0.0089 → 0.0080.
+- **Known side effect (accepted):** the **un-blended outright sims** become more
+  market-contrarian (Spain ~20%→23.6%, Germany ~6%→1.9%, Brazil ~12%→5.9%, Norway
+  ~2.5%→5%) because importance emphasises competitive results (Spain/England up for
+  winning real matches; Brazil/Belgium down for poor qualifying) and outrights have
+  no per-match odds to blend against. Per-match *published* edges barely move — the
+  market blend absorbs the rating change (median model-vs-market |gap| 0.036). Owner
+  chose to ship the competitive-weighted view. Revisit by blending outrights to a
+  futures market post-tournament.
+
+### TASK-064 — Extend market blend to O/U & BTTS — ➖ ALREADY SHIPPED / MOOT 2026-06-06
+- **Finding:** O/U 2.5 is **already** in the blend (`_BLENDABLE` in `predict.py`,
+  linear probability scale). BTTS **cannot** be blended — the Odds API World Cup
+  endpoint rejects the `btts` market (see `fetch_odds.py`), so there is no market to
+  anchor against; model BTTS stays display-only (honest). Logit-scale blending for
+  the binary O/U market ≈ linear because WC totals cluster near 50%, so the change is
+  negligible. Nothing to build.
 
 ### TASK-033 — In-tournament rating updates + knockout re-prediction (H6)
 - **Why:** Over a month-long event, frozen ratings make later-round predictions
@@ -646,6 +679,31 @@ Nothing else in active development. Remaining tasks below are untouched.
 - **Effort:** M
 - **Acceptance criteria:**
   - [ ] A distinct, coverage-gated injuries block renders per team/match.
+- **Note (2026-06-06):** keep this as **display/context only** — see TASK-065.
+
+### TASK-065 — Player form ("hotness") + injuries as a MODEL input — ❌ RESEARCHED & DECLINED 2026-06-06
+- **Question (owner):** Can recent individual player form + injuries feed the
+  forecast (e.g. a hot Germany player nudges Germany up; injuries nudge down)?
+- **Verdict:** **Do not feed it into the model. Keep injuries/squads as on-page
+  context (already shipped: injury-tagged news, matchday injury pill, squad rosters).**
+- **Why (research summary):**
+  1. **Redundant with the blend.** The published forecast is already pulled toward
+     the de-vigged market, which prices lineups/injuries/form within minutes — faster
+     and more completely than we could. A player layer would mostly help us *match* a
+     market we're already anchored to, not *beat* it. The blend (TASK-046/047) is the
+     project's answer to "the market sees squad quality we can't"; this re-solves it.
+  2. **Coverage is backwards.** Free form/injury data is abundant for big nations
+     (which the market already nails) and **blank for CAF/AFC/OFC/CONCACAF minnows**
+     (where a team model is our only edge). ESPN's WC injury tracker is explicitly
+     star/big-nation only; no free source covers all 48 teams' players.
+  3. **Biggest risk:** a wrong/stale flag on a thin-data minnow (one player = a huge
+     share of a fragile rating) swings the prediction hard the wrong way — *adding
+     variance where we have least information* — and if it ever touched the blended
+     forecast it would manufacture phantom edges on the sharpest games and pollute CLV.
+- **Only defensible modeled version (post-tournament, optional):** a small, capped
+  "key-player **confirmed ruled out**" penalty applied to the **raw `probabilities`
+  / knockout+outright sims only** (never the blended `forecast`/edges) — and only
+  after the CLV ledger exists to measure whether it does anything. Not worth it now.
 
 ### TASK-038 — Model uncertainty / confidence indicator
 - **Why:** Point probabilities hide that minor-nation ratings rest on tiny samples
