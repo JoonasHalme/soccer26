@@ -23,7 +23,7 @@ const canonicalUrl = Astro.site ? new URL(path, Astro.site).href : path;
 const isActive = (href: string) =>
   href === "/" ? path === "/" : path.startsWith(href);
 // Secondary routes live under a "More" dropdown so the top bar stays uncluttered.
-const MORE_ROUTES = ["/divergence", "/predict", "/methodology"];
+const MORE_ROUTES = ["/calibration", "/divergence", "/predict", "/methodology"];
 const moreActive = MORE_ROUTES.some((h) => isActive(h));
 const year = new Date().getFullYear();
 ---
@@ -620,11 +620,11 @@ const year = new Date().getFullYear();
           <a href="/bracket" class="navlink" aria-current={isActive("/bracket") ? "page" : undefined}>Bracket</a>
           <a href="/outrights" class="navlink" aria-current={isActive("/outrights") ? "page" : undefined}>Outrights</a>
           <a href="/bets" class="navlink" aria-current={isActive("/bets") ? "page" : undefined}>Bets</a>
-          <a href="/calibration" class="navlink" aria-current={isActive("/calibration") ? "page" : undefined}>Calibration</a>
         </div>
         <details class="nav-more">
           <summary class="navlink" aria-current={moreActive ? "page" : undefined}>More</summary>
           <div class="nav-more-menu">
+            <a href="/calibration" class="navlink" aria-current={isActive("/calibration") ? "page" : undefined}>Calibration</a>
             <a href="/methodology" class="navlink" aria-current={isActive("/methodology") ? "page" : undefined}>Methodology</a>
             <a href="/divergence" class="navlink" aria-current={isActive("/divergence") ? "page" : undefined}>Divergence</a>
             <a href="/predict" class="navlink" aria-current={isActive("/predict") ? "page" : undefined}>Predict</a>

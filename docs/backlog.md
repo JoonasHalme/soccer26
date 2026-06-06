@@ -869,11 +869,15 @@ openers or the first-week data is permanently lost.**
   order-independent hash). **Follow-on (open):** external anchoring (public git remote /
   OpenTimestamps) for a third-party-notarised guarantee.
 
-### TASK-051 — Rotate the exposed ODDS_API_KEY — ⏳ OWNER ACTION (security)
-- Added a `.env.example` template (vars documented, no secret) so the expected env is clear and
-  the secret stays out of any tracked/shipped file. Confirmed (again) NOT leaked into any build
-  artifact. **Still requires the owner to rotate the key** in the-odds-api.com dashboard (it was
-  surfaced during the audit). Can't be done from here — it's account-side.
+### TASK-051 — Rotate the exposed ODDS_API_KEY — ✅ ROTATED (owner) + REPO VERIFIED CLEAN 2026-06-06
+- Owner rotated the key in the the-odds-api.com dashboard (the original value is now dead).
+- **Repo audited and confirmed clean (2026-06-06):** the key value appears in **no tracked file**
+  and in **no commit across the full git history (all refs)**; `.env` was **never committed**; the
+  fetch scripts keep the key in the request `params` (never in the printed URL/logs); the
+  `.claude` memory files are clean. So the public repo is **not** a leak source — rotation holds.
+- If GitHub secret-scanning still shows an alert, it is the **pre-rotation** alert and can be
+  **dismissed** (Security → Secret scanning) — GitHub never received the key via a commit, so there
+  is nothing in the repo to purge. `.env.example` documents the expected env with no secret.
 
 ### TASK-052 — Dashboard cards showed RAW model probs (blend inconsistency) — ✅ FIXED 2026-06-06
 - Code review (C1, Critical): `MatchCard.astro` + the match OG card used `pred.probabilities`
