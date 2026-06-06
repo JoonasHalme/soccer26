@@ -1,0 +1,207 @@
+---
+import Base from "../layouts/Base.astro";
+import TeamFlag from "../components/TeamFlag.astro";
+import { loadForm, teamSlug } from "../lib/data";
+
+const form = loadForm();
+const feed = form.recent ?? [];
+const rec = form.record ?? { correct: 0, total: 0 };
+const pct = rec.total ? Math.round((100 * rec.correct) / rec.total) : 0;
+
+// Team table: who's arriving in form. Sort by points from the last 5 (W=3, D=1).
+const fp = (s: string) => s.split("").reduce((a, c) => a + (c === "W" ? 3 : c === "D" ? 1 : 0), 0);
+const teamRows = Object.entries(form.teams)
+  .map(([team, tf]) => ({ team, tf, fp: fp(tf.form) }))
+  .sort((a, b) => b.fp - a.fp || (b.tf.record?.correct ?? 0) - (a.tf.record?.correct ?? 0));
+
+const isWC = (name: string) => name in form.teams;
+const teamsInFeed = new Set(feed.flatMap((m) => [m.home, m.away]).filter((n) => n in form.teams)).size;
+const allFriendly = feed.length > 0 && feed.every((m) => m.friendly);
+const fmtDate = (iso: string) =>
+  new Date(iso + "T00:00:00Z").toLocaleDateString("en-GB", { day: "numeric", month: "short", timeZone: "UTC" });
+const pct0 = (x: number) => Math.round(x * 100);
+const pickName = (m: (typeof feed)[number]) =>
+  m.model.pick === "H" ? m.home : m.model.pick === "A" ? m.away : "Draw";
+
+const title = "Road to the World Cup — the model's pre-match calls on every warm-up | Soccer 26";
+const description =
+  "Every pre-tournament warm-up and run-in result for the 48 World Cup 2026 teams, each with the model's own pre-match call (walk-forward, no hindsight) — hits and misses shown in full as an honest track record going into kickoff.";
+---
+<Base title={title} description={description}>
+  <section class="rd-hero">
+    <p class="eyebrow">Pre-tournament · Full transparency</p>
+    <h1>Road to the World Cup</h1>
+    <p class="subtle rd-lede">
+      The warm-ups and run-in for all 48 teams — and, on every game, <b>what our model
+      predicted before kickoff</b> (computed from ratings as they stood <i>before</i> the
+      match — no hindsight). We show the misses too: this is the model's honest track
+      record walking into the tournament, not a highlight reel.
+    </p>
+    <div class="rd-stats">
+      <div class="rd-stat accent">
+        <span class="rd-n">{rec.correct}/{rec.total}</span>
+        <span class="rd-l">pre-match calls correct</span>
+      </div>
+      <div class="rd-stat">
+        <span class="rd-n">{pct}%</span>
+        <span class="rd-l">hit rate on the run-in</span>
+      </div>
+      <div class="rd-stat">
+        <span class="rd-n">{teamsInFeed}</span>
+        <span class="rd-l">World Cup teams in action</span>
+      </div>
+    </div>
+    <p class="rd-caveat">
+      {allFriendly ? "These are all " : "Most of these are "}<b>warm-up friendlies</b> — rotated XIs, experiments, little at
+      stake — so even a sharp model is often wrong, and the market itself moves little on
+      them. That's exactly why the model counts them at <b>half weight</b>. Read the hit
+      rate as honesty, not a promise. <a href="/methodology#ratings">How ratings work →</a>
+    </p>
+  </section>
+
+  <section class="rd-section">
+    <div class="section-head"><h2>Every call on the run-in</h2><span class="count">since {form.since ? fmtDate(form.since) : "May"}</span><span class="rule"></span></div>
+    <div class="table-wrap">
+      <table class="rd-feed table--cards">
+        <thead>
+          <tr><th>Date</th><th>Match</th><th>Result</th><th>Model's pre-match call</th></tr>
+        </thead>
+        <tbody>
+          {feed.map((m) => (
+            <tr>
+              <td class="meta" data-label="Date">{fmtDate(m.date)}</td>
+              <td data-label="Match">
+                <span class="rd-fix">
+                  <span class="rd-side">
+                    <TeamFlag team={m.home} size={18} />
+                    {isWC(m.home) ? <a href={`/team/${teamSlug(m.home)}`}>{m.home}</a> : <span>{m.home}</span>}
+                  </span>
+                  <span class="rd-v">v</span>
+                  <span class="rd-side">
+                    <TeamFlag team={m.away} size={18} />
+                    {isWC(m.away) ? <a href={`/team/${teamSlug(m.away)}`}>{m.away}</a> : <span>{m.away}</span>}
+                  </span>
+                  {m.friendly && <span class="rd-half" title="Exhibition — counted at half weight in the model">×½</span>}
+                </span>
+              </td>
+              <td class="num" data-label="Result"><b class="rd-score">{m.hs}–{m.as}</b></td>
+              <td data-label="Model's pre-match call">
+                <span class={`rd-call ${m.model.correct ? "hit" : "miss"}`}>
+                  <span class="rd-mark">{m.model.correct ? "✓" : "✗"}</span>
+                  {pickName(m)}
+                  <span class="rd-p" title={`Model gave the actual result ${pct0(m.model.p_actual)}% (home ${pct0(m.model.ph)}% · draw ${pct0(m.model.pd)}% · away ${pct0(m.model.pa)}%)`}>
+                    {pct0(m.model.p_actual)}%
+                  </span>
+                </span>
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+    <p class="subtle rd-foot">
+      <b>✓/✗</b> is whether the model's most-likely pre-match outcome matched the result;
+      the <b>%</b> is the probability it gave the <i>actual</i> result (so a confident miss
+      reads low). Pure transparency — no cherry-picking.
+    </p>
+  </section>
+
+  <section class="rd-section">
+    <div class="section-head"><h2>How every team is arriving</h2><span class="count">last 5, in form first</span><span class="rule"></span></div>
+    <div class="table-wrap">
+      <table class="rd-teams table--cards">
+        <thead>
+          <tr><th>Team</th><th>Form</th><th class="num">Model record</th><th>Last result</th></tr>
+        </thead>
+        <tbody>
+          {teamRows.map(({ team, tf }) => {
+            const last = tf.matches[0];
+            return (
+              <tr>
+                <td data-label="Team">
+                  <a class="rd-team" href={`/team/${teamSlug(team)}`}><TeamFlag team={team} size={20} />{team}</a>
+                </td>
+                <td data-label="Form">
+                  <span class="rd-chips">
+                    {tf.form.split("").map((r) => <span class={`fchip f-${r}`}>{r}</span>)}
+                  </span>
+                </td>
+                <td class="num" data-label="Model record">
+                  {tf.record ? <span class="rd-rec">{tf.record.correct}/{tf.record.total}</span> : "—"}
+                </td>
+                <td class="meta" data-label="Last result">
+                  {last ? (
+                    <span>{last.res} {last.home ? "v" : "@"} {last.opp} <b>{last.gf}–{last.ga}</b></span>
+                  ) : "—"}
+                </td>
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .rd-hero {
+    border-radius: var(--radius-lg); border: 1px solid var(--border);
+    background:
+      radial-gradient(120% 140% at 0% 0%, rgba(47,182,114,0.12), transparent 52%),
+      radial-gradient(120% 140% at 100% 0%, rgba(61,215,255,0.10), transparent 50%),
+      linear-gradient(180deg, var(--surface-2), var(--surface));
+    padding: 1.7rem 1.9rem; box-shadow: var(--shadow-lg);
+  }
+  .rd-hero h1 { margin: 0.3rem 0 0; }
+  .rd-lede { max-width: 70ch; margin: 0.6rem 0 0; line-height: 1.6; }
+  .rd-lede b { color: var(--fg); }
+
+  .rd-stats { display: flex; gap: 1.6rem; flex-wrap: wrap; margin: 1.3rem 0 0; }
+  .rd-stat { display: flex; flex-direction: column; gap: 0.1rem; }
+  .rd-n { font-family: var(--font-mono); font-weight: 700; font-size: 1.7rem; color: var(--fg); font-variant-numeric: tabular-nums slashed-zero; line-height: 1; }
+  .rd-stat.accent .rd-n { color: var(--accent); }
+  .rd-l { font-size: 0.74rem; color: var(--muted-2); text-transform: uppercase; letter-spacing: 0.04em; font-weight: 600; }
+  .rd-caveat { max-width: 72ch; margin: 1.2rem 0 0; font-size: 0.84rem; color: var(--muted); line-height: 1.6; }
+  .rd-caveat b { color: var(--fg); font-weight: 600; }
+  .rd-caveat a, .rd-foot a { color: var(--link); text-decoration: none; }
+  .rd-caveat a:hover { text-decoration: underline; }
+
+  .rd-section { margin-top: 2.1rem; }
+  .table-wrap { width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; border: 1px solid var(--border-soft); border-radius: var(--radius-sm); }
+  .rd-feed, .rd-teams { border-collapse: collapse; width: 100%; font-size: 0.9rem; }
+  .rd-feed th, .rd-feed td, .rd-teams th, .rd-teams td { text-align: left; padding: 0.55rem 0.8rem; border-bottom: 1px solid var(--border-soft); white-space: nowrap; }
+  .rd-feed thead th, .rd-teams thead th { color: var(--muted-2); font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.05em; }
+  .rd-feed tbody tr:last-child td, .rd-teams tbody tr:last-child td { border-bottom: none; }
+  .rd-feed .num, .rd-teams .num { text-align: right; }
+  .rd-feed .meta, .rd-teams .meta { color: var(--muted); }
+  .rd-feed a, .rd-teams a { color: var(--link); text-decoration: none; }
+  .rd-feed a:hover, .rd-teams a:hover { text-decoration: underline; }
+
+  .rd-fix { display: inline-flex; align-items: center; gap: 0.5rem; }
+  .rd-side { display: inline-flex; align-items: center; gap: 0.35rem; }
+  .rd-v { color: var(--muted-2); font-size: 0.78rem; }
+  .rd-score { font-variant-numeric: tabular-nums; }
+  .rd-half { font-family: var(--font-mono); font-size: 0.66rem; color: var(--muted); background: var(--surface-2); border: 1px solid var(--border); border-radius: 4px; padding: 0.01rem 0.28rem; cursor: help; }
+
+  .rd-call { display: inline-flex; align-items: center; gap: 0.4rem; font-size: 0.85rem; border-radius: 6px; padding: 0.12rem 0.5rem; }
+  .rd-call.hit  { color: var(--accent); background: rgba(47,182,114,0.10); border: 1px solid rgba(47,182,114,0.28); }
+  .rd-call.miss { color: #e0859a; background: rgba(224,85,106,0.08); border: 1px solid rgba(224,85,106,0.26); }
+  .rd-mark { font-family: var(--font-mono); font-weight: 700; }
+  .rd-p { font-family: var(--font-mono); font-size: 0.74rem; color: var(--muted-2); cursor: help; }
+
+  .rd-team { display: inline-flex; align-items: center; gap: 0.5rem; color: var(--fg); font-weight: 500; }
+  .rd-chips { display: inline-flex; gap: 0.25rem; }
+  .fchip { width: 1.3rem; height: 1.3rem; border-radius: 5px; display: inline-flex; align-items: center; justify-content: center; font-family: var(--font-mono); font-weight: 700; font-size: 0.72rem; }
+  .f-W { background: var(--accent); color: #06140d; }
+  .f-D { background: var(--surface-2); color: var(--muted); border: 1px solid var(--border); }
+  .f-L { background: #e0556a; color: #1a0507; }
+  .rd-rec { font-family: var(--font-mono); font-variant-numeric: tabular-nums; color: var(--fg); }
+
+  .rd-foot { margin: 0.8rem 0 0; font-size: 0.8rem; line-height: 1.55; }
+  .rd-foot b { color: var(--fg); }
+
+  @media (max-width: 720px) {
+    .rd-hero { padding: 1.3rem 1.2rem; }
+    .rd-stats { gap: 1.1rem; }
+  }
+</style>

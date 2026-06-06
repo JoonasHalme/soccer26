@@ -619,6 +619,12 @@ export function loadSquads(): SquadsFile {
 // Recent international form ("Road to the World Cup"). Display-only context built
 // from the same results data the ratings train on; `weight` is the model's
 // match-importance weight for that game (so a warm-up friendly shows openly at 0.5).
+export interface FormModel {
+  pw: number; pd: number; pl: number;   // win/draw/loss probs, team's perspective
+  pick: "W" | "D" | "L";                // the model's pre-match most-likely call
+  correct: boolean;                     // did the pick match the result?
+  p_actual: number;                     // prob the model gave the actual result
+}
 export interface FormMatch {
   date: string;
   opp: string;
@@ -629,9 +635,33 @@ export interface FormMatch {
   weight: number;
   home: boolean;
   neutral: boolean;
+  model?: FormModel;                    // pre-match (walk-forward) model call
 }
-export interface TeamForm { form: string; matches: FormMatch[] }
-export interface FormFile { updated: string | null; teams: Record<string, TeamForm> }
+export interface TeamForm {
+  form: string;
+  matches: FormMatch[];
+  record?: { correct: number; total: number };  // model's hit-rate over shown games
+}
+// One run-in match in the Road-to-the-WC feed (home-perspective model call).
+export interface RecentMatch {
+  date: string;
+  home: string; away: string;
+  hs: number; as: number;
+  comp: string; friendly: boolean; weight: number; neutral: boolean;
+  model: {
+    ph: number; pd: number; pa: number;
+    pick: "H" | "D" | "A";
+    correct: boolean;
+    p_actual: number;
+  };
+}
+export interface FormFile {
+  updated: string | null;
+  since?: string;
+  record?: { correct: number; total: number };   // model's pre-match record over the feed
+  recent?: RecentMatch[];
+  teams: Record<string, TeamForm>;
+}
 
 export function loadForm(): FormFile {
   return readJson<FormFile>("site/public/data/form.json", { updated: null, teams: {} });

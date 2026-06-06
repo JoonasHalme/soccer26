@@ -1,6 +1,735 @@
 {
-  "_note": "Recent international form for each WC2026 team (model/build_form.py). Display-only context; 'weight' is the model's match-importance weight.",
+  "_note": "Recent international form + pre-match model calls for each WC2026 team (model/build_form.py). Display-only; 'weight' is the model's match-importance weight, model calls are walk-forward (no hindsight).",
   "updated": "2026-06-04",
+  "since": "2026-05-01",
+  "record": {
+    "correct": 26,
+    "total": 38
+  },
+  "recent": [
+    {
+      "date": "2026-06-04",
+      "home": "Sweden",
+      "away": "Greece",
+      "hs": 2,
+      "as": 2,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.468,
+        "pd": 0.292,
+        "pa": 0.24,
+        "pick": "H",
+        "correct": false,
+        "p_actual": 0.292
+      }
+    },
+    {
+      "date": "2026-06-04",
+      "home": "Mexico",
+      "away": "Serbia",
+      "hs": 5,
+      "as": 1,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.708,
+        "pd": 0.203,
+        "pa": 0.089,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.708
+      }
+    },
+    {
+      "date": "2026-06-04",
+      "home": "Iran",
+      "away": "Mali",
+      "hs": 2,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": true,
+      "model": {
+        "ph": 0.564,
+        "pd": 0.256,
+        "pa": 0.18,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.564
+      }
+    },
+    {
+      "date": "2026-06-04",
+      "home": "Guatemala",
+      "away": "Czech Republic",
+      "hs": 1,
+      "as": 5,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": true,
+      "model": {
+        "ph": 0.198,
+        "pd": 0.265,
+        "pa": 0.537,
+        "pick": "A",
+        "correct": true,
+        "p_actual": 0.537
+      }
+    },
+    {
+      "date": "2026-06-04",
+      "home": "France",
+      "away": "Ivory Coast",
+      "hs": 1,
+      "as": 2,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.834,
+        "pd": 0.133,
+        "pa": 0.033,
+        "pick": "H",
+        "correct": false,
+        "p_actual": 0.033
+      }
+    },
+    {
+      "date": "2026-06-04",
+      "home": "Spain",
+      "away": "Iraq",
+      "hs": 1,
+      "as": 1,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.949,
+        "pd": 0.05,
+        "pa": 0.002,
+        "pick": "H",
+        "correct": false,
+        "p_actual": 0.05
+      }
+    },
+    {
+      "date": "2026-06-03",
+      "home": "South Korea",
+      "away": "El Salvador",
+      "hs": 1,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": true,
+      "model": {
+        "ph": 0.781,
+        "pd": 0.16,
+        "pa": 0.059,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.781
+      }
+    },
+    {
+      "date": "2026-06-03",
+      "home": "DR Congo",
+      "away": "Denmark",
+      "hs": 0,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": true,
+      "model": {
+        "ph": 0.197,
+        "pd": 0.265,
+        "pa": 0.538,
+        "pick": "A",
+        "correct": false,
+        "p_actual": 0.265
+      }
+    },
+    {
+      "date": "2026-06-03",
+      "home": "Netherlands",
+      "away": "Algeria",
+      "hs": 0,
+      "as": 1,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.668,
+        "pd": 0.223,
+        "pa": 0.11,
+        "pick": "H",
+        "correct": false,
+        "p_actual": 0.11
+      }
+    },
+    {
+      "date": "2026-06-03",
+      "home": "Panama",
+      "away": "Dominican Republic",
+      "hs": 4,
+      "as": 2,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.872,
+        "pd": 0.107,
+        "pa": 0.021,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.872
+      }
+    },
+    {
+      "date": "2026-06-02",
+      "home": "Wales",
+      "away": "Ghana",
+      "hs": 1,
+      "as": 1,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.63,
+        "pd": 0.238,
+        "pa": 0.132,
+        "pick": "H",
+        "correct": false,
+        "p_actual": 0.238
+      }
+    },
+    {
+      "date": "2026-06-02",
+      "home": "Morocco",
+      "away": "Madagascar",
+      "hs": 4,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.929,
+        "pd": 0.066,
+        "pa": 0.005,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.929
+      }
+    },
+    {
+      "date": "2026-06-02",
+      "home": "Haiti",
+      "away": "New Zealand",
+      "hs": 4,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": true,
+      "model": {
+        "ph": 0.291,
+        "pd": 0.294,
+        "pa": 0.416,
+        "pick": "A",
+        "correct": false,
+        "p_actual": 0.291
+      }
+    },
+    {
+      "date": "2026-06-02",
+      "home": "Croatia",
+      "away": "Belgium",
+      "hs": 0,
+      "as": 2,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.518,
+        "pd": 0.279,
+        "pa": 0.202,
+        "pick": "H",
+        "correct": false,
+        "p_actual": 0.202
+      }
+    },
+    {
+      "date": "2026-06-01",
+      "home": "Colombia",
+      "away": "Costa Rica",
+      "hs": 3,
+      "as": 1,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.839,
+        "pd": 0.13,
+        "pa": 0.031,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.839
+      }
+    },
+    {
+      "date": "2026-06-01",
+      "home": "Austria",
+      "away": "Tunisia",
+      "hs": 1,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.669,
+        "pd": 0.222,
+        "pa": 0.11,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.669
+      }
+    },
+    {
+      "date": "2026-06-01",
+      "home": "Canada",
+      "away": "Uzbekistan",
+      "hs": 2,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.548,
+        "pd": 0.269,
+        "pa": 0.183,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.548
+      }
+    },
+    {
+      "date": "2026-06-01",
+      "home": "Turkey",
+      "away": "North Macedonia",
+      "hs": 4,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.864,
+        "pd": 0.113,
+        "pa": 0.023,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.864
+      }
+    },
+    {
+      "date": "2026-06-01",
+      "home": "Norway",
+      "away": "Sweden",
+      "hs": 3,
+      "as": 1,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.754,
+        "pd": 0.18,
+        "pa": 0.066,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.754
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "home": "Brazil",
+      "away": "Panama",
+      "hs": 6,
+      "as": 2,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.706,
+        "pd": 0.204,
+        "pa": 0.089,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.706
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "home": "Cape Verde",
+      "away": "Serbia",
+      "hs": 3,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": true,
+      "model": {
+        "ph": 0.183,
+        "pd": 0.258,
+        "pa": 0.559,
+        "pick": "A",
+        "correct": false,
+        "p_actual": 0.183
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "home": "Germany",
+      "away": "Finland",
+      "hs": 4,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.865,
+        "pd": 0.113,
+        "pa": 0.023,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.865
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "home": "Czech Republic",
+      "away": "Kosovo",
+      "hs": 2,
+      "as": 1,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.339,
+        "pd": 0.293,
+        "pa": 0.368,
+        "pick": "A",
+        "correct": false,
+        "p_actual": 0.339
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "home": "USA",
+      "away": "Senegal",
+      "hs": 3,
+      "as": 2,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.356,
+        "pd": 0.295,
+        "pa": 0.349,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.356
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "home": "Japan",
+      "away": "Iceland",
+      "hs": 1,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.837,
+        "pd": 0.131,
+        "pa": 0.032,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.837
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "home": "Switzerland",
+      "away": "Jordan",
+      "hs": 4,
+      "as": 1,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.685,
+        "pd": 0.214,
+        "pa": 0.101,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.685
+      }
+    },
+    {
+      "date": "2026-05-30",
+      "home": "Scotland",
+      "away": "Cura\u00e7ao",
+      "hs": 4,
+      "as": 1,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.769,
+        "pd": 0.171,
+        "pa": 0.06,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.769
+      }
+    },
+    {
+      "date": "2026-05-30",
+      "home": "Mexico",
+      "away": "Australia",
+      "hs": 1,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": true,
+      "model": {
+        "ph": 0.428,
+        "pd": 0.293,
+        "pa": 0.279,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.428
+      }
+    },
+    {
+      "date": "2026-05-30",
+      "home": "South Korea",
+      "away": "Trinidad and Tobago",
+      "hs": 5,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": true,
+      "model": {
+        "ph": 0.748,
+        "pd": 0.178,
+        "pa": 0.074,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.748
+      }
+    },
+    {
+      "date": "2026-05-30",
+      "home": "Ecuador",
+      "away": "Saudi Arabia",
+      "hs": 2,
+      "as": 1,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": true,
+      "model": {
+        "ph": 0.801,
+        "pd": 0.149,
+        "pa": 0.05,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.801
+      }
+    },
+    {
+      "date": "2026-05-29",
+      "home": "South Africa",
+      "away": "Nicaragua",
+      "hs": 0,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.661,
+        "pd": 0.224,
+        "pa": 0.116,
+        "pick": "H",
+        "correct": false,
+        "p_actual": 0.224
+      }
+    },
+    {
+      "date": "2026-05-29",
+      "home": "Iran",
+      "away": "Gambia",
+      "hs": 3,
+      "as": 1,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": true,
+      "model": {
+        "ph": 0.711,
+        "pd": 0.196,
+        "pa": 0.093,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.711
+      }
+    },
+    {
+      "date": "2026-05-29",
+      "home": "Bosnia & Herzegovina",
+      "away": "North Macedonia",
+      "hs": 0,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.524,
+        "pd": 0.276,
+        "pa": 0.201,
+        "pick": "H",
+        "correct": false,
+        "p_actual": 0.276
+      }
+    },
+    {
+      "date": "2026-05-29",
+      "home": "Andorra",
+      "away": "Iraq",
+      "hs": 0,
+      "as": 1,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": true,
+      "model": {
+        "ph": 0.015,
+        "pd": 0.087,
+        "pa": 0.898,
+        "pick": "A",
+        "correct": true,
+        "p_actual": 0.898
+      }
+    },
+    {
+      "date": "2026-05-28",
+      "home": "Egypt",
+      "away": "Russia",
+      "hs": 1,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.468,
+        "pd": 0.292,
+        "pa": 0.24,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.468
+      }
+    },
+    {
+      "date": "2026-05-28",
+      "home": "Republic of Ireland",
+      "away": "Qatar",
+      "hs": 1,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.802,
+        "pd": 0.151,
+        "pa": 0.046,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.802
+      }
+    },
+    {
+      "date": "2026-05-26",
+      "home": "Morocco",
+      "away": "Burundi",
+      "hs": 5,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.966,
+        "pd": 0.033,
+        "pa": 0.001,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.966
+      }
+    },
+    {
+      "date": "2026-05-22",
+      "home": "Mexico",
+      "away": "Ghana",
+      "hs": 2,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.829,
+        "pd": 0.136,
+        "pa": 0.035,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.829
+      }
+    }
+  ],
   "teams": {
     "Austria": {
       "form": "WDWWW",
@@ -15,7 +744,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.669,
+            "pd": 0.222,
+            "pl": 0.11,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.669
+          }
         },
         {
           "date": "2026-03-31",
@@ -27,7 +764,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.5,
+            "pd": 0.284,
+            "pl": 0.216,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.5
+          }
         },
         {
           "date": "2026-03-27",
@@ -39,11 +784,19 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.733,
+            "pd": 0.19,
+            "pl": 0.077,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.733
+          }
         },
         {
           "date": "2025-11-18",
-          "opp": "Bosnia and Herzegovina",
+          "opp": "Bosnia & Herzegovina",
           "gf": 1,
           "ga": 1,
           "res": "D",
@@ -51,7 +804,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.759,
+            "pd": 0.176,
+            "pl": 0.065,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.176
+          }
         },
         {
           "date": "2025-11-15",
@@ -63,7 +824,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.774,
+            "pd": 0.16,
+            "pl": 0.066,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.774
+          }
         },
         {
           "date": "2025-10-12",
@@ -75,9 +844,21 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.521,
+            "pd": 0.263,
+            "pl": 0.216,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.216
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 4,
+        "total": 6
+      }
     },
     "Belgium": {
       "form": "DWWDW",
@@ -92,7 +873,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.202,
+            "pd": 0.279,
+            "pl": 0.518,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.202
+          }
         },
         {
           "date": "2026-03-31",
@@ -104,11 +893,19 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.316,
+            "pd": 0.301,
+            "pl": 0.384,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.301
+          }
         },
         {
           "date": "2026-03-28",
-          "opp": "United States",
+          "opp": "USA",
           "gf": 5,
           "ga": 2,
           "res": "W",
@@ -116,7 +913,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.277,
+            "pd": 0.297,
+            "pl": 0.426,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.277
+          }
         },
         {
           "date": "2025-11-18",
@@ -128,7 +933,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.986,
+            "pd": 0.014,
+            "pl": 0.0,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.986
+          }
         },
         {
           "date": "2025-11-15",
@@ -140,7 +953,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.719,
+            "pd": 0.188,
+            "pl": 0.093,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.188
+          }
         },
         {
           "date": "2025-10-13",
@@ -152,9 +973,21 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.334,
+            "pd": 0.296,
+            "pl": 0.371,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.334
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 1,
+        "total": 6
+      }
     },
     "Bosnia & Herzegovina": {
       "form": "WDDDD",
@@ -169,7 +1002,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.524,
+            "pd": 0.276,
+            "pl": 0.201,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.276
+          }
         },
         {
           "date": "2026-03-31",
@@ -181,7 +1022,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.227,
+            "pd": 0.267,
+            "pl": 0.506,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.267
+          }
         },
         {
           "date": "2026-03-26",
@@ -193,7 +1042,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.137,
+            "pd": 0.241,
+            "pl": 0.623,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.241
+          }
         },
         {
           "date": "2025-11-18",
@@ -205,7 +1062,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.065,
+            "pd": 0.176,
+            "pl": 0.759,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.176
+          }
         },
         {
           "date": "2025-11-15",
@@ -217,7 +1082,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.257,
+            "pd": 0.276,
+            "pl": 0.467,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.257
+          }
         },
         {
           "date": "2025-10-12",
@@ -229,9 +1102,21 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.475,
+            "pd": 0.273,
+            "pl": 0.253,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.475
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 1,
+        "total": 6
+      }
     },
     "Croatia": {
       "form": "WWWLL",
@@ -246,7 +1131,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.518,
+            "pd": 0.279,
+            "pl": 0.202,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.202
+          }
         },
         {
           "date": "2026-03-31",
@@ -258,7 +1151,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.343,
+            "pd": 0.305,
+            "pl": 0.353,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.353
+          }
         },
         {
           "date": "2026-03-26",
@@ -270,7 +1171,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.244,
+            "pd": 0.285,
+            "pl": 0.471,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.244
+          }
         },
         {
           "date": "2025-11-17",
@@ -282,7 +1191,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.824,
+            "pd": 0.133,
+            "pl": 0.043,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.824
+          }
         },
         {
           "date": "2025-11-14",
@@ -294,7 +1211,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.915,
+            "pd": 0.076,
+            "pl": 0.008,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.915
+          }
         },
         {
           "date": "2025-10-12",
@@ -306,9 +1231,21 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.981,
+            "pd": 0.018,
+            "pl": 0.001,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.981
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 4,
+        "total": 6
+      }
     },
     "Czech Republic": {
       "form": "WDDWW",
@@ -323,7 +1260,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.537,
+            "pd": 0.265,
+            "pl": 0.198,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.537
+          }
         },
         {
           "date": "2026-05-31",
@@ -335,7 +1280,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.339,
+            "pd": 0.293,
+            "pl": 0.368,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.339
+          }
         },
         {
           "date": "2026-03-31",
@@ -347,7 +1300,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.266,
+            "pd": 0.28,
+            "pl": 0.455,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.28
+          }
         },
         {
           "date": "2026-03-26",
@@ -359,7 +1320,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.456,
+            "pd": 0.294,
+            "pl": 0.25,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.294
+          }
         },
         {
           "date": "2025-11-17",
@@ -371,7 +1340,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.967,
+            "pd": 0.033,
+            "pl": 0.001,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.967
+          }
         },
         {
           "date": "2025-11-13",
@@ -383,9 +1360,21 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.978,
+            "pd": 0.022,
+            "pl": 0.001,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.978
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 3,
+        "total": 6
+      }
     },
     "England": {
       "form": "WWWDL",
@@ -400,7 +1389,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.68,
+            "pd": 0.217,
+            "pl": 0.102,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.102
+          }
         },
         {
           "date": "2026-03-27",
@@ -412,7 +1409,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.74,
+            "pd": 0.188,
+            "pl": 0.072,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.188
+          }
         },
         {
           "date": "2025-11-16",
@@ -424,7 +1429,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.675,
+            "pd": 0.209,
+            "pl": 0.116,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.675
+          }
         },
         {
           "date": "2025-11-13",
@@ -436,7 +1449,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.822,
+            "pd": 0.14,
+            "pl": 0.037,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.822
+          }
         },
         {
           "date": "2025-10-14",
@@ -448,7 +1469,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.965,
+            "pd": 0.034,
+            "pl": 0.001,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.965
+          }
         },
         {
           "date": "2025-10-09",
@@ -460,9 +1489,21 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.842,
+            "pd": 0.128,
+            "pl": 0.03,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.842
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 4,
+        "total": 6
+      }
     },
     "France": {
       "form": "WWWWL",
@@ -477,7 +1518,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.834,
+            "pd": 0.133,
+            "pl": 0.033,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.033
+          }
         },
         {
           "date": "2026-03-29",
@@ -489,7 +1538,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.451,
+            "pd": 0.29,
+            "pl": 0.259,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.451
+          }
         },
         {
           "date": "2026-03-26",
@@ -501,7 +1558,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.486,
+            "pd": 0.281,
+            "pl": 0.232,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.486
+          }
         },
         {
           "date": "2025-11-16",
@@ -513,7 +1578,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.95,
+            "pd": 0.047,
+            "pl": 0.003,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.95
+          }
         },
         {
           "date": "2025-11-13",
@@ -525,7 +1598,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.774,
+            "pd": 0.169,
+            "pl": 0.057,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.774
+          }
         },
         {
           "date": "2025-10-13",
@@ -537,9 +1618,21 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.833,
+            "pd": 0.128,
+            "pl": 0.04,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.128
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 4,
+        "total": 6
+      }
     },
     "Germany": {
       "form": "WWWWW",
@@ -554,7 +1647,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.865,
+            "pd": 0.113,
+            "pl": 0.023,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.865
+          }
         },
         {
           "date": "2026-03-30",
@@ -566,7 +1667,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.847,
+            "pd": 0.124,
+            "pl": 0.029,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.847
+          }
         },
         {
           "date": "2026-03-27",
@@ -578,7 +1687,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.207,
+            "pd": 0.281,
+            "pl": 0.512,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.207
+          }
         },
         {
           "date": "2025-11-17",
@@ -590,7 +1707,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.659,
+            "pd": 0.226,
+            "pl": 0.115,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.659
+          }
         },
         {
           "date": "2025-11-14",
@@ -602,7 +1727,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.788,
+            "pd": 0.153,
+            "pl": 0.059,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.788
+          }
         },
         {
           "date": "2025-10-13",
@@ -614,9 +1747,21 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.446,
+            "pd": 0.281,
+            "pl": 0.273,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.446
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 5,
+        "total": 6
+      }
     },
     "Netherlands": {
       "form": "DWWDL",
@@ -631,7 +1776,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.668,
+            "pd": 0.223,
+            "pl": 0.11,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.11
+          }
         },
         {
           "date": "2026-03-31",
@@ -643,7 +1796,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.44,
+            "pd": 0.297,
+            "pl": 0.262,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.297
+          }
         },
         {
           "date": "2026-03-27",
@@ -655,7 +1816,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.363,
+            "pd": 0.297,
+            "pl": 0.341,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.363
+          }
         },
         {
           "date": "2025-11-17",
@@ -667,7 +1836,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.963,
+            "pd": 0.036,
+            "pl": 0.001,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.963
+          }
         },
         {
           "date": "2025-11-14",
@@ -679,7 +1856,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.558,
+            "pd": 0.253,
+            "pl": 0.19,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.253
+          }
         },
         {
           "date": "2025-10-12",
@@ -691,9 +1876,21 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.901,
+            "pd": 0.087,
+            "pl": 0.012,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.901
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 3,
+        "total": 6
+      }
     },
     "Norway": {
       "form": "WWLDW",
@@ -708,7 +1905,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.754,
+            "pd": 0.18,
+            "pl": 0.066,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.754
+          }
         },
         {
           "date": "2026-03-31",
@@ -720,7 +1925,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.573,
+            "pd": 0.262,
+            "pl": 0.166,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.262
+          }
         },
         {
           "date": "2026-03-27",
@@ -732,7 +1945,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.341,
+            "pd": 0.297,
+            "pl": 0.363,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.363
+          }
         },
         {
           "date": "2025-11-16",
@@ -744,7 +1965,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.324,
+            "pd": 0.297,
+            "pl": 0.379,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.324
+          }
         },
         {
           "date": "2025-11-13",
@@ -756,7 +1985,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.955,
+            "pd": 0.043,
+            "pl": 0.002,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.955
+          }
         },
         {
           "date": "2025-10-14",
@@ -768,16 +2005,28 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.821,
+            "pd": 0.141,
+            "pl": 0.038,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.141
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 3,
+        "total": 6
+      }
     },
     "Portugal": {
       "form": "DLWDW",
       "matches": [
         {
           "date": "2026-03-31",
-          "opp": "United States",
+          "opp": "USA",
           "gf": 2,
           "ga": 0,
           "res": "W",
@@ -785,7 +2034,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.486,
+            "pd": 0.273,
+            "pl": 0.241,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.486
+          }
         },
         {
           "date": "2026-03-28",
@@ -797,7 +2054,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.312,
+            "pd": 0.298,
+            "pl": 0.39,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.298
+          }
         },
         {
           "date": "2025-11-16",
@@ -809,7 +2074,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.954,
+            "pd": 0.044,
+            "pl": 0.002,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.954
+          }
         },
         {
           "date": "2025-11-13",
@@ -821,7 +2094,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.754,
+            "pd": 0.171,
+            "pl": 0.074,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.074
+          }
         },
         {
           "date": "2025-10-14",
@@ -833,7 +2114,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.881,
+            "pd": 0.102,
+            "pl": 0.017,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.102
+          }
         },
         {
           "date": "2025-10-11",
@@ -845,9 +2134,21 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.92,
+            "pd": 0.073,
+            "pl": 0.007,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.92
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 3,
+        "total": 6
+      }
     },
     "Scotland": {
       "form": "LWLLW",
@@ -862,7 +2163,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.769,
+            "pd": 0.171,
+            "pl": 0.06,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.769
+          }
         },
         {
           "date": "2026-03-31",
@@ -874,7 +2183,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.426,
+            "pd": 0.293,
+            "pl": 0.281,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.281
+          }
         },
         {
           "date": "2026-03-28",
@@ -886,7 +2203,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.372,
+            "pd": 0.296,
+            "pl": 0.332,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.332
+          }
         },
         {
           "date": "2025-11-18",
@@ -898,7 +2223,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.247,
+            "pd": 0.275,
+            "pl": 0.478,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.247
+          }
         },
         {
           "date": "2025-11-15",
@@ -910,7 +2243,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.295,
+            "pd": 0.297,
+            "pl": 0.409,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.409
+          }
         },
         {
           "date": "2025-10-12",
@@ -922,9 +2263,21 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.784,
+            "pd": 0.162,
+            "pl": 0.053,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.784
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 3,
+        "total": 6
+      }
     },
     "Spain": {
       "form": "WDWDD",
@@ -939,7 +2292,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.949,
+            "pd": 0.05,
+            "pl": 0.002,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.05
+          }
         },
         {
           "date": "2026-03-31",
@@ -951,7 +2312,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.913,
+            "pd": 0.079,
+            "pl": 0.008,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.079
+          }
         },
         {
           "date": "2026-03-27",
@@ -963,7 +2332,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.917,
+            "pd": 0.076,
+            "pl": 0.007,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.917
+          }
         },
         {
           "date": "2025-11-18",
@@ -975,7 +2352,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.834,
+            "pd": 0.134,
+            "pl": 0.033,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.134
+          }
         },
         {
           "date": "2025-11-15",
@@ -987,7 +2372,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.843,
+            "pd": 0.122,
+            "pl": 0.035,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.843
+          }
         },
         {
           "date": "2025-10-14",
@@ -999,9 +2392,21 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.978,
+            "pd": 0.021,
+            "pl": 0.001,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.978
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 3,
+        "total": 6
+      }
     },
     "Sweden": {
       "form": "DWWLD",
@@ -1016,7 +2421,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.468,
+            "pd": 0.292,
+            "pl": 0.24,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.292
+          }
         },
         {
           "date": "2026-06-01",
@@ -1028,7 +2441,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.066,
+            "pd": 0.18,
+            "pl": 0.754,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.754
+          }
         },
         {
           "date": "2026-03-31",
@@ -1040,7 +2461,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.42,
+            "pd": 0.296,
+            "pl": 0.284,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.42
+          }
         },
         {
           "date": "2026-03-26",
@@ -1052,7 +2481,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.193,
+            "pd": 0.263,
+            "pl": 0.544,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.193
+          }
         },
         {
           "date": "2025-11-18",
@@ -1064,7 +2501,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.419,
+            "pd": 0.296,
+            "pl": 0.285,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.296
+          }
         },
         {
           "date": "2025-11-15",
@@ -1076,9 +2521,21 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.057,
+            "pd": 0.168,
+            "pl": 0.776,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.776
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 3,
+        "total": 6
+      }
     },
     "Switzerland": {
       "form": "WDLDW",
@@ -1093,7 +2550,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.685,
+            "pd": 0.214,
+            "pl": 0.101,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.685
+          }
         },
         {
           "date": "2026-03-31",
@@ -1105,7 +2570,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.166,
+            "pd": 0.262,
+            "pl": 0.573,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.262
+          }
         },
         {
           "date": "2026-03-27",
@@ -1117,7 +2590,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.512,
+            "pd": 0.281,
+            "pl": 0.207,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.207
+          }
         },
         {
           "date": "2025-11-18",
@@ -1129,7 +2610,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.385,
+            "pd": 0.292,
+            "pl": 0.323,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.292
+          }
         },
         {
           "date": "2025-11-15",
@@ -1141,7 +2630,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.776,
+            "pd": 0.168,
+            "pl": 0.057,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.776
+          }
         },
         {
           "date": "2025-10-13",
@@ -1153,9 +2650,21 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.501,
+            "pd": 0.269,
+            "pl": 0.23,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.269
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 2,
+        "total": 6
+      }
     },
     "Turkey": {
       "form": "WDWWW",
@@ -1170,7 +2679,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.864,
+            "pd": 0.113,
+            "pl": 0.023,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.864
+          }
         },
         {
           "date": "2026-03-31",
@@ -1182,7 +2699,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.335,
+            "pd": 0.296,
+            "pl": 0.368,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.335
+          }
         },
         {
           "date": "2026-03-26",
@@ -1194,7 +2719,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.805,
+            "pd": 0.15,
+            "pl": 0.044,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.805
+          }
         },
         {
           "date": "2025-11-18",
@@ -1206,7 +2739,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.033,
+            "pd": 0.134,
+            "pl": 0.834,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.134
+          }
         },
         {
           "date": "2025-11-15",
@@ -1218,7 +2759,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.929,
+            "pd": 0.066,
+            "pl": 0.005,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.929
+          }
         },
         {
           "date": "2025-10-14",
@@ -1230,9 +2779,21 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.67,
+            "pd": 0.221,
+            "pl": 0.109,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.67
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 4,
+        "total": 6
+      }
     },
     "Argentina": {
       "form": "WWWWW",
@@ -1247,7 +2808,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.962,
+            "pd": 0.037,
+            "pl": 0.001,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.962
+          }
         },
         {
           "date": "2026-03-27",
@@ -1259,7 +2828,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.973,
+            "pd": 0.026,
+            "pl": 0.001,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.973
+          }
         },
         {
           "date": "2025-11-14",
@@ -1271,7 +2848,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.87,
+            "pd": 0.105,
+            "pl": 0.026,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.87
+          }
         },
         {
           "date": "2025-10-14",
@@ -1283,7 +2868,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.976,
+            "pd": 0.024,
+            "pl": 0.001,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.976
+          }
         },
         {
           "date": "2025-10-10",
@@ -1295,7 +2888,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.793,
+            "pd": 0.154,
+            "pl": 0.053,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.793
+          }
         },
         {
           "date": "2025-09-09",
@@ -1307,9 +2908,21 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.486,
+            "pd": 0.274,
+            "pl": 0.24,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.24
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 5,
+        "total": 6
+      }
     },
     "Brazil": {
       "form": "WDLWW",
@@ -1324,7 +2937,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.706,
+            "pd": 0.204,
+            "pl": 0.089,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.706
+          }
         },
         {
           "date": "2026-03-31",
@@ -1336,7 +2957,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.353,
+            "pd": 0.305,
+            "pl": 0.343,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.353
+          }
         },
         {
           "date": "2026-03-26",
@@ -1348,7 +2977,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.232,
+            "pd": 0.281,
+            "pl": 0.486,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.486
+          }
         },
         {
           "date": "2025-11-18",
@@ -1360,7 +2997,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.725,
+            "pd": 0.19,
+            "pl": 0.085,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.19
+          }
         },
         {
           "date": "2025-11-15",
@@ -1372,7 +3017,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.47,
+            "pd": 0.285,
+            "pl": 0.246,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.47
+          }
         },
         {
           "date": "2025-10-14",
@@ -1384,9 +3037,21 @@
           "friendly": false,
           "weight": 0.85,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.44,
+            "pd": 0.283,
+            "pl": 0.277,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.277
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 4,
+        "total": 6
+      }
     },
     "Colombia": {
       "form": "WWLLW",
@@ -1401,7 +3066,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.839,
+            "pd": 0.13,
+            "pl": 0.031,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.839
+          }
         },
         {
           "date": "2026-03-29",
@@ -1413,7 +3086,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.259,
+            "pd": 0.29,
+            "pl": 0.451,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.451
+          }
         },
         {
           "date": "2026-03-26",
@@ -1425,7 +3106,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.471,
+            "pd": 0.285,
+            "pl": 0.244,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.244
+          }
         },
         {
           "date": "2025-11-18",
@@ -1437,7 +3126,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.56,
+            "pd": 0.259,
+            "pl": 0.181,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.56
+          }
         },
         {
           "date": "2025-11-15",
@@ -1449,7 +3146,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.763,
+            "pd": 0.171,
+            "pl": 0.066,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.763
+          }
         },
         {
           "date": "2025-10-14",
@@ -1461,9 +3166,21 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.579,
+            "pd": 0.252,
+            "pl": 0.169,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.252
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 4,
+        "total": 6
+      }
     },
     "Ecuador": {
       "form": "DWDDW",
@@ -1478,7 +3195,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.801,
+            "pd": 0.149,
+            "pl": 0.05,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.801
+          }
         },
         {
           "date": "2026-03-31",
@@ -1490,7 +3215,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.262,
+            "pd": 0.297,
+            "pl": 0.44,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.297
+          }
         },
         {
           "date": "2026-03-27",
@@ -1502,7 +3235,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.398,
+            "pd": 0.299,
+            "pl": 0.303,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.299
+          }
         },
         {
           "date": "2025-11-18",
@@ -1514,7 +3255,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.734,
+            "pd": 0.185,
+            "pl": 0.08,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.734
+          }
         },
         {
           "date": "2025-11-13",
@@ -1526,7 +3275,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.413,
+            "pd": 0.288,
+            "pl": 0.299,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.288
+          }
         },
         {
           "date": "2025-10-14",
@@ -1538,9 +3295,21 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.344,
+            "pd": 0.296,
+            "pl": 0.36,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.296
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 2,
+        "total": 6
+      }
     },
     "Paraguay": {
       "form": "LLWWL",
@@ -1555,7 +3324,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.294,
+            "pd": 0.297,
+            "pl": 0.41,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.41
+          }
         },
         {
           "date": "2026-03-27",
@@ -1567,7 +3344,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.403,
+            "pd": 0.289,
+            "pl": 0.308,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.403
+          }
         },
         {
           "date": "2025-11-18",
@@ -1579,11 +3364,19 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.313,
+            "pd": 0.3,
+            "pl": 0.387,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.313
+          }
         },
         {
           "date": "2025-11-15",
-          "opp": "United States",
+          "opp": "USA",
           "gf": 1,
           "ga": 2,
           "res": "L",
@@ -1591,7 +3384,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.411,
+            "pd": 0.287,
+            "pl": 0.301,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.301
+          }
         },
         {
           "date": "2025-10-14",
@@ -1603,7 +3404,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.389,
+            "pd": 0.291,
+            "pl": 0.32,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.32
+          }
         },
         {
           "date": "2025-10-10",
@@ -1615,9 +3424,21 @@
           "friendly": false,
           "weight": 0.85,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.331,
+            "pd": 0.296,
+            "pl": 0.372,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.296
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 2,
+        "total": 6
+      }
     },
     "Uruguay": {
       "form": "WDLDD",
@@ -1632,7 +3453,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.469,
+            "pd": 0.284,
+            "pl": 0.247,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.284
+          }
         },
         {
           "date": "2026-03-27",
@@ -1644,11 +3473,19 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.072,
+            "pd": 0.188,
+            "pl": 0.74,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.188
+          }
         },
         {
           "date": "2025-11-18",
-          "opp": "United States",
+          "opp": "USA",
           "gf": 1,
           "ga": 5,
           "res": "L",
@@ -1656,7 +3493,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.428,
+            "pd": 0.285,
+            "pl": 0.287,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.287
+          }
         },
         {
           "date": "2025-11-15",
@@ -1668,7 +3513,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.26,
+            "pd": 0.297,
+            "pl": 0.443,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.297
+          }
         },
         {
           "date": "2025-10-13",
@@ -1680,7 +3533,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.521,
+            "pd": 0.271,
+            "pl": 0.209,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.521
+          }
         },
         {
           "date": "2025-10-10",
@@ -1692,9 +3553,21 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.878,
+            "pd": 0.101,
+            "pl": 0.021,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.878
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 2,
+        "total": 6
+      }
     },
     "Algeria": {
       "form": "WLWDW",
@@ -1709,7 +3582,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.11,
+            "pd": 0.223,
+            "pl": 0.668,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.11
+          }
         },
         {
           "date": "2026-03-31",
@@ -1721,7 +3602,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.247,
+            "pd": 0.284,
+            "pl": 0.469,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.284
+          }
         },
         {
           "date": "2026-03-27",
@@ -1733,7 +3622,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.52,
+            "pd": 0.27,
+            "pl": 0.21,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.52
+          }
         },
         {
           "date": "2026-01-10",
@@ -1745,7 +3642,15 @@
           "friendly": false,
           "weight": 1.4,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.414,
+            "pd": 0.295,
+            "pl": 0.291,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.291
+          }
         },
         {
           "date": "2026-01-06",
@@ -1757,7 +3662,15 @@
           "friendly": false,
           "weight": 1.4,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.428,
+            "pd": 0.293,
+            "pl": 0.28,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.428
+          }
         },
         {
           "date": "2025-12-31",
@@ -1769,9 +3682,21 @@
           "friendly": false,
           "weight": 1.4,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.881,
+            "pd": 0.098,
+            "pl": 0.02,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.881
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 3,
+        "total": 6
+      }
     },
     "Cape Verde": {
       "form": "DDLDW",
@@ -1786,7 +3711,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.183,
+            "pd": 0.258,
+            "pl": 0.559,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.183
+          }
         },
         {
           "date": "2026-03-30",
@@ -1798,7 +3731,15 @@
           "friendly": false,
           "weight": 0.85,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.422,
+            "pd": 0.292,
+            "pl": 0.285,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.292
+          }
         },
         {
           "date": "2026-03-27",
@@ -1810,7 +3751,15 @@
           "friendly": false,
           "weight": 0.85,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.188,
+            "pd": 0.26,
+            "pl": 0.551,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.551
+          }
         },
         {
           "date": "2025-11-17",
@@ -1822,7 +3771,15 @@
           "friendly": false,
           "weight": 0.85,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.304,
+            "pd": 0.296,
+            "pl": 0.4,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.296
+          }
         },
         {
           "date": "2025-11-13",
@@ -1834,7 +3791,15 @@
           "friendly": false,
           "weight": 0.85,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.17,
+            "pd": 0.251,
+            "pl": 0.579,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.251
+          }
         },
         {
           "date": "2025-10-13",
@@ -1846,9 +3811,21 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.841,
+            "pd": 0.128,
+            "pl": 0.032,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.841
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 2,
+        "total": 6
+      }
     },
     "DR Congo": {
       "form": "WLWWD",
@@ -1863,7 +3840,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.197,
+            "pd": 0.265,
+            "pl": 0.538,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.265
+          }
         },
         {
           "date": "2026-03-31",
@@ -1875,7 +3860,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.501,
+            "pd": 0.275,
+            "pl": 0.224,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.501
+          }
         },
         {
           "date": "2026-03-25",
@@ -1887,7 +3880,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.895,
+            "pd": 0.089,
+            "pl": 0.016,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.895
+          }
         },
         {
           "date": "2026-01-06",
@@ -1899,7 +3900,15 @@
           "friendly": false,
           "weight": 1.4,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.28,
+            "pd": 0.293,
+            "pl": 0.428,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.428
+          }
         },
         {
           "date": "2025-12-30",
@@ -1911,7 +3920,15 @@
           "friendly": false,
           "weight": 1.4,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.806,
+            "pd": 0.146,
+            "pl": 0.048,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.806
+          }
         },
         {
           "date": "2025-12-27",
@@ -1923,9 +3940,21 @@
           "friendly": false,
           "weight": 1.4,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.207,
+            "pd": 0.27,
+            "pl": 0.523,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.27
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 4,
+        "total": 6
+      }
     },
     "Egypt": {
       "form": "LDWDW",
@@ -1940,7 +3969,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.468,
+            "pd": 0.292,
+            "pl": 0.24,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.468
+          }
         },
         {
           "date": "2026-03-31",
@@ -1952,7 +3989,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.008,
+            "pd": 0.079,
+            "pl": 0.913,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.079
+          }
         },
         {
           "date": "2026-03-27",
@@ -1964,7 +4009,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.369,
+            "pd": 0.292,
+            "pl": 0.339,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.369
+          }
         },
         {
           "date": "2026-01-17",
@@ -1976,7 +4029,15 @@
           "friendly": false,
           "weight": 1.4,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.163,
+            "pd": 0.248,
+            "pl": 0.589,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.248
+          }
         },
         {
           "date": "2026-01-14",
@@ -1988,7 +4049,15 @@
           "friendly": false,
           "weight": 1.4,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.201,
+            "pd": 0.267,
+            "pl": 0.531,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.531
+          }
         },
         {
           "date": "2026-01-10",
@@ -2000,9 +4069,21 @@
           "friendly": false,
           "weight": 1.4,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.262,
+            "pd": 0.287,
+            "pl": 0.451,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.262
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 3,
+        "total": 6
+      }
     },
     "Ghana": {
       "form": "LLLLD",
@@ -2017,7 +4098,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.132,
+            "pd": 0.238,
+            "pl": 0.63,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.238
+          }
         },
         {
           "date": "2026-05-22",
@@ -2029,7 +4118,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.035,
+            "pd": 0.136,
+            "pl": 0.829,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.829
+          }
         },
         {
           "date": "2026-03-30",
@@ -2041,7 +4138,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.029,
+            "pd": 0.124,
+            "pl": 0.847,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.847
+          }
         },
         {
           "date": "2026-03-27",
@@ -2053,7 +4158,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.077,
+            "pd": 0.19,
+            "pl": 0.733,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.733
+          }
         },
         {
           "date": "2025-11-18",
@@ -2065,7 +4178,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.066,
+            "pd": 0.177,
+            "pl": 0.757,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.757
+          }
         },
         {
           "date": "2025-11-14",
@@ -2077,9 +4198,21 @@
           "friendly": false,
           "weight": 0.85,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.053,
+            "pd": 0.163,
+            "pl": 0.784,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.784
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 5,
+        "total": 6
+      }
     },
     "Ivory Coast": {
       "form": "WLWWW",
@@ -2094,7 +4227,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.033,
+            "pd": 0.133,
+            "pl": 0.834,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.033
+          }
         },
         {
           "date": "2026-03-31",
@@ -2106,7 +4247,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.281,
+            "pd": 0.293,
+            "pl": 0.426,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.281
+          }
         },
         {
           "date": "2026-03-28",
@@ -2118,7 +4267,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.2,
+            "pd": 0.266,
+            "pl": 0.534,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.2
+          }
         },
         {
           "date": "2026-01-10",
@@ -2130,7 +4287,15 @@
           "friendly": false,
           "weight": 1.4,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.451,
+            "pd": 0.287,
+            "pl": 0.262,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.262
+          }
         },
         {
           "date": "2026-01-06",
@@ -2142,7 +4307,15 @@
           "friendly": false,
           "weight": 1.4,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.368,
+            "pd": 0.301,
+            "pl": 0.332,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.368
+          }
         },
         {
           "date": "2025-12-31",
@@ -2154,9 +4327,21 @@
           "friendly": false,
           "weight": 1.4,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.626,
+            "pd": 0.233,
+            "pl": 0.141,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.626
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 2,
+        "total": 6
+      }
     },
     "Morocco": {
       "form": "WDWWW",
@@ -2171,7 +4356,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.929,
+            "pd": 0.066,
+            "pl": 0.005,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.929
+          }
         },
         {
           "date": "2026-05-26",
@@ -2183,7 +4376,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.966,
+            "pd": 0.033,
+            "pl": 0.001,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.966
+          }
         },
         {
           "date": "2026-03-31",
@@ -2195,7 +4396,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.41,
+            "pd": 0.297,
+            "pl": 0.294,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.41
+          }
         },
         {
           "date": "2026-03-27",
@@ -2207,7 +4416,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.303,
+            "pd": 0.299,
+            "pl": 0.398,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.299
+          }
         },
         {
           "date": "2026-01-18",
@@ -2219,7 +4436,15 @@
           "friendly": false,
           "weight": 1.4,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.417,
+            "pd": 0.297,
+            "pl": 0.286,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.417
+          }
         },
         {
           "date": "2026-01-14",
@@ -2231,16 +4456,28 @@
           "friendly": false,
           "weight": 1.4,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.451,
+            "pd": 0.296,
+            "pl": 0.253,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.296
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 4,
+        "total": 6
+      }
     },
     "Senegal": {
       "form": "WLWWL",
       "matches": [
         {
           "date": "2026-05-31",
-          "opp": "United States",
+          "opp": "USA",
           "gf": 2,
           "ga": 3,
           "res": "L",
@@ -2248,7 +4485,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.349,
+            "pd": 0.295,
+            "pl": 0.356,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.356
+          }
         },
         {
           "date": "2026-03-31",
@@ -2260,7 +4505,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.835,
+            "pd": 0.132,
+            "pl": 0.033,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.835
+          }
         },
         {
           "date": "2026-03-28",
@@ -2272,7 +4525,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.509,
+            "pd": 0.273,
+            "pl": 0.218,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.509
+          }
         },
         {
           "date": "2026-01-18",
@@ -2284,7 +4545,15 @@
           "friendly": false,
           "weight": 1.4,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.286,
+            "pd": 0.297,
+            "pl": 0.417,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.417
+          }
         },
         {
           "date": "2026-01-14",
@@ -2296,7 +4565,15 @@
           "friendly": false,
           "weight": 1.4,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.531,
+            "pd": 0.267,
+            "pl": 0.201,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.531
+          }
         },
         {
           "date": "2026-01-09",
@@ -2308,9 +4585,21 @@
           "friendly": false,
           "weight": 1.4,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.63,
+            "pd": 0.232,
+            "pl": 0.138,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.63
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 6,
+        "total": 6
+      }
     },
     "South Africa": {
       "form": "WLDLD",
@@ -2325,7 +4614,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.661,
+            "pd": 0.224,
+            "pl": 0.116,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.224
+          }
         },
         {
           "date": "2026-03-31",
@@ -2337,7 +4634,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.241,
+            "pd": 0.271,
+            "pl": 0.487,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.487
+          }
         },
         {
           "date": "2026-03-27",
@@ -2349,7 +4654,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.23,
+            "pd": 0.268,
+            "pl": 0.502,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.268
+          }
         },
         {
           "date": "2026-01-04",
@@ -2361,7 +4674,15 @@
           "friendly": false,
           "weight": 1.4,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.324,
+            "pd": 0.299,
+            "pl": 0.377,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.377
+          }
         },
         {
           "date": "2025-12-29",
@@ -2373,7 +4694,15 @@
           "friendly": false,
           "weight": 1.4,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.627,
+            "pd": 0.232,
+            "pl": 0.141,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.627
+          }
         },
         {
           "date": "2025-12-26",
@@ -2385,9 +4714,21 @@
           "friendly": false,
           "weight": 1.4,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.418,
+            "pd": 0.293,
+            "pl": 0.289,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.289
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 3,
+        "total": 6
+      }
     },
     "Tunisia": {
       "form": "DDWDL",
@@ -2402,7 +4743,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.11,
+            "pd": 0.222,
+            "pl": 0.669,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.669
+          }
         },
         {
           "date": "2026-03-31",
@@ -2414,7 +4763,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.089,
+            "pd": 0.203,
+            "pl": 0.708,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.203
+          }
         },
         {
           "date": "2026-03-28",
@@ -2426,7 +4783,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.364,
+            "pd": 0.301,
+            "pl": 0.335,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.364
+          }
         },
         {
           "date": "2026-01-03",
@@ -2438,7 +4803,15 @@
           "friendly": false,
           "weight": 1.4,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.343,
+            "pd": 0.302,
+            "pl": 0.355,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.302
+          }
         },
         {
           "date": "2025-12-30",
@@ -2450,7 +4823,15 @@
           "friendly": false,
           "weight": 1.4,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.735,
+            "pd": 0.184,
+            "pl": 0.081,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.184
+          }
         },
         {
           "date": "2025-12-27",
@@ -2462,9 +4843,21 @@
           "friendly": false,
           "weight": 1.4,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.334,
+            "pd": 0.301,
+            "pl": 0.364,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.364
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 3,
+        "total": 6
+      }
     },
     "Australia": {
       "form": "LLWWL",
@@ -2479,7 +4872,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.279,
+            "pd": 0.293,
+            "pl": 0.428,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.428
+          }
         },
         {
           "date": "2026-03-31",
@@ -2491,7 +4892,15 @@
           "friendly": false,
           "weight": 0.85,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.807,
+            "pd": 0.149,
+            "pl": 0.044,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.807
+          }
         },
         {
           "date": "2026-03-27",
@@ -2503,7 +4912,15 @@
           "friendly": false,
           "weight": 0.85,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.669,
+            "pd": 0.221,
+            "pl": 0.11,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.669
+          }
         },
         {
           "date": "2025-11-18",
@@ -2515,7 +4932,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.181,
+            "pd": 0.259,
+            "pl": 0.56,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.56
+          }
         },
         {
           "date": "2025-11-14",
@@ -2527,11 +4952,19 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.548,
+            "pd": 0.262,
+            "pl": 0.19,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.19
+          }
         },
         {
           "date": "2025-10-14",
-          "opp": "United States",
+          "opp": "USA",
           "gf": 1,
           "ga": 2,
           "res": "L",
@@ -2539,9 +4972,21 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.443,
+            "pd": 0.282,
+            "pl": 0.275,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.275
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 4,
+        "total": 6
+      }
     },
     "Iran": {
       "form": "DLWWW",
@@ -2556,7 +5001,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.564,
+            "pd": 0.256,
+            "pl": 0.18,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.564
+          }
         },
         {
           "date": "2026-05-29",
@@ -2568,7 +5021,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.711,
+            "pd": 0.196,
+            "pl": 0.093,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.711
+          }
         },
         {
           "date": "2026-03-31",
@@ -2580,7 +5041,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.468,
+            "pd": 0.284,
+            "pl": 0.249,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.468
+          }
         },
         {
           "date": "2026-03-27",
@@ -2592,7 +5061,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.244,
+            "pd": 0.283,
+            "pl": 0.472,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.472
+          }
         },
         {
           "date": "2025-11-18",
@@ -2604,7 +5081,15 @@
           "friendly": false,
           "weight": 0.85,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.326,
+            "pd": 0.301,
+            "pl": 0.373,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.301
+          }
         },
         {
           "date": "2025-11-13",
@@ -2616,9 +5101,21 @@
           "friendly": false,
           "weight": 0.85,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.579,
+            "pd": 0.251,
+            "pl": 0.17,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.251
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 4,
+        "total": 6
+      }
     },
     "Iraq": {
       "form": "LLWWD",
@@ -2633,7 +5130,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.002,
+            "pd": 0.05,
+            "pl": 0.949,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.05
+          }
         },
         {
           "date": "2026-05-29",
@@ -2645,7 +5150,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.898,
+            "pd": 0.087,
+            "pl": 0.015,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.898
+          }
         },
         {
           "date": "2026-03-31",
@@ -2657,7 +5170,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.23,
+            "pd": 0.277,
+            "pl": 0.493,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.23
+          }
         },
         {
           "date": "2025-12-12",
@@ -2669,7 +5190,15 @@
           "friendly": false,
           "weight": 0.85,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.256,
+            "pd": 0.285,
+            "pl": 0.459,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.459
+          }
         },
         {
           "date": "2025-12-09",
@@ -2681,7 +5210,15 @@
           "friendly": false,
           "weight": 0.85,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.257,
+            "pd": 0.286,
+            "pl": 0.458,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.458
+          }
         },
         {
           "date": "2025-12-06",
@@ -2693,9 +5230,21 @@
           "friendly": false,
           "weight": 0.85,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.581,
+            "pd": 0.25,
+            "pl": 0.17,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.581
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 4,
+        "total": 6
+      }
     },
     "Japan": {
       "form": "WWWWW",
@@ -2710,7 +5259,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.837,
+            "pd": 0.131,
+            "pl": 0.032,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.837
+          }
         },
         {
           "date": "2026-03-31",
@@ -2722,7 +5279,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.102,
+            "pd": 0.217,
+            "pl": 0.68,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.102
+          }
         },
         {
           "date": "2026-03-28",
@@ -2734,7 +5299,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.332,
+            "pd": 0.296,
+            "pl": 0.372,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.332
+          }
         },
         {
           "date": "2025-11-18",
@@ -2746,7 +5319,15 @@
           "friendly": false,
           "weight": 0.85,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.628,
+            "pd": 0.239,
+            "pl": 0.133,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.628
+          }
         },
         {
           "date": "2025-11-14",
@@ -2758,7 +5339,15 @@
           "friendly": false,
           "weight": 0.85,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.784,
+            "pd": 0.163,
+            "pl": 0.053,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.784
+          }
         },
         {
           "date": "2025-10-14",
@@ -2770,9 +5359,21 @@
           "friendly": false,
           "weight": 0.85,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.277,
+            "pd": 0.283,
+            "pl": 0.44,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.277
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 3,
+        "total": 6
+      }
     },
     "Jordan": {
       "form": "WLDDL",
@@ -2787,7 +5388,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.101,
+            "pd": 0.214,
+            "pl": 0.685,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.685
+          }
         },
         {
           "date": "2026-03-31",
@@ -2799,7 +5408,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.203,
+            "pd": 0.268,
+            "pl": 0.529,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.268
+          }
         },
         {
           "date": "2026-03-27",
@@ -2811,7 +5428,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.449,
+            "pd": 0.288,
+            "pl": 0.263,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.288
+          }
         },
         {
           "date": "2025-12-18",
@@ -2823,7 +5448,15 @@
           "friendly": false,
           "weight": 0.85,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.239,
+            "pd": 0.281,
+            "pl": 0.479,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.479
+          }
         },
         {
           "date": "2025-12-15",
@@ -2835,7 +5468,15 @@
           "friendly": false,
           "weight": 0.85,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.47,
+            "pd": 0.283,
+            "pl": 0.247,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.47
+          }
         },
         {
           "date": "2025-12-12",
@@ -2847,9 +5488,21 @@
           "friendly": false,
           "weight": 0.85,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.459,
+            "pd": 0.285,
+            "pl": 0.256,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.459
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 4,
+        "total": 6
+      }
     },
     "Qatar": {
       "form": "LLDLL",
@@ -2864,7 +5517,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.046,
+            "pd": 0.151,
+            "pl": 0.802,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.802
+          }
         },
         {
           "date": "2025-12-07",
@@ -2876,7 +5537,15 @@
           "friendly": false,
           "weight": 0.85,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.279,
+            "pd": 0.281,
+            "pl": 0.44,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.44
+          }
         },
         {
           "date": "2025-12-04",
@@ -2888,7 +5557,15 @@
           "friendly": false,
           "weight": 0.85,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.358,
+            "pd": 0.293,
+            "pl": 0.349,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.293
+          }
         },
         {
           "date": "2025-12-01",
@@ -2900,7 +5577,15 @@
           "friendly": false,
           "weight": 0.85,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.459,
+            "pd": 0.292,
+            "pl": 0.249,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.249
+          }
         },
         {
           "date": "2025-11-17",
@@ -2912,7 +5597,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.695,
+            "pd": 0.208,
+            "pl": 0.097,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.097
+          }
         },
         {
           "date": "2025-10-14",
@@ -2924,9 +5617,21 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.288,
+            "pd": 0.283,
+            "pl": 0.429,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.288
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 2,
+        "total": 6
+      }
     },
     "Saudi Arabia": {
       "form": "WLLLL",
@@ -2941,7 +5646,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.05,
+            "pd": 0.149,
+            "pl": 0.801,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.801
+          }
         },
         {
           "date": "2026-03-31",
@@ -2953,7 +5666,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.114,
+            "pd": 0.224,
+            "pl": 0.662,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.662
+          }
         },
         {
           "date": "2026-03-27",
@@ -2965,7 +5686,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.339,
+            "pd": 0.292,
+            "pl": 0.369,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.369
+          }
         },
         {
           "date": "2025-12-15",
@@ -2977,7 +5706,15 @@
           "friendly": false,
           "weight": 0.85,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.247,
+            "pd": 0.283,
+            "pl": 0.47,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.47
+          }
         },
         {
           "date": "2025-12-11",
@@ -2989,7 +5726,15 @@
           "friendly": false,
           "weight": 0.85,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.441,
+            "pd": 0.289,
+            "pl": 0.27,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.441
+          }
         },
         {
           "date": "2025-12-08",
@@ -3001,9 +5746,21 @@
           "friendly": false,
           "weight": 0.85,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.162,
+            "pd": 0.247,
+            "pl": 0.592,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.592
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 6,
+        "total": 6
+      }
     },
     "South Korea": {
       "form": "WLLWW",
@@ -3018,7 +5775,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.781,
+            "pd": 0.16,
+            "pl": 0.059,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.781
+          }
         },
         {
           "date": "2026-05-30",
@@ -3030,7 +5795,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.748,
+            "pd": 0.178,
+            "pl": 0.074,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.748
+          }
         },
         {
           "date": "2026-03-31",
@@ -3042,7 +5815,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.216,
+            "pd": 0.284,
+            "pl": 0.5,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.5
+          }
         },
         {
           "date": "2026-03-28",
@@ -3054,7 +5835,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.534,
+            "pd": 0.266,
+            "pl": 0.2,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.2
+          }
         },
         {
           "date": "2025-11-18",
@@ -3066,7 +5855,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.757,
+            "pd": 0.177,
+            "pl": 0.066,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.757
+          }
         },
         {
           "date": "2025-11-14",
@@ -3078,9 +5875,21 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.545,
+            "pd": 0.27,
+            "pl": 0.185,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.545
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 5,
+        "total": 6
+      }
     },
     "Uzbekistan": {
       "form": "DDWDL",
@@ -3095,7 +5904,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.183,
+            "pd": 0.269,
+            "pl": 0.548,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.548
+          }
         },
         {
           "date": "2026-03-30",
@@ -3107,7 +5924,15 @@
           "friendly": false,
           "weight": 0.85,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.522,
+            "pd": 0.277,
+            "pl": 0.201,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.277
+          }
         },
         {
           "date": "2026-03-27",
@@ -3119,7 +5944,15 @@
           "friendly": false,
           "weight": 0.85,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.857,
+            "pd": 0.117,
+            "pl": 0.025,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.857
+          }
         },
         {
           "date": "2026-01-26",
@@ -3131,7 +5964,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.756,
+            "pd": 0.173,
+            "pl": 0.07,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.173
+          }
         },
         {
           "date": "2025-11-18",
@@ -3143,7 +5984,15 @@
           "friendly": false,
           "weight": 0.85,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.373,
+            "pd": 0.301,
+            "pl": 0.326,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.301
+          }
         },
         {
           "date": "2025-11-14",
@@ -3155,9 +6004,21 @@
           "friendly": false,
           "weight": 0.85,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.427,
+            "pd": 0.292,
+            "pl": 0.281,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.427
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 3,
+        "total": 6
+      }
     },
     "Canada": {
       "form": "DWDDW",
@@ -3172,7 +6033,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.548,
+            "pd": 0.269,
+            "pl": 0.183,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.548
+          }
         },
         {
           "date": "2026-03-31",
@@ -3184,7 +6053,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.708,
+            "pd": 0.203,
+            "pl": 0.089,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.203
+          }
         },
         {
           "date": "2026-03-28",
@@ -3196,7 +6073,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.781,
+            "pd": 0.164,
+            "pl": 0.055,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.164
+          }
         },
         {
           "date": "2025-11-18",
@@ -3208,7 +6093,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.492,
+            "pd": 0.278,
+            "pl": 0.23,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.492
+          }
         },
         {
           "date": "2025-11-13",
@@ -3220,7 +6113,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.299,
+            "pd": 0.288,
+            "pl": 0.413,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.288
+          }
         },
         {
           "date": "2025-10-14",
@@ -3232,9 +6133,21 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.169,
+            "pd": 0.252,
+            "pl": 0.579,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.252
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 2,
+        "total": 6
+      }
     },
     "Cura\u00e7ao": {
       "form": "WDLLL",
@@ -3249,7 +6162,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.06,
+            "pd": 0.171,
+            "pl": 0.769,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.769
+          }
         },
         {
           "date": "2026-03-31",
@@ -3261,7 +6182,15 @@
           "friendly": false,
           "weight": 0.85,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.044,
+            "pd": 0.149,
+            "pl": 0.807,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.807
+          }
         },
         {
           "date": "2026-03-27",
@@ -3273,7 +6202,15 @@
           "friendly": false,
           "weight": 0.85,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.52,
+            "pd": 0.269,
+            "pl": 0.211,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.211
+          }
         },
         {
           "date": "2025-11-18",
@@ -3285,7 +6222,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.261,
+            "pd": 0.294,
+            "pl": 0.446,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.294
+          }
         },
         {
           "date": "2025-11-13",
@@ -3297,7 +6242,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.701,
+            "pd": 0.195,
+            "pl": 0.104,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.701
+          }
         },
         {
           "date": "2025-10-14",
@@ -3309,9 +6262,21 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.602,
+            "pd": 0.248,
+            "pl": 0.15,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.248
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 3,
+        "total": 6
+      }
     },
     "Haiti": {
       "form": "WWLDW",
@@ -3326,7 +6291,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.291,
+            "pd": 0.294,
+            "pl": 0.416,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.291
+          }
         },
         {
           "date": "2026-03-31",
@@ -3338,7 +6311,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.354,
+            "pd": 0.302,
+            "pl": 0.345,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.302
+          }
         },
         {
           "date": "2026-03-28",
@@ -3350,7 +6331,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.335,
+            "pd": 0.301,
+            "pl": 0.364,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.364
+          }
         },
         {
           "date": "2025-11-18",
@@ -3362,7 +6351,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.558,
+            "pd": 0.257,
+            "pl": 0.185,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.558
+          }
         },
         {
           "date": "2025-11-13",
@@ -3374,7 +6371,15 @@
           "friendly": false,
           "weight": 1.0,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.167,
+            "pd": 0.249,
+            "pl": 0.584,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.167
+          }
         },
         {
           "date": "2025-10-13",
@@ -3386,9 +6391,21 @@
           "friendly": false,
           "weight": 1.0,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.169,
+            "pd": 0.26,
+            "pl": 0.571,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.571
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 3,
+        "total": 6
+      }
     },
     "Mexico": {
       "form": "DDWWW",
@@ -3403,7 +6420,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.708,
+            "pd": 0.203,
+            "pl": 0.089,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.708
+          }
         },
         {
           "date": "2026-05-30",
@@ -3415,7 +6440,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.428,
+            "pd": 0.293,
+            "pl": 0.279,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.428
+          }
         },
         {
           "date": "2026-05-22",
@@ -3427,7 +6460,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.829,
+            "pd": 0.136,
+            "pl": 0.035,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.829
+          }
         },
         {
           "date": "2026-03-31",
@@ -3439,7 +6480,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.384,
+            "pd": 0.301,
+            "pl": 0.316,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.301
+          }
         },
         {
           "date": "2026-03-28",
@@ -3451,7 +6500,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.39,
+            "pd": 0.298,
+            "pl": 0.312,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.298
+          }
         },
         {
           "date": "2026-02-25",
@@ -3463,9 +6520,21 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.814,
+            "pd": 0.145,
+            "pl": 0.041,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.814
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 4,
+        "total": 6
+      }
     },
     "Panama": {
       "form": "LDWLW",
@@ -3480,7 +6549,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.872,
+            "pd": 0.107,
+            "pl": 0.021,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.872
+          }
         },
         {
           "date": "2026-05-31",
@@ -3492,7 +6569,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.089,
+            "pd": 0.204,
+            "pl": 0.706,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.706
+          }
         },
         {
           "date": "2026-03-31",
@@ -3504,7 +6589,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.487,
+            "pd": 0.271,
+            "pl": 0.241,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.487
+          }
         },
         {
           "date": "2026-03-27",
@@ -3516,7 +6609,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.502,
+            "pd": 0.268,
+            "pl": 0.23,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.268
+          }
         },
         {
           "date": "2026-01-22",
@@ -3528,7 +6629,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.358,
+            "pd": 0.295,
+            "pl": 0.347,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.347
+          }
         },
         {
           "date": "2026-01-18",
@@ -3540,9 +6649,21 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.331,
+            "pd": 0.296,
+            "pl": 0.374,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.296
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 3,
+        "total": 6
+      }
     },
     "USA": {
       "form": "WWLLW",
@@ -3557,7 +6678,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.356,
+            "pd": 0.295,
+            "pl": 0.349,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.356
+          }
         },
         {
           "date": "2026-03-31",
@@ -3569,7 +6698,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.241,
+            "pd": 0.273,
+            "pl": 0.486,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.486
+          }
         },
         {
           "date": "2026-03-28",
@@ -3581,7 +6718,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.426,
+            "pd": 0.297,
+            "pl": 0.277,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.277
+          }
         },
         {
           "date": "2025-11-18",
@@ -3593,7 +6738,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.287,
+            "pd": 0.285,
+            "pl": 0.428,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.287
+          }
         },
         {
           "date": "2025-11-15",
@@ -3605,7 +6758,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.301,
+            "pd": 0.287,
+            "pl": 0.411,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.301
+          }
         },
         {
           "date": "2025-10-14",
@@ -3617,9 +6778,21 @@
           "friendly": true,
           "weight": 0.5,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.275,
+            "pd": 0.282,
+            "pl": 0.443,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.275
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 2,
+        "total": 6
+      }
     },
     "New Zealand": {
       "form": "LLLWL",
@@ -3634,7 +6807,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.416,
+            "pd": 0.294,
+            "pl": 0.291,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.291
+          }
         },
         {
           "date": "2026-03-30",
@@ -3646,7 +6827,15 @@
           "friendly": false,
           "weight": 0.85,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.212,
+            "pd": 0.261,
+            "pl": 0.527,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.212
+          }
         },
         {
           "date": "2026-03-27",
@@ -3658,7 +6847,15 @@
           "friendly": false,
           "weight": 0.85,
           "home": true,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.678,
+            "pd": 0.216,
+            "pl": 0.106,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.106
+          }
         },
         {
           "date": "2025-11-18",
@@ -3670,7 +6867,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.08,
+            "pd": 0.185,
+            "pl": 0.734,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.734
+          }
         },
         {
           "date": "2025-11-15",
@@ -3682,7 +6887,15 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": true
+          "neutral": true,
+          "model": {
+            "pw": 0.066,
+            "pd": 0.171,
+            "pl": 0.763,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.763
+          }
         },
         {
           "date": "2025-10-14",
@@ -3694,9 +6907,21 @@
           "friendly": true,
           "weight": 0.5,
           "home": false,
-          "neutral": false
+          "neutral": false,
+          "model": {
+            "pw": 0.038,
+            "pd": 0.141,
+            "pl": 0.821,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.141
+          }
         }
-      ]
+      ],
+      "record": {
+        "correct": 2,
+        "total": 6
+      }
     }
   }
 }

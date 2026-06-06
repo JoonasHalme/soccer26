@@ -19,6 +19,8 @@ const fmtDate = (iso: string) =>
   new Date(iso + "T00:00:00Z").toLocaleDateString("en-GB", { day: "numeric", month: "short", timeZone: "UTC" });
 
 const chars = form.form.split(""); // oldest -> newest (rightmost is most recent)
+const rec = form.record;
+const pct = (n: number) => Math.round(n * 100);
 ---
 <div class="form">
   {chars.length > 0 && (
@@ -28,6 +30,11 @@ const chars = form.form.split(""); // oldest -> newest (rightmost is most recent
         {chars.map((r) => <span class={`fchip f-${r}`}>{r}</span>)}
       </span>
       <span class="fs-hint">newest →</span>
+      {rec && rec.total > 0 && (
+        <span class="fs-record" title="How many of these results our model's pre-match favourite called correctly (no hindsight)">
+          model called <b>{rec.correct}/{rec.total}</b>
+        </span>
+      )}
     </div>
   )}
 
@@ -46,6 +53,14 @@ const chars = form.form.split(""); // oldest -> newest (rightmost is most recent
             {m.friendly && (
               <span class="fm-half" title="Exhibition — our model counts this at half weight (see methodology)">×½</span>
             )}
+            {m.model && (
+              <span
+                class={`fm-model ${m.model.correct ? "hit" : "miss"}`}
+                title={`Model's pre-match call (no hindsight): win ${pct(m.model.pw)}% · draw ${pct(m.model.pd)}% · loss ${pct(m.model.pl)}%. It gave the actual result ${pct(m.model.p_actual)}%.`}
+              >
+                model {m.model.correct ? "✓" : "✗"} {pct(m.model.p_actual)}%
+              </span>
+            )}
           </span>
         </span>
         <span class="fm-date">{fmtDate(m.date)}</span>
@@ -54,9 +69,11 @@ const chars = form.form.split(""); // oldest -> newest (rightmost is most recent
   </ul>
 
   <p class="form-foot subtle">
-    Last {form.matches.length} internationals. Friendlies are tagged <b>×½</b> — our model
-    counts exhibitions at half weight, so a warm-up result moves the ratings less than a
-    competitive one. <a href="/methodology#ratings">How ratings work →</a>
+    Last {form.matches.length} internationals. <b>model ✓/✗</b> is the model's own
+    pre-match call on each game — computed from ratings <i>before</i> it kicked off
+    (no hindsight), with the % it gave the actual result. Friendlies are tagged
+    <b>×½</b> — the model counts exhibitions at half weight, so a warm-up moves the
+    ratings less than a competitive game. <a href="/methodology#ratings">How ratings work →</a>
   </p>
 </div>
 
@@ -70,6 +87,11 @@ const chars = form.form.split(""); // oldest -> newest (rightmost is most recent
   }
   .fs-chips { display: inline-flex; gap: 0.3rem; }
   .fs-hint { font-size: 0.7rem; color: var(--muted-2); }
+  .fs-record {
+    margin-left: auto; font-size: 0.74rem; color: var(--muted-2);
+    border: 1px solid var(--border-soft); border-radius: 999px; padding: 0.1rem 0.55rem;
+  }
+  .fs-record b { color: var(--fg); font-variant-numeric: tabular-nums; }
 
   .fchip {
     width: 1.45rem; height: 1.45rem; border-radius: 6px;
@@ -103,6 +125,12 @@ const chars = form.form.split(""); // oldest -> newest (rightmost is most recent
     background: var(--surface-2); border: 1px solid var(--border); border-radius: 4px;
     padding: 0.01rem 0.28rem; cursor: help;
   }
+  .fm-model {
+    font-family: var(--font-mono); font-size: 0.68rem; cursor: help;
+    border-radius: 4px; padding: 0.01rem 0.32rem; white-space: nowrap;
+  }
+  .fm-model.hit  { color: var(--accent); background: rgba(47,182,114,0.10); border: 1px solid rgba(47,182,114,0.30); }
+  .fm-model.miss { color: #e0859a; background: rgba(224,85,106,0.08); border: 1px solid rgba(224,85,106,0.28); }
   .fm-date { flex: 0 0 auto; color: var(--muted-2); font-size: 0.78rem; white-space: nowrap; }
 
   .form-foot { margin: 0.8rem 0 0; font-size: 0.78rem; line-height: 1.55; }
