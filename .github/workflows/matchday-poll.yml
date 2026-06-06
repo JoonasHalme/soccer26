@@ -49,9 +49,11 @@ jobs:
 
       - name: Refresh international results + rebuild Road-to-the-WC form (no API)
         # martj42 ingests warm-up friendlies (and later WC results) within ~a day;
-        # this pulls them in for free and rebuilds the form/predictions feed.
+        # fetch_recent_espn bridges that lag by appending just-finished games from
+        # ESPN so the model-graded feed shows results within minutes, not tomorrow.
         run: |
           python model/fetch_internationals.py
+          python model/fetch_recent_espn.py
           python model/build_form.py
 
       - name: Commit if anything changed
