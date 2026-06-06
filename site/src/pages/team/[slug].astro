@@ -7,8 +7,9 @@ import NewsItem from "../../components/NewsItem.astro";
 import TeamFlag from "../../components/TeamFlag.astro";
 import FollowButton from "../../components/FollowButton.astro";
 import LocalTime from "../../components/LocalTime.astro";
+import Squad from "../../components/Squad.astro";
 import {
-  loadFixtures, loadPredictions, loadNews,
+  loadFixtures, loadPredictions, loadNews, loadSquads,
   computeStandings, allEdges, selectionLabel, teamSlug, teamGroups, pct1,
 } from "../../lib/data";
 
@@ -45,10 +46,13 @@ const edges = allEdges(predictions, matches)
   .filter((e) => e.home === team || e.away === team)
   .sort((a, b) => b.edge_pct - a.edge_pct);
 
+const squadsFile = loadSquads();
+const squad = squadsFile.teams[team];
+
 const teamNews = news.items.filter((n) => n.teams.includes(team));
 
 const title = `${team} — World Cup 2026 fixtures, form & value edges | Soccer 26`;
-const description = `${team}'s FIFA World Cup 2026 schedule (Group ${group}), model win probabilities, value betting edges vs the de-vigged market, and the latest ${team} team news. Transparent, calibration-first analysis.`;
+const description = `${team}'s FIFA World Cup 2026 squad, schedule (Group ${group}), model win probabilities, value betting edges vs the de-vigged market, and the latest ${team} team news. Transparent, calibration-first analysis.`;
 
 ---
 <Base title={title} description={description} ogImage={`/og/team/${teamSlug(team)}.png`}>
@@ -94,6 +98,17 @@ const description = `${team}'s FIFA World Cup 2026 schedule (Group ${group}), mo
       </div>
     )}
   </section>
+
+  {squad && squad.players.length > 0 && (
+    <section class="tm-section">
+      <div class="section-head"><h2>Squad</h2><span class="count">{squad.players.length} players</span><span class="rule"></span></div>
+      <Squad squad={squad} />
+      <p class="subtle" style="margin:0.8rem 0 0; font-size:0.78rem;">
+        Squad via <a href="https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads" rel="noopener noreferrer" target="_blank">Wikipedia</a>
+        (CC BY-SA){squadsFile.updated ? ` · as of ${squadsFile.updated}` : ""}.
+      </p>
+    </section>
+  )}
 
   {edges.length > 0 && (
     <section class="tm-section">

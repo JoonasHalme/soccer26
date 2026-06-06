@@ -599,6 +599,23 @@ export function liveCalibration(
   };
 }
 
+// ---- Squads (model/fetch_squads.py from Wikipedia) ---------------------------
+export interface SquadPlayer {
+  no: number | null;
+  pos: string;            // GK / DF / MF / FW
+  name: string;
+  club: string | null;
+  caps: number | null;
+  goals: number | null;
+  age: number | null;
+}
+export interface Squad { coach: string | null; players: SquadPlayer[] }
+export interface SquadsFile { source: string; updated: string; teams: Record<string, Squad> }
+
+export function loadSquads(): SquadsFile {
+  return readJson<SquadsFile>("site/public/data/squads.json", { source: "", updated: "", teams: {} });
+}
+
 export interface ReliabilityBin {
   lo: number; hi: number;
   mean_pred: number | null;

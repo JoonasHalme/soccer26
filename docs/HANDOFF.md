@@ -433,6 +433,13 @@ job as a June-11 backup.
 **Follow-up (nice):** `/methodology` could now point to the public repo as the verification path for
 the ledger (the external-anchor item).
 
+**Then TASK-062 — squad/roster on team pages.** `model/fetch_squads.py` parses the public
+"2026 FIFA World Cup squads" Wikipedia article (CC BY-SA, no key) → `site/public/data/squads.json`
+(48 teams, 1245 players: no/pos/name/club/caps/goals/age + coach). `data.ts` `loadSquads()` +
+`Squad.astro` render a **Squad** section on `/team/[slug]` grouped GK/DF/MF/FW; attributed on the
+page + `/policy`; squad mentioned in the team-page SEO. +3 parse tests (158 pytest). Empty-state-safe.
+Re-run `fetch_squads.py` occasionally (squads are fixed for the tournament).
+
 Then a **smaller-features batch + an expert-panel research pass** (2026-06-06):
 - **TASK-012** — matches index now has client-side search (by team), stage filter
   chips, sort, and a "★ Following" filter; hides empty stage sections, live count.
