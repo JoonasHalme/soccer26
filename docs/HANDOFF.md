@@ -408,6 +408,23 @@ avg CLV, with the fragile per-bet mean t-interval demoted. +4 tests; full gate g
 vitest 29, build 176). **TASK-031 (attack/defence split) deliberately DEFERRED** — too large a
 rating-model rewrite to land safely days before kickoff.
 
+**Then the INFRA batch (TASK-061) — the project is now in git + CI (see `docs/infra-plan.md`).**
+Repo: **https://github.com/JoonasHalme/soccer26** (pushed; `main`). Done: `git init` + first commit;
+un-ignored `predictions.json` and **committed the source data** (`internationals.csv` + `cup*.txt`)
+so the pipeline + ledger are fully reproducible; pinned `requirements.txt` to minor versions; a
+`.gitattributes` keeps `predictions.json` byte-exact (LF) across OSes so the SHA-256 ledger verifies;
+`.gitignore` now excludes `.claude/` + `closing-capture.log`. **GitHub Actions live:** `ci.yml`
+(pytest+vitest+build on every push — **green** on a clean Ubuntu runner), `matchday-poll.yml`
+(hourly, quota-safe: `capture_closing` + `fetch_results --only-if-active` + `settle` + `publish_live`,
+commits changes → auto-deploys), `refresh-odds.yml` (manual, credit-spending odds refresh). Added a
+`--only-if-active` quota gate to `fetch_results.py`. `site/public/_headers` edge-caches `live.json`
+(poller dropped `no-store`).
+**Still OWNER actions:** (1) connect Cloudflare Pages (root `site`, set `SITE_URL` to the free
+`.pages.dev`) → site live + indexable; (2) **rotate `ODDS_API_KEY`** and add it as the repo secret
+`ODDS_API_KEY` before June 11 (the hourly poll runs harmlessly without it pre-tournament, but needs
+it once matches start); (3) optional: branch-protect `main`. Keep the local `capture-closing.ps1`
+Task Scheduler job as a June-11 backup.
+
 Then a **smaller-features batch + an expert-panel research pass** (2026-06-06):
 - **TASK-012** — matches index now has client-side search (by team), stage filter
   chips, sort, and a "★ Following" filter; hides empty stage sections, live count.
