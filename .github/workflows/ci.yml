@@ -31,5 +31,5 @@ jobs:
         run: npm --prefix site run test
       - name: astro build
         env:
-          SITE_URL: https://soccer26.pages.dev
+          SITE_URL: https://matchprediction.pages.dev
         run: npm --prefix site run build
