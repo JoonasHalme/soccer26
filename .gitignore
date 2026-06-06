@@ -6,7 +6,5 @@ dist/
 __pycache__/
 *.pyc
 .venv/
-model/data/*.csv
-model/data/*.txt
 .claude/
 closing-capture.log
