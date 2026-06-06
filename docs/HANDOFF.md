@@ -419,11 +419,19 @@ so the pipeline + ledger are fully reproducible; pinned `requirements.txt` to mi
 commits changes → auto-deploys), `refresh-odds.yml` (manual, credit-spending odds refresh). Added a
 `--only-if-active` quota gate to `fetch_results.py`. `site/public/_headers` edge-caches `live.json`
 (poller dropped `no-store`).
-**Still OWNER actions:** (1) connect Cloudflare Pages (root `site`, set `SITE_URL` to the free
-`.pages.dev`) → site live + indexable; (2) **rotate `ODDS_API_KEY`** and add it as the repo secret
-`ODDS_API_KEY` before June 11 (the hourly poll runs harmlessly without it pre-tournament, but needs
-it once matches start); (3) optional: branch-protect `main`. Keep the local `capture-closing.ps1`
-Task Scheduler job as a June-11 backup.
+**LIVE:** repo is **public** (so the SHA-256 ledger is now externally verifiable — anyone can clone
++ re-hash; partial TASK-050 anchor) and deployed on **Cloudflare Pages → https://matchprediction.pages.dev**
+(auto-deploys on every push; sitemap/OG/canonical are absolute + correct). Branch protection: a
+ruleset on `main` blocks **force-push + deletion** (admin bypass) — guards the ledger history without
+blocking the auto-commit bots. (Require-PR/CI isn't possible on a personal repo — the GitHub Actions
+integration can't be a bypass actor, so it'd block the bots; force-push/deletion protection is the
+correct fit.)
+**Still OWNER action (one thing):** **rotate `ODDS_API_KEY`** and add it as repo secret `ODDS_API_KEY`
+(Settings → Secrets → Actions) before June 11 — the hourly `matchday-poll` runs harmlessly without it
+pre-tournament but needs it once matches start. Keep the local `capture-closing.ps1` Task Scheduler
+job as a June-11 backup.
+**Follow-up (nice):** `/methodology` could now point to the public repo as the verification path for
+the ledger (the external-anchor item).
 
 Then a **smaller-features batch + an expert-panel research pass** (2026-06-06):
 - **TASK-012** — matches index now has client-side search (by team), stage filter
