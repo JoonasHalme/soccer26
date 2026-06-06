@@ -1,0 +1,3702 @@
+{
+  "_note": "Recent international form for each WC2026 team (model/build_form.py). Display-only context; 'weight' is the model's match-importance weight.",
+  "updated": "2026-06-04",
+  "teams": {
+    "Austria": {
+      "form": "WDWWW",
+      "matches": [
+        {
+          "date": "2026-06-01",
+          "opp": "Tunisia",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "South Korea",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-27",
+          "opp": "Ghana",
+          "gf": 5,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-18",
+          "opp": "Bosnia and Herzegovina",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-15",
+          "opp": "Cyprus",
+          "gf": 2,
+          "ga": 0,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-10-12",
+          "opp": "Romania",
+          "gf": 0,
+          "ga": 1,
+          "res": "L",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": false
+        }
+      ]
+    },
+    "Belgium": {
+      "form": "DWWDW",
+      "matches": [
+        {
+          "date": "2026-06-02",
+          "opp": "Croatia",
+          "gf": 2,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Mexico",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2026-03-28",
+          "opp": "United States",
+          "gf": 5,
+          "ga": 2,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-18",
+          "opp": "Liechtenstein",
+          "gf": 7,
+          "ga": 0,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-15",
+          "opp": "Kazakhstan",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-10-13",
+          "opp": "Wales",
+          "gf": 4,
+          "ga": 2,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": false
+        }
+      ]
+    },
+    "Bosnia & Herzegovina": {
+      "form": "WDDDD",
+      "matches": [
+        {
+          "date": "2026-05-29",
+          "opp": "North Macedonia",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Italy",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-26",
+          "opp": "Wales",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-18",
+          "opp": "Austria",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-15",
+          "opp": "Romania",
+          "gf": 3,
+          "ga": 1,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-10-12",
+          "opp": "Malta",
+          "gf": 4,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        }
+      ]
+    },
+    "Croatia": {
+      "form": "WWWLL",
+      "matches": [
+        {
+          "date": "2026-06-02",
+          "opp": "Belgium",
+          "gf": 0,
+          "ga": 2,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Brazil",
+          "gf": 1,
+          "ga": 3,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2026-03-26",
+          "opp": "Colombia",
+          "gf": 2,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2025-11-17",
+          "opp": "Montenegro",
+          "gf": 3,
+          "ga": 2,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-14",
+          "opp": "Faroe Islands",
+          "gf": 3,
+          "ga": 1,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-10-12",
+          "opp": "Gibraltar",
+          "gf": 3,
+          "ga": 0,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        }
+      ]
+    },
+    "Czech Republic": {
+      "form": "WDDWW",
+      "matches": [
+        {
+          "date": "2026-06-04",
+          "opp": "Guatemala",
+          "gf": 5,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2026-05-31",
+          "opp": "Kosovo",
+          "gf": 2,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Denmark",
+          "gf": 2,
+          "ga": 2,
+          "res": "D",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-26",
+          "opp": "Republic of Ireland",
+          "gf": 2,
+          "ga": 2,
+          "res": "D",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-17",
+          "opp": "Gibraltar",
+          "gf": 6,
+          "ga": 0,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-13",
+          "opp": "San Marino",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        }
+      ]
+    },
+    "England": {
+      "form": "WWWDL",
+      "matches": [
+        {
+          "date": "2026-03-31",
+          "opp": "Japan",
+          "gf": 0,
+          "ga": 1,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-27",
+          "opp": "Uruguay",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-16",
+          "opp": "Albania",
+          "gf": 2,
+          "ga": 0,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-13",
+          "opp": "Serbia",
+          "gf": 2,
+          "ga": 0,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-10-14",
+          "opp": "Latvia",
+          "gf": 5,
+          "ga": 0,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-10-09",
+          "opp": "Wales",
+          "gf": 3,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        }
+      ]
+    },
+    "France": {
+      "form": "WWWWL",
+      "matches": [
+        {
+          "date": "2026-06-04",
+          "opp": "Ivory Coast",
+          "gf": 1,
+          "ga": 2,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-29",
+          "opp": "Colombia",
+          "gf": 3,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2026-03-26",
+          "opp": "Brazil",
+          "gf": 2,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2025-11-16",
+          "opp": "Azerbaijan",
+          "gf": 3,
+          "ga": 1,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-13",
+          "opp": "Ukraine",
+          "gf": 4,
+          "ga": 0,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-10-13",
+          "opp": "Iceland",
+          "gf": 2,
+          "ga": 2,
+          "res": "D",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": false
+        }
+      ]
+    },
+    "Germany": {
+      "form": "WWWWW",
+      "matches": [
+        {
+          "date": "2026-05-31",
+          "opp": "Finland",
+          "gf": 4,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-30",
+          "opp": "Ghana",
+          "gf": 2,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-27",
+          "opp": "Switzerland",
+          "gf": 4,
+          "ga": 3,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-17",
+          "opp": "Slovakia",
+          "gf": 6,
+          "ga": 0,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-14",
+          "opp": "Luxembourg",
+          "gf": 2,
+          "ga": 0,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-10-13",
+          "opp": "Northern Ireland",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": false
+        }
+      ]
+    },
+    "Netherlands": {
+      "form": "DWWDL",
+      "matches": [
+        {
+          "date": "2026-06-03",
+          "opp": "Algeria",
+          "gf": 0,
+          "ga": 1,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Ecuador",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-27",
+          "opp": "Norway",
+          "gf": 2,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-17",
+          "opp": "Lithuania",
+          "gf": 4,
+          "ga": 0,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-14",
+          "opp": "Poland",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-10-12",
+          "opp": "Finland",
+          "gf": 4,
+          "ga": 0,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        }
+      ]
+    },
+    "Norway": {
+      "form": "WWLDW",
+      "matches": [
+        {
+          "date": "2026-06-01",
+          "opp": "Sweden",
+          "gf": 3,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Switzerland",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-27",
+          "opp": "Netherlands",
+          "gf": 1,
+          "ga": 2,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-16",
+          "opp": "Italy",
+          "gf": 4,
+          "ga": 1,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-13",
+          "opp": "Estonia",
+          "gf": 4,
+          "ga": 1,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-10-14",
+          "opp": "New Zealand",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        }
+      ]
+    },
+    "Portugal": {
+      "form": "DLWDW",
+      "matches": [
+        {
+          "date": "2026-03-31",
+          "opp": "United States",
+          "gf": 2,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-28",
+          "opp": "Mexico",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-16",
+          "opp": "Armenia",
+          "gf": 9,
+          "ga": 1,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-13",
+          "opp": "Republic of Ireland",
+          "gf": 0,
+          "ga": 2,
+          "res": "L",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-10-14",
+          "opp": "Hungary",
+          "gf": 2,
+          "ga": 2,
+          "res": "D",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-10-11",
+          "opp": "Republic of Ireland",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        }
+      ]
+    },
+    "Scotland": {
+      "form": "LWLLW",
+      "matches": [
+        {
+          "date": "2026-05-30",
+          "opp": "Cura\u00e7ao",
+          "gf": 4,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Ivory Coast",
+          "gf": 0,
+          "ga": 1,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2026-03-28",
+          "opp": "Japan",
+          "gf": 0,
+          "ga": 1,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-18",
+          "opp": "Denmark",
+          "gf": 4,
+          "ga": 2,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-15",
+          "opp": "Greece",
+          "gf": 2,
+          "ga": 3,
+          "res": "L",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-10-12",
+          "opp": "Belarus",
+          "gf": 2,
+          "ga": 1,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        }
+      ]
+    },
+    "Spain": {
+      "form": "WDWDD",
+      "matches": [
+        {
+          "date": "2026-06-04",
+          "opp": "Iraq",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Egypt",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-27",
+          "opp": "Serbia",
+          "gf": 3,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-18",
+          "opp": "Turkey",
+          "gf": 2,
+          "ga": 2,
+          "res": "D",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-15",
+          "opp": "Georgia",
+          "gf": 4,
+          "ga": 0,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-10-14",
+          "opp": "Bulgaria",
+          "gf": 4,
+          "ga": 0,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        }
+      ]
+    },
+    "Sweden": {
+      "form": "DWWLD",
+      "matches": [
+        {
+          "date": "2026-06-04",
+          "opp": "Greece",
+          "gf": 2,
+          "ga": 2,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-06-01",
+          "opp": "Norway",
+          "gf": 1,
+          "ga": 3,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Poland",
+          "gf": 3,
+          "ga": 2,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-26",
+          "opp": "Ukraine",
+          "gf": 3,
+          "ga": 1,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2025-11-18",
+          "opp": "Slovenia",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-15",
+          "opp": "Switzerland",
+          "gf": 1,
+          "ga": 4,
+          "res": "L",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": false
+        }
+      ]
+    },
+    "Switzerland": {
+      "form": "WDLDW",
+      "matches": [
+        {
+          "date": "2026-05-31",
+          "opp": "Jordan",
+          "gf": 4,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Norway",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-27",
+          "opp": "Germany",
+          "gf": 3,
+          "ga": 4,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-18",
+          "opp": "Kosovo",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-15",
+          "opp": "Sweden",
+          "gf": 4,
+          "ga": 1,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-10-13",
+          "opp": "Slovenia",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": false
+        }
+      ]
+    },
+    "Turkey": {
+      "form": "WDWWW",
+      "matches": [
+        {
+          "date": "2026-06-01",
+          "opp": "North Macedonia",
+          "gf": 4,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Kosovo",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-26",
+          "opp": "Romania",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-18",
+          "opp": "Spain",
+          "gf": 2,
+          "ga": 2,
+          "res": "D",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-15",
+          "opp": "Bulgaria",
+          "gf": 2,
+          "ga": 0,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-10-14",
+          "opp": "Georgia",
+          "gf": 4,
+          "ga": 1,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        }
+      ]
+    },
+    "Argentina": {
+      "form": "WWWWW",
+      "matches": [
+        {
+          "date": "2026-03-31",
+          "opp": "Zambia",
+          "gf": 5,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-27",
+          "opp": "Mauritania",
+          "gf": 2,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-14",
+          "opp": "Angola",
+          "gf": 2,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-10-14",
+          "opp": "Puerto Rico",
+          "gf": 6,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2025-10-10",
+          "opp": "Venezuela",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2025-09-09",
+          "opp": "Ecuador",
+          "gf": 0,
+          "ga": 1,
+          "res": "L",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": false
+        }
+      ]
+    },
+    "Brazil": {
+      "form": "WDLWW",
+      "matches": [
+        {
+          "date": "2026-05-31",
+          "opp": "Panama",
+          "gf": 6,
+          "ga": 2,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Croatia",
+          "gf": 3,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2026-03-26",
+          "opp": "France",
+          "gf": 1,
+          "ga": 2,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2025-11-18",
+          "opp": "Tunisia",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2025-11-15",
+          "opp": "Senegal",
+          "gf": 2,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2025-10-14",
+          "opp": "Japan",
+          "gf": 2,
+          "ga": 3,
+          "res": "L",
+          "comp": "Kirin Cup",
+          "friendly": false,
+          "weight": 0.85,
+          "home": false,
+          "neutral": false
+        }
+      ]
+    },
+    "Colombia": {
+      "form": "WWLLW",
+      "matches": [
+        {
+          "date": "2026-06-01",
+          "opp": "Costa Rica",
+          "gf": 3,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-29",
+          "opp": "France",
+          "gf": 1,
+          "ga": 3,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2026-03-26",
+          "opp": "Croatia",
+          "gf": 1,
+          "ga": 2,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2025-11-18",
+          "opp": "Australia",
+          "gf": 3,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2025-11-15",
+          "opp": "New Zealand",
+          "gf": 2,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2025-10-14",
+          "opp": "Canada",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": true
+        }
+      ]
+    },
+    "Ecuador": {
+      "form": "DWDDW",
+      "matches": [
+        {
+          "date": "2026-05-30",
+          "opp": "Saudi Arabia",
+          "gf": 2,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Netherlands",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-27",
+          "opp": "Morocco",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2025-11-18",
+          "opp": "New Zealand",
+          "gf": 2,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2025-11-13",
+          "opp": "Canada",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-10-14",
+          "opp": "Mexico",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        }
+      ]
+    },
+    "Paraguay": {
+      "form": "LLWWL",
+      "matches": [
+        {
+          "date": "2026-03-31",
+          "opp": "Morocco",
+          "gf": 1,
+          "ga": 2,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2026-03-27",
+          "opp": "Greece",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-18",
+          "opp": "Mexico",
+          "gf": 2,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2025-11-15",
+          "opp": "United States",
+          "gf": 1,
+          "ga": 2,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-10-14",
+          "opp": "South Korea",
+          "gf": 0,
+          "ga": 2,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-10-10",
+          "opp": "Japan",
+          "gf": 2,
+          "ga": 2,
+          "res": "D",
+          "comp": "Kirin Cup",
+          "friendly": false,
+          "weight": 0.85,
+          "home": false,
+          "neutral": false
+        }
+      ]
+    },
+    "Uruguay": {
+      "form": "WDLDD",
+      "matches": [
+        {
+          "date": "2026-03-31",
+          "opp": "Algeria",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2026-03-27",
+          "opp": "England",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-18",
+          "opp": "United States",
+          "gf": 1,
+          "ga": 5,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-15",
+          "opp": "Mexico",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-10-13",
+          "opp": "Uzbekistan",
+          "gf": 2,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2025-10-10",
+          "opp": "Dominican Republic",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        }
+      ]
+    },
+    "Algeria": {
+      "form": "WLWDW",
+      "matches": [
+        {
+          "date": "2026-06-03",
+          "opp": "Netherlands",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Uruguay",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2026-03-27",
+          "opp": "Guatemala",
+          "gf": 7,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2026-01-10",
+          "opp": "Nigeria",
+          "gf": 0,
+          "ga": 2,
+          "res": "L",
+          "comp": "African Cup of Nations",
+          "friendly": false,
+          "weight": 1.4,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2026-01-06",
+          "opp": "DR Congo",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "African Cup of Nations",
+          "friendly": false,
+          "weight": 1.4,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2025-12-31",
+          "opp": "Equatorial Guinea",
+          "gf": 3,
+          "ga": 1,
+          "res": "W",
+          "comp": "African Cup of Nations",
+          "friendly": false,
+          "weight": 1.4,
+          "home": false,
+          "neutral": true
+        }
+      ]
+    },
+    "Cape Verde": {
+      "form": "DDLDW",
+      "matches": [
+        {
+          "date": "2026-05-31",
+          "opp": "Serbia",
+          "gf": 3,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2026-03-30",
+          "opp": "Finland",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "FIFA Series",
+          "friendly": false,
+          "weight": 0.85,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2026-03-27",
+          "opp": "Chile",
+          "gf": 2,
+          "ga": 4,
+          "res": "L",
+          "comp": "FIFA Series",
+          "friendly": false,
+          "weight": 0.85,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2025-11-17",
+          "opp": "Egypt",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "Al Ain International Cup",
+          "friendly": false,
+          "weight": 0.85,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2025-11-13",
+          "opp": "Iran",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "Al Ain International Cup",
+          "friendly": false,
+          "weight": 0.85,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2025-10-13",
+          "opp": "Eswatini",
+          "gf": 3,
+          "ga": 0,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        }
+      ]
+    },
+    "DR Congo": {
+      "form": "WLWWD",
+      "matches": [
+        {
+          "date": "2026-06-03",
+          "opp": "Denmark",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Jamaica",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2026-03-25",
+          "opp": "Bermuda",
+          "gf": 2,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2026-01-06",
+          "opp": "Algeria",
+          "gf": 0,
+          "ga": 1,
+          "res": "L",
+          "comp": "African Cup of Nations",
+          "friendly": false,
+          "weight": 1.4,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2025-12-30",
+          "opp": "Botswana",
+          "gf": 3,
+          "ga": 0,
+          "res": "W",
+          "comp": "African Cup of Nations",
+          "friendly": false,
+          "weight": 1.4,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2025-12-27",
+          "opp": "Senegal",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "African Cup of Nations",
+          "friendly": false,
+          "weight": 1.4,
+          "home": false,
+          "neutral": true
+        }
+      ]
+    },
+    "Egypt": {
+      "form": "LDWDW",
+      "matches": [
+        {
+          "date": "2026-05-28",
+          "opp": "Russia",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Spain",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-27",
+          "opp": "Saudi Arabia",
+          "gf": 4,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-01-17",
+          "opp": "Nigeria",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "African Cup of Nations",
+          "friendly": false,
+          "weight": 1.4,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2026-01-14",
+          "opp": "Senegal",
+          "gf": 0,
+          "ga": 1,
+          "res": "L",
+          "comp": "African Cup of Nations",
+          "friendly": false,
+          "weight": 1.4,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2026-01-10",
+          "opp": "Ivory Coast",
+          "gf": 3,
+          "ga": 2,
+          "res": "W",
+          "comp": "African Cup of Nations",
+          "friendly": false,
+          "weight": 1.4,
+          "home": true,
+          "neutral": true
+        }
+      ]
+    },
+    "Ghana": {
+      "form": "LLLLD",
+      "matches": [
+        {
+          "date": "2026-06-02",
+          "opp": "Wales",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-05-22",
+          "opp": "Mexico",
+          "gf": 0,
+          "ga": 2,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-30",
+          "opp": "Germany",
+          "gf": 1,
+          "ga": 2,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-27",
+          "opp": "Austria",
+          "gf": 1,
+          "ga": 5,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-18",
+          "opp": "South Korea",
+          "gf": 0,
+          "ga": 1,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-14",
+          "opp": "Japan",
+          "gf": 0,
+          "ga": 2,
+          "res": "L",
+          "comp": "Kirin Cup",
+          "friendly": false,
+          "weight": 0.85,
+          "home": false,
+          "neutral": false
+        }
+      ]
+    },
+    "Ivory Coast": {
+      "form": "WLWWW",
+      "matches": [
+        {
+          "date": "2026-06-04",
+          "opp": "France",
+          "gf": 2,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Scotland",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2026-03-28",
+          "opp": "South Korea",
+          "gf": 4,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2026-01-10",
+          "opp": "Egypt",
+          "gf": 2,
+          "ga": 3,
+          "res": "L",
+          "comp": "African Cup of Nations",
+          "friendly": false,
+          "weight": 1.4,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2026-01-06",
+          "opp": "Burkina Faso",
+          "gf": 3,
+          "ga": 0,
+          "res": "W",
+          "comp": "African Cup of Nations",
+          "friendly": false,
+          "weight": 1.4,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2025-12-31",
+          "opp": "Gabon",
+          "gf": 3,
+          "ga": 2,
+          "res": "W",
+          "comp": "African Cup of Nations",
+          "friendly": false,
+          "weight": 1.4,
+          "home": false,
+          "neutral": true
+        }
+      ]
+    },
+    "Morocco": {
+      "form": "WDWWW",
+      "matches": [
+        {
+          "date": "2026-06-02",
+          "opp": "Madagascar",
+          "gf": 4,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-05-26",
+          "opp": "Burundi",
+          "gf": 5,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Paraguay",
+          "gf": 2,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2026-03-27",
+          "opp": "Ecuador",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2026-01-18",
+          "opp": "Senegal",
+          "gf": 3,
+          "ga": 0,
+          "res": "W",
+          "comp": "African Cup of Nations",
+          "friendly": false,
+          "weight": 1.4,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-01-14",
+          "opp": "Nigeria",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "African Cup of Nations",
+          "friendly": false,
+          "weight": 1.4,
+          "home": true,
+          "neutral": false
+        }
+      ]
+    },
+    "Senegal": {
+      "form": "WLWWL",
+      "matches": [
+        {
+          "date": "2026-05-31",
+          "opp": "United States",
+          "gf": 2,
+          "ga": 3,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Gambia",
+          "gf": 3,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-28",
+          "opp": "Peru",
+          "gf": 2,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2026-01-18",
+          "opp": "Morocco",
+          "gf": 0,
+          "ga": 3,
+          "res": "L",
+          "comp": "African Cup of Nations",
+          "friendly": false,
+          "weight": 1.4,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-01-14",
+          "opp": "Egypt",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "African Cup of Nations",
+          "friendly": false,
+          "weight": 1.4,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2026-01-09",
+          "opp": "Mali",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "African Cup of Nations",
+          "friendly": false,
+          "weight": 1.4,
+          "home": false,
+          "neutral": true
+        }
+      ]
+    },
+    "South Africa": {
+      "form": "WLDLD",
+      "matches": [
+        {
+          "date": "2026-05-29",
+          "opp": "Nicaragua",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Panama",
+          "gf": 1,
+          "ga": 2,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-27",
+          "opp": "Panama",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-01-04",
+          "opp": "Cameroon",
+          "gf": 1,
+          "ga": 2,
+          "res": "L",
+          "comp": "African Cup of Nations",
+          "friendly": false,
+          "weight": 1.4,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2025-12-29",
+          "opp": "Zimbabwe",
+          "gf": 3,
+          "ga": 2,
+          "res": "W",
+          "comp": "African Cup of Nations",
+          "friendly": false,
+          "weight": 1.4,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2025-12-26",
+          "opp": "Egypt",
+          "gf": 0,
+          "ga": 1,
+          "res": "L",
+          "comp": "African Cup of Nations",
+          "friendly": false,
+          "weight": 1.4,
+          "home": false,
+          "neutral": true
+        }
+      ]
+    },
+    "Tunisia": {
+      "form": "DDWDL",
+      "matches": [
+        {
+          "date": "2026-06-01",
+          "opp": "Austria",
+          "gf": 0,
+          "ga": 1,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Canada",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-28",
+          "opp": "Haiti",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2026-01-03",
+          "opp": "Mali",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "African Cup of Nations",
+          "friendly": false,
+          "weight": 1.4,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2025-12-30",
+          "opp": "Tanzania",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "African Cup of Nations",
+          "friendly": false,
+          "weight": 1.4,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2025-12-27",
+          "opp": "Nigeria",
+          "gf": 2,
+          "ga": 3,
+          "res": "L",
+          "comp": "African Cup of Nations",
+          "friendly": false,
+          "weight": 1.4,
+          "home": false,
+          "neutral": true
+        }
+      ]
+    },
+    "Australia": {
+      "form": "LLWWL",
+      "matches": [
+        {
+          "date": "2026-05-30",
+          "opp": "Mexico",
+          "gf": 0,
+          "ga": 1,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Cura\u00e7ao",
+          "gf": 5,
+          "ga": 1,
+          "res": "W",
+          "comp": "FIFA Series",
+          "friendly": false,
+          "weight": 0.85,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-27",
+          "opp": "Cameroon",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "FIFA Series",
+          "friendly": false,
+          "weight": 0.85,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-18",
+          "opp": "Colombia",
+          "gf": 0,
+          "ga": 3,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2025-11-14",
+          "opp": "Venezuela",
+          "gf": 0,
+          "ga": 1,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2025-10-14",
+          "opp": "United States",
+          "gf": 1,
+          "ga": 2,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        }
+      ]
+    },
+    "Iran": {
+      "form": "DLWWW",
+      "matches": [
+        {
+          "date": "2026-06-04",
+          "opp": "Mali",
+          "gf": 2,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2026-05-29",
+          "opp": "Gambia",
+          "gf": 3,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Costa Rica",
+          "gf": 5,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2026-03-27",
+          "opp": "Nigeria",
+          "gf": 1,
+          "ga": 2,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2025-11-18",
+          "opp": "Uzbekistan",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "Al Ain International Cup",
+          "friendly": false,
+          "weight": 0.85,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2025-11-13",
+          "opp": "Cape Verde",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "Al Ain International Cup",
+          "friendly": false,
+          "weight": 0.85,
+          "home": true,
+          "neutral": true
+        }
+      ]
+    },
+    "Iraq": {
+      "form": "LLWWD",
+      "matches": [
+        {
+          "date": "2026-06-04",
+          "opp": "Spain",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-05-29",
+          "opp": "Andorra",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Bolivia",
+          "gf": 2,
+          "ga": 1,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2025-12-12",
+          "opp": "Jordan",
+          "gf": 0,
+          "ga": 1,
+          "res": "L",
+          "comp": "Arab Cup",
+          "friendly": false,
+          "weight": 0.85,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2025-12-09",
+          "opp": "Algeria",
+          "gf": 0,
+          "ga": 2,
+          "res": "L",
+          "comp": "Arab Cup",
+          "friendly": false,
+          "weight": 0.85,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2025-12-06",
+          "opp": "Sudan",
+          "gf": 2,
+          "ga": 0,
+          "res": "W",
+          "comp": "Arab Cup",
+          "friendly": false,
+          "weight": 0.85,
+          "home": false,
+          "neutral": true
+        }
+      ]
+    },
+    "Japan": {
+      "form": "WWWWW",
+      "matches": [
+        {
+          "date": "2026-05-31",
+          "opp": "Iceland",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "England",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-28",
+          "opp": "Scotland",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-18",
+          "opp": "Bolivia",
+          "gf": 3,
+          "ga": 0,
+          "res": "W",
+          "comp": "Kirin Cup",
+          "friendly": false,
+          "weight": 0.85,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-14",
+          "opp": "Ghana",
+          "gf": 2,
+          "ga": 0,
+          "res": "W",
+          "comp": "Kirin Cup",
+          "friendly": false,
+          "weight": 0.85,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-10-14",
+          "opp": "Brazil",
+          "gf": 3,
+          "ga": 2,
+          "res": "W",
+          "comp": "Kirin Cup",
+          "friendly": false,
+          "weight": 0.85,
+          "home": true,
+          "neutral": false
+        }
+      ]
+    },
+    "Jordan": {
+      "form": "WLDDL",
+      "matches": [
+        {
+          "date": "2026-05-31",
+          "opp": "Switzerland",
+          "gf": 1,
+          "ga": 4,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Nigeria",
+          "gf": 2,
+          "ga": 2,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2026-03-27",
+          "opp": "Costa Rica",
+          "gf": 2,
+          "ga": 2,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2025-12-18",
+          "opp": "Morocco",
+          "gf": 2,
+          "ga": 3,
+          "res": "L",
+          "comp": "Arab Cup",
+          "friendly": false,
+          "weight": 0.85,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2025-12-15",
+          "opp": "Saudi Arabia",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "Arab Cup",
+          "friendly": false,
+          "weight": 0.85,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2025-12-12",
+          "opp": "Iraq",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "Arab Cup",
+          "friendly": false,
+          "weight": 0.85,
+          "home": true,
+          "neutral": true
+        }
+      ]
+    },
+    "Qatar": {
+      "form": "LLDLL",
+      "matches": [
+        {
+          "date": "2026-05-28",
+          "opp": "Republic of Ireland",
+          "gf": 0,
+          "ga": 1,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-12-07",
+          "opp": "Tunisia",
+          "gf": 0,
+          "ga": 3,
+          "res": "L",
+          "comp": "Arab Cup",
+          "friendly": false,
+          "weight": 0.85,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-12-04",
+          "opp": "Syria",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "Arab Cup",
+          "friendly": false,
+          "weight": 0.85,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-12-01",
+          "opp": "Palestine",
+          "gf": 0,
+          "ga": 1,
+          "res": "L",
+          "comp": "Arab Cup",
+          "friendly": false,
+          "weight": 0.85,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-17",
+          "opp": "Zimbabwe",
+          "gf": 1,
+          "ga": 2,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-10-14",
+          "opp": "United Arab Emirates",
+          "gf": 2,
+          "ga": 1,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        }
+      ]
+    },
+    "Saudi Arabia": {
+      "form": "WLLLL",
+      "matches": [
+        {
+          "date": "2026-05-30",
+          "opp": "Ecuador",
+          "gf": 1,
+          "ga": 2,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Serbia",
+          "gf": 1,
+          "ga": 2,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-27",
+          "opp": "Egypt",
+          "gf": 0,
+          "ga": 4,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-12-15",
+          "opp": "Jordan",
+          "gf": 0,
+          "ga": 1,
+          "res": "L",
+          "comp": "Arab Cup",
+          "friendly": false,
+          "weight": 0.85,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2025-12-11",
+          "opp": "Palestine",
+          "gf": 2,
+          "ga": 1,
+          "res": "W",
+          "comp": "Arab Cup",
+          "friendly": false,
+          "weight": 0.85,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2025-12-08",
+          "opp": "Morocco",
+          "gf": 0,
+          "ga": 1,
+          "res": "L",
+          "comp": "Arab Cup",
+          "friendly": false,
+          "weight": 0.85,
+          "home": false,
+          "neutral": true
+        }
+      ]
+    },
+    "South Korea": {
+      "form": "WLLWW",
+      "matches": [
+        {
+          "date": "2026-06-03",
+          "opp": "El Salvador",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2026-05-30",
+          "opp": "Trinidad and Tobago",
+          "gf": 5,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Austria",
+          "gf": 0,
+          "ga": 1,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-28",
+          "opp": "Ivory Coast",
+          "gf": 0,
+          "ga": 4,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2025-11-18",
+          "opp": "Ghana",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-14",
+          "opp": "Bolivia",
+          "gf": 2,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        }
+      ]
+    },
+    "Uzbekistan": {
+      "form": "DDWDL",
+      "matches": [
+        {
+          "date": "2026-06-01",
+          "opp": "Canada",
+          "gf": 0,
+          "ga": 2,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-30",
+          "opp": "Venezuela",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "FIFA Series",
+          "friendly": false,
+          "weight": 0.85,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-27",
+          "opp": "Gabon",
+          "gf": 3,
+          "ga": 1,
+          "res": "W",
+          "comp": "FIFA Series",
+          "friendly": false,
+          "weight": 0.85,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-01-26",
+          "opp": "China PR",
+          "gf": 2,
+          "ga": 2,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2025-11-18",
+          "opp": "Iran",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "Al Ain International Cup",
+          "friendly": false,
+          "weight": 0.85,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2025-11-14",
+          "opp": "Egypt",
+          "gf": 2,
+          "ga": 0,
+          "res": "W",
+          "comp": "Al Ain International Cup",
+          "friendly": false,
+          "weight": 0.85,
+          "home": true,
+          "neutral": true
+        }
+      ]
+    },
+    "Canada": {
+      "form": "DWDDW",
+      "matches": [
+        {
+          "date": "2026-06-01",
+          "opp": "Uzbekistan",
+          "gf": 2,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Tunisia",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-28",
+          "opp": "Iceland",
+          "gf": 2,
+          "ga": 2,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-18",
+          "opp": "Venezuela",
+          "gf": 2,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2025-11-13",
+          "opp": "Ecuador",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-10-14",
+          "opp": "Colombia",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        }
+      ]
+    },
+    "Cura\u00e7ao": {
+      "form": "WDLLL",
+      "matches": [
+        {
+          "date": "2026-05-30",
+          "opp": "Scotland",
+          "gf": 1,
+          "ga": 4,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Australia",
+          "gf": 1,
+          "ga": 5,
+          "res": "L",
+          "comp": "FIFA Series",
+          "friendly": false,
+          "weight": 0.85,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-27",
+          "opp": "China PR",
+          "gf": 0,
+          "ga": 2,
+          "res": "L",
+          "comp": "FIFA Series",
+          "friendly": false,
+          "weight": 0.85,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2025-11-18",
+          "opp": "Jamaica",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-13",
+          "opp": "Bermuda",
+          "gf": 7,
+          "ga": 0,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2025-10-14",
+          "opp": "Trinidad and Tobago",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": false
+        }
+      ]
+    },
+    "Haiti": {
+      "form": "WWLDW",
+      "matches": [
+        {
+          "date": "2026-06-02",
+          "opp": "New Zealand",
+          "gf": 4,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Iceland",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2026-03-28",
+          "opp": "Tunisia",
+          "gf": 0,
+          "ga": 1,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2025-11-18",
+          "opp": "Nicaragua",
+          "gf": 2,
+          "ga": 0,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2025-11-13",
+          "opp": "Costa Rica",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2025-10-13",
+          "opp": "Honduras",
+          "gf": 0,
+          "ga": 3,
+          "res": "L",
+          "comp": "FIFA World Cup qualification",
+          "friendly": false,
+          "weight": 1.0,
+          "home": false,
+          "neutral": false
+        }
+      ]
+    },
+    "Mexico": {
+      "form": "DDWWW",
+      "matches": [
+        {
+          "date": "2026-06-04",
+          "opp": "Serbia",
+          "gf": 5,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-05-30",
+          "opp": "Australia",
+          "gf": 1,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2026-05-22",
+          "opp": "Ghana",
+          "gf": 2,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Belgium",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": true
+        },
+        {
+          "date": "2026-03-28",
+          "opp": "Portugal",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-02-25",
+          "opp": "Iceland",
+          "gf": 4,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        }
+      ]
+    },
+    "Panama": {
+      "form": "LDWLW",
+      "matches": [
+        {
+          "date": "2026-06-03",
+          "opp": "Dominican Republic",
+          "gf": 4,
+          "ga": 2,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-05-31",
+          "opp": "Brazil",
+          "gf": 2,
+          "ga": 6,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "South Africa",
+          "gf": 2,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-27",
+          "opp": "South Africa",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        },
+        {
+          "date": "2026-01-22",
+          "opp": "Mexico",
+          "gf": 0,
+          "ga": 1,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-01-18",
+          "opp": "Bolivia",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        }
+      ]
+    },
+    "USA": {
+      "form": "WWLLW",
+      "matches": [
+        {
+          "date": "2026-05-31",
+          "opp": "Senegal",
+          "gf": 3,
+          "ga": 2,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-31",
+          "opp": "Portugal",
+          "gf": 0,
+          "ga": 2,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-28",
+          "opp": "Belgium",
+          "gf": 2,
+          "ga": 5,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-18",
+          "opp": "Uruguay",
+          "gf": 5,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-15",
+          "opp": "Paraguay",
+          "gf": 2,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-10-14",
+          "opp": "Australia",
+          "gf": 2,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false
+        }
+      ]
+    },
+    "New Zealand": {
+      "form": "LLLWL",
+      "matches": [
+        {
+          "date": "2026-06-02",
+          "opp": "Haiti",
+          "gf": 0,
+          "ga": 4,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2026-03-30",
+          "opp": "Chile",
+          "gf": 4,
+          "ga": 1,
+          "res": "W",
+          "comp": "FIFA Series",
+          "friendly": false,
+          "weight": 0.85,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2026-03-27",
+          "opp": "Finland",
+          "gf": 0,
+          "ga": 2,
+          "res": "L",
+          "comp": "FIFA Series",
+          "friendly": false,
+          "weight": 0.85,
+          "home": true,
+          "neutral": false
+        },
+        {
+          "date": "2025-11-18",
+          "opp": "Ecuador",
+          "gf": 0,
+          "ga": 2,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2025-11-15",
+          "opp": "Colombia",
+          "gf": 1,
+          "ga": 2,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": true
+        },
+        {
+          "date": "2025-10-14",
+          "opp": "Norway",
+          "gf": 1,
+          "ga": 1,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false
+        }
+      ]
+    }
+  }
+}

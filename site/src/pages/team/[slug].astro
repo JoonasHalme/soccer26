@@ -8,8 +8,9 @@ import TeamFlag from "../../components/TeamFlag.astro";
 import FollowButton from "../../components/FollowButton.astro";
 import LocalTime from "../../components/LocalTime.astro";
 import Squad from "../../components/Squad.astro";
+import TeamForm from "../../components/TeamForm.astro";
 import {
-  loadFixtures, loadPredictions, loadNews, loadSquads,
+  loadFixtures, loadPredictions, loadNews, loadSquads, loadForm,
   computeStandings, allEdges, selectionLabel, teamSlug, teamGroups, pct1,
 } from "../../lib/data";
 
@@ -48,6 +49,8 @@ const edges = allEdges(predictions, matches)
 
 const squadsFile = loadSquads();
 const squad = squadsFile.teams[team];
+
+const teamForm = loadForm().teams[team];
 
 const teamNews = news.items.filter((n) => n.teams.includes(team));
 
@@ -98,6 +101,15 @@ const description = `${team}'s FIFA World Cup 2026 squad, schedule (Group ${grou
       </div>
     )}
   </section>
+
+  {teamForm && teamForm.matches.length > 0 && (
+    <section class="tm-section">
+      <div class="section-head"><h2>Road to the World Cup</h2><span class="count">recent form</span><span class="rule"></span></div>
+      <div class="panel">
+        <TeamForm form={teamForm} team={team} />
+      </div>
+    </section>
+  )}
 
   {squad && squad.players.length > 0 && (
     <section class="tm-section">

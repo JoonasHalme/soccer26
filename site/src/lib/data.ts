@@ -616,6 +616,27 @@ export function loadSquads(): SquadsFile {
   return readJson<SquadsFile>("site/public/data/squads.json", { source: "", updated: "", teams: {} });
 }
 
+// Recent international form ("Road to the World Cup"). Display-only context built
+// from the same results data the ratings train on; `weight` is the model's
+// match-importance weight for that game (so a warm-up friendly shows openly at 0.5).
+export interface FormMatch {
+  date: string;
+  opp: string;
+  gf: number; ga: number;
+  res: "W" | "D" | "L";
+  comp: string;
+  friendly: boolean;
+  weight: number;
+  home: boolean;
+  neutral: boolean;
+}
+export interface TeamForm { form: string; matches: FormMatch[] }
+export interface FormFile { updated: string | null; teams: Record<string, TeamForm> }
+
+export function loadForm(): FormFile {
+  return readJson<FormFile>("site/public/data/form.json", { updated: null, teams: {} });
+}
+
 export interface ReliabilityBin {
   lo: number; hi: number;
   mean_pred: number | null;

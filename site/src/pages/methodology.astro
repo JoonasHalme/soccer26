@@ -46,12 +46,15 @@ const GLOSSARY: { term: string; def: string }[] = [
   <section class="mx-section">
     <div class="section-head"><h2>How the model works</h2><span class="rule"></span></div>
     <div class="mx-grid">
-      <div class="panel mx-card">
+      <div class="panel mx-card" id="ratings">
         <span class="mx-step">1</span>
         <h3>Team strength (Elo)</h3>
         <p>Each team carries an <b>Elo rating</b> trained on thousands of historical
         internationals. Wins against strong teams move it more than wins against weak
-        ones; home advantage and venue/host context adjust it per match.</p>
+        ones; home advantage and venue/host context adjust it per match. Games are also
+        <b>weighted by importance</b> — a friendly counts at half the weight of a
+        competitive match, so warm-up exhibitions move the ratings less than a World Cup
+        or qualifier result.</p>
       </div>
       <div class="panel mx-card">
         <span class="mx-step">2</span>

@@ -1,0 +1,112 @@
+---
+import type { TeamForm } from "../lib/data";
+interface Props { form: TeamForm; team: string }
+const { form, team } = Astro.props;
+
+// Shorten the raw martj42 competition name to a compact label.
+function shortComp(c: string): string {
+  const t = c.toLowerCase();
+  if (t.includes("friendly")) return "Friendly";
+  if (t.includes("nations league")) return "Nations League";
+  if (t.includes("world cup qualif")) return "WC Qualifier";
+  if (t.includes("euro qualif")) return "Euro Qualifier";
+  if (t.includes("african cup of nations qualif")) return "AFCON Qualifier";
+  if (t.includes("asian cup qualif")) return "Asian Cup Qualifier";
+  if (t === "fifa world cup") return "World Cup";
+  return c;
+}
+const fmtDate = (iso: string) =>
+  new Date(iso + "T00:00:00Z").toLocaleDateString("en-GB", { day: "numeric", month: "short", timeZone: "UTC" });
+
+const chars = form.form.split(""); // oldest -> newest (rightmost is most recent)
+---
+<div class="form">
+  {chars.length > 0 && (
+    <div class="form-strip" aria-label={`Recent form for ${team}, oldest to newest: ${form.form}`}>
+      <span class="fs-label">Form</span>
+      <span class="fs-chips">
+        {chars.map((r) => <span class={`fchip f-${r}`}>{r}</span>)}
+      </span>
+      <span class="fs-hint">newest →</span>
+    </div>
+  )}
+
+  <ul class="form-list">
+    {form.matches.map((m) => (
+      <li class="fm-row">
+        <span class={`fm-res f-${m.res}`}>{m.res}</span>
+        <span class="fm-main">
+          <span class="fm-fix">
+            <span class="fm-loc">{m.home ? (m.neutral ? "vs" : "vs") : "@"}</span>
+            {m.opp}
+            <b class="fm-score">{m.gf}–{m.ga}</b>
+          </span>
+          <span class="fm-meta">
+            <span class="fm-comp">{shortComp(m.comp)}</span>
+            {m.friendly && (
+              <span class="fm-half" title="Exhibition — our model counts this at half weight (see methodology)">×½</span>
+            )}
+          </span>
+        </span>
+        <span class="fm-date">{fmtDate(m.date)}</span>
+      </li>
+    ))}
+  </ul>
+
+  <p class="form-foot subtle">
+    Last {form.matches.length} internationals. Friendlies are tagged <b>×½</b> — our model
+    counts exhibitions at half weight, so a warm-up result moves the ratings less than a
+    competitive one. <a href="/methodology#ratings">How ratings work →</a>
+  </p>
+</div>
+
+<style>
+  .form { font-size: 0.9rem; }
+
+  .form-strip { display: flex; align-items: center; gap: 0.6rem; margin-bottom: 0.9rem; flex-wrap: wrap; }
+  .fs-label {
+    font-family: var(--font-display); font-weight: 700; font-size: 0.72rem;
+    text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted-2);
+  }
+  .fs-chips { display: inline-flex; gap: 0.3rem; }
+  .fs-hint { font-size: 0.7rem; color: var(--muted-2); }
+
+  .fchip {
+    width: 1.45rem; height: 1.45rem; border-radius: 6px;
+    display: inline-flex; align-items: center; justify-content: center;
+    font-family: var(--font-mono); font-weight: 700; font-size: 0.78rem; color: #06140d;
+  }
+  .f-W { background: var(--accent); color: #06140d; }
+  .f-D { background: var(--surface-2); color: var(--muted); border: 1px solid var(--border); }
+  .f-L { background: #e0556a; color: #1a0507; }
+
+  .form-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column;
+    border: 1px solid var(--border-soft); border-radius: var(--radius-sm); overflow: hidden; }
+  .fm-row {
+    display: flex; align-items: center; gap: 0.7rem;
+    padding: 0.5rem 0.7rem; border-top: 1px solid var(--border-soft); background: var(--surface);
+  }
+  .fm-row:first-child { border-top: none; }
+  .fm-res {
+    flex: 0 0 auto; width: 1.4rem; height: 1.4rem; border-radius: 5px;
+    display: inline-flex; align-items: center; justify-content: center;
+    font-family: var(--font-mono); font-weight: 700; font-size: 0.72rem;
+  }
+  .fm-main { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 0.1rem; }
+  .fm-fix { color: var(--fg); display: flex; align-items: baseline; gap: 0.4rem; flex-wrap: wrap; }
+  .fm-loc { color: var(--muted-2); font-size: 0.8rem; }
+  .fm-score { font-variant-numeric: tabular-nums; font-weight: 700; }
+  .fm-meta { display: flex; align-items: center; gap: 0.45rem; }
+  .fm-comp { font-size: 0.74rem; color: var(--muted-2); }
+  .fm-half {
+    font-family: var(--font-mono); font-size: 0.68rem; color: var(--muted);
+    background: var(--surface-2); border: 1px solid var(--border); border-radius: 4px;
+    padding: 0.01rem 0.28rem; cursor: help;
+  }
+  .fm-date { flex: 0 0 auto; color: var(--muted-2); font-size: 0.78rem; white-space: nowrap; }
+
+  .form-foot { margin: 0.8rem 0 0; font-size: 0.78rem; line-height: 1.55; }
+  .form-foot b { color: var(--fg); font-weight: 600; }
+  .form-foot a { color: var(--link); text-decoration: none; }
+  .form-foot a:hover { text-decoration: underline; }
+</style>
