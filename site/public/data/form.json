@@ -104,21 +104,21 @@
     },
     {
       "date": "2026-06-06",
-      "home": "Brazil",
-      "away": "Egypt",
-      "hs": 2,
-      "as": 1,
+      "home": "Cura\u00e7ao",
+      "away": "Aruba",
+      "hs": 4,
+      "as": 0,
       "comp": "Friendly",
       "friendly": true,
       "weight": 0.5,
-      "neutral": true,
+      "neutral": false,
       "model": {
-        "ph": 0.601,
-        "pd": 0.244,
-        "pa": 0.155,
+        "ph": 0.873,
+        "pd": 0.106,
+        "pa": 0.021,
         "pick": "H",
         "correct": true,
-        "p_actual": 0.601
+        "p_actual": 0.873
       }
     },
     {
@@ -142,40 +142,40 @@
     },
     {
       "date": "2026-06-06",
-      "home": "Cura\u00e7ao",
-      "away": "Aruba",
-      "hs": 4,
-      "as": 0,
+      "home": "Brazil",
+      "away": "Egypt",
+      "hs": 2,
+      "as": 1,
       "comp": "Friendly",
       "friendly": true,
       "weight": 0.5,
-      "neutral": false,
+      "neutral": true,
       "model": {
-        "ph": 0.873,
-        "pd": 0.106,
-        "pa": 0.021,
+        "ph": 0.601,
+        "pd": 0.244,
+        "pa": 0.155,
         "pick": "H",
         "correct": true,
-        "p_actual": 0.873
+        "p_actual": 0.601
       }
     },
     {
       "date": "2026-06-06",
-      "home": "USA",
-      "away": "Germany",
+      "home": "Venezuela",
+      "away": "Turkey",
       "hs": 1,
       "as": 2,
       "comp": "Friendly",
       "friendly": true,
       "weight": 0.5,
-      "neutral": false,
+      "neutral": true,
       "model": {
-        "ph": 0.272,
-        "pd": 0.281,
-        "pa": 0.447,
+        "ph": 0.134,
+        "pd": 0.231,
+        "pa": 0.635,
         "pick": "A",
         "correct": true,
-        "p_actual": 0.447
+        "p_actual": 0.635
       }
     },
     {
@@ -199,21 +199,21 @@
     },
     {
       "date": "2026-06-06",
-      "home": "Venezuela",
-      "away": "Turkey",
+      "home": "USA",
+      "away": "Germany",
       "hs": 1,
       "as": 2,
       "comp": "Friendly",
       "friendly": true,
       "weight": 0.5,
-      "neutral": true,
+      "neutral": false,
       "model": {
-        "ph": 0.134,
-        "pd": 0.231,
-        "pa": 0.635,
+        "ph": 0.272,
+        "pd": 0.281,
+        "pa": 0.447,
         "pick": "A",
         "correct": true,
-        "p_actual": 0.635
+        "p_actual": 0.447
       }
     },
     {
@@ -3600,7 +3600,7 @@
           "neutral": true,
           "model": {
             "pw": 0.734,
-            "pd": 0.186,
+            "pd": 0.185,
             "pl": 0.08,
             "pick": "W",
             "correct": true,
@@ -4522,7 +4522,7 @@
           "home": false,
           "neutral": false,
           "model": {
-            "pw": 0.066,
+            "pw": 0.065,
             "pd": 0.177,
             "pl": 0.757,
             "pick": "L",
@@ -6201,7 +6201,7 @@
           "model": {
             "pw": 0.757,
             "pd": 0.177,
-            "pl": 0.066,
+            "pl": 0.065,
             "pick": "W",
             "correct": true,
             "p_actual": 0.757
@@ -7232,7 +7232,7 @@
           "neutral": true,
           "model": {
             "pw": 0.08,
-            "pd": 0.186,
+            "pd": 0.185,
             "pl": 0.734,
             "pick": "L",
             "correct": true,
