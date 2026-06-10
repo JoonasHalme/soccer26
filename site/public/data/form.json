@@ -1,12 +1,69 @@
 {
   "_note": "Recent international form + pre-match model calls for each WC2026 team (model/build_form.py). Display-only; 'weight' is the model's match-importance weight, model calls are walk-forward (no hindsight).",
-  "updated": "2026-06-09",
+  "updated": "2026-06-10",
   "since": "2026-05-01",
   "record": {
-    "correct": 44,
-    "total": 64
+    "correct": 45,
+    "total": 67
   },
   "recent": [
+    {
+      "date": "2026-06-10",
+      "home": "Iraq",
+      "away": "Venezuela",
+      "hs": 0,
+      "as": 2,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.38,
+        "pd": 0.296,
+        "pa": 0.324,
+        "pick": "H",
+        "correct": false,
+        "p_actual": 0.324
+      }
+    },
+    {
+      "date": "2026-06-10",
+      "home": "Argentina",
+      "away": "Iceland",
+      "hs": 3,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.941,
+        "pd": 0.057,
+        "pa": 0.003,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.941
+      }
+    },
+    {
+      "date": "2026-06-09",
+      "home": "Saudi Arabia",
+      "away": "Senegal",
+      "hs": 0,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.211,
+        "pd": 0.261,
+        "pa": 0.529,
+        "pick": "A",
+        "correct": false,
+        "p_actual": 0.261
+      }
+    },
     {
       "date": "2026-06-09",
       "home": "DR Congo",
@@ -24,25 +81,6 @@
         "pick": "H",
         "correct": false,
         "p_actual": 0.234
-      }
-    },
-    {
-      "date": "2026-06-08",
-      "home": "Peru",
-      "away": "Spain",
-      "hs": 1,
-      "as": 3,
-      "comp": "Friendly",
-      "friendly": true,
-      "weight": 0.5,
-      "neutral": true,
-      "model": {
-        "ph": 0.019,
-        "pd": 0.099,
-        "pa": 0.882,
-        "pick": "A",
-        "correct": true,
-        "p_actual": 0.882
       }
     },
     {
@@ -81,6 +119,25 @@
         "pick": "H",
         "correct": true,
         "p_actual": 0.897
+      }
+    },
+    {
+      "date": "2026-06-08",
+      "home": "Peru",
+      "away": "Spain",
+      "hs": 1,
+      "as": 3,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": true,
+      "model": {
+        "ph": 0.019,
+        "pd": 0.099,
+        "pa": 0.882,
+        "pick": "A",
+        "correct": true,
+        "p_actual": 0.882
       }
     },
     {
@@ -161,21 +218,21 @@
     },
     {
       "date": "2026-06-06",
-      "home": "Bermuda",
-      "away": "Cape Verde",
-      "hs": 3,
+      "home": "Belgium",
+      "away": "Tunisia",
+      "hs": 5,
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
       "weight": 0.5,
-      "neutral": true,
+      "neutral": false,
       "model": {
-        "ph": 0.031,
-        "pd": 0.118,
-        "pa": 0.851,
-        "pick": "A",
-        "correct": false,
-        "p_actual": 0.031
+        "ph": 0.768,
+        "pd": 0.172,
+        "pa": 0.06,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.768
       }
     },
     {
@@ -237,40 +294,21 @@
     },
     {
       "date": "2026-06-06",
-      "home": "Bolivia",
-      "away": "Scotland",
-      "hs": 0,
-      "as": 4,
+      "home": "Bermuda",
+      "away": "Cape Verde",
+      "hs": 3,
+      "as": 0,
       "comp": "Friendly",
       "friendly": true,
       "weight": 0.5,
       "neutral": true,
       "model": {
-        "ph": 0.236,
-        "pd": 0.28,
-        "pa": 0.484,
+        "ph": 0.031,
+        "pd": 0.118,
+        "pa": 0.851,
         "pick": "A",
-        "correct": true,
-        "p_actual": 0.484
-      }
-    },
-    {
-      "date": "2026-06-06",
-      "home": "Belgium",
-      "away": "Tunisia",
-      "hs": 5,
-      "as": 0,
-      "comp": "Friendly",
-      "friendly": true,
-      "weight": 0.5,
-      "neutral": false,
-      "model": {
-        "ph": 0.768,
-        "pd": 0.172,
-        "pa": 0.06,
-        "pick": "H",
-        "correct": true,
-        "p_actual": 0.768
+        "correct": false,
+        "p_actual": 0.031
       }
     },
     {
@@ -313,21 +351,21 @@
     },
     {
       "date": "2026-06-06",
-      "home": "Qatar",
-      "away": "El Salvador",
+      "home": "Bolivia",
+      "away": "Scotland",
       "hs": 0,
-      "as": 0,
+      "as": 4,
       "comp": "Friendly",
       "friendly": true,
       "weight": 0.5,
       "neutral": true,
       "model": {
-        "ph": 0.379,
-        "pd": 0.298,
-        "pa": 0.324,
-        "pick": "H",
-        "correct": false,
-        "p_actual": 0.298
+        "ph": 0.236,
+        "pd": 0.28,
+        "pa": 0.484,
+        "pick": "A",
+        "correct": true,
+        "p_actual": 0.484
       }
     },
     {
@@ -351,6 +389,25 @@
     },
     {
       "date": "2026-06-06",
+      "home": "USA",
+      "away": "Germany",
+      "hs": 1,
+      "as": 2,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.272,
+        "pd": 0.281,
+        "pa": 0.447,
+        "pick": "A",
+        "correct": true,
+        "p_actual": 0.447
+      }
+    },
+    {
+      "date": "2026-06-06",
       "home": "Venezuela",
       "away": "Turkey",
       "hs": 1,
@@ -370,21 +427,21 @@
     },
     {
       "date": "2026-06-06",
-      "home": "USA",
-      "away": "Germany",
-      "hs": 1,
-      "as": 2,
+      "home": "Qatar",
+      "away": "El Salvador",
+      "hs": 0,
+      "as": 0,
       "comp": "Friendly",
       "friendly": true,
       "weight": 0.5,
-      "neutral": false,
+      "neutral": true,
       "model": {
-        "ph": 0.272,
-        "pd": 0.281,
-        "pa": 0.447,
-        "pick": "A",
-        "correct": true,
-        "p_actual": 0.447
+        "ph": 0.379,
+        "pd": 0.298,
+        "pa": 0.324,
+        "pick": "H",
+        "correct": false,
+        "p_actual": 0.298
       }
     },
     {
@@ -655,25 +712,6 @@
     },
     {
       "date": "2026-06-03",
-      "home": "Netherlands",
-      "away": "Algeria",
-      "hs": 0,
-      "as": 1,
-      "comp": "Friendly",
-      "friendly": true,
-      "weight": 0.5,
-      "neutral": false,
-      "model": {
-        "ph": 0.668,
-        "pd": 0.223,
-        "pa": 0.11,
-        "pick": "H",
-        "correct": false,
-        "p_actual": 0.11
-      }
-    },
-    {
-      "date": "2026-06-03",
       "home": "Panama",
       "away": "Dominican Republic",
       "hs": 4,
@@ -692,41 +730,22 @@
       }
     },
     {
-      "date": "2026-06-02",
-      "home": "Wales",
-      "away": "Ghana",
-      "hs": 1,
+      "date": "2026-06-03",
+      "home": "Netherlands",
+      "away": "Algeria",
+      "hs": 0,
       "as": 1,
       "comp": "Friendly",
       "friendly": true,
       "weight": 0.5,
       "neutral": false,
       "model": {
-        "ph": 0.63,
-        "pd": 0.238,
-        "pa": 0.132,
+        "ph": 0.668,
+        "pd": 0.223,
+        "pa": 0.11,
         "pick": "H",
         "correct": false,
-        "p_actual": 0.238
-      }
-    },
-    {
-      "date": "2026-06-02",
-      "home": "Morocco",
-      "away": "Madagascar",
-      "hs": 4,
-      "as": 0,
-      "comp": "Friendly",
-      "friendly": true,
-      "weight": 0.5,
-      "neutral": false,
-      "model": {
-        "ph": 0.929,
-        "pd": 0.066,
-        "pa": 0.005,
-        "pick": "H",
-        "correct": true,
-        "p_actual": 0.929
+        "p_actual": 0.11
       }
     },
     {
@@ -768,41 +787,41 @@
       }
     },
     {
-      "date": "2026-06-01",
-      "home": "Norway",
-      "away": "Sweden",
-      "hs": 3,
+      "date": "2026-06-02",
+      "home": "Wales",
+      "away": "Ghana",
+      "hs": 1,
       "as": 1,
       "comp": "Friendly",
       "friendly": true,
       "weight": 0.5,
       "neutral": false,
       "model": {
-        "ph": 0.754,
-        "pd": 0.18,
-        "pa": 0.066,
+        "ph": 0.63,
+        "pd": 0.238,
+        "pa": 0.132,
         "pick": "H",
-        "correct": true,
-        "p_actual": 0.754
+        "correct": false,
+        "p_actual": 0.238
       }
     },
     {
-      "date": "2026-06-01",
-      "home": "Canada",
-      "away": "Uzbekistan",
-      "hs": 2,
+      "date": "2026-06-02",
+      "home": "Morocco",
+      "away": "Madagascar",
+      "hs": 4,
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
       "weight": 0.5,
       "neutral": false,
       "model": {
-        "ph": 0.548,
-        "pd": 0.269,
-        "pa": 0.183,
+        "ph": 0.929,
+        "pd": 0.066,
+        "pa": 0.005,
         "pick": "H",
         "correct": true,
-        "p_actual": 0.548
+        "p_actual": 0.929
       }
     },
     {
@@ -845,6 +864,44 @@
     },
     {
       "date": "2026-06-01",
+      "home": "Canada",
+      "away": "Uzbekistan",
+      "hs": 2,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.548,
+        "pd": 0.269,
+        "pa": 0.183,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.548
+      }
+    },
+    {
+      "date": "2026-06-01",
+      "home": "Norway",
+      "away": "Sweden",
+      "hs": 3,
+      "as": 1,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.754,
+        "pd": 0.18,
+        "pa": 0.066,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.754
+      }
+    },
+    {
+      "date": "2026-06-01",
       "home": "Turkey",
       "away": "North Macedonia",
       "hs": 4,
@@ -864,40 +921,40 @@
     },
     {
       "date": "2026-05-31",
-      "home": "USA",
-      "away": "Senegal",
-      "hs": 3,
+      "home": "Brazil",
+      "away": "Panama",
+      "hs": 6,
       "as": 2,
       "comp": "Friendly",
       "friendly": true,
       "weight": 0.5,
       "neutral": false,
       "model": {
-        "ph": 0.356,
-        "pd": 0.295,
-        "pa": 0.349,
+        "ph": 0.706,
+        "pd": 0.204,
+        "pa": 0.089,
         "pick": "H",
         "correct": true,
-        "p_actual": 0.356
+        "p_actual": 0.706
       }
     },
     {
       "date": "2026-05-31",
-      "home": "Switzerland",
-      "away": "Jordan",
-      "hs": 4,
-      "as": 1,
+      "home": "Cape Verde",
+      "away": "Serbia",
+      "hs": 3,
+      "as": 0,
       "comp": "Friendly",
       "friendly": true,
       "weight": 0.5,
-      "neutral": false,
+      "neutral": true,
       "model": {
-        "ph": 0.685,
-        "pd": 0.214,
-        "pa": 0.101,
-        "pick": "H",
-        "correct": true,
-        "p_actual": 0.685
+        "ph": 0.183,
+        "pd": 0.258,
+        "pa": 0.559,
+        "pick": "A",
+        "correct": false,
+        "p_actual": 0.183
       }
     },
     {
@@ -940,40 +997,40 @@
     },
     {
       "date": "2026-05-31",
-      "home": "Cape Verde",
-      "away": "Serbia",
-      "hs": 3,
-      "as": 0,
+      "home": "Switzerland",
+      "away": "Jordan",
+      "hs": 4,
+      "as": 1,
       "comp": "Friendly",
       "friendly": true,
       "weight": 0.5,
-      "neutral": true,
+      "neutral": false,
       "model": {
-        "ph": 0.183,
-        "pd": 0.258,
-        "pa": 0.559,
-        "pick": "A",
-        "correct": false,
-        "p_actual": 0.183
+        "ph": 0.685,
+        "pd": 0.214,
+        "pa": 0.101,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.685
       }
     },
     {
       "date": "2026-05-31",
-      "home": "Brazil",
-      "away": "Panama",
-      "hs": 6,
+      "home": "USA",
+      "away": "Senegal",
+      "hs": 3,
       "as": 2,
       "comp": "Friendly",
       "friendly": true,
       "weight": 0.5,
       "neutral": false,
       "model": {
-        "ph": 0.706,
-        "pd": 0.204,
-        "pa": 0.089,
+        "ph": 0.356,
+        "pd": 0.295,
+        "pa": 0.349,
         "pick": "H",
         "correct": true,
-        "p_actual": 0.706
+        "p_actual": 0.356
       }
     },
     {
@@ -997,6 +1054,25 @@
     },
     {
       "date": "2026-05-30",
+      "home": "Scotland",
+      "away": "Cura\u00e7ao",
+      "hs": 4,
+      "as": 1,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.769,
+        "pd": 0.171,
+        "pa": 0.06,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.769
+      }
+    },
+    {
+      "date": "2026-05-30",
       "home": "Mexico",
       "away": "Australia",
       "hs": 1,
@@ -1012,25 +1088,6 @@
         "pick": "H",
         "correct": true,
         "p_actual": 0.428
-      }
-    },
-    {
-      "date": "2026-05-30",
-      "home": "Ecuador",
-      "away": "Saudi Arabia",
-      "hs": 2,
-      "as": 1,
-      "comp": "Friendly",
-      "friendly": true,
-      "weight": 0.5,
-      "neutral": true,
-      "model": {
-        "ph": 0.801,
-        "pd": 0.149,
-        "pa": 0.05,
-        "pick": "H",
-        "correct": true,
-        "p_actual": 0.801
       }
     },
     {
@@ -1054,59 +1111,21 @@
     },
     {
       "date": "2026-05-30",
-      "home": "Scotland",
-      "away": "Cura\u00e7ao",
-      "hs": 4,
-      "as": 1,
-      "comp": "Friendly",
-      "friendly": true,
-      "weight": 0.5,
-      "neutral": false,
-      "model": {
-        "ph": 0.769,
-        "pd": 0.171,
-        "pa": 0.06,
-        "pick": "H",
-        "correct": true,
-        "p_actual": 0.769
-      }
-    },
-    {
-      "date": "2026-05-29",
-      "home": "South Africa",
-      "away": "Nicaragua",
-      "hs": 0,
-      "as": 0,
-      "comp": "Friendly",
-      "friendly": true,
-      "weight": 0.5,
-      "neutral": false,
-      "model": {
-        "ph": 0.661,
-        "pd": 0.224,
-        "pa": 0.116,
-        "pick": "H",
-        "correct": false,
-        "p_actual": 0.224
-      }
-    },
-    {
-      "date": "2026-05-29",
-      "home": "Iran",
-      "away": "Gambia",
-      "hs": 3,
+      "home": "Ecuador",
+      "away": "Saudi Arabia",
+      "hs": 2,
       "as": 1,
       "comp": "Friendly",
       "friendly": true,
       "weight": 0.5,
       "neutral": true,
       "model": {
-        "ph": 0.711,
-        "pd": 0.196,
-        "pa": 0.093,
+        "ph": 0.801,
+        "pd": 0.149,
+        "pa": 0.05,
         "pick": "H",
         "correct": true,
-        "p_actual": 0.711
+        "p_actual": 0.801
       }
     },
     {
@@ -1145,6 +1164,44 @@
         "pick": "A",
         "correct": true,
         "p_actual": 0.898
+      }
+    },
+    {
+      "date": "2026-05-29",
+      "home": "Iran",
+      "away": "Gambia",
+      "hs": 3,
+      "as": 1,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": true,
+      "model": {
+        "ph": 0.711,
+        "pd": 0.196,
+        "pa": 0.093,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.711
+      }
+    },
+    {
+      "date": "2026-05-29",
+      "home": "South Africa",
+      "away": "Nicaragua",
+      "hs": 0,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.661,
+        "pd": 0.224,
+        "pa": 0.116,
+        "pick": "H",
+        "correct": false,
+        "p_actual": 0.224
       }
     },
     {
@@ -3293,6 +3350,26 @@
       "form": "WWWWW",
       "matches": [
         {
+          "date": "2026-06-10",
+          "opp": "Iceland",
+          "gf": 3,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false,
+          "model": {
+            "pw": 0.941,
+            "pd": 0.057,
+            "pl": 0.003,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.941
+          }
+        },
+        {
           "date": "2026-06-06",
           "opp": "Honduras",
           "gf": 2,
@@ -3390,26 +3467,6 @@
             "pick": "W",
             "correct": true,
             "p_actual": 0.976
-          }
-        },
-        {
-          "date": "2025-10-10",
-          "opp": "Venezuela",
-          "gf": 1,
-          "ga": 0,
-          "res": "W",
-          "comp": "Friendly",
-          "friendly": true,
-          "weight": 0.5,
-          "home": true,
-          "neutral": true,
-          "model": {
-            "pw": 0.793,
-            "pd": 0.154,
-            "pl": 0.053,
-            "pick": "W",
-            "correct": true,
-            "p_actual": 0.793
           }
         }
       ],
@@ -4967,8 +5024,28 @@
       }
     },
     "Senegal": {
-      "form": "WLWWL",
+      "form": "LWWLD",
       "matches": [
+        {
+          "date": "2026-06-09",
+          "opp": "Saudi Arabia",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false,
+          "model": {
+            "pw": 0.529,
+            "pd": 0.261,
+            "pl": 0.211,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.261
+          }
+        },
         {
           "date": "2026-05-31",
           "opp": "USA",
@@ -5068,30 +5145,10 @@
             "correct": true,
             "p_actual": 0.531
           }
-        },
-        {
-          "date": "2026-01-09",
-          "opp": "Mali",
-          "gf": 1,
-          "ga": 0,
-          "res": "W",
-          "comp": "African Cup of Nations",
-          "friendly": false,
-          "weight": 1.4,
-          "home": false,
-          "neutral": true,
-          "model": {
-            "pw": 0.63,
-            "pd": 0.232,
-            "pl": 0.138,
-            "pick": "W",
-            "correct": true,
-            "p_actual": 0.63
-          }
         }
       ],
       "record": {
-        "correct": 6,
+        "correct": 5,
         "total": 6
       }
     },
@@ -5612,8 +5669,28 @@
       }
     },
     "Iraq": {
-      "form": "LLWWD",
+      "form": "LWWDL",
       "matches": [
+        {
+          "date": "2026-06-10",
+          "opp": "Venezuela",
+          "gf": 0,
+          "ga": 2,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false,
+          "model": {
+            "pw": 0.38,
+            "pd": 0.296,
+            "pl": 0.324,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.324
+          }
+        },
         {
           "date": "2026-06-04",
           "opp": "Spain",
@@ -5713,30 +5790,10 @@
             "correct": true,
             "p_actual": 0.458
           }
-        },
-        {
-          "date": "2025-12-06",
-          "opp": "Sudan",
-          "gf": 2,
-          "ga": 0,
-          "res": "W",
-          "comp": "Arab Cup",
-          "friendly": false,
-          "weight": 0.85,
-          "home": false,
-          "neutral": true,
-          "model": {
-            "pw": 0.581,
-            "pd": 0.25,
-            "pl": 0.17,
-            "pick": "W",
-            "correct": true,
-            "p_actual": 0.581
-          }
         }
       ],
       "record": {
-        "correct": 4,
+        "correct": 3,
         "total": 6
       }
     },
@@ -6128,8 +6185,28 @@
       }
     },
     "Saudi Arabia": {
-      "form": "LLLLW",
+      "form": "LLLWD",
       "matches": [
+        {
+          "date": "2026-06-09",
+          "opp": "Senegal",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false,
+          "model": {
+            "pw": 0.211,
+            "pd": 0.261,
+            "pl": 0.529,
+            "pick": "L",
+            "correct": false,
+            "p_actual": 0.261
+          }
+        },
         {
           "date": "2026-06-05",
           "opp": "Puerto Rico",
@@ -6229,30 +6306,10 @@
             "correct": true,
             "p_actual": 0.47
           }
-        },
-        {
-          "date": "2025-12-11",
-          "opp": "Palestine",
-          "gf": 2,
-          "ga": 1,
-          "res": "W",
-          "comp": "Arab Cup",
-          "friendly": false,
-          "weight": 0.85,
-          "home": false,
-          "neutral": true,
-          "model": {
-            "pw": 0.441,
-            "pd": 0.289,
-            "pl": 0.27,
-            "pick": "W",
-            "correct": true,
-            "p_actual": 0.441
-          }
         }
       ],
       "record": {
-        "correct": 6,
+        "correct": 5,
         "total": 6
       }
     },
