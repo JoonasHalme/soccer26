@@ -103,10 +103,10 @@
       "home": "Mexico",
       "away": "South Africa",
       "score": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "odds": {
         "home": 1.42,
         "draw": 4.4,
