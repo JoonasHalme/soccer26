@@ -3,10 +3,29 @@
   "updated": "2026-06-10",
   "since": "2026-05-01",
   "record": {
-    "correct": 47,
-    "total": 68
+    "correct": 48,
+    "total": 69
   },
   "recent": [
+    {
+      "date": "2026-06-10",
+      "home": "England",
+      "away": "Costa Rica",
+      "hs": 3,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.898,
+        "pd": 0.09,
+        "pa": 0.013,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.898
+      }
+    },
     {
       "date": "2026-06-10",
       "home": "Portugal",
@@ -1947,8 +1966,28 @@
       }
     },
     "England": {
-      "form": "WWDLW",
+      "form": "WDLWW",
       "matches": [
+        {
+          "date": "2026-06-10",
+          "opp": "Costa Rica",
+          "gf": 3,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false,
+          "model": {
+            "pw": 0.898,
+            "pd": 0.09,
+            "pl": 0.013,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.898
+          }
+        },
         {
           "date": "2026-06-06",
           "opp": "New Zealand",
@@ -2047,26 +2086,6 @@
             "pick": "W",
             "correct": true,
             "p_actual": 0.822
-          }
-        },
-        {
-          "date": "2025-10-14",
-          "opp": "Latvia",
-          "gf": 5,
-          "ga": 0,
-          "res": "W",
-          "comp": "FIFA World Cup qualification",
-          "friendly": false,
-          "weight": 1.0,
-          "home": false,
-          "neutral": false,
-          "model": {
-            "pw": 0.965,
-            "pd": 0.034,
-            "pl": 0.001,
-            "pick": "W",
-            "correct": true,
-            "p_actual": 0.965
           }
         }
       ],
