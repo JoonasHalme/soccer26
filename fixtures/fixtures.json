@@ -584,7 +584,39 @@
           },
           "totals": {}
         }
-      ]
+      ],
+      "closing_odds": {
+        "captured_at": "2026-06-11T16:18:58.393682+00:00",
+        "consensus": {
+          "home": 1.41,
+          "draw": 4.5,
+          "away": 8.5,
+          "over_2_5": 2.17,
+          "under_2_5": 1.69
+        },
+        "best_book": {
+          "home": {
+            "price": 1.47,
+            "book": "GTbets"
+          },
+          "draw": {
+            "price": 4.9,
+            "book": "Unibet (NL)"
+          },
+          "away": {
+            "price": 9.5,
+            "book": "Unibet (NL)"
+          },
+          "over_2_5": {
+            "price": 2.23,
+            "book": "Coolbet"
+          },
+          "under_2_5": {
+            "price": 1.76,
+            "book": "1xBet"
+          }
+        }
+      }
     },
     {
       "id": "m-002",
