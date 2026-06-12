@@ -2,12 +2,17 @@ name: refresh-odds
 
 # Job B — the credit-spending full refresh: pull fresh consensus + per-book odds,
 # re-anchor, re-predict, re-simulate, then commit (auto-deploys via Cloudflare).
-# fetch_odds.py spends Odds API credits on EVERY run, so this is MANUAL by design
-# (workflow_dispatch) — trigger it deliberately when you want fresh edges (e.g. once
-# or twice a day pre-matchday), not on a blind hourly cron. The hourly matchday-poll
-# workflow handles the quota-safe capture/results loop.
+# fetch_odds.py spends Odds API credits on EVERY run (~markets×regions = 4 with the
+# defaults), so the cadence is deliberately bounded: every 6 hours. That keeps the
+# published odds/edges no more than ~6h stale during the tournament at ~16 credits/
+# day, while the hourly matchday-poll handles the quota-safe capture/results loop.
+# Offset to :37 so it never overlaps the matchday-poll (:07) — both push commits and
+# touch fixtures.json, so staggering avoids non-fast-forward push races.
+# Still manually triggerable (workflow_dispatch) for an on-demand refresh.
 
 on:
+  schedule:
+    - cron: "37 */6 * * *" # every 6h at :37 (00:37, 06:37, 12:37, 18:37 UTC)
   workflow_dispatch:
     inputs:
       markets:
@@ -30,9 +35,11 @@ jobs:
       - run: pip install -r model/requirements.txt
 
       - name: Fetch fresh odds (spends API credits)
+        # On a scheduled run github.event.inputs.markets is empty -> fall back to the default.
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
-        run: python model/fetch_odds.py --markets "${{ github.event.inputs.markets }}"
+          MARKETS: ${{ github.event.inputs.markets || 'h2h,totals' }}
+        run: python model/fetch_odds.py --markets "$MARKETS"
 
       - name: Re-anchor + re-predict + re-simulate
         run: |
