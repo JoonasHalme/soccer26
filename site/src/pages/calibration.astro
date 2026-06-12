@@ -109,7 +109,8 @@ const handsetC = cal?.handset_fallback ?? {};
             <text x={VW / 2} y={VH - 8} class="rc-axis">model predicted probability →</text>
             <text x={14} y={VH / 2} class="rc-axis" transform={`rotate(-90 14 ${VH / 2})`}>observed frequency →</text>
           </svg>
-          <table id="rc-table" class="sr-only">
+          <div class="sr-only">
+          <table id="rc-table">
             <caption>
               Reliability bins: for each band of predicted probability, the mean
               predicted probability, the observed frequency (how often the
@@ -136,6 +137,7 @@ const handsetC = cal?.handset_fallback ?? {};
               ))}
             </tbody>
           </table>
+          </div>
         </section>
 
         <section class="panel">

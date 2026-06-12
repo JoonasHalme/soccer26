@@ -8,9 +8,11 @@ const fixtures = loadFixtures();
 const standings = computeStandings(fixtures.matches, fixtures.groups);
 const letters = Object.keys(standings).sort();
 
-const totalPlayed = Object.values(standings)
-  .flat()
-  .reduce((s, r) => s + r.played, 0);
+// Sum of per-team `played` counts each match twice (both teams), so halve it
+// to get the real number of matches played.
+const totalPlayed = Math.round(
+  Object.values(standings).flat().reduce((s, r) => s + r.played, 0) / 2,
+);
 const started = totalPlayed > 0;
 ---
 <Base title="Groups & standings — Soccer 26">

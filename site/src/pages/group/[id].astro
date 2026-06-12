@@ -29,7 +29,9 @@ const news = loadNews();
 const teams = groups[letter] ?? [];
 const standings = computeStandings(matches, groups);
 const groupRows = standings[letter] ?? [];
-const started = groupRows.reduce((s, r) => s + r.played, 0) > 0;
+// Each match increments both teams' `played`, so halve the sum for the match count.
+const matchesPlayed = Math.round(groupRows.reduce((s, r) => s + r.played, 0) / 2);
+const started = matchesPlayed > 0;
 
 const fixtures = matches
   .filter((m) => m.stage === "GROUP" && m.group === letter)
@@ -70,7 +72,7 @@ const description = `FIFA World Cup 2026 Group ${letter}: ${teams.join(", ")}. L
       </div>
     </div>
     <div class={`gr-stat ${started ? "accent" : ""}`}>
-      <span class="gr-stat-n">{groupRows.reduce((s, r) => s + r.played, 0)}</span>
+      <span class="gr-stat-n">{matchesPlayed}</span>
       <span class="gr-stat-l">played</span>
     </div>
   </section>

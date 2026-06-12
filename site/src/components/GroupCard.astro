@@ -14,7 +14,9 @@ interface Props {
 }
 const { letter, rows, full = false, highlight, linkGroup = false } = Astro.props;
 
-const played = rows.reduce((s, r) => s + r.played, 0);
+// Each finished match increments BOTH teams' `played`, so the sum of per-team
+// `played` is twice the number of matches actually played in the group.
+const played = Math.round(rows.reduce((s, r) => s + r.played, 0) / 2);
 const started = played > 0;
 ---
 <div class="group-card panel">
