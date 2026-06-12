@@ -8,6 +8,12 @@ const feed = form.recent ?? [];
 const rec = form.record ?? { correct: 0, total: 0 };
 const pct = rec.total ? Math.round((100 * rec.correct) / rec.total) : 0;
 
+// Actual World Cup finals games, kept separate from the pre-tournament run-in
+// (once the tournament starts these are real results, not warm-ups).
+const tour = form.tournament ?? [];
+const trec = form.tournament_record ?? { correct: 0, total: 0 };
+const tpct = trec.total ? Math.round((100 * trec.correct) / trec.total) : 0;
+
 // Team table: who's arriving in form. Sort by points from the last 5 (W=3, D=1).
 const fp = (s: string) => s.split("").reduce((a, c) => a + (c === "W" ? 3 : c === "D" ? 1 : 0), 0);
 const teamRows = Object.entries(form.teams)
@@ -79,6 +85,60 @@ const description =
       rate as honesty, not a promise. <a href="/methodology#ratings">How ratings work →</a>
     </p>
   </section>
+
+  {tour.length > 0 && (
+    <section class="rd-section">
+      <div class="section-head">
+        <h2>The tournament so far</h2>
+        <span class="count accent">{trec.correct}/{trec.total} model calls correct · {tpct}%</span>
+        <span class="rule"></span>
+      </div>
+      <p class="subtle rd-tnote">
+        The real thing — actual World Cup 2026 results, kept separate from the warm-up
+        run-in below. Each carries the model's pre-kickoff call, scored the same honest way.
+      </p>
+      <div class="table-wrap">
+        <table class="rd-feed table--cards">
+          <thead>
+            <tr><th>Date</th><th>Match</th><th>Result</th><th>Model's pre-match call</th></tr>
+          </thead>
+          <tbody>
+            {tour.map((m) => (
+              <tr>
+                <td class="meta" data-label="Date">{fmtDate(m.date)}</td>
+                <td data-label="Match">
+                  <span class="rd-fix">
+                    <span class="rd-side">
+                      <TeamFlag team={m.home} size={18} />
+                      {isWC(m.home) ? <a href={`/team/${teamSlug(m.home)}`}>{m.home}</a> : <span>{m.home}</span>}
+                    </span>
+                    <span class="rd-v">v</span>
+                    <span class="rd-side">
+                      <TeamFlag team={m.away} size={18} />
+                      {isWC(m.away) ? <a href={`/team/${teamSlug(m.away)}`}>{m.away}</a> : <span>{m.away}</span>}
+                    </span>
+                  </span>
+                </td>
+                <td class="num" data-label="Result"><b class="rd-score">{m.hs}–{m.as}</b></td>
+                <td data-label="Model's pre-match call">
+                  <span class={`rd-call ${m.model.correct ? "hit" : "miss"}`}>
+                    <span class="rd-mark">{m.model.correct ? "✓" : "✗"}</span>
+                    {pickName(m)}
+                    <span class="rd-p" title={`Model gave the actual result ${pct0(m.model.p_actual)}% (home ${pct0(m.model.ph)}% · draw ${pct0(m.model.pd)}% · away ${pct0(m.model.pa)}%)`}>
+                      {pct0(m.model.p_actual)}%
+                    </span>
+                  </span>
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="subtle rd-foot">
+        Live match-by-match calibration is tracked on <a href="/calibration">the calibration page →</a>
+      </p>
+    </section>
+  )}
 
   <!-- Live + upcoming warm-ups (client-side, ESPN scoreboard). Hidden until populated. -->
   <section class="rd-section" id="live-warmups" hidden>
@@ -334,6 +394,8 @@ const description =
   .rd-foot b { color: var(--fg); }
 
   .lw-count { color: var(--accent); }   /* the rest of .lw-* lives in the global block (JS-injected) */
+  .count.accent { color: var(--accent); }
+  .rd-tnote { max-width: 72ch; margin: 0.1rem 0 0.9rem; font-size: 0.84rem; line-height: 1.55; }
 
   @media (max-width: 720px) {
     .rd-hero { padding: 1.3rem 1.2rem; }

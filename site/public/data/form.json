@@ -3,48 +3,10 @@
   "updated": "2026-06-11",
   "since": "2026-05-01",
   "record": {
-    "correct": 51,
-    "total": 72
+    "correct": 49,
+    "total": 70
   },
   "recent": [
-    {
-      "date": "2026-06-11",
-      "home": "South Korea",
-      "away": "Czech Republic",
-      "hs": 2,
-      "as": 1,
-      "comp": "FIFA World Cup",
-      "friendly": false,
-      "weight": 1.75,
-      "neutral": true,
-      "model": {
-        "ph": 0.369,
-        "pd": 0.301,
-        "pa": 0.329,
-        "pick": "H",
-        "correct": true,
-        "p_actual": 0.369
-      }
-    },
-    {
-      "date": "2026-06-11",
-      "home": "Mexico",
-      "away": "South Africa",
-      "hs": 2,
-      "as": 0,
-      "comp": "FIFA World Cup",
-      "friendly": false,
-      "weight": 1.75,
-      "neutral": false,
-      "model": {
-        "ph": 0.848,
-        "pd": 0.124,
-        "pa": 0.029,
-        "pick": "H",
-        "correct": true,
-        "p_actual": 0.848
-      }
-    },
     {
       "date": "2026-06-10",
       "home": "Bolivia",
@@ -53,6 +15,7 @@
       "as": 4,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -72,6 +35,7 @@
       "as": 1,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -91,6 +55,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -110,6 +75,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -129,6 +95,7 @@
       "as": 2,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -148,6 +115,7 @@
       "as": 2,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -167,6 +135,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -186,6 +155,7 @@
       "as": 3,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -205,6 +175,7 @@
       "as": 1,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -224,6 +195,7 @@
       "as": 1,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -243,6 +215,7 @@
       "as": 1,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -262,6 +235,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -281,6 +255,7 @@
       "as": 2,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -300,6 +275,7 @@
       "as": 1,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -319,6 +295,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -338,6 +315,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -357,6 +335,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -376,6 +355,7 @@
       "as": 1,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -395,6 +375,7 @@
       "as": 4,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -414,6 +395,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -433,6 +415,7 @@
       "as": 1,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -452,6 +435,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -471,6 +455,7 @@
       "as": 2,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -490,6 +475,7 @@
       "as": 1,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -509,6 +495,7 @@
       "as": 2,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -528,6 +515,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -547,6 +535,7 @@
       "as": 1,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -566,6 +555,7 @@
       "as": 1,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -585,6 +575,7 @@
       "as": 1,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -604,6 +595,7 @@
       "as": 2,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -623,6 +615,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -642,6 +635,7 @@
       "as": 3,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -661,6 +655,7 @@
       "as": 2,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -680,6 +675,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -699,6 +695,7 @@
       "as": 5,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -718,6 +715,7 @@
       "as": 2,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -737,6 +735,7 @@
       "as": 1,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -756,6 +755,7 @@
       "as": 1,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -775,6 +775,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -794,6 +795,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -813,6 +815,7 @@
       "as": 1,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -832,6 +835,7 @@
       "as": 2,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -851,6 +855,7 @@
       "as": 2,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -870,6 +875,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -889,6 +895,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -908,6 +915,7 @@
       "as": 1,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -927,6 +935,7 @@
       "as": 1,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -946,6 +955,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -965,6 +975,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -984,6 +995,7 @@
       "as": 1,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -1003,6 +1015,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -1022,6 +1035,7 @@
       "as": 2,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -1041,6 +1055,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -1060,6 +1075,7 @@
       "as": 1,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -1079,6 +1095,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -1098,6 +1115,7 @@
       "as": 1,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -1117,6 +1135,7 @@
       "as": 2,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -1136,6 +1155,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -1155,6 +1175,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -1174,6 +1195,7 @@
       "as": 1,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -1193,6 +1215,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -1212,6 +1235,7 @@
       "as": 1,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -1231,6 +1255,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -1250,6 +1275,7 @@
       "as": 1,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -1269,6 +1295,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -1288,6 +1315,7 @@
       "as": 1,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": true,
       "model": {
@@ -1307,6 +1335,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -1326,6 +1355,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -1345,6 +1375,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -1364,6 +1395,7 @@
       "as": 0,
       "comp": "Friendly",
       "friendly": true,
+      "tournament": false,
       "weight": 0.5,
       "neutral": false,
       "model": {
@@ -1376,6 +1408,52 @@
       }
     }
   ],
+  "tournament": [
+    {
+      "date": "2026-06-11",
+      "home": "South Korea",
+      "away": "Czech Republic",
+      "hs": 2,
+      "as": 1,
+      "comp": "FIFA World Cup",
+      "friendly": false,
+      "tournament": true,
+      "weight": 1.75,
+      "neutral": true,
+      "model": {
+        "ph": 0.369,
+        "pd": 0.301,
+        "pa": 0.329,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.369
+      }
+    },
+    {
+      "date": "2026-06-11",
+      "home": "Mexico",
+      "away": "South Africa",
+      "hs": 2,
+      "as": 0,
+      "comp": "FIFA World Cup",
+      "friendly": false,
+      "tournament": true,
+      "weight": 1.75,
+      "neutral": false,
+      "model": {
+        "ph": 0.848,
+        "pd": 0.124,
+        "pa": 0.029,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.848
+      }
+    }
+  ],
+  "tournament_record": {
+    "correct": 2,
+    "total": 2
+  },
   "teams": {
     "Austria": {
       "form": "WDWWW",

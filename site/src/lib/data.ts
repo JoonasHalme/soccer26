@@ -642,12 +642,14 @@ export interface TeamForm {
   matches: FormMatch[];
   record?: { correct: number; total: number };  // model's hit-rate over shown games
 }
-// One run-in match in the Road-to-the-WC feed (home-perspective model call).
+// One match in the Road-to-the-WC feed (home-perspective model call). Used for
+// both the pre-tournament run-in (`recent`) and the actual finals (`tournament`).
 export interface RecentMatch {
   date: string;
   home: string; away: string;
   hs: number; as: number;
   comp: string; friendly: boolean; weight: number; neutral: boolean;
+  tournament?: boolean;                 // true = an actual World Cup finals game
   model: {
     ph: number; pd: number; pa: number;
     pick: "H" | "D" | "A";
@@ -658,8 +660,10 @@ export interface RecentMatch {
 export interface FormFile {
   updated: string | null;
   since?: string;
-  record?: { correct: number; total: number };   // model's pre-match record over the feed
-  recent?: RecentMatch[];
+  record?: { correct: number; total: number };   // model's pre-match record over the run-in
+  recent?: RecentMatch[];                         // pre-tournament warm-ups / qualifiers
+  tournament?: RecentMatch[];                     // actual WC finals games so far
+  tournament_record?: { correct: number; total: number };
   teams: Record<string, TeamForm>;
 }
 

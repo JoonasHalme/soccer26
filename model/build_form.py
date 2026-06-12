@@ -34,6 +34,14 @@ N_RECENT = 6  # internationals shown per team (form string uses the last 5)
 FEED_SINCE = "2026-05-01"  # the pre-tournament run-in shown on the Road-to-the-WC feed
 
 
+def _is_tournament(comp: str) -> bool:
+    """True for an actual World Cup *finals* match (martj42 tournament == 'FIFA World
+    Cup'), as opposed to a warm-up friendly or a qualifier ('FIFA World Cup
+    qualification'). Once the tournament kicks off these stop being part of the
+    pre-tournament run-in and are shown separately."""
+    return comp.strip().lower() == "fifa world cup"
+
+
 def _wc_teams() -> list[str]:
     data = json.loads(CONFEDS.read_text(encoding="utf-8"))
     return [k for k in data if not k.startswith("_")]
@@ -109,6 +117,7 @@ def recent_feed(df: pd.DataFrame, preds: dict, teams: list[str], since: str = FE
             "hs": hs, "as": as_,
             "comp": tour,
             "friendly": "friendly" in tour.lower(),
+            "tournament": _is_tournament(tour),
             "weight": round(match_importance(tour), 2),
             "neutral": _is_neutral(getattr(r, "neutral", "")),
             "model": {
@@ -180,28 +189,40 @@ def main() -> None:
     wc_canon = {canonical(t) for t in teams}
     preds = walkforward_predictions(df, wc_canon)            # compute once, share
     teams_form = build(df, teams, preds)
-    feed = recent_feed(df, preds, teams)
+    all_feed = recent_feed(df, preds, teams)
+    # Split the actual World Cup *finals* games out of the pre-tournament run-in:
+    # once the tournament starts they're real results, not warm-ups, so they get
+    # their own section and don't pollute the warm-up track record / "all friendly"
+    # framing. (Qualifiers stay in the run-in.)
+    tournament = [m for m in all_feed if m.get("tournament")]
+    runin = [m for m in all_feed if not m.get("tournament")]
     last_date = max(
         (m["date"] for t in teams_form.values() for m in t["matches"]),
         default=None,
     )
-    feed_correct = sum(1 for m in feed if m["model"]["correct"])
+    runin_correct = sum(1 for m in runin if m["model"]["correct"])
+    tour_correct = sum(1 for m in tournament if m["model"]["correct"])
     payload = {
         "_note": "Recent international form + pre-match model calls for each WC2026 team "
                  "(model/build_form.py). Display-only; 'weight' is the model's match-importance "
                  "weight, model calls are walk-forward (no hindsight).",
         "updated": last_date,
         "since": FEED_SINCE,
-        # aggregate pre-match record over the run-in feed (the headline track record)
-        "record": {"correct": feed_correct, "total": len(feed)},
-        "recent": feed,
+        # aggregate pre-match record over the pre-tournament run-in (the headline)
+        "record": {"correct": runin_correct, "total": len(runin)},
+        "recent": runin,
+        # actual World Cup games so far, shown separately, with their own record
+        "tournament": tournament,
+        "tournament_record": {"correct": tour_correct, "total": len(tournament)},
         "teams": teams_form,
     }
     OUT.write_text(json.dumps(payload, indent=2), encoding="utf-8")
     n_matches = sum(len(t["matches"]) for t in teams_form.values())
-    pct = round(100 * feed_correct / len(feed)) if feed else 0
+    pct = round(100 * runin_correct / len(runin)) if runin else 0
     print(f"Wrote {OUT.relative_to(ROOT)} — {len(teams_form)} teams, {n_matches} team-matches; "
-          f"feed {len(feed)} run-in games, model called {feed_correct}/{len(feed)} ({pct}%) (through {last_date}).")
+          f"run-in {len(runin)} games, model {runin_correct}/{len(runin)} ({pct}%); "
+          f"tournament {len(tournament)} games, model {tour_correct}/{len(tournament)} "
+          f"(through {last_date}).")
 
 
 if __name__ == "__main__":

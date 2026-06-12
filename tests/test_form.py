@@ -10,7 +10,9 @@ import pandas as pd
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "model"))
 
-from build_form import build, _model_view, recent_feed, walkforward_predictions  # noqa: E402
+from build_form import (  # noqa: E402
+    build, _is_tournament, _model_view, recent_feed, walkforward_predictions,
+)
 
 
 def _df(rows):
@@ -98,3 +100,28 @@ def test_recent_feed_dedupes_and_maps_display_names():
     assert g["home"] == "USA"                    # canonical -> fixtures display name
     assert g["model"]["pick"] in {"H", "D", "A"}
     assert g["model"]["correct"] is (g["model"]["pick"] == "H")   # USA won at home
+
+
+def test_is_tournament_only_flags_the_finals():
+    # The actual finals are martj42 'FIFA World Cup'; warm-ups and qualifiers are not.
+    assert _is_tournament("FIFA World Cup") is True
+    assert _is_tournament("  fifa world cup ") is True            # case/space-insensitive
+    assert _is_tournament("FIFA World Cup qualification") is False
+    assert _is_tournament("Friendly") is False
+    assert _is_tournament("") is False
+
+
+def test_recent_feed_tags_tournament_games():
+    df = _df([
+        # a warm-up friendly (run-in)
+        {"date": pd.Timestamp("2026-06-05"), "home_team": "Mexico", "away_team": "Senegal",
+         "home_score": 1, "away_score": 1, "tournament": "Friendly", "neutral": False},
+        # an actual World Cup finals game
+        {"date": pd.Timestamp("2026-06-11"), "home_team": "Mexico", "away_team": "South Africa",
+         "home_score": 2, "away_score": 0, "tournament": "FIFA World Cup", "neutral": True},
+    ])
+    preds = walkforward_predictions(df, {"Mexico"})
+    feed = recent_feed(df, preds, ["Mexico"], since="2026-05-01")
+    by_comp = {m["comp"]: m["tournament"] for m in feed}
+    assert by_comp["FIFA World Cup"] is True
+    assert by_comp["Friendly"] is False
