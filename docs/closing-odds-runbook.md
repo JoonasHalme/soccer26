@@ -23,10 +23,15 @@ capture the June 11 openers, that data is gone for good. Start day one.
 
 ## Quota math (free tier ≈ 500 requests/month)
 
-Hourly scheduling is safe: capture only fires when a match is within 3h of kickoff and
+Hourly scheduling is safe: capture only fires when a match is within 6h of kickoff and
 not freshly captured. WC kickoffs cluster into a handful of windows per day, so this is
 well under quota for the whole tournament. Check remaining quota in the
 `fetch_odds.py` output (`x-requests-remaining`).
+
+> The window is 6h (not 3h) on purpose: a closing line **cannot be recaptured after
+> kickoff**, and scheduled runners skip/delay runs by hours under load, so the extra
+> width buys ~6 capture chances per match instead of 3. The last snapshot before
+> kickoff is the one CLV uses, so widening only helps — it never degrades a good line.
 
 ## Option A — manual (simplest, fine if you're around at kickoffs)
 
@@ -77,7 +82,7 @@ measures each settled bet's taken price against the de-vigged closing consensus.
 
 | flag | default | meaning |
 |---|---|---|
-| `--within-hours` | 3 | start capturing once kickoff is this close |
+| `--within-hours` | 6 | start capturing once kickoff is this close (wide enough to survive a skipped run) |
 | `--grace-mins` | 20 | keep capturing up to N min after kickoff (last line) |
 | `--min-refresh-mins` | 30 | skip a fixture captured within this window (saves quota) |
 

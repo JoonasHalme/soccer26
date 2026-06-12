@@ -10,13 +10,21 @@ This wrapper makes capture SCHEDULABLE without burning quota. Run it as often as
 like (e.g. hourly via Windows Task Scheduler — see docs/closing-odds-runbook.md);
 it spends an API call ONLY when a SCHEDULED match is within --within-hours of
 kickoff AND hasn't had a closing snapshot in the last --min-refresh-mins. Otherwise
-it exits 0 without touching the API. One call captures every near-kickoff fixture.
+it exits 0 without touching the API. One call captures every near-kickoff fixture,
+and each run inside the window refreshes the snapshot, so the LAST one before
+kickoff is the closing line.
+
+The window defaults to 6h (not 3h) on purpose: a closing line CANNOT be recovered
+once kickoff passes, and scheduled runners (GitHub Actions crons especially) skip or
+delay runs by multiple hours under load. A wider window gives ~6 hourly chances to
+land a snapshot instead of 3 — so a missed run degrades to an hours-old line rather
+than no line at all. It costs at most a few extra (1-credit) calls per matchday.
 
 Usage:
     python model/capture_closing.py                 # capture if due (call only if needed)
     python model/capture_closing.py --dry-run       # report the plan; never calls the API
     python model/capture_closing.py --plan          # print the upcoming kickoff schedule and exit
-    python model/capture_closing.py --within-hours 3 --min-refresh-mins 30
+    python model/capture_closing.py --within-hours 6 --min-refresh-mins 30
 """
 
 from __future__ import annotations
@@ -90,8 +98,10 @@ def capture_plan(matches: list[dict], now: datetime,
 
 def main() -> None:
     ap = argparse.ArgumentParser(description="Quota-aware closing-odds capture")
-    ap.add_argument("--within-hours", type=float, default=3.0,
-                    help="capture a fixture's closing line once kickoff is this close")
+    ap.add_argument("--within-hours", type=float, default=6.0,
+                    help="capture a fixture's closing line once kickoff is this close "
+                         "(default 6h — wide enough to survive a skipped/delayed scheduled run; "
+                         "a closing line can't be recaptured after kickoff)")
     ap.add_argument("--grace-mins", type=float, default=20.0,
                     help="keep capturing up to this many minutes AFTER kickoff (last line)")
     ap.add_argument("--min-refresh-mins", type=float, default=30.0,

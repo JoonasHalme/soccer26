@@ -15,7 +15,7 @@ $py   = "python"                                   # adjust if python isn't on P
 Set-Location $repo
 $stamp = (Get-Date).ToUniversalTime().ToString("yyyy-MM-dd HH:mm") + "Z"
 try {
-    $out = & $py "model\capture_closing.py" --within-hours 3 --min-refresh-mins 30 2>&1
+    $out = & $py "model\capture_closing.py" --within-hours 6 --min-refresh-mins 30 2>&1
     Add-Content -Path $log -Value "$stamp $out"
 } catch {
     Add-Content -Path $log -Value "$stamp ERROR: $_"
