@@ -8230,34 +8230,34 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-12T21:04:35.029355+00:00",
+        "captured_at": "2026-06-12T22:45:42.166584+00:00",
         "consensus": {
-          "home": 2.1,
+          "home": 2.06,
           "draw": 3.2,
-          "away": 3.85,
+          "away": 3.9,
           "over_2_5": 2.4,
           "under_2_5": 1.54
         },
         "best_book": {
           "home": {
-            "price": 2.18,
-            "book": "Betfair"
+            "price": 2.16,
+            "book": "1xBet"
           },
           "draw": {
-            "price": 3.35,
-            "book": "Betclic (FR)"
+            "price": 3.3,
+            "book": "Betfair"
           },
           "away": {
-            "price": 4.1,
+            "price": 4.2,
             "book": "Betfair"
           },
           "over_2_5": {
-            "price": 2.47,
+            "price": 2.5,
             "book": "1xBet"
           },
           "under_2_5": {
             "price": 1.56,
-            "book": "1xBet"
+            "book": "Unibet (SE)"
           }
         }
       }
