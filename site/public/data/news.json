@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T18:19:13.475808+00:00",
+  "generated_at": "2026-06-12T21:04:45.638387+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian",
@@ -7,15 +7,39 @@
   ],
   "items": [
     {
-      "id": "8b6bf6e79ca1",
-      "title": "Mexico opens WC with win after record 3 red cards",
-      "url": "https://www.espn.com/soccer/story/_/id/49033183/mexico-south-africa-2026-world-cup-azetca-opening-game",
+      "id": "2b070297c8b4",
+      "title": "World Cup Daily LIVE: Larin goal earns Canada draw...",
+      "url": "https://www.espn.com/soccer/story/_/id/49032307/world-cup-daily-live-usmnt-canada-opening-games",
       "source": "ESPN",
-      "published_at": "2026-06-12T18:42:36+00:00",
-      "summary": "Co-hosts Mexico got off to a victorious start, beating South Africa 2-0 as the largest World Cup in history kicked off Thursday at Mexico City's famed Estadio Azteca.",
+      "published_at": "2026-06-12T21:59:09+00:00",
+      "summary": "null",
       "teams": [
-        "Mexico",
-        "South Africa"
+        "Canada"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "243dab57c814",
+      "title": "FIFA defends attendance despite empty seats",
+      "url": "https://www.espn.com/soccer/story/_/id/49042423/fifa-defends-attendance-figure-amidst-empty-seats-south-korea-vs-czechia",
+      "source": "ESPN",
+      "published_at": "2026-06-12T21:57:36+00:00",
+      "summary": "FIFA insists the attendance figure for the World Cup clash between South Korea and Czech Republic was accurate after pictures appeared to show thousands of empty seats.",
+      "teams": [
+        "South Korea",
+        "Czech Republic"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "7c66ab642304",
+      "title": "Marsch 'had to beg' U.S. players to sing anthem",
+      "url": "https://www.espn.com/soccer/story/_/id/49039553/jesse-marsch-beg-usmnt-players-sing-national-anthem",
+      "source": "ESPN",
+      "published_at": "2026-06-12T21:57:36+00:00",
+      "summary": "Former United States men's national team (USMNT) assistant coach Jesse March has revealed he sometimes \"had to beg\" the American players to sing the national anthem.",
+      "teams": [
+        "USA"
       ],
       "is_injury_related": false
     },
@@ -24,7 +48,7 @@
       "title": "Partey denied entry to Canada, will miss WC game",
       "url": "https://www.espn.com/soccer/story/_/id/49041808/thomas-partey-ghana-opener-2026-world-cup-denied-entry-canada",
       "source": "ESPN",
-      "published_at": "2026-06-12T18:41:55+00:00",
+      "published_at": "2026-06-12T21:57:35+00:00",
       "summary": "Ghana's Thomas Partey will miss their opening match of the 2026 World Cup against Panama after being denied entry to Canada.",
       "teams": [
         "Canada",
@@ -34,14 +58,28 @@
       "is_injury_related": true
     },
     {
-      "id": "7c66ab642304",
-      "title": "Marsch 'had to beg' U.S. players to sing anthem",
-      "url": "https://www.espn.com/soccer/story/_/id/49039553/jesse-marsch-beg-usmnt-players-sing-national-anthem",
+      "id": "c1855263672f",
+      "title": "Hakimi 'ready' to limit impact of Brazil's Viníciu...",
+      "url": "https://www.espn.com/soccer/story/_/id/49043452/morocco-hakimi-limit-impact-brazil-vinicius",
       "source": "ESPN",
-      "published_at": "2026-06-12T18:41:55+00:00",
-      "summary": "Former United States men's national team (USMNT) assistant coach Jesse March has revealed he sometimes \"had to beg\" the American players to sing the national anthem.",
+      "published_at": "2026-06-12T21:57:35+00:00",
+      "summary": "Achraf Hakimi said he's \"ready\" to stop Vinicius Junior in Morocco's World Cup opener against Brazil, as right-back Hakimi and winger Vinicius are set to go head-to-head at MetLife Stadium on Saturday.",
       "teams": [
-        "USA"
+        "Brazil",
+        "Morocco"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6e99aa3afb7a",
+      "title": "Poch: 'Too late' for motivational speeches for U.S...",
+      "url": "https://www.espn.com/soccer/story/_/id/49035215/mauricio-pochettino-usa-world-cup-speech-paraguay-lineup",
+      "source": "ESPN",
+      "published_at": "2026-06-12T21:57:35+00:00",
+      "summary": "USMNT coach Mauricio Pochettino said that the time for fiery speeches is over and that his side is ready for Friday's World Cup opener against Paraguay.",
+      "teams": [
+        "USA",
+        "Paraguay"
       ],
       "is_injury_related": false
     },
@@ -50,7 +88,7 @@
       "title": "Hwang's magic sparks South Korea comeback win",
       "url": "https://www.espn.com/soccer/story/_/id/49037668/south-korea-overcome-czechia-via-hwang-beom-brilliant-display-world-cup",
       "source": "ESPN",
-      "published_at": "2026-06-12T18:41:55+00:00",
+      "published_at": "2026-06-12T21:57:35+00:00",
       "summary": "Hwang In-Beom leads South Korea to a 2-1 comeback win over Czechia in the World Cup in a game played in front of hundreds of empty seats at Mexico's Guadalajara Stadium.",
       "teams": [
         "Mexico",
@@ -60,28 +98,52 @@
       "is_injury_related": false
     },
     {
-      "id": "a5885f70d119",
-      "title": "Palestine FA boss: U.S. denied my WCup visa",
-      "url": "https://www.espn.com/soccer/story/_/id/49039483/palestine-fa-boss-says-was-not-granted-us-visa-world-cup",
+      "id": "3f47fefcc532",
+      "title": "Meet the USMNT: The 26 players striving to win a W...",
+      "url": "https://www.espn.com/soccer/story/_/id/49009288/meet-usmnt-26-players-striving-win-world-cup-home-soil",
       "source": "ESPN",
-      "published_at": "2026-06-12T18:41:55+00:00",
-      "summary": "The head of the Palestinian Football Association is waiting in Mexico City for permission to enter the United States with other federation heads attending the 2026 FIFA World Cup.",
+      "published_at": "2026-06-12T21:11:43+00:00",
+      "summary": "With the U.S. kicking off its World Cup campaign Friday, ESPN introduces you to the 26 players tasked with taking the co-hosts on a deep run.",
       "teams": [
-        "Mexico",
         "USA"
       ],
       "is_injury_related": false
     },
     {
-      "id": "6e99aa3afb7a",
-      "title": "Poch: 'Too late' for motivational speeches for U.S...",
-      "url": "https://www.espn.com/soccer/story/_/id/49035215/mauricio-pochettino-usa-world-cup-speech-paraguay-lineup",
+      "id": "9221b5e907f7",
+      "title": "Mexico's win an emotional celebration of World Cup...",
+      "url": "https://www.espn.com/soccer/story/_/id/49033649/mexico-win-south-africa-emotional-celebration-world-cup-return-estadio-azteca",
       "source": "ESPN",
-      "published_at": "2026-06-12T18:41:54+00:00",
-      "summary": "USMNT coach Mauricio Pochettino said that the time for fiery speeches is over and that his side is ready for Friday's World Cup opener against Paraguay.",
+      "published_at": "2026-06-12T21:05:24+00:00",
+      "summary": "Forty years after the World Cup was last in Mexico, the tournament returned Thursday, and Mexico celebrated with an emotional win over South Africa.",
       "teams": [
-        "USA",
-        "Paraguay"
+        "Mexico",
+        "South Africa"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "82c6a59d09d4",
+      "title": "Transfer rumors, news: Man United eye USMNT's Robi...",
+      "url": "https://www.espn.com/soccer/story/_/id/49038387/transfer-rumors-news-man-united-eye-usmnt-robinson-england-hall",
+      "source": "ESPN",
+      "published_at": "2026-06-12T21:04:36+00:00",
+      "summary": "Manchester United have short-listed Newcastle United's Lewis Hall and Fulham's Antonee Robinson. Transfer Talk has the latest.",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "e6dc1846454f",
+      "title": "'Toronto erupts' - Larin equalises for Canada",
+      "url": "https://www.bbc.com/sport/football/videos/cp8lngn61kro",
+      "source": "BBC Sport",
+      "published_at": "2026-06-12T20:56:42+00:00",
+      "summary": "Substitute Cyle Larin equalises for Canada against Bosnia-Herzegovina at the Toronto Stadium at the 2026 World Cup.",
+      "teams": [
+        "Canada",
+        "Bosnia & Herzegovina"
       ],
       "is_injury_related": false
     },
@@ -90,11 +152,112 @@
       "title": "Canada v Bosnia and Herzegovina: World Cup 2026 – live",
       "url": "https://www.theguardian.com/football/live/2026/jun/12/canada-v-bosnia-and-herzegovina-world-cup-2026-live",
       "source": "The Guardian",
-      "published_at": "2026-06-12T18:02:30+00:00",
+      "published_at": "2026-06-12T20:50:33+00:00",
       "summary": "⚽️ Kick-off at 3pm EDT/8pm BST/13 June 5am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Taha Forget the World Cup just for a sec … some news from Scotland. Canada: Crépeau, Johnston, De Fougerolles, Cornelius, Laryea, Buchanan, Koné, Eustáquio, Millar, Jonathan David,",
       "teams": [
         "Canada",
         "Bosnia & Herzegovina",
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "31df07ea3bc7",
+      "title": "Fans on concourses instead of in seats, claims Fifa",
+      "url": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-12T20:26:23+00:00",
+      "summary": "Fifa says numerous empty seats were visible in the near-sell-out Group A match between South Korea and the Czech Republic because of fans remaining on concourses.",
+      "teams": [
+        "South Korea",
+        "Czech Republic"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8f52b3baf44a",
+      "title": "Michael Buble headlines Canada's opening ceremony",
+      "url": "https://www.bbc.com/sport/football/videos/cy497z9yld3o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-12T20:24:16+00:00",
+      "summary": "Canada's World Cup gets under way as Michael Buble headlines their opening ceremony at the Toronto Stadium.",
+      "teams": [
+        "Canada"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "fa283a956a3a",
+      "title": "‘Tickets are very expensive’: Mexican president Sheinbaum explains why she did not attend World Cup opener",
+      "url": "https://www.theguardian.com/football/2026/jun/12/tickets-are-very-expensive-mexican-president-sheinbaum-explains-why-she-did-not-attend-world-cup-opener",
+      "source": "The Guardian",
+      "published_at": "2026-06-12T19:51:39+00:00",
+      "summary": "President gave ticket to a young female soccer fan ‘I gave it to someone who couldn’t go, who loves football’ The Mexican president, Claudia Sheinbaum, explained on Friday why she was absent from the Azteca Stadium during Mexico’s opening match with South Africa , saying that tic",
+      "teams": [
+        "Mexico",
+        "South Africa"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f8e196871cbf",
+      "title": "Lukic heads Bosnia in front against Canada",
+      "url": "https://www.bbc.com/sport/football/videos/ce3720k188yo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-12T19:42:13+00:00",
+      "summary": "Jovo Lukic heads Bosnia in front against co-hosts Canada in the opening game in Group B at the Toronto Stadium in the 2026 World Cup.",
+      "teams": [
+        "Canada",
+        "Bosnia & Herzegovina"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1fc34860756b",
+      "title": "Richards 'understands' but disagrees with Tuchel's England squad selection",
+      "url": "https://www.bbc.com/sport/football/videos/cn07xjyyzwjo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-12T19:18:42+00:00",
+      "summary": "BBC pundit Micah Richards says he \"understands\" the squad picked by England manager Thomas Tuchel for the 2026 World Cup, but does not agree with Tuchel's selections, adding he would have selected one of Cole Palmer or Phil Foden.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "4e14150f0e2e",
+      "title": "Bellingham set to start, but no Guehi - England's expected team",
+      "url": "https://www.bbc.com/sport/football/articles/cx2dn77m8gwo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-12T18:46:39+00:00",
+      "summary": "Jude Bellingham is expected to start England's opening game of the 2026 World Cup, as Marc Guehi could start on the bench.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6d5348c42613",
+      "title": "Scotland become faithfuls or traitors before World Cup opener against Haiti",
+      "url": "https://www.theguardian.com/football/2026/jun/12/scotland-traitors-world-cup-2026-opener-haiti-andy-robertson",
+      "source": "The Guardian",
+      "published_at": "2026-06-12T18:08:07+00:00",
+      "summary": "Robertson said game helped pass time in training camp Scotland play 83rd-ranked Haiti on Saturday in Boston Andy Robertson has revealed an unorthodox way Scotland have prepared for their World Cup return, with the captain organising a game of Traitors for the squad during their b",
+      "teams": [
+        "Haiti",
+        "Scotland",
+        "USA"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "722db4572881",
+      "title": "Rangers target Derek McInnes from Hearts as replacement for Danny Röhl",
+      "url": "https://www.theguardian.com/football/2026/jun/12/rangers-target-hearts-derek-mcinnes-as-replacement-for-danny-rohl",
+      "source": "The Guardian",
+      "published_at": "2026-06-12T17:56:04+00:00",
+      "summary": "Röhl expected to join RB Salzburg McInnes turned down chance to manage Rangers in 2017 Rangers are likely to move for the Hearts manager, Derek McInnes, if Danny Röhl completes a move to RB Salzburg. The Ibrox club and Salzburg are in talks over a deal for Röhl, who was appointed",
+      "teams": [
         "Scotland"
       ],
       "is_injury_related": false
@@ -105,10 +268,10 @@
       "url": "https://www.theguardian.com/football/2026/jun/12/thomas-partey-ghana-world-cup-visa-application-to-canada-refused",
       "source": "The Guardian",
       "published_at": "2026-06-12T17:32:52+00:00",
-      "summary": "Player had been due to play against Panama in Toronto Fifa says decision made by Canadian government The Ghana defender Thomas Partey will miss their opening World Cup game against Panama after being refused a visa to Canada, where the game is being staged in Toronto. In a statem",
+      "summary": "Player had been due to face Panama in Toronto Fifa says decision made by Canadian government Thomas Partey has been denied entry to Canada and will not be available for Ghana’s first World Cup game in Toronto on Wednesday. The former Arsenal midfielder was charged with five count",
       "teams": [
         "Canada",
-        "USA",
+        "Spain",
         "Ghana",
         "Panama"
       ],
@@ -127,31 +290,6 @@
         "Panama"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "415b2c93285d",
-      "title": "Snubbed by the U.S., Jesse Marsch marches Canada i...",
-      "url": "https://www.espn.com/soccer/story/_/id/49010574/snubbed-us-jesse-marsch-marches-canada-world-cup-mission",
-      "source": "ESPN",
-      "published_at": "2026-06-12T17:03:33+00:00",
-      "summary": "Jesse Marsch was certain he was going to be the next USMNT manager. He wasn't. Now he's determined to make his mark at this World Cup with Canada.",
-      "teams": [
-        "Canada",
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "3f47fefcc532",
-      "title": "Meet the USMNT: The 26 players striving to win a W...",
-      "url": "https://www.espn.com/soccer/story/_/id/49009288/meet-usmnt-26-players-striving-win-world-cup-home-soil",
-      "source": "ESPN",
-      "published_at": "2026-06-12T17:03:09+00:00",
-      "summary": "With the U.S. kicking off its World Cup campaign Friday, ESPN introduces you to the 26 players tasked with taking the co-hosts on a deep run.",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "f5eb4c1fdc97",
@@ -286,19 +424,6 @@
       "is_injury_related": false
     },
     {
-      "id": "9221b5e907f7",
-      "title": "Mexico's win an emotional celebration of World Cup...",
-      "url": "https://www.espn.com/soccer/story/_/id/49033649/mexico-win-south-africa-emotional-celebration-world-cup-return-estadio-azteca",
-      "source": "ESPN",
-      "published_at": "2026-06-12T13:34:35+00:00",
-      "summary": "Forty years after the World Cup was last in Mexico, the tournament returned Thursday, and Mexico celebrated with an emotional win over South Africa.",
-      "teams": [
-        "Mexico",
-        "South Africa"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "1ebcffaf0906",
       "title": "You are Steve Clarke... what would you do against Haiti?",
       "url": "https://www.bbc.com/sport/football/articles/cy06gkd521wo",
@@ -408,31 +533,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "82c6a59d09d4",
-      "title": "Transfer rumors, news: Man United eye USMNT's Robi...",
-      "url": "https://www.espn.com/soccer/story/_/id/49038387/transfer-rumors-news-man-united-eye-usmnt-robinson-england-hall",
-      "source": "ESPN",
-      "published_at": "2026-06-12T08:48:43+00:00",
-      "summary": "Manchester United have short-listed Newcastle United's Lewis Hall and Fulham's Antonee Robinson. Transfer Talk has the latest.",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "5d0ea59f63b2",
-      "title": "Three red cards - are referees getting tough at this World Cup?",
-      "url": "https://www.bbc.com/sport/football/articles/cjwglq2gzd6o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-12T08:31:24+00:00",
-      "summary": "Three players were sent off in the World Cup opener as Mexico beat South Africa 2-0. Are we about to see a World Cup littered with red cards?",
-      "teams": [
-        "Mexico",
-        "South Africa"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "ced356a7f5a9",
@@ -555,18 +655,6 @@
       "teams": [
         "Mexico",
         "South Africa"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "afbbd36cd5a2",
-      "title": "Newcastle's Hall keen on Man Utd switch - Friday's gossip",
-      "url": "https://www.bbc.com/sport/football/articles/cx2w66rxpx7o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-11T20:26:37+00:00",
-      "summary": "Manchester United keen on wantaway Newcastle left-back Lewis Hall, Spanish giants close in on Bernardo Silva, Real Madrid target Manchester City's Josko Gvardiol",
-      "teams": [
-        "Spain"
       ],
       "is_injury_related": false
     },
@@ -807,43 +895,6 @@
       "is_injury_related": false
     },
     {
-      "id": "3b28d006f13e",
-      "title": "Watch: Weir scores four as Scotland beat Israel to win group",
-      "url": "https://www.bbc.com/sport/videos/c0ky8873nr5o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-09T19:56:34+00:00",
-      "summary": "Watch the highlights as Scotland beat Israel 5-1, with Caroline Weir scoring four goals in Hungary to top their Women's World Cup qualifying group ahead of Belgium and win promotion to League A for the next Nations League.",
-      "teams": [
-        "Scotland",
-        "Belgium"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e0f4cc2dc4a0",
-      "title": "Highlights: Switzerland sweep aside Northern Ireland",
-      "url": "https://www.bbc.com/sport/football/videos/cp8lxx2ly5do",
-      "source": "BBC Sport",
-      "published_at": "2026-06-09T19:51:41+00:00",
-      "summary": "Watch highlights as group winners Switzerland finish their World Cup qualifying campaign with a 2-1 win over Northern Ireland in Lurgan.",
-      "teams": [
-        "Switzerland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "cf99e800cd90",
-      "title": "Highlights: Wales beat Czech Republic 3-1 to top group",
-      "url": "https://www.bbc.com/sport/football/videos/cm2r0828xleo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-09T19:27:59+00:00",
-      "summary": "Watch highlights as Wales beat Czech Republic in Cardiff in Women's World Cup qualifying.",
-      "teams": [
-        "Czech Republic"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "17057670353a",
       "title": "Didier Deschamps: ‘Mbappé knows that when he speaks, he speaks for all the players’",
       "url": "https://www.theguardian.com/football/2026/jun/09/didier-deschamps-france-world-cup-kylian-mbappe",
@@ -852,18 +903,6 @@
       "summary": "Questioned in France but championed from afar, the departing head coach has forged a legacy that no one – bar, perhaps, himself – would dare dispute Follow the verdant path towards the Château de Clairefontaine and you are met by a three-metre replica of the World Cup trophy acco",
       "teams": [
         "France"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "ff7af947e0bc",
-      "title": "'Rashford's a dead cert' – Rooney, Walcott & Defoe on England's wide options",
-      "url": "https://www.bbc.com/sport/football/videos/c9d2lyl5770o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-09T17:40:37+00:00",
-      "summary": "Wayne Rooney, Theo Walcott, Jermain Defoe, Kae Kurd and Kelly Somers assess England's wide options for the World Cup.",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },

@@ -2801,10 +2801,10 @@
       "home": "Canada",
       "away": "Bosnia & Herzegovina",
       "score": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "odds": {
         "home": 8.0,
         "draw": 3.0,
@@ -3154,34 +3154,34 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-12T18:19:03.226548+00:00",
+        "captured_at": "2026-06-12T21:04:35.029355+00:00",
         "consensus": {
-          "home": 1.83,
-          "draw": 3.5,
-          "away": 4.7,
-          "over_2_5": 2.23,
-          "under_2_5": 1.65
+          "home": 11.5,
+          "draw": 1.03,
+          "away": 29.0,
+          "over_2_5": 11.5,
+          "under_2_5": 1.02
         },
         "best_book": {
           "home": {
-            "price": 1.89,
-            "book": "Matchbook"
+            "price": 23.0,
+            "book": "Casumo"
           },
           "draw": {
-            "price": 3.65,
-            "book": "Betfair"
+            "price": 1.63,
+            "book": "Pinnacle"
           },
           "away": {
-            "price": 5.0,
-            "book": "Betfair"
+            "price": 160.0,
+            "book": "Matchbook"
           },
           "over_2_5": {
-            "price": 2.3,
-            "book": "BetOnline.ag"
+            "price": 18.0,
+            "book": "Casumo"
           },
           "under_2_5": {
-            "price": 1.72,
-            "book": "Coolbet"
+            "price": 1.68,
+            "book": "Pinnacle"
           }
         }
       }
@@ -8228,7 +8228,39 @@
           },
           "totals": {}
         }
-      ]
+      ],
+      "closing_odds": {
+        "captured_at": "2026-06-12T21:04:35.029355+00:00",
+        "consensus": {
+          "home": 2.1,
+          "draw": 3.2,
+          "away": 3.85,
+          "over_2_5": 2.4,
+          "under_2_5": 1.54
+        },
+        "best_book": {
+          "home": {
+            "price": 2.18,
+            "book": "Betfair"
+          },
+          "draw": {
+            "price": 3.35,
+            "book": "Betclic (FR)"
+          },
+          "away": {
+            "price": 4.1,
+            "book": "Betfair"
+          },
+          "over_2_5": {
+            "price": 2.47,
+            "book": "1xBet"
+          },
+          "under_2_5": {
+            "price": 1.56,
+            "book": "1xBet"
+          }
+        }
+      }
     },
     {
       "id": "m-020",
