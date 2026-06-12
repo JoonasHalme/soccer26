@@ -90,17 +90,25 @@ def apply_results(fixtures: dict, events: list[dict]) -> list[dict]:
     return changes
 
 
-def _has_active_match(window_hours: float) -> bool:
-    """True if any fixture is LIVE or kicked off within the last `window_hours` (and
-    isn't already FINISHED) — i.e. there are fresh scores worth an API call. Lets a
-    scheduled job poll only when matches are actually on, staying within quota."""
-    try:
-        fixtures = json.loads(FIXTURES.read_text(encoding="utf-8"))
-    except (OSError, json.JSONDecodeError):
-        return True  # can't tell -> don't block the call
-    now = datetime.now(timezone.utc)
-    lo = now - timedelta(hours=window_hours)
-    for m in fixtures.get("matches", []):
+def needs_results_call(matches: list[dict], now: datetime,
+                       window_hours: float, backfill_hours: float) -> bool:
+    """Pure: should we spend a scores API call given `matches` and `now`? True when:
+
+    - a fixture is LIVE, or
+    - a fixture kicked off within the last `window_hours` (a fresh result is
+      landing), or
+    - a fixture kicked off within the last `backfill_hours` and STILL isn't
+      `FINISHED` — i.e. a result we missed (e.g. a skipped/delayed scheduled run,
+      which GitHub crons do under load) that the scores API can still return.
+
+    The backfill window is bounded to the scores endpoint's reach (`daysFrom` is
+    capped at 3 → 72h), so once a match is graded — or ages out of the API window —
+    it stops triggering calls. Without it, a match that finishes during a polling
+    gap is stranded forever: never `FINISHED`, and its kickoff older than
+    `window_hours`, so the old gate skipped it on every subsequent run."""
+    fresh_lo = now - timedelta(hours=window_hours)
+    backfill_lo = now - timedelta(hours=backfill_hours)
+    for m in matches:
         if m.get("status") == "LIVE":
             return True
         if m.get("status") == "FINISHED":
@@ -110,9 +118,22 @@ def _has_active_match(window_hours: float) -> bool:
             t = datetime.fromisoformat((ko or "").replace("Z", "+00:00"))
         except (ValueError, AttributeError):
             continue
-        if lo <= t <= now:
+        # Fresh result landing, or an un-graded result we still owe (backfill).
+        if fresh_lo <= t <= now or backfill_lo <= t <= now:
             return True
     return False
+
+
+def _has_active_match(window_hours: float, backfill_hours: float = 72.0) -> bool:
+    """Disk-backed wrapper around `needs_results_call` — reads fixtures.json and
+    uses the current time. Lets a scheduled job poll only when scores are worth a
+    call, staying within quota."""
+    try:
+        fixtures = json.loads(FIXTURES.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return True  # can't tell -> don't block the call
+    return needs_results_call(fixtures.get("matches", []),
+                              datetime.now(timezone.utc), window_hours, backfill_hours)
 
 
 def main() -> int:
@@ -125,11 +146,16 @@ def main() -> int:
                         help="exit 0 WITHOUT calling the API unless a match is LIVE or "
                              "kicked off within --active-window-hours (keeps scheduled runs in quota)")
     parser.add_argument("--active-window-hours", type=float, default=3.0)
+    parser.add_argument("--backfill-hours", type=float, default=72.0,
+                        help="Also call the API for any not-FINISHED match that kicked "
+                             "off within this many hours — backfills results missed during "
+                             "a polling gap. Bounded to the scores API's daysFrom reach (72h).")
     args = parser.parse_args()
 
-    if args.only_if_active and not _has_active_match(args.active_window_hours):
-        print(f"No match LIVE or kicked off within {args.active_window_hours:g}h — "
-              "skipping the scores API call (saves quota).")
+    if args.only_if_active and not _has_active_match(args.active_window_hours, args.backfill_hours):
+        print(f"No match LIVE, kicked off within {args.active_window_hours:g}h, or awaiting "
+              f"a result from the last {args.backfill_hours:g}h — skipping the scores API call "
+              "(saves quota).")
         return 0
 
     _load_env()

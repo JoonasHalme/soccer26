@@ -56,11 +56,17 @@ jobs:
           python model/fetch_recent_espn.py
           python model/build_form.py
 
+      - name: Refresh team news (free RSS, no API key)
+        # Pulls BBC/Guardian/ESPN football RSS, tags to WC teams -> news.json.
+        # No quota; resilient (a dead feed is skipped). Without this step news.json
+        # only ever updated on a manual run and went stale once the bots took over.
+        run: python model/fetch_news.py
+
       - name: Commit if anything changed
         run: |
           git config user.name  "soccer26-bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add fixtures/fixtures.json bets/bets.json site/public/data/live.json model/data/internationals.csv site/public/data/form.json
+          git add fixtures/fixtures.json bets/bets.json site/public/data/live.json model/data/internationals.csv site/public/data/form.json site/public/data/news.json
           if git diff --cached --quiet; then
             echo "No changes — nothing to commit."
           else
