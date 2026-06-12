@@ -18,7 +18,7 @@ Group J, matchday 2 at AT&T Stadium in Arlington. Argentina are the group's stan
 
 **Model view.** Argentina **66% / 21% / 13%**, xG **1.87–0.68**, BTTS 42%, Under 2.5 53%. Argentina firmly favoured.
 
-**Betting angle.** The data flags a modest edge on Argentina: 1.65 implies 61% but the model gives 66% — a 5.1% edge. Real but not large.
+**Model vs market.** The data flags a modest edge on Argentina: 1.65 implies 61% but the model gives 66% — a 5.1% edge. Real but not large.
 
 - **Argentina ML** at 1.65 — model 66%, fair ~1.52; the flagged value
 - **Argentina -0.5 AH** = the straight win, 66%, same fair ~1.52

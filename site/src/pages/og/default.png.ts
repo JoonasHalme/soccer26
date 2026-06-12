@@ -10,7 +10,7 @@ export const GET: APIRoute = async () => {
   const png = await renderOgPng({
     eyebrow: "FIFA World Cup 2026 · Transparent model",
     title: "Every probability, shown and graded in public.",
-    subtitle: "Elo + Poisson model · value edges vs the de-vigged market · a public CLV track record.",
+    subtitle: "Elo + Poisson model · value vs the de-vigged market · calls graded against results.",
   });
   return new Response(new Uint8Array(png), { headers: PNG_HEADERS });
 };

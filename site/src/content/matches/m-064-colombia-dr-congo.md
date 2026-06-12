@@ -18,7 +18,7 @@ Group K, matchday 2 at Estadio Akron in Guadalajara. Colombia are favoured to pu
 
 **Model view.** Colombia **54% / 25% / 21%**, xG **1.64–0.91**, BTTS 48%, Under 2.5 53%. Colombia-leaning but live.
 
-**Betting angle.** The data flags DR Congo as the edge: 7.50 implies 13% but the model gives 21% — a 7.7% edge as the underrated away dog.
+**Model vs market.** The data flags DR Congo as the edge: 7.50 implies 13% but the model gives 21% — a 7.7% edge as the underrated away dog.
 
 - **DR Congo ML** at 7.50 — model 21%, fair ~4.76; the flagged value
 - **Draw** at 4.10 — model 25%, fair ~4.00, roughly fair and live

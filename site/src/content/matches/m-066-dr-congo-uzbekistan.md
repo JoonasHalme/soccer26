@@ -18,7 +18,7 @@ Group K, matchday 3 at Mercedes-Benz Stadium in Atlanta. With Colombia and Portu
 
 **Model view.** Uzbekistan **31% / 26% / 43%** (home/draw/away), xG **1.15–1.40**, BTTS 51%, Under 2.5 53%. Uzbekistan-leaning.
 
-**Betting angle.** The data flags Uzbekistan as the edge: 3.10 implies 32% but the model gives 43% — a 10.5% edge. The market is over-weighting DR Congo's home tag.
+**Model vs market.** The data flags Uzbekistan as the edge: 3.10 implies 32% but the model gives 43% — a 10.5% edge. The market is over-weighting DR Congo's home tag.
 
 - **Uzbekistan ML** at 3.10 — model 43%, fair ~2.33; the flagged value
 - **Draw** at 3.20 — model 26%, fair ~3.85, live and underpriced

@@ -18,7 +18,7 @@ The night-cap of the opening day. Group A's second pair plays at Estadio Akron i
 
 **Model view.** Korea **54% / 25% / 21%**, xG **1.63–0.92**, O2.5 47%, BTTS 48%. Tight but Korea-leaning. Without the home boost (neutral venue), the gap is pure quality differential.
 
-**Betting angle.** I would not chase the ML here — 1.85 to 1.95 is too short for a 54% model edge after the vig. Where there might be real value:
+**Model vs market.** I would not chase the ML here — 1.85 to 1.95 is too short for a 54% model edge after the vig. Where there might be real value:
 
 - **Czech +0.5 Asian handicap** if priced above ~1.85 (combined draw + Czech win = 46%, fair odds ~2.17)
 - **Under 2.5** at any price above 2.00 (model 53%, fair ~1.89 — bookies often shade these high for tournament openers)

@@ -18,7 +18,7 @@ Group E opens with Germany at NRG Stadium in Houston. Midday kickoff in June —
 
 **Model view.** Germany **81% / 15% / 4%**, xG **2.21–0.34**. Same caveat as Canada–BiH: the away xG floor is mechanical, the real number is probably 0.7–0.9.
 
-**Betting angle.** Germany ML will be 1.20-ish, no edge. Where to look:
+**Model vs market.** Germany ML will be 1.20-ish, no edge. Where to look:
 
 - **Germany -1.5 AH** at 1.85+ — model implies ~58% win-by-2, fair price ~1.72
 - **Over 2.5** at 1.85+ — Germany at their level grind out 3-0/3-1 against weaker sides about 55% of the time

@@ -18,7 +18,7 @@ Group B's third game, played on neutral ground in Santa Clara. No home advantage
 
 **Model view.** Switzerland **77% / 17% / 6%**, xG **2.13–0.42**, O2.5 47%, BTTS 30%. Big Elo gap, no venue advantage to either side, classic top-seed-vs-fourth-pot setup.
 
-**Betting angle.** The market will price Switzerland in the 1.40–1.50 range on the moneyline; that's slightly long on the model's 77%, but the truth is probably closer to 70% so the market is roughly fair. The interesting fields:
+**Model vs market.** The market will price Switzerland in the 1.40–1.50 range on the moneyline; that's slightly long on the model's 77%, but the truth is probably closer to 70% so the market is roughly fair. The interesting fields:
 
 - **Switzerland -1.5 AH** at 2.00+ — model gives ~55% on the spread, fair price ~1.82
 - **Under 3.5 goals** at 1.40+ — Switzerland matches finish in this range about 75% of the time

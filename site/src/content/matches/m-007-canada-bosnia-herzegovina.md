@@ -18,7 +18,7 @@ Canada's opener at BMO Field in Toronto, second game of the tournament. The host
 
 **Model view.** Canada **92% / 8% / 0.4%**, xG **2.60–0.05**. **The 92% is too high.** The independent-Poisson framework breaks down at this Elo gap; the away xG floor of 0.05 is mechanical, not real. In any honest read this is a 75–80% Canada match, and BiH will create at least one or two real chances.
 
-**Betting angle.** The mispricing here is in the over/under markets, not the moneyline. Canada ML will be ~1.20–1.25, the market will be efficient. Where to look:
+**Model vs market.** The mispricing here is in the over/under markets, not the moneyline. Canada ML will be ~1.20–1.25, the market will be efficient. Where to look:
 
 - **BTTS-Yes** above ~2.40 — model says 5% (don't trust that), realistically 25–30%, only fire if odds reach 3.50+
 - **Canada -1.5 AH** is where the volume should go if odds get above ~1.95 (model implies ~67% but actual probably 55–60%, so price-dependent)

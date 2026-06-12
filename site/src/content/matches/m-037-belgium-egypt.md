@@ -18,7 +18,7 @@ Group G opener at Lumen Field. Neutral venue, both teams travelling.
 
 **Model view.** Belgium **38% / 27% / 35%**, xG **1.31–1.24**, BTTS 52%. As close to a true pick'em as the model has produced.
 
-**Betting angle.** This is the match where the market will overrate Belgium because of name recognition and underrate Egypt because the public can't name three Egypt players besides Salah. Where to look:
+**Model vs market.** This is the match where the market will overrate Belgium because of name recognition and underrate Egypt because the public can't name three Egypt players besides Salah. Where to look:
 
 - **Egypt ML** at 3.20+ — model 35%, fair ~2.86, market will likely sit at 4.50+ which is real edge
 - **Draw** at 3.40+ — model 27%, fair ~3.70, but draw markets are usually well-priced
@@ -27,4 +27,4 @@ Group G opener at Lumen Field. Neutral venue, both teams travelling.
 
 Avoid: Belgium ML at the short side. Below 2.00 there is no edge.
 
-**This match is the sharpest +EV spot of Day 5.** Egypt at long odds is the bet of the matchday if the lines drop where I expect.
+**This match is the sharpest +EV spot of Day 5.** Egypt at long odds is the standout value of the matchday if the lines drop where I expect.

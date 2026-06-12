@@ -18,7 +18,7 @@ Group C, matchday 3 at Hard Rock Stadium in Miami Gardens. Brazil are likely pla
 
 **Model view.** Brazil **8% / 18% / 75%** (home/draw/away), xG **0.49–2.06**, BTTS 34%, Under 2.5 53%. Firmly Brazil.
 
-**Betting angle.** The data flags a modest edge on Brazil themselves: 1.45 implies 69% but the model gives 75% — a 5.6% edge. It's real but thin, so size accordingly and watch the lineup.
+**Model vs market.** The data flags a modest edge on Brazil themselves: 1.45 implies 69% but the model gives 75% — a 5.6% edge. It's real but thin, so size accordingly and watch the lineup.
 
 - **Brazil ML** at 1.45 — model 75%, fair ~1.33; a small but genuine edge
 - **Brazil -1.5 AH** ~1.9 — the 2.06–0.49 xG margin supports a multi-goal win if first-choice

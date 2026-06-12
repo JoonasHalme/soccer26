@@ -18,7 +18,7 @@ Group H's other Day 5 opener at Hard Rock Stadium. Late afternoon kickoff in Mia
 
 **Model view.** Uruguay **19% / 24% / 57%**, xG **0.86–1.69**, BTTS 47%. Clean Uruguay lean.
 
-**Betting angle.** The market will price this in the 1.65–1.75 range on Uruguay ML, which is roughly fair on the model. Where to find edge:
+**Model vs market.** The market will price this in the 1.65–1.75 range on Uruguay ML, which is roughly fair on the model. Where to find edge:
 
 - **Uruguay -0.5 AH** at 1.65+ — this is just ML in disguise but sometimes priced better
 - **Uruguay -1.5 AH** at 2.30+ — model implies ~35%, fair ~2.86, books often miss on the spread

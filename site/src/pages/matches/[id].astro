@@ -6,7 +6,7 @@ import StageChip from "../../components/StageChip.astro";
 import NewsItem from "../../components/NewsItem.astro";
 import BookmakerOdds from "../../components/BookmakerOdds.astro";
 import LocalTime from "../../components/LocalTime.astro";
-import { loadFixtures, loadBets, loadPredictions, loadNews, selectionLabel, pct1, flagCode, teamSlug, matchOutcome, loadPredictionArchive, publishedProbs, latestBookUpdate } from "../../lib/data";
+import { loadFixtures, loadPredictions, loadNews, selectionLabel, pct1, flagCode, teamSlug, matchOutcome, loadPredictionArchive, publishedProbs, latestBookUpdate } from "../../lib/data";
 
 export async function getStaticPaths() {
   const { matches } = loadFixtures();
@@ -15,11 +15,9 @@ export async function getStaticPaths() {
 
 const { id } = Astro.params;
 const { matches } = loadFixtures();
-const { bets } = loadBets();
 const { predictions } = loadPredictions();
 const match = matches.find((m) => m.id === id);
 const pred = predictions.find((p) => p.match_id === id);
-const matchBets = bets.filter((b) => b.match_id === id);
 
 const analyses = await getCollection("matches", (entry) => entry.data.match_id === id);
 const analysis = analyses[0];
@@ -42,8 +40,6 @@ const matchNews = loadNews()
   .slice(0, 8);
 
 const probPct = (p: number) => `${(p * 100).toFixed(1)}%`;
-const resultClass = (r?: string | null) =>
-  r === "WIN" ? "win" : r === "LOSS" ? "loss" : r ? "" : "open";
 
 // The PUBLISHED call (market-blended where priced) drives the headline; the raw
 // model stays available for the "model vs market" breakdown below.
@@ -85,7 +81,6 @@ const postMatch = outcome && arch ? (() => {
     correct: top === outcome,
     actualProb: arch[outcome],
     label: labels,
-    settledBets: matchBets.filter((b) => b.result),
   };
 })() : null;
 ---
@@ -158,15 +153,6 @@ const postMatch = outcome && arch ? (() => {
         <span class={postMatch.outcome === "draw" ? "hit" : ""}>Draw {pct1(postMatch.probs.draw * 100)}%</span>
         <span class={postMatch.outcome === "away" ? "hit" : ""}>{match.away} {pct1(postMatch.probs.away * 100)}%</span>
       </div>
-      {postMatch.settledBets.length > 0 && (
-        <p class="pm-bets">
-          {postMatch.settledBets.map((b) => (
-            <span class={`pm-bet ${b.result === "WIN" ? "ok" : b.result === "LOSS" ? "miss" : ""}`}>
-              {selectionLabel(b.selection, match.home, match.away)} → {b.result}{typeof b.pnl === "number" ? ` (${b.pnl >= 0 ? "+" : "−"}${Math.abs(b.pnl).toFixed(2)})` : ""}
-            </span>
-          ))}
-        </p>
-      )}
     </section>
   )}
 
@@ -321,7 +307,7 @@ const postMatch = outcome && arch ? (() => {
                 <td class="num" data-label="Our call">{probPct(e.model_prob)}{e.model_raw_prob != null && <span class="raw-sub" title="Pre-blend anchored-model probability"> · raw {probPct(e.model_raw_prob)}</span>}</td>
                 <td class="num" data-label="Market">{probPct(e.implied_prob)}</td>
                 <td class="num" data-label="Odds">{e.odds_decimal.toFixed(2)}</td>
-                <td class="num" data-label="Edge"><span class={`badge ${e.edge_pct >= 8 ? "badge-edge" : "badge-warn"}`}>+{pct1(e.edge_pct)}%</span>{e.raw_edge_pct != null && <span class="raw-sub" title="Raw model−market gap; staked edge = trust × raw gap"> raw +{pct1(e.raw_edge_pct)}%</span>}</td>
+                <td class="num" data-label="Edge"><span class={`badge ${e.edge_pct >= 8 ? "badge-edge" : "badge-warn"}`}>+{pct1(e.edge_pct)}%</span>{e.raw_edge_pct != null && <span class="raw-sub" title="Raw model−market gap; edge = trust × raw gap"> raw +{pct1(e.raw_edge_pct)}%</span>}</td>
               </tr>
             ))}
           </tbody>
@@ -349,7 +335,7 @@ const postMatch = outcome && arch ? (() => {
       <div class="prose"><Analysis /></div>
       {analysis && analysis.data.verify_before_betting.length > 0 && (
         <div class="verify">
-          <h3>Verify before betting</h3>
+          <h3>Worth checking before you lean on this</h3>
           <ul>
             {analysis.data.verify_before_betting.map((item) => <li>{item}</li>)}
           </ul>
@@ -380,33 +366,6 @@ const postMatch = outcome && arch ? (() => {
     )}
   </section>
 
-  <section class="panel" style="margin-top: 1.6rem;">
-    <div class="section-head"><h2>Bets on this match</h2><span class="rule"></span></div>
-    {matchBets.length === 0 ? (
-      <p class="subtle" style="margin:0">No bets placed.</p>
-    ) : (
-      <div class="table-wrap">
-        <table class="table--cards">
-          <thead><tr><th>Market</th><th>Selection</th><th class="num">Odds</th><th class="num">Stake</th><th class="num">CLV</th><th>Result</th><th class="num">P/L</th></tr></thead>
-          <tbody>
-            {matchBets.map((b) => (
-              <tr>
-                <td>{b.market}</td>
-                <td data-label="Selection">{selectionLabel(b.selection, match.home, match.away)}</td>
-                <td class="num" data-label="Odds">{b.odds_decimal.toFixed(2)}</td>
-                <td class="num" data-label="Stake">{b.stake.toFixed(2)}</td>
-                <td class={`num ${typeof b.clv_pct === "number" ? (b.clv_pct > 0 ? "pos" : b.clv_pct < 0 ? "neg" : "") : ""}`} data-label="CLV">
-                  {typeof b.clv_pct === "number" ? `${b.clv_pct >= 0 ? "+" : ""}${b.clv_pct.toFixed(1)}%` : "—"}
-                </td>
-                <td data-label="Result"><span class={`pill ${resultClass(b.result)}`}>{b.result ?? "OPEN"}</span></td>
-                <td class={`num ${b.pnl != null && b.pnl >= 0 ? "pos" : "neg"}`} data-label="P/L">{b.pnl?.toFixed(2) ?? "—"}</td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
-    )}
-  </section>
 </Base>
 
 <style>
@@ -473,10 +432,6 @@ const postMatch = outcome && arch ? (() => {
   .pm-line strong { color: var(--fg); }
   .pm-probs { display: flex; flex-wrap: wrap; gap: 0.4rem 0.8rem; margin-top: 0.7rem; font-family: var(--font-mono); font-size: 0.78rem; color: var(--muted-2); }
   .pm-probs .hit { color: var(--accent); font-weight: 600; }
-  .pm-bets { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0.8rem 0 0; }
-  .pm-bet { font-size: 0.78rem; padding: 0.12rem 0.5rem; border-radius: var(--radius-xs, 3px); border: 1px solid var(--border-strong); color: var(--muted); }
-  .pm-bet.ok { color: var(--accent); border-color: var(--accent-line); background: var(--accent-soft); }
-  .pm-bet.miss { color: var(--bad); border-color: var(--bad-soft); background: var(--bad-soft); }
 
   .keymetrics .stat-value { font-size: 1.7rem; }
 

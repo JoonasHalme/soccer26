@@ -18,7 +18,7 @@ Group L, matchday 3 at MetLife Stadium in East Rutherford. England are the clear
 
 **Model view.** England **17% / 23% / 60%** (home/draw/away), xG **0.80–1.75**, BTTS 45%, Under 2.5 53%. Firmly England.
 
-**Betting angle.** The data flags two edges — the under and the draw. Under 2.5 at 2.20 implies 45% but the model gives 53% (a 7.7% edge); the draw at 5.90 implies 17% but the model gives 23% (a 6.2% edge).
+**Model vs market.** The data flags two edges — the under and the draw. Under 2.5 at 2.20 implies 45% but the model gives 53% (a 7.7% edge); the draw at 5.90 implies 17% but the model gives 23% (a 6.2% edge).
 
 - **Under 2.5** at 2.20 — model 53%, fair ~1.89; a control job over a deep Panama keeps the total down
 - **Draw** at 5.90 — model 23%, fair ~4.35; live, especially if England rotate having qualified

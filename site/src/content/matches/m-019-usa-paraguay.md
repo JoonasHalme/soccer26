@@ -18,7 +18,7 @@ The U.S. opens its home World Cup at SoFi Stadium in Inglewood. The narrative-lo
 
 **Model view.** USA **67% / 21% / 12%**, xG **1.89–0.66**, O2.5 47%, BTTS 41%. Home advantage is doing significant work — without it this drops to roughly 50% / 25% / 25%.
 
-**Betting angle.** The home advantage is partial here — LA has a meaningful Paraguayan diaspora and the crowd will not be uniformly American. Discount the model's home component by ~15% in your head and the fair line is closer to 60% USA. That makes:
+**Model vs market.** The home advantage is partial here — LA has a meaningful Paraguayan diaspora and the crowd will not be uniformly American. Discount the model's home component by ~15% in your head and the fair line is closer to 60% USA. That makes:
 
 - **USA ML** only a play if priced above ~1.70 (fair ~1.65, so very close — not great value)
 - **Under 2.5** at 2.00+ — this match has every ingredient for a 1-0 or 0-1: tight, cagey, opener nerves on the home side, defensive opponent

@@ -51,16 +51,6 @@ export const validateFixtures: Validator<{ matches: Match[]; groups: Record<stri
     if (!isObj(m) || typeof m.id !== "string") fail(rel, "a match is missing a string `id`");
   }
 };
-export const validateBets: Validator<BetsConfig> = (d, rel) => {
-  if (!isObj(d)) fail(rel, "expected a config object");
-  if (typeof d.starting_bankroll !== "number") fail(rel, "`starting_bankroll` must be a number");
-  if (!Array.isArray(d.bets)) fail(rel, "`bets` must be an array");
-  for (const b of d.bets as unknown[]) {
-    if (!isObj(b) || typeof b.id !== "string") fail(rel, "a bet is missing a string `id`");
-    if (typeof b.stake !== "number" || typeof b.odds_decimal !== "number")
-      fail(rel, `bet ${String((b as { id: string }).id)} needs numeric stake & odds_decimal`);
-  }
-};
 export const validatePredictions: Validator<{ generated_at: string | null; predictions: Prediction[] }> = (d, rel) => {
   if (!isObj(d) || !Array.isArray(d.predictions)) fail(rel, "expected { predictions: [...] }");
   for (const p of d.predictions as unknown[]) {
@@ -101,28 +91,6 @@ export interface BookOdds {
   totals?: { over_2_5?: number; under_2_5?: number };
 }
 
-export interface Bet {
-  id: string;
-  placed_at: string;
-  match_id: string;
-  market: string;
-  selection: string;
-  odds_decimal: number;
-  stake: number;
-  source: string;
-  model_edge_pct?: number | null;
-  model_prob?: number | null;
-  rationale?: string;
-  result?: "WIN" | "LOSS" | "PUSH" | "VOID" | null;
-  pnl?: number | null;
-  settled_at?: string | null;
-  /** Closing-line value fields, populated by model/clv.py once the close exists. */
-  closing_odds_decimal?: number | null;
-  closing_fair_prob?: number | null;
-  clv_pct?: number | null;
-  best_book?: string | null;
-}
-
 /** One surfaced value edge from predict.py. Best-price fields are present only
  * when a sportsbook quotes the outcome (see model/predict.py find_edges). */
 export interface Edge {
@@ -134,7 +102,7 @@ export interface Edge {
   model_raw_prob?: number;    // pre-blend (anchored-model) prob
   raw_edge_pct?: number;      // raw gap: model_raw − fair (edge_pct = w · this)
   odds_decimal: number;       // consensus price
-  edge_pct: number;           // STAKED edge: our call − de-vigged consensus = w · raw gap
+  edge_pct: number;           // blended edge: our call − de-vigged consensus = w · raw gap
   best_odds?: number;         // best price across books (line-shopping)
   best_book?: string;
   best_edge_pct?: number;     // realisable edge at the best price (raw)
@@ -432,53 +400,6 @@ export function oddsMovedSincePredictions(
   if (!generatedAt) return false;
   const latest = oddsAsOf(matches);
   return latest != null && latest > generatedAt;
-}
-
-export interface BetsConfig {
-  currency: string;
-  starting_bankroll: number;
-  unit_size: number;
-  kelly_fraction: number;
-  kelly_cap_pct: number;
-  bets: Bet[];
-}
-
-export function loadBets() {
-  return readJson<BetsConfig>("bets/bets.json", {
-    currency: "EUR",
-    starting_bankroll: 0,
-    unit_size: 0,
-    kelly_fraction: 0.25,
-    kelly_cap_pct: 5,
-    bets: [],
-  }, validateBets);
-}
-
-/** Unscaled Kelly fraction f* = (b·p − q)/b; ≤0 means no +EV bet. */
-export function fullKellyFraction(modelProb: number, odds: number): number {
-  if (!odds || odds <= 1 || !(modelProb > 0 && modelProb < 1)) return 0;
-  const b = odds - 1;
-  const f = (b * modelProb - (1 - modelProb)) / b;
-  return f > 0 ? f : 0;
-}
-
-/**
- * Fractional-Kelly stake for one bet, capped at `capPct` of bankroll. Mirrors
- * model/staking.py so the site and the bet-logger agree. Returns the suggested
- * stake and whether the cap bound it.
- */
-export function kellyStake(
-  modelProb: number,
-  odds: number,
-  bankroll: number,
-  fraction = 0.25,
-  capPct = 5,
-): { stake: number; capped: boolean; fullKelly: number } {
-  const fStar = fullKellyFraction(modelProb, odds);
-  const capAmount = (bankroll * capPct) / 100;
-  const raw = bankroll * fStar * fraction;
-  const capped = raw > capAmount;
-  return { stake: Math.round(Math.min(raw, capAmount) * 100) / 100, capped, fullKelly: fStar };
 }
 
 export function loadPredictions() {
@@ -933,92 +854,8 @@ export function bestBookPrices(
   return best;
 }
 
-export function bankrollStats(bets: Bet[]) {
-  const settled = bets.filter((b) => b.result && b.result !== "VOID");
-  const wins = settled.filter((b) => b.result === "WIN").length;
-  const losses = settled.filter((b) => b.result === "LOSS").length;
-  const totalStake = settled.reduce((s, b) => s + b.stake, 0);
-  const pnl = settled.reduce((s, b) => s + (b.pnl ?? 0), 0);
-  const roi = totalStake > 0 ? (pnl / totalStake) * 100 : 0;
-  return { wins, losses, count: settled.length, pnl, roi, totalStake };
-}
-
-export interface PnlPoint {
-  n: number;            // bet number in sequence
-  date: string;
-  pnl: number;          // cumulative realised P/L
-  bankroll: number;     // starting bankroll + cumulative P/L
-  label: string;
-  result: string;
-}
-
-/**
- * Cumulative realised P/L after each settled bet, in chronological order
- * (settled_at, falling back to placed_at). Drives the equity curve. Empty array
- * when nothing has settled yet, so the UI can show a placeholder.
- */
-export function pnlSeries(bets: Bet[], startingBankroll: number): PnlPoint[] {
-  const settled = bets
-    .filter((b) => b.result && b.result !== "VOID" && typeof b.pnl === "number")
-    .sort((a, b) =>
-      (a.settled_at ?? a.placed_at).localeCompare(b.settled_at ?? b.placed_at),
-    );
-  let cum = 0;
-  return settled.map((b, i) => {
-    cum += b.pnl ?? 0;
-    return {
-      n: i + 1,
-      date: (b.settled_at ?? b.placed_at).slice(0, 10),
-      pnl: cum,
-      bankroll: startingBankroll + cum,
-      label: `${b.match_id} ${b.selection}`,
-      result: b.result as string,
-    };
-  });
-}
-
-/** A bet is "model"-driven if it carried a >=5% model edge, else "manual". */
-export function betSource(b: Bet): "model" | "manual" {
-  return typeof b.model_edge_pct === "number" && b.model_edge_pct >= 0.05
-    ? "model"
-    : "manual";
-}
-
-interface PnlSplit {
-  bets: number;
-  pnl: number;
-  stake: number;
-  roi: number | null;
-}
-
-function splitPnl(bets: Bet[], keyFn: (b: Bet) => string): Record<string, PnlSplit> {
-  const out: Record<string, PnlSplit> = {};
-  for (const b of bets) {
-    const k = keyFn(b);
-    const row = (out[k] ??= { bets: 0, pnl: 0, stake: 0, roi: null });
-    row.bets++;
-    row.pnl += b.pnl ?? 0;
-    row.stake += b.stake;
-  }
-  for (const row of Object.values(out)) {
-    row.roi = row.stake > 0 ? (row.pnl / row.stake) * 100 : null;
-  }
-  return out;
-}
-
-/**
- * Closing-line-value + P/L-split stats over the bet log.
- *
- * `beatRate` is the share of CLV-rated bets that beat the de-vigged close
- * (clv_pct > 0); `avgClv` is the mean clv_pct. These only populate once
- * model/clv.py has run against a real closing snapshot, so before any bet is
- * settled they are null and the UI shows an explicit empty state.
- *
- * P/L is also split by SOURCE (model vs manual) and by MARKET so "did the model
- * beat my gut?" and "which markets actually pay?" are both answerable.
- */
-// Two-tailed 95% Student-t critical values by df (mirrors model/clv.py). On a
-// tiny sample the t-interval is the honest one; t≈1.96 beyond df=30.
+// Two-tailed 95% Student-t critical values by df. On a tiny sample the
+// t-interval is the honest one; t≈1.96 beyond df=30.
 const T95: Record<number, number> = {
   1: 12.706, 2: 4.303, 3: 3.182, 4: 2.776, 5: 2.571, 6: 2.447, 7: 2.365,
   8: 2.306, 9: 2.262, 10: 2.228, 11: 2.201, 12: 2.179, 13: 2.16, 14: 2.145,
@@ -1039,12 +876,9 @@ export function meanCI(values: number[]): { mean: number; margin: number; low: n
 }
 
 /**
- * 95% Wilson score interval for a proportion k/n (as PERCENTAGES). This is the
- * honest CI for the CLV beat-rate: a binomial proportion, not a mean — far better
- * behaved on a tiny sample than a normal/t interval (which can run past 0/100%).
- * Returns null for n=0. (quant A3: lead with the beat-rate + its binomial CI rather
- * than the per-bet mean-CLV t-interval, whose variance is heteroskedastic — a couple
- * of longshots dominate it.)
+ * 95% Wilson score interval for a proportion k/n (as PERCENTAGES) — the honest CI
+ * for a hit-rate: a binomial proportion, not a mean, far better behaved on a tiny
+ * sample than a normal/t interval (which can run past 0/100%). Returns null for n=0.
  */
 export function wilsonInterval(k: number, n: number, z = 1.96): { low: number; high: number } | null {
   if (n <= 0) return null;
@@ -1056,28 +890,3 @@ export function wilsonInterval(k: number, n: number, z = 1.96): { low: number; h
   return { low: Math.max(0, (center - half) * 100), high: Math.min(100, (center + half) * 100) };
 }
 
-export function clvStats(bets: Bet[]) {
-  const settled = bets.filter((b) => b.result && b.result !== "VOID");
-  const rated = bets.filter((b) => typeof b.clv_pct === "number");
-  const positive = rated.filter((b) => (b.clv_pct as number) > 0).length;
-  const beatRate = rated.length > 0 ? (positive / rated.length) * 100 : null;
-  const clvValues = rated.map((b) => b.clv_pct as number);
-  const avgClv =
-    rated.length > 0 ? clvValues.reduce((s, v) => s + v, 0) / rated.length : null;
-  // Stake-weighted mean CLV — a more robust point estimate than the plain mean,
-  // which a couple of high-CLV longshots can dominate (quant A3).
-  const stakeSum = rated.reduce((s, b) => s + (b.stake || 0), 0);
-  const stakeWeightedClv =
-    stakeSum > 0 ? rated.reduce((s, b) => s + (b.stake || 0) * (b.clv_pct as number), 0) / stakeSum : null;
-  return {
-    rated: rated.length,
-    positive,
-    beatRate,
-    beatRateCI: wilsonInterval(positive, rated.length),  // lead metric: binomial CI
-    avgClv,
-    avgClvCI: meanCI(clvValues),
-    stakeWeightedClv,
-    bySource: splitPnl(settled, betSource),
-    byMarket: splitPnl(settled, (b) => b.market),
-  };
-}

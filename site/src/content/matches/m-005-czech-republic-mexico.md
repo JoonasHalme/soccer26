@@ -18,7 +18,7 @@ Group A, matchday 3 at Estadio Azteca in Mexico City. A final-round fixture wher
 
 **Model view.** Mexico **18% / 24% / 58%** (home/draw/away), xG **0.84–1.71**, BTTS 46%, Under 2.5 53%. A clear away (Mexico) lean.
 
-**Betting angle.** No edge flagged — the market (Mexico ~1.86) matches the model. The wildcard is rotation: a qualified Mexico resting starters is the scenario that injects value into the Czech and draw prices, but that's a lineup read, not a model read.
+**Model vs market.** No edge flagged — the market (Mexico ~1.86) matches the model. The wildcard is rotation: a qualified Mexico resting starters is the scenario that injects value into the Czech and draw prices, but that's a lineup read, not a model read.
 
 - **Under 2.5** at 1.65 — model 53%, fair ~1.89; altitude tends to suppress late scoring
 - **Draw** at 3.44 — model 24%, fair ~4.17, the value pocket if Mexico are rotating

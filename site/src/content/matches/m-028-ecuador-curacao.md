@@ -18,7 +18,7 @@ Group E, matchday 2 at Arrowhead Stadium in Kansas City. Ecuador are strong favo
 
 **Model view.** Ecuador **75% / 17% / 7%**, xG **2.08–0.47**, BTTS 33%, Under 2.5 53%. Ecuador heavily favoured.
 
-**Betting angle.** The flagged edge is the under, not the win. Under 2.5 at 2.23 implies 45% but the model gives 53% — an 8.3% edge. A controlled win over a deep block keeps the total down.
+**Model vs market.** The flagged edge is the under, not the win. Under 2.5 at 2.23 implies 45% but the model gives 53% — an 8.3% edge. A controlled win over a deep block keeps the total down.
 
 - **Under 2.5** at 2.23 — model 53%, fair ~1.89; the flagged value
 - **Ecuador -1 AH** ~1.7 — the 75% win plus xG margin supports a one-goal cushion

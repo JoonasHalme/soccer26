@@ -18,7 +18,7 @@ Group G, matchday 3 at Lumen Field in Seattle. Two of the group's strongest side
 
 **Model view.** Iran **25% / 26% / 49%** (home/draw/away), xG **1.02–1.53**, BTTS 50%, Under 2.5 53%. Iran-leaning.
 
-**Betting angle.** The data flags two edges. Iran at 3.30 implies 30% but the model gives 49% — an 18.9% edge, the standout. There's also a smaller over-2.5 edge worth noting.
+**Model vs market.** The data flags two edges. Iran at 3.30 implies 30% but the model gives 49% — an 18.9% edge, the standout. There's also a smaller over-2.5 edge worth noting.
 
 - **Iran ML** at 3.30 — model 49%, fair ~2.04; the headline value
 - **Over 2.5** at 2.43 — model 47%, implied 41%, a 5.7% edge; two attacking sides who may need goals

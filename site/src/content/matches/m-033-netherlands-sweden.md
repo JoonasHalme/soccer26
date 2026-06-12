@@ -18,7 +18,7 @@ Group F, matchday 2 at NRG Stadium in Houston. The Netherlands are the group's s
 
 **Model view.** Netherlands **67% / 21% / 12%**, xG **1.89–0.66**, BTTS 41%, Under 2.5 53%. Netherlands firmly favoured.
 
-**Betting angle.** The data flags a modest edge on the Netherlands: 1.65 implies 61% but the model gives 67% — a 5.9% edge. Real but not large.
+**Model vs market.** The data flags a modest edge on the Netherlands: 1.65 implies 61% but the model gives 67% — a 5.9% edge. Real but not large.
 
 - **Netherlands ML** at 1.65 — model 67%, fair ~1.49; the flagged value
 - **Netherlands -0.5 AH** = the straight win, 67%, same fair ~1.49

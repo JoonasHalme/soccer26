@@ -18,7 +18,7 @@ Group D, matchday 2 at Lumen Field in Seattle. Co-host USA carry the crowd, but 
 
 **Model view.** USA **36% / 27% / 37%** (home/draw/away), xG **1.26–1.29**, BTTS 52%, Under 2.5 53%. A dead-even game the model tilts faintly toward Australia.
 
-**Betting angle.** The data flags Australia as the edge: 4.67 implies 21% but the model gives 37% — a 15.9% edge, driven by the market over-weighting the US home crowd.
+**Model vs market.** The data flags Australia as the edge: 4.67 implies 21% but the model gives 37% — a 15.9% edge, driven by the market over-weighting the US home crowd.
 
 - **Australia ML** at 4.67 — model 37%, fair ~2.70; a sizeable flagged edge
 - **Draw** at 3.73 — model 27%, fair ~3.70, roughly fair and live in a coin-flip

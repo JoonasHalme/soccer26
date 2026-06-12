@@ -18,11 +18,11 @@ Group I, matchday 2 at Lincoln Financial Field in Philadelphia. France are overw
 
 **Model view.** France **65% / 22% / 13%**, xG **1.86–0.69**, BTTS 42%, Under 2.5 53%. France favoured but the win number sits far below 1.12.
 
-**Betting angle.** The data flags three edges — and the win is NOT one of them. The book has France at ~89% implied; the model says 65%. The value is the under, the draw, and even the Iraq win at long prices.
+**Model vs market.** The data flags three edges — and the win is NOT one of them. The book has France at ~89% implied; the model says 65%. The value is the under, the draw, and even the Iraq win at long prices.
 
 - **Under 2.5** at 2.40 — model 53%, implied 42%, an 11.4% edge; if France control rather than rout, this is the play
 - **Draw** at 8.30 — model 22%, implied 12%, a 9.5% edge; rotation/complacency makes this live
-- **Iraq ML** at 23.00 — model 13%, implied 4%, an 8.8% edge; a tiny-stake lottery with real model backing
+- **Iraq ML** at 23.00 — model 13%, implied 4%, an 8.8% edge; a tiny-probability longshot with real model backing
 
 Avoid: France ML at 1.12 (model only 65% — a severe over-price), France -2.5 chasing a blowout the xG doesn't project.
 

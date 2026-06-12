@@ -19,7 +19,7 @@ Group I's marquee opener at MetLife Stadium. Prime-time slot. Both teams arrive 
 
 **Model view.** France **41% / 27% / 33%**, xG **1.36–1.19**, BTTS 52%. The closest top-tier match of matchdays 1–7.
 
-**Betting angle.** The market will price France around 1.85-1.95 ML and Senegal around 4.50–5.00 — both wrong relative to the model. Where to find edge:
+**Model vs market.** The market will price France around 1.85-1.95 ML and Senegal around 4.50–5.00 — both wrong relative to the model. Where to find edge:
 
 - **Senegal ML** at 3.80+ — model 33%, fair ~3.03, common public underpricing of African sides
 - **Draw** at 3.40+ — model 27%, fair ~3.70
@@ -28,4 +28,4 @@ Group I's marquee opener at MetLife Stadium. Prime-time slot. Both teams arrive 
 
 Avoid: France -1.5 AH (only ~22% probability), France ML under 2.20.
 
-**This is the second-best ML value bet of the matchday after Egypt.** Senegal at 4.00+ should be a real position size.
+**This is the second-best ML value pick of the matchday after Egypt.** Senegal at 4.00+ should be a real position size.

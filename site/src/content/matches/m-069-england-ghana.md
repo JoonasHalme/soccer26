@@ -18,7 +18,7 @@ Group L, matchday 2 at Gillette Stadium in Foxborough. England are the clear gro
 
 **Model view.** England **82% / 14% / 4%**, xG **2.25–0.30**, BTTS 23%, Under 2.5 53%. Heavily England.
 
-**Betting angle.** The data flags two small edges — England to win and the under. England at 1.33 implies 75% but the model gives 82% (a 7.0% edge); the under at 2.12 implies 47% but the model gives 53% (a 5.9% edge).
+**Model vs market.** The data flags two small edges — England to win and the under. England at 1.33 implies 75% but the model gives 82% (a 7.0% edge); the under at 2.12 implies 47% but the model gives 53% (a 5.9% edge).
 
 - **England ML** at 1.33 — model 82%, fair ~1.22; a small but genuine edge
 - **Under 2.5** at 2.12 — model 53%, fair ~1.89; a control job over a deep Ghana keeps the total down

@@ -18,7 +18,7 @@ Group D, matchday 3 at Levi's Stadium in Santa Clara. A final-round fixture that
 
 **Model view.** Australia **12% / 21% / 67%** (home/draw/away), xG **0.64–1.91**, BTTS 40%, Under 2.5 53%. Firmly Australia.
 
-**Betting angle.** The data flags Australia as the edge: 3.40 implies 29% but the model gives 67% — a 38.1% edge, the largest single edge across all these fixtures. The market is dramatically underrating the gap.
+**Model vs market.** The data flags Australia as the edge: 3.40 implies 29% but the model gives 67% — a 38.1% edge, the largest single edge across all these fixtures. The market is dramatically underrating the gap.
 
 - **Australia ML** at 3.40 — model 67%, fair ~1.49; the headline value of the matchday
 - **Australia -0.5 AH** = the straight win, 67%, same fair ~1.49

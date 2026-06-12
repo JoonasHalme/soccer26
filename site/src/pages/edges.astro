@@ -5,11 +5,8 @@ import LocalTime from "../components/LocalTime.astro";
 import {
   loadFixtures,
   loadPredictions,
-  loadBets,
   allEdges,
   selectionLabel,
-  bankrollStats,
-  kellyStake,
   pct1,
 } from "../lib/data";
 
@@ -17,38 +14,18 @@ const { matches } = loadFixtures();
 const { predictions, generated_at } = loadPredictions();
 const edges = allEdges(predictions, matches);
 
-const cfg = loadBets();
-const bankroll = cfg.starting_bankroll + bankrollStats(cfg.bets).pnl;
-const kellyPct = Math.round(cfg.kelly_fraction * 100);
-
 const pct = (n: number) => `${pct1(n)}%`;
-const money = (n: number) => `${n.toFixed(2)} ${cfg.currency}`;
 
 // Markets present, for the filter chips.
 const markets = [...new Set(edges.map((e) => e.market))];
 
 const withBest = edges.filter((e) => e.best_odds).length;
-
-// Portfolio exposure: the suggested fractional-Kelly stake summed across *every*
-// surfaced edge. This is the ceiling — taking them all is heavily correlated and
-// over-commits the bankroll — so it's framed as the universe to select from, not
-// a portfolio to back wholesale. Staking is the spine of the page; total exposure
-// was never shown until now.
-const stakes = edges
-  .map((e) => kellyStake(
-    e.model_prob, e.best_odds ?? e.odds_decimal, bankroll,
-    cfg.kelly_fraction, cfg.kelly_cap_pct,
-  ))
-  .filter((k) => k.stake > 0);
-const openCount = stakes.length;
-const totalStake = stakes.reduce((s, k) => s + k.stake, 0);
-const exposurePct = bankroll > 0 ? (totalStake / bankroll) * 100 : 0;
 ---
-<Base title="Value edges — Soccer 26">
+<Base title="Where the model disagrees with the market — Soccer 26">
   <div class="edges-head">
     <div>
-      <p class="eyebrow">Line-shopping</p>
-      <h1>Value edges</h1>
+      <p class="eyebrow">Model vs market</p>
+      <h1>Where the model disagrees with the market</h1>
       <p class="meta">
         {edges.length} model edges over threshold across {predictions.length} priced matches ·
         {withBest} with a best-book price
@@ -61,15 +38,14 @@ const exposurePct = bankroll > 0 ? (totalStake / bankroll) * 100 : 0;
     <strong>How to read this.</strong> <span class="subtle">Our call</span> is the
     confederation-anchored model probability <em>blended toward</em> the market. The green
     <span class="subtle">Edge %</span> is that call vs. the <Tooltip term="de-vigged" def="Bookmaker odds carry a margin (the vig). De-vigging rescales a market's implied probabilities to sum to 1, giving the market's true fair price." /> consensus
-    price — the <em>staked</em> edge you'd actually bet. The small <span class="subtle">raw</span>
-    figure next to it is the model's full pre-blend disagreement: <b>staked edge = trust ×
-    raw gap</b>, where trust shrinks as the model strays from the market, so a big raw gap can
-    still leave a small (or no) staked edge. We size off the staked edge, never the raw gap. <span class="subtle">Best price</span> is the highest odds any tracked book
-    offers, and <span class="subtle">EV</span> is the expected return per unit
-    <em>at that best price</em>. Sort by Edge to find genuine disagreements; sort by EV to
-    see what pays most at the price you can actually take (longshots inflate EV — size with
-    <Tooltip term="Kelly" def="A bankroll-aware bet size proportional to the edge and the odds. We use a capped fractional (¼) Kelly to stay conservative on an uncertain edge." />, not gut). <span class="subtle">Stake</span> is the {kellyPct}%-Kelly suggestion
-    off a {money(bankroll)} bankroll, capped at {cfg.kelly_cap_pct}%.
+    price — how far our number differs from the market's fair price. The small <span class="subtle">raw</span>
+    figure next to it is the model's full pre-blend disagreement: <b>edge = trust × raw gap</b>,
+    where trust shrinks as the model strays from the market, so a big raw gap can still leave a
+    small edge. <span class="subtle">Best price</span> is the highest odds any tracked book
+    offers, and <span class="subtle">EV</span> is the model's expected value per unit
+    <em>at that best price</em>. Sort by Edge to find the biggest disagreements; sort by EV to
+    see where the model rates the price most generous (long prices inflate EV — read it with
+    care). This is analysis of where our numbers diverge from the market — not betting advice.
   </div>
 
   {edges.length === 0 ? (
@@ -81,30 +57,6 @@ const exposurePct = bankroll > 0 ? (totalStake / bankroll) * 100 : 0;
     </div>
   ) : (
     <>
-      <div class="panel exposure" aria-label="Portfolio exposure summary">
-        <div class="exp-stats">
-          <div class="exp-stat">
-            <span class="exp-val">{openCount}</span>
-            <span class="exp-lab">open edges</span>
-          </div>
-          <div class="exp-stat">
-            <span class="exp-val">{money(totalStake)}</span>
-            <span class="exp-lab">total {kellyPct}%-Kelly stake</span>
-          </div>
-          <div class="exp-stat">
-            <span class={`exp-val ${exposurePct > 100 ? "over" : ""}`}>{pct1(exposurePct)}%</span>
-            <span class="exp-lab">of {money(bankroll)} bankroll</span>
-          </div>
-        </div>
-        <p class="exp-note subtle">
-          That's the suggested stake on <em>every</em> surfaced edge added up — the
-          ceiling, not a portfolio to back wholesale. These bets are correlated and
-          {exposurePct > 100 ? " exceed the bankroll several times over" : " over-commit it"};
-          treat the list as the universe to select from. Each stake is {kellyPct}% Kelly,
-          capped at {cfg.kelly_cap_pct}%.
-        </p>
-      </div>
-
       <div class="edge-controls" role="group" aria-label="Filter and sort edges">
         <div class="filters">
           <button class="chip is-on" data-market="ALL" aria-pressed="true">All markets</button>
@@ -136,19 +88,14 @@ const exposurePct = bankroll > 0 ? (totalStake / bankroll) * 100 : 0;
               <th class="num">Edge</th>
               <th>Best price</th>
               <th class="num">EV</th>
-              <th class="num stake-col" title="Kelly-sized suggestion — the honest sizing signal">Stake</th>
               <th>Kickoff</th>
             </tr>
           </thead>
           <tbody>
             {edges.map((e) => {
               const priceForStake = e.best_odds ?? e.odds_decimal;
-              const k = kellyStake(
-                e.model_prob, priceForStake, bankroll,
-                cfg.kelly_fraction, cfg.kelly_cap_pct,
-              );
               // Presentation-only longshot cue: low model confidence or long price,
-              // where raw EV flatters the bet. Size with Kelly, not EV.
+              // where raw EV flatters the number.
               const isLongshot = e.model_prob < 0.25 || (priceForStake != null && priceForStake >= 4.0);
               return (
               <tr
@@ -166,7 +113,7 @@ const exposurePct = bankroll > 0 ? (totalStake / bankroll) * 100 : 0;
                 <td class="num" data-label="Edge">
                   <span class="badge badge-edge">+{pct1(e.edge_pct)}%</span>
                   {e.raw_edge_pct != null && (
-                    <span class="raw-gap" title={`Raw model−market gap before the blend. Staked edge = trust × raw gap; here ${pct1(e.edge_pct)}% ≈ ${Math.round((e.edge_pct / e.raw_edge_pct) * 100)}% × ${pct1(e.raw_edge_pct)}%.`}>raw +{pct1(e.raw_edge_pct)}%</span>
+                    <span class="raw-gap" title={`Raw model−market gap before the blend. Edge = trust × raw gap; here ${pct1(e.edge_pct)}% ≈ ${Math.round((e.edge_pct / e.raw_edge_pct) * 100)}% × ${pct1(e.raw_edge_pct)}%.`}>raw +{pct1(e.raw_edge_pct)}%</span>
                   )}
                 </td>
                 <td data-label="Best price">
@@ -186,16 +133,7 @@ const exposurePct = bankroll > 0 ? (totalStake / bankroll) * 100 : 0;
                     <span class="subtle">—</span>
                   )}
                   {isLongshot && (
-                    <span class="longshot" title={`Longshot — model ${pct(e.model_prob * 100)} at ${priceForStake?.toFixed(2)}. Raw EV flatters long prices; size with Kelly.`}>longshot</span>
-                  )}
-                </td>
-                <td class="num stake-col" data-label="Stake">
-                  {k.stake > 0 ? (
-                    <span class="stake" title={`${kellyPct}% Kelly at ${priceForStake?.toFixed(2)}${k.capped ? " · capped" : ""}`}>
-                      {money(k.stake)}{k.capped && <span class="cap">cap</span>}
-                    </span>
-                  ) : (
-                    <span class="subtle">—</span>
+                    <span class="longshot" title={`Longshot — model ${pct(e.model_prob * 100)} at ${priceForStake?.toFixed(2)}. Raw EV flatters long prices; read it with care.`}>longshot</span>
                   )}
                 </td>
                 <td class="meta" data-label="Kickoff"><LocalTime iso={e.kickoff} fmt="datetime" /></td>
@@ -264,19 +202,6 @@ const exposurePct = bankroll > 0 ? (totalStake / bankroll) * 100 : 0;
   .callout { border-left: 3px solid var(--accent-line); font-size: 0.9rem; line-height: 1.6; }
   .callout em { color: var(--fg); font-style: normal; font-weight: 600; }
 
-  /* Portfolio exposure strip — total Kelly stake across all surfaced edges. */
-  .exposure { margin-top: 1.1rem; display: flex; flex-direction: column; gap: 0.7rem; }
-  .exp-stats { display: flex; flex-wrap: wrap; gap: 1rem 2.4rem; }
-  .exp-stat { display: flex; flex-direction: column; gap: 0.1rem; }
-  .exp-val {
-    font-family: var(--font-mono); font-weight: 600; font-size: 1.45rem;
-    color: var(--fg); font-variant-numeric: tabular-nums slashed-zero; letter-spacing: -0.02em;
-  }
-  .exp-val.over { color: var(--warn); }
-  .exp-lab { font-family: var(--font-mono); font-size: 0.7rem; color: var(--muted-2); text-transform: uppercase; letter-spacing: 0.06em; font-weight: 600; }
-  .exp-note { font-size: 0.82rem; line-height: 1.55; margin: 0; }
-  .exp-note em { color: var(--fg); font-style: normal; font-weight: 600; }
-
   .edge-controls {
     display: flex; flex-wrap: wrap; gap: 0.8rem 1rem;
     align-items: center; justify-content: space-between;
@@ -306,16 +231,5 @@ const exposurePct = bankroll > 0 ? (totalStake / bankroll) * 100 : 0;
     color: var(--warn); border: 1px solid var(--warn-line);
     background: var(--warn-soft); border-radius: var(--radius-sm);
     padding: 0.04rem 0.4rem; white-space: nowrap;
-  }
-
-  /* Stake is the honest sizing signal — emphasize the whole column. */
-  .stake-col { background: var(--accent-soft); }
-  th.stake-col { color: var(--accent); }
-  .stake { font-variant-numeric: tabular-nums; white-space: nowrap; font-weight: 600; color: var(--fg); }
-  .stake .cap {
-    margin-left: 0.35rem; font-size: 0.66rem; font-weight: 700;
-    color: var(--warn); border: 1px solid var(--warn-line);
-    background: var(--warn-soft); border-radius: var(--radius-sm); padding: 0.02rem 0.32rem;
-    vertical-align: 1px;
   }
 </style>

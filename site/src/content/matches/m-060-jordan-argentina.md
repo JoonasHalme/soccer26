@@ -18,7 +18,7 @@ Group J, matchday 3 at AT&T Stadium in Arlington. Argentina are heavy favourites
 
 **Model view.** Argentina **8% / 18% / 74%** (home/draw/away), xG **0.50–2.05**, BTTS 35%, Under 2.5 53%. Firmly Argentina.
 
-**Betting angle.** The flagged edge is the under, not the win — the ML at 1.17 is roughly fair. Under 2.5 at 2.34 implies 43% but the model gives 53% — a 10.4% edge. A control job over a deep block keeps the total down.
+**Model vs market.** The flagged edge is the under, not the win — the ML at 1.17 is roughly fair. Under 2.5 at 2.34 implies 43% but the model gives 53% — a 10.4% edge. A control job over a deep block keeps the total down.
 
 - **Under 2.5** at 2.34 — model 53%, implied 43%, a 10.4% edge; the clear value
 - **Argentina -1 AH** ~1.6 — the 2.05–0.50 xG margin supports a one-goal cushion

@@ -18,7 +18,7 @@ Group L opener at AT&T Stadium. Two semi-finalists from the past two World Cups,
 
 **Model view.** England **54% / 25% / 21%**, xG **1.62–0.93**, BTTS 48%. England favoured but tighter than the public will price.
 
-**Betting angle.** England ML will sit around 1.65–1.75. Model fair is ~1.85. Slight value but not screaming. The market will be efficient on the headline.
+**Model vs market.** England ML will sit around 1.65–1.75. Model fair is ~1.85. Slight value but not screaming. The market will be efficient on the headline.
 
 - **Draw** at 3.40+ — model 25%, fair ~4.00, often value when public anchors on the big name
 - **Croatia +0.5 AH** at 1.85+ — combined Croatia-win + draw = 46%, fair ~2.17

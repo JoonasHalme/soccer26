@@ -19,7 +19,7 @@ The marquee fixture of the opening week. Two of the four teams that reached the 
 
 **Model view.** **Morocco favoured: 25% / 26% / 49%**, xG **1.02–1.53**, O2.5 47%, BTTS 50%. Both teams play styles that produce close, tactical matches — the model's draw probability of 26% is high and arguably should be even higher.
 
-**Betting angle.** This is the match of Day 3 and probably the most-bet game of the group stage. The market will be efficient — sharp money will be on it from the moment lines drop. Where there might still be edge:
+**Model vs market.** This is the match of Day 3 and probably the most-watched game of the group stage. The market will be efficient — sharp money will be on it from the moment lines drop. Where there might still be edge:
 
 - **Morocco draw no bet** at 2.20+ — combined Morocco-win + draw = 75% model probability, fair price ~1.33; if any book misses on the DNB, take it
 - **Draw** at 3.40+ — model 26%, fair ~3.85, mass market will push it shorter than fair as bettors gravitate to one side or the other

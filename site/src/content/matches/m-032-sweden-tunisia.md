@@ -18,7 +18,7 @@ Group F's other Day 4 opener, played in Monterrey. Late kickoff (8pm local). Neu
 
 **Model view.** Tunisia **21% / 25% / 54%**, xG **0.93–1.62**, BTTS 48%. The model has Tunisia as the meaningful favourite.
 
-**Betting angle.** I am genuinely conflicted on this match. The Elo is internally consistent — Sweden's results over the past two years have been awful and Tunisia's have been decent. But Sweden still has the kind of front-line talent that wins single matches against organised African mid-blocks. The model says 21%; my honest read says 30–35%.
+**Model vs market.** I am genuinely conflicted on this match. The Elo is internally consistent — Sweden's results over the past two years have been awful and Tunisia's have been decent. But Sweden still has the kind of front-line talent that wins single matches against organised African mid-blocks. The model says 21%; my honest read says 30–35%.
 
 If you bet this match at all:
 

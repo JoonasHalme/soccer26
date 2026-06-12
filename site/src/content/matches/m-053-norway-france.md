@@ -18,7 +18,7 @@ Group I, matchday 3 at Gillette Stadium in Foxborough. Two of the group's strong
 
 **Model view.** France **24% / 25% / 51%** (home/draw/away), xG **0.98–1.57**, BTTS 49%, Under 2.5 53%. France-leaning but competitive.
 
-**Betting angle.** No edge flagged — the market sits right on the model. This is an efficient line, so the value is in the derivatives rather than the headline.
+**Model vs market.** No edge flagged — the market sits right on the model. This is an efficient line, so the value is in the derivatives rather than the headline.
 
 - **Under 2.5** at 1.79 — model 53%, fair ~1.89; roughly fair and live in a cagey decider
 - **Draw** at 3.55 — model 25%, fair ~4.00, the value pocket if both play cautiously

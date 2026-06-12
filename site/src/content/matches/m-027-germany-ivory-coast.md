@@ -18,7 +18,7 @@ Group E, matchday 2 at BMO Field in Toronto. Germany carry the brand and the sho
 
 **Model view.** Germany **36% / 27% / 37%** (home/draw/away), xG **1.27–1.28**, BTTS 52%, Under 2.5 53%. As even as it gets, with a faint Ivorian tilt.
 
-**Betting angle.** The data flags the Ivory Coast as the edge: 5.78 implies 17% but the model gives 37% — a 19.8% edge, driven entirely by the market over-weighting the German name.
+**Model vs market.** The data flags the Ivory Coast as the edge: 5.78 implies 17% but the model gives 37% — a 19.8% edge, driven entirely by the market over-weighting the German name.
 
 - **Ivory Coast ML** at 5.78 — model 37%, fair ~2.70; the headline value of the fixture
 - **Draw** at 4.20 — model 27%, fair ~3.70; live in a coin-flip the market prices as lopsided

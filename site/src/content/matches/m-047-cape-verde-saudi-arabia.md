@@ -18,7 +18,7 @@ Group H, matchday 3 at NRG Stadium in Houston. With Spain expected to top the gr
 
 **Model view.** Cape Verde **45% / 26% / 28%**, xG **1.45–1.10**, BTTS 51%, Under 2.5 53%. A close game with a faint home lean.
 
-**Betting angle.** The data flags a modest edge on Cape Verde: 2.60 implies 38% but the model gives 45% — a 6.9% edge. Real but not large in a tight game.
+**Model vs market.** The data flags a modest edge on Cape Verde: 2.60 implies 38% but the model gives 45% — a 6.9% edge. Real but not large in a tight game.
 
 - **Cape Verde ML** at 2.60 — model 45%, fair ~2.22; the flagged value
 - **Draw** at 3.20 — model 26%, fair ~3.85, live and underpriced in a coin-flip

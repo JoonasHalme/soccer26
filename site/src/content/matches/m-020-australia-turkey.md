@@ -18,7 +18,7 @@ Group D's second match on Day 3, late kickoff at BC Place. Neutral for both — 
 
 **Model view.** Australia **43% / 26% / 31%**, xG **1.40–1.15**, O2.5 47%, BTTS 51%. A genuine pick'em with a slight Australia lean from being listed first (no actual venue advantage applied).
 
-**Betting angle.** This is the kind of match the model is best at — small Elo gap, neutral venue, no home boost distorting things. The numbers are basically fair, which means the market won't be far off either.
+**Model vs market.** This is the kind of match the model is best at — small Elo gap, neutral venue, no home boost distorting things. The numbers are basically fair, which means the market won't be far off either.
 
 - **Draw** at 3.30+ — model 26%, fair ~3.85, often pushed shorter than fair on tactical-vs-tactical matchups
 - **BTTS-Yes** at 2.00+ — model 51%, fair ~1.96, marginal but +EV

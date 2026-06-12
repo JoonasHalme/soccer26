@@ -18,7 +18,7 @@ Group F, matchday 3 at AT&T Stadium in Arlington. Japan are the group's class si
 
 **Model view.** Japan **80% / 15% / 5%**, xG **2.18–0.37**, BTTS 27%, Under 2.5 53%. Heavily Japan.
 
-**Betting angle.** The data flags Japan as the edge: 2.05 implies 49% but the model gives 80% — a 30.8% edge, the largest in this fixture. The market is badly underrating the gap, likely pricing in rotation risk.
+**Model vs market.** The data flags Japan as the edge: 2.05 implies 49% but the model gives 80% — a 30.8% edge, the largest in this fixture. The market is badly underrating the gap, likely pricing in rotation risk.
 
 - **Japan ML** at 2.05 — model 80%, fair ~1.25; the headline value if Japan field a strong XI
 - **Japan -1 AH** ~1.7 — the 2.18–0.37 xG margin supports a clear winning margin
@@ -26,4 +26,4 @@ Group F, matchday 3 at AT&T Stadium in Arlington. Japan are the group's class si
 
 Avoid: Sweden ML (5%), over 2.5 chasing a rout (a controlled 2–0 keeps the total down), laying Japan on a handicap.
 
-**Japan at 2.05 against an 80% model probability is the standout edge in Group F — but the price screams rotation risk.** This bet lives or dies on Japan fielding their first-choice attack; confirm the lineup before stacking it.
+**Japan at 2.05 against an 80% model probability is the standout edge in Group F — but the price screams rotation risk.** This call lives or dies on Japan fielding their first-choice attack; confirm the lineup before stacking it.

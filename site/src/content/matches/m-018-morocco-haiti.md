@@ -18,7 +18,7 @@ Group C, matchday 3 at Mercedes-Benz Stadium in Atlanta. Morocco are the group's
 
 **Model view.** Morocco **71% / 20% / 10%**, xG **1.97–0.58**, BTTS 38%, Under 2.5 53%. Morocco firmly favoured.
 
-**Betting angle.** The flagged edge is the under, not the win. Under 2.5 at 2.17 implies 46% but the model gives 53% — a 7% edge. Morocco controlling rather than overwhelming is the projected script.
+**Model vs market.** The flagged edge is the under, not the win. Under 2.5 at 2.17 implies 46% but the model gives 53% — a 7% edge. Morocco controlling rather than overwhelming is the projected script.
 
 - **Under 2.5** at 2.17 — model 53%, fair ~1.89; the flagged value
 - **Morocco -1 AH** ~1.8 — the 71% win plus xG margin makes a one-goal cushion live

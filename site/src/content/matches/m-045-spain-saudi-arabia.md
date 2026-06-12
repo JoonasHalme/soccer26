@@ -18,7 +18,7 @@ Group H, matchday 2 at Mercedes-Benz Stadium in Atlanta. Spain are overwhelming 
 
 **Model view.** Spain **89% / 10% / 1%**, xG **2.43–0.12**, BTTS 10%, Under 2.5 53%. Heavily Spain.
 
-**Betting angle.** The flagged edge is the under, not the win — the ML at 1.10 is fairly priced (model 89%). Under 2.5 at 2.50 implies 40% but the model gives 53% — a 13.1% edge. A Spain control job over a parked bus keeps the total down.
+**Model vs market.** The flagged edge is the under, not the win — the ML at 1.10 is fairly priced (model 89%). Under 2.5 at 2.50 implies 40% but the model gives 53% — a 13.1% edge. A Spain control job over a parked bus keeps the total down.
 
 - **Under 2.5** at 2.50 — model 53%, implied 40%, a 13.1% edge; the clear value
 - **Spain -1.5 AH** ~1.5 — the 2.43–0.12 xG margin supports a comfortable multi-goal win

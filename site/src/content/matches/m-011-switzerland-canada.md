@@ -18,7 +18,7 @@ Group B, matchday 3 at BC Place in Vancouver. The two clear class sides of the g
 
 **Model view.** Switzerland **36% / 27% / 37%** (home/draw/away), xG **1.26–1.29**, BTTS 52%, Under 2.5 53%. As even as group games get.
 
-**Betting angle.** The flagged edge is on Canada: 3.50 implies 29% but the model gives 37% — an 8.7% edge, driven by home advantage the away-side framing under-prices.
+**Model vs market.** The flagged edge is on Canada: 3.50 implies 29% but the model gives 37% — an 8.7% edge, driven by home advantage the away-side framing under-prices.
 
 - **Canada ML** at 3.50 — model 37%, fair ~2.70; the value side of a dead-even game
 - **Draw** at 3.30 — model 27%, fair ~3.70, live in a tight top-spot decider

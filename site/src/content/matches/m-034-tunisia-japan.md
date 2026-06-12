@@ -18,7 +18,7 @@ Group F, matchday 2 at Estadio BBVA in Monterrey. Japan arrive as one of the str
 
 **Model view.** Japan **14% / 22% / 64%** (home/draw/away), xG **0.72–1.83**, BTTS 43%, Under 2.5 53%. Firmly Japan.
 
-**Betting angle.** The data flags a modest edge on Japan: 1.75 implies 57% but the model gives 64% — a 6.9% edge. Real and worth backing at the price.
+**Model vs market.** The data flags a modest edge on Japan: 1.75 implies 57% but the model gives 64% — a 6.9% edge. Real and worth backing at the price.
 
 - **Japan ML** at 1.75 — model 64%, fair ~1.56; the flagged value
 - **Japan -0.5 AH** = the straight win, 64%, same fair ~1.56

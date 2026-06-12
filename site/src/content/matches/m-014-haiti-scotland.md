@@ -18,7 +18,7 @@ Group C's second game on Day 3, late kickoff at Gillette Stadium. Neutral venue,
 
 **Model view.** Haiti **54% / 25% / 22%**, xG **1.62–0.93**, O2.5 47%, BTTS 49%. **I do not trust the favouriteship.** This is one of those cases where the Elo is a fair rating of the result distribution but a poor predictor of this particular fixture, because Haiti's rating was earned against a different quality of opposition than they're about to face.
 
-**Betting angle.** Treat this as roughly a coin flip in your head, with a slight Scotland lean if anything. That means:
+**Model vs market.** Treat this as roughly a coin flip in your head, with a slight Scotland lean if anything. That means:
 
 - **Scotland +0.5 AH** at any price 1.85+ is good value (model says Scotland-win + draw = 47%, but I'd manually adjust to 55%+)
 - **Draw** at 3.20+ is interesting — 25% model, possibly higher in truth as both sides defend deep

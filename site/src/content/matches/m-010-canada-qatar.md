@@ -18,7 +18,7 @@ Group B, matchday 2 at BC Place in Vancouver. Co-host Canada play at home with a
 
 **Model view.** Canada **88% / 11% / 2%**, xG **2.40–0.15**, BTTS 13%, Under 2.5 53%. Heavily one-sided.
 
-**Betting angle.** The data flags Canada as the edge: 1.33 implies 75% but the model gives 88% — a 12.4% edge. Even at a short price the favourite is value.
+**Model vs market.** The data flags Canada as the edge: 1.33 implies 75% but the model gives 88% — a 12.4% edge. Even at a short price the favourite is value.
 
 - **Canada ML** at 1.33 — model 88%, fair ~1.14; the flagged value
 - **Canada -1.5 AH** around 1.7–1.8 — the 2.40–0.15 xG margin supports a comfortable multi-goal win

@@ -18,7 +18,7 @@ Group K, matchday 2 at NRG Stadium in Houston. Portugal carry the brand and the 
 
 **Model view.** Portugal **51% / 25% / 24%**, xG **1.57–0.98**, BTTS 50%, Under 2.5 53%. Portugal-leaning but far from a lock.
 
-**Betting angle.** The data flags three edges. Uzbekistan at 11.00 implies 9% but the model gives 24% — a 14.7% edge, the standout. The under and the draw are also flagged.
+**Model vs market.** The data flags three edges. Uzbekistan at 11.00 implies 9% but the model gives 24% — a 14.7% edge, the standout. The under and the draw are also flagged.
 
 - **Uzbekistan ML** at 11.00 — model 24%, fair ~4.17; the headline value as the badly-underrated dog
 - **Under 2.5** at 2.40 — model 53%, implied 42%, an 11.4% edge

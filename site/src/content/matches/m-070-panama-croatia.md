@@ -18,7 +18,7 @@ Group L, matchday 2 at BMO Field in Toronto. With England the clear group favour
 
 **Model view.** Croatia **31% / 26% / 43%** (home/draw/away), xG **1.15–1.40**, BTTS 51%, Under 2.5 53%. Croatia-leaning but live for both other results.
 
-**Betting angle.** The data flags Panama as the edge: 7.00 implies 14% but the model gives 31% — a 16.4% edge, driven by the market over-weighting Croatia's name and under-rating a strong home side.
+**Model vs market.** The data flags Panama as the edge: 7.00 implies 14% but the model gives 31% — a 16.4% edge, driven by the market over-weighting Croatia's name and under-rating a strong home side.
 
 - **Panama ML** at 7.00 — model 31%, fair ~3.23; the headline value as the underrated home dog
 - **Draw** at 4.05 — model 26%, fair ~3.85, roughly fair and live

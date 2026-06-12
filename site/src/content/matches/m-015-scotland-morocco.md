@@ -18,7 +18,7 @@ Group C, matchday 2 at Gillette Stadium in Foxborough. Morocco arrive as one of 
 
 **Model view.** Morocco **3% / 13% / 85%** (home/draw/away), xG **0.23–2.32**, BTTS 19%, Under 2.5 53%. Heavily Morocco.
 
-**Betting angle.** The data flags Morocco as the edge: 1.99 implies 50% but the model gives 85% — a 34.5% edge, the largest in this fixture. The market is badly underrating the Moroccan class gap.
+**Model vs market.** The data flags Morocco as the edge: 1.99 implies 50% but the model gives 85% — a 34.5% edge, the largest in this fixture. The market is badly underrating the Moroccan class gap.
 
 - **Morocco ML** at 1.99 — model 85%, fair ~1.18; the standout value of the matchday
 - **Morocco -1.5 AH** ~1.9 — the 2.32–0.23 xG margin supports a multi-goal win

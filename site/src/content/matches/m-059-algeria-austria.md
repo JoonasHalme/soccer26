@@ -18,7 +18,7 @@ Group J, matchday 3 at Arrowhead Stadium in Kansas City. With Argentina expected
 
 **Model view.** Algeria **55% / 24% / 20%**, xG **1.65–0.90**, BTTS 48%, Under 2.5 53%. Algeria firmly favoured.
 
-**Betting angle.** The data flags Algeria as the edge: 3.30 implies 30% but the model gives 55% — a 24.9% edge, one of the largest in this batch. The market is badly underrating the home side.
+**Model vs market.** The data flags Algeria as the edge: 3.30 implies 30% but the model gives 55% — a 24.9% edge, one of the largest in this batch. The market is badly underrating the home side.
 
 - **Algeria ML** at 3.30 — model 55%, fair ~1.82; the headline value of the matchday
 - **Algeria -0.5 AH** = the straight win, 55%, same fair ~1.82

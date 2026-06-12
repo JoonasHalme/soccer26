@@ -18,7 +18,7 @@ Group J, matchday 2 at Levi's Stadium in Santa Clara. Algeria are the higher-rat
 
 **Model view.** Algeria **14% / 22% / 64%** (home/draw/away), xG **0.72–1.83**, BTTS 43%, Under 2.5 53%. Firmly Algeria.
 
-**Betting angle.** No edge flagged — the market (Algeria ~1.57) sits right on the model. This is an efficient line, so the value is in the derivatives rather than the headline.
+**Model vs market.** No edge flagged — the market (Algeria ~1.57) sits right on the model. This is an efficient line, so the value is in the derivatives rather than the headline.
 
 - **Under 2.5** at 1.83 — model 53%, fair ~1.89; supported if Jordan sit deep
 - **Algeria -0.5 AH** = the straight win, 64%, fair ~1.56

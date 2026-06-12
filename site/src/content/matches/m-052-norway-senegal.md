@@ -18,7 +18,7 @@ Group I, matchday 2 at MetLife Stadium in East Rutherford. With France expected 
 
 **Model view.** Senegal **27% / 26% / 47%** (home/draw/away), xG **1.06–1.49**, BTTS 51%, Under 2.5 53%. Senegal-leaning.
 
-**Betting angle.** The data flags Senegal as the edge: 3.40 implies 29% but the model gives 47% — a 17.5% edge. The market is over-weighting Norway's home tag and Haaland's name.
+**Model vs market.** The data flags Senegal as the edge: 3.40 implies 29% but the model gives 47% — a 17.5% edge. The market is over-weighting Norway's home tag and Haaland's name.
 
 - **Senegal ML** at 3.40 — model 47%, fair ~2.13; the headline value
 - **Senegal +0.5 / draw-no-bet** — combined Senegal win + draw = 73%, strong vs the implied price

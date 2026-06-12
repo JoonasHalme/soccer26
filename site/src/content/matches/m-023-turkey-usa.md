@@ -18,7 +18,7 @@ Group D, matchday 3 at SoFi Stadium in Inglewood. Two of the group's stronger si
 
 **Model view.** Turkey **44% / 26% / 30%**, xG **1.42–1.13**, BTTS 51%, Under 2.5 53%. Turkey-leaning but competitive.
 
-**Betting angle.** The data flags a modest edge on Turkey: 2.70 implies 37% but the model gives 44% — a 6.7% edge. Real but not large.
+**Model vs market.** The data flags a modest edge on Turkey: 2.70 implies 37% but the model gives 44% — a 6.7% edge. Real but not large.
 
 - **Turkey ML** at 2.70 — model 44%, fair ~2.27; the flagged value
 - **Draw** at 3.30 — model 26%, fair ~3.85, live if the USA play for a point

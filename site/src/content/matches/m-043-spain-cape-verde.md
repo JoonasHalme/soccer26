@@ -18,7 +18,7 @@ Group H opener at Mercedes-Benz Stadium. Spain return as the Euro 2024 champions
 
 **Model view.** Spain **82% / 14% / 4%**, xG **2.25–0.30**, BTTS 23%. As one-sided as the model gets without a venue boost.
 
-**Betting angle.** Spain ML will be priced at 1.10–1.15, no edge. The market is correctly efficient on the headline; where there's value:
+**Model vs market.** Spain ML will be priced at 1.10–1.15, no edge. The market is correctly efficient on the headline; where there's value:
 
 - **Spain -2.5 AH** at 1.95+ — model implies ~52%, fair ~1.92 (Spain blow out weaker sides regularly)
 - **Over 3.5** at 2.00+ — model implies ~38%, fair ~2.63, but Spain at peak hit this number often

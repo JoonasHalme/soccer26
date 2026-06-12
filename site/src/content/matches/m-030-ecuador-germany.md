@@ -18,7 +18,7 @@ Group E, matchday 3 at MetLife Stadium in East Rutherford. Two of the group's st
 
 **Model view.** Germany **31% / 26% / 43%** (home/draw/away), xG **1.15–1.40**, BTTS 51%, Under 2.5 53%. Germany-leaning but live for both other results.
 
-**Betting angle.** The data flags Ecuador as the edge: 4.90 implies 20% but the model gives 31% — a 10.3% edge. The market is over-weighting Germany's name against a strong home underdog.
+**Model vs market.** The data flags Ecuador as the edge: 4.90 implies 20% but the model gives 31% — a 10.3% edge. The market is over-weighting Germany's name against a strong home underdog.
 
 - **Ecuador ML** at 4.90 — model 31%, fair ~3.23; the flagged value as the live home dog
 - **Draw** at 3.75 — model 26%, fair ~3.85, roughly fair and live in a tight decider

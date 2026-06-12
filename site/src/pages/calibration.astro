@@ -180,8 +180,9 @@ const handsetC = cal?.handset_fallback ?? {};
         Backtest over {typeof o.n === "number" ? o.n.toLocaleString() : "—"} matches since
         {` ${cal.split?.since ?? "—"}`} · fit method {cal.method ?? "—"} ·
         {cal.generated_at ? ` generated ${cal.generated_at.slice(0, 10)}` : ""}.
-        <strong> "Beats the market" is a different, harder bar</strong> — see CLV on the
-        <a href="/bets"> bet log</a>.
+        <strong> "Beats the market" is a different, harder bar</strong> — where the model
+        disagrees with the de-vigged price is shown as analysis on the <a href="/edges">edges</a>
+        and <a href="/divergence">divergence</a> pages.
       </p>
     </>
   )}

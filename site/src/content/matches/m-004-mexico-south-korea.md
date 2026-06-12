@@ -18,7 +18,7 @@ Group A, matchday 2 at Estadio Akron in Guadalajara. Two of the group's three st
 
 **Model view.** Mexico **53% / 25% / 22%**, xG **1.62–0.93**, BTTS 49%, Under 2.5 53%. Home-leaning but live for both other results.
 
-**Betting angle.** No edge flagged in the data — the market price (Mexico ~1.83) sits right on the model. This is an efficient line, so look to the derivatives rather than the headline.
+**Model vs market.** No edge flagged in the data — the market price (Mexico ~1.83) sits right on the model. This is an efficient line, so look to the derivatives rather than the headline.
 
 - **Under 2.5** at 1.62 — model 53%, fair ~1.89; price is short but the cautious-Mexico script supports it
 - **Draw** at 3.45 — model 25%, fair ~4.00, the value side of a three-way market if you want a position

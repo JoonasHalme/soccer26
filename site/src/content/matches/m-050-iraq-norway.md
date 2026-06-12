@@ -18,7 +18,7 @@ Group I's secondary Day 6 fixture at Gillette Stadium. Late kickoff. Neutral ven
 
 **Model view.** Norway **24% / 25% / 51%**, xG **0.99–1.56**, BTTS 50%. Norway favoured but not heavily.
 
-**Betting angle.** The market will overrate Norway because of Haaland's brand, underrate Iraq because the public can't name a starter. That makes:
+**Model vs market.** The market will overrate Norway because of Haaland's brand, underrate Iraq because the public can't name a starter. That makes:
 
 - **Iraq +0.5 AH** at 2.00+ — combined Iraq-win + draw = 49%, fair ~2.04
 - **Draw** at 3.30+ — model 25%, fair ~4.00, market will price shorter on a one-side narrative

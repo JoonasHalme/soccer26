@@ -18,7 +18,7 @@ Group I, matchday 3 at BMO Field in Toronto. Senegal are strong favourites again
 
 **Model view.** Senegal **61% / 23% / 16%**, xG **1.77–0.78**, BTTS 45%, Under 2.5 53%. Senegal firmly favoured.
 
-**Betting angle.** No edge flagged — the market (Senegal ~1.42) sits on the model. This is an efficient line, so look to the under rather than the headline.
+**Model vs market.** No edge flagged — the market (Senegal ~1.42) sits on the model. This is an efficient line, so look to the under rather than the headline.
 
 - **Under 2.5** at 1.88 — model 53%, fair ~1.89; roughly fair and supported if Iraq sit deep
 - **Senegal -0.5 AH** = the straight win, 61%, fair ~1.64

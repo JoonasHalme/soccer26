@@ -13,7 +13,7 @@ const fmtTime = (iso?: string | null) =>
   }) + " UTC" : "—";
 
 const title = "Methodology — how the model works & how it's audited | Soccer 26";
-const description = "How Soccer 26's World Cup 2026 model works (Elo + Poisson, Dixon-Coles, calibrated constants), how it finds value vs the de-vigged market, how every pick is graded by CLV, and the tamper-evident SHA-256 prediction ledger.";
+const description = "How Soccer 26's World Cup 2026 model works (Elo + Poisson, Dixon-Coles, calibrated constants), how it finds value vs the de-vigged market, how its calls are graded against results, and the tamper-evident SHA-256 prediction ledger.";
 
 const GLOSSARY: { term: string; def: string }[] = [
   { term: "Elo rating", def: "A single strength number per team, updated after every match by the gap between expected and actual result. Higher = stronger." },
@@ -22,9 +22,7 @@ const GLOSSARY: { term: string; def: string }[] = [
   { term: "De-vig (fair price)", def: "Bookmaker odds include a margin (the 'vig'/overround). De-vigging normalises a market's implied probabilities back to sum to 1 so the model is compared against the market's true opinion, not its margin. We use the power method (one fitted exponent), which corrects the favourite-longshot bias better than splitting the margin proportionally." },
   { term: "Edge", def: "Our published call minus the de-vigged market probability for the same outcome. A positive edge means we disagree with the market in your favour — not a guarantee of profit." },
   { term: "Our call (market blend)", def: "The probability we publish: the raw Elo+Poisson model pulled toward the de-vigged market on the markets the books price (1X2, Over/Under). The pull is confidence-weighted — the more the model disagrees with the market, the less it's trusted, because the model is mis-scaled across confederations and a big disagreement is usually its error, not value. Knockout rounds have no odds, so they stay pure model." },
-  { term: "EV (expected value)", def: "Expected return per unit staked at the best available price. Long prices inflate EV, so it's read alongside the Kelly stake, not on its own." },
-  { term: "Kelly stake", def: "A bankroll-aware bet size proportional to the edge and the odds. We use a fractional (¼) Kelly, capped, to stay conservative on an uncertain edge." },
-  { term: "CLV (closing-line value)", def: "How your taken price compares to the de-vigged closing line — the sharpest the market gets. On a small sample, consistent positive CLV is the strongest evidence of real skill." },
+  { term: "EV (expected value)", def: "The model's expected value per unit at the best available price — a way to read how generous the market price looks versus the model. Long prices inflate it, so it's flagged for longshots and read with care." },
   { term: "Calibration / ECE", def: "Whether stated probabilities match reality (of all '60%' calls, ~60% should happen). ECE is the average gap; lower is better." },
 ];
 ---
@@ -35,11 +33,11 @@ const GLOSSARY: { term: string; def: string }[] = [
     <p class="subtle" style="max-width: 68ch; margin: 0.5rem 0 0;">
       Everything here is meant to be checkable. Below: how the model turns team
       strength into match probabilities, how it decides something is a value edge,
-      how every pick is graded honestly against the closing line, and the
+      how its calls are graded honestly against results, and the
       tamper-evident ledger that timestamps each prediction set. The honest summary
       up front — the model is <b>well-calibrated and beats a naive baseline, but
-      "beats the market" is not yet proven</b>. That's exactly what the public CLV
-      record is being built to test.
+      "beats the market" is not yet proven</b>. That's exactly what the live
+      calibration record is being built to test.
     </p>
   </section>
 
@@ -84,9 +82,9 @@ const GLOSSARY: { term: string; def: string }[] = [
       margin proportionally — the proportional shortcut overstates longshots and
       understates favourites, the well-known favourite-longshot bias, so the power
       baseline is closer to realised frequencies. Edges are priced against the <b>best
-      available book</b> (line-shopping is worth real EV), shown with their expected
-      value, and sized with a capped <b>fractional-Kelly</b> stake — the honest signal,
-      since raw EV flatters longshots. See them all on the <a href="/edges">edges page</a>.</p>
+      available book</b> (line-shopping shows the best price the market offers) and shown
+      with their expected value, flagged for longshots since raw EV flatters long prices.
+      See them all on the <a href="/edges">edges page</a>.</p>
       <p><b>Why "our call", not the raw model.</b> Plain Elo is poorly anchored
       <em>between</em> confederations that rarely play each other — left alone it rates
       Germany below Iran and Morocco second in the world. We fix that at the source:
@@ -108,12 +106,15 @@ const GLOSSARY: { term: string; def: string }[] = [
   <section class="mx-section">
     <div class="section-head"><h2>Grading honestly</h2><span class="count">the part that matters</span><span class="rule"></span></div>
     <div class="panel mx-prose">
-      <p>Beating base rates is not the same as beating the market. Every logged bet is
-      settled against the result and scored for <b>closing-line value</b> — the taken
-      price vs the de-vigged closing line. The <a href="/bets">track record</a> shows
-      P/L, ROI and average CLV (with a confidence interval, because the sample is
-      small and the CI is the honest part of the claim). Until that record exists,
-      nothing here should be read as a proven market edge.</p>
+      <p>A forecast is only as good as its record against reality. Every pre-kickoff call
+      is frozen before the match (in the prediction archive), then graded against the
+      actual result as games finish — top-pick hit rate, Brier and one-vs-rest
+      reliability — on the <a href="/calibration">live calibration page</a>. We show the
+      misses as plainly as the hits. Beating base rates is not the same as beating the
+      market, though: where the model disagrees with the de-vigged price we surface it as
+      analysis on the <a href="/edges">edges</a> and <a href="/divergence">divergence</a>
+      pages, but until a long calibration record exists nothing here should be read as a
+      proven market edge.</p>
     </div>
   </section>
 
@@ -212,7 +213,7 @@ const GLOSSARY: { term: string; def: string }[] = [
     <div class="section-head"><h2>Honest limitations</h2><span class="rule"></span></div>
     <div class="panel mx-prose">
       <ul class="mx-limits">
-        <li><b>Small sample.</b> 104 World Cup matches can't establish a market edge on their own — the CLV record is the test, and it's only just starting.</li>
+        <li><b>Small sample.</b> 104 World Cup matches can't establish a market edge on their own — the live calibration record is the test, and it's only just starting.</li>
         <li><b>Minor-nation uncertainty.</b> Ratings for teams with few recent internationals rest on thin data; those predictions are less certain than the single number suggests.</li>
         <li><b>Not advice.</b> Edges are estimates and can be wrong. This is analysis for interest, not betting or financial advice.</li>
       </ul>

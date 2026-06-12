@@ -18,7 +18,7 @@ Group H, matchday 2 at Hard Rock Stadium in Miami Gardens. Uruguay are favoured 
 
 **Model view.** Uruguay **48% / 26% / 26%**, xG **1.52–1.03**, BTTS 50%, Under 2.5 53%. Uruguay-leaning but far from a lock.
 
-**Betting angle.** The data flags Cape Verde as the edge: 7.36 implies 14% but the model gives 26% — a 12.3% edge as the underrated away dog.
+**Model vs market.** The data flags Cape Verde as the edge: 7.36 implies 14% but the model gives 26% — a 12.3% edge as the underrated away dog.
 
 - **Cape Verde ML** at 7.36 — model 26%, fair ~3.85; the flagged value
 - **Draw** at 4.35 — model 26%, fair ~3.85, live and underpriced in a closer-than-it-looks game

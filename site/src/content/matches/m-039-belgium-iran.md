@@ -18,7 +18,7 @@ Group G, matchday 2 at SoFi Stadium in Inglewood. Belgium are the bookmaker favo
 
 **Model view.** Iran **27% / 26% / 48%** (home/draw/away), xG **1.05–1.50**, BTTS 51%, Under 2.5 53%. The model makes Iran the clear favourite.
 
-**Betting angle.** The data flags Iran as the edge: 7.80 implies 13% but the model gives 48% — a 34.7% edge, one of the largest in the whole batch. The market is anchoring hard on Belgium's name.
+**Model vs market.** The data flags Iran as the edge: 7.80 implies 13% but the model gives 48% — a 34.7% edge, one of the largest in the whole batch. The market is anchoring hard on Belgium's name.
 
 - **Iran ML** at 7.80 — model 48%, fair ~2.08; the headline value of the matchday
 - **Iran +0.5 / draw-no-bet** — combined Iran win + draw = 74%, deep value vs the implied price

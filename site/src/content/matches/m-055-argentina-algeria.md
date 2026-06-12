@@ -19,7 +19,7 @@ Group J opens at Arrowhead. Argentina are reigning World Cup champions, AFCON-eq
 
 **Model view.** Argentina **47% / 26% / 27%**, xG **1.49–1.06**, BTTS 51%. **Tighter than you'd intuitively expect for a defending champion vs. a Pot 3 African side.**
 
-**Betting angle.** The market will price Argentina at 1.50–1.65 ML. The model says fair price is ~2.13. That's a meaningful disagreement; either the market is wrong, the model is wrong, or both have a piece of it.
+**Model vs market.** The market will price Argentina at 1.50–1.65 ML. The model says fair price is ~2.13. That's a meaningful disagreement; either the market is wrong, the model is wrong, or both have a piece of it.
 
 My honest read: Argentina's true win probability is somewhere around 55–60%, between the model's 47% and the public's 65%+. That makes:
 

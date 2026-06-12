@@ -18,7 +18,7 @@ Group D, matchday 2 at Levi's Stadium in Santa Clara. Turkey are the higher-rate
 
 **Model view.** Turkey **61% / 23% / 16%**, xG **1.78–0.77**, BTTS 45%, Under 2.5 53%. Turkey firmly favoured.
 
-**Betting angle.** The data flags Turkey as the edge: 2.20 implies 45% but the model gives 61% — a 16% edge. The market is underrating the rating gap.
+**Model vs market.** The data flags Turkey as the edge: 2.20 implies 45% but the model gives 61% — a 16% edge. The market is underrating the rating gap.
 
 - **Turkey ML** at 2.20 — model 61%, fair ~1.64; the flagged value of the fixture
 - **Turkey -0.5 AH** = the straight win, 61%, same fair ~1.64

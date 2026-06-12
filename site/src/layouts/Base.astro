@@ -10,7 +10,7 @@ interface Props {
 }
 const {
   title = "Soccer 26",
-  description = "A transparent, calibration-first World Cup 2026 forecasting model: win probabilities, value edges vs the de-vigged market, and a publicly-graded CLV track record. Analysis, not tips.",
+  description = "A transparent, calibration-first World Cup 2026 forecasting model: win probabilities, value edges vs the de-vigged market, and calls graded against results in public. Analysis, not tips.",
   ogImage = "/og/default.png",
 } = Astro.props;
 const path = Astro.url.pathname;
@@ -22,7 +22,7 @@ const canonicalUrl = Astro.site ? new URL(path, Astro.site).href : path;
 const isActive = (href: string) =>
   href === "/" ? path === "/" : path.startsWith(href);
 // Secondary routes live under a "More" dropdown so the top bar stays uncluttered.
-const MORE_ROUTES = ["/edges", "/bets", "/calibration", "/divergence", "/predict", "/methodology"];
+const MORE_ROUTES = ["/edges", "/calibration", "/divergence", "/predict", "/methodology"];
 const moreActive = MORE_ROUTES.some((h) => isActive(h));
 const year = new Date().getFullYear();
 ---
@@ -682,7 +682,6 @@ const year = new Date().getFullYear();
           <summary class="navlink" aria-current={moreActive ? "page" : undefined}>More</summary>
           <div class="nav-more-menu">
             <a href="/edges" class="navlink" aria-current={isActive("/edges") ? "page" : undefined}>Edges</a>
-            <a href="/bets" class="navlink" aria-current={isActive("/bets") ? "page" : undefined}>Bets</a>
             <a href="/calibration" class="navlink" aria-current={isActive("/calibration") ? "page" : undefined}>Calibration</a>
             <a href="/methodology" class="navlink" aria-current={isActive("/methodology") ? "page" : undefined}>Methodology</a>
             <a href="/divergence" class="navlink" aria-current={isActive("/divergence") ? "page" : undefined}>Divergence</a>

@@ -18,7 +18,7 @@ Group E's second match at Lincoln Financial Field. Neutral venue, tight Elo gap 
 
 **Model view.** Ivory Coast **43% / 26% / 30%**, xG **1.41–1.14**, BTTS 51%. Genuine coin flip with slight CIV lean from being listed first (no actual venue advantage).
 
-**Betting angle.** Small edges only. The model is fair here, the market will be efficient.
+**Model vs market.** Small edges only. The model is fair here, the market will be efficient.
 
 - **Draw** at 3.30+ — model 26%, fair ~3.85, often pushed shorter on tactical fixtures
 - **BTTS-Yes** at 2.00+ — model 51%, fair ~1.96

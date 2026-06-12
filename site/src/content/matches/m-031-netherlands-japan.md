@@ -18,7 +18,7 @@ Group F's marquee opener at AT&T Stadium. Neutral venue. This is the most narrat
 
 **Model view.** Japan favoured **24% / 25% / 51%**, xG **0.98–1.57**, BTTS 49%.
 
-**Betting angle.** The market will price Netherlands shorter than fair because of name recognition. That makes Japan good value if you can find it:
+**Model vs market.** The market will price Netherlands shorter than fair because of name recognition. That makes Japan good value if you can find it:
 
 - **Japan ML** at 2.10+ — model 51%, fair ~1.96, the line will sit at 2.30–2.50 because of name bias
 - **Japan +0.5 AH** at 1.50+ if you want a safer entry — combined win + draw = 76%

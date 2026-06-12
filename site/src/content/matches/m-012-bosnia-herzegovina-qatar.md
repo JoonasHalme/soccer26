@@ -18,7 +18,7 @@ Group B, matchday 3 at Lumen Field in Seattle. With Switzerland and Canada expec
 
 **Model view.** Qatar **28% / 26% / 46%** (home/draw/away), xG **1.08–1.47**, BTTS 51%, Under 2.5 53%. A clear model-vs-market inversion.
 
-**Betting angle.** This is the biggest market disagreement in Group B. Qatar at 6.00 implies just 17% but the model gives them 46% — a 29.6% edge, the largest single edge across these fixtures. The book is anchoring on the home label.
+**Model vs market.** This is the biggest market disagreement in Group B. Qatar at 6.00 implies just 17% but the model gives them 46% — a 29.6% edge, the largest single edge across these fixtures. The book is anchoring on the home label.
 
 - **Qatar ML** at 6.00 — model 46%, fair ~2.17; the headline edge of the matchday if the read holds
 - **Qatar +0.5 / draw-no-bet** — combined Qatar win + draw = 72%, deep value vs the implied price

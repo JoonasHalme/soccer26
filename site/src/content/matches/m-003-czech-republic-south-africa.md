@@ -18,7 +18,7 @@ Group A, matchday 2 at Mercedes-Benz Stadium in Atlanta. With Mexico the clear g
 
 **Model view.** Czech Republic **41% / 27% / 32%**, xG **1.36–1.19**, BTTS 52%, Under 2.5 53%. Genuinely close to a three-way toss-up.
 
-**Betting angle.** The model's one flagged edge is on the away side: South Africa at 4.00 implies 25% but the model gives them 32% — a 7.5% edge and the cleanest value on the board.
+**Model vs market.** The model's one flagged edge is on the away side: South Africa at 4.00 implies 25% but the model gives them 32% — a 7.5% edge and the cleanest value on the board.
 
 - **South Africa ML** at 4.00 — model 32%, fair ~3.08; the price overcompensates for the Czech "home" label
 - **Draw** at 3.30 — model 27%, fair ~3.70, live in a tight, evenly-matched game

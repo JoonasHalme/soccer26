@@ -18,7 +18,7 @@ Group E, matchday 3 at Lincoln Financial Field in Philadelphia. The reigning AFC
 
 **Model view.** Ivory Coast **4% / 15% / 81%** (home/draw/away), xG **0.33–2.22**, BTTS 25%, Under 2.5 53%. Firmly Ivory Coast.
 
-**Betting angle.** The flagged edge is the under: 2.10 implies 48% but the model gives 53% — a 5.5% edge. A controlled win over a low block keeps the goal total down.
+**Model vs market.** The flagged edge is the under: 2.10 implies 48% but the model gives 53% — a 5.5% edge. A controlled win over a low block keeps the goal total down.
 
 - **Under 2.5** at 2.10 — model 53%, fair ~1.89; the flagged value
 - **Ivory Coast -1.5 AH** ~1.8 — the 2.22–0.33 xG margin supports a multi-goal win if first-choice

@@ -18,7 +18,7 @@ Group K, matchday 3 at Hard Rock Stadium in Miami Gardens. Two of the group's st
 
 **Model view.** Portugal **34% / 27% / 39%** (home/draw/away), xG **1.22–1.33**, BTTS 52%, Under 2.5 53%. Near-even with a faint Portugal tilt.
 
-**Betting angle.** No edge flagged — the market sits on the model. This is an efficient, tight line, so look to the draw and BTTS rather than picking a side.
+**Model vs market.** No edge flagged — the market sits on the model. This is an efficient, tight line, so look to the draw and BTTS rather than picking a side.
 
 - **Draw** at 3.25 — model 27%, fair ~3.70; the value pocket in a coin-flip decider
 - **BTTS yes** ~1.85 — model 52%, two willing attacks at near-parity

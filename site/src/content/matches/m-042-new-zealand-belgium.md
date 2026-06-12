@@ -18,7 +18,7 @@ Group G, matchday 3 at BC Place in Vancouver. Belgium are heavy favourites again
 
 **Model view.** Belgium **15% / 23% / 62%** (home/draw/away), xG **0.76–1.79**, BTTS 44%, Under 2.5 53%. Firmly Belgium.
 
-**Betting angle.** The flagged edge is the under: 2.12 implies 47% but the model gives 53% — a 5.9% edge. A controlled win over a low block keeps the goal total down.
+**Model vs market.** The flagged edge is the under: 2.12 implies 47% but the model gives 53% — a 5.9% edge. A controlled win over a low block keeps the goal total down.
 
 - **Under 2.5** at 2.12 — model 53%, fair ~1.89; the flagged value
 - **Belgium -0.5 AH** = the straight win, 62%, fair ~1.61

@@ -18,7 +18,7 @@ Group B, matchday 2 at SoFi Stadium in Inglewood. Switzerland are the clear grou
 
 **Model view.** Switzerland **85% / 12% / 3%**, xG **2.32–0.23**, BTTS 18%, Under 2.5 53%. About as one-sided as a group game gets.
 
-**Betting angle.** The data flags Switzerland themselves as the edge: 1.57 implies 64% but the model gives 85% — a 21% edge, the largest in this fixture. The market is badly underrating the gap.
+**Model vs market.** The data flags Switzerland themselves as the edge: 1.57 implies 64% but the model gives 85% — a 21% edge, the largest in this fixture. The market is badly underrating the gap.
 
 - **Switzerland ML** at 1.57 — model 85%, fair ~1.18; the headline value despite the short look
 - **Switzerland -1.5 AH** around 2.0 — large xG margin supports the handicap

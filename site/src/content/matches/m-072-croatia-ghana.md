@@ -18,7 +18,7 @@ Group L, matchday 3 at Lincoln Financial Field in Philadelphia. With England exp
 
 **Model view.** Croatia **67% / 21% / 12%**, xG **1.90–0.65**, BTTS 41%, Under 2.5 53%. Croatia firmly favoured.
 
-**Betting angle.** The data flags a modest edge on Croatia: 1.64 implies 61% but the model gives 67% — a 6.2% edge. Real but not large.
+**Model vs market.** The data flags a modest edge on Croatia: 1.64 implies 61% but the model gives 67% — a 6.2% edge. Real but not large.
 
 - **Croatia ML** at 1.64 — model 67%, fair ~1.49; the flagged value
 - **Croatia -0.5 AH** = the straight win, 67%, same fair ~1.49

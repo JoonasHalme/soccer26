@@ -18,7 +18,7 @@ Group H, matchday 3 at Estadio Akron in Guadalajara. Two of the group's stronges
 
 **Model view.** Spain **9% / 19% / 72%** (home/draw/away), xG **0.54–2.01**, BTTS 36%, Under 2.5 53%. Firmly Spain.
 
-**Betting angle.** The data flags Spain as the edge: 1.62 implies 62% but the model gives 72% — a 10.5% edge. The market is slightly underrating the class gap, possibly pricing in rotation.
+**Model vs market.** The data flags Spain as the edge: 1.62 implies 62% but the model gives 72% — a 10.5% edge. The market is slightly underrating the class gap, possibly pricing in rotation.
 
 - **Spain ML** at 1.62 — model 72%, fair ~1.39; the flagged value if Spain field a strong XI
 - **Spain -0.5 AH** = the straight win, 72%, same fair ~1.39

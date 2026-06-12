@@ -18,7 +18,7 @@ Group L's second Day 7 opener at BMO Field in Toronto. This is the match where t
 
 **Model view.** Panama **61% / 23% / 16%** (away/draw/home), xG **0.78–1.77**, BTTS 45%, Under 2.5 53%. The model makes Panama a clear favourite on the road against a "bigger" name.
 
-**Betting angle.** This is the spot where the market and the model collide. The book will anchor on Ghana's reputation and likely price the two close to even, or even make Ghana the favourite. The model says that is backwards.
+**Model vs market.** This is the spot where the market and the model collide. The book will anchor on Ghana's reputation and likely price the two close to even, or even make Ghana the favourite. The model says that is backwards.
 
 - **Panama ML** at anything 1.90+ — model fair is ~1.64; if the name bias pushes the price up, this is the value of the matchday
 - **Panama -0.5 AH** = the straight win, 61%, fair ~1.64
@@ -26,4 +26,4 @@ Group L's second Day 7 opener at BMO Field in Toronto. This is the match where t
 
 Avoid: Ghana ML on reputation (only ~16%), Ghana -0.5 / to-win-the-group narratives, BTTS yes at short prices (model 45%).
 
-**This is the model's headline name-fade of the group stage.** If the price reflects Ghana's history rather than Ghana's form, backing Panama is the cleanest disagreement-with-the-public bet on the board. Verify the squad-quality read first — but the rating gap is large enough that it would take a lot of intangibles to close it.
+**This is the model's headline name-fade of the group stage.** If the price reflects Ghana's history rather than Ghana's form, backing Panama is the cleanest disagreement-with-the-public call on the board. Verify the squad-quality read first — but the rating gap is large enough that it would take a lot of intangibles to close it.

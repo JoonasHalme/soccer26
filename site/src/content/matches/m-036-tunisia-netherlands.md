@@ -18,7 +18,7 @@ Group F, matchday 3 at Arrowhead Stadium in Kansas City. The Netherlands should 
 
 **Model view.** Netherlands **25% / 26% / 49%** (home/draw/away), xG **1.01–1.54**, BTTS 50%, Under 2.5 53%. Dutch-leaning but far from a lock.
 
-**Betting angle.** The data flags Tunisia as the edge: 6.00 implies 17% but the model gives 25% — an 8.3% edge as the live home underdog.
+**Model vs market.** The data flags Tunisia as the edge: 6.00 implies 17% but the model gives 25% — an 8.3% edge as the live home underdog.
 
 - **Tunisia ML** at 6.00 — model 25%, fair ~4.00; the flagged value, especially if the Dutch rotate
 - **Draw** at 4.00 — model 26%, fair ~3.85, roughly fair and live in a tight game

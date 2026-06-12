@@ -18,7 +18,7 @@ Group A, matchday 3 at Estadio BBVA in Monterrey. A final-round fixture that for
 
 **Model view.** Korea **18% / 24% / 59%** (home/draw/away), xG **0.83–1.72**, BTTS 46%, Under 2.5 53%. A firm Korea lean.
 
-**Betting angle.** The data flags Korea as the value side: 2.00 implies 50% but the model gives them 59% — an 8.7% edge. The price hasn't fully respected the rating gap.
+**Model vs market.** The data flags Korea as the value side: 2.00 implies 50% but the model gives them 59% — an 8.7% edge. The price hasn't fully respected the rating gap.
 
 - **South Korea ML** at 2.00 — model 59%, fair ~1.69; the standout edge in this fixture
 - **Korea -0.5 AH** = the straight win, 59%, same fair ~1.69

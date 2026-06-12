@@ -18,11 +18,11 @@ Group C, matchday 2 at Lincoln Financial Field in Philadelphia. Brazil are overw
 
 **Model view.** Brazil **58% / 24% / 18%**, xG **1.72–0.83**, BTTS 46%, Under 2.5 53%. Brazil favoured but the model's win number (58%) is far below the 1.06 price.
 
-**Betting angle.** The data flags three edges — and crucially the win is NOT one of them. The book has Brazil at ~94% implied; the model says 58%. The flagged value is the under, the draw, and even the Haiti win at huge prices.
+**Model vs market.** The data flags three edges — and crucially the win is NOT one of them. The book has Brazil at ~94% implied; the model says 58%. The flagged value is the under, the draw, and even the Haiti win at huge prices.
 
 - **Under 2.5** at 3.75 — model 53%, implied 27%, a 26.4% edge; if Brazil control rather than rout, this is the play
 - **Draw** at 12.50 — model 24%, implied 8%, a 15.6% edge; rotation/complacency makes this live
-- **Haiti ML** at 34.00 — model 18%, implied 3%, a 15% edge; a tiny-stake lottery with real model backing
+- **Haiti ML** at 34.00 — model 18%, implied 3%, a 15% edge; a tiny-probability longshot with real model backing
 
 Avoid: Brazil ML at 1.06 (model only 58% — a severe over-price), Brazil -2.5 / -3.5 chasing a blowout the xG doesn't project.
 

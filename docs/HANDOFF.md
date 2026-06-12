@@ -1,7 +1,18 @@
 # HANDOFF — read this first
 
-Continuation notes for soccer26, a personal **World Cup 2026 betting-analysis**
+Continuation notes for soccer26, a personal **World Cup 2026 forecasting & odds-analysis**
 site. Last worked: **2026-06-07**. Tournament kicks off **2026-06-11** (4 days).
+
+> **⚠️ 2026-06-12 — BET-TRACKING REMOVED (product pivot).** The owner doesn't place
+> bets; the site presents odds + model analysis only. The whole bet-log / P&L / CLV /
+> Kelly-staking layer was deleted: the `/bets` page, `bets/` (bets.json + schema),
+> `model/{add_bet,settle,clv,staking,validate_bets}.py` and their tests + the
+> `tests/golden` cross-check, and the data.ts betting helpers (loadBets, clvStats,
+> kellyStake, bankrollStats, pnlSeries, clv). The matchday-poll no longer runs
+> `settle.py`. **KEPT as analysis:** `/edges` (reframed "where the model disagrees with
+> the market" — edge %, best price, EV, no stake/bankroll), `/divergence`, `/calibration`
+> (now the honest "did the calls match results" record, replacing the CLV moat). Ignore
+> the betting/CLV/staking references below this note — they describe the removed layer.
 
 > **Most recent work is the `2026-06-07 session` block right below "What was done
 > recently".** Today: a full **UI redesign to a steel-azure "instrument" theme**

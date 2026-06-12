@@ -18,7 +18,7 @@ Group G, matchday 2 at BC Place in Vancouver. Egypt are the higher-rated side an
 
 **Model view.** Egypt **16% / 23% / 60%** (home/draw/away), xG **0.79–1.76**, BTTS 45%, Under 2.5 53%. Firmly Egypt.
 
-**Betting angle.** No edge flagged — the market (Egypt ~1.70) sits right on the model. This is an efficient line, so the value is in the derivatives rather than the headline.
+**Model vs market.** No edge flagged — the market (Egypt ~1.70) sits right on the model. This is an efficient line, so the value is in the derivatives rather than the headline.
 
 - **Under 2.5** at 1.63 — model 53%, fair ~1.89; supported if New Zealand sit deep
 - **Egypt -0.5 AH** = the straight win, 60%, fair ~1.67, roughly the offered price

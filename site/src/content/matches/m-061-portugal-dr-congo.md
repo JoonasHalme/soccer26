@@ -18,7 +18,7 @@ Group K opens at NRG Stadium. Portugal arrive as one of the model's top-8 sides 
 
 **Model view.** Portugal **57% / 24% / 19%**, xG **1.69–0.86**, BTTS 47%. Portugal favoured but not dominant.
 
-**Betting angle.** The market will likely price Portugal at 1.50–1.60 ML. The model says fair is ~1.75. Reasonable but not screaming edge.
+**Model vs market.** The market will likely price Portugal at 1.50–1.60 ML. The model says fair is ~1.75. Reasonable but not screaming edge.
 
 - **Draw** at 3.40+ — model 24%, fair ~4.17, often inflated when one side has name brand
 - **DR Congo +0.5 AH** at 1.95+ — combined DR Congo-win + draw = 43%, fair ~2.33

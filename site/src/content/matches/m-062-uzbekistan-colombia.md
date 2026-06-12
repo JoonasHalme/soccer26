@@ -18,7 +18,7 @@ Group K's other Day 7 opener at Estadio Azteca. Late kickoff, high altitude — 
 
 **Model view.** Colombia **26% / 26% / 48%**, xG **1.04–1.51**, BTTS 50%. Colombia favoured but not heavily.
 
-**Betting angle.** The market will price Colombia at 1.80–2.00 ML, which is reasonable on the model. The altitude variable matters here — Colombia's players are mostly La Liga-/Premier-based and not altitude-conditioned. Uzbekistan typically train at moderate altitude.
+**Model vs market.** The market will price Colombia at 1.80–2.00 ML, which is reasonable on the model. The altitude variable matters here — Colombia's players are mostly La Liga-/Premier-based and not altitude-conditioned. Uzbekistan typically train at moderate altitude.
 
 - **Uzbekistan +0.5 AH** at 1.80+ — combined Uzbekistan-win + draw = 52%, fair ~1.92
 - **Draw** at 3.40+ — model 26%, fair ~3.85

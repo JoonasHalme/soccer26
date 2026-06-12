@@ -18,7 +18,7 @@ Group J's other Day 6 opener at Levi's Stadium. Late kickoff. Neutral venue.
 
 **Model view.** Austria **45% / 26% / 29%**, xG **1.45–1.10**, BTTS 51%. Close to the kind of true pick'em with mild favourite that the model is best calibrated on.
 
-**Betting angle.** This is a small-edges match. The market will be reasonably efficient.
+**Model vs market.** This is a small-edges match. The market will be reasonably efficient.
 
 - **Draw** at 3.30+ — model 26%, fair ~3.85
 - **BTTS-Yes** at 2.00+ — model 51%, fair ~1.96
@@ -26,4 +26,4 @@ Group J's other Day 6 opener at Levi's Stadium. Late kickoff. Neutral venue.
 
 Avoid: Austria -1.5 AH (only ~24%), either ML at the short side.
 
-**Sit-this-one-out is a perfectly defensible position.** The model is roughly fair, the market will roughly agree, and the edges are small. Bet only if you're picking a specific market mispricing, not because you have a view on the outcome.
+**Sit-this-one-out is a perfectly defensible position.** The model is roughly fair, the market will roughly agree, and the edges are small. Lean in only if you're picking a specific market mispricing, not because you have a view on the outcome.

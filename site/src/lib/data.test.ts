@@ -1,45 +1,16 @@
 import { describe, it, expect } from "vitest";
 import {
-  fullKellyFraction, kellyStake, meanCI,
+  meanCI,
   signed, signedPct, money, pct1, MINUS,
   teamSlug, matchOutcome, computeStandings,
-  topDivergences, liveCalibration, wilsonInterval, clvStats,
-  validateBets, validateFixtures, validatePredictions,
-  loadFixtures, loadBets, loadPredictions,
-  type Match, type Prediction, type Bet,
+  topDivergences, liveCalibration, wilsonInterval,
+  validateFixtures, validatePredictions,
+  loadFixtures, loadPredictions,
+  type Match, type Prediction,
 } from "./data";
 
 const mk = (p: Partial<Match> & Pick<Match, "id">): Match => ({
   stage: "GROUP", home: "A", away: "B", status: "SCHEDULED", ...p,
-});
-
-// --------------------------------------------------------------------------- //
-// Kelly staking (mirrors model/staking.py — see the golden cross-check too)
-// --------------------------------------------------------------------------- //
-describe("Kelly", () => {
-  it("full fraction = (b·p − q)/b", () => {
-    // p=0.6, odds=2.0 -> b=1, f*=(0.6-0.4)/1 = 0.2
-    expect(fullKellyFraction(0.6, 2.0)).toBeCloseTo(0.2, 10);
-  });
-  it("no edge or bad inputs → 0", () => {
-    expect(fullKellyFraction(0.4, 2.0)).toBe(0); // -EV
-    expect(fullKellyFraction(0.6, 1.0)).toBe(0); // odds <= 1
-    expect(fullKellyFraction(0, 2.0)).toBe(0);
-    expect(fullKellyFraction(1, 2.0)).toBe(0);
-  });
-  it("fractional stake, rounded to cents", () => {
-    // f*=0.2, 0.25 Kelly, bankroll 1000 -> 1000*0.2*0.25 = 50, cap 5% = 50 (not bound)
-    const k = kellyStake(0.6, 2.0, 1000, 0.25, 5);
-    expect(k.stake).toBe(50);
-    expect(k.capped).toBe(false);
-    expect(k.fullKelly).toBeCloseTo(0.2, 10);
-  });
-  it("cap binds the stake", () => {
-    // huge edge -> raw exceeds 2% cap -> capped to 20 on a 1000 bankroll
-    const k = kellyStake(0.9, 5.0, 1000, 0.25, 2);
-    expect(k.capped).toBe(true);
-    expect(k.stake).toBe(20);
-  });
 });
 
 describe("meanCI", () => {
@@ -143,8 +114,8 @@ describe("liveCalibration", () => {
   });
 });
 
-describe("CLV reporting (quant A3)", () => {
-  it("wilsonInterval: null at n=0, bracketed in [0,100], contains the point", () => {
+describe("wilsonInterval (binomial CI)", () => {
+  it("null at n=0, bracketed in [0,100], contains the point", () => {
     expect(wilsonInterval(0, 0)).toBeNull();
     const ci = wilsonInterval(7, 10)!;
     expect(ci.low).toBeGreaterThanOrEqual(0);
@@ -156,32 +127,12 @@ describe("CLV reporting (quant A3)", () => {
     const ci = wilsonInterval(1, 1)!;       // 1/1 = 100% but hugely uncertain
     expect(ci.low).toBeLessThan(50);        // Wilson pulls the lower bound way down
   });
-  it("clvStats stake-weights CLV and adds a beat-rate CI", () => {
-    const bets = [
-      { id: "a", result: "WIN", clv_pct: 2, stake: 100, market: "1X2" },   // big stake, +CLV
-      { id: "b", result: "LOSS", clv_pct: -8, stake: 10, market: "1X2" },  // tiny stake, −CLV
-    ] as unknown as Bet[];
-    const s = clvStats(bets);
-    expect(s.rated).toBe(2);
-    expect(s.beatRate).toBe(50);            // 1 of 2 has clv_pct > 0
-    expect(s.beatRateCI).not.toBeNull();
-    expect(s.avgClv).toBeCloseTo(-3, 6);    // plain mean = (2 − 8)/2
-    // stake-weighted leans to the heavily-staked positive-CLV bet
-    expect(s.stakeWeightedClv!).toBeCloseTo((100 * 2 + 10 * -8) / 110, 6);  // ≈ +1.09
-    expect(s.stakeWeightedClv!).toBeGreaterThan(s.avgClv!);
-  });
 });
 
 // --------------------------------------------------------------------------- //
 // Loader validators (TASK-055): malformed artifacts must be rejected loudly
 // --------------------------------------------------------------------------- //
 describe("loader validators", () => {
-  it("validateBets accepts good config, rejects malformed", () => {
-    expect(() => validateBets({ starting_bankroll: 100, bets: [] }, "bets.json")).not.toThrow();
-    expect(() => validateBets({ bets: [] }, "bets.json")).toThrow(/starting_bankroll/);
-    expect(() => validateBets({ starting_bankroll: 1, bets: [{ id: "b1" }] }, "bets.json")).toThrow(/stake/);
-    expect(() => validateBets([], "bets.json")).toThrow(/config object/);
-  });
   it("validateFixtures requires a matches array of objects with string ids", () => {
     expect(() => validateFixtures({ matches: [{ id: "m1" }], groups: {} }, "f.json")).not.toThrow();
     expect(() => validateFixtures({ groups: {} }, "f.json")).toThrow(/matches/);
@@ -203,8 +154,7 @@ describe("real artifacts load + validate", () => {
     expect(Array.isArray(fx.matches)).toBe(true);
     expect(fx.matches.length).toBeGreaterThan(100);
   });
-  it("loadBets + loadPredictions don't throw on the live files", () => {
-    expect(() => loadBets()).not.toThrow();
+  it("loadPredictions doesn't throw on the live files", () => {
     const p = loadPredictions();
     expect(Array.isArray(p.predictions)).toBe(true);
   });
