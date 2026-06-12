@@ -1,26 +1,25 @@
 # HANDOFF — read this first
 
 Continuation notes for soccer26, a personal **World Cup 2026 forecasting & odds-analysis**
-site. Last worked: **2026-06-07**. Tournament kicks off **2026-06-11** (4 days).
+site. Last worked: **2026-06-12** (tournament **underway** — group stage).
 
-> **⚠️ 2026-06-12 — BET-TRACKING REMOVED (product pivot).** The owner doesn't place
-> bets; the site presents odds + model analysis only. The whole bet-log / P&L / CLV /
-> Kelly-staking layer was deleted: the `/bets` page, `bets/` (bets.json + schema),
-> `model/{add_bet,settle,clv,staking,validate_bets}.py` and their tests + the
-> `tests/golden` cross-check, and the data.ts betting helpers (loadBets, clvStats,
-> kellyStake, bankrollStats, pnlSeries, clv). The matchday-poll no longer runs
-> `settle.py`. **KEPT as analysis:** `/edges` (reframed "where the model disagrees with
-> the market" — edge %, best price, EV, no stake/bankroll), `/divergence`, `/calibration`
-> (now the honest "did the calls match results" record, replacing the CLV moat). Ignore
-> the betting/CLV/staking references below this note — they describe the removed layer.
-
-> **Most recent work is the `2026-06-07 session` block right below "What was done
-> recently".** Today: a full **UI redesign to a steel-azure "instrument" theme**
-> (supersedes the older `docs/design-direction.md` workstream), the **Road to the
-> World Cup** page with **live warm-up scores** + the **model's pre-match call on
-> every game**, and a results pipeline that's now **live-fresh** (martj42 + an
-> ESPN bridge). The project is **in git + deployed** (see below) — the old
-> "not a git repo" warning is obsolete.
+> **Most recent work is the `2026-06-12 session` block right below "What was done
+> recently" — start there.** This session: the tournament went live and results now
+> flow end-to-end, the closing-capture + results gates were hardened against cron
+> gaps, news auto-refreshes, the GitHub Actions are on Node 24, and — the big one —
+> the project **pivoted away from bet-tracking**.
+>
+> **⚠️ BET-TRACKING REMOVED (2026-06-12 pivot).** The owner doesn't place bets; the site
+> presents odds + model analysis only. The whole bet-log / P&L / CLV / Kelly-staking layer
+> was deleted: the `/bets` page, `bets/` (bets.json + schema),
+> `model/{add_bet,settle,clv,staking,validate_bets}.py` + their tests + the `tests/golden`
+> cross-check, and the data.ts betting helpers (loadBets, clvStats, kellyStake,
+> bankrollStats, pnlSeries). The matchday-poll no longer runs `settle.py`. **KEPT as
+> analysis:** `/edges` (reframed "where the model disagrees with the market" — edge %, best
+> price, EV, no stake/bankroll), `/divergence`, and `/calibration` (now the honest "did the
+> calls match results" record — the **new moat**, replacing CLV). **Ignore the betting /
+> CLV / staking references further down this file** — they describe the removed layer, kept
+> for historical context only. The project is **in git + deployed** (see below).
 
 If you're picking this up cold: read this file, then `docs/backlog.md` (the task
 list) and `docs/site-improvements.md` (review findings). For the strategic roadmap
@@ -36,36 +35,39 @@ The rest of `docs/` is background.
 
 ## What this project is
 
-An Elo + Poisson model that produces World Cup 2026 match probabilities, finds
-**value edges** where it disagrees with the *de-vigged* market, and an **auditable
-bet log** graded against the closing line (CLV). Positioning is deliberately
-honest: well-calibrated and beats a naive baseline, but **"beats the market" is
-not yet proven** — that's what the CLV track record is for. It's "analysis, not
-tips."
+An Elo + Poisson model that produces World Cup 2026 match probabilities and flags
+**value edges** where it disagrees with the *de-vigged* market. Positioning is
+deliberately honest: well-calibrated and beats a naive baseline, but **"beats the
+market" is not yet proven** — the **live calibration record** (`/calibration`, calls
+graded against results) is what tests that. It's "analysis, not tips" — odds + model
+analysis, **no bet-tracking** (see the pivot note up top).
 
 ```
-site/        Astro static site (dashboard, edges, matches, groups, bets, calibration, bracket)
-model/       Python: Elo+Poisson model + the data/settlement/CLV pipeline
-bets/        bets.json (source of truth for P/L) + schema.json
+site/        Astro static site (dashboard, edges, matches, groups, calibration, bracket, road-to-WC)
+model/       Python: Elo+Poisson model + the odds/results/forecast pipeline
 fixtures/    fixtures.json — 104 WC2026 matches (incl. full knockout bracket slots)
 docs/        backlog + research + this handoff
 ```
 
-## Current state (verified 2026-06-07)
+## Current state (verified 2026-06-12)
 
-- **164 pytest + 29 vitest pass** (`python -m pytest -q`; `npm --prefix site run test`).
-- **Site builds clean — 177 pages** (`cd site && npm run build`, ~22–35s incl. OG cards).
+- **115 pytest + 16 vitest pass** (`python -m pytest -q`; `npm --prefix site run test`).
+  (Down from 164/29 — the bet-logging tests were removed in the pivot.)
+- **Site builds clean — 176 pages** (`cd site && npm run build`, ~20–25s incl. OG cards).
 - **In git, public, auto-deployed:** repo `github.com/JoonasHalme/soccer26` (`main`) →
   Cloudflare Pages **https://matchprediction.pages.dev** (every push deploys; CI runs
-  pytest+vitest+build). Commit/push freely (the user expects it now).
-- `bets/bets.json` is **empty** (correct — tournament hasn't started).
-- **0 fixtures have closing-odds snapshots** — still the standing ops blocker (see #1 below).
-- New top nav (`Base.astro`): **Dashboard · Road to WC · Matches · Groups · Bracket ·
-  Outrights** + a **"More ▾"** dropdown (`Edges · Bets · Calibration · Methodology ·
-  Divergence · Predict`). Edges/Bets were moved into More + their sections removed from
-  the dashboard (owner de-emphasised betting on the landing page). New page:
-  **`/road-to-the-world-cup`** (warm-up form + live scores + model calls).
-  `/team` + `/group` are still SEO pages reached via internal links.
+  pytest+vitest+build). Commit/push freely; `git pull --rebase` first (the bots commit too).
+- **Tournament is LIVE** (group stage). Results flow end-to-end: the opener **Mexico 2–0
+  South Africa** + **South Korea 2–1 Czech Republic** are graded. `/calibration` shows the
+  live scorecard (matches graded, top-pick hit rate, Brier) and `/road-to-the-world-cup`
+  has a "tournament so far" section split from the warm-up run-in.
+- **Odds auto-refresh every 6h** (`refresh-odds.yml` scheduled, was manual) and the hourly
+  `matchday-poll` now also runs `fetch_news.py`. Closing-odds + results capture gates were
+  widened to survive skipped GitHub crons (see the session block).
+- Top nav (`Base.astro`): **Dashboard · Road to WC · Matches · Groups · Bracket ·
+  Outrights** + a **"More ▾"** dropdown (`Edges · Calibration · Methodology · Divergence ·
+  Predict`). **No "Bets" link** (removed in the pivot). Mobile bottom bar: Today · Edges ·
+  Matches · Bracket · Winners. `/team` + `/group` are still SEO pages via internal links.
 
 ## ⚠️ Environment gotchas (important)
 
@@ -106,18 +108,16 @@ python model/predict.py                         # -> predictions.json (anchored 
 python model/fetch_news.py                       # RSS team news -> news.json (free, no key)
 python model/export_calibration.py              # backtest -> calibration.json (drives /calibration)
 python model/simulate.py                         # Monte-Carlo -> simulation.json (drives /outrights); ~1s for 20k sims
-python model/validate_bets.py                    # enforce >=5%-edge-or-rationale discipline
 ```
-Log a bet from an edge: `python model/add_bet.py --edge m-007:HOME --odds 2.15`
-(`--dry-run` to preview; stake defaults to ¼-Kelly).
+(The bet-logging steps — `validate_bets.py`, `add_bet.py` — were removed in the pivot.)
 
 Matchday (once games start, June 11+), in order:
 ```
-python model/fetch_odds.py --closing   # snapshot the CLOSING line shortly BEFORE kickoff
-python model/fetch_results.py          # pull final scores into fixtures.json
-python model/settle.py                 # grade bets -> result + pnl
-python model/clv.py                    # CLV vs de-vigged close + beat-rate/avg/CI
+python model/capture_closing.py        # quota-gated CLOSING-line snapshot (6h window; runs in matchday-poll)
+python model/fetch_results.py          # pull final scores into fixtures.json (use --only-if-active in cron)
+python model/publish_live.py           # -> live.json (LIVE/FT scores the dashboard poller patches in)
 ```
+(`settle.py` / `clv.py` were removed in the pivot — no bet log to grade.)
 
 Warm-up form / results (free, no key — runs automatically in the hourly poll):
 ```
@@ -126,19 +126,77 @@ python model/fetch_recent_espn.py      # bridge martj42's lag: append just-finis
 python model/build_form.py             # -> form.json: per-team form + walk-forward model calls + run-in feed
 ```
 
-## 🔝 #1 next step — the ops prerequisite that unblocks everything
+## 🔝 #1 next step — the candidate the owner liked
 
-**Run `python model/fetch_odds.py --closing` before kickoffs to capture closing
-snapshots.** Right now 0 fixtures have them, so:
-- CLV has no data (the entire "did we beat the market" story is empty),
-- the "line moves / steam" view can't be built.
-This is an operational cadence, not code. It also needs the bet log to start being
-populated (on warm-ups/qualifiers if possible) so a real track record exists before
-the tournament. Everything the project is *for* depends on this.
+Make **`/calibration` the moat**: build a **live model-vs-de-vigged-closing reliability
+comparison** ("is our model as well-calibrated as the sharp *closing* line?"). This is the
+post-pivot credibility centrepiece, and it **repurposes the closing-odds capture** — which,
+with CLV removed, otherwise has no consumer. `capture_closing.py` is still running (hardened,
+6h window) and snapshots are landing (`m-001`/`m-002`/`m-007` have them), so the closing data
+is there to build on. The owner chose this direction; we ran the "verify the live experience"
+pass first (2026-06-12), so this is the agreed next build.
+
+> Deferred decision: if we *don't* build the closing comparison, the closing-odds capture is
+> orphaned (it existed for CLV) and could be dropped to save a little paid quota. Don't
+> silently drop it — it's exactly the input this build needs.
 
 ## What was done recently (so you don't redo it)
 
-### 2026-06-07 session (latest — start here)
+### 2026-06-12 session (latest — start here)
+
+The tournament kicked off; this session was live-tournament ops + a product pivot.
+
+**Live-results fixes (the openers exposed two gaps).**
+- **Stranded result backfill.** Only one of the two opening-day results showed: `m-002`
+  (South Korea 2–1 Czech) never got a score because GitHub skipped a ~5h block of the hourly
+  cron across its kickoff, and `fetch_results.py --only-if-active` only called the API for a
+  match LIVE or kicked off within 3h — so a result missed during a gap was stranded forever
+  (never `FINISHED`, kickoff too old). Added a pure `needs_results_call()` + a **72h backfill
+  window** (any not-FINISHED match within the scores API's `daysFrom` reach warrants a call).
+  Backfilled `m-002` live. +`tests/test_fetch_results.py`.
+- **News never refreshed.** `fetch_news.py` was in no workflow, so `news.json` froze on 06-05.
+  Added a "Refresh team news" step (free RSS) + `news.json` to the matchday-poll commit set.
+
+**Closing-odds capture hardened (the same cron-gap class).** A closing line *can't* be
+recaptured after kickoff, so `capture_closing.py`'s window was widened **3h → 6h** (~6 hourly
+snapshot chances instead of 3). Updated the local Task Scheduler script + runbook. (Note: with
+CLV removed below, closing capture's remaining purpose is the calibration comparison in #1.)
+
+**Odds were ~a week stale → auto-refresh.** `refresh-odds.yml` was manual-only and hadn't run
+since 06-05. Triggered a refresh (odds fresh, ledger entry #13) and **added a 6-hourly
+schedule** (cron `37 */6 * * *`, offset off the `:07` matchday-poll to avoid push races).
+~4 credits/refresh, ~470/mo remaining.
+
+**GitHub Actions → Node 24.** Bumped `checkout@v4→v6`, `setup-python@v5→v6`, `setup-node@v4→v6`
+across all workflows ahead of GitHub's 2026-06-16 forced Node-20 retirement. CI green, no warnings.
+
+**Road to the WC — split tournament games from the warm-up run-in.** Once real WC games landed
+they polluted the "all warm-up friendlies" feed. `build_form.py` now tags each match
+(`_is_tournament`: martj42 tournament == "FIFA World Cup"; qualifiers stay in the run-in) and
+`form.json` carries `recent` (run-in) + a new `tournament` list, each with its own record. The
+page gained a "The tournament so far" section; the run-in record is warm-ups-only again.
+
+**★ BET-TRACKING REMOVED (the pivot).** See the note at the top. Removed `/bets`, the
+track-record OG card + nav links, `bets/`, `model/{add_bet,settle,clv,staking,validate_bets}.py`
++ tests + `tests/golden`, and the data.ts betting layer; reframed `/edges` to "where the model
+disagrees with the market" (no stake/Kelly/EV-money/exposure); de-betted copy across dashboard,
+methodology, calibration, policy, OG, footer, and the 72 match analyses ("Betting angle" →
+"Model vs market"). `/calibration` is the new moat. **RG disclaimers kept** (the site still
+shows odds — owner confirmed).
+
+**Groups UI + verification pass (in-browser, with real data).**
+- Standings tables overflowed each card with a horizontal scrollbar; widened the grid
+  `minmax(330px→460px)` → 2-up, full 10-column table fits, no scrollbar.
+- **"Matches played" was doubled** — `computeStandings` increments both teams' `played`, so
+  summing per-team `played` double-counts; halved it in the groups hero, each group card, and
+  `/group/[id]`.
+- `/calibration` had a page-wide h-scroll: an SR-only `<table class="sr-only">` laid out
+  ~2075px (tables ignore `width:1px`); wrapped it in a `div.sr-only` that clips → overflow 0.
+- Footer "Personal betting-analysis dashboard" → "forecasting & odds-analysis dashboard".
+- Verified dashboard / groups / calibration (live scorecard: 2 graded, 50% hit, Brier 0.140) /
+  match post-match card / road-to-WC / edges all render correctly. Build clean (176 pages).
+
+### 2026-06-07 session
 
 **Model-accuracy bundle (TASK-063/032/064):** adopted **match-importance K-weighting**
 (`elo.match_importance`: friendly 0.5 → World Cup 1.75, threaded through backtest +
@@ -607,6 +665,8 @@ Bigger backlog features (see `docs/backlog.md` TASK-ids):
 
 ## How the user likes to work
 
-Heavy use of **parallel sub-agents** in non-overlapping lanes (one writer at a time
-since there's no git to isolate worktrees). Validate with build + tests after
-changes. Keep the honest framing — don't overstate "beats the market."
+Heavy use of **parallel sub-agents** in non-overlapping lanes when work splits cleanly
+(git worktrees are available now if isolation helps). **Commit + push freely** — the owner
+expects shipping every session; `git pull --rebase` first (the bots commit too). Validate
+with build + tests before pushing. Keep the honest framing — don't overstate "beats the
+market." Run shell commands **individually** on Windows/PowerShell (no `&&`/`;` chaining).
