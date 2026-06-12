@@ -627,10 +627,10 @@
       "home": "South Korea",
       "away": "Czech Republic",
       "score": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "odds": {
         "home": 2.68,
         "draw": 3.15,
@@ -3057,7 +3057,39 @@
           },
           "totals": {}
         }
-      ]
+      ],
+      "closing_odds": {
+        "captured_at": "2026-06-12T16:05:33.179653+00:00",
+        "consensus": {
+          "home": 1.83,
+          "draw": 3.49,
+          "away": 4.75,
+          "over_2_5": 2.2,
+          "under_2_5": 1.64
+        },
+        "best_book": {
+          "home": {
+            "price": 1.86,
+            "book": "1xBet"
+          },
+          "draw": {
+            "price": 3.65,
+            "book": "Betfair"
+          },
+          "away": {
+            "price": 5.2,
+            "book": "Betfair"
+          },
+          "over_2_5": {
+            "price": 2.32,
+            "book": "BetOnline.ag"
+          },
+          "under_2_5": {
+            "price": 1.67,
+            "book": "BetOnline.ag"
+          }
+        }
+      }
     },
     {
       "id": "m-008",
