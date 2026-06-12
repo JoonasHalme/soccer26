@@ -1,11 +1,133 @@
 {
-  "generated_at": "2026-06-12T16:05:44.204505+00:00",
+  "generated_at": "2026-06-12T18:19:13.475808+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian",
     "ESPN"
   ],
   "items": [
+    {
+      "id": "8b6bf6e79ca1",
+      "title": "Mexico opens WC with win after record 3 red cards",
+      "url": "https://www.espn.com/soccer/story/_/id/49033183/mexico-south-africa-2026-world-cup-azetca-opening-game",
+      "source": "ESPN",
+      "published_at": "2026-06-12T18:42:36+00:00",
+      "summary": "Co-hosts Mexico got off to a victorious start, beating South Africa 2-0 as the largest World Cup in history kicked off Thursday at Mexico City's famed Estadio Azteca.",
+      "teams": [
+        "Mexico",
+        "South Africa"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "0e9ab5c2c039",
+      "title": "Partey denied entry to Canada, will miss WC game",
+      "url": "https://www.espn.com/soccer/story/_/id/49041808/thomas-partey-ghana-opener-2026-world-cup-denied-entry-canada",
+      "source": "ESPN",
+      "published_at": "2026-06-12T18:41:55+00:00",
+      "summary": "Ghana's Thomas Partey will miss their opening match of the 2026 World Cup against Panama after being denied entry to Canada.",
+      "teams": [
+        "Canada",
+        "Ghana",
+        "Panama"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "7c66ab642304",
+      "title": "Marsch 'had to beg' U.S. players to sing anthem",
+      "url": "https://www.espn.com/soccer/story/_/id/49039553/jesse-marsch-beg-usmnt-players-sing-national-anthem",
+      "source": "ESPN",
+      "published_at": "2026-06-12T18:41:55+00:00",
+      "summary": "Former United States men's national team (USMNT) assistant coach Jesse March has revealed he sometimes \"had to beg\" the American players to sing the national anthem.",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "db56a7c210f0",
+      "title": "Hwang's magic sparks South Korea comeback win",
+      "url": "https://www.espn.com/soccer/story/_/id/49037668/south-korea-overcome-czechia-via-hwang-beom-brilliant-display-world-cup",
+      "source": "ESPN",
+      "published_at": "2026-06-12T18:41:55+00:00",
+      "summary": "Hwang In-Beom leads South Korea to a 2-1 comeback win over Czechia in the World Cup in a game played in front of hundreds of empty seats at Mexico's Guadalajara Stadium.",
+      "teams": [
+        "Mexico",
+        "South Korea",
+        "Czech Republic"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "a5885f70d119",
+      "title": "Palestine FA boss: U.S. denied my WCup visa",
+      "url": "https://www.espn.com/soccer/story/_/id/49039483/palestine-fa-boss-says-was-not-granted-us-visa-world-cup",
+      "source": "ESPN",
+      "published_at": "2026-06-12T18:41:55+00:00",
+      "summary": "The head of the Palestinian Football Association is waiting in Mexico City for permission to enter the United States with other federation heads attending the 2026 FIFA World Cup.",
+      "teams": [
+        "Mexico",
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6e99aa3afb7a",
+      "title": "Poch: 'Too late' for motivational speeches for U.S...",
+      "url": "https://www.espn.com/soccer/story/_/id/49035215/mauricio-pochettino-usa-world-cup-speech-paraguay-lineup",
+      "source": "ESPN",
+      "published_at": "2026-06-12T18:41:54+00:00",
+      "summary": "USMNT coach Mauricio Pochettino said that the time for fiery speeches is over and that his side is ready for Friday's World Cup opener against Paraguay.",
+      "teams": [
+        "USA",
+        "Paraguay"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6662a66d34cc",
+      "title": "Canada v Bosnia and Herzegovina: World Cup 2026 – live",
+      "url": "https://www.theguardian.com/football/live/2026/jun/12/canada-v-bosnia-and-herzegovina-world-cup-2026-live",
+      "source": "The Guardian",
+      "published_at": "2026-06-12T18:02:30+00:00",
+      "summary": "⚽️ Kick-off at 3pm EDT/8pm BST/13 June 5am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Taha Forget the World Cup just for a sec … some news from Scotland. Canada: Crépeau, Johnston, De Fougerolles, Cornelius, Laryea, Buchanan, Koné, Eustáquio, Millar, Jonathan David,",
+      "teams": [
+        "Canada",
+        "Bosnia & Herzegovina",
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "959a41dcee96",
+      "title": "Thomas Partey out of Ghana’s World Cup opener after visa application to Canada refused",
+      "url": "https://www.theguardian.com/football/2026/jun/12/thomas-partey-ghana-world-cup-visa-application-to-canada-refused",
+      "source": "The Guardian",
+      "published_at": "2026-06-12T17:32:52+00:00",
+      "summary": "Player had been due to play against Panama in Toronto Fifa says decision made by Canadian government The Ghana defender Thomas Partey will miss their opening World Cup game against Panama after being refused a visa to Canada, where the game is being staged in Toronto. In a statem",
+      "teams": [
+        "Canada",
+        "USA",
+        "Ghana",
+        "Panama"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "95dbb05d5c72",
+      "title": "Partey denied entry to Canada for Ghana's World Cup opener",
+      "url": "https://www.bbc.com/sport/football/articles/cn8qgny4186o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-12T17:26:20+00:00",
+      "summary": "Ghana midfielder Thomas Partey will miss his nation's first World Cup game in Toronto against Panama, after being denied entry to Canada.",
+      "teams": [
+        "Canada",
+        "Ghana",
+        "Panama"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "415b2c93285d",
       "title": "Snubbed by the U.S., Jesse Marsch marches Canada i...",
@@ -32,81 +154,55 @@
       "is_injury_related": false
     },
     {
-      "id": "7c66ab642304",
-      "title": "Marsch 'had to beg' U.S. players to sing anthem",
-      "url": "https://www.espn.com/soccer/story/_/id/49039553/jesse-marsch-beg-usmnt-players-sing-national-anthem",
-      "source": "ESPN",
-      "published_at": "2026-06-12T16:01:06+00:00",
-      "summary": "Former United States men's national team (USMNT) assistant coach Jesse March has revealed he sometimes \"had to beg\" the American players to sing the national anthem.",
+      "id": "f5eb4c1fdc97",
+      "title": "Scotland boss Clarke by those who know him best",
+      "url": "https://www.bbc.com/sport/football/articles/c4gyze8rpz0o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-12T16:59:38+00:00",
+      "summary": "As Steve Clarke prepares to lead Scotland at their first men's World Cup since 1998, those who know him well reveal what makes him successful.",
       "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6af917231330",
+      "title": "Critics of Mbappe have gone 'too far', says Dembele",
+      "url": "https://www.bbc.com/sport/football/articles/c4gyzyq0p7lo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-12T16:33:06+00:00",
+      "summary": "France forward Ousmane Dembele defends his national team captain Kylian Mbappe, saying criticism of the Real Madrid striker has gone \"too far\".",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "aabae9891f08",
+      "title": "Scotland's McTominay 'ready to go' for Haiti opener after illness",
+      "url": "https://www.bbc.com/sport/football/articles/c78y50pmd2go",
+      "source": "BBC Sport",
+      "published_at": "2026-06-12T16:31:44+00:00",
+      "summary": "Scotland midfielder Scott McTominay takes part in training on the eve of the World Cup opener against Haiti, having missed out the previous day because of an upset stomach.",
+      "teams": [
+        "Haiti",
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "24715578ae4b",
+      "title": "‘More pressure than the president’: Ancelotti sets out to end Brazil’s World Cup drought",
+      "url": "https://www.theguardian.com/football/2026/jun/12/more-pressure-than-the-president-ancelotti-sets-out-to-end-brazils-world-cup-drought",
+      "source": "The Guardian",
+      "published_at": "2026-06-12T16:06:28+00:00",
+      "summary": "Last triumph was in 2002 but Italian head coach, without Neymar against Morocco, brings ‘joy and enthusiasm’ It is Marcio Santos who best sums up the predicament Brazil’s players found themselves in before the 1994 World Cup. “We hadn’t won in 24 years. That’s way too long for th",
+      "teams": [
+        "Brazil",
+        "Morocco",
         "USA"
       ],
-      "is_injury_related": false
-    },
-    {
-      "id": "6e99aa3afb7a",
-      "title": "Poch: 'Too late' for motivational speeches for U.S...",
-      "url": "https://www.espn.com/soccer/story/_/id/49035215/mauricio-pochettino-usa-world-cup-speech-paraguay-lineup",
-      "source": "ESPN",
-      "published_at": "2026-06-12T16:01:06+00:00",
-      "summary": "USMNT coach Mauricio Pochettino said that the time for fiery speeches is over and that his side is ready for Friday's World Cup opener against Paraguay.",
-      "teams": [
-        "USA",
-        "Paraguay"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "8b6bf6e79ca1",
-      "title": "Mexico opens WC with win after record 3 red cards",
-      "url": "https://www.espn.com/soccer/story/_/id/49033183/mexico-south-africa-2026-world-cup-azetca-opening-game",
-      "source": "ESPN",
-      "published_at": "2026-06-12T16:01:06+00:00",
-      "summary": "Co-hosts Mexico got off to a victorious start, beating South Africa 2-0 as the largest World Cup in history kicked off Thursday at Mexico City's famed Estadio Azteca.",
-      "teams": [
-        "Mexico",
-        "South Africa"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "db56a7c210f0",
-      "title": "Hwang's magic sparks South Korea comeback win",
-      "url": "https://www.espn.com/soccer/story/_/id/49037668/south-korea-overcome-czechia-via-hwang-beom-brilliant-display-world-cup",
-      "source": "ESPN",
-      "published_at": "2026-06-12T16:01:06+00:00",
-      "summary": "Hwang In-Beom leads South Korea to a 2-1 comeback win over Czechia in the World Cup in a game played in front of hundreds of empty seats at Mexico's Guadalajara Stadium.",
-      "teams": [
-        "Mexico",
-        "South Korea",
-        "Czech Republic"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f599fedd6231",
-      "title": "Mexico's Aguirre says Jiménez earned 'perfect day'...",
-      "url": "https://www.espn.com/soccer/story/_/id/49035727/aguirre-jimenez-perfect-day-mexico-goal",
-      "source": "ESPN",
-      "published_at": "2026-06-12T16:01:06+00:00",
-      "summary": "Raúl Jiménez finally has his star moment in a FIFA World Cup for Mexico, with his manager Javier Aguirre calling it a \"perfect day\" for the 35-year-old striker.",
-      "teams": [
-        "Mexico"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "a5885f70d119",
-      "title": "Palestine FA boss: U.S. denied my WCup visa",
-      "url": "https://www.espn.com/soccer/story/_/id/49039483/palestine-fa-boss-says-was-not-granted-us-visa-world-cup",
-      "source": "ESPN",
-      "published_at": "2026-06-12T16:01:06+00:00",
-      "summary": "The head of the Palestinian Football Association is waiting in Mexico City for permission to enter the United States with other federation heads attending the 2026 FIFA World Cup.",
-      "teams": [
-        "Mexico",
-        "USA"
-      ],
-      "is_injury_related": false
+      "is_injury_related": true
     },
     {
       "id": "7f0ab93cf72e",
@@ -119,20 +215,6 @@
         "Scotland"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "26e78839e7f8",
-      "title": "World Cup 2026: Canada and USA enter fray; empty seats; Mexico’s winning start; McTominay fitness boost – live",
-      "url": "https://www.theguardian.com/football/live/2026/jun/12/world-cup-2026-news-updates-live-usa-canada-paraguay-bosnia-herzegovina",
-      "source": "The Guardian",
-      "published_at": "2026-06-12T15:45:21+00:00",
-      "summary": "⚽️ Canada tightens in anticipation | What is enough for US? ⚽️ Player guide | Bracketology | Golden Boot | Mail John Five takeaways from the World Cup opener. These come courtesy of Matt Hughes who was in the Azteca (I can’t bring myself to say Mexico City Stadium). How about thi",
-      "teams": [
-        "Mexico",
-        "Canada",
-        "USA"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "a23589347d8d",
@@ -176,19 +258,6 @@
       "teams": [
         "Mexico",
         "South Africa"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "aabae9891f08",
-      "title": "Scotland's McTominay trains after stomach upset",
-      "url": "https://www.bbc.com/sport/football/articles/c78y50pmd2go",
-      "source": "BBC Sport",
-      "published_at": "2026-06-12T14:19:46+00:00",
-      "summary": "Scotland midfielder Scott McTominay takes part in training on the eve of the World Cup opener against Haiti, having missed out the previous day because of an upset stomach.",
-      "teams": [
-        "Haiti",
-        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -341,18 +410,6 @@
       "is_injury_related": true
     },
     {
-      "id": "68692470311a",
-      "title": "Haaland goes to ice hockey before World Cup debut",
-      "url": "https://www.bbc.com/sport/articles/cgk6xemj8pxo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-12T08:48:45+00:00",
-      "summary": "Erling Haaland swaps the football pitch for the ice rink as he and his Norway team-mates watch the Stanley Cup.",
-      "teams": [
-        "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "82c6a59d09d4",
       "title": "Transfer rumors, news: Man United eye USMNT's Robi...",
       "url": "https://www.espn.com/soccer/story/_/id/49038387/transfer-rumors-news-man-united-eye-usmnt-robinson-england-hall",
@@ -402,19 +459,6 @@
       "is_injury_related": false
     },
     {
-      "id": "9fc6e03b6a4c",
-      "title": "'Best Canada team ever' bid to shine at home World Cup",
-      "url": "https://www.bbc.com/sport/football/articles/c4g8w635v49o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-12T06:12:21+00:00",
-      "summary": "Amid political turbulence in the US and talk of moving matches out of Mexico, it can be forgotten that there is a third co-host of the 2026 World Cup. Canada hope it will be their time to shine.",
-      "teams": [
-        "Mexico",
-        "Canada"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "24ae573b89d8",
       "title": "We need to feel love playing for England - Bellingham",
       "url": "https://www.bbc.com/sport/football/articles/cvg5mkemp1go",
@@ -437,19 +481,6 @@
         "USA"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "2529448f34ce",
-      "title": "Triumph at the Azteca offers respite from strife on Mexico City’s streets | Pablo Iglesias Maurer",
-      "url": "https://www.theguardian.com/football/2026/jun/11/mexico-south-africa-world-cup-2026",
-      "source": "The Guardian",
-      "published_at": "2026-06-12T01:23:37+00:00",
-      "summary": "One of football’s great arenas roared as El Tri eased past South Africa, offering fans a fleeting escape from the tensions gripping the capital The walk to Estadio Ciudad de México – most fans know it as the Azteca – on Thursday did a pretty good job of laying out the two sides o",
-      "teams": [
-        "Mexico",
-        "South Africa"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "bdad9341db8f",
@@ -637,18 +668,6 @@
       "is_injury_related": false
     },
     {
-      "id": "5e9576c3cdb4",
-      "title": "Martin O’Neill hungry for more success at Celtic after being confirmed as manager",
-      "url": "https://www.theguardian.com/football/2026/jun/11/martin-oneill-confirmed-celtic-manager",
-      "source": "The Guardian",
-      "published_at": "2026-06-11T11:39:19+00:00",
-      "summary": "O’Neill signs one-year contract with one-year option 74-year-old aiming for ‘more days like those’ after double Martin O’Neill said his appetite was whetted by winning a double last month to deliver “more days like those” at Celtic, after he was confirmed as their manager on a on",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "c01a6dd4b58c",
       "title": "Dalglish, Souness & Rod Stewart - Scotland's World Cup '86 remembered",
       "url": "https://www.bbc.com/sport/football/articles/c62xqg7l6w9o",
@@ -657,18 +676,6 @@
       "summary": "Remembering Scotland's 1986 World Cup campaign, their fourth successive appearance at the tournament.",
       "teams": [
         "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "4512e5de52b4",
-      "title": "Wolves sack Rob Edwards and close on Portuguese manager César Peixoto",
-      "url": "https://www.theguardian.com/football/2026/jun/11/wolves-sack-rob-edwards-and-target-portuguese-manager-cesar-peixoto",
-      "source": "The Guardian",
-      "published_at": "2026-06-11T10:15:44+00:00",
-      "summary": "Head coach failed to save club from relegation Peixoto led Gil Vicente to sixth in Primera Liga Wolves have sacked Rob Edwards and are poised to appoint César Peixoto as his replacement. The 46-year-old Peixoto was most recently in charge of Gil Vicente, who finished sixth in the",
-      "teams": [
-        "Portugal"
       ],
       "is_injury_related": false
     },
@@ -873,20 +880,6 @@
       "is_injury_related": false
     },
     {
-      "id": "e209cc86590a",
-      "title": "‘It was madness in Baghdad’: René Meulensteen on coaching Iraq and helping Ronaldo",
-      "url": "https://www.theguardian.com/football/2026/jun/09/rene-meulensteen-iraq-world-cup-ronaldo-manchester-united",
-      "source": "The Guardian",
-      "published_at": "2026-06-09T09:44:21+00:00",
-      "summary": "Iraq’s No 2 discusses his recipe for a World Cup shock, the players’ singing and his time assisting Alex Ferguson at Manchester United Iraq’s journey to their first World Cup finals tournament in 40 years involved sacrifices unmatched by any other side. After 20 qualifiers, the t",
-      "teams": [
-        "Mexico",
-        "Iraq",
-        "Jordan"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "1609e12f92c7",
       "title": "Sophia Wilson’s return spoiled as USA women beaten by Brazil in friendly",
       "url": "https://www.theguardian.com/football/2026/jun/06/usa-brazil-women-friendly-sophia-wilson-return",
@@ -988,18 +981,6 @@
         "Portugal"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "be04c207dfb3",
-      "title": "How Toone is navigating grief through football",
-      "url": "https://www.bbc.com/sport/football/articles/c3e2dg875x7o",
-      "source": "BBC Sport",
-      "published_at": "2026-05-29T17:04:22+00:00",
-      "summary": "England and Manchester United midfielder Ella Toone opens up about grief, football and preparing for her wedding without her dad in a new BBC documentary.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
     }
   ]
 }
