@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T16:45:54.281945+00:00",
+  "generated_at": "2026-06-13T18:22:21.064206+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian",
@@ -7,11 +7,23 @@
   ],
   "items": [
     {
+      "id": "b0777a69f6f1",
+      "title": "For Brazil, 24 years after their last World Cup ti...",
+      "url": "https://www.espn.com/soccer/story/_/id/49021550/24-years-their-last-world-cup-title-win-bust-brazil",
+      "source": "ESPN",
+      "published_at": "2026-06-13T18:36:49+00:00",
+      "summary": "Brazil are the most successful team in World Cup history. But after not winning the title in 24 years, can Carlo Ancelotti's side finally end that run?",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "b4d3cdca0db7",
       "title": "Pulisic subbed off at halftime, 'hoping it's nothi...",
       "url": "https://www.espn.com/soccer/story/_/id/49045997/christian-pulisic-subbed-half-usmnt-rolling",
       "source": "ESPN",
-      "published_at": "2026-06-13T16:35:44+00:00",
+      "published_at": "2026-06-13T18:35:36+00:00",
       "summary": "United States winger Christian Pulisic was substituted at halftime of his team's World Cup opener against Paraguay on Friday, with the Americans leading 3-0 at the break.",
       "teams": [
         "USA",
@@ -24,10 +36,36 @@
       "title": "Dempsey slams Marsch over anthem: Stay in lane",
       "url": "https://www.espn.com/soccer/story/_/id/49044184/dempsey-slams-marsch-us-anthem-claim",
       "source": "ESPN",
-      "published_at": "2026-06-13T16:35:44+00:00",
+      "published_at": "2026-06-13T18:35:36+00:00",
       "summary": "United States legend Clint Dempsey had some choice words for former national team assistant Jesse Marsch, who suggested Thursday that some American players needed encouragement to sing the anthem ahead of games.",
       "teams": [
         "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "7440f70f23e4",
+      "title": "World Cup Daily LIVE: Brazil fans take over NYC ah...",
+      "url": "https://www.espn.com/soccer/story/_/id/49047065/world-cup-daily-brazil-fans-take-nyc-ahead-knicks-game-ronaldo-arrives",
+      "source": "ESPN",
+      "published_at": "2026-06-13T18:35:25+00:00",
+      "summary": "Follow all the action from Saturday's World Cup action, with features, news, video analysis and color from around the competition.",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "454d105bb700",
+      "title": "Balogun living WC 'dream' as U.S. choice pays off",
+      "url": "https://www.espn.com/soccer/story/_/id/49047212/folarin-balogun-usa-world-cup-2026-goals-paraguay",
+      "source": "ESPN",
+      "published_at": "2026-06-13T18:27:38+00:00",
+      "summary": "USMNT striker Folarin Balogun, who could have played for England or Nigeria, said his two goals in Friday's 4-1 World Cup victory over Paraguay made for a \"dreamy night.\"",
+      "teams": [
+        "USA",
+        "Paraguay",
+        "England"
       ],
       "is_injury_related": false
     },
@@ -36,7 +74,7 @@
       "title": "Two arrested after England World Cup gear stolen",
       "url": "https://www.espn.com/soccer/story/_/id/49046931/england-world-cup-gear-stolen-team-van-kansas-city",
       "source": "ESPN",
-      "published_at": "2026-06-13T16:35:44+00:00",
+      "published_at": "2026-06-13T18:27:38+00:00",
       "summary": "Two people have been arrested in Kansas City after England World Cup equipment was stolen in transit from Florida.",
       "teams": [
         "England"
@@ -48,7 +86,7 @@
       "title": "FIFA defends attendance despite empty seats",
       "url": "https://www.espn.com/soccer/story/_/id/49042423/fifa-defends-attendance-figure-amidst-empty-seats-south-korea-vs-czechia",
       "source": "ESPN",
-      "published_at": "2026-06-13T16:35:44+00:00",
+      "published_at": "2026-06-13T18:27:38+00:00",
       "summary": "FIFA insists the attendance figure for the World Cup clash between South Korea and Czech Republic was accurate after pictures appeared to show thousands of empty seats.",
       "teams": [
         "South Korea",
@@ -61,7 +99,7 @@
       "title": "Ghana vow to fight Canada's Partey visa decision",
       "url": "https://www.espn.com/soccer/story/_/id/49047535/ghana-vow-fight-canada-thomas-partey-visa-decision-flimsy-reasons",
       "source": "ESPN",
-      "published_at": "2026-06-13T16:35:44+00:00",
+      "published_at": "2026-06-13T18:27:38+00:00",
       "summary": "Ghana's government has urged Canada to review its decision to deny Thomas Partey entry to the country after he was refused the right to enter Canadian soil Friday.",
       "teams": [
         "Canada",
@@ -70,46 +108,15 @@
       "is_injury_related": false
     },
     {
-      "id": "454d105bb700",
-      "title": "Balogun living WC 'dream' as U.S. choice pays off",
-      "url": "https://www.espn.com/soccer/story/_/id/49047212/folarin-balogun-usa-world-cup-2026-goals-paraguay",
-      "source": "ESPN",
-      "published_at": "2026-06-13T16:35:43+00:00",
-      "summary": "USMNT striker Folarin Balogun, who could have played for England or Nigeria, said his two goals in Friday's 4-1 World Cup victory over Paraguay made for a \"dreamy night.\"",
-      "teams": [
-        "USA",
-        "Paraguay",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "74684d4028cc",
-      "title": "World Cup 2026: Brazil ready to party; Scotland’s big return; England recover stolen boots – live",
-      "url": "https://www.theguardian.com/football/live/2026/jun/13/world-cup-2026-usa-light-up-la-englands-boots-stolen-scotlands-big-return-live",
+      "id": "1fd8dd6013d9",
+      "title": "Qatar v Switzerland: World Cup 2026 – live",
+      "url": "https://www.theguardian.com/football/live/2026/jun/13/qatar-v-switzerland-world-cup-2026-live",
       "source": "The Guardian",
-      "published_at": "2026-06-13T16:34:21+00:00",
-      "summary": "⚽️ Latest news and discussion as tournament continues ⚽️ USA 4-1 Paraguay | Scotland become faithfuls or traitors ⚽️ Player guide | Bracketology | Wallchart | Mail Will Looking for some extra reading? Jacob Steinberg and David Hytner have delved into the making of Declan Rice, En",
+      "published_at": "2026-06-13T17:58:00+00:00",
+      "summary": "⚽️ Kick-off 12pm local, 3pm EST, 8pm BST, 4am Sun AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail John The expected formations, are Qatar 4-3-3 and Switzerland 4-2-3-1. Qatar: Abunada, Al Oui, Ro Ro, Khouki, Ahmed, Gaber, Madibo, Laye, Junior, Abdurisag, Afif. Subs: Zaka",
       "teams": [
-        "Brazil",
-        "Haiti",
-        "Scotland",
-        "USA",
-        "Paraguay",
-        "New Zealand",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "b0777a69f6f1",
-      "title": "For Brazil, 24 years after their last World Cup ti...",
-      "url": "https://www.espn.com/soccer/story/_/id/49021550/24-years-their-last-world-cup-title-win-bust-brazil",
-      "source": "ESPN",
-      "published_at": "2026-06-13T16:27:47+00:00",
-      "summary": "Brazil are the most successful team in World Cup history. But after not winning the title in 24 years, can Carlo Ancelotti's side finally end that run?",
-      "teams": [
-        "Brazil"
+        "Qatar",
+        "Switzerland"
       ],
       "is_injury_related": false
     },
@@ -137,18 +144,6 @@
         "USA"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "7440f70f23e4",
-      "title": "World Cup Daily LIVE: Brazil fans take over NYC ah...",
-      "url": "https://www.espn.com/soccer/story/_/id/49047065/world-cup-daily-brazil-fans-take-nyc-ahead-knicks-game-ronaldo-arrives",
-      "source": "ESPN",
-      "published_at": "2026-06-13T14:58:22+00:00",
-      "summary": "Follow all the action from Saturday's World Cup action, with features, news, video analysis and color from around the competition.",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "500b275ff339",
@@ -618,6 +613,21 @@
       "is_injury_related": false
     },
     {
+      "id": "e7447c41da89",
+      "title": "BBC kicks off World Cup broadcast battle in Salford and provides contrast to ITV’s celebrity slop",
+      "url": "https://www.theguardian.com/football/2026/jun/12/bbc-world-cup-broadcast-battle-salford--itv-celebrity-slop",
+      "source": "The Guardian",
+      "published_at": "2026-06-12T22:32:52+00:00",
+      "summary": "Journalistic muscles were flexed with Ros Atkins factchecking real-world issues with production offering merits more achievable by working from home Must a World Cup broadcast be on location? The BBC, for reasons of cost and environmental concerns, has rolled back to when tournam",
+      "teams": [
+        "Mexico",
+        "South Africa",
+        "South Korea",
+        "Czech Republic"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "36e2d774c3e4",
       "title": "Larin equaliser earns Canada first ever World Cup point",
       "url": "https://www.bbc.com/sport/football/videos/cjdgnm0m7z8o",
@@ -754,21 +764,6 @@
         "Scotland"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "959a41dcee96",
-      "title": "Thomas Partey out of Ghana’s World Cup opener after visa application to Canada refused",
-      "url": "https://www.theguardian.com/football/2026/jun/12/thomas-partey-ghana-world-cup-visa-application-to-canada-refused",
-      "source": "The Guardian",
-      "published_at": "2026-06-12T17:32:52+00:00",
-      "summary": "Player had been due to face Panama in Toronto Fifa says decision made by Canadian government Thomas Partey has been denied entry to Canada and will not be available for Ghana’s first World Cup game in Toronto on Wednesday. The former Arsenal midfielder was charged with five count",
-      "teams": [
-        "Canada",
-        "Spain",
-        "Ghana",
-        "Panama"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "f5eb4c1fdc97",
