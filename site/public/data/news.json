@@ -1,122 +1,31 @@
 {
-  "generated_at": "2026-06-12T22:45:52.458721+00:00",
+  "generated_at": "2026-06-13T01:33:51.634197+00:00",
   "sources": [
     "BBC Sport",
-    "The Guardian",
-    "ESPN"
+    "The Guardian"
   ],
   "items": [
     {
-      "id": "c68661da645d",
-      "title": "Larin rescues draw for co-hosts Canada in opener",
-      "url": "https://www.espn.com/soccer/report/_/gameId/760416",
-      "source": "ESPN",
-      "published_at": "2026-06-12T23:22:51+00:00",
-      "summary": "Substitute Cyle Larin scored in the 78th minute and co-host Canada earned a first point in their third World Cup appearance -- and first on home soil -- by rallying for a 1-1 draw against Bosnia-Herzegovina on Friday.",
+      "id": "524a25171457",
+      "title": "England have training equipment stolen",
+      "url": "https://www.bbc.com/sport/football/articles/cwyldy8w0jpo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-13T01:27:41+00:00",
+      "summary": "England are victims of a theft of their training equipment before their arrival in Kansas City on Saturday.",
       "teams": [
-        "Canada",
-        "Bosnia & Herzegovina"
+        "England"
       ],
       "is_injury_related": false
     },
     {
-      "id": "243dab57c814",
-      "title": "FIFA defends attendance despite empty seats",
-      "url": "https://www.espn.com/soccer/story/_/id/49042423/fifa-defends-attendance-figure-amidst-empty-seats-south-korea-vs-czechia",
-      "source": "ESPN",
-      "published_at": "2026-06-12T23:22:50+00:00",
-      "summary": "FIFA insists the attendance figure for the World Cup clash between South Korea and Czech Republic was accurate after pictures appeared to show thousands of empty seats.",
-      "teams": [
-        "South Korea",
-        "Czech Republic"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "84ed625494fe",
-      "title": "Ancelotti: 'Beautiful moment' to lead Brazil at WC...",
-      "url": "https://www.espn.com/soccer/story/_/id/49043516/carlo-ancelotti-ready-beautiful-moment-brazil-prepare-hunt-sixth-world-cup",
-      "source": "ESPN",
-      "published_at": "2026-06-12T23:22:50+00:00",
-      "summary": "Carlo Ancelotti has said he is ready for a \"beautiful moment\" in his already stellar coaching career, as he prepares to take charge of his first game at the World Cup.",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "0e9ab5c2c039",
-      "title": "Partey denied entry to Canada, will miss WC game",
-      "url": "https://www.espn.com/soccer/story/_/id/49041808/thomas-partey-ghana-opener-2026-world-cup-denied-entry-canada",
-      "source": "ESPN",
-      "published_at": "2026-06-12T23:22:30+00:00",
-      "summary": "Ghana's Thomas Partey will miss their opening match of the 2026 World Cup against Panama after being denied entry to Canada.",
-      "teams": [
-        "Canada",
-        "Ghana",
-        "Panama"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "c1855263672f",
-      "title": "Hakimi 'ready' to limit impact of Brazil's Viníciu...",
-      "url": "https://www.espn.com/soccer/story/_/id/49043452/morocco-hakimi-limit-impact-brazil-vinicius",
-      "source": "ESPN",
-      "published_at": "2026-06-12T23:22:30+00:00",
-      "summary": "Achraf Hakimi said he's \"ready\" to stop Vinicius Junior in Morocco's World Cup opener against Brazil, as right-back Hakimi and winger Vinicius are set to go head-to-head at MetLife Stadium on Saturday.",
-      "teams": [
-        "Brazil",
-        "Morocco"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "2b070297c8b4",
-      "title": "World Cup Daily LIVE: U.S. pregame; Canada tie Bos...",
-      "url": "https://www.espn.com/soccer/story/_/id/49032307/world-cup-daily-live-usmnt-canada-opening-games",
-      "source": "ESPN",
-      "published_at": "2026-06-12T23:03:41+00:00",
-      "summary": "Enjoy all the updates from the World Cup as we have two matches Friday, with features, news, video analysis and color from around the competition.",
-      "teams": [
-        "Canada"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "3f47fefcc532",
-      "title": "Meet the USMNT: The 26 players striving to win a W...",
-      "url": "https://www.espn.com/soccer/story/_/id/49009288/meet-usmnt-26-players-striving-win-world-cup-home-soil",
-      "source": "ESPN",
-      "published_at": "2026-06-12T23:00:45+00:00",
-      "summary": "With the U.S. kicking off its World Cup campaign Friday, ESPN introduces you to the 26 players tasked with taking the co-hosts on a deep run.",
+      "id": "ce67eaf53dc1",
+      "title": "Katy Perry, Tyla & Future among performers at USA's opening ceremony",
+      "url": "https://www.bbc.com/sport/football/videos/ce8me8qrlrmo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-13T01:25:18+00:00",
+      "summary": "Katy Perry, Tyla and Future are among the performers at USA's star-studded World Cup opening ceremony at SoFi Stadium Stadium.",
       "teams": [
         "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "9221b5e907f7",
-      "title": "Mexico's win an emotional celebration of World Cup...",
-      "url": "https://www.espn.com/soccer/story/_/id/49033649/mexico-win-south-africa-emotional-celebration-world-cup-return-estadio-azteca",
-      "source": "ESPN",
-      "published_at": "2026-06-12T22:38:34+00:00",
-      "summary": "Forty years after the World Cup was last in Mexico, the tournament returned Thursday, and Mexico celebrated with an emotional win over South Africa.",
-      "teams": [
-        "Mexico",
-        "South Africa"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "33692a0ff3f8",
-      "title": "South Korea produce stirring revival to get off to...",
-      "url": "https://www.espn.com/soccer/story/_/id/49037890/fifa-world-cup-south-korea-produce-stirring-revival-get-winning-start-vs-czechia",
-      "source": "ESPN",
-      "published_at": "2026-06-12T22:38:34+00:00",
-      "summary": "For the first time since 2010, South Korea won their opening game at the FIFA World Cup.",
-      "teams": [
-        "South Korea"
       ],
       "is_injury_related": false
     },
@@ -125,11 +34,52 @@
       "title": "USA v Paraguay: World Cup 2026 – live",
       "url": "https://www.theguardian.com/football/live/2026/jun/12/usa-v-paraguay-world-cup-2026-live",
       "source": "The Guardian",
-      "published_at": "2026-06-12T22:20:21+00:00",
-      "summary": "⚽️ Kick-off at 9pm EDT/2am BST/11am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Beau Most of the conversation surrounding the United States’ buildup to this tournament centered on the health of Chris Richards. The center-back has proven to be an anchor for the US, an",
+      "published_at": "2026-06-13T01:20:57+00:00",
+      "summary": "⚽️ Kick-off at 9pm EDT/2am BST/11am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Beau Chris Richards is IN A 100% record on our projected lineup, with Chris Richards getting his wish and cracking the opening lineup. So, a nominal lopsided 3-4-2-1 that plays as a 3-2-5",
       "teams": [
         "USA",
-        "Paraguay"
+        "Paraguay",
+        "Germany"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "9a82ae6f5526",
+      "title": "Socceroos begin World Cup adventure with underdog status left behind | Jack Snape",
+      "url": "https://www.theguardian.com/football/2026/jun/13/socceroos-world-cup-australia-football-team-preview",
+      "source": "The Guardian",
+      "published_at": "2026-06-13T00:00:03+00:00",
+      "summary": "In a super-sized edition that makes Australia a middle power their young squad can budget for four matches at the tournament with the hope of more ⚽️ How to watch the Socceroos | Australia team guide ⚽️ Guide to all 1,248 players | Bracketology | World Cup The selections, the ses",
+      "teams": [
+        "Australia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "7e2bf8035c1e",
+      "title": "'Clear red' for Bosnia or 'wins the ball'? BBC pundits disagree",
+      "url": "https://www.bbc.com/sport/football/articles/c2lyd45wl7no",
+      "source": "BBC Sport",
+      "published_at": "2026-06-12T23:04:10+00:00",
+      "summary": "Should Bosnia-Herzegovina have been reduced to 10 men in the second half in their 1-1 draw with Canada? Wayne Rooney and ex-referee Darren Cann had differing views.",
+      "teams": [
+        "Canada",
+        "Bosnia & Herzegovina"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "e7447c41da89",
+      "title": "BBC kicks off World Cup broadcast battle in Salford and provides contrast to ITV’s celebrity slop",
+      "url": "https://www.theguardian.com/football/2026/jun/12/bbc-world-cup-broadcast-battle-salford--itv-celebrity-slop",
+      "source": "The Guardian",
+      "published_at": "2026-06-12T22:32:52+00:00",
+      "summary": "Journalistic muscles were flexed with Ros Atkins factchecking real-world issues with production offering merits more achievable by working from home Must a World Cup broadcast be on location? The BBC, for reasons of cost and environmental concerns, has rolled back to when tournam",
+      "teams": [
+        "Mexico",
+        "South Africa",
+        "South Korea",
+        "Czech Republic"
       ],
       "is_injury_related": false
     },
@@ -194,22 +144,9 @@
       "summary": "“History is about to be made,” the understandably giddy stadium announcer said in the seconds before kick-off and while this was not the perfect start, Canada will not forget Cyle Larin’s equaliser against Bosnia and Herzegovina in a hurry. Trailing to Jovo Lukic’s first internat",
       "teams": [
         "Canada",
-        "Bosnia & Herzegovina",
-        "Qatar"
+        "Bosnia & Herzegovina"
       ],
-      "is_injury_related": false
-    },
-    {
-      "id": "82c6a59d09d4",
-      "title": "Transfer rumors, news: Man United eye USMNT's Robi...",
-      "url": "https://www.espn.com/soccer/story/_/id/49038387/transfer-rumors-news-man-united-eye-usmnt-robinson-england-hall",
-      "source": "ESPN",
-      "published_at": "2026-06-12T21:04:36+00:00",
-      "summary": "Manchester United have short-listed Newcastle United's Lewis Hall and Fulham's Antonee Robinson. Transfer Talk has the latest.",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": false
+      "is_injury_related": true
     },
     {
       "id": "e6dc1846454f",
@@ -404,23 +341,6 @@
       "is_injury_related": false
     },
     {
-      "id": "a23589347d8d",
-      "title": "World Cup Group D view from Paraguay: the reborn team no one wants to face | Christian Pérez",
-      "url": "https://www.theguardian.com/football/blog/2026/jun/13/world-cup-group-d-matches-paraguay-national-football-team-strengths-weaknesses",
-      "source": "The Guardian",
-      "published_at": "2026-06-12T15:00:52+00:00",
-      "summary": "Australia, the USA and Turkey should not underestimate La Albirroja, who have gone from mockery to one of the most feared teams in South America Paraguay are back at a World Cup after almost two decades of absence and tribulations – and ready to give Australia, the USA and Turkey",
-      "teams": [
-        "South Africa",
-        "USA",
-        "Paraguay",
-        "Australia",
-        "Turkey",
-        "Spain"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "a19099306ee6",
       "title": "Football Daily | The ‘Azteca’ delivers as hosts and ghosts give us that World Cup feeling",
       "url": "https://www.theguardian.com/football/2026/jun/12/football-daily-newsletter-mexico-azteca-world-cup-2026-opener",
@@ -434,19 +354,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "8b83b81fab64",
-      "title": "'Nightmare from start to finish' for South Africa in opener",
-      "url": "https://www.bbc.com/sport/football/articles/cn4dx3v9wjgo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-12T14:26:30+00:00",
-      "summary": "Former captain Dean Furman says South Africa were \"miles off it\" in their World Cup opener against Mexico, as many on the continent 'hate-watch' Bafana Bafana.",
-      "teams": [
-        "Mexico",
-        "South Africa"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "349b3293d97b",
@@ -530,30 +437,6 @@
       "teams": [
         "Scotland",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "b0ec8b29ec57",
-      "title": "Inside England's World Cup prep: Tuchel's squad su...",
-      "url": "https://www.espn.com/soccer/story/_/id/49029911/inside-england-world-cup-prep-thomas-tuchel-squad-survive-storms-heat-florida",
-      "source": "ESPN",
-      "published_at": "2026-06-12T09:26:59+00:00",
-      "summary": "ESPN followed England throughout their pre-World Cup preparations to answer one question: Are they ready to win a first major tournament in 60 years?",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "b0777a69f6f1",
-      "title": "For Brazil, 24 years after their last World Cup ti...",
-      "url": "https://www.espn.com/soccer/story/_/id/49021550/24-years-their-last-world-cup-title-win-bust-brazil",
-      "source": "ESPN",
-      "published_at": "2026-06-12T09:26:59+00:00",
-      "summary": "Brazil are the most successful team in World Cup history. But after not winning the title in 24 years, can Carlo Ancelotti's side finally end that run?",
-      "teams": [
-        "Brazil"
       ],
       "is_injury_related": false
     },
@@ -757,18 +640,6 @@
       "is_injury_related": false
     },
     {
-      "id": "632e9f44f5d2",
-      "title": "'You're not even the best player in your house' - the rise of 'Meatball' McGinn",
-      "url": "https://www.bbc.com/sport/football/articles/czj2rpgz3eko",
-      "source": "BBC Sport",
-      "published_at": "2026-06-11T13:48:36+00:00",
-      "summary": "John McGinn was a boy from Clydebank with a \"big, round head\" and bigger dreams. Scotland's World Cup opener marks a new high in a storybook career.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "e64d5ca752b6",
       "title": "Welcome to Trump’s World Cup, a depressingly angry version of football uniting the planet | Barney Ronay",
       "url": "https://www.theguardian.com/football/2026/jun/11/donald-trump-world-cup-ted-lasso-usa",
@@ -829,20 +700,6 @@
         "Ivory Coast",
         "France",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e93206bb66fa",
-      "title": "Mexico and a history of playing in repeat World Cup opening fixtures | The Knowledge",
-      "url": "https://www.theguardian.com/football/2026/jun/10/mexico-history-of-repeat-world-cup-opening-fixtures-knowledge",
-      "source": "The Guardian",
-      "published_at": "2026-06-10T07:00:13+00:00",
-      "summary": "Plus: a national first for Madrid and have Everton supplied the most former managers to World Cup 2026? Mail us with your all of your questions and answers “The opening match of the year’s World Cup is Mexico v South Africa,” notes Matt Reilly. “This was also the first game of So",
-      "teams": [
-        "Mexico",
-        "South Africa",
-        "Brazil"
       ],
       "is_injury_related": false
     },

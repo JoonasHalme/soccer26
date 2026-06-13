@@ -7740,10 +7740,10 @@
       "home": "USA",
       "away": "Paraguay",
       "score": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "odds": {
         "home": 2.1,
         "draw": 3.23,
