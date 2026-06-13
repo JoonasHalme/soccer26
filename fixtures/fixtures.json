@@ -3682,34 +3682,34 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-13T15:06:38.799698+00:00",
+        "captured_at": "2026-06-13T16:45:43.893258+00:00",
         "consensus": {
-          "home": 15.0,
+          "home": 14.9,
           "draw": 7.0,
           "away": 1.2,
-          "over_2_5": 1.57,
-          "under_2_5": 2.35
+          "over_2_5": 1.6,
+          "under_2_5": 2.3
         },
         "best_book": {
           "home": {
-            "price": 16.5,
-            "book": "Betfair"
+            "price": 17.51,
+            "book": "Smarkets"
           },
           "draw": {
-            "price": 7.6,
-            "book": "Betfair"
+            "price": 8.0,
+            "book": "Sky Bet"
           },
           "away": {
             "price": 1.24,
             "book": "GTbets"
           },
           "over_2_5": {
-            "price": 1.63,
-            "book": "BetOnline.ag"
+            "price": 1.66,
+            "book": "1xBet"
           },
           "under_2_5": {
-            "price": 2.4,
-            "book": "Unibet (SE)"
+            "price": 2.39,
+            "book": "BetOnline.ag"
           }
         }
       }
@@ -5893,7 +5893,39 @@
           },
           "totals": {}
         }
-      ]
+      ],
+      "closing_odds": {
+        "captured_at": "2026-06-13T16:45:43.893258+00:00",
+        "consensus": {
+          "home": 1.67,
+          "draw": 3.75,
+          "away": 5.6,
+          "over_2_5": 2.09,
+          "under_2_5": 1.71
+        },
+        "best_book": {
+          "home": {
+            "price": 1.72,
+            "book": "Matchbook"
+          },
+          "draw": {
+            "price": 3.95,
+            "book": "Betfair"
+          },
+          "away": {
+            "price": 6.2,
+            "book": "Smarkets"
+          },
+          "over_2_5": {
+            "price": 2.23,
+            "book": "BetOnline.ag"
+          },
+          "under_2_5": {
+            "price": 1.78,
+            "book": "Unibet (SE)"
+          }
+        }
+      }
     },
     {
       "id": "m-014",
