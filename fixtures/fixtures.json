@@ -3239,10 +3239,10 @@
       "home": "Qatar",
       "away": "Switzerland",
       "score": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       },
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "odds": {
         "home": 67.0,
         "draw": 15.0,
@@ -3626,34 +3626,24 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-13T18:22:12.294030+00:00",
+        "captured_at": "2026-06-13T20:38:42.406663+00:00",
         "consensus": {
-          "home": 15.0,
-          "draw": 7.1,
-          "away": 1.19,
-          "over_2_5": 1.59,
-          "under_2_5": 2.3
+          "home": 123.0,
+          "draw": 16.0,
+          "away": 1.02
         },
         "best_book": {
           "home": {
-            "price": 18.0,
-            "book": "Unibet (NL)"
+            "price": 251.0,
+            "book": "Unibet (UK)"
           },
           "draw": {
-            "price": 8.5,
-            "book": "Sky Bet"
+            "price": 23.0,
+            "book": "Betfair"
           },
           "away": {
             "price": 1.24,
-            "book": "GTbets"
-          },
-          "over_2_5": {
-            "price": 1.65,
-            "book": "1xBet"
-          },
-          "under_2_5": {
-            "price": 2.4,
-            "book": "Unibet (SE)"
+            "book": "Smarkets"
           }
         }
       }
@@ -5580,17 +5570,17 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-13T18:22:12.294030+00:00",
+        "captured_at": "2026-06-13T20:38:42.406663+00:00",
         "consensus": {
           "home": 1.67,
           "draw": 3.75,
-          "away": 5.5,
-          "over_2_5": 2.1,
+          "away": 5.57,
+          "over_2_5": 2.12,
           "under_2_5": 1.7
         },
         "best_book": {
           "home": {
-            "price": 1.73,
+            "price": 1.72,
             "book": "Matchbook"
           },
           "draw": {
@@ -5598,15 +5588,15 @@
             "book": "William Hill"
           },
           "away": {
-            "price": 6.0,
-            "book": "Betfair"
+            "price": 6.2,
+            "book": "Smarkets"
           },
           "over_2_5": {
             "price": 2.23,
             "book": "BetOnline.ag"
           },
           "under_2_5": {
-            "price": 1.76,
+            "price": 1.78,
             "book": "Coolbet"
           }
         }
@@ -6112,7 +6102,39 @@
           },
           "totals": {}
         }
-      ]
+      ],
+      "closing_odds": {
+        "captured_at": "2026-06-13T20:38:42.406663+00:00",
+        "consensus": {
+          "home": 5.8,
+          "draw": 4.5,
+          "away": 1.52,
+          "over_2_5": 1.62,
+          "under_2_5": 2.25
+        },
+        "best_book": {
+          "home": {
+            "price": 6.4,
+            "book": "Betfair"
+          },
+          "draw": {
+            "price": 4.8,
+            "book": "Betfair"
+          },
+          "away": {
+            "price": 1.56,
+            "book": "1xBet"
+          },
+          "over_2_5": {
+            "price": 1.7,
+            "book": "Matchbook"
+          },
+          "under_2_5": {
+            "price": 2.4,
+            "book": "Matchbook"
+          }
+        }
+      }
     },
     {
       "id": "m-015",
