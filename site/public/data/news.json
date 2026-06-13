@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T12:57:04.723422+00:00",
+  "generated_at": "2026-06-13T15:06:46.525053+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian",
@@ -7,14 +7,86 @@
   ],
   "items": [
     {
-      "id": "a0127d5f0aab",
-      "title": "Copy of Four goals and an electric display: USMNT's World ...",
-      "url": "https://www.espn.com/soccer/story/_/id/49046778/usmnts-world-cup-opener-was-perfect",
-      "source": "ESPN",
-      "published_at": "2026-06-13T13:26:44+00:00",
-      "summary": "World Cup co-hosts the United States banished any doubts hanging over the team with a decisive 4-1 victory over Paraguay on Friday.",
+      "id": "3308f211d779",
+      "title": "Listen: Sportsound build-up to Scotland's World Cup opener",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm",
+      "source": "BBC Sport",
+      "published_at": "2026-06-13T16:00:00+00:00",
+      "summary": "All the very latest World Cup news ahead Scotland's opening match against Haiti.",
       "teams": [
-        "USA",
+        "Haiti",
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "7440f70f23e4",
+      "title": "World Cup Daily LIVE: Brazil fans take over NYC ah...",
+      "url": "https://www.espn.com/soccer/story/_/id/49047065/world-cup-daily-brazil-fans-take-nyc-ahead-knicks-game-ronaldo-arrives",
+      "source": "ESPN",
+      "published_at": "2026-06-13T14:58:22+00:00",
+      "summary": "Follow all the action from Saturday's World Cup action, with features, news, video analysis and color from around the competition.",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b0777a69f6f1",
+      "title": "For Brazil, 24 years after their last World Cup ti...",
+      "url": "https://www.espn.com/soccer/story/_/id/49021550/24-years-their-last-world-cup-title-win-bust-brazil",
+      "source": "ESPN",
+      "published_at": "2026-06-13T14:58:05+00:00",
+      "summary": "Brazil are the most successful team in World Cup history. But after not winning the title in 24 years, can Carlo Ancelotti's side finally end that run?",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "0060694b920c",
+      "title": "The Tartan Army has shown up in force. Now Scotlan...",
+      "url": "https://www.espn.com/soccer/story/_/id/49042696/scotland-haiti-preview-world-cup-2026-andy-robertson-scott-mctominay-group-c-boston",
+      "source": "ESPN",
+      "published_at": "2026-06-13T14:58:05+00:00",
+      "summary": "Scotland fans and players are united by Andy Robertson's message: \"I don't want any regrets,\" writes ESPN's Tom Hamilton.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "524a25171457",
+      "title": "Stolen England training equipment recovered",
+      "url": "https://www.bbc.com/sport/football/articles/cwyldy8w0jpo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-13T14:53:33+00:00",
+      "summary": "England recover most of the training equipment that was stolen prior to their arrival in Kansas City on Saturday.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "500b275ff339",
+      "title": "USMNT player ratings: Balogun, Pulisic team-best p...",
+      "url": "https://www.espn.com/soccer/story/_/id/49045006/usmnt-player-ratings-balogun-pulisic-team-best-showings-lead-dazzling-world-cup-opener",
+      "source": "ESPN",
+      "published_at": "2026-06-13T14:49:30+00:00",
+      "summary": "In the USMNT's World Cup-opening win, Folarin Balogun and Christian Pulisic share the spotlight as the team's best players.",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b3be7e870e5b",
+      "title": "'The kid is insane': Why Balogun is primed to take...",
+      "url": "https://www.espn.com/soccer/story/_/id/49048048/balogun-makes-usmnt-better-including-star-pulisic",
+      "source": "ESPN",
+      "published_at": "2026-06-13T14:49:23+00:00",
+      "summary": "Friday's 4-1 blowout of Paraguay showed that the U.S. men's national team has its star. What if it now has its scorer, too?",
+      "teams": [
         "Paraguay"
       ],
       "is_injury_related": true
@@ -24,7 +96,7 @@
       "title": "VAR review: What was the 'mistaken identity' check...",
       "url": "https://www.espn.com/soccer/story/_/id/49046171/var-review-was-mistaken-identity-check-usmnts-win",
       "source": "ESPN",
-      "published_at": "2026-06-13T13:26:44+00:00",
+      "published_at": "2026-06-13T14:49:09+00:00",
       "summary": "After originally giving USMNT defender Tim Ream a yellow card, the referee was called to the screen and reissued it to Paraguay's Miguel Almirón.",
       "teams": [
         "USA",
@@ -33,12 +105,12 @@
       "is_injury_related": false
     },
     {
-      "id": "b3be7e870e5b",
-      "title": "Copy of Balogun makes this USMNT side better, including it...",
-      "url": "https://www.espn.com/soccer/story/_/id/49048048/balogun-makes-usmnt-better-including-star-pulisic",
+      "id": "a0127d5f0aab",
+      "title": "Copy of Four goals and an electric display: USMNT's World ...",
+      "url": "https://www.espn.com/soccer/story/_/id/49046778/usmnts-world-cup-opener-was-perfect",
       "source": "ESPN",
-      "published_at": "2026-06-13T13:26:29+00:00",
-      "summary": "Friday's 4-1 blowout of Paraguay showed that the U.S. men's national team has its star. What if it now has its scorer, too?",
+      "published_at": "2026-06-13T14:49:03+00:00",
+      "summary": "World Cup co-hosts the United States banished any doubts hanging over the team with a decisive 4-1 victory over Paraguay on Friday.",
       "teams": [
         "USA",
         "Paraguay"
@@ -46,32 +118,70 @@
       "is_injury_related": true
     },
     {
-      "id": "500b275ff339",
-      "title": "USMNT player ratings: Balogun, Pulisic team-best p...",
-      "url": "https://www.espn.com/soccer/story/_/id/49045006/usmnt-player-ratings-balogun-pulisic-team-best-showings-lead-dazzling-world-cup-opener",
-      "source": "ESPN",
-      "published_at": "2026-06-13T13:26:28+00:00",
-      "summary": "In the USMNT's World Cup-opening win, Folarin Balogun and Christian Pulisic share the spotlight as the team's best players.",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "74684d4028cc",
-      "title": "World Cup 2026: Scotland gear up for Haiti; Ghana hit out at ‘unfair’ Partey visa denial, and more – live",
+      "title": "World Cup 2026: England recover stolen boots; Scotland’s big return; Brazil ready to party – live",
       "url": "https://www.theguardian.com/football/live/2026/jun/13/world-cup-2026-usa-light-up-la-englands-boots-stolen-scotlands-big-return-live",
       "source": "The Guardian",
-      "published_at": "2026-06-13T12:48:53+00:00",
-      "summary": "⚽️ Latest news and discussion as tournament continues ⚽️ USA 4-1 Paraguay | Scotland become faithfuls or traitors ⚽️ Player guide | Bracketology | Wallchart | Mail Rob Looking for some extra reading? Jacob Steinberg and David Hytner have delved into the making of Declan Rice, Eng",
+      "published_at": "2026-06-13T14:48:14+00:00",
+      "summary": "⚽️ Latest news and discussion as tournament continues ⚽️ USA 4-1 Paraguay | Scotland become faithfuls or traitors ⚽️ Player guide | Bracketology | Wallchart | Mail Will Looking for some extra reading? Jacob Steinberg and David Hytner have delved into the making of Declan Rice, En",
       "teams": [
+        "Brazil",
         "Haiti",
         "Scotland",
         "USA",
         "Paraguay",
         "New Zealand",
-        "England",
-        "Ghana"
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "b732bdab1f42",
+      "title": "Can Vinicius finally convince Brazil in Neymar's absence?",
+      "url": "https://www.bbc.com/sport/football/articles/c0l2rek0dj4o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-13T14:09:49+00:00",
+      "summary": "Vinicius Junior is considered one of the best players in the world, but can he make the Brazilian public fall in love with him at the World Cup?",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "fde3743c4f91",
+      "title": "All done deals in June 2026",
+      "url": "https://www.bbc.com/sport/football/articles/ce9p91r771go",
+      "source": "BBC Sport",
+      "published_at": "2026-06-13T13:30:09+00:00",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8c917bdb06ac",
+      "title": "Who are the Haiti players to look out for against Scotland?",
+      "url": "https://www.bbc.com/sport/football/articles/cq81qxnxlw8o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-13T13:00:28+00:00",
+      "summary": "Scotland face Haiti in their opening match of the 2026 World Cup. BBC Sport takes a look at the Haiti players to look out for.",
+      "teams": [
+        "Haiti",
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "3b73079ae0d2",
+      "title": "Might Scotland throw midfield curveball at Haiti?",
+      "url": "https://www.bbc.com/sport/football/articles/cqj1z4e21gro",
+      "source": "BBC Sport",
+      "published_at": "2026-06-13T12:56:20+00:00",
+      "summary": "BBC Scotland looks at the midfield conundrum facing Scotland boss Steve Clarke.",
+      "teams": [
+        "Haiti",
+        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -145,7 +255,7 @@
       "url": "https://www.espn.com/soccer/story/_/id/49047535/ghana-vow-fight-canada-thomas-partey-visa-decision-flimsy-reasons",
       "source": "ESPN",
       "published_at": "2026-06-13T12:14:15+00:00",
-      "summary": "Ghana's government will urge Canada to review its decision to deny Thomas Partey entry to the country after he was refused the right to enter Canadian soil Friday.",
+      "summary": "Ghana's government has urged Canada to review its decision to deny Thomas Partey entry to the country after he was refused the right to enter Canadian soil Friday.",
       "teams": [
         "Canada",
         "Ghana"
@@ -165,6 +275,20 @@
       "is_injury_related": false
     },
     {
+      "id": "464abcaa3c5e",
+      "title": "Ghana strongly criticises Canada for denying Thomas Partey a World Cup visa",
+      "url": "https://www.theguardian.com/football/2026/jun/13/ghana-criticises-canada-thomas-partey-visa-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-06-13T12:10:27+00:00",
+      "summary": "‘High-handed and extremely unfair,’ government says Official note of protest sent calling for a review Ghana’s government has described Canada’s decision to deny Thomas Partey a visa for his country’s World Cup game against Panama on Wednesday as “high-handed and extremely unfair",
+      "teams": [
+        "Canada",
+        "Ghana",
+        "Panama"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "9e9389727200",
       "title": "Ghana government wants review of Partey Canada ban",
       "url": "https://www.bbc.com/sport/football/articles/ce3en0nz251o",
@@ -179,7 +303,7 @@
     },
     {
       "id": "c79f6cc5af3d",
-      "title": "'Gang leaders are soccer lovers' - Haiti play with hope for peace",
+      "title": "The trauma and hope behind Haiti's rare World Cup appearance",
       "url": "https://www.bbc.com/sport/football/articles/c23yvvv7kr3o",
       "source": "BBC Sport",
       "published_at": "2026-06-13T11:29:34+00:00",
@@ -229,18 +353,6 @@
       "is_injury_related": false
     },
     {
-      "id": "7440f70f23e4",
-      "title": "World Cup Daily LIVE: Brazil fans take over NYC ah...",
-      "url": "https://www.espn.com/soccer/story/_/id/49047065/world-cup-daily-brazil-fans-take-nyc-ahead-knicks-game-ronaldo-arrives",
-      "source": "ESPN",
-      "published_at": "2026-06-13T10:56:28+00:00",
-      "summary": "Follow all the action from Saturday's World Cup action, with features, news, video analysis and color from around the competition.",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "c28ee3157c7b",
       "title": "What is it like to play for Scotland at a World Cup?",
       "url": "https://www.bbc.com/sport/football/articles/cly8339w041o",
@@ -278,6 +390,18 @@
         "England"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "fccd874888db",
+      "title": "Transfer rumors, news: Arsenal shortlist three you...",
+      "url": "https://www.espn.com/soccer/story/_/id/49047880/transfer-rumors-news-arsenal-shortlist-three-young-wingers",
+      "source": "ESPN",
+      "published_at": "2026-06-13T08:47:06+00:00",
+      "summary": "Roma have asked for information on AC Milan and USMNT forward Christian Pulisic. Transfer Talk has the latest.",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "9221b5e907f7",
@@ -337,30 +461,6 @@
       "summary": "Ecuador has produced incredible talents and has been one of South America's most competitive nations in the last few years, but can they surprise people at the World Cup?",
       "teams": [
         "Ecuador"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "b0777a69f6f1",
-      "title": "For Brazil, 24 years after their last World Cup ti...",
-      "url": "https://www.espn.com/soccer/story/_/id/49021550/24-years-their-last-world-cup-title-win-bust-brazil",
-      "source": "ESPN",
-      "published_at": "2026-06-13T08:06:45+00:00",
-      "summary": "Brazil are the most successful team in World Cup history. But after not winning the title in 24 years, can Carlo Ancelotti's side finally end that run?",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "0060694b920c",
-      "title": "The Tartan Army has shown up in force. Now Scotlan...",
-      "url": "https://www.espn.com/soccer/story/_/id/49042696/scotland-haiti-preview-world-cup-2026-andy-robertson-scott-mctominay-group-c-boston",
-      "source": "ESPN",
-      "published_at": "2026-06-13T08:06:45+00:00",
-      "summary": "Scotland fans and players are united by Andy Robertson's message: \"I don't want any regrets,\" writes ESPN's Tom Hamilton.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -527,18 +627,6 @@
       "is_injury_related": false
     },
     {
-      "id": "524a25171457",
-      "title": "England have training equipment stolen",
-      "url": "https://www.bbc.com/sport/football/articles/cwyldy8w0jpo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-13T02:13:55+00:00",
-      "summary": "England are victims of a theft of their training equipment before their arrival in Kansas City on Saturday.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "ce67eaf53dc1",
       "title": "Katy Perry, Tyla & Future among performers at USA's opening ceremony",
       "url": "https://www.bbc.com/sport/football/videos/ce8me8qrlrmo",
@@ -560,21 +648,6 @@
       "teams": [
         "Canada",
         "Bosnia & Herzegovina"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e7447c41da89",
-      "title": "BBC kicks off World Cup broadcast battle in Salford and provides contrast to ITV’s celebrity slop",
-      "url": "https://www.theguardian.com/football/2026/jun/12/bbc-world-cup-broadcast-battle-salford--itv-celebrity-slop",
-      "source": "The Guardian",
-      "published_at": "2026-06-12T22:32:52+00:00",
-      "summary": "Journalistic muscles were flexed with Ros Atkins factchecking real-world issues with production offering merits more achievable by working from home Must a World Cup broadcast be on location? The BBC, for reasons of cost and environmental concerns, has rolled back to when tournam",
-      "teams": [
-        "Mexico",
-        "South Africa",
-        "South Korea",
-        "Czech Republic"
       ],
       "is_injury_related": false
     },
@@ -603,20 +676,6 @@
         "Bosnia & Herzegovina"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "95dbb05d5c72",
-      "title": "Partey denied entry to Canada for Ghana's World Cup opener",
-      "url": "https://www.bbc.com/sport/football/articles/cn8qgny4186o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-12T21:37:42+00:00",
-      "summary": "Ghana midfielder Thomas Partey will miss his nation's first World Cup game in Toronto against Panama, after being denied entry to Canada.",
-      "teams": [
-        "Canada",
-        "Ghana",
-        "Panama"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "a95e14e0f3a2",
@@ -837,18 +896,6 @@
       "is_injury_related": false
     },
     {
-      "id": "c5b8f238873a",
-      "title": "Beth Mead describes moving to Manchester City as a ‘no-brainer’",
-      "url": "https://www.theguardian.com/football/2026/jun/12/beth-mead-describes-moving-to-manchester-city-as-a-no-brainer",
-      "source": "The Guardian",
-      "published_at": "2026-06-12T12:17:55+00:00",
-      "summary": "Ex-Arsenal forward signs three-year deal with champions ‘The way City plays suits me really well,’ says 31-year-old Beth Mead believes Manchester City’s playing style suits her own and has described her move to the Women’s Super League champions on a three-year contract as a “no-",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "f816e318d193",
       "title": "Man City sign England's Mead on free transfer",
       "url": "https://www.bbc.com/sport/football/articles/czx5d7z550xo",
@@ -913,6 +960,18 @@
       "is_injury_related": false
     },
     {
+      "id": "bdad9341db8f",
+      "title": "From near death to World Cup hero - Jimenez's tears for Mexico",
+      "url": "https://www.bbc.com/sport/football/articles/cm2dl67rljvo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-12T00:02:08+00:00",
+      "summary": "From nearly dying on the pitch to scoring for Mexico at the World Cup - Raul Jimenez has completed a remarkable comeback.",
+      "teams": [
+        "Mexico"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "aa7ca6540ce6",
       "title": "Three red cards shown as Mexico beat South Africa in World Cup opener",
       "url": "https://www.bbc.com/sport/football/videos/cx2dyr3e1zro",
@@ -935,18 +994,6 @@
       "teams": [
         "Mexico",
         "South Africa"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "fde3743c4f91",
-      "title": "All done deals in June 2026",
-      "url": "https://www.bbc.com/sport/football/articles/ce9p91r771go",
-      "source": "BBC Sport",
-      "published_at": "2026-06-11T19:37:09+00:00",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -986,56 +1033,6 @@
         "USA"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "e64d5ca752b6",
-      "title": "Welcome to Trump’s World Cup, a depressingly angry version of football uniting the planet | Barney Ronay",
-      "url": "https://www.theguardian.com/football/2026/jun/11/donald-trump-world-cup-ted-lasso-usa",
-      "source": "The Guardian",
-      "published_at": "2026-06-11T12:44:08+00:00",
-      "summary": "Ted Lasso will deliver a message of hope before the USA’s first game, in an America that is not a fit or desirable host right now Shortly before 6pm local time on Friday night at the Los Angeles Stadium, the actor who plays Ted Lasso – the fictional manager of a fake team in a fa",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "fc1e10b32e59",
-      "title": "Man City agree deal to sign England's Charles",
-      "url": "https://www.bbc.com/sport/football/articles/cp3653pydxpo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-11T12:14:01+00:00",
-      "summary": "Manchester City have agreed a deal to sign England defender Niamh Charles from Chelsea.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "c01a6dd4b58c",
-      "title": "Dalglish, Souness & Rod Stewart - Scotland's World Cup '86 remembered",
-      "url": "https://www.bbc.com/sport/football/articles/c62xqg7l6w9o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-11T10:49:29+00:00",
-      "summary": "Remembering Scotland's 1986 World Cup campaign, their fourth successive appearance at the tournament.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "853a61e63f6f",
-      "title": "England’s World Cup setback and Durham’s fight for survival – Women’s Football Weekly",
-      "url": "https://www.theguardian.com/football/audio/2026/jun/10/englands-world-cup-setback-and-durhams-fight-for-survival-womens-football-weekly",
-      "source": "The Guardian",
-      "published_at": "2026-06-10T13:53:26+00:00",
-      "summary": "Faye Carruthers is joined by Suzy Wrack , Tom Garry and Marva Kreel to discuss England’s failure to qualify automatically for the 2027 World Cup and the uncertain future facing Durham. On today’s pod: The panel assess a frustrating end to England’s World Cup qualifying campaign, ",
-      "teams": [
-        "Brazil",
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": true
     }
   ]
 }
