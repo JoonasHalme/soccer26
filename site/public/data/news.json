@@ -1,39 +1,269 @@
 {
-  "generated_at": "2026-06-13T10:07:41.644380+00:00",
+  "generated_at": "2026-06-13T12:57:04.723422+00:00",
   "sources": [
     "BBC Sport",
-    "The Guardian"
+    "The Guardian",
+    "ESPN"
   ],
   "items": [
     {
+      "id": "a0127d5f0aab",
+      "title": "Copy of Four goals and an electric display: USMNT's World ...",
+      "url": "https://www.espn.com/soccer/story/_/id/49046778/usmnts-world-cup-opener-was-perfect",
+      "source": "ESPN",
+      "published_at": "2026-06-13T13:26:44+00:00",
+      "summary": "World Cup co-hosts the United States banished any doubts hanging over the team with a decisive 4-1 victory over Paraguay on Friday.",
+      "teams": [
+        "USA",
+        "Paraguay"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "7ea1839f765b",
+      "title": "VAR review: What was the 'mistaken identity' check...",
+      "url": "https://www.espn.com/soccer/story/_/id/49046171/var-review-was-mistaken-identity-check-usmnts-win",
+      "source": "ESPN",
+      "published_at": "2026-06-13T13:26:44+00:00",
+      "summary": "After originally giving USMNT defender Tim Ream a yellow card, the referee was called to the screen and reissued it to Paraguay's Miguel Almirón.",
+      "teams": [
+        "USA",
+        "Paraguay"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b3be7e870e5b",
+      "title": "Copy of Balogun makes this USMNT side better, including it...",
+      "url": "https://www.espn.com/soccer/story/_/id/49048048/balogun-makes-usmnt-better-including-star-pulisic",
+      "source": "ESPN",
+      "published_at": "2026-06-13T13:26:29+00:00",
+      "summary": "Friday's 4-1 blowout of Paraguay showed that the U.S. men's national team has its star. What if it now has its scorer, too?",
+      "teams": [
+        "USA",
+        "Paraguay"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "500b275ff339",
+      "title": "USMNT player ratings: Balogun, Pulisic team-best p...",
+      "url": "https://www.espn.com/soccer/story/_/id/49045006/usmnt-player-ratings-balogun-pulisic-team-best-showings-lead-dazzling-world-cup-opener",
+      "source": "ESPN",
+      "published_at": "2026-06-13T13:26:28+00:00",
+      "summary": "In the USMNT's World Cup-opening win, Folarin Balogun and Christian Pulisic share the spotlight as the team's best players.",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "74684d4028cc",
-      "title": "World Cup 2026: USA light up LA; England’s boots stolen; Scotland’s big return – live",
+      "title": "World Cup 2026: Scotland gear up for Haiti; Ghana hit out at ‘unfair’ Partey visa denial, and more – live",
       "url": "https://www.theguardian.com/football/live/2026/jun/13/world-cup-2026-usa-light-up-la-englands-boots-stolen-scotlands-big-return-live",
       "source": "The Guardian",
-      "published_at": "2026-06-13T09:42:22+00:00",
-      "summary": "⚽️ Latest news and discussion as tournament continues ⚽️ USA 4-1 Paraguay | Scotland become faithfuls or traitors ⚽️ Player guide | Bracketology | Wallchart | Mail Will Looking for some extra reading? Jacob Steinberg and David Hytner have delved into the making of Declan Rice, En",
+      "published_at": "2026-06-13T12:48:53+00:00",
+      "summary": "⚽️ Latest news and discussion as tournament continues ⚽️ USA 4-1 Paraguay | Scotland become faithfuls or traitors ⚽️ Player guide | Bracketology | Wallchart | Mail Rob Looking for some extra reading? Jacob Steinberg and David Hytner have delved into the making of Declan Rice, Eng",
       "teams": [
         "Haiti",
         "Scotland",
         "USA",
         "Paraguay",
         "New Zealand",
+        "England",
+        "Ghana"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ac53e997dfda",
+      "title": "Dempsey slams Marsch over anthem: Stay in lane",
+      "url": "https://www.espn.com/soccer/story/_/id/49044184/dempsey-slams-marsch-us-anthem-claim",
+      "source": "ESPN",
+      "published_at": "2026-06-13T12:15:36+00:00",
+      "summary": "United States legend Clint Dempsey had some choice words for former national team assistant Jesse Marsch, who suggested Thursday that some American players needed encouragement to sing the anthem ahead of games.",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b4d3cdca0db7",
+      "title": "Pulisic subbed off at halftime, 'hoping it's nothi...",
+      "url": "https://www.espn.com/soccer/story/_/id/49045997/christian-pulisic-subbed-half-usmnt-rolling",
+      "source": "ESPN",
+      "published_at": "2026-06-13T12:15:35+00:00",
+      "summary": "United States winger Christian Pulisic was substituted at halftime of his team's World Cup opener against Paraguay on Friday, with the Americans leading 3-0 at the break.",
+      "teams": [
+        "USA",
+        "Paraguay"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "454d105bb700",
+      "title": "Balogun living WC 'dream' as U.S. choice pays off",
+      "url": "https://www.espn.com/soccer/story/_/id/49047212/folarin-balogun-usa-world-cup-2026-goals-paraguay",
+      "source": "ESPN",
+      "published_at": "2026-06-13T12:14:15+00:00",
+      "summary": "USMNT striker Folarin Balogun, who could have played for England or Nigeria, said his two goals in Friday's 4-1 World Cup victory over Paraguay made for a \"dreamy night.\"",
+      "teams": [
+        "USA",
+        "Paraguay",
         "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "3ad711501246",
+      "title": "Two arrested after England World Cup gear stolen",
+      "url": "https://www.espn.com/soccer/story/_/id/49046931/england-world-cup-gear-stolen-team-van-kansas-city",
+      "source": "ESPN",
+      "published_at": "2026-06-13T12:14:15+00:00",
+      "summary": "Two people have been arrested in Kansas City after England World Cup equipment was stolen in transit from Florida.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "243dab57c814",
+      "title": "FIFA defends attendance despite empty seats",
+      "url": "https://www.espn.com/soccer/story/_/id/49042423/fifa-defends-attendance-figure-amidst-empty-seats-south-korea-vs-czechia",
+      "source": "ESPN",
+      "published_at": "2026-06-13T12:14:15+00:00",
+      "summary": "FIFA insists the attendance figure for the World Cup clash between South Korea and Czech Republic was accurate after pictures appeared to show thousands of empty seats.",
+      "teams": [
+        "South Korea",
+        "Czech Republic"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f88b42b31845",
+      "title": "Ghana vow to fight Canada's Partey visa decision",
+      "url": "https://www.espn.com/soccer/story/_/id/49047535/ghana-vow-fight-canada-thomas-partey-visa-decision-flimsy-reasons",
+      "source": "ESPN",
+      "published_at": "2026-06-13T12:14:15+00:00",
+      "summary": "Ghana's government will urge Canada to review its decision to deny Thomas Partey entry to the country after he was refused the right to enter Canadian soil Friday.",
+      "teams": [
+        "Canada",
+        "Ghana"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "78620e01a138",
+      "title": "Pogba: 2026 France better than 2018 WC winners",
+      "url": "https://www.espn.com/soccer/story/_/id/49040430/world-cup-winner-paul-pogba-france-better-us",
+      "source": "ESPN",
+      "published_at": "2026-06-13T12:14:15+00:00",
+      "summary": "Paul Pogba has claimed that the France team at the 2026 World Cup is better than the 2018 winners, which he was a part of.",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "9e9389727200",
+      "title": "Ghana government wants review of Partey Canada ban",
+      "url": "https://www.bbc.com/sport/football/articles/ce3en0nz251o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-13T12:09:47+00:00",
+      "summary": "Ghana midfielder Thomas Partey is banned from entering Canada for their opening game of the World Cup.",
+      "teams": [
+        "Canada",
+        "Ghana"
       ],
       "is_injury_related": true
     },
     {
-      "id": "b9f2bf638f67",
-      "title": "Brown's memories of France 98 - Scotland's last World Cup adventure",
-      "url": "https://www.bbc.com/sport/football/articles/c5y8rxq4yq7o",
+      "id": "c79f6cc5af3d",
+      "title": "'Gang leaders are soccer lovers' - Haiti play with hope for peace",
+      "url": "https://www.bbc.com/sport/football/articles/c23yvvv7kr3o",
       "source": "BBC Sport",
-      "published_at": "2026-06-13T08:54:03+00:00",
-      "summary": "The late Craig Brown's recollections of leading Scotland at the 1998 World Cup.",
+      "published_at": "2026-06-13T11:29:34+00:00",
+      "summary": "Haiti's first appearance at a men's World Cup for 52 years is as much about hope as it is goals for the conflict-torn nation.",
       "teams": [
-        "Scotland",
+        "Haiti"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b46701755ce2",
+      "title": "‘Everyone is welcome with us’: Curaçao want you along for their first World Cup ride",
+      "url": "https://www.theguardian.com/football/2026/jun/13/everyone-is-welcome-with-us-curacao-want-you-along-for-their-first-world-cup-ride",
+      "source": "The Guardian",
+      "published_at": "2026-06-13T11:07:48+00:00",
+      "summary": "The smallest nation ever to compete in the tournament celebrate the long adventure that got them there, and remember those who cannot be there to enjoy it with them Angelo Cijntje can look back now and smile. It was September 2023 and Curaçao’s trip from Trinidad to Martinique fo",
+      "teams": [
+        "Curaçao"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "bb83a1f55a69",
+      "title": "In a USA win for the history books, what stood out most was the ‘fun’ and free nature of it",
+      "url": "https://www.theguardian.com/football/2026/jun/13/in-a-usa-win-for-the-history-books-what-stood-out-most-was-the-fun-and-free-nature-of-it",
+      "source": "The Guardian",
+      "published_at": "2026-06-13T11:00:14+00:00",
+      "summary": "The United States are no longer a workmanlike outfit built on grit and grind – and Mauricio Pochettino says they are ‘winning a lot of fans’ To find a precedent for the United States’ win over Paraguay, one must return to a time when World Cup teams were forced to drop out due to",
+      "teams": [
+        "USA",
+        "Paraguay",
+        "Belgium"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "c915c8c9d863",
+      "title": "Why Pulisic is ready to take USA to next level - Giroud",
+      "url": "https://www.bbc.com/sport/football/articles/c8r2jn402pro",
+      "source": "BBC Sport",
+      "published_at": "2026-06-13T11:00:00+00:00",
+      "summary": "France's World Cup winner Olivier Giroud explains why his friend and former Chelsea and AC Milan team-mate Christian Pulisic holds the key to USA hopes at this summer's tournament.",
+      "teams": [
+        "USA",
         "France"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "7440f70f23e4",
+      "title": "World Cup Daily LIVE: Brazil fans take over NYC ah...",
+      "url": "https://www.espn.com/soccer/story/_/id/49047065/world-cup-daily-brazil-fans-take-nyc-ahead-knicks-game-ronaldo-arrives",
+      "source": "ESPN",
+      "published_at": "2026-06-13T10:56:28+00:00",
+      "summary": "Follow all the action from Saturday's World Cup action, with features, news, video analysis and color from around the competition.",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "c28ee3157c7b",
+      "title": "What is it like to play for Scotland at a World Cup?",
+      "url": "https://www.bbc.com/sport/football/articles/cly8339w041o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-13T10:19:26+00:00",
+      "summary": "Former Scotland players Paul Lambert, Darren Jackson and Rachel Corsie explain what it is like to live every fan's dream by playing at a World Cup.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ab91a49eef39",
+      "title": "Pipers and dreams: World Cup fever grips Scotland again after 28 years",
+      "url": "https://www.theguardian.com/football/2026/jun/13/pipers-and-dreams-world-cup-fever-grips-scotland-again-after-28-years",
+      "source": "The Guardian",
+      "published_at": "2026-06-13T10:00:11+00:00",
+      "summary": "The country is ready to blow away decades of dashed hopes and celebrate, with marching bands and all-night parties Scotland is leaning into one of its most treasured traditions: embracing the hope and anxiety of a football World Cup, with a healthy dose of self-deprecating style.",
+      "teams": [
+        "Brazil",
+        "Scotland"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "180cb51103ca",
@@ -50,6 +280,91 @@
       "is_injury_related": true
     },
     {
+      "id": "9221b5e907f7",
+      "title": "Mexico's win an emotional celebration of World Cup...",
+      "url": "https://www.espn.com/soccer/story/_/id/49033649/mexico-win-south-africa-emotional-celebration-world-cup-return-estadio-azteca",
+      "source": "ESPN",
+      "published_at": "2026-06-13T08:23:00+00:00",
+      "summary": "Forty years after the World Cup was last in Mexico, the tournament returned Thursday, and Mexico celebrated with an emotional win over South Africa.",
+      "teams": [
+        "Mexico",
+        "South Africa"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "33692a0ff3f8",
+      "title": "South Korea produce stirring revival to get off to...",
+      "url": "https://www.espn.com/soccer/story/_/id/49037890/fifa-world-cup-south-korea-produce-stirring-revival-get-winning-start-vs-czechia",
+      "source": "ESPN",
+      "published_at": "2026-06-13T08:23:00+00:00",
+      "summary": "For the first time since 2010, South Korea won their opening game at the FIFA World Cup.",
+      "teams": [
+        "South Korea"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8bf41bf389c4",
+      "title": "Don't forget Canada: Why opening draw shows this i...",
+      "url": "https://www.espn.com/soccer/story/_/id/49044571/forget-canada-world-cup-hosts-bosnia-why-opening-draw-shows-their-world-cup-too",
+      "source": "ESPN",
+      "published_at": "2026-06-13T08:22:34+00:00",
+      "summary": "Never mind the fact that Canada didn't win: The World Cup co-hosts made history Friday and earned their first point.",
+      "teams": [
+        "Canada"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b0ec8b29ec57",
+      "title": "Copy of Inside England's World Cup prep: Tuchel's squad su...",
+      "url": "https://www.espn.com/soccer/story/_/id/49029911/inside-england-world-cup-prep-thomas-tuchel-squad-survive-storms-heat-florida",
+      "source": "ESPN",
+      "published_at": "2026-06-13T08:13:01+00:00",
+      "summary": "ESPN followed England throughout their pre-World Cup preparations to answer one question: Are they ready to win a first major tournament in 60 years?",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "f940259968c9",
+      "title": "With a rock-solid defense, can Ecuador make surpri...",
+      "url": "https://www.espn.com/soccer/story/_/id/49043580/why-ecuador-sleeper-team-2026-world-cup",
+      "source": "ESPN",
+      "published_at": "2026-06-13T08:13:01+00:00",
+      "summary": "Ecuador has produced incredible talents and has been one of South America's most competitive nations in the last few years, but can they surprise people at the World Cup?",
+      "teams": [
+        "Ecuador"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b0777a69f6f1",
+      "title": "For Brazil, 24 years after their last World Cup ti...",
+      "url": "https://www.espn.com/soccer/story/_/id/49021550/24-years-their-last-world-cup-title-win-bust-brazil",
+      "source": "ESPN",
+      "published_at": "2026-06-13T08:06:45+00:00",
+      "summary": "Brazil are the most successful team in World Cup history. But after not winning the title in 24 years, can Carlo Ancelotti's side finally end that run?",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "0060694b920c",
+      "title": "The Tartan Army has shown up in force. Now Scotlan...",
+      "url": "https://www.espn.com/soccer/story/_/id/49042696/scotland-haiti-preview-world-cup-2026-andy-robertson-scott-mctominay-group-c-boston",
+      "source": "ESPN",
+      "published_at": "2026-06-13T08:06:45+00:00",
+      "summary": "Scotland fans and players are united by Andy Robertson's message: \"I don't want any regrets,\" writes ESPN's Tom Hamilton.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "3d3ecfe71ee0",
       "title": "Football Daily",
       "url": "https://www.bbc.co.uk/sounds/play/p0nrt0bb",
@@ -62,6 +377,23 @@
       "is_injury_related": false
     },
     {
+      "id": "0ff7211008f9",
+      "title": "USA blast out of the blocks and Canada get first ever point | World Cup Daily",
+      "url": "https://www.theguardian.com/football/video/2026/jun/13/usa-blast-out-of-the-blocks-and-canada-get-first-ever-point-world-cup-daily",
+      "source": "The Guardian",
+      "published_at": "2026-06-13T07:33:32+00:00",
+      "summary": "On the podcast today: the USA … might actually be very good? They blew Paraguay away in their opening game in LA. Christian Pulisic, we owe you a huge apology. Elsewhere; Canada come back to draw with Bosnia and Herzegovina, an inspired triple substitution from Jesse Marsch turni",
+      "teams": [
+        "Canada",
+        "Bosnia & Herzegovina",
+        "Haiti",
+        "Scotland",
+        "USA",
+        "Paraguay"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "335bb7130988",
       "title": "Scotland return to centre stage at last in must-win World Cup opener",
       "url": "https://www.bbc.com/sport/football/articles/c04y70z59y5o",
@@ -71,18 +403,6 @@
       "teams": [
         "Scotland",
         "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "e153c4dd617e",
-      "title": "‘We can do much’: how feeling for family helped end Haiti’s long World Cup absence",
-      "url": "https://www.theguardian.com/football/2026/jun/13/we-can-do-much-how-feeling-for-family-helped-end-haitis-long-world-cup-absence",
-      "source": "The Guardian",
-      "published_at": "2026-06-13T07:00:07+00:00",
-      "summary": "Haiti are on football’s grandest stage for first time since 1974 and squad drawn from far and wide are ‘hungry’ for success Tamy Michel grew up watching her father run a football club through prison, political upheaval and the endless uncertainties of life in Haiti. Solange Miche",
-      "teams": [
-        "Haiti"
       ],
       "is_injury_related": true
     },
@@ -324,6 +644,21 @@
       "is_injury_related": true
     },
     {
+      "id": "116d6ed803d9",
+      "title": "Scotland bid to exorcise World Cup ghosts by breaking group stage barrier",
+      "url": "https://www.theguardian.com/football/2026/jun/12/scotland-world-cup-football-haiti-steve-clarke",
+      "source": "The Guardian",
+      "published_at": "2026-06-12T21:00:55+00:00",
+      "summary": "Steve Clarke’s team start against Haiti in Foxborough with growing optimism of ending their pattern of failure on the biggest stage It is not only ghosts from Costa Rica, Peru, Iran or Zaire that haunt Scotland as they prepare for a long-awaited World Cup return. Instead, there i",
+      "teams": [
+        "Haiti",
+        "Scotland",
+        "Germany",
+        "Iran"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "e6dc1846454f",
       "title": "'Toronto erupts' - Larin equalises for Canada",
       "url": "https://www.bbc.com/sport/football/videos/cp8lngn61kro",
@@ -502,18 +837,6 @@
       "is_injury_related": false
     },
     {
-      "id": "1ebcffaf0906",
-      "title": "You are Steve Clarke... what would you do against Haiti?",
-      "url": "https://www.bbc.com/sport/football/articles/cy06gkd521wo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-12T13:07:48+00:00",
-      "summary": "Put yourself in the shoes of Steve Clarke and pick the side, tactics and decide what your pre-match team talk would be for their World Cup opener.",
-      "teams": [
-        "Haiti"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "c5b8f238873a",
       "title": "Beth Mead describes moving to Manchester City as a ‘no-brainer’",
       "url": "https://www.theguardian.com/football/2026/jun/12/beth-mead-describes-moving-to-manchester-city-as-a-no-brainer",
@@ -577,18 +900,6 @@
       "is_injury_related": true
     },
     {
-      "id": "ced356a7f5a9",
-      "title": "Joy for Jiménez and Mexico as co-hosts make ideal start | World Cup Daily",
-      "url": "https://www.theguardian.com/football/video/2026/jun/12/joy-for-jimenez-and-mexico-as-co-hosts-make-ideal-start-world-cup-daily",
-      "source": "The Guardian",
-      "published_at": "2026-06-12T08:09:06+00:00",
-      "summary": "Max Rushden is joined by Barry Glendenning , Barney Ronay , Jeff Rueter and Jonathan Wilson as the World Cup kicks off in Mexico Continue reading...",
-      "teams": [
-        "Mexico"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "e10ff01492d6",
       "title": "Joy for Jiménez and Mexico as co-hosts make ideal start: World Cup Daily – podcast",
       "url": "https://www.theguardian.com/football/audio/2026/jun/12/mexico-joy-raul-jimenez-south-korea-world-cup-daily-podcast",
@@ -598,18 +909,6 @@
       "teams": [
         "Mexico",
         "South Africa"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "bdad9341db8f",
-      "title": "From near death to World Cup hero - Jimenez's tears for Mexico",
-      "url": "https://www.bbc.com/sport/football/articles/cm2dl67rljvo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-12T00:02:08+00:00",
-      "summary": "From nearly dying on the pitch to scoring for Mexico at the World Cup - Raul Jimenez has completed a remarkable comeback.",
-      "teams": [
-        "Mexico"
       ],
       "is_injury_related": false
     },
@@ -737,182 +1036,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "e93206bb66fa",
-      "title": "Mexico and a history of playing in repeat World Cup opening fixtures | The Knowledge",
-      "url": "https://www.theguardian.com/football/2026/jun/10/mexico-history-of-repeat-world-cup-opening-fixtures-knowledge",
-      "source": "The Guardian",
-      "published_at": "2026-06-10T07:00:13+00:00",
-      "summary": "Plus: a national first for Madrid and have Everton supplied the most former managers to World Cup 2026? Mail us with your all of your questions and answers “The opening match of the year’s World Cup is Mexico v South Africa,” notes Matt Reilly. “This was also the first game of So",
-      "teams": [
-        "Mexico",
-        "South Africa",
-        "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "57187323c7fc",
-      "title": "The wild hip-hop parties that started Tuchel's journey to England boss",
-      "url": "https://www.bbc.com/sport/football/articles/cvgqevklyx1o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-10T05:45:28+00:00",
-      "summary": "Thomas Tuchel is bidding to become the first foreign manager to win the World Cup. BBC Sport charts the start of his journey to becoming England boss.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "715f369ffb2e",
-      "title": "Who will win the World Cup? BBC pundits make their predictions",
-      "url": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-10T05:24:53+00:00",
-      "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup.",
-      "teams": [
-        "Scotland",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "17057670353a",
-      "title": "Didier Deschamps: ‘Mbappé knows that when he speaks, he speaks for all the players’",
-      "url": "https://www.theguardian.com/football/2026/jun/09/didier-deschamps-france-world-cup-kylian-mbappe",
-      "source": "The Guardian",
-      "published_at": "2026-06-09T19:00:02+00:00",
-      "summary": "Questioned in France but championed from afar, the departing head coach has forged a legacy that no one – bar, perhaps, himself – would dare dispute Follow the verdant path towards the Château de Clairefontaine and you are met by a three-metre replica of the World Cup trophy acco",
-      "teams": [
-        "France"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e0ef382d584a",
-      "title": "Set up BBC Sport website and app to show more Scotland",
-      "url": "https://www.bbc.com/sport/football/articles/cdxp35lp7n5o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-09T13:02:34+00:00",
-      "summary": "With Scotland at their first men's World Cup since 1998, BBC Sport is making it easier than ever to keep up with the national team's progress.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "350a0c25c835",
-      "title": "‘We’re going to be in an unreal, mad World Cup time zone’: Kelly Cates on presenting in Salford at 2am",
-      "url": "https://www.theguardian.com/football/2026/jun/08/kelly-cates-interview-presenting-world-cup-salford-2am-bbc",
-      "source": "The Guardian",
-      "published_at": "2026-06-08T19:00:33+00:00",
-      "summary": "BBC TV and radio host on sportswashing, the brilliance of watching Argentina up close and why Donald Trump won’t be able to hijack the football glory “Before every tournament there are always concerns,” Kelly Cates says as she approaches her fifth World Cup as a television and ra",
-      "teams": [
-        "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "28712746ab15",
-      "title": "‘It can all end with one bad game’: the highs and lows of a World Cup referee",
-      "url": "https://www.theguardian.com/football/2026/jun/08/highs-lows-being-world-cup-referee",
-      "source": "The Guardian",
-      "published_at": "2026-06-08T09:00:04+00:00",
-      "summary": "Even the finest miss out on a place at the finals and for those who do get there, decisions can make or break a dream Ismail Elfath was taking his children to the park near his home in Texas when a message arrived. “Congratulations,” it read. Elfath hugged his wife. Fifa had sele",
-      "teams": [
-        "Switzerland"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "1609e12f92c7",
-      "title": "Sophia Wilson’s return spoiled as USA women beaten by Brazil in friendly",
-      "url": "https://www.theguardian.com/football/2026/jun/06/usa-brazil-women-friendly-sophia-wilson-return",
-      "source": "The Guardian",
-      "published_at": "2026-06-07T00:29:04+00:00",
-      "summary": "Wilson scores in first US appearance since 2024 Brazil answer with two goals in three minutes Americans begin World Cup cycle with defeat The US national team scheduled a pair of matches in Brazil in preparation of a return for the 2027 Women’s World Cup. After quick start for th",
-      "teams": [
-        "Brazil",
-        "USA"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "4542cfeaf6d1",
-      "title": "If this is Messi’s last World Cup, could he eclipse Maradona and win it twice?",
-      "url": "https://www.theguardian.com/football/2026/jun/06/if-this-is-messis-last-world-cup-could-he-eclipse-maradona-and-win-it-twice",
-      "source": "The Guardian",
-      "published_at": "2026-06-06T19:00:12+00:00",
-      "summary": "After living in the Argentina idol’s shadow, the 39-year-old star of Qatar is still capable of a final glorious chapter Lionel Messi in Qatar felt like the perfect story. It was the great finale. He is doomed always to be compared with Diego Maradona and, placed alongside a life ",
-      "teams": [
-        "Qatar",
-        "Brazil",
-        "Netherlands",
-        "Argentina"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "fd0a97ea5e64",
-      "title": "Romário: ‘I consider myself one of the greatest players ever. An 11 out of 10’",
-      "url": "https://www.theguardian.com/football/2026/jun/06/romario-2026-world-cup-brazil-interview",
-      "source": "The Guardian",
-      "published_at": "2026-06-06T07:00:02+00:00",
-      "summary": "Brazil’s 1994 World Cup winner on being good without training, his political legacy and why he loves social media Few people’s interview list over the past year features Neymar, Robert Lewandowski, Xavi Hernández and Iker Casillas. But then not many interviewers have the pulling ",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "1a70f9dad933",
-      "title": "Antonio Rüdiger: ‘Refugees have no other choice – it’s important they be listened to’",
-      "url": "https://www.theguardian.com/football/2026/jun/04/antonio-rudiger-refugees-have-no-other-choice-its-important-they-be-listened-to",
-      "source": "The Guardian",
-      "published_at": "2026-06-04T07:00:29+00:00",
-      "summary": "Drawing on his own family’s experience, the Real Madrid and Germany defender is advocating for refugees and challenging stereotypes As a child, Antonio Rüdiger would look out of his bedroom window to see whether anyone was playing on the field it overlooked. It was not a big pitc",
-      "teams": [
-        "Germany"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "1653e4ee6948",
-      "title": "Ligue 1 season awards: the big hits, misses, shocks and flops of 2025-26",
-      "url": "https://www.theguardian.com/football/2026/jun/02/ligue-1-season-awards-hits-misses-shocks-flops-2025-26-vitinha-sage-paul-pogba-nice",
-      "source": "The Guardian",
-      "published_at": "2026-06-02T14:14:55+00:00",
-      "summary": "It was a season to remember for Vitinha, Pierre Sage and Florian Thauvin but one to forget for Paul Pogba and Nice By Get French Football News “I like feeling the match go through me,” said Vitinha at the end of December. It’s an apt way for the 26-year-old to interpret his role ",
-      "teams": [
-        "France"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "80c325171ef0",
-      "title": "How Cornish miners brought football to Mexico",
-      "url": "https://www.bbc.com/sport/football/articles/cx21q453l4jo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-02T05:28:25+00:00",
-      "summary": "As Mexico prepares to become the first country to host or co-host the World Cup three times, BBC Sport looks at its Cornish footballing roots.",
-      "teams": [
-        "Mexico"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "8319f1abec46",
-      "title": "Christian Pulisic wanted to talk about something else. Now he can",
-      "url": "https://www.theguardian.com/football/2026/may/31/christian-pulisic-usmnt-senegal-world-cup",
-      "source": "The Guardian",
-      "published_at": "2026-06-01T02:07:43+00:00",
-      "summary": "The US forward’s imperious 45 minutes against Senegal put some questions to rest, while his manager still wants to see more Sign up for the World Behind The Cup newsletter It wasn’t hard to see how annoyed US men’s national team star Christian Pulisic was getting. Another US camp",
-      "teams": [
-        "USA",
-        "Senegal"
-      ],
-      "is_injury_related": false
     }
   ]
 }
