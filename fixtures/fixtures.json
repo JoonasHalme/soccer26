@@ -11564,10 +11564,10 @@
       "home": "Ivory Coast",
       "away": "Ecuador",
       "score": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "odds": {
         "home": 3.25,
         "draw": 2.85,
@@ -12041,34 +12041,24 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-14T21:36:29.530596+00:00",
+        "captured_at": "2026-06-14T23:24:23.400338+00:00",
         "consensus": {
-          "home": 3.25,
-          "draw": 2.88,
-          "away": 2.53,
-          "over_2_5": 2.91,
-          "under_2_5": 1.42
+          "home": 3.05,
+          "draw": 2.62,
+          "away": 2.7
         },
         "best_book": {
           "home": {
-            "price": 3.5,
-            "book": "Matchbook"
+            "price": 3.41,
+            "book": "Pinnacle"
           },
           "draw": {
-            "price": 2.96,
-            "book": "Betfair"
+            "price": 2.88,
+            "book": "Matchbook"
           },
           "away": {
-            "price": 2.66,
-            "book": "Betfair"
-          },
-          "over_2_5": {
-            "price": 2.92,
-            "book": "Betsson"
-          },
-          "under_2_5": {
-            "price": 1.42,
-            "book": "BetAnything"
+            "price": 3.1,
+            "book": "Matchbook"
           }
         }
       }
@@ -13772,9 +13762,9 @@
       "away": "Japan",
       "score": {
         "home": 2,
-        "away": 1
+        "away": 2
       },
-      "status": "LIVE",
+      "status": "FINISHED",
       "odds": {
         "home": 1.93,
         "draw": 3.4,
@@ -14811,34 +14801,34 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-14T21:36:29.530596+00:00",
+        "captured_at": "2026-06-14T23:24:23.400338+00:00",
         "consensus": {
-          "home": 1.91,
-          "draw": 3.4,
-          "away": 4.33,
-          "over_2_5": 2.16,
-          "under_2_5": 1.69
+          "home": 1.9,
+          "draw": 3.44,
+          "away": 4.5,
+          "over_2_5": 2.08,
+          "under_2_5": 1.7
         },
         "best_book": {
           "home": {
-            "price": 1.98,
+            "price": 1.96,
             "book": "Matchbook"
           },
           "draw": {
-            "price": 3.55,
+            "price": 3.65,
             "book": "Unibet (SE)"
           },
           "away": {
-            "price": 4.8,
-            "book": "Betfair"
+            "price": 4.9,
+            "book": "Unibet (SE)"
           },
           "over_2_5": {
-            "price": 2.22,
+            "price": 2.25,
             "book": "Coolbet"
           },
           "under_2_5": {
-            "price": 1.75,
-            "book": "Coolbet"
+            "price": 1.77,
+            "book": "Unibet (SE)"
           }
         }
       }
