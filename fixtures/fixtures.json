@@ -11563,7 +11563,39 @@
           },
           "totals": {}
         }
-      ]
+      ],
+      "closing_odds": {
+        "captured_at": "2026-06-14T12:12:46.993352+00:00",
+        "consensus": {
+          "home": 1.04,
+          "draw": 19.0,
+          "away": 41.0,
+          "over_2_5": 1.19,
+          "under_2_5": 4.75
+        },
+        "best_book": {
+          "home": {
+            "price": 1.06,
+            "book": "Betfair"
+          },
+          "draw": {
+            "price": 26.0,
+            "book": "Sky Bet"
+          },
+          "away": {
+            "price": 60.0,
+            "book": "Coolbet"
+          },
+          "over_2_5": {
+            "price": 1.19,
+            "book": "Betsson"
+          },
+          "under_2_5": {
+            "price": 4.75,
+            "book": "Betsson"
+          }
+        }
+      }
     },
     {
       "id": "m-026",
