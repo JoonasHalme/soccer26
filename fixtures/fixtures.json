@@ -11378,33 +11378,33 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-14T12:12:46.993352+00:00",
+        "captured_at": "2026-06-14T15:16:00.424813+00:00",
         "consensus": {
           "home": 1.04,
-          "draw": 19.0,
-          "away": 41.0,
-          "over_2_5": 1.19,
-          "under_2_5": 4.75
+          "draw": 20.0,
+          "away": 46.0,
+          "over_2_5": 1.18,
+          "under_2_5": 4.8
         },
         "best_book": {
           "home": {
-            "price": 1.06,
-            "book": "Betfair"
+            "price": 1.05,
+            "book": "BetAnything"
           },
           "draw": {
-            "price": 26.0,
+            "price": 29.0,
             "book": "Sky Bet"
           },
           "away": {
-            "price": 60.0,
-            "book": "Coolbet"
+            "price": 67.0,
+            "book": "Bet Victor"
           },
           "over_2_5": {
             "price": 1.19,
-            "book": "Betsson"
+            "book": "Nordic Bet"
           },
           "under_2_5": {
-            "price": 4.75,
+            "price": 5.05,
             "book": "Betsson"
           }
         }
@@ -14122,7 +14122,39 @@
           },
           "totals": {}
         }
-      ]
+      ],
+      "closing_odds": {
+        "captured_at": "2026-06-14T15:16:00.424813+00:00",
+        "consensus": {
+          "home": 2.05,
+          "draw": 3.47,
+          "away": 3.65,
+          "over_2_5": 1.97,
+          "under_2_5": 1.82
+        },
+        "best_book": {
+          "home": {
+            "price": 2.14,
+            "book": "Betfair"
+          },
+          "draw": {
+            "price": 3.65,
+            "book": "Unibet (NL)"
+          },
+          "away": {
+            "price": 3.95,
+            "book": "BetAnything"
+          },
+          "over_2_5": {
+            "price": 2.18,
+            "book": "Matchbook"
+          },
+          "under_2_5": {
+            "price": 1.85,
+            "book": "Unibet (SE)"
+          }
+        }
+      }
     },
     {
       "id": "m-032",

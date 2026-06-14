@@ -1,16 +1,156 @@
 {
-  "generated_at": "2026-06-14T12:12:57.114175+00:00",
+  "generated_at": "2026-06-14T15:16:10.089065+00:00",
   "sources": [
     "BBC Sport",
-    "The Guardian"
+    "The Guardian",
+    "ESPN"
   ],
   "items": [
+    {
+      "id": "f0a7cd665f4c",
+      "title": "Arise Irankunda: Australia has new prince as Socce...",
+      "url": "https://www.espn.com/soccer/story/_/id/49058502/arise-irankunda-australia-new-prince-socceroos-shock-turkiye",
+      "source": "ESPN",
+      "published_at": "2026-06-14T15:57:06+00:00",
+      "summary": "null",
+      "teams": [
+        "Australia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ce57c0c8d64e",
+      "title": "Was the World Cup win over Paraguay the best in US...",
+      "url": "https://www.espn.com/soccer/story/_/id/49053328/was-fifa-world-cup-win-paraguay-best-usmnt-history",
+      "source": "ESPN",
+      "published_at": "2026-06-14T15:49:21+00:00",
+      "summary": "The U.S. got its World Cup off to a flying start with a 4-1 win over Paraguay, a performance so stylish that it will go down in history.",
+      "teams": [
+        "Paraguay"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "9bc47b7dcfbe",
+      "title": "Sources: Somali ref to receive full World Cup pay",
+      "url": "https://www.espn.com/soccer/story/_/id/49060649/omar-artan-somali-referee-fifa-world-cup-full-pay",
+      "source": "ESPN",
+      "published_at": "2026-06-14T15:28:16+00:00",
+      "summary": "Somali referee Omar Artan will be paid for his World Cup match assignments by FIFA, sources have told ESPN, despite being refused entry into the United States prior to the start of the tournament.",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "0e40cefb66dd",
+      "title": "🤔World Cup VAR review: Did outage hurt Qatar?",
+      "url": "https://www.espn.com/soccer/story/_/id/49027532/world-cup-2026-var-review-red-card-penalty-handball-goal-line-technology",
+      "source": "ESPN",
+      "published_at": "2026-06-14T15:24:37+00:00",
+      "summary": "For the tournament, we are taking a look at the major incidents to examine and explain the process in terms of both VAR protocol and the laws of the game.",
+      "teams": [
+        "Qatar"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "083830635d2b",
+      "title": "Copy of Australia shock Türkiye to go level with USMNT",
+      "url": "https://www.espn.com/soccer/report/_/gameId/760421",
+      "source": "ESPN",
+      "published_at": "2026-06-14T15:23:47+00:00",
+      "summary": "Nestory Irankunda and Connor Metcalfe scored and Australia spoiled Türkiye's return to the World Cup for the first time in 24 years with a 2-0 victory on Saturday night.",
+      "teams": [
+        "USA",
+        "Australia",
+        "Turkey"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "6a014a0caba9",
+      "title": "FIFA: 'Technical outage' led to VAR controversy",
+      "url": "https://www.espn.com/soccer/story/_/id/49059323/fifa-blames-technical-outage-world-cup-var-controversy-qatar-switzerland",
+      "source": "ESPN",
+      "published_at": "2026-06-14T15:23:47+00:00",
+      "summary": "FIFA have confirmed that a \"technical outage\" meant that VAR's semi-automated offside technology was not able to be used for the controversial call that led to Switzerland's opening goal against Qatar on Saturday.",
+      "teams": [
+        "Qatar",
+        "Switzerland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "679cc557bbd9",
+      "title": "2 Texas men charged after England WC gear stolen",
+      "url": "https://www.espn.com/soccer/story/_/id/49057023/england-world-cup-stolen-team-gear-kansas-city-men-charged",
+      "source": "ESPN",
+      "published_at": "2026-06-14T15:23:47+00:00",
+      "summary": "Two men have been charged with one felony count each of receiving stolen property late Saturday after England's national team discovered that some of their equipment had been stolen.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b2fb0945576d",
+      "title": "Vinícius Jr. rescues draw for Brazil against Moroc...",
+      "url": "https://www.espn.com/soccer/story/_/id/49054529/brazil-vs-morocco-2026-world-cup-vinicius-junior",
+      "source": "ESPN",
+      "published_at": "2026-06-14T15:23:47+00:00",
+      "summary": "Brazil boss Carlo Ancelotti suggested \"nerves\" got the better of his players during a dreadful start to their opening World Cup fixture against Morocco as his team settled for a 1-1 draw.",
+      "teams": [
+        "Brazil",
+        "Morocco"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "e064e075b585",
+      "title": "Scotland ease 'pressure' with 1st WC win since 199...",
+      "url": "https://www.espn.com/soccer/story/_/id/49057757/scotland-haiti-2026-world-cup-steve-clarke",
+      "source": "ESPN",
+      "published_at": "2026-06-14T15:23:47+00:00",
+      "summary": "Steve Clarke said his Scotland side's long-awaited World Cup win over Haiti means the team have less pressure on them as they prepare to face Morocco.",
+      "teams": [
+        "Morocco",
+        "Haiti",
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "9a938a5a9373",
+      "title": "World Cup Daily LIVE: Germany fan cycles over 26,0...",
+      "url": "https://www.espn.com/soccer/story/_/id/49056657/world-cup-daily-germany-fan-cycles-26000-km-get-houston",
+      "source": "ESPN",
+      "published_at": "2026-06-14T15:20:00+00:00",
+      "summary": "Enjoy all the action from Sunday's World Cup matches, with features, news, video analysis and color from around the competition.",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "7d155d6a6617",
+      "title": "Why can't World Cup games kick off on time?",
+      "url": "https://www.bbc.com/sport/football/articles/ce8k5xyljn9o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-14T15:11:27+00:00",
+      "summary": "A delay to Scotland's Group C tie with Haiti in Massachusetts continued a noticeable trend of tardiness at the 2026 tournament, with none of the first eight matches kicking off on time.",
+      "teams": [
+        "Haiti",
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "1e4441e3d694",
       "title": "World Cup 2026: England camp hit by tornado warning as Scotland reacts to first victory in 36 years – live",
       "url": "https://www.theguardian.com/football/live/2026/jun/14/world-cup-2026-news-scotland-react-to-first-world-cup-victory-in-36-years-as-australia-beat-turkey",
       "source": "The Guardian",
-      "published_at": "2026-06-14T12:10:14+00:00",
+      "published_at": "2026-06-14T15:05:20+00:00",
       "summary": "News, buildup and reaction from North America Player guide | Bracketology | Wallchart | Mail us here How Group D stands after the opening games… Group D also continued today, with Australia earning a 2-0 win over Turkey in Vancouver. You can recap the action below. Continue readi",
       "teams": [
         "Scotland",
@@ -19,6 +159,80 @@
         "England"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "8d04ba4a31de",
+      "title": "Young Socceroos offer something new and tantalising: the hope of an adventure like in 2006",
+      "url": "https://www.theguardian.com/football/blog/2026/jun/14/young-socceroos-inspiring-australians-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-06-14T15:00:48+00:00",
+      "summary": "Irankunda and co have not yet earned golden generation status but they can revive Australia’s World Cup aspirations There always was a familiar feeling to this youthful squad of Socceroos. That sense of deja vu. That you had seen something like this before. But it took Nestory Ir",
+      "teams": [
+        "Australia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "a92e9fe5a575",
+      "title": "Bailed out by Vinícius Júnior, Brazil are still a ...",
+      "url": "https://www.espn.com/soccer/story/_/id/49055494/fifa-world-cup-bailed-vinicius-junior-brazil-work-progress",
+      "source": "ESPN",
+      "published_at": "2026-06-14T13:32:53+00:00",
+      "summary": "Vinícius Júnior's superb goal was enough to help Brazil scrape a 1-1 draw in their underwhelming World Cup opener against Morocco.",
+      "teams": [
+        "Brazil",
+        "Morocco"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "5990cf8587c0",
+      "title": "Scotland make World Cup drought worth the wait on ...",
+      "url": "https://www.espn.com/soccer/story/_/id/49056472/scotland-2026-world-cup-haiti-john-mcginn",
+      "source": "ESPN",
+      "published_at": "2026-06-14T13:32:53+00:00",
+      "summary": "null",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8abeebc6a8c3",
+      "title": "Can Argentina really win the World Cup again? What...",
+      "url": "https://www.espn.com/soccer/story/_/id/49014778/can-argentina-really-win-world-cup-again-stats-players-say",
+      "source": "ESPN",
+      "published_at": "2026-06-14T13:29:40+00:00",
+      "summary": "Argentina are viewed as World Cup favorites, but winning back-to-back titles is rare. Is this Argentina side really built for a repeat win?",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "0a877a923c3f",
+      "title": "The joy and wonder of Cabo Verde's unlikely World Cup journey",
+      "url": "https://www.espn.com/soccer/story/_/id/49043152/fifa-world-cup-2026-cabo-verde-americans-homecoming",
+      "source": "ESPN",
+      "published_at": "2026-06-14T13:27:05+00:00",
+      "summary": "Searching for a lovable underdog to cheer for this World Cup? Look no further than Cabo Verde.",
+      "teams": [
+        "Cape Verde"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b2222b9c09e4",
+      "title": "The 20-year-old who stole the show on Scotland's World Cup return",
+      "url": "https://www.bbc.com/sport/football/articles/clyrepwp0gno",
+      "source": "BBC Sport",
+      "published_at": "2026-06-14T12:06:50+00:00",
+      "summary": "Ben Gannon-Doak wasn't born when Scotland last played at the men's World Cup. But the 20-year-old was at the heart of their long-awaited return and their first win at the tournament in 36 years as he stole the show against Haiti.",
+      "teams": [
+        "Haiti",
+        "Scotland"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "739a4b6757c8",
@@ -47,7 +261,7 @@
     },
     {
       "id": "a8ce08b202f6",
-      "title": "England’s loss is USA’s gain as Pochettino find a spearhead in Folarin Balogun",
+      "title": "England’s loss is USA’s gain as Pochettino finds a spearhead in Folarin Balogun",
       "url": "https://www.theguardian.com/football/2026/jun/14/folarin-balogun-usmnt-paraguay-world-cup",
       "source": "The Guardian",
       "published_at": "2026-06-14T10:00:41+00:00",
@@ -184,19 +398,6 @@
       "summary": "Two men are charged for stealing $18,000 worth of property from England at their Kansas City training base.",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f68357fe06cd",
-      "title": "Socceroos stun Turkey as Australia’s youngsters shine in opening World Cup win",
-      "url": "https://www.theguardian.com/football/2026/jun/14/australia-socceroos-turkey-world-cup-2026-group-d-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-06-14T05:57:52+00:00",
-      "summary": "Nestory Irankunda ran to the corner flag like Tim Cahill, punching and ducking and weaving, after sending the Socceroos on their way to a stunning 2-0 upset victory over Turkey in Vancouver. The one act pulled past and future together on a night when Australia’s next generation d",
-      "teams": [
-        "Australia",
-        "Turkey"
       ],
       "is_injury_related": false
     },
@@ -541,6 +742,20 @@
       "is_injury_related": false
     },
     {
+      "id": "180cb51103ca",
+      "title": "Injured referee Oliver to miss World Cup match",
+      "url": "https://www.bbc.com/sport/football/articles/cx265n1dy58o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-13T08:47:19+00:00",
+      "summary": "English referee Michael Oliver is ruled out of the group match between Ivory Coast and Ecuador.",
+      "teams": [
+        "Ivory Coast",
+        "Ecuador",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "507e355b452d",
       "title": "USA start World Cup in style - but will they finally join the elite?",
       "url": "https://www.bbc.com/sport/football/articles/c621z2k51rdo",
@@ -607,19 +822,6 @@
       "summary": "Katy Perry, Tyla and Future are among the performers at USA's star-studded World Cup opening ceremony at SoFi Stadium Stadium.",
       "teams": [
         "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "7e2bf8035c1e",
-      "title": "'Clear red' for Bosnia or 'wins the ball'? BBC pundits disagree",
-      "url": "https://www.bbc.com/sport/football/articles/c2lyd45wl7no",
-      "source": "BBC Sport",
-      "published_at": "2026-06-12T23:04:10+00:00",
-      "summary": "Should Bosnia-Herzegovina have been reduced to 10 men in the second half in their 1-1 draw with Canada? Wayne Rooney and ex-referee Darren Cann had differing views.",
-      "teams": [
-        "Canada",
-        "Bosnia & Herzegovina"
       ],
       "is_injury_related": false
     },
@@ -835,156 +1037,6 @@
         "Mexico",
         "South Africa",
         "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "57187323c7fc",
-      "title": "The wild hip-hop parties that started Tuchel's journey to England boss",
-      "url": "https://www.bbc.com/sport/football/articles/cvgqevklyx1o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-10T05:45:28+00:00",
-      "summary": "Thomas Tuchel is bidding to become the first foreign manager to win the World Cup. BBC Sport charts the start of his journey to becoming England boss.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "715f369ffb2e",
-      "title": "Who will win the World Cup? BBC pundits make their predictions",
-      "url": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-10T05:24:53+00:00",
-      "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup.",
-      "teams": [
-        "Scotland",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e0ef382d584a",
-      "title": "Set up BBC Sport website and app to show more Scotland",
-      "url": "https://www.bbc.com/sport/football/articles/cdxp35lp7n5o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-09T13:02:34+00:00",
-      "summary": "With Scotland at their first men's World Cup since 1998, BBC Sport is making it easier than ever to keep up with the national team's progress.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "350a0c25c835",
-      "title": "‘We’re going to be in an unreal, mad World Cup time zone’: Kelly Cates on presenting in Salford at 2am",
-      "url": "https://www.theguardian.com/football/2026/jun/08/kelly-cates-interview-presenting-world-cup-salford-2am-bbc",
-      "source": "The Guardian",
-      "published_at": "2026-06-08T19:00:33+00:00",
-      "summary": "BBC TV and radio host on sportswashing, the brilliance of watching Argentina up close and why Donald Trump won’t be able to hijack the football glory “Before every tournament there are always concerns,” Kelly Cates says as she approaches her fifth World Cup as a television and ra",
-      "teams": [
-        "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "28712746ab15",
-      "title": "‘It can all end with one bad game’: the highs and lows of a World Cup referee",
-      "url": "https://www.theguardian.com/football/2026/jun/08/highs-lows-being-world-cup-referee",
-      "source": "The Guardian",
-      "published_at": "2026-06-08T09:00:04+00:00",
-      "summary": "Even the finest miss out on a place at the finals and for those who do get there, decisions can make or break a dream Ismail Elfath was taking his children to the park near his home in Texas when a message arrived. “Congratulations,” it read. Elfath hugged his wife. Fifa had sele",
-      "teams": [
-        "Switzerland"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "1609e12f92c7",
-      "title": "Sophia Wilson’s return spoiled as USA women beaten by Brazil in friendly",
-      "url": "https://www.theguardian.com/football/2026/jun/06/usa-brazil-women-friendly-sophia-wilson-return",
-      "source": "The Guardian",
-      "published_at": "2026-06-07T00:29:04+00:00",
-      "summary": "Wilson scores in first US appearance since 2024 Brazil answer with two goals in three minutes Americans begin World Cup cycle with defeat The US national team scheduled a pair of matches in Brazil in preparation of a return for the 2027 Women’s World Cup. After quick start for th",
-      "teams": [
-        "Brazil",
-        "USA"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "4542cfeaf6d1",
-      "title": "If this is Messi’s last World Cup, could he eclipse Maradona and win it twice?",
-      "url": "https://www.theguardian.com/football/2026/jun/06/if-this-is-messis-last-world-cup-could-he-eclipse-maradona-and-win-it-twice",
-      "source": "The Guardian",
-      "published_at": "2026-06-06T19:00:12+00:00",
-      "summary": "After living in the Argentina idol’s shadow, the 39-year-old star of Qatar is still capable of a final glorious chapter Lionel Messi in Qatar felt like the perfect story. It was the great finale. He is doomed always to be compared with Diego Maradona and, placed alongside a life ",
-      "teams": [
-        "Qatar",
-        "Brazil",
-        "Netherlands",
-        "Argentina"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "fd0a97ea5e64",
-      "title": "Romário: ‘I consider myself one of the greatest players ever. An 11 out of 10’",
-      "url": "https://www.theguardian.com/football/2026/jun/06/romario-2026-world-cup-brazil-interview",
-      "source": "The Guardian",
-      "published_at": "2026-06-06T07:00:02+00:00",
-      "summary": "Brazil’s 1994 World Cup winner on being good without training, his political legacy and why he loves social media Few people’s interview list over the past year features Neymar, Robert Lewandowski, Xavi Hernández and Iker Casillas. But then not many interviewers have the pulling ",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "1a70f9dad933",
-      "title": "Antonio Rüdiger: ‘Refugees have no other choice – it’s important they be listened to’",
-      "url": "https://www.theguardian.com/football/2026/jun/04/antonio-rudiger-refugees-have-no-other-choice-its-important-they-be-listened-to",
-      "source": "The Guardian",
-      "published_at": "2026-06-04T07:00:29+00:00",
-      "summary": "Drawing on his own family’s experience, the Real Madrid and Germany defender is advocating for refugees and challenging stereotypes As a child, Antonio Rüdiger would look out of his bedroom window to see whether anyone was playing on the field it overlooked. It was not a big pitc",
-      "teams": [
-        "Germany"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "1653e4ee6948",
-      "title": "Ligue 1 season awards: the big hits, misses, shocks and flops of 2025-26",
-      "url": "https://www.theguardian.com/football/2026/jun/02/ligue-1-season-awards-hits-misses-shocks-flops-2025-26-vitinha-sage-paul-pogba-nice",
-      "source": "The Guardian",
-      "published_at": "2026-06-02T14:14:55+00:00",
-      "summary": "It was a season to remember for Vitinha, Pierre Sage and Florian Thauvin but one to forget for Paul Pogba and Nice By Get French Football News “I like feeling the match go through me,” said Vitinha at the end of December. It’s an apt way for the 26-year-old to interpret his role ",
-      "teams": [
-        "France"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "80c325171ef0",
-      "title": "How Cornish miners brought football to Mexico",
-      "url": "https://www.bbc.com/sport/football/articles/cx21q453l4jo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-02T05:28:25+00:00",
-      "summary": "As Mexico prepares to become the first country to host or co-host the World Cup three times, BBC Sport looks at its Cornish footballing roots.",
-      "teams": [
-        "Mexico"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "8319f1abec46",
-      "title": "Christian Pulisic wanted to talk about something else. Now he can",
-      "url": "https://www.theguardian.com/football/2026/may/31/christian-pulisic-usmnt-senegal-world-cup",
-      "source": "The Guardian",
-      "published_at": "2026-06-01T02:07:43+00:00",
-      "summary": "The US forward’s imperious 45 minutes against Senegal put some questions to rest, while his manager still wants to see more Sign up for the World Behind The Cup newsletter It wasn’t hard to see how annoyed US men’s national team star Christian Pulisic was getting. Another US camp",
-      "teams": [
-        "USA",
-        "Senegal"
       ],
       "is_injury_related": false
     }
