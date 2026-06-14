@@ -10904,10 +10904,10 @@
       "home": "Germany",
       "away": "Curaçao",
       "score": {
-        "home": 2,
+        "home": 7,
         "away": 1
       },
-      "status": "LIVE",
+      "status": "FINISHED",
       "odds": {
         "home": 1.04,
         "draw": 20.0,
@@ -11886,10 +11886,10 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-14T17:42:27.708634+00:00",
+        "captured_at": "2026-06-14T19:54:52.416231+00:00",
         "consensus": {
           "home": 3.25,
-          "draw": 2.88,
+          "draw": 2.85,
           "away": 2.58,
           "over_2_5": 2.95,
           "under_2_5": 1.4
@@ -11901,10 +11901,10 @@
           },
           "draw": {
             "price": 2.95,
-            "book": "BetAnything"
+            "book": "BetOnline.ag"
           },
           "away": {
-            "price": 2.7,
+            "price": 2.72,
             "book": "Betfair"
           },
           "over_2_5": {
@@ -14146,34 +14146,34 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-14T17:42:27.708634+00:00",
+        "captured_at": "2026-06-14T19:54:52.416231+00:00",
         "consensus": {
-          "home": 2.05,
-          "draw": 3.44,
-          "away": 3.65,
-          "over_2_5": 2.01,
-          "under_2_5": 1.78
+          "home": 2.0,
+          "draw": 3.46,
+          "away": 3.75,
+          "over_2_5": 1.97,
+          "under_2_5": 1.83
         },
         "best_book": {
           "home": {
-            "price": 2.14,
+            "price": 2.1,
             "book": "Betfair"
           },
           "draw": {
-            "price": 3.55,
+            "price": 3.6,
             "book": "Betfair"
           },
           "away": {
-            "price": 3.9,
-            "book": "Betfair"
+            "price": 4.11,
+            "book": "1xBet"
           },
           "over_2_5": {
             "price": 2.14,
             "book": "Matchbook"
           },
           "under_2_5": {
-            "price": 1.86,
-            "book": "Matchbook"
+            "price": 1.9,
+            "book": "1xBet"
           }
         }
       }
