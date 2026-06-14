@@ -6159,10 +6159,10 @@
       "home": "Haiti",
       "away": "Scotland",
       "score": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       },
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "odds": {
         "home": 5.8,
         "draw": 4.5,
@@ -8947,10 +8947,10 @@
       "home": "Australia",
       "away": "Turkey",
       "score": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 0
       },
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "odds": {
         "home": 1.82,
         "draw": 2.9,
