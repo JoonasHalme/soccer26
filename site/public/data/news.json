@@ -1,160 +1,72 @@
 {
-  "generated_at": "2026-06-13T22:16:50.660571+00:00",
+  "generated_at": "2026-06-14T00:19:24.374489+00:00",
   "sources": [
     "BBC Sport",
-    "The Guardian",
-    "ESPN"
+    "The Guardian"
   ],
   "items": [
     {
-      "id": "9ebc20eb4b34",
-      "title": "Follow live: Ancelotti's Brazil take on Morocco",
-      "url": "https://www.espn.com/soccer/story/_/id/49020078/carlo-ancelottis-brazil-take-morocco",
-      "source": "ESPN",
-      "published_at": "2026-06-13T23:04:50+00:00",
-      "summary": "null",
-      "teams": [
-        "Brazil",
-        "Morocco"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "a0127d5f0aab",
-      "title": "Copy of Four goals and an electric display: USMNT's World ...",
-      "url": "https://www.espn.com/soccer/story/_/id/49046778/usmnts-world-cup-opener-was-perfect",
-      "source": "ESPN",
-      "published_at": "2026-06-13T22:41:50+00:00",
-      "summary": "World Cup co-hosts the United States banished any doubts hanging over the team with a decisive 4-1 victory over Paraguay on Friday.",
-      "teams": [
-        "USA",
-        "Paraguay"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "7ea1839f765b",
-      "title": "VAR review: What was the 'mistaken identity' check...",
-      "url": "https://www.espn.com/soccer/story/_/id/49046171/var-review-was-mistaken-identity-check-usmnts-win",
-      "source": "ESPN",
-      "published_at": "2026-06-13T22:41:50+00:00",
-      "summary": "After originally giving USMNT defender Tim Ream a yellow card, the referee was called to the screen and reissued it to Paraguay's Miguel Almirón.",
-      "teams": [
-        "USA",
-        "Paraguay"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "b4d3cdca0db7",
-      "title": "Pulisic subbed off at halftime, 'hoping it's nothi...",
-      "url": "https://www.espn.com/soccer/story/_/id/49045997/christian-pulisic-subbed-half-usmnt-rolling",
-      "source": "ESPN",
-      "published_at": "2026-06-13T22:34:24+00:00",
-      "summary": "United States winger Christian Pulisic was substituted at halftime of his team's World Cup opener against Paraguay on Friday, with the Americans leading 3-0 at the break.",
-      "teams": [
-        "USA",
-        "Paraguay"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "ac53e997dfda",
-      "title": "Dempsey slams Marsch over anthem: Stay in lane",
-      "url": "https://www.espn.com/soccer/story/_/id/49044184/dempsey-slams-marsch-us-anthem-claim",
-      "source": "ESPN",
-      "published_at": "2026-06-13T22:34:24+00:00",
-      "summary": "United States legend Clint Dempsey had some choice words for former national team assistant Jesse Marsch, who suggested Thursday that some American players needed encouragement to sing the anthem ahead of games.",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "8a201f3819b7",
-      "title": "Qatar stun Switzerland to tie, snatch 1st WC point...",
-      "url": "https://www.espn.com/soccer/report/_/gameId/760420",
-      "source": "ESPN",
-      "published_at": "2026-06-13T22:34:22+00:00",
-      "summary": "Boualem Khoukhi scored a last-gasp equaliser as Qatar secured their first World Cup point by snatching a draw against Switzerland on Saturday.",
-      "teams": [
-        "Qatar",
-        "Switzerland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "266063277491",
-      "title": "Sources: Chicago want Goretzka, Lewandowski",
-      "url": "https://www.espn.com/soccer/story/_/id/49050933/chicago-fire-pursuing-leon-goretzka-robert-lewandowski",
-      "source": "ESPN",
-      "published_at": "2026-06-13T22:34:22+00:00",
-      "summary": "As Germany opens its World Cup against Curacao on Sunday, one of its players may end up extending his stay in the United States beyond the tournament.",
-      "teams": [
-        "USA",
-        "Germany",
-        "Curaçao"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "3ad711501246",
-      "title": "Two arrested after England World Cup gear stolen",
-      "url": "https://www.espn.com/soccer/story/_/id/49046931/england-world-cup-gear-stolen-team-van-kansas-city",
-      "source": "ESPN",
-      "published_at": "2026-06-13T22:34:22+00:00",
-      "summary": "Two people have been arrested in Kansas City after England World Cup equipment was stolen in transit from Florida.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "3e0959bbbca6",
-      "title": "Gigi Buffon, Italy and the making of Socceroos sta...",
-      "url": "https://www.espn.com/soccer/story/_/id/49026423/gigi-buffon-italy-making-socceroos-star-alessandro-circati",
-      "source": "ESPN",
-      "published_at": "2026-06-13T22:33:09+00:00",
-      "summary": "Alessandro Circati's journey to the World Cup has featured setbacks, sacrifice, and a defining choice. Now the Socceroos' defensive star is ready to take on his biggest challenge yet.",
-      "teams": [
-        "Australia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "7440f70f23e4",
-      "title": "World Cup Daily LIVE: Brazil fans take over NYC ah...",
-      "url": "https://www.espn.com/soccer/story/_/id/49047065/world-cup-daily-brazil-fans-take-nyc-ahead-knicks-game-ronaldo-arrives",
-      "source": "ESPN",
-      "published_at": "2026-06-13T22:28:59+00:00",
-      "summary": "Follow all the action from Saturday's World Cup action, with features, news, video analysis and color from around the competition.",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "b0777a69f6f1",
-      "title": "For Brazil, 24 years after their last World Cup ti...",
-      "url": "https://www.espn.com/soccer/story/_/id/49021550/24-years-their-last-world-cup-title-win-bust-brazil",
-      "source": "ESPN",
-      "published_at": "2026-06-13T22:28:59+00:00",
-      "summary": "Brazil are the most successful team in World Cup history. But after 24 years without a title, can they end that run?",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "3b67e40b2fc9",
-      "title": "Brazil v Morocco: World Cup 2026 – live",
+      "title": "Brazil 1-1 Morocco: World Cup 2026 – live",
       "url": "https://www.theguardian.com/football/live/2026/jun/13/brazil-v-morocco-world-cup-2026-live",
       "source": "The Guardian",
-      "published_at": "2026-06-13T22:08:57+00:00",
+      "published_at": "2026-06-14T00:08:47+00:00",
       "summary": "⚽️ World Cup kick-off 6pm EST, 11pm BST, 8am Sun AEST ⚽️ Player guide | Bracketology | Golden Boot | Email Jeff We also have Leander Schaerlaeckens in the box at “New York/New Jersey Stadium” today! For three hours now, the masses in yellow have been streaming into the MetLife – ",
       "teams": [
         "Brazil",
         "Morocco"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "0f45fb250352",
+      "title": "Haiti v Scotland: World Cup 2026 – live",
+      "url": "https://www.theguardian.com/football/live/2026/jun/14/haiti-v-scotland-world-cup-2026-live",
+      "source": "The Guardian",
+      "published_at": "2026-06-14T00:06:19+00:00",
+      "summary": "⚽️ World Cup kick-off 9pm EST/2am BST/11am AEST ⚽️ Player guide | Bracketology | Golden Boot | Email Tom Haiti’s all-time record scorer Duckens Nazon maybe be familiar to fans of Wolves, Coventry City, Oldham Athletic and St Mirren, in addition to nine other clubs across two diff",
+      "teams": [
+        "Haiti",
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "a56e7ab9d714",
+      "title": "Vinicius Jr scores 'lightning bolt' equaliser for Brazil",
+      "url": "https://www.bbc.com/sport/football/videos/c3dy5nzjnr1o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-13T22:58:43+00:00",
+      "summary": "Brazil's Vinicius Jr fires home a \"lightning bolt\" of a strike to level up the scores in against Morocco in their Group C match in the 2026 World Cup.",
+      "teams": [
+        "Brazil",
+        "Morocco"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "fd4c73a61ae6",
+      "title": "Saibari's 'clinical' finish gives Morocco lead against Brazil",
+      "url": "https://www.bbc.com/sport/football/videos/cy4e8079v99o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-13T22:47:06+00:00",
+      "summary": "Morocco's Ismael Saibari fires his side into the lead against Brazil with a clinical finish in the 21st minute of their Group C match at the 2026 World Cup.",
+      "teams": [
+        "Brazil",
+        "Morocco"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "71c9deda347c",
+      "title": "Was this offside? Fifa under pressure to release VAR images",
+      "url": "https://www.bbc.com/sport/football/articles/ckg80k1yn89o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-13T22:36:02+00:00",
+      "summary": "There have been calls for Fifa to release the VAR images after a potential - and controversial - offside call during Qatar's World Cup draw with Switzerland.",
+      "teams": [
+        "Qatar",
+        "Switzerland"
       ],
       "is_injury_related": false
     },
@@ -173,38 +85,16 @@
     },
     {
       "id": "b7402652a999",
-      "title": "Khoukhi late show earns Qatar dramatic World Cup draw against Switzerland",
+      "title": "Muheim’s late own goal gives Qatar dramatic World Cup draw against Switzerland",
       "url": "https://www.theguardian.com/football/2026/jun/13/qatar-switzerland-world-cup-match-report",
       "source": "The Guardian",
       "published_at": "2026-06-13T21:26:32+00:00",
-      "summary": "Qatar’s Boualem Khoukhi stunned Switzerland with a late equaliser as the sides played out a 1-1 draw in their opening match at the World Cup on Saturday. A Breel Embolo penalty had broken the deadlock for Switzerland early in the first half in the San Francisco Bay Area, before t",
+      "summary": "Qatar celebrated their first World Cup point in a 1-1 draw against Switzerland after Miro Muheim headed in a stoppage-time own goal to send the Gulf nation into jubilation. Muheim, under pressure from Boualem Khoukhi, inadvertently headed home Homam Ahmed’s cross on 94 minutes to",
       "teams": [
+        "Canada",
+        "Bosnia & Herzegovina",
         "Qatar",
         "Switzerland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "8bf41bf389c4",
-      "title": "Don't forget Canada: Why opening draw shows this i...",
-      "url": "https://www.espn.com/soccer/story/_/id/49044571/forget-canada-world-cup-hosts-bosnia-why-opening-draw-shows-their-world-cup-too",
-      "source": "ESPN",
-      "published_at": "2026-06-13T21:24:22+00:00",
-      "summary": "Never mind the fact that Canada didn't win: The World Cup co-hosts made history Friday and earned their first point.",
-      "teams": [
-        "Canada"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "9221b5e907f7",
-      "title": "Mexico's win an emotional celebration of World Cup...",
-      "url": "https://www.espn.com/soccer/story/_/id/49033649/mexico-win-south-africa-emotional-celebration-world-cup-return-estadio-azteca",
-      "source": "ESPN",
-      "published_at": "2026-06-13T21:24:22+00:00",
-      "summary": "null",
-      "teams": [
-        "Mexico"
       ],
       "is_injury_related": false
     },
@@ -287,30 +177,6 @@
       "is_injury_related": true
     },
     {
-      "id": "500b275ff339",
-      "title": "USMNT player ratings: Balogun, Pulisic team-best p...",
-      "url": "https://www.espn.com/soccer/story/_/id/49045006/usmnt-player-ratings-balogun-pulisic-team-best-showings-lead-dazzling-world-cup-opener",
-      "source": "ESPN",
-      "published_at": "2026-06-13T14:49:30+00:00",
-      "summary": "In the USMNT's World Cup-opening win, Folarin Balogun and Christian Pulisic share the spotlight as the team's best players.",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "b3be7e870e5b",
-      "title": "'The kid is insane': Why Balogun is primed to take...",
-      "url": "https://www.espn.com/soccer/story/_/id/49048048/balogun-makes-usmnt-better-including-star-pulisic",
-      "source": "ESPN",
-      "published_at": "2026-06-13T14:49:23+00:00",
-      "summary": "Friday's 4-1 blowout of Paraguay showed that the U.S. men's national team has its star. What if it now has its scorer, too?",
-      "teams": [
-        "Paraguay"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "e8ee49ab763b",
       "title": "Big Lalas Energy to ulcerative colitis meds: Fox is this World Cup’s very soul in the US",
       "url": "https://www.theguardian.com/football/2026/jun/13/big-lalas-energy-to-ulcerative-colitis-meds-fox-is-this-world-cups-very-soul-in-the-us",
@@ -330,7 +196,7 @@
       "url": "https://www.bbc.com/sport/football/articles/c0l2rek0dj4o",
       "source": "BBC Sport",
       "published_at": "2026-06-13T14:09:49+00:00",
-      "summary": "Vinicius Junior is considered one of the best players in the world, but can he make the Brazilian public fall in love with him at the World Cup?",
+      "summary": "Vinicius Jr is considered one of the best players in the world, but can he make the Brazilian public fall in love with him at the World Cup?",
       "teams": [
         "Brazil"
       ],
@@ -465,42 +331,6 @@
       "is_injury_related": true
     },
     {
-      "id": "fccd874888db",
-      "title": "Transfer rumors, news: Arsenal shortlist three you...",
-      "url": "https://www.espn.com/soccer/story/_/id/49047880/transfer-rumors-news-arsenal-shortlist-three-young-wingers",
-      "source": "ESPN",
-      "published_at": "2026-06-13T08:47:06+00:00",
-      "summary": "Roma have asked for information on AC Milan and USMNT forward Christian Pulisic. Transfer Talk has the latest.",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "b0ec8b29ec57",
-      "title": "Copy of Inside England's World Cup prep: Tuchel's squad su...",
-      "url": "https://www.espn.com/soccer/story/_/id/49029911/inside-england-world-cup-prep-thomas-tuchel-squad-survive-storms-heat-florida",
-      "source": "ESPN",
-      "published_at": "2026-06-13T08:13:01+00:00",
-      "summary": "ESPN followed England throughout their pre-World Cup preparations to answer one question: Are they ready to win a first major tournament in 60 years?",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "f940259968c9",
-      "title": "With a rock-solid defense, can Ecuador make surpri...",
-      "url": "https://www.espn.com/soccer/story/_/id/49043580/why-ecuador-sleeper-team-2026-world-cup",
-      "source": "ESPN",
-      "published_at": "2026-06-13T08:13:01+00:00",
-      "summary": "Ecuador has produced incredible talents and has been one of South America's most competitive nations in the last few years, but can they surprise people at the World Cup?",
-      "teams": [
-        "Ecuador"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "3d3ecfe71ee0",
       "title": "Football Daily",
       "url": "https://www.bbc.co.uk/sounds/play/p0nrt0bb",
@@ -526,19 +356,6 @@
         "Scotland",
         "USA",
         "Paraguay"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "16761ed51d39",
-      "title": "Ancelotti confirms Neymar will miss Brazil opener",
-      "url": "https://www.bbc.com/sport/football/articles/c4gyxvxqrk8o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-13T06:18:51+00:00",
-      "summary": "Carlo Ancelotti confirms Neymar will miss Brazil's opening game of the World Cup against Morocco on Saturday.",
-      "teams": [
-        "Brazil",
-        "Morocco"
       ],
       "is_injury_related": true
     },
@@ -651,21 +468,6 @@
       "is_injury_related": false
     },
     {
-      "id": "e7447c41da89",
-      "title": "BBC kicks off World Cup broadcast battle in Salford and provides contrast to ITV’s celebrity slop",
-      "url": "https://www.theguardian.com/football/2026/jun/12/bbc-world-cup-broadcast-battle-salford--itv-celebrity-slop",
-      "source": "The Guardian",
-      "published_at": "2026-06-12T22:32:52+00:00",
-      "summary": "Journalistic muscles were flexed with Ros Atkins factchecking real-world issues with production offering merits more achievable by working from home Must a World Cup broadcast be on location? The BBC, for reasons of cost and environmental concerns, has rolled back to when tournam",
-      "teams": [
-        "Mexico",
-        "South Africa",
-        "South Korea",
-        "Czech Republic"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "36e2d774c3e4",
       "title": "Larin equaliser earns Canada first ever World Cup point",
       "url": "https://www.bbc.com/sport/football/videos/cjdgnm0m7z8o",
@@ -730,18 +532,6 @@
       "is_injury_related": false
     },
     {
-      "id": "8f52b3baf44a",
-      "title": "Michael Buble headlines Canada's opening ceremony",
-      "url": "https://www.bbc.com/sport/football/videos/cy497z9yld3o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-12T20:24:16+00:00",
-      "summary": "Canada's World Cup gets under way as Michael Buble headlines their opening ceremony at the Toronto Stadium.",
-      "teams": [
-        "Canada"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "f8e196871cbf",
       "title": "Lukic heads Bosnia in front against Canada",
       "url": "https://www.bbc.com/sport/football/videos/ce3720k188yo",
@@ -753,18 +543,6 @@
         "Bosnia & Herzegovina"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "1fc34860756b",
-      "title": "Richards 'understands' but disagrees with Tuchel's England squad selection",
-      "url": "https://www.bbc.com/sport/football/videos/cn07xjyyzwjo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-12T19:18:42+00:00",
-      "summary": "BBC pundit Micah Richards says he \"understands\" the squad picked by England manager Thomas Tuchel for the 2026 World Cup, but does not agree with Tuchel's selections, adding he would have selected one of Cole Palmer or Phil Foden.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "4e14150f0e2e",
@@ -1028,6 +806,144 @@
       "summary": "Thomas Tuchel is bidding to become the first foreign manager to win the World Cup. BBC Sport charts the start of his journey to becoming England boss.",
       "teams": [
         "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "715f369ffb2e",
+      "title": "Who will win the World Cup? BBC pundits make their predictions",
+      "url": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-10T05:24:53+00:00",
+      "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup.",
+      "teams": [
+        "Scotland",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "e0ef382d584a",
+      "title": "Set up BBC Sport website and app to show more Scotland",
+      "url": "https://www.bbc.com/sport/football/articles/cdxp35lp7n5o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-09T13:02:34+00:00",
+      "summary": "With Scotland at their first men's World Cup since 1998, BBC Sport is making it easier than ever to keep up with the national team's progress.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "350a0c25c835",
+      "title": "‘We’re going to be in an unreal, mad World Cup time zone’: Kelly Cates on presenting in Salford at 2am",
+      "url": "https://www.theguardian.com/football/2026/jun/08/kelly-cates-interview-presenting-world-cup-salford-2am-bbc",
+      "source": "The Guardian",
+      "published_at": "2026-06-08T19:00:33+00:00",
+      "summary": "BBC TV and radio host on sportswashing, the brilliance of watching Argentina up close and why Donald Trump won’t be able to hijack the football glory “Before every tournament there are always concerns,” Kelly Cates says as she approaches her fifth World Cup as a television and ra",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "28712746ab15",
+      "title": "‘It can all end with one bad game’: the highs and lows of a World Cup referee",
+      "url": "https://www.theguardian.com/football/2026/jun/08/highs-lows-being-world-cup-referee",
+      "source": "The Guardian",
+      "published_at": "2026-06-08T09:00:04+00:00",
+      "summary": "Even the finest miss out on a place at the finals and for those who do get there, decisions can make or break a dream Ismail Elfath was taking his children to the park near his home in Texas when a message arrived. “Congratulations,” it read. Elfath hugged his wife. Fifa had sele",
+      "teams": [
+        "Switzerland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "1609e12f92c7",
+      "title": "Sophia Wilson’s return spoiled as USA women beaten by Brazil in friendly",
+      "url": "https://www.theguardian.com/football/2026/jun/06/usa-brazil-women-friendly-sophia-wilson-return",
+      "source": "The Guardian",
+      "published_at": "2026-06-07T00:29:04+00:00",
+      "summary": "Wilson scores in first US appearance since 2024 Brazil answer with two goals in three minutes Americans begin World Cup cycle with defeat The US national team scheduled a pair of matches in Brazil in preparation of a return for the 2027 Women’s World Cup. After quick start for th",
+      "teams": [
+        "Brazil",
+        "USA"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "4542cfeaf6d1",
+      "title": "If this is Messi’s last World Cup, could he eclipse Maradona and win it twice?",
+      "url": "https://www.theguardian.com/football/2026/jun/06/if-this-is-messis-last-world-cup-could-he-eclipse-maradona-and-win-it-twice",
+      "source": "The Guardian",
+      "published_at": "2026-06-06T19:00:12+00:00",
+      "summary": "After living in the Argentina idol’s shadow, the 39-year-old star of Qatar is still capable of a final glorious chapter Lionel Messi in Qatar felt like the perfect story. It was the great finale. He is doomed always to be compared with Diego Maradona and, placed alongside a life ",
+      "teams": [
+        "Qatar",
+        "Brazil",
+        "Netherlands",
+        "Argentina"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "fd0a97ea5e64",
+      "title": "Romário: ‘I consider myself one of the greatest players ever. An 11 out of 10’",
+      "url": "https://www.theguardian.com/football/2026/jun/06/romario-2026-world-cup-brazil-interview",
+      "source": "The Guardian",
+      "published_at": "2026-06-06T07:00:02+00:00",
+      "summary": "Brazil’s 1994 World Cup winner on being good without training, his political legacy and why he loves social media Few people’s interview list over the past year features Neymar, Robert Lewandowski, Xavi Hernández and Iker Casillas. But then not many interviewers have the pulling ",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "1a70f9dad933",
+      "title": "Antonio Rüdiger: ‘Refugees have no other choice – it’s important they be listened to’",
+      "url": "https://www.theguardian.com/football/2026/jun/04/antonio-rudiger-refugees-have-no-other-choice-its-important-they-be-listened-to",
+      "source": "The Guardian",
+      "published_at": "2026-06-04T07:00:29+00:00",
+      "summary": "Drawing on his own family’s experience, the Real Madrid and Germany defender is advocating for refugees and challenging stereotypes As a child, Antonio Rüdiger would look out of his bedroom window to see whether anyone was playing on the field it overlooked. It was not a big pitc",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "1653e4ee6948",
+      "title": "Ligue 1 season awards: the big hits, misses, shocks and flops of 2025-26",
+      "url": "https://www.theguardian.com/football/2026/jun/02/ligue-1-season-awards-hits-misses-shocks-flops-2025-26-vitinha-sage-paul-pogba-nice",
+      "source": "The Guardian",
+      "published_at": "2026-06-02T14:14:55+00:00",
+      "summary": "It was a season to remember for Vitinha, Pierre Sage and Florian Thauvin but one to forget for Paul Pogba and Nice By Get French Football News “I like feeling the match go through me,” said Vitinha at the end of December. It’s an apt way for the 26-year-old to interpret his role ",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "80c325171ef0",
+      "title": "How Cornish miners brought football to Mexico",
+      "url": "https://www.bbc.com/sport/football/articles/cx21q453l4jo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-02T05:28:25+00:00",
+      "summary": "As Mexico prepares to become the first country to host or co-host the World Cup three times, BBC Sport looks at its Cornish footballing roots.",
+      "teams": [
+        "Mexico"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8319f1abec46",
+      "title": "Christian Pulisic wanted to talk about something else. Now he can",
+      "url": "https://www.theguardian.com/football/2026/may/31/christian-pulisic-usmnt-senegal-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-06-01T02:07:43+00:00",
+      "summary": "The US forward’s imperious 45 minutes against Senegal put some questions to rest, while his manager still wants to see more Sign up for the World Behind The Cup newsletter It wasn’t hard to see how annoyed US men’s national team star Christian Pulisic was getting. Another US camp",
+      "teams": [
+        "USA",
+        "Senegal"
       ],
       "is_injury_related": false
     }
