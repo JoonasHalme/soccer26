@@ -16675,10 +16675,10 @@
       "home": "Belgium",
       "away": "Egypt",
       "score": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "odds": {
         "home": 1.6,
         "draw": 4.0,
@@ -17731,7 +17731,39 @@
           },
           "totals": {}
         }
-      ]
+      ],
+      "closing_odds": {
+        "captured_at": "2026-06-15T21:19:42.599377+00:00",
+        "consensus": {
+          "home": 1.78,
+          "draw": 3.5,
+          "away": 5.0,
+          "over_2_5": 2.32,
+          "under_2_5": 1.57
+        },
+        "best_book": {
+          "home": {
+            "price": 1.86,
+            "book": "GTbets"
+          },
+          "draw": {
+            "price": 3.7,
+            "book": "Winamax (DE)"
+          },
+          "away": {
+            "price": 5.3,
+            "book": "Betfair"
+          },
+          "over_2_5": {
+            "price": 2.45,
+            "book": "Betsson"
+          },
+          "under_2_5": {
+            "price": 1.61,
+            "book": "Unibet (SE)"
+          }
+        }
+      }
     },
     {
       "id": "m-039",
@@ -20390,33 +20422,33 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-15T18:01:13.995277+00:00",
+        "captured_at": "2026-06-15T21:19:42.599377+00:00",
         "consensus": {
-          "home": 8.5,
-          "draw": 4.35,
+          "home": 8.0,
+          "draw": 4.33,
           "away": 1.44,
           "over_2_5": 2.06,
-          "under_2_5": 1.76
+          "under_2_5": 1.74
         },
         "best_book": {
           "home": {
-            "price": 9.5,
-            "book": "Unibet (NL)"
+            "price": 9.0,
+            "book": "Betfair"
           },
           "draw": {
-            "price": 4.6,
+            "price": 4.5,
             "book": "Betclic (FR)"
           },
           "away": {
-            "price": 1.47,
-            "book": "Betfair"
+            "price": 1.5,
+            "book": "Matchbook"
           },
           "over_2_5": {
-            "price": 2.12,
+            "price": 2.17,
             "book": "BetOnline.ag"
           },
           "under_2_5": {
-            "price": 1.81,
+            "price": 1.77,
             "book": "Coolbet"
           }
         }
