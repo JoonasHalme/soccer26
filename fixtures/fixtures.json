@@ -17851,26 +17851,26 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-15T21:19:42.599377+00:00",
+        "captured_at": "2026-06-15T23:59:43.233457+00:00",
         "consensus": {
-          "home": 1.78,
+          "home": 1.8,
           "draw": 3.5,
-          "away": 5.0,
-          "over_2_5": 2.32,
+          "away": 4.95,
+          "over_2_5": 2.3,
           "under_2_5": 1.57
         },
         "best_book": {
           "home": {
-            "price": 1.86,
-            "book": "GTbets"
+            "price": 1.87,
+            "book": "Betfair"
           },
           "draw": {
-            "price": 3.7,
-            "book": "Winamax (DE)"
+            "price": 3.65,
+            "book": "Betclic (FR)"
           },
           "away": {
-            "price": 5.3,
-            "book": "Betfair"
+            "price": 5.2,
+            "book": "Matchbook"
           },
           "over_2_5": {
             "price": 2.45,
@@ -19980,10 +19980,10 @@
       "home": "Saudi Arabia",
       "away": "Uruguay",
       "score": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "odds": {
         "home": 8.0,
         "draw": 4.25,
@@ -20490,34 +20490,34 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-15T21:19:42.599377+00:00",
+        "captured_at": "2026-06-15T23:59:43.233457+00:00",
         "consensus": {
-          "home": 8.0,
-          "draw": 4.33,
-          "away": 1.44,
-          "over_2_5": 2.06,
-          "under_2_5": 1.74
+          "home": 26.0,
+          "draw": 1.2,
+          "away": 5.4,
+          "over_2_5": 4.4,
+          "under_2_5": 1.18
         },
         "best_book": {
           "home": {
-            "price": 9.0,
-            "book": "Betfair"
+            "price": 36.0,
+            "book": "Paddy Power"
           },
           "draw": {
-            "price": 4.5,
-            "book": "Betclic (FR)"
+            "price": 3.06,
+            "book": "Pinnacle"
           },
           "away": {
-            "price": 1.5,
-            "book": "Matchbook"
+            "price": 9.16,
+            "book": "Pinnacle"
           },
           "over_2_5": {
-            "price": 2.17,
-            "book": "BetOnline.ag"
+            "price": 5.3,
+            "book": "Matchbook"
           },
           "under_2_5": {
-            "price": 1.77,
-            "book": "Coolbet"
+            "price": 1.22,
+            "book": "Matchbook"
           }
         }
       }
