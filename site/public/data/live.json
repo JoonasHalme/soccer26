@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T12:51:58.261580+00:00",
+  "generated_at": "2026-06-15T18:01:14.709623+00:00",
   "matches": {
     "m-001": {
       "status": "FINISHED",
@@ -60,6 +60,11 @@
       "status": "FINISHED",
       "home": 5,
       "away": 1
+    },
+    "m-043": {
+      "status": "FINISHED",
+      "home": 0,
+      "away": 0
     }
   }
 }
