@@ -11564,10 +11564,10 @@
       "home": "Ivory Coast",
       "away": "Ecuador",
       "score": {
-        "home": 0,
+        "home": 1,
         "away": 0
       },
-      "status": "LIVE",
+      "status": "FINISHED",
       "odds": {
         "home": 3.25,
         "draw": 2.85,
@@ -14294,10 +14294,10 @@
       "home": "Sweden",
       "away": "Tunisia",
       "score": {
-        "home": null,
-        "away": null
+        "home": 5,
+        "away": 1
       },
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "odds": {
         "home": 1.94,
         "draw": 3.4,

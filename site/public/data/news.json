@@ -1,20 +1,347 @@
 {
-  "generated_at": "2026-06-14T23:24:32.409910+00:00",
+  "generated_at": "2026-06-15T05:25:05.309114+00:00",
   "sources": [
     "BBC Sport",
-    "The Guardian"
+    "The Guardian",
+    "ESPN"
   ],
   "items": [
     {
-      "id": "12a3eb4480bb",
-      "title": "Côte d’Ivoire v Ecuador: World Cup 2026 – live",
-      "url": "https://www.theguardian.com/football/live/2026/jun/14/cote-d-ivoire-v-ecuador-world-cup-2026-live",
-      "source": "The Guardian",
-      "published_at": "2026-06-14T23:10:45+00:00",
-      "summary": "⚽️ World Cup kick-off time: 7pm ET/12am BST/9am AEST ⚽️ Player guide | Bracketology | Golden Boot | Contact Beau 2 min It’s 90 degrees Fahrenheit. If you prefer Celsius … good for you. Caicedo sends an ambitious effort well wide, almost as if to send a warning rather than to put ",
+      "id": "9a938a5a9373",
+      "title": "World Cup Daily LIVE: Dark horses Ivory Coast, Ecu...",
+      "url": "https://www.espn.com/soccer/story/_/id/49056657/world-cup-daily-germany-fan-cycles-26000-km-get-houston",
+      "source": "ESPN",
+      "published_at": "2026-06-15T05:49:02+00:00",
+      "summary": "Relive all the action from Sunday's World Cup matches, with features, news, video analysis and color from around the competition.",
+      "teams": [
+        "Ivory Coast"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "9942eda358dd",
+      "title": "Iran team downplays protests: We aren't political",
+      "url": "https://www.espn.com/soccer/story/_/id/49066875/mehdi-taremi-says-team-melli-playing-every-iranian-wc",
+      "source": "ESPN",
+      "published_at": "2026-06-15T05:41:55+00:00",
+      "summary": "Iran coach Amir Ghalenoei and forward Mehdi Taremi said that they will be playing for all Iranians at the FIFA World Cup, as the prospect of protests looms ahead of their opening game against New Zealand.",
+      "teams": [
+        "Iran",
+        "New Zealand"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6f32dc8c88cb",
+      "title": "Utd's Amad scores late as Ivory Coast top Ecuador",
+      "url": "https://www.espn.com/soccer/report/_/gameId/760423",
+      "source": "ESPN",
+      "published_at": "2026-06-15T05:41:55+00:00",
+      "summary": "A late goal from Amad Diallo earned the Ivory Coast a 1-0 win in and end-to-end opening World Cup clash with Ecuador in Philadelphia.",
       "teams": [
         "Ivory Coast",
         "Ecuador"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "4e045d204d62",
+      "title": "Egypt coach tabs Barça teen as Salah successor",
+      "url": "https://www.espn.com/espn/story/_/id/49066432/barcelona-teen-hamza-abdelkarim-seen-mohamed-salah-successor-egypt-coach",
+      "source": "ESPN",
+      "published_at": "2026-06-15T05:41:55+00:00",
+      "summary": "New Barcelona signing Hamza Abdelkarim is ready to star at the FIFA World Cup, and could prove that he'll be the player to one day take the mantle from Mohamed Salah as Egypt's talisman.",
+      "teams": [
+        "Egypt"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d1d8e69130ae",
+      "title": "⚽ Red Sox host 'Scotland Day' amid World Cup",
+      "url": "https://www.espn.com/mlb/story/_/id/49066206/boston-red-sox-scotland-fenway-park-tartan-army",
+      "source": "ESPN",
+      "published_at": "2026-06-15T05:41:55+00:00",
+      "summary": "The Tartan Army -- Scotland's supporters organization -- led a fan march from Evans Way Park to the ballpark, bagpipe music and all.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "93ff74b83555",
+      "title": "Koeman: Dutch hit 'minimal standard' vs. Japan",
+      "url": "https://www.espn.com/soccer/story/_/id/49066034/netherlands-minimal-standard-japan-koeman",
+      "source": "ESPN",
+      "published_at": "2026-06-15T05:22:27+00:00",
+      "summary": "Ronald Koeman said Netherlands' performance in Sunday's 2-2 draw against Japan should be their \"minimal standard\" if they are to win the World Cup.",
+      "teams": [
+        "Netherlands",
+        "Japan"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d10b5529071f",
+      "title": "Yamal on bench for Cape Verde clash - Spain boss",
+      "url": "https://www.espn.com/soccer/story/_/id/49064321/lamine-yamal-fitness-spain-cape-verde",
+      "source": "ESPN",
+      "published_at": "2026-06-15T05:22:27+00:00",
+      "summary": "Spain head coach Luis de la Fuente has confirmed that Lamine Yamal is \"in perfect condition\" but said the star forward is set to start on the bench in the country's World Cup debut against Cape Verde.",
+      "teams": [
+        "Spain",
+        "Cape Verde"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "72ab51a4be71",
+      "title": "Socceroos boss eyes USMNT after Türkiye upset",
+      "url": "https://www.espn.com/soccer/story/_/id/49059353/fifa-world-cup-tony-popovic-looks-ahead-socceroos-united-states-clash-turkiye-win",
+      "source": "ESPN",
+      "published_at": "2026-06-15T05:22:27+00:00",
+      "summary": "Tony Popovic has emphasised that the Socceroos will need to recover both physically and emotionally after their 2-0 win over Türkiye on Saturday evening, with a showdown with co-hosts the United States already firmly in his sights.",
+      "teams": [
+        "USA",
+        "Australia",
+        "Turkey"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "5bdb909ff659",
+      "title": "Japan justify dark horse credentials with dramatic...",
+      "url": "https://www.espn.com/soccer/story/_/id/49065026/japan-justify-sleeper-credentials-dramatic-draw-netherlands-2026-world-cup",
+      "source": "ESPN",
+      "published_at": "2026-06-15T05:22:25+00:00",
+      "summary": "An 88th-minute goal by Daichi Kamada salvaged a point for Japan as the Dutch were left to rue their two blown leads.",
+      "teams": [
+        "Netherlands",
+        "Japan"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ce57c0c8d64e",
+      "title": "Was the World Cup win over Paraguay the best in US...",
+      "url": "https://www.espn.com/soccer/story/_/id/49053328/was-fifa-world-cup-win-paraguay-best-usmnt-history",
+      "source": "ESPN",
+      "published_at": "2026-06-15T04:43:04+00:00",
+      "summary": "The U.S. got its World Cup off to a flying start with a 4-1 win over Paraguay, a performance so stylish that it will go down in history.",
+      "teams": [
+        "Paraguay"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1c046499f3e1",
+      "title": "Germany's demolition of Curaçao shows pros and con...",
+      "url": "https://www.espn.com/soccer/story/_/id/49063542/germany-big-win-shows-pros-cons-expanded-world-cup",
+      "source": "ESPN",
+      "published_at": "2026-06-15T04:34:37+00:00",
+      "summary": "Curaçao delivered a moment for the nation to remember, but they never stood a chance against mighty Germany.",
+      "teams": [
+        "Germany",
+        "Curaçao"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "70fe60f2fff3",
+      "title": "Japan leave it late and Germany’s magnificent seven: World Cup Daily – podcast",
+      "url": "https://www.theguardian.com/football/audio/2026/jun/15/japan-leave-it-late-netherlands-germany-magnificent-seven-curacao-world-cup-daily-podcast",
+      "source": "The Guardian",
+      "published_at": "2026-06-15T04:30:13+00:00",
+      "summary": "Max Rushden is joined by Barry Glendenning , Alex Abnos and Ben Fisher as the Netherlands and Japan play out a cracker in Dallas, while Germany put seven past Curaçao Rate, review, share on Apple Podcasts and join the conversation on email . On the podcast today: Netherlands v Ja",
+      "teams": [
+        "Germany",
+        "Curaçao",
+        "Netherlands",
+        "Japan"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "9ca321fe289d",
+      "title": "Two-goal Yasin Ayari combines with Sweden stars to sweep aside error-prone Tunisia",
+      "url": "https://www.theguardian.com/football/2026/jun/15/sweden-tunisia-world-cup-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-06-15T04:15:58+00:00",
+      "summary": "When they picture a messiah, few perhaps imagine a mild-mannered 51-year-old with a greying beard who used to play at left-back for York City. Certainly Chelsea and West Ham fans don’t. But the degree to which Graham Potter is loved in Sweden has to be seen to be believed. He was",
+      "teams": [
+        "Switzerland",
+        "Sweden",
+        "Tunisia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "de5c0750b38a",
+      "title": "'Thunderbolt!' - Sweden's Ayari scores stunner but refuses to celebrate",
+      "url": "https://www.bbc.com/sport/football/videos/czj8e33pgdjo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-15T04:06:07+00:00",
+      "summary": "Yasin Ayari scores a stunner for Sweden against Tunisia but refuses to celebrate. The Brighton midfielder could have represented the opposition as his father is Tunisian.",
+      "teams": [
+        "Sweden",
+        "Tunisia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "821048999ffc",
+      "title": "France’s Adrien Rabiot: ‘We all have a role. You have to be humble with that’",
+      "url": "https://www.theguardian.com/football/2026/jun/15/world-cup-adrien-rabiot-we-all-have-a-role-you-have-to-be-humble",
+      "source": "The Guardian",
+      "published_at": "2026-06-15T04:01:01+00:00",
+      "summary": "The midfielder on providing the balance to allow attacking stars to shine and wanting a fitting World Cup sign-off for Deschamps France will look a little different this summer. “Naturally, it seems a bit more attacking than usual,” Adrien Rabiot says. “I think it is good because",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "14fc5bc2f157",
+      "title": "Iraq head coach Graham Arnold: ‘We’re capable of doing something that will shock the world’",
+      "url": "https://www.theguardian.com/football/2026/jun/15/iraq-head-coach-graham-arnold-world-cup-2026",
+      "source": "The Guardian",
+      "published_at": "2026-06-15T04:00:04+00:00",
+      "summary": "Australian has had to contend with war, 50C heat and playoffs to steer country to a first World Cup in 40 years Twenty-eight months, 21 games, four rounds, a 117th-minute penalty and a playoff. A coach stuck in Dubai where he watches war start over the water, bombs shaking everyt",
+      "teams": [
+        "Mexico",
+        "Australia",
+        "Iraq",
+        "Jordan"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "69ed197f8081",
+      "title": "'Hard to read' Bellingham criticism - Henderson",
+      "url": "https://www.bbc.com/sport/football/articles/cly08nzl773o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-15T03:29:05+00:00",
+      "summary": "England's Jordan Henderson says he finds it \"hard to read\" what is written about Jude Bellingham but believes the midfielder can be the team's \"X-factor\" at the World Cup.",
+      "teams": [
+        "Jordan",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "5ef80fa9f163",
+      "title": "Uruguay delayed by plane paperwork as World Cup travel challenges continue",
+      "url": "https://www.theguardian.com/football/2026/jun/15/uruguay-delayed-by-plane-paperwork-as-world-cup-travel-challenges-continue",
+      "source": "The Guardian",
+      "published_at": "2026-06-15T03:08:58+00:00",
+      "summary": "Bielsa unruffled but Giménez says situation was ‘difficult’ Initial flight from Mexico cancelled and second delayed Uruguay’s preparations for their opening World Cup game against Saudi Arabia were severely disrupted after their flight from Mexico was hit by multiple delays. Marc",
+      "teams": [
+        "Mexico",
+        "Saudi Arabia",
+        "Uruguay"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "a879741449cf",
+      "title": "Man of the rising sun: Giants' Winston helps Japan...",
+      "url": "https://www.espn.com/nfl/story/_/id/49066052/jameis-winston-japanese-fans-clean-world-cup-2026-match-new-york-giants",
+      "source": "ESPN",
+      "published_at": "2026-06-15T02:42:12+00:00",
+      "summary": "In each of their World Cup appearances, Japanese fans have cleaned up their section following their matches and Jameis Winston joined in with them Sunday.",
+      "teams": [
+        "Japan"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "2c7d008d7385",
+      "title": "‘We all love him’: Henderson says Bellingham can be England’s X-factor",
+      "url": "https://www.theguardian.com/football/2026/jun/15/england-world-cup-jordan-henderson-jude-bellingham-x-factor",
+      "source": "The Guardian",
+      "published_at": "2026-06-15T02:22:30+00:00",
+      "summary": "Midfielder expects Madrid man to have major impact Henderson: ‘He’s a huge player for us in this tournament’ Jordan Henderson says Jude Bellingham is loved by his teammates and will be England’s X-factor at the World Cup. Bellingham, who is vying with Morgan Rogers to start at No",
+      "teams": [
+        "Jordan",
+        "England",
+        "Croatia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8867a10cb384",
+      "title": "No sleep until 5am: Socceroos’ focus turns to recovery after tiring World Cup travel",
+      "url": "https://www.theguardian.com/football/2026/jun/15/world-cup-socceroos-recovery-connor-metcalfe-no-sleep",
+      "source": "The Guardian",
+      "published_at": "2026-06-15T02:01:18+00:00",
+      "summary": "Goalscorer Connor Metcalfe ‘pretty knackered’ after late-night flight Socceroos back in Oakland to continue preparations for US game Socceroos goalscorer Connor Metcalfe admitted he hadn’t had the greatest sleep since Australia’s opening World Cup victory over Turkey. “It’s crazy",
+      "teams": [
+        "Australia",
+        "Turkey"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "17fbab9f8b20",
+      "title": "Amad scores late winner as Ivory Coast beat Ecuador",
+      "url": "https://www.bbc.com/sport/football/videos/cx2dyrzwk2vo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-15T01:50:27+00:00",
+      "summary": "Manchester United winger Amad Diallo scored a superb 90th-minute winner as Ivory Coast beat Ecuador in Philadelphia.",
+      "teams": [
+        "Ivory Coast",
+        "Ecuador"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "93740a35c36b",
+      "title": "Iran’s footballers arrive in US amid peace deal but admit tension ‘undermines joy’",
+      "url": "https://www.theguardian.com/football/2026/jun/15/iran-world-cup-mehdi-taremi-amir-ghalenoei-fifa-tension-peace-deal",
+      "source": "The Guardian",
+      "published_at": "2026-06-15T01:40:40+00:00",
+      "summary": "Ghalenoi hopes disruption does not impact his team World Cup newsletter | Daily podcast | Download the app The Iran striker Mehdi Taremi has said the controversy and disruption surrounding their involvement at the World Cup undermines Fifa’s message of peace and conceded he felt ",
+      "teams": [
+        "Mexico",
+        "Iran"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "dc97de22971a",
+      "title": "Amad scores 90th-minute winner for Ivory Coast",
+      "url": "https://www.bbc.com/sport/football/videos/cg748mex77eo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-15T01:23:10+00:00",
+      "summary": "Watch how Ivory Coast's Amad Diallo wins their Group E match against Ecuador in the 90th minute at the 2026 World Cup.",
+      "teams": [
+        "Ivory Coast",
+        "Ecuador"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1cecce5a3cfb",
+      "title": "Amad Diallo scores 90th-minute winner as Côte d’Ivoire leave it late to sink Ecuador",
+      "url": "https://www.theguardian.com/football/2026/jun/15/cote-d-ivoire-ecuador-world-cup-2026-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-06-15T01:21:44+00:00",
+      "summary": "The substitute Amad Diallo struck in the 90th minute to give Côte d’Ivoire a 1-0 win over Ecuador in their ⁠Group E opener. Diallo’s first-time strike of Wilfried Singo’s cross gave the Ivorians their first World Cup victory over South American opposition and ⁠halted Ecuador’s un",
+      "teams": [
+        "Ivory Coast",
+        "Ecuador"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8abeebc6a8c3",
+      "title": "Can Argentina really win the World Cup again? What...",
+      "url": "https://www.espn.com/soccer/story/_/id/49014778/can-argentina-really-win-world-cup-again-stats-players-say",
+      "source": "ESPN",
+      "published_at": "2026-06-15T01:03:04+00:00",
+      "summary": "Argentina are viewed as World Cup favorites, but winning back-to-back titles is rare. Is this Argentina side really built for a repeat win?",
+      "teams": [
+        "Argentina"
       ],
       "is_injury_related": false
     },
@@ -37,7 +364,7 @@
       "url": "https://www.theguardian.com/football/2026/jun/14/netherlands-japan-world-cup-match-report",
       "source": "The Guardian",
       "published_at": "2026-06-14T22:22:03+00:00",
-      "summary": "The World Cup continued to produce the unexpected in Arlington. On a throbbingly hot afternoon in the low flat plains outside Dallas the Netherlands and Japan played out an episodically thrilling opening Group F game, Daichi Kamada scoring an 88th-minute equaliser to make it 2-2 ",
+      "summary": "The World Cup continues to produce the unexpected. On a throbbingly hot afternoon in the low flat plains outside Dallas the Netherlands and Japan played out a high-grade, ultimately thrilling Group F game, Daichi Kamada scoring an 89th-minute equaliser to make it 2-2 just as the ",
       "teams": [
         "Netherlands",
         "Japan"
@@ -122,6 +449,32 @@
       "is_injury_related": false
     },
     {
+      "id": "a92e9fe5a575",
+      "title": "Bailed out by Vinícius Júnior, Brazil are still a ...",
+      "url": "https://www.espn.com/soccer/story/_/id/49055494/fifa-world-cup-bailed-vinicius-junior-brazil-work-progress",
+      "source": "ESPN",
+      "published_at": "2026-06-14T19:28:45+00:00",
+      "summary": "Vinícius Júnior's superb goal was enough to help Brazil scrape a 1-1 draw in their underwhelming World Cup opener against Morocco.",
+      "teams": [
+        "Brazil",
+        "Morocco"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "884df6278ca8",
+      "title": "Morocco's Bouaddi won't be underestimated again af...",
+      "url": "https://www.espn.com/espn/story/_/id/49054213/morocco-ayyoub-bouaddi-not-underestimated-again-casemiro-humbling",
+      "source": "ESPN",
+      "published_at": "2026-06-14T19:28:45+00:00",
+      "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore.",
+      "teams": [
+        "Brazil",
+        "Morocco"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "0c9172f8a89e",
       "title": "Curaçao enjoy their moment but Havertz and ruthless Germany show no mercy",
       "url": "https://www.theguardian.com/football/2026/jun/14/germany-curacao-world-cup-match-report",
@@ -161,14 +514,14 @@
       "is_injury_related": false
     },
     {
-      "id": "6f0e7e3fba94",
-      "title": "‘Why wouldn’t I?’: Eze would take England penalty despite Arsenal shootout miss",
-      "url": "https://www.theguardian.com/football/2026/jun/14/eberechi-eze-england-penalty-shootout-2026-world-cup",
-      "source": "The Guardian",
-      "published_at": "2026-06-14T18:00:49+00:00",
-      "summary": "Eze dismisses idea of changing spot-kick technique ‘If there is a penalty to take I’ll be there again’ Eberechi Eze says he will not let his missed penalty in the Champions League final stop him from stepping up in a shootout for England in the World Cup. The attacking midfielder",
+      "id": "6f2a175e9d8d",
+      "title": "Every team's odds to win the World Cup: Brazil's o...",
+      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
+      "source": "ESPN",
+      "published_at": "2026-06-14T17:38:54+00:00",
+      "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup.",
       "teams": [
-        "England"
+        "Brazil"
       ],
       "is_injury_related": true
     },
@@ -265,6 +618,18 @@
         "Australia"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "0a877a923c3f",
+      "title": "The joy and wonder of Cabo Verde's unlikely World Cup journey",
+      "url": "https://www.espn.com/soccer/story/_/id/49043152/fifa-world-cup-2026-cabo-verde-americans-homecoming",
+      "source": "ESPN",
+      "published_at": "2026-06-14T13:27:05+00:00",
+      "summary": "Searching for a lovable underdog to cheer for this World Cup? Look no further than Cabo Verde.",
+      "teams": [
+        "Cape Verde"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "3ab2679a69d0",
@@ -421,19 +786,6 @@
       "is_injury_related": false
     },
     {
-      "id": "118e7f53a2b2",
-      "title": "Brazil find that everything good flows through Vini of New Jersey",
-      "url": "https://www.theguardian.com/football/2026/jun/14/vinicius-junior-brazil-world-cup-2026",
-      "source": "The Guardian",
-      "published_at": "2026-06-14T07:00:37+00:00",
-      "summary": "The Real Madrid star was his country’s best player in their World Cup opener on Saturday. They’ll need more of the same if they are to make a deep run Vinícius Júnior is not wearing the famous Brazil No 10 at this World Cup. For now, the hallowed shirt of Pelé, Zico, Rivellino, R",
-      "teams": [
-        "Brazil",
-        "Saudi Arabia"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "0e0e818c3ed8",
       "title": "Wedding parties, the Hand of God and Lineker – The Big One invades summer like nothing else | Matthew Engel",
       "url": "https://www.theguardian.com/football/2026/jun/14/wedding-parties-hand-of-god-lineker-world-cup",
@@ -444,6 +796,19 @@
         "Mexico",
         "Uruguay",
         "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "118e7f53a2b2",
+      "title": "Brazil find that everything good flows through Vini of New Jersey",
+      "url": "https://www.theguardian.com/football/2026/jun/14/vinicius-junior-brazil-world-cup-2026",
+      "source": "The Guardian",
+      "published_at": "2026-06-14T07:00:37+00:00",
+      "summary": "The Real Madrid star was his country’s best player in their World Cup opener on Saturday. They’ll need more of the same if they are to make a deep run Vinícius Júnior is not wearing the famous Brazil No 10 at this World Cup. For now, the hallowed shirt of Pelé, Zico, Rivellino, R",
+      "teams": [
+        "Brazil",
+        "Saudi Arabia"
       ],
       "is_injury_related": true
     },
@@ -465,7 +830,7 @@
       "url": "https://www.theguardian.com/football/2026/jun/14/australia-socceroos-turkey-world-cup-2026-group-d-match-report",
       "source": "The Guardian",
       "published_at": "2026-06-14T05:57:52+00:00",
-      "summary": "Nestory Irankunda ran to the corner flag like Tim Cahill, punching and ducking and weaving, after sending the Socceroos on their way to a ­stunning 2-0 upset victory over Turkey in west Canada. The one act pulled past and future together on a night when Australia’s next generatio",
+      "summary": "Australia’s next generation delivered one of their best World Cup victories, upsetting Turkey 2-0 in Vancouver to start their campaign in style Nestory Irankunda ran to the corner flag like Tim Cahill, punching and ducking and weaving, after sending the Socceroos on their way to ",
       "teams": [
         "Canada",
         "Australia",
@@ -523,32 +888,6 @@
         "Haiti",
         "Scotland",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "06b3e4aab769",
-      "title": "Electric Ben Gannon-Doak heralds return to Scotland’s tradition of tricky wingers | Paul MacInnes",
-      "url": "https://www.theguardian.com/football/2026/jun/14/ben-gannon-doak-scotland-haiti-world-cup-group-c",
-      "source": "The Guardian",
-      "published_at": "2026-06-14T04:49:13+00:00",
-      "summary": "There was nothing too complicated about the Bournemouth man’s performance but he took the fight to Haiti in a historic World Cup win The game was about 15 minutes in and a familiar script appeared to be taking shape. After an initial flurry, Scotland were under the pump, struggli",
-      "teams": [
-        "Haiti",
-        "Scotland"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "4ae83e820dc6",
-      "title": "'A must win game and we won' - Clarke",
-      "url": "https://www.bbc.com/sport/football/videos/cwyljn95e4jo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-14T04:14:10+00:00",
-      "summary": "Scotland manager Steve Clarke reacts to his side's 1-0 victory over Haiti in their Group C opener at the Boston Stadium.",
-      "teams": [
-        "Haiti",
-        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -673,47 +1012,6 @@
       "is_injury_related": false
     },
     {
-      "id": "a56e7ab9d714",
-      "title": "Vinicius Jr scores 'lightning bolt' equaliser for Brazil",
-      "url": "https://www.bbc.com/sport/football/videos/c3dy5nzjnr1o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-13T22:58:43+00:00",
-      "summary": "Brazil's Vinicius Jr fires home a \"lightning bolt\" of a strike to level up the scores in against Morocco in their Group C match in the 2026 World Cup.",
-      "teams": [
-        "Brazil",
-        "Morocco"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "fd4c73a61ae6",
-      "title": "Saibari's 'clinical' finish gives Morocco lead against Brazil",
-      "url": "https://www.bbc.com/sport/football/videos/cy4e8079v99o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-13T22:47:06+00:00",
-      "summary": "Morocco's Ismael Saibari fires his side into the lead against Brazil with a clinical finish in the 21st minute of their Group C match at the 2026 World Cup.",
-      "teams": [
-        "Brazil",
-        "Morocco"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "b7402652a999",
-      "title": "Muheim’s late own goal gives Qatar dramatic World Cup draw against Switzerland",
-      "url": "https://www.theguardian.com/football/2026/jun/13/qatar-switzerland-world-cup-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-06-13T21:26:32+00:00",
-      "summary": "Qatar celebrated their first World Cup point in a 1-1 draw against Switzerland after Miro Muheim headed in a stoppage-time own goal to send the Gulf nation into jubilation. Muheim, under pressure from Boualem Khoukhi, inadvertently headed home Homam Ahmed’s cross on 94 minutes to",
-      "teams": [
-        "Canada",
-        "Bosnia & Herzegovina",
-        "Qatar",
-        "Switzerland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "2975dbfbd802",
       "title": "Iran win four staff visa appeals but 11 banned",
       "url": "https://www.bbc.com/sport/football/articles/czxqkwrr1k6o",
@@ -748,305 +1046,6 @@
       "teams": [
         "Canada",
         "Ghana"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "180cb51103ca",
-      "title": "Injured referee Oliver to miss World Cup match",
-      "url": "https://www.bbc.com/sport/football/articles/cx265n1dy58o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-13T08:47:19+00:00",
-      "summary": "English referee Michael Oliver is ruled out of the group match between Ivory Coast and Ecuador.",
-      "teams": [
-        "Ivory Coast",
-        "Ecuador",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "700d6ea310ee",
-      "title": "‘I thought – gosh, he’s going to be some player’: the making of England’s Declan Rice",
-      "url": "https://www.theguardian.com/football/2026/jun/13/making-england-declan-rice-world-cup-west-ham-arsenal",
-      "source": "The Guardian",
-      "published_at": "2026-06-13T04:00:05+00:00",
-      "summary": "Rejected by Chelsea, honed by West Ham and a league winner at Arsenal, the midfielder has plenty from his footballing journey wishing him well at the World Cup Three years ago Declan Rice was the star guest at a Soho House event about the power of effective leadership. Tickets we",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "5286a027f563",
-      "title": "Injury deprived me of chance to play so I am going to the World Cup to support Brazil | Rodrygo",
-      "url": "https://www.theguardian.com/football/2026/jun/13/rodrygo-world-cup-injury-support-brazil",
-      "source": "The Guardian",
-      "published_at": "2026-06-13T04:00:04+00:00",
-      "summary": "Watching the squad presentation knowing I wasn’t in it was tough, but I have high hopes with Carlo Ancelotti in charge I am travelling to the United States this week to watch some of the Seleção ’s games at the World Cup. I’ll be continuing my daily treatment to recover from the ",
-      "teams": [
-        "Brazil",
-        "USA",
-        "Croatia"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "c14d980cccfb",
-      "title": "Why football does not remember the name of its greatest ever Jewish player",
-      "url": "https://www.theguardian.com/football/2026/jun/13/why-football-does-not-remember-the-name-of-its-greatest-ever-jewish-player",
-      "source": "The Guardian",
-      "published_at": "2026-06-13T04:00:03+00:00",
-      "summary": "Influential Jewish managers such as Bela Guttman survived the Holocaust. In his new book, David Bolchover explores the great players who did not Who was the best Brazilian player of all time? Pelé comes the answer. Argentina? Maradona or Messi. Hungary? Puskas. Holland? Cruyff. G",
-      "teams": [
-        "Brazil",
-        "Germany",
-        "Netherlands",
-        "France",
-        "Argentina",
-        "Portugal",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "a95e14e0f3a2",
-      "title": "Six Lionesses made MBEs in King's Birthday Honours",
-      "url": "https://www.bbc.com/sport/articles/c07ygxxj0g3o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-12T21:30:09+00:00",
-      "summary": "Kevin Sinfield has received a knighthood in the King's Birthday Honours while six of England's Euro 2025-winning squad have been made MBEs.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "4e14150f0e2e",
-      "title": "Bellingham set to start, but no Guehi - England's expected team",
-      "url": "https://www.bbc.com/sport/football/articles/cx2dn77m8gwo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-12T18:46:39+00:00",
-      "summary": "Jude Bellingham is expected to start England's opening game of the 2026 World Cup, as Marc Guehi could start on the bench.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "7f0ab93cf72e",
-      "title": "Weir's title regret as she confirms Real Madrid exit",
-      "url": "https://www.bbc.com/sport/football/articles/c6213dn9z2zo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-12T15:48:20+00:00",
-      "summary": "Scotland midfielder Caroline Weir has confirmed her exit from Real Madrid after four years with the La Liga runners-up without giving a hint of her next destination.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "a19099306ee6",
-      "title": "Football Daily | The ‘Azteca’ delivers as hosts and ghosts give us that World Cup feeling",
-      "url": "https://www.theguardian.com/football/2026/jun/12/football-daily-newsletter-mexico-azteca-world-cup-2026-opener",
-      "source": "The Guardian",
-      "published_at": "2026-06-12T14:36:44+00:00",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! There’s an elemental force to football that can never be bottled and sold off. For reasons only known to Gianni Infantino and attendant pen pushers, the Azteca has been renamed the Mexico City Stadium for the Geopolitics World C",
-      "teams": [
-        "Mexico",
-        "South Africa",
-        "Turkey",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "349b3293d97b",
-      "title": "When do England play and how can you follow it?",
-      "url": "https://www.bbc.com/sport/football/articles/c79y1jp5zeno",
-      "source": "BBC Sport",
-      "published_at": "2026-06-12T13:41:58+00:00",
-      "summary": "BBC Sport's Ask Me Anything looks at England's next World Cup fixture and how you can follow along via the BBC.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f816e318d193",
-      "title": "Man City sign England's Mead on free transfer",
-      "url": "https://www.bbc.com/sport/football/articles/czx5d7z550xo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-12T11:39:33+00:00",
-      "summary": "Manchester City have confirmed the signing of England forward Beth Mead on a free transfer from Arsenal.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e10ff01492d6",
-      "title": "Joy for Jiménez and Mexico as co-hosts make ideal start: World Cup Daily – podcast",
-      "url": "https://www.theguardian.com/football/audio/2026/jun/12/mexico-joy-raul-jimenez-south-korea-world-cup-daily-podcast",
-      "source": "The Guardian",
-      "published_at": "2026-06-12T07:58:35+00:00",
-      "summary": "Max Rushden is joined by Barry Glendenning , Barney Ronay , Jeff Rueter and Jonathan Wilson as the World Cup kicks off in Mexico Rate, review, share on Apple Podcasts and join the conversation on email . On the podcast today: there are tears from Raúl Jiménez as he scores his fir",
-      "teams": [
-        "Mexico",
-        "South Africa"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "51b38dddaaff",
-      "title": "Drop deep, cash in - why Kane can be England's free-scoring false nine",
-      "url": "https://www.bbc.com/sport/articles/c14y083zv3eo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-11T15:11:45+00:00",
-      "summary": "How has Harry Kane managed to enjoy the best goalscoring season of his career at Bayern Munich when dropping deep so often? Thomas Tuchel knows - and England might now feel the benefit.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "fc1e10b32e59",
-      "title": "Man City agree deal to sign England's Charles",
-      "url": "https://www.bbc.com/sport/football/articles/cp3653pydxpo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-11T12:14:01+00:00",
-      "summary": "Manchester City have agreed a deal to sign England defender Niamh Charles from Chelsea.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "853a61e63f6f",
-      "title": "England’s World Cup setback and Durham’s fight for survival – Women’s Football Weekly",
-      "url": "https://www.theguardian.com/football/audio/2026/jun/10/englands-world-cup-setback-and-durhams-fight-for-survival-womens-football-weekly",
-      "source": "The Guardian",
-      "published_at": "2026-06-10T13:53:26+00:00",
-      "summary": "Faye Carruthers is joined by Suzy Wrack , Tom Garry and Marva Kreel to discuss England’s failure to qualify automatically for the 2027 World Cup and the uncertain future facing Durham. On today’s pod: The panel assess a frustrating end to England’s World Cup qualifying campaign, ",
-      "teams": [
-        "Brazil",
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "e7f69769092f",
-      "title": "How has world changed since Scotland were last at men's finals?",
-      "url": "https://www.bbc.com/sport/football/articles/cq83ldj2y97o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-10T11:44:23+00:00",
-      "summary": "When Scotland last reached a men's World Cup, the Scottish parliament didn't exist, Google wasn't a thing and a pint of lager was roughly £1.90.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e93206bb66fa",
-      "title": "Mexico and a history of playing in repeat World Cup opening fixtures | The Knowledge",
-      "url": "https://www.theguardian.com/football/2026/jun/10/mexico-history-of-repeat-world-cup-opening-fixtures-knowledge",
-      "source": "The Guardian",
-      "published_at": "2026-06-10T07:00:13+00:00",
-      "summary": "Plus: a national first for Madrid and have Everton supplied the most former managers to World Cup 2026? Mail us with your all of your questions and answers “The opening match of the year’s World Cup is Mexico v South Africa,” notes Matt Reilly. “This was also the first game of So",
-      "teams": [
-        "Mexico",
-        "South Africa",
-        "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "57187323c7fc",
-      "title": "The wild hip-hop parties that started Tuchel's journey to England boss",
-      "url": "https://www.bbc.com/sport/football/articles/cvgqevklyx1o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-10T05:45:28+00:00",
-      "summary": "Thomas Tuchel is bidding to become the first foreign manager to win the World Cup. BBC Sport charts the start of his journey to becoming England boss.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "715f369ffb2e",
-      "title": "Who will win the World Cup? BBC pundits make their predictions",
-      "url": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-10T05:24:53+00:00",
-      "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup.",
-      "teams": [
-        "Scotland",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "350a0c25c835",
-      "title": "‘We’re going to be in an unreal, mad World Cup time zone’: Kelly Cates on presenting in Salford at 2am",
-      "url": "https://www.theguardian.com/football/2026/jun/08/kelly-cates-interview-presenting-world-cup-salford-2am-bbc",
-      "source": "The Guardian",
-      "published_at": "2026-06-08T19:00:33+00:00",
-      "summary": "BBC TV and radio host on sportswashing, the brilliance of watching Argentina up close and why Donald Trump won’t be able to hijack the football glory “Before every tournament there are always concerns,” Kelly Cates says as she approaches her fifth World Cup as a television and ra",
-      "teams": [
-        "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "28712746ab15",
-      "title": "‘It can all end with one bad game’: the highs and lows of a World Cup referee",
-      "url": "https://www.theguardian.com/football/2026/jun/08/highs-lows-being-world-cup-referee",
-      "source": "The Guardian",
-      "published_at": "2026-06-08T09:00:04+00:00",
-      "summary": "Even the finest miss out on a place at the finals and for those who do get there, decisions can make or break a dream Ismail Elfath was taking his children to the park near his home in Texas when a message arrived. “Congratulations,” it read. Elfath hugged his wife. Fifa had sele",
-      "teams": [
-        "Switzerland"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "1609e12f92c7",
-      "title": "Sophia Wilson’s return spoiled as USA women beaten by Brazil in friendly",
-      "url": "https://www.theguardian.com/football/2026/jun/06/usa-brazil-women-friendly-sophia-wilson-return",
-      "source": "The Guardian",
-      "published_at": "2026-06-07T00:29:04+00:00",
-      "summary": "Wilson scores in first US appearance since 2024 Brazil answer with two goals in three minutes Americans begin World Cup cycle with defeat The US national team scheduled a pair of matches in Brazil in preparation of a return for the 2027 Women’s World Cup. After quick start for th",
-      "teams": [
-        "Brazil",
-        "USA"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "4542cfeaf6d1",
-      "title": "If this is Messi’s last World Cup, could he eclipse Maradona and win it twice?",
-      "url": "https://www.theguardian.com/football/2026/jun/06/if-this-is-messis-last-world-cup-could-he-eclipse-maradona-and-win-it-twice",
-      "source": "The Guardian",
-      "published_at": "2026-06-06T19:00:12+00:00",
-      "summary": "After living in the Argentina idol’s shadow, the 39-year-old star of Qatar is still capable of a final glorious chapter Lionel Messi in Qatar felt like the perfect story. It was the great finale. He is doomed always to be compared with Diego Maradona and, placed alongside a life ",
-      "teams": [
-        "Qatar",
-        "Brazil",
-        "Netherlands",
-        "Argentina"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "fd0a97ea5e64",
-      "title": "Romário: ‘I consider myself one of the greatest players ever. An 11 out of 10’",
-      "url": "https://www.theguardian.com/football/2026/jun/06/romario-2026-world-cup-brazil-interview",
-      "source": "The Guardian",
-      "published_at": "2026-06-06T07:00:02+00:00",
-      "summary": "Brazil’s 1994 World Cup winner on being good without training, his political legacy and why he loves social media Few people’s interview list over the past year features Neymar, Robert Lewandowski, Xavi Hernández and Iker Casillas. But then not many interviewers have the pulling ",
-      "teams": [
-        "Brazil"
       ],
       "is_injury_related": true
     }
