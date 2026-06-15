@@ -1,9 +1,9 @@
 {
   "_note": "Per-confederation Elo offsets fitted to the market (model/anchor.py). Mean-zero across the WC field.",
-  "UEFA": 114.82,
+  "UEFA": 117.17,
   "AFC": -140.44,
-  "CAF": -48.45,
-  "CONCACAF": -114.27,
-  "CONMEBOL": 106.87,
-  "OFC": -44.15
+  "CAF": -50.04,
+  "CONCACAF": -121.09,
+  "CONMEBOL": 110.78,
+  "OFC": -48.47
 }
