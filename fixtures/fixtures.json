@@ -22486,10 +22486,10 @@
       "home": "France",
       "away": "Senegal",
       "score": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 1
       },
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "odds": {
         "home": 1.45,
         "draw": 4.5,
@@ -23541,34 +23541,34 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-16T17:19:05.683322+00:00",
+        "captured_at": "2026-06-16T21:16:43.270908+00:00",
         "consensus": {
           "home": 14.0,
-          "draw": 6.75,
+          "draw": 7.0,
           "away": 1.21,
-          "over_2_5": 1.6,
-          "under_2_5": 2.3
+          "over_2_5": 1.58,
+          "under_2_5": 2.33
         },
         "best_book": {
           "home": {
-            "price": 16.5,
-            "book": "Smarkets"
+            "price": 17.0,
+            "book": "Unibet (NL)"
           },
           "draw": {
             "price": 7.5,
-            "book": "Sky Bet"
+            "book": "PMU (FR)"
           },
           "away": {
-            "price": 1.24,
-            "book": "Coolbet"
+            "price": 1.26,
+            "book": "Matchbook"
           },
           "over_2_5": {
             "price": 1.64,
             "book": "1xBet"
           },
           "under_2_5": {
-            "price": 2.34,
-            "book": "1xBet"
+            "price": 2.43,
+            "book": "Unibet (SE)"
           }
         }
       }
@@ -25822,7 +25822,39 @@
           },
           "totals": {}
         }
-      ]
+      ],
+      "closing_odds": {
+        "captured_at": "2026-06-16T21:16:43.270908+00:00",
+        "consensus": {
+          "home": 1.43,
+          "draw": 4.5,
+          "away": 8.0,
+          "over_2_5": 1.92,
+          "under_2_5": 1.87
+        },
+        "best_book": {
+          "home": {
+            "price": 1.48,
+            "book": "Matchbook"
+          },
+          "draw": {
+            "price": 4.7,
+            "book": "Betclic (FR)"
+          },
+          "away": {
+            "price": 8.8,
+            "book": "Betfair"
+          },
+          "over_2_5": {
+            "price": 2.0,
+            "book": "BetOnline.ag"
+          },
+          "under_2_5": {
+            "price": 1.92,
+            "book": "Unibet (SE)"
+          }
+        }
+      }
     },
     {
       "id": "m-056",
