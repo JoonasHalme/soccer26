@@ -17350,10 +17350,10 @@
       "home": "Iran",
       "away": "New Zealand",
       "score": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 2
       },
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "odds": {
         "home": 1.78,
         "draw": 3.5,
@@ -19983,7 +19983,7 @@
         "home": 1,
         "away": 1
       },
-      "status": "LIVE",
+      "status": "FINISHED",
       "odds": {
         "home": 8.0,
         "draw": 4.25,
