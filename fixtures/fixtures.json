@@ -26391,10 +26391,10 @@
       "home": "Austria",
       "away": "Jordan",
       "score": {
-        "home": 1,
-        "away": 0
+        "home": 3,
+        "away": 1
       },
-      "status": "LIVE",
+      "status": "FINISHED",
       "odds": {
         "home": 2.1,
         "draw": 2.15,
@@ -28739,7 +28739,39 @@
           },
           "totals": {}
         }
-      ]
+      ],
+      "closing_odds": {
+        "captured_at": "2026-06-17T11:16:23.124717+00:00",
+        "consensus": {
+          "home": 1.29,
+          "draw": 5.6,
+          "away": 11.0,
+          "over_2_5": 1.76,
+          "under_2_5": 2.06
+        },
+        "best_book": {
+          "home": {
+            "price": 1.33,
+            "book": "1xBet"
+          },
+          "draw": {
+            "price": 6.0,
+            "book": "Sky Bet"
+          },
+          "away": {
+            "price": 13.0,
+            "book": "Betfair"
+          },
+          "over_2_5": {
+            "price": 1.87,
+            "book": "Matchbook"
+          },
+          "under_2_5": {
+            "price": 2.12,
+            "book": "Matchbook"
+          }
+        }
+      }
     },
     {
       "id": "m-062",

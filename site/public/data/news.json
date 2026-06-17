@@ -1,17 +1,366 @@
 {
-  "generated_at": "2026-06-17T05:09:48.939911+00:00",
+  "generated_at": "2026-06-17T11:16:31.419952+00:00",
   "sources": [
     "BBC Sport",
-    "The Guardian"
+    "The Guardian",
+    "ESPN"
   ],
   "items": [
     {
-      "id": "fbf73b44180c",
-      "title": "Austria v Jordan: World Cup 2026 – live",
-      "url": "https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-austria-v-jordan-updates-aut-vs-jor-group-j-match-score-latest",
+      "id": "47f1b879c059",
+      "title": "Norway win as Haaland nets two in debut at WC",
+      "url": "https://www.espn.com/soccer/story/_/id/49087413/erling-haaland-scores-two-world-cup-debut-norway-win",
+      "source": "ESPN",
+      "published_at": "2026-06-17T12:08:20+00:00",
+      "summary": "Erling Haaland took just 29 minutes to score his first ever World Cup goal on his tournament debut against Iraq on Tuesday. By the end, he had scored twice in a convincing 4-1 victory and delivered on his tag as one of this tournament's biggest stars.",
+      "teams": [
+        "Iraq",
+        "Norway"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f31c95b11189",
+      "title": "Messi ties Klose record with 16th World Cup goal",
+      "url": "https://www.espn.com/soccer/story/_/id/49089516/messi-nets-hat-trick-ties-klose-record-1th-world-cup-goal",
+      "source": "ESPN",
+      "published_at": "2026-06-17T12:08:19+00:00",
+      "summary": "Lionel Messi made history Tuesday night by tying the record for most men's World Cup goals at 16 with Miroslav Klose after scoring a hat trick and staking Argentina to a 3-0 lead over Algeria before coming off late in the second half.",
+      "teams": [
+        "Argentina",
+        "Algeria"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1392124d1b95",
+      "title": "Scaloni at 'loss for words' on record-setting Mess...",
+      "url": "https://www.espn.com/soccer/story/_/id/49090349/argentina-scaloni-loss-words-record-setting-messi",
+      "source": "ESPN",
+      "published_at": "2026-06-17T12:08:19+00:00",
+      "summary": "Argentina coach Lionel Scaloni admitted he has no words left to describe Lionel Messi's brilliance after his hat trick secured a 3-0 win over Algeria in their World Cup opener.",
+      "teams": [
+        "Argentina",
+        "Algeria"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8c081c1bcf59",
+      "title": "Ronaldo has youthful enthusiasm in sixth WCup",
+      "url": "https://www.espn.com/soccer/story/_/id/49092527/cristiano-ronaldo-preparing-sixth-world-cup-same-enthusiasm-first-roberto-martinez",
+      "source": "ESPN",
+      "published_at": "2026-06-17T12:08:19+00:00",
+      "summary": "Portugal head coach Roberto Martinez has said that Cristiano Ronaldo is showing so much intensity and enthusiasm in training it seems as though he is preparing for his first World Cup.",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f65fe447d173",
+      "title": "Mbappé scores twice, sets France record in win",
+      "url": "https://www.espn.com/soccer/story/_/id/49084969/kylian-mbappe-breaks-goal-record-france-kick-world-cup-senegal-win",
+      "source": "ESPN",
+      "published_at": "2026-06-17T12:08:19+00:00",
+      "summary": "Kylian Mbappé moved ahead of Lionel Messi in the all-time World Cup scoring charts and became France's record goalscorer with two goals in Les Bleus' 3-1 Group I win against Senegal.",
+      "teams": [
+        "France",
+        "Senegal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ff7258dc868a",
+      "title": "Berhalter says Poch taught U.S. 'what we're about'...",
+      "url": "https://www.espn.com/soccer/story/_/id/49085397/berhalter-says-pochettino-taught-usmnt-about",
+      "source": "ESPN",
+      "published_at": "2026-06-17T12:08:19+00:00",
+      "summary": "United States midfielder Sebastian Berhalter said that one of the ways manager Mauricio Pochettino has changed the culture within the team is instilling a mindset where they don't \"take s---.\"",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d0dd3ffd9c25",
+      "title": "Iran's Torabi cleared to re-enter U.S. for WCup",
+      "url": "https://www.espn.com/soccer/story/_/id/49086571/iran-torabi-cleared-world-cup-us-visa-issue-resolved",
+      "source": "ESPN",
+      "published_at": "2026-06-17T12:08:19+00:00",
+      "summary": "The U.S. State Department said on Tuesday that the visa issue that would have prevented Iran forward Mehdi Torabi from entering the U.S. for the next World Cup has been resolved.",
+      "teams": [
+        "Iran"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f216474b56ef",
+      "title": "Messi rolls back the clock for Argentina to start ...",
+      "url": "https://www.espn.com/soccer/story/_/id/49090891/we-enjoy-messi-rolls-back-clock-argentina-start-last-dance-style",
+      "source": "ESPN",
+      "published_at": "2026-06-17T11:56:21+00:00",
+      "summary": "It wasn't entirely clear if Lionel Messi would make it to the 2026 tournament. But his hat trick in the first game showed how ready he is.",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6e26e82c1baf",
+      "title": "Why has Erling Haaland added 'Braut' to Norway shirt?",
+      "url": "https://www.bbc.com/sport/football/articles/c70y5r8q1ryo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-17T11:06:07+00:00",
+      "summary": "Our Ask Me Anything team explain why the player's Norway shirt displays the name Erling Braut Haaland.",
+      "teams": [
+        "Norway"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "9ded3f769dd1",
+      "title": "How Modric and Croatia continue to defy the odds",
+      "url": "https://www.bbc.com/sport/football/articles/cjdgnk5vz1mo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-17T11:04:17+00:00",
+      "summary": "The child displaced by war who won six Champions League titles and a Ballon d'Or - how Luka Modric and England's opponents Croatia continue to defy the odds.",
+      "teams": [
+        "England",
+        "Croatia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f85d30fe80ac",
+      "title": "World Cup 2026: Starmer tells England to ‘dare to dream’, Bernardo Silva signs for Real Madrid – live",
+      "url": "https://www.theguardian.com/football/live/2026/jun/17/world-cup-2026-news-live-england-croatia-portugal-dr-congo-ghana-panama-uzbekistan-colombia",
       "source": "The Guardian",
-      "published_at": "2026-06-17T05:01:48+00:00",
-      "summary": "⚽️ Kick-off time: 9pm local/2pm AEST/5am BST/12am EDT ⚽️ Player guide | Bracketology | Golden Boot | Mail Martin Supporters on both sides have descended on San Francisco with Jordan making their World Cup debut and Austria returning to the stage for the first time in 28 years. It",
+      "published_at": "2026-06-17T11:01:04+00:00",
+      "summary": "⚽ All the latest news on day seven of the tournament ⚽ Player guide | Bracketology | Golden Boot | Mail us It is Wednesday, so you can feast upon your weekly dose of The Knowledge. Socceroos forward Awer Mabil on that viral video. The reason why it went viral is because it was ra",
+      "teams": [
+        "Australia",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "233cddf03d72",
+      "title": "What if Reyna's World Cup wonder goal is only the ...",
+      "url": "https://www.espn.com/soccer/story/_/id/49084166/what-gio-reyna-world-cup-wonder-goal-vs-panama-only-beginning-usmnt",
+      "source": "ESPN",
+      "published_at": "2026-06-17T10:22:12+00:00",
+      "summary": "Gio Reyna's goal vs. Paraguay felt like a fitting way to end a frustrating four-year chapter of his career. What if it's only the beginning, though?",
+      "teams": [
+        "Paraguay"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d74f0c9d2e37",
+      "title": "USMNT in World Cup quarterfinals? There's a real c...",
+      "url": "https://www.espn.com/soccer/story/_/id/49076822/stats-usmnt-win-vs-paraguay-signal-deep-world-cup-run-possible",
+      "source": "ESPN",
+      "published_at": "2026-06-17T10:22:12+00:00",
+      "summary": "null",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "73a3fd112210",
+      "title": "Can Bellingham become England's superstar once more at the World Cup?",
+      "url": "https://www.bbc.com/sport/football/articles/c23y4zkv4z0o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-17T10:06:19+00:00",
+      "summary": "After tough love from England head coach Thomas Tuchel, Jude Bellingham's World Cup build-up points to a special talent who can be a key figure in their quest to win the World Cup.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8f96e1ccae4b",
+      "title": "Rabiot raises concerns about MetLife Stadium pitch",
+      "url": "https://www.bbc.com/sport/football/articles/cevld1m8nxno",
+      "source": "BBC Sport",
+      "published_at": "2026-06-17T10:06:01+00:00",
+      "summary": "France midfielder Adrien Rabiot raises concerns about the quality of the pitch at the New York New Jersey Stadium, describing it as \"more like an artificial surface\".",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "3946812e3b7e",
+      "title": "‘Don’t panic’: Mikel Merino tells Spain to stay calm after Cape Verde setback",
+      "url": "https://www.theguardian.com/football/2026/jun/17/no-time-to-panic-mikel-merino-spain-cape-verde-setback",
+      "source": "The Guardian",
+      "published_at": "2026-06-17T10:00:30+00:00",
+      "summary": "Midfielder says it is important the European champions have ‘humility’ after disappointing draw against debutants The mourning after isn’t always easy, Mikel Merino says – and yes that is mourning with a “u”. “No one died, it’s not a mourning exactly, but at times defeats can fee",
+      "teams": [
+        "Spain",
+        "Cape Verde"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "fde3743c4f91",
+      "title": "All done deals in June 2026",
+      "url": "https://www.bbc.com/sport/football/articles/ce9p91r771go",
+      "source": "BBC Sport",
+      "published_at": "2026-06-17T09:57:10+00:00",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "4357f825745d",
+      "title": "Tottenham sign Scotland forward Hanson from Villa",
+      "url": "https://www.bbc.com/sport/football/articles/cvgqrr8wknxo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-17T09:00:10+00:00",
+      "summary": "Tottenham have signed Scotland international Kirsty Hanson from Aston Villa for an undisclosed fee.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "791bf5c79310",
+      "title": "Are Portugal better without Ronaldo - and is he undroppable?",
+      "url": "https://www.bbc.com/sport/football/articles/cvgzg4vj8dno",
+      "source": "BBC Sport",
+      "published_at": "2026-06-17T08:52:26+00:00",
+      "summary": "As Cristiano Ronaldo prepares for his sixth World Cup with Portugal, BBC Sport take a closer look at his place in the team.",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "a3f68d0788a6",
+      "title": "Emotional Messi explains tears after Argentina goal",
+      "url": "https://www.bbc.com/sport/football/articles/c74yz03glrro",
+      "source": "BBC Sport",
+      "published_at": "2026-06-17T08:34:36+00:00",
+      "summary": "Lionel Messi was brought to tears after scoring the opening goal in Argentina's 3-0 win against Algeria because of a matter \"completely unrelated to football\".",
+      "teams": [
+        "Argentina",
+        "Algeria"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "621e4218dc85",
+      "title": "Arnautovic on target as Austria beat spirited Jordan",
+      "url": "https://www.bbc.com/sport/football/videos/cvglp4we4n2o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-17T07:52:39+00:00",
+      "summary": "Arnautovic scores a late penalty as Austria beat World Cup debutants Jordan 3-1 in Group J.",
+      "teams": [
+        "Austria",
+        "Jordan"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "21fd3ed3dc1a",
+      "title": "Runners-up in 2018, third place in 2022: Can Croat...",
+      "url": "https://www.espn.com/soccer/story/_/id/49043957/croatia-shock-world-cup-again",
+      "source": "ESPN",
+      "published_at": "2026-06-17T07:50:44+00:00",
+      "summary": "Croatia have continued to punch above their weight at consecutive World Cups, but despite some aging players -- can they surprise people yet again?",
+      "teams": [
+        "Croatia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f40031c44f95",
+      "title": "Key issues for England at 2026 World Cup: Fatigue,...",
+      "url": "https://www.espn.com/soccer/story/_/id/49041738/key-issues-england-2026-world-cup-bukayo-saka-anthony-gordon-jude-bellingham",
+      "source": "ESPN",
+      "published_at": "2026-06-17T07:50:44+00:00",
+      "summary": "null",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "9c9f89ed69c1",
+      "title": "World Cup quiz: England's previous opening games",
+      "url": "https://www.bbc.com/sport/football/articles/cm2pvdz0nq2o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-17T07:33:52+00:00",
+      "summary": "Test your knowledge of England's previous opening games at World Cups. How much can you remember?",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "bbb0a4b6080c",
+      "title": "Haaland on World Cup debut for Norway? Goals were ...",
+      "url": "https://www.espn.com/soccer/story/_/id/49089253/haaland-shines-world-cup-debut-provides-hope-norway",
+      "source": "ESPN",
+      "published_at": "2026-06-17T07:09:58+00:00",
+      "summary": "null",
+      "teams": [
+        "Norway"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b7b299170ec3",
+      "title": "Copy of Mbappé rewrites France, World Cup history books as...",
+      "url": "https://www.espn.com/soccer/story/_/id/49086529/kylian-mbappe-rewrites-france-fifa-world-cup-history-books-les-bleus-beat-senegal",
+      "source": "ESPN",
+      "published_at": "2026-06-17T07:09:00+00:00",
+      "summary": "Kylian Mbappé made history with a pair of goals that sent France on their way to a Group I opening win over Senegal on Tuesday in New Jersey.",
+      "teams": [
+        "France",
+        "Senegal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ed02fc292851",
+      "title": "Which player has scored the highest percentage of their team’s goals at a World Cup? | The Knowledge",
+      "url": "https://www.theguardian.com/football/2026/jun/17/which-player-has-scored-the-highest-percentage-of-their-teams-goals-at-a-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-06-17T07:00:26+00:00",
+      "summary": "Plus: World Cup winners with no domestic honours, and why Australia are unofficial world champions Mail us with your all of your questions and answers “In 1986, Gary Lineker scored six of England’s seven World Cup goals,” writes Brendon O’Mahony. “Has anyone scored a higher propo",
+      "teams": [
+        "USA",
+        "Australia",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "4f79275e7030",
+      "title": "Listen: Latest from Scotland at World Cup & Rangers' big decision",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nsf2zw",
+      "source": "BBC Sport",
+      "published_at": "2026-06-17T07:00:00+00:00",
+      "summary": "As big teams slip up is Scotland's win looking better by the day?",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "e45db313b08f",
+      "title": "Marko Arnautovic adds gloss to scoreline as Austria see off World Cup debutants Jordan",
+      "url": "https://www.theguardian.com/football/2026/jun/17/austria-jordan-group-j-world-cup-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-06-17T06:21:08+00:00",
+      "summary": "Austria celebrated their long-awaited return to the World Cup with a 3-1 win over determined ⁠debutants Jordan, with substitute Marko Arnautovic the difference in a gritty, end-to-end Group J match. On a brisk night in the San Francisco Bay Area, ⁠Austria went ahead with ⁠a 21st ",
       "teams": [
         "Austria",
         "Jordan"
@@ -19,16 +368,65 @@
       "is_injury_related": true
     },
     {
-      "id": "849cde8ac142",
-      "title": "The threats Australia must neutralise in crunch World Cup clash with USA",
-      "url": "https://www.theguardian.com/football/2026/jun/17/fifa-world-cup-2026-australia-usa-game-match-players-threats-battle-of-seattle",
-      "source": "The Guardian",
-      "published_at": "2026-06-17T04:43:54+00:00",
-      "summary": "From Christian Pulisic and Antonee Robinson to Sergiño Dest and Folarin Balogun, the Socceroos will have their hands full in the Group D clash In a highly anticipated Group D clash against the USA, the Socceroos face a range of threats on Friday (Saturday AEST): physical, technic",
+      "id": "bd4516ce9479",
+      "title": "England's World Cup begins",
+      "url": "https://www.bbc.co.uk/sounds/play/p0ns7tm3",
+      "source": "BBC Sport",
+      "published_at": "2026-06-17T06:11:00+00:00",
+      "summary": "England's World Cup opener is almost here.",
       "teams": [
-        "USA",
-        "Australia",
-        "Turkey"
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "109b01017369",
+      "title": "The Scottish set-piece guru plotting Portugal's World Cup glory",
+      "url": "https://www.bbc.com/sport/football/articles/c809zz07pe1o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-17T06:07:59+00:00",
+      "summary": "Austin MacPhee helped steer Aston Villa to European glory and now is integral to Portugal's hopes of winning the World Cup.",
+      "teams": [
+        "Scotland",
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "80f50e072827",
+      "title": "What happened on a historic night for Argentina? ‘Messi things’ | Pablo Iglesias Maurer",
+      "url": "https://www.theguardian.com/football/2026/jun/17/lionel-messi-hat-trick-algeria-argentina-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-06-17T05:59:04+00:00",
+      "summary": "A hat-trick against Algeria equalled Miroslav Klose’s World Cup scoring record, but Messi and his teammates insist the mark doesn’t matter to him World Cup newsletter | Daily podcast | Download the app Long after the dust had settled on Argentina’s 3-0 group-stage victory over Al",
+      "teams": [
+        "Argentina",
+        "Algeria"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "a192e065a1e6",
+      "title": "'It's very Bond': Fashion experts on the England squad's off-pitch look",
+      "url": "https://www.bbc.com/news/articles/c9v2e8llnkwo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-17T05:52:03+00:00",
+      "summary": "What experts make of the men's team's official off-duty fashion as they prepare for their first World Cup match.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "be69e0f15c15",
+      "title": "Cape Verde GK Vozinha stopped favorites Spain ... ...",
+      "url": "https://www.espn.com/soccer/story/_/id/49074487/cape-verde-gk-vozinha-stopped-world-cup-favourites-spain-gained-8m-followers",
+      "source": "ESPN",
+      "published_at": "2026-06-17T04:54:48+00:00",
+      "summary": "null",
+      "teams": [
+        "Spain",
+        "Cape Verde"
       ],
       "is_injury_related": false
     },
@@ -38,33 +436,7 @@
       "url": "https://www.bbc.com/sport/football/videos/ce3ezqy2747o",
       "source": "BBC Sport",
       "published_at": "2026-06-17T04:09:00+00:00",
-      "summary": "Lionel Messi becomes the World Cup's joint-top all-time leading scorer with a hat-trick, as reigning champions Argentina begin their defence with a 3-1 win over Algeria.",
-      "teams": [
-        "Argentina",
-        "Algeria"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "122dffea68b5",
-      "title": "Ghana look to diaspora for backing as Partey case and years of flux cloud planning",
-      "url": "https://www.theguardian.com/football/2026/jun/17/ghana-look-to-diaspora-for-backing-as-partey-case-and-years-of-flux-cloud-planning",
-      "source": "The Guardian",
-      "published_at": "2026-06-17T04:00:21+00:00",
-      "summary": "Carlos Queiroz has plenty to deal with as the Black Stars enter the fray against Panama looking to banish a long record of underachievement That it took Ghana until 2006 to qualify for the World Cup, despite being African football’s dominant team of the 1960s, 70s and the early 8",
-      "teams": [
-        "Ghana",
-        "Panama"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "6d366130661e",
-      "title": "Messi dazzles to equal World Cup scoring record as Argentina breeze past Algeria",
-      "url": "https://www.theguardian.com/football/2026/jun/16/argentina-algeria-world-cup-group-j-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-06-17T03:08:57+00:00",
-      "summary": "Those in attendance at Argentina’s opening match against Algeria could be forgiven, for a moment, for thinking they were at one of the great Argentinian cathedrals of football – La Bombonera , or maybe the national stadium, El Monumental . Kansas City Stadium, awash in the colors",
+      "summary": "Lionel Messi becomes the World Cup's joint-top all-time leading scorer with a hat-trick, as reigning champions Argentina begin their defence with a 3-0 win over Algeria.",
       "teams": [
         "Argentina",
         "Algeria"
@@ -98,13 +470,12 @@
     },
     {
       "id": "b35df6654382",
-      "title": "England will not adapt style despite USA heat - Tuchel",
+      "title": "England won't change style despite US heat - Tuchel",
       "url": "https://www.bbc.com/sport/football/articles/clyr5zn4440o",
       "source": "BBC Sport",
       "published_at": "2026-06-17T01:46:52+00:00",
       "summary": "Thomas Tuchel says he is \"not ready to adapt\" England's playing style at the World Cup despite the heat - as it would \"give up\" the team's strengths.",
       "teams": [
-        "USA",
         "England"
       ],
       "is_injury_related": false
@@ -121,18 +492,6 @@
         "Senegal"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "23e07755630a",
-      "title": "Partey misled Canadian officials over previous arrest",
-      "url": "https://www.bbc.com/sport/football/articles/cly8qj2nlzqo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-17T00:56:47+00:00",
-      "summary": "Thomas Partey will miss Ghana's World Cup opener after an appeal against the decision not to grant him a visa is turned down.",
-      "teams": [
-        "Ghana"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "71fe90f136ff",
@@ -167,7 +526,7 @@
       "url": "https://www.theguardian.com/football/2026/jun/17/iraq-norway-world-cup-group-i-match-report",
       "source": "The Guardian",
       "published_at": "2026-06-17T00:17:03+00:00",
-      "summary": "Surely nobody expected anything different. Erling Haaland arrival on the biggest football stage of all involved a match-defining performance. Kylian Mbappé had laid down a marker with two goals in France’s win over Senegal . Haaland responded in kind, courtesy of a first-half dou",
+      "summary": "Surely nobody expected anything different. Erling Haaland’s arrival on the biggest football stage of all involved a match-defining performance. Kylian Mbappé had laid down a marker with two goals in France’s win against Senegal . Haaland responded in kind, courtesy of a first-hal",
       "teams": [
         "France",
         "Senegal",
@@ -266,6 +625,19 @@
       "is_injury_related": false
     },
     {
+      "id": "862c22d74aa7",
+      "title": "Spain won't panic yet about Cape Verde draw, but t...",
+      "url": "https://www.espn.com/soccer/story/_/id/49074414/spain-world-cup-shock-draw-cape-verde-lamine-yamal",
+      "source": "ESPN",
+      "published_at": "2026-06-16T20:18:13+00:00",
+      "summary": "Spain have a history of starting slowly at World Cups before finding their form, but nobody -- not even them -- expected to open 2026 with a draw against tiny Cape Verde.",
+      "teams": [
+        "Spain",
+        "Cape Verde"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "750a05eadfb4",
       "title": "Spurs agree £52m Van Hecke deal with Brighton",
       "url": "https://www.bbc.com/sport/articles/cpwez2pg8x1o",
@@ -274,20 +646,6 @@
       "summary": "Netherlands World Cup defender Jan Paul van Hecke is set to leave Brighton for Tottenham Hotspur after the two clubs agree a £52m deal.",
       "teams": [
         "Netherlands"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "8c3d34b045c9",
-      "title": "What could Scotland learn from Cape Verde as Morocco loom?",
-      "url": "https://www.bbc.com/sport/football/articles/c982g3m5e5lo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-16T19:06:49+00:00",
-      "summary": "Former Scotland players Neil McCann and Willie Miller share their thoughts on how Steve Clarke's side might find success against Morocco.",
-      "teams": [
-        "Morocco",
-        "Scotland",
-        "Cape Verde"
       ],
       "is_injury_related": false
     },
@@ -316,31 +674,6 @@
       "is_injury_related": true
     },
     {
-      "id": "fde3743c4f91",
-      "title": "All done deals in June 2026",
-      "url": "https://www.bbc.com/sport/football/articles/ce9p91r771go",
-      "source": "BBC Sport",
-      "published_at": "2026-06-16T17:04:00+00:00",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "315b82b29f97",
-      "title": "England explore extra friendly after Croatia opener",
-      "url": "https://www.bbc.com/sport/football/articles/cm2rx0dl411o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-16T16:40:13+00:00",
-      "summary": "England are in talks over a behind-closed-doors game against Major League Soccer side Sporting Kansas City after the World Cup opener against Croatia.",
-      "teams": [
-        "England",
-        "Croatia"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "c885388bb437",
       "title": "Enjoying the World Cup? Well it’s time for England, but this is a team less weighed down by its past | Barney Ronay",
       "url": "https://www.theguardian.com/football/2026/jun/16/enjoying-the-world-cup-well-its-time-for-england-but-this-is-a-team-less-weighed-down-by-its-past",
@@ -365,18 +698,6 @@
       "is_injury_related": false
     },
     {
-      "id": "50e27091252e",
-      "title": "Just's rise from Austrian second tier to World Cup breakout star",
-      "url": "https://www.bbc.com/sport/football/articles/cr7pr9j23dyo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-16T15:09:34+00:00",
-      "summary": "BBC Scotland charts a rapid rise that has taken the Motherwell attacking midfielder from second-division football to the game's grandest stage.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "c01c194cfdba",
       "title": "After Cape Verde’s heroics against Spain, more great World Cup underdog stories",
       "url": "https://www.theguardian.com/football/2026/jun/16/after-cape-verdes-heroics-against-spain-more-great-world-cup-underdog-stories",
@@ -390,18 +711,6 @@
         "Argentina"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "6130d16ef70a",
-      "title": "Ask pundits McCann & Crichton your World Cup questions",
-      "url": "https://www.bbc.com/sport/football/articles/c15yv3zljx1o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-16T14:20:03+00:00",
-      "summary": "BBC Sport Scotland pundits Neil McCann and Leanne Crichton are in Boston and are ready to answer - some - of your questions about Scotland's World Cup campaign.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "c1abf317048a",
@@ -438,43 +747,6 @@
       "teams": [
         "Spain",
         "Cape Verde"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "6967a4a144c9",
-      "title": "Iran overcomes its divisions for 90 minutes, then same old problems return",
-      "url": "https://www.theguardian.com/football/2026/jun/16/iran-overcomes-its-divisions-for-90-minutes-then-same-old-problems-return",
-      "source": "The Guardian",
-      "published_at": "2026-06-16T11:49:29+00:00",
-      "summary": "Support in LA included those of past and present regimes, and opponents of both, but a match that captivated all could not dissolve troubles Soccer unites. This is what we are told. It swoops in, majestic in the players’ grace, and gives a people – any people – a thing to rally a",
-      "teams": [
-        "Iran",
-        "New Zealand"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "b6f9c5e7f3a9",
-      "title": "Stag-do drag to World Cup - the rise of Scotland's other national anthem",
-      "url": "https://www.bbc.com/sport/football/articles/cn4d8kwqjjeo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-16T11:19:30+00:00",
-      "summary": "From stag-do drag to Fenway Park, how did a 1970s disco hit become the soundtrack of the Tartan Army?",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "406c41c4e534",
-      "title": "Tuchel's England deal includes performance clause",
-      "url": "https://www.bbc.com/sport/football/articles/clye3plyj7xo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-16T11:14:08+00:00",
-      "summary": "Thomas Tuchel's England contract extension is subject to a performance clause, says FA chief executive Mark Bullingham.",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
@@ -517,32 +789,6 @@
       "is_injury_related": false
     },
     {
-      "id": "52e3419710aa",
-      "title": "Football Daily World Cup quiz: England v Croatia flashback",
-      "url": "https://www.bbc.com/sport/football/articles/clyp3kjvv3no",
-      "source": "BBC Sport",
-      "published_at": "2026-06-16T09:45:21+00:00",
-      "summary": "How many of England's starting line-up can you name from the last time they played Croatia at the World Cup?",
-      "teams": [
-        "England",
-        "Croatia"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "afc7f818f757",
-      "title": "Jordan's journey from Harry Redknapp to date with Messi",
-      "url": "https://www.bbc.com/sport/football/articles/c172dxe8qleo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-16T08:40:16+00:00",
-      "summary": "When they face world champions Argentina in their final group stage match on 27 June, it may be Jordan's own World Cup final.",
-      "teams": [
-        "Argentina",
-        "Jordan"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "561edca64806",
       "title": "How Algeria won over a Kansas town – and became the World Cup’s unlikeliest love affair",
       "url": "https://www.theguardian.com/football/2026/jun/16/algeria-lawrence-kansas-world-cup-fans-adopted-team",
@@ -551,43 +797,6 @@
       "summary": "Lawrence, a college town of about 100,000 in northeastern Kansas, has embraced Les Fennecs with a fervor that has surprised everyone but the people who live there You’ve probably seen it by now: The video of a sweet elderly man overcome with emotion, standing outside in the rain ",
       "teams": [
         "Algeria"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e01f2a8ca9f9",
-      "title": "Iran 'most oppressed' team at World Cup - Ghalenoei",
-      "url": "https://www.bbc.com/sport/football/articles/ckg48wvv0v2o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-16T07:16:25+00:00",
-      "summary": "Head coach Amir Ghalenoei says his Iran side are the \"most oppressed in the World Cup\" after having last-minute travel restrictions imposed on them.",
-      "teams": [
-        "Iran"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "5007f3fbe969",
-      "title": "History for Cape Verde as Spain start with a stutter | World Cup Daily",
-      "url": "https://www.theguardian.com/football/video/2026/jun/16/history-for-cape-verde-as-spain-start-with-a-stutter-world-cup-daily",
-      "source": "The Guardian",
-      "published_at": "2026-06-16T07:14:51+00:00",
-      "summary": "Max Rushden is joined by Barry Glendenning , Barney Ronay , Dan Bardell and Sid Lowe as debutants Cape Verde earn a draw against the favourites Spain Continue reading...",
-      "teams": [
-        "Spain",
-        "Cape Verde"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "5d6bb0ded4d4",
-      "title": "'Not a model' - Bielsa refuses to engage with World Cup photoshoot",
-      "url": "https://www.bbc.com/sport/football/articles/cd6e58eq72eo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-16T07:02:49+00:00",
-      "summary": "Uruguay and former Leeds coach Marcelo Bielsa defends his stony-faced appearance in the official World Cup photoshoot.",
-      "teams": [
-        "Uruguay"
       ],
       "is_injury_related": false
     },
@@ -644,31 +853,6 @@
       "is_injury_related": true
     },
     {
-      "id": "f3c0c9176330",
-      "title": "Why Kante is still crucial for France - Giroud",
-      "url": "https://www.bbc.com/sport/football/articles/c3vypg424glo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-16T05:27:16+00:00",
-      "summary": "France's World Cup winner Olivier Giroud explains why N'Golo Kante is still an important part of Didier Deschamps' squad, eight years after planning to retire from international football.",
-      "teams": [
-        "France"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "df51f2a3ca20",
-      "title": "Iran v Iran in the stands as politics and football intertwine",
-      "url": "https://www.bbc.com/sport/football/articles/cvgj1v4pnvyo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-16T04:31:48+00:00",
-      "summary": "The Iranian team may want to unite people but what the game with New Zealand revealed is just how divided many Iranians remain, writes BBC North America correspondent Shaimaa Khalil.",
-      "teams": [
-        "Iran",
-        "New Zealand"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "a3fb013ec64b",
       "title": "Just scores double but New Zealand held by Iran in entertaining game",
       "url": "https://www.bbc.com/sport/football/videos/c8d242de81eo",
@@ -678,19 +862,6 @@
       "teams": [
         "Iran",
         "New Zealand"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "277385d62a0b",
-      "title": "Are billions flooding into Saudi Pro League helping national team?",
-      "url": "https://www.bbc.com/sport/football/articles/c892y35lnq8o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-16T03:36:36+00:00",
-      "summary": "As Saudi Arabia earn creditable point against Uruguay, is the money flooding into the Saudi Pro League helping the national team?",
-      "teams": [
-        "Saudi Arabia",
-        "Uruguay"
       ],
       "is_injury_related": false
     },
@@ -803,19 +974,6 @@
       "is_injury_related": false
     },
     {
-      "id": "c79e8c15f79a",
-      "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-      "url": "https://www.bbc.com/sport/football/videos/c9v2p9vp1vno",
-      "source": "BBC Sport",
-      "published_at": "2026-06-15T20:08:57+00:00",
-      "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup.",
-      "teams": [
-        "Belgium",
-        "Egypt"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "11fe1b175048",
       "title": "Vozinha heroics help Cape Verde hold Spain to goalless draw",
       "url": "https://www.bbc.com/sport/football/videos/c621kr6q2rro",
@@ -865,183 +1023,6 @@
         "Argentina"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "fa4cf7e1d6b8",
-      "title": "Could Asian teams be catching up to Europe at this World Cup? | Jonathan Wilson",
-      "url": "https://www.theguardian.com/football/2026/jun/15/could-asian-teams-be-catching-up-to-europe-at-this-world-cup",
-      "source": "The Guardian",
-      "published_at": "2026-06-15T14:47:35+00:00",
-      "summary": "If there were a shift in world football power, it may look something like the impressive results from South Korea, Japan, Qatar and Australia Predict the winner | Daily podcast | Download our app Daichi Kamada’s late equaliser for Japan against the Netherlands on Sunday did not m",
-      "teams": [
-        "South Korea",
-        "Czech Republic",
-        "Qatar",
-        "Australia",
-        "Netherlands",
-        "Japan"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "bfc3a1fdb4ff",
-      "title": "Amorim agrees to become Milan head coach in boost to Manchester United finances",
-      "url": "https://www.theguardian.com/football/2026/jun/15/ruben-amorim-agrees-become-milan-head-coach-boost-manchester-finances-compensation",
-      "source": "The Guardian",
-      "published_at": "2026-06-15T12:25:37+00:00",
-      "summary": "Portuguese will replace Massimiliano Allegri at San Siro United will not need to pay full £16.7m compensation Ruben Amorim is poised to return to management after agreeing to become Milan’s head coach. The move will make Manchester United a significant saving on his compensation ",
-      "teams": [
-        "Portugal"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "14fc5bc2f157",
-      "title": "Iraq head coach Graham Arnold: ‘We’re capable of doing something that will shock the world’",
-      "url": "https://www.theguardian.com/football/2026/jun/15/iraq-head-coach-graham-arnold-world-cup-2026",
-      "source": "The Guardian",
-      "published_at": "2026-06-15T04:00:04+00:00",
-      "summary": "Australian has had to contend with war, 50C heat and playoffs to steer country to a first World Cup in 40 years Twenty-eight months, 21 games, four rounds, a 117th-minute penalty and a playoff. A coach stuck in Dubai where he watches war start over the water, bombs shaking everyt",
-      "teams": [
-        "Mexico",
-        "Australia",
-        "Iraq",
-        "Jordan"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "0e0e818c3ed8",
-      "title": "Wedding parties, the Hand of God and Lineker – The Big One invades summer like nothing else | Matthew Engel",
-      "url": "https://www.theguardian.com/football/2026/jun/14/wedding-parties-hand-of-god-lineker-world-cup",
-      "source": "The Guardian",
-      "published_at": "2026-06-14T07:00:37+00:00",
-      "summary": "Forget the Olympic and the rest. People across the planet remember where they were for their biggest World Cup matches The connection between King Lear and the 1966 World Cup is little known, mainly because it affected very few people at a now defunct boarding school. I had been ",
-      "teams": [
-        "Mexico",
-        "Uruguay",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "0fa82d52634b",
-      "title": "Why Haiti v Scotland was antidote to the ills of world football",
-      "url": "https://www.bbc.com/sport/football/articles/cdjkdmel292o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-14T04:54:15+00:00",
-      "summary": "It might have been nervy. It might not have been pretty. But Scotland are here. And Scotland have won. Tom English reports from Boston.",
-      "teams": [
-        "Haiti",
-        "Scotland",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "06b3e4aab769",
-      "title": "Electric Ben Gannon-Doak heralds return to Scotland’s tradition of tricky wingers | Paul MacInnes",
-      "url": "https://www.theguardian.com/football/2026/jun/14/ben-gannon-doak-scotland-haiti-world-cup-group-c",
-      "source": "The Guardian",
-      "published_at": "2026-06-14T04:49:13+00:00",
-      "summary": "There was nothing too complicated about the Bournemouth man’s performance but he took the fight to Haiti in a historic World Cup win The game was about 15 minutes in and a familiar script appeared to be taking shape. After an initial flurry, Scotland were under the pump, struggli",
-      "teams": [
-        "Haiti",
-        "Scotland"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "d5e7859927ee",
-      "title": "DR Congo bring style and pride to the World Cup after wholesome welcome",
-      "url": "https://www.theguardian.com/football/2026/jun/14/dr-congo-world-cup-houston",
-      "source": "The Guardian",
-      "published_at": "2026-06-14T04:00:32+00:00",
-      "summary": "Brutally tough return to tournament awaits, but the stature of opposition feels less important than the fact of being here at all It was an arrival worth more than half a century of waiting. The Democratic Republic of the Congo (DRC) players strolled into the arrivals hall of Geo",
-      "teams": [
-        "Belgium",
-        "DR Congo"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "700d6ea310ee",
-      "title": "‘I thought – gosh, he’s going to be some player’: the making of England’s Declan Rice",
-      "url": "https://www.theguardian.com/football/2026/jun/13/making-england-declan-rice-world-cup-west-ham-arsenal",
-      "source": "The Guardian",
-      "published_at": "2026-06-13T04:00:05+00:00",
-      "summary": "Rejected by Chelsea, honed by West Ham and a league winner at Arsenal, the midfielder has plenty from his footballing journey wishing him well at the World Cup Three years ago Declan Rice was the star guest at a Soho House event about the power of effective leadership. Tickets we",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "c14d980cccfb",
-      "title": "Why football does not remember the name of its greatest ever Jewish player",
-      "url": "https://www.theguardian.com/football/2026/jun/13/why-football-does-not-remember-the-name-of-its-greatest-ever-jewish-player",
-      "source": "The Guardian",
-      "published_at": "2026-06-13T04:00:03+00:00",
-      "summary": "Influential Jewish managers such as Bela Guttman survived the Holocaust. In his new book, David Bolchover explores the great players who did not Who was the best Brazilian player of all time? Pelé comes the answer. Argentina? Maradona or Messi. Hungary? Puskas. Holland? Cruyff. G",
-      "teams": [
-        "Brazil",
-        "Germany",
-        "Netherlands",
-        "France",
-        "Argentina",
-        "Portugal",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "a95e14e0f3a2",
-      "title": "Six Lionesses made MBEs in King's Birthday Honours",
-      "url": "https://www.bbc.com/sport/articles/c07ygxxj0g3o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-12T21:30:09+00:00",
-      "summary": "Kevin Sinfield has received a knighthood in the King's Birthday Honours while six of England's Euro 2025-winning squad have been made MBEs.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "7f0ab93cf72e",
-      "title": "Weir's title regret as she confirms Real Madrid exit",
-      "url": "https://www.bbc.com/sport/football/articles/c6213dn9z2zo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-12T15:48:20+00:00",
-      "summary": "Scotland midfielder Caroline Weir has confirmed her exit from Real Madrid after four years with the La Liga runners-up without giving a hint of her next destination.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f816e318d193",
-      "title": "Man City sign England's Mead on free transfer",
-      "url": "https://www.bbc.com/sport/football/articles/czx5d7z550xo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-12T11:39:33+00:00",
-      "summary": "Manchester City have confirmed the signing of England forward Beth Mead on a free transfer from Arsenal.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e10ff01492d6",
-      "title": "Joy for Jiménez and Mexico as co-hosts make ideal start: World Cup Daily – podcast",
-      "url": "https://www.theguardian.com/football/audio/2026/jun/12/mexico-joy-raul-jimenez-south-korea-world-cup-daily-podcast",
-      "source": "The Guardian",
-      "published_at": "2026-06-12T07:58:35+00:00",
-      "summary": "Max Rushden is joined by Barry Glendenning , Barney Ronay , Jeff Rueter and Jonathan Wilson as the World Cup kicks off in Mexico Rate, review, share on Apple Podcasts and join the conversation on email . On the podcast today: there are tears from Raúl Jiménez as he scores his fir",
-      "teams": [
-        "Mexico",
-        "South Africa"
-      ],
-      "is_injury_related": false
     }
   ]
 }
