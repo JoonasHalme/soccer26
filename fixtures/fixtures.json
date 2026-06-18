@@ -28843,10 +28843,10 @@
       "home": "Uzbekistan",
       "away": "Colombia",
       "score": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 3
       },
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "odds": {
         "home": 9.05,
         "draw": 4.8,
@@ -31507,10 +31507,10 @@
       "home": "Ghana",
       "away": "Panama",
       "score": {
-        "home": 0,
+        "home": 1,
         "away": 0
       },
-      "status": "LIVE",
+      "status": "FINISHED",
       "odds": {
         "home": 2.33,
         "draw": 3.2,
