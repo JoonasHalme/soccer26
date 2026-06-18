@@ -1128,10 +1128,10 @@
       "home": "Czech Republic",
       "away": "South Africa",
       "score": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "odds": {
         "home": 1.85,
         "draw": 3.3,
@@ -1638,34 +1638,24 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-18T13:39:35.752424+00:00",
+        "captured_at": "2026-06-18T17:25:17.182431+00:00",
         "consensus": {
-          "home": 1.82,
-          "draw": 3.6,
-          "away": 4.5,
-          "over_2_5": 2.15,
-          "under_2_5": 1.7
+          "home": 1.23,
+          "draw": 4.75,
+          "away": 19.0
         },
         "best_book": {
           "home": {
-            "price": 1.9,
-            "book": "1xBet"
+            "price": 1.29,
+            "book": "Betfair"
           },
           "draw": {
-            "price": 3.7,
-            "book": "Unibet (FR)"
+            "price": 5.6,
+            "book": "Smarkets"
           },
           "away": {
-            "price": 4.95,
-            "book": "BetOnline.ag"
-          },
-          "over_2_5": {
-            "price": 2.19,
-            "book": "BetOnline.ag"
-          },
-          "under_2_5": {
-            "price": 1.74,
-            "book": "1xBet"
+            "price": 27.0,
+            "book": "Betfair"
           }
         }
       }
@@ -4383,13 +4373,13 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-18T13:39:35.752424+00:00",
+        "captured_at": "2026-06-18T17:25:17.182431+00:00",
         "consensus": {
-          "home": 1.56,
-          "draw": 4.1,
-          "away": 6.0,
-          "over_2_5": 1.93,
-          "under_2_5": 1.86
+          "home": 1.55,
+          "draw": 4.2,
+          "away": 6.1,
+          "over_2_5": 1.9,
+          "under_2_5": 1.88
         },
         "best_book": {
           "home": {
@@ -4397,19 +4387,19 @@
             "book": "1xBet"
           },
           "draw": {
-            "price": 4.3,
-            "book": "Betclic (FR)"
+            "price": 4.35,
+            "book": "PMU (FR)"
           },
           "away": {
-            "price": 6.9,
-            "book": "Unibet (FR)"
+            "price": 6.8,
+            "book": "Betfair"
           },
           "over_2_5": {
-            "price": 2.02,
+            "price": 1.99,
             "book": "Matchbook"
           },
           "under_2_5": {
-            "price": 1.95,
+            "price": 2.0,
             "book": "Matchbook"
           }
         }
@@ -4932,7 +4922,39 @@
           },
           "totals": {}
         }
-      ]
+      ],
+      "closing_odds": {
+        "captured_at": "2026-06-18T17:25:17.182431+00:00",
+        "consensus": {
+          "home": 1.3,
+          "draw": 5.6,
+          "away": 11.0,
+          "over_2_5": 1.69,
+          "under_2_5": 2.14
+        },
+        "best_book": {
+          "home": {
+            "price": 1.34,
+            "book": "1xBet"
+          },
+          "draw": {
+            "price": 6.0,
+            "book": "Sky Bet"
+          },
+          "away": {
+            "price": 12.5,
+            "book": "Betsson"
+          },
+          "over_2_5": {
+            "price": 1.78,
+            "book": "Betsson"
+          },
+          "under_2_5": {
+            "price": 2.22,
+            "book": "BetOnline.ag"
+          }
+        }
+      }
     },
     {
       "id": "m-011",

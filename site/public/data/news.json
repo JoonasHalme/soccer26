@@ -1,21 +1,121 @@
 {
-  "generated_at": "2026-06-18T13:39:43.099078+00:00",
+  "generated_at": "2026-06-18T17:25:25.243762+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "b8b31835b6a5",
-      "title": "World Cup 2026: Bellingham playing with ‘chip on shoulder’, Côte d’Ivoire’s Wahi barred over alleged fixing – live",
-      "url": "https://www.theguardian.com/football/live/2026/jun/18/world-cup-2026-england-croatia-fans-czechia-south-africa-switzerland-bosnia-and-herzegovina-canada-qatar-mexico-south-korea-live",
+      "id": "5e8492a4f2fd",
+      "title": "Czechia v South Africa: World Cup – live",
+      "url": "https://www.theguardian.com/football/live/2026/jun/18/czechia-v-south-africa-world-cup-live",
       "source": "The Guardian",
-      "published_at": "2026-06-18T13:35:28+00:00",
-      "summary": "⚽ All the latest news from day eight of the tournament ⚽ Player guide | Bracketology | Golden Boot | Mail us A fresh England line hot off the wires coming right up … If by some bizarre chance you missed it, here’s a gallery of some of the best images from England 4-2 Croatia: Con",
+      "published_at": "2026-06-18T17:20:39+00:00",
+      "summary": "⚽ Kick-off time: 12pm local/2am AEST/5pm BST/12pm EDT ⚽ Player guide | Bracketology | Golden Boot | Mail Daniel Email! “This is a bittersweet game for me,” confesses John Brennan. “When the draw was made in December, this was the most likely game that I could get to see Ireland p",
       "teams": [
-        "Ivory Coast",
+        "Mexico",
+        "South Africa",
+        "Czech Republic"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "5d705829de5c",
+      "title": "New Zealand make World Cup history with first mother-son duo",
+      "url": "https://www.bbc.com/sport/football/articles/cly7r603vrno",
+      "source": "BBC Sport",
+      "published_at": "2026-06-18T17:04:34+00:00",
+      "summary": "New Zealand make history as Tyler and Jenny Bindon become the first mother-son duo to play at the World Cup.",
+      "teams": [
+        "New Zealand"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6c6022fd5409",
+      "title": "Rice expected to be fit to face Ghana despite back pain",
+      "url": "https://www.bbc.com/sport/football/articles/cdr45g01vk3o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-18T16:42:59+00:00",
+      "summary": "Declan Rice is expected to be available for England's World Cup match against Ghana after suffering from lower back pain during the win over Croatia.",
+      "teams": [
         "England",
-        "Croatia"
+        "Croatia",
+        "Ghana"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "4fef63fa3f41",
+      "title": "Van der Vaart criticised for 'racist slurs' against Japan",
+      "url": "https://www.bbc.com/sport/football/articles/cdjk9yw9xv3o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-18T16:28:37+00:00",
+      "summary": "Former Tottenham midfielder Rafael van der Vaart apologises after saying that Japan players \"all look alike\" during their 2-2 draw with the Netherlands.",
+      "teams": [
+        "Netherlands",
+        "Japan"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "38490d76d95b",
+      "title": "David Squires on … the Socceroos’ World Cup so far and a tasty clash with the USA to come",
+      "url": "https://www.theguardian.com/football/picture/2026/jun/19/socceroos-world-cup-so-far-david-squires-cartoon",
+      "source": "The Guardian",
+      "published_at": "2026-06-18T15:00:08+00:00",
+      "summary": "Our cartoonist looks at Australia’s involvement at the tournament with a place in the knockout phase tantalisingly close Continue reading...",
+      "teams": [
+        "USA",
+        "Australia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "fde3743c4f91",
+      "title": "All done deals in June 2026",
+      "url": "https://www.bbc.com/sport/football/articles/ce9p91r771go",
+      "source": "BBC Sport",
+      "published_at": "2026-06-18T14:50:28+00:00",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6a12c9403130",
+      "title": "Kane is England's greatest striker, says Lineker",
+      "url": "https://www.bbc.com/sport/football/articles/cvg5de1dyn2o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-18T14:37:23+00:00",
+      "summary": "Gary Lineker thinks Harry Kane is \"the greatest English striker we've ever had\" after the England captain equalled his record of 10 World Cup goals.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1a473645b187",
+      "title": "'I want courage not fear' - Wales boss on World Cup play-offs",
+      "url": "https://www.bbc.com/sport/football/articles/c4gyrpr1jyyo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-18T13:46:19+00:00",
+      "summary": "Wales must beat Albania and either Romania or Norway in successive two-legged play-off ties to reach next summer's Women's World Cup.",
+      "teams": [
+        "Norway"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "b652689f87d4",
+      "title": "'My brother hid in a rice sack' - The refugee stars at the World Cup",
+      "url": "https://www.bbc.com/news/articles/c1eygyg2zeno",
+      "source": "BBC Sport",
+      "published_at": "2026-06-18T13:41:06+00:00",
+      "summary": "Germany and Real Madrid defender Antonio Rudiger, whose family fled Sierra Leone's civil war, is among those campaigning for a change in global attitudes around refugees.",
+      "teams": [
+        "Germany"
       ],
       "is_injury_related": false
     },
@@ -28,6 +128,18 @@
       "summary": "France's World Cup winner Olivier Giroud explains why iconic Les Bleus striker Kylian Mbappe is misunderstood, and seen as arrogant when he's not.",
       "teams": [
         "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1bf2ce690a31",
+      "title": "Why are England playing a darts song at the World Cup?",
+      "url": "https://www.bbc.com/sport/football/articles/c5yzkx6vjxno",
+      "source": "BBC Sport",
+      "published_at": "2026-06-18T12:48:57+00:00",
+      "summary": "BBC Sport's Ask Me Anything looks at the range of goal songs being used at the 2026 World Cup",
+      "teams": [
+        "England"
       ],
       "is_injury_related": false
     },
@@ -58,7 +170,7 @@
     },
     {
       "id": "658d28621590",
-      "title": "Côte d’Ivoire’s Wahi denied Canada visa for World Cup match amid fixing allegation",
+      "title": "Côte d’Ivoire’s Wahi denied Canada visa for World Cup match amid fixing investigation",
       "url": "https://www.theguardian.com/football/2026/jun/18/elye-wahi-cote-d-ivoire-canada-entry-visa-world-cup-2026",
       "source": "The Guardian",
       "published_at": "2026-06-18T11:59:29+00:00",
@@ -89,13 +201,12 @@
       "url": "https://www.theguardian.com/football/2026/jun/18/womens-world-cup-playoffs-england-greece-scotland-czechia",
       "source": "The Guardian",
       "published_at": "2026-06-18T11:11:37+00:00",
-      "summary": "England to play Ukraine or Slovakia if they beat Greece Scotland probably face Sweden if they win first game England will need to overcome Greece and either Slovakia or Ukraine to qualify for the 2027 Women’s World Cup. Scotland were handed a significantly tougher draw and will p",
+      "summary": "England to play Ukraine or Slovakia if they beat Greece Scotland probably face Sweden if they win first game England will need to overcome Greece and either Slovakia or Ukraine to qualify for the 2027 Women’s World Cup in Brazil. Scotland were handed a significantly tougher draw ",
       "teams": [
         "Czech Republic",
         "Brazil",
         "Scotland",
         "Sweden",
-        "Norway",
         "England"
       ],
       "is_injury_related": false
@@ -121,20 +232,6 @@
       "summary": "Celtic open the 2026-27 Scottish Premiership season at home to Dundee on 3 August, with the champions saying they are disappointed to be starting on a Monday evening.",
       "teams": [
         "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "2638475d0e79",
-      "title": "Scotland draw Czech Republic in round one of World Cup play-offs",
-      "url": "https://www.bbc.com/sport/football/articles/cvg47ndeqedo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-18T10:55:40+00:00",
-      "summary": "Scotland will have to beat Czech Republic and either Lithuania or Sweden in successive two-legged play-off ties if they are to reach next summer's Women's World Cup.",
-      "teams": [
-        "Czech Republic",
-        "Scotland",
-        "Sweden"
       ],
       "is_injury_related": false
     },
@@ -362,7 +459,7 @@
       "url": "https://www.theguardian.com/football/2026/jun/18/uzbekistan-colombia-world-cup-2026-group-k-match-report",
       "source": "The Guardian",
       "published_at": "2026-06-18T04:22:57+00:00",
-      "summary": "Some very good things have come from Croydon, the often overlooked town in south London. The film director David Lean was born there, as was Roy Hodgson, the actor Peggy Ashcroft and the sexologist Havelock Ellis. Amy Winehouse studied in Croydon. The Bill and Peep Show were film",
+      "summary": "Some very good things have come from Croydon, the often overlooked town in south London. The film director David Lean was born there, as were Roy Hodgson, the actor Peggy Ashcroft and the sexologist Havelock Ellis. Amy Winehouse studied in Croydon. The Bill and Peep Show were fil",
       "teams": [
         "Uzbekistan",
         "Colombia"
@@ -379,18 +476,6 @@
       "teams": [
         "Uzbekistan",
         "Colombia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "d5e74c1ecfe6",
-      "title": "What are the patches on some shirts at the World Cup?",
-      "url": "https://www.bbc.com/sport/football/articles/cr5jdy59m69o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-18T03:31:10+00:00",
-      "summary": "England captain Harry Kane was seen wearing a special patch on his England shirt - why are they there and who else gets to wear them?",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
@@ -445,25 +530,12 @@
       "is_injury_related": false
     },
     {
-      "id": "8be7881c3d18",
-      "title": "Drone brought down near South Korea training base",
-      "url": "https://www.bbc.com/sport/football/articles/c872pv2r5y4o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-18T00:03:20+00:00",
-      "summary": "The Mexican military reportedly intercepts and brings down an unregistered drone seen flying over South Korea's training base before their Group A match with co-hosts Mexico on Friday.",
-      "teams": [
-        "Mexico",
-        "South Korea"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e4547224d4ce",
-      "title": "Harry Kane reveals half-time Tuchel pep-talk inspired England to victory over Croatia",
-      "url": "https://www.theguardian.com/football/2026/jun/18/harry-kane-england-croatia-inspired-thomas-tuchel-speech",
+      "id": "bb2c40aa7349",
+      "title": "England’s second-half forward surge against Croatia fails to mask defensive frailties | Jacob Steinberg",
+      "url": "https://www.theguardian.com/football/2026/jun/18/england-second-half-forward-surge-fails-mask-defensive-frailties-world-cup-croatia",
       "source": "The Guardian",
-      "published_at": "2026-06-17T23:32:27+00:00",
-      "summary": "Storming second-half display comes after coach’s speech Coach tells team to ‘show the world what we can be’ Harry Kane has revealed that a half-time speech from Thomas Tuchel when he told England “to show the world what we can be” inspired victory in their opening match of the 20",
+      "published_at": "2026-06-17T23:08:03+00:00",
+      "summary": "Even as forwards shine, Dallas performance exposes shaky defence that may cost Thomas Tuchel and England dear come the tournament’s sharp end When Thomas Tuchel won the Champions League with Chelsea in 2021 the success was built on unflinching defensive rigour and midfield discip",
       "teams": [
         "England",
         "Croatia"
@@ -529,19 +601,6 @@
       "source": "BBC Sport",
       "published_at": "2026-06-17T22:01:54+00:00",
       "summary": "Harry Kane scores his second goal of the game against Croatia, heading home from a Declan Rice corner to give England a 2-1 lead.",
-      "teams": [
-        "England",
-        "Croatia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "7aa392085716",
-      "title": "Who was the biggest attacking threat? England player ratings",
-      "url": "https://www.bbc.com/sport/football/articles/cy4eg2k4l2xo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-17T22:01:49+00:00",
-      "summary": "Who was England's biggest attacking threat against Croatia? Alex Howell rates the players - plus have your say.",
       "teams": [
         "England",
         "Croatia"
@@ -628,44 +687,6 @@
       "is_injury_related": true
     },
     {
-      "id": "2650002dd7c9",
-      "title": "Scottish Premiership fixture release - all you need to know",
-      "url": "https://www.bbc.com/sport/football/articles/cq810gqe708o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-17T19:09:15+00:00",
-      "summary": "The fixtures for the 2026-27 Scottish Premiership season are released on Thursday at 12:00 BST - and you can see them on the BBC Sport website and app as soon as they are announced.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "42a13c6e6f2b",
-      "title": "How sweltering Scotland can handle World Cup heat",
-      "url": "https://www.bbc.com/sport/football/articles/cx26geg0elgo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-17T11:16:20+00:00",
-      "summary": "With Scotland's World Cup games expected to take place in temperatures of around 30C, Steve Clarke and his team will have to battle the conditions as well as Morocco and Brazil.",
-      "teams": [
-        "Brazil",
-        "Morocco",
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "fde3743c4f91",
-      "title": "All done deals in June 2026",
-      "url": "https://www.bbc.com/sport/football/articles/ce9p91r771go",
-      "source": "BBC Sport",
-      "published_at": "2026-06-17T09:57:10+00:00",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "4357f825745d",
       "title": "Tottenham sign Scotland forward Hanson from Villa",
       "url": "https://www.bbc.com/sport/football/articles/cvgqrr8wknxo",
@@ -729,18 +750,6 @@
         "France",
         "Argentina",
         "Algeria"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "6f497e06e137",
-      "title": "From tragedy to World Cup history - Iraq scorer Hussein's story",
-      "url": "https://www.bbc.com/sport/football/articles/ckg055dj259o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-17T02:20:52+00:00",
-      "summary": "Iraq striker Aymen Hussein's journey to the World Cup is one that could easily have taken a different turn.",
-      "teams": [
-        "Iraq"
       ],
       "is_injury_related": false
     },
@@ -931,18 +940,6 @@
       "is_injury_related": false
     },
     {
-      "id": "bfc3a1fdb4ff",
-      "title": "Amorim agrees to become Milan head coach in boost to Manchester United finances",
-      "url": "https://www.theguardian.com/football/2026/jun/15/ruben-amorim-agrees-become-milan-head-coach-boost-manchester-finances-compensation",
-      "source": "The Guardian",
-      "published_at": "2026-06-15T12:25:37+00:00",
-      "summary": "Portuguese will replace Massimiliano Allegri at San Siro United will not need to pay full £16.7m compensation Ruben Amorim is poised to return to management after agreeing to become Milan’s head coach. The move will make Manchester United a significant saving on his compensation ",
-      "teams": [
-        "Portugal"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "df2c04e056a2",
       "title": "Brilliant teenager Bouaddi glides on to big stage with effortless grace for Morocco",
       "url": "https://www.theguardian.com/football/2026/jun/14/ayyoub-bouaddi-morocco-brazil-world-cup-football-vinicius-junior",
@@ -1038,14 +1035,14 @@
       "is_injury_related": true
     },
     {
-      "id": "7f0ab93cf72e",
-      "title": "Weir's title regret as she confirms Real Madrid exit",
-      "url": "https://www.bbc.com/sport/football/articles/c6213dn9z2zo",
+      "id": "f816e318d193",
+      "title": "Man City sign England's Mead on free transfer",
+      "url": "https://www.bbc.com/sport/football/articles/czx5d7z550xo",
       "source": "BBC Sport",
-      "published_at": "2026-06-12T15:48:20+00:00",
-      "summary": "Scotland midfielder Caroline Weir has confirmed her exit from Real Madrid after four years with the La Liga runners-up without giving a hint of her next destination.",
+      "published_at": "2026-06-12T11:39:33+00:00",
+      "summary": "Manchester City have confirmed the signing of England forward Beth Mead on a free transfer from Arsenal.",
       "teams": [
-        "Scotland"
+        "England"
       ],
       "is_injury_related": false
     }
