@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T09:24:46.283003+00:00",
+  "generated_at": "2026-06-18T13:39:43.099078+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -7,11 +7,182 @@
   "items": [
     {
       "id": "b8b31835b6a5",
-      "title": "World Cup 2026: England turn on the style; Fifa denies ticketless fans breached security – live",
+      "title": "World Cup 2026: Bellingham playing with ‘chip on shoulder’, Côte d’Ivoire’s Wahi barred over alleged fixing – live",
       "url": "https://www.theguardian.com/football/live/2026/jun/18/world-cup-2026-england-croatia-fans-czechia-south-africa-switzerland-bosnia-and-herzegovina-canada-qatar-mexico-south-korea-live",
       "source": "The Guardian",
-      "published_at": "2026-06-18T09:19:10+00:00",
+      "published_at": "2026-06-18T13:35:28+00:00",
       "summary": "⚽ All the latest news from day eight of the tournament ⚽ Player guide | Bracketology | Golden Boot | Mail us A fresh England line hot off the wires coming right up … If by some bizarre chance you missed it, here’s a gallery of some of the best images from England 4-2 Croatia: Con",
+      "teams": [
+        "Ivory Coast",
+        "England",
+        "Croatia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "de3201e0d2d8",
+      "title": "The celebration photo that sums up my relationship with Mbappe - Giroud",
+      "url": "https://www.bbc.com/sport/football/articles/cjrg7x4y975o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-18T12:57:31+00:00",
+      "summary": "France's World Cup winner Olivier Giroud explains why iconic Les Bleus striker Kylian Mbappe is misunderstood, and seen as arrogant when he's not.",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "172783340599",
+      "title": "Why does Scotland's McGinn do goggles celebration?",
+      "url": "https://www.bbc.com/sport/football/articles/cwyknd3lk7eo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-18T12:43:42+00:00",
+      "summary": "John McGinn opens up about the relative who inspired his goal celebration.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ed5890d3d6bc",
+      "title": "Lionesses will face Greece in World Cup play-offs",
+      "url": "https://www.bbc.com/sport/football/articles/cvgl9xp2lgno",
+      "source": "BBC Sport",
+      "published_at": "2026-06-18T12:15:51+00:00",
+      "summary": "England will face Greece in round one of the 2027 Women's World Cup play-offs, with Northern Ireland, Scotland and Wales also learning their opponents.",
+      "teams": [
+        "Scotland",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "658d28621590",
+      "title": "Côte d’Ivoire’s Wahi denied Canada visa for World Cup match amid fixing allegation",
+      "url": "https://www.theguardian.com/football/2026/jun/18/elye-wahi-cote-d-ivoire-canada-entry-visa-world-cup-2026",
+      "source": "The Guardian",
+      "published_at": "2026-06-18T11:59:29+00:00",
+      "summary": "Striker will miss Saturday’s Germany game in Toronto Arrest was over alleged ‘organised fraud’ in Ligue 1 The Côte d’Ivoire striker Elye Wahi, who is being investigated for alleged fixing, has not been authorised to travel to Canada for his team’s World Cup match against Germany,",
+      "teams": [
+        "Canada",
+        "Germany",
+        "Ivory Coast"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "5af31f0cd90b",
+      "title": "Ivory Coast's Wahi denied entry to Canada",
+      "url": "https://www.bbc.com/sport/football/articles/cvg7n7xdnd0o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-18T11:39:28+00:00",
+      "summary": "The Ivory Coast football federation have announced their forward Elye Wahi has been denied entry to Canada for their next World Cup game.",
+      "teams": [
+        "Canada",
+        "Ivory Coast"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6149bd820885",
+      "title": "Women’s World Cup playoffs: England land Greece, Scotland get Czechia in first round",
+      "url": "https://www.theguardian.com/football/2026/jun/18/womens-world-cup-playoffs-england-greece-scotland-czechia",
+      "source": "The Guardian",
+      "published_at": "2026-06-18T11:11:37+00:00",
+      "summary": "England to play Ukraine or Slovakia if they beat Greece Scotland probably face Sweden if they win first game England will need to overcome Greece and either Slovakia or Ukraine to qualify for the 2027 Women’s World Cup. Scotland were handed a significantly tougher draw and will p",
+      "teams": [
+        "Czech Republic",
+        "Brazil",
+        "Scotland",
+        "Sweden",
+        "Norway",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6d5c84b86020",
+      "title": "Scottish Premiership fixtures - find out your club's schedule",
+      "url": "https://www.bbc.com/sport/football/articles/cvgmqvm0r8vo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-18T11:02:13+00:00",
+      "summary": "Find out your team's schedule for this season's Scottish Premiership pre-split campaign.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "3a8292a883b5",
+      "title": "Calvin Harris & Commonwealths force Monday start to Celtic's title defence",
+      "url": "https://www.bbc.com/sport/football/articles/c1kyv7yjmdlo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-18T11:00:27+00:00",
+      "summary": "Celtic open the 2026-27 Scottish Premiership season at home to Dundee on 3 August, with the champions saying they are disappointed to be starting on a Monday evening.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "2638475d0e79",
+      "title": "Scotland draw Czech Republic in round one of World Cup play-offs",
+      "url": "https://www.bbc.com/sport/football/articles/cvg47ndeqedo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-18T10:55:40+00:00",
+      "summary": "Scotland will have to beat Czech Republic and either Lithuania or Sweden in successive two-legged play-off ties if they are to reach next summer's Women's World Cup.",
+      "teams": [
+        "Czech Republic",
+        "Scotland",
+        "Sweden"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "92cc765510e9",
+      "title": "Nearly man McInnes finally has Rangers job he always wanted",
+      "url": "https://www.bbc.com/sport/football/articles/cdx7gq4wk1qo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-18T10:38:37+00:00",
+      "summary": "Why has Derek McInnes swapped nearly winning the Scottish title with Heart of Midlothian for a Rangers side who finished behind them in third last season?",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "3e30b037b8cb",
+      "title": "Konate to join Real Madrid on four-year deal",
+      "url": "https://www.bbc.com/sport/football/articles/crr8797ek15o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-18T10:05:33+00:00",
+      "summary": "Real Madrid agree a deal to sign Ibrahima Konate on a four-year contract when the France centre-back leaves Liverpool at the end of June.",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "c0f4e9fae3d2",
+      "title": "OL Lyonnes and Scotland’s Caroline Weir: ‘I would love to be competing for the Champions League’",
+      "url": "https://www.theguardian.com/football/2026/jun/18/caroline-weir-ol-lyonnes-scotland-interview",
+      "source": "The Guardian",
+      "published_at": "2026-06-18T10:03:48+00:00",
+      "summary": "Midfielder is chasing a trophy-laden spell in France and hopes a dream can be fulfilled by playing in the 2027 Women’s World Cup in Brazil June 2026 is a month Caroline Weir is unlikely to forget. She scored seven goals in two Scotland games as they clinched top spot in their Wor",
+      "teams": [
+        "Brazil",
+        "Scotland",
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "0ddfaaa1ffe5",
+      "title": "Tactical analysis: England look exciting but how can they tighten up?",
+      "url": "https://www.bbc.com/sport/articles/c98256ypwy0o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-18T09:38:00+00:00",
+      "summary": "England produced some exciting attacking football while beating Croatia 4-2 but why did they look so shaky defensively?",
       "teams": [
         "England",
         "Croatia"
@@ -20,7 +191,7 @@
     },
     {
       "id": "1038cf8bba71",
-      "title": "Liverpool beat Newcastle to sign Víctor Muñoz in first signing of Andoni Iraola era",
+      "title": "Liverpool beat Newcastle to £34.5m Víctor Muñoz in first signing of Iraola era",
       "url": "https://www.theguardian.com/football/2026/jun/18/victor-munoz-liverpool-newcastle-andoni-iraola-transfer-news",
       "source": "The Guardian",
       "published_at": "2026-06-18T09:10:03+00:00",
@@ -94,41 +265,16 @@
       "is_injury_related": true
     },
     {
-      "id": "6221afb38f0d",
-      "title": "Podcast: Scotland v Morocco - one point from history?",
-      "url": "https://www.bbc.co.uk/sounds/play/p0nsn1v7",
-      "source": "BBC Sport",
-      "published_at": "2026-06-18T07:00:00+00:00",
-      "summary": "Scotland prepare for Morocco as World Cup pressure ramps up.",
-      "teams": [
-        "Morocco",
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "698fc297bd2b",
-      "title": "Football Daily",
-      "url": "https://www.bbc.co.uk/sounds/play/p0ns7vhb",
-      "source": "BBC Sport",
-      "published_at": "2026-06-18T06:33:00+00:00",
-      "summary": "Harry Kane and Jude Bellingham shine as England beat Croatia 4-2.",
-      "teams": [
-        "England",
-        "Croatia"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "4f46dbdb161b",
-      "title": "Mexico military brings down ‘unfortunate’ drone near South Korea World Cup training camp",
+      "title": "Mexico military brings down drone near South Korea World Cup training camp",
       "url": "https://www.theguardian.com/football/2026/jun/18/mexico-south-korea-drone-training-world-cup-2026",
       "source": "The Guardian",
       "published_at": "2026-06-18T06:24:48+00:00",
-      "summary": "Unclear if drone was spying or if arrests made South Korea say drone would not have spotted tactics Mexican military forces intercepted and brought down a drone that flew near the South Korea team’s training camp ahead of its World Cup match against Mexico, a federal official tol",
+      "summary": "South Korea say tactics would not have been seen Drones have also been near stadium security zones Mexican military forces intercepted and brought down a drone that flew near the South Korea team’s training camp as they prepared for their World match against the co-hosts. Militar",
       "teams": [
         "Mexico",
-        "South Korea"
+        "South Korea",
+        "Czech Republic"
       ],
       "is_injury_related": false
     },
@@ -222,20 +368,6 @@
         "Colombia"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "7e11b11eafcf",
-      "title": "From frustration to party time: Mexico ready for lift-off after steady start",
-      "url": "https://www.theguardian.com/football/2026/jun/18/ceremony-to-celebration-mexico-south-korea-world-cup",
-      "source": "The Guardian",
-      "published_at": "2026-06-18T04:00:01+00:00",
-      "summary": "The opening night against South Africa was met with mixed feelings but Thursday night’s South Korea clash promises to spark feelgood factor The mood in Mexico City last Thursday night, after a 2-0 win over South Africa in the opening game of the World Cup, was gleeful. Fans crowd",
-      "teams": [
-        "Mexico",
-        "South Africa",
-        "South Korea"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "17f8e0cf6fce",
@@ -332,19 +464,6 @@
       "source": "The Guardian",
       "published_at": "2026-06-17T23:32:27+00:00",
       "summary": "Storming second-half display comes after coach’s speech Coach tells team to ‘show the world what we can be’ Harry Kane has revealed that a half-time speech from Thomas Tuchel when he told England “to show the world what we can be” inspired victory in their opening match of the 20",
-      "teams": [
-        "England",
-        "Croatia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "034cf16975da",
-      "title": "Bellingham, England’s man for elite moments, kicks over the console table | Barney Ronay",
-      "url": "https://www.theguardian.com/football/2026/jun/17/jude-bellingham-man-for-elite-moments-england-croatia-world-cup-opener",
-      "source": "The Guardian",
-      "published_at": "2026-06-17T22:56:20+00:00",
-      "summary": "Goal against Croatia in his side’s World Cup opener was an angry one with a rising sense of inevitability And breathe again. For the opening 45 minutes under the giant Victorian train station roof at the Dallas Stadium, England produced a performance that was a bit like watching ",
       "teams": [
         "England",
         "Croatia"
@@ -483,19 +602,6 @@
       "is_injury_related": false
     },
     {
-      "id": "9a557c675e0f",
-      "title": "Cape Verde goalkeeper set to be reunited with his mum",
-      "url": "https://www.bbc.com/sport/football/articles/cgjxlpxxp6wo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-17T19:42:13+00:00",
-      "summary": "Vozinha's mum has been granted a visa to travel to the US ahead of Cape Verde's next game against Uruguay.",
-      "teams": [
-        "Cape Verde",
-        "Uruguay"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "bb1aee069408",
       "title": "DR Congo earn World Cup point against Portugal",
       "url": "https://www.bbc.com/sport/football/videos/c8j2e2rj0klo",
@@ -534,18 +640,6 @@
       "is_injury_related": false
     },
     {
-      "id": "8d33dac0acc1",
-      "title": "Clichy on Mbappe, Henderson and France 2010",
-      "url": "https://www.bbc.co.uk/sounds/play/p0nsj01f",
-      "source": "BBC Sport",
-      "published_at": "2026-06-17T15:07:00+00:00",
-      "summary": "Gaël Clichy: The truth about France 2010.",
-      "teams": [
-        "France"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "42a13c6e6f2b",
       "title": "How sweltering Scotland can handle World Cup heat",
       "url": "https://www.bbc.com/sport/football/articles/cx26geg0elgo",
@@ -580,18 +674,6 @@
       "summary": "Tottenham have signed Scotland international Kirsty Hanson from Aston Villa for an undisclosed fee.",
       "teams": [
         "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "9c9f89ed69c1",
-      "title": "World Cup quiz: England's previous opening games",
-      "url": "https://www.bbc.com/sport/football/articles/cm2pvdz0nq2o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-17T07:33:52+00:00",
-      "summary": "Test your knowledge of England's previous opening games at World Cups. How much can you remember?",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
@@ -674,18 +756,6 @@
         "Senegal",
         "Iraq",
         "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "26040b97084a",
-      "title": "The VAR call that dumbfounded the world's best refs",
-      "url": "https://www.bbc.com/sport/football/articles/c4gyr9dr4yvo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-16T21:32:18+00:00",
-      "summary": "France are left stunned at the decision not to award a penalty as Kylian Mbappe goes down under Sadio Mane's tackle.",
-      "teams": [
-        "France"
       ],
       "is_injury_related": false
     },
@@ -976,72 +1046,6 @@
       "summary": "Scotland midfielder Caroline Weir has confirmed her exit from Real Madrid after four years with the La Liga runners-up without giving a hint of her next destination.",
       "teams": [
         "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f816e318d193",
-      "title": "Man City sign England's Mead on free transfer",
-      "url": "https://www.bbc.com/sport/football/articles/czx5d7z550xo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-12T11:39:33+00:00",
-      "summary": "Manchester City have confirmed the signing of England forward Beth Mead on a free transfer from Arsenal.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e10ff01492d6",
-      "title": "Joy for Jiménez and Mexico as co-hosts make ideal start: World Cup Daily – podcast",
-      "url": "https://www.theguardian.com/football/audio/2026/jun/12/mexico-joy-raul-jimenez-south-korea-world-cup-daily-podcast",
-      "source": "The Guardian",
-      "published_at": "2026-06-12T07:58:35+00:00",
-      "summary": "Max Rushden is joined by Barry Glendenning , Barney Ronay , Jeff Rueter and Jonathan Wilson as the World Cup kicks off in Mexico Rate, review, share on Apple Podcasts and join the conversation on email . On the podcast today: there are tears from Raúl Jiménez as he scores his fir",
-      "teams": [
-        "Mexico",
-        "South Africa"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "00a63b061fa5",
-      "title": "'A shameless cash grab': can the World Cup be saved?",
-      "url": "https://www.theguardian.com/football/video/2026/jun/11/a-shameless-cash-grab-can-the-world-cup-be-saved",
-      "source": "The Guardian",
-      "published_at": "2026-06-11T18:57:29+00:00",
-      "summary": "For the next 39 days, 104 matches will be played throughout the United States, Mexico and Canada until a World Cup winner is crowned on 19 July. Amid the excitement around the world’s biggest sporting event, there has also been intense controversy and scrutiny. Ticket prices, tra",
-      "teams": [
-        "Mexico",
-        "Canada",
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "853a61e63f6f",
-      "title": "England’s World Cup setback and Durham’s fight for survival – Women’s Football Weekly",
-      "url": "https://www.theguardian.com/football/audio/2026/jun/10/englands-world-cup-setback-and-durhams-fight-for-survival-womens-football-weekly",
-      "source": "The Guardian",
-      "published_at": "2026-06-10T13:53:26+00:00",
-      "summary": "Faye Carruthers is joined by Suzy Wrack , Tom Garry and Marva Kreel to discuss England’s failure to qualify automatically for the 2027 World Cup and the uncertain future facing Durham. On today’s pod: The panel assess a frustrating end to England’s World Cup qualifying campaign, ",
-      "teams": [
-        "Brazil",
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "715f369ffb2e",
-      "title": "Who will win the World Cup? BBC pundits make their predictions",
-      "url": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-10T05:24:53+00:00",
-      "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup.",
-      "teams": [
-        "Scotland",
-        "England"
       ],
       "is_injury_related": false
     }
