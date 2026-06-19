@@ -1,37 +1,170 @@
 {
-  "generated_at": "2026-06-19T01:51:25.302847+00:00",
+  "generated_at": "2026-06-19T07:25:35.065658+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "0ababcfb4bfd",
-      "title": "Mexico v South Korea: World Cup 2026 – live",
-      "url": "https://www.theguardian.com/football/live/2026/jun/19/fifa-world-cup-2026-live-mexico-v-south-korea-updates-mex-vs-kor-group-a-match-score-latest",
+      "id": "fb32dad15d9e",
+      "title": "World Cup 2026: Koné injury mars Canada rout; Scotland’s ‘big challenge’; USA v Australia buildup – live",
+      "url": "https://www.theguardian.com/football/live/2026/jun/19/world-cup-2026-news-kone-injury-canada-rout-scotland-big-challenge-morocco-usa-australia-buildup-live",
       "source": "The Guardian",
-      "published_at": "2026-06-19T01:36:31+00:00",
-      "summary": "⚽️ Kick-off time: 7pm local/9pm EDT/2am BST/11am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Jonathan ⚽️ Jonathan Wilson: From frustration to party time: Mexico ready for lift-off Javier Aguirre was forced into one change following the red card to Cesar Montes agains",
+      "published_at": "2026-06-19T07:15:30+00:00",
+      "summary": "⚽ All the latest news from day eight of the tournament ⚽ Player guide | Bracketology | Golden Boot | Mail us Because I am really cool, I was speaking to someone about Johan Manzambi before the match yesterday. Freiburg are open to selling him this summer but it would cost any buy",
       "teams": [
-        "Mexico",
-        "South Africa",
-        "South Korea",
-        "Czech Republic",
-        "Germany"
+        "Canada",
+        "Bosnia & Herzegovina",
+        "Qatar",
+        "Switzerland",
+        "Scotland",
+        "USA",
+        "Australia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "803dadbcc375",
+      "title": "Declan Rice is running out of steam, leaving Tuchel a midfield conundrum",
+      "url": "https://www.theguardian.com/football/2026/jun/19/world-cup-england-rice-out-of-steam-tuchel-midfield-dilemma",
+      "source": "The Guardian",
+      "published_at": "2026-06-19T07:00:27+00:00",
+      "summary": "England mainstay is flagging after six years of nonstop action, but finding a solution to his absence is no easy task A freak of nature is Aaron Cresswell’s description of Declan Rice. The former West Ham left-back marvels at Rice’s ability to keep going. “He can play six or seve",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "7e327055ea0c",
+      "title": "Players are human beings and social media comments reach us. But the focus has to be on the pitch | Rodrygo",
+      "url": "https://www.theguardian.com/football/2026/jun/19/players-are-human-beings-and-social-media-comments-reach-us-but-the-focus-has-to-be-on-the-pitch",
+      "source": "The Guardian",
+      "published_at": "2026-06-19T07:00:26+00:00",
+      "summary": "The pressure of wearing the Brazil shirt can be heavy but also creates a positive kind of responsibility Playing in a World Cup is a huge experience; when you’re with the national team, your entire focus is on the squad’s schedule – the hotel, the training centre, the stadium – b",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "5237768d1335",
+      "title": "‘The cops bought me an egg and cheese muffin’: Boston’s love affair with Tartan Army goes on",
+      "url": "https://www.theguardian.com/football/2026/jun/19/the-cops-bought-me-an-egg-and-cheese-muffin-bostons-love-affair-with-tartan-army-goes-on",
+      "source": "The Guardian",
+      "published_at": "2026-06-19T07:00:25+00:00",
+      "summary": "Scotland fans in the Massachusetts city awaiting their game against Morocco have continued to make an impression on the locals On Thursday afternoon, local broadcasters in Boston went live to an event hosted by the city’s mayor, Michelle Wu. It was a significant moment, with Wu c",
+      "teams": [
+        "Morocco",
+        "Scotland",
+        "USA"
       ],
       "is_injury_related": false
     },
     {
+      "id": "6c4005588512",
+      "title": "Scotland's totems must turn up to thwart dynamic Morocco",
+      "url": "https://www.bbc.com/sport/football/articles/cy04jqn90wko",
+      "source": "BBC Sport",
+      "published_at": "2026-06-19T06:44:23+00:00",
+      "summary": "Scotland will need their best display since Steve Clarke took over to achieve the result against Morocco that will secure knockout tournament football for the first time, writes Tom English.",
+      "teams": [
+        "Morocco",
+        "Scotland",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "1270ecaa1ab3",
+      "title": "Iran to lodge complaint with Fifa over ‘restrictions imposed’ on team at World Cup",
+      "url": "https://www.theguardian.com/football/2026/jun/19/iran-lodge-complaint-fifa-restrictions-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-06-19T05:22:59+00:00",
+      "summary": "Iran permitted to arrive in LA just 24 hours before Belgium game Federation will express its ‘dissatisfaction’ over logistical issues Iran plan to lodge a formal complaint with Fifa regarding the “restrictions imposed by the organisers” on the team at the World Cup, after being t",
+      "teams": [
+        "Mexico",
+        "Belgium",
+        "Iran",
+        "New Zealand"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "d16d6db154ac",
+      "title": "Hat-trick hero & Swiss wonderkid - World Cup duo set for Premier League?",
+      "url": "https://www.bbc.com/sport/articles/cp8rde9q76do",
+      "source": "BBC Sport",
+      "published_at": "2026-06-19T04:19:13+00:00",
+      "summary": "Will Canada hat-trick hero Jonathan David and Swiss goal-scoring midfielder Johan Manzambi be playing in the Premier League next season?",
+      "teams": [
+        "Canada",
+        "Switzerland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "87b1f9e7923a",
+      "title": "A day of tears, scuffles & history as injury mars Canada's moment",
+      "url": "https://www.bbc.com/sport/football/articles/cly7r1zjmmlo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-19T03:34:23+00:00",
+      "summary": "Canada's first-ever win at a World Cup finals should have been cause for pure joy - but was overshadowed by a horrific injury to Ismael Kone, and the angry and emotional scenes that followed.",
+      "teams": [
+        "Canada"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "796e17b71029",
+      "title": "South Korea howler gifts Mexico victory as World Cup co-hosts reach knockout phase",
+      "url": "https://www.theguardian.com/football/2026/jun/19/mexico-south-korea-world-cup-2026-group-a-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-06-19T03:06:51+00:00",
+      "summary": "It wasn’t pretty, distinguished by little other than its black v lilac colour scheme, but Mexico became the first side at the 2026 World Cup to secure their place in the knockout stage. They are sure to top their group and stay in Mexico City, opening the path for an apocalyptic ",
+      "teams": [
+        "Mexico",
+        "South Korea"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "cc2101d0a25b",
-      "title": "Toney scores hat-trick in England friendly win",
+      "title": "Tuchel throws first pitch as England enjoy downtime",
       "url": "https://www.bbc.com/sport/football/articles/cgrk5qrkw5po",
       "source": "BBC Sport",
-      "published_at": "2026-06-19T01:35:52+00:00",
-      "summary": "Ivan Toney and Morgan Rogers are among the scorers as England record a 5-1 win over MLS side Sporting Kansas City in a practice match on Thursday.",
+      "published_at": "2026-06-19T02:46:28+00:00",
+      "summary": "Thomas Tuchel takes some time out at a baseball game as England enjoy some downtime at the World Cup - while Ivan Toney scores a hat-trick in a friendly against MLS side Sporting KC.",
       "teams": [
         "England"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "d575dde45116",
+      "title": "Forget the confected World Cup hostility, the US and Australia mirror each other",
+      "url": "https://www.theguardian.com/football/2026/jun/19/australia-v-usa-socceroos-usmnt-confected-hostility-2026-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-06-19T02:00:19+00:00",
+      "summary": "The Group D clash between the United States and Socceroos has been hyped as next step in a heated rivalry but the nations are on similar football journeys Listen to the hyperbole spewed by the loudest voices, and the World Cup clash between co-hosts the United States and Australi",
+      "teams": [
+        "USA",
+        "Australia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "392a5020999f",
+      "title": "Canada score six but historic win marred by Kone injury",
+      "url": "https://www.bbc.com/sport/football/videos/ckg7nx6kg51o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-19T01:58:33+00:00",
+      "summary": "Ismael Kone's serious-looking injury left Canada manager Jesse Marsch in tears and overshadowed their first-ever World Cup finals win as they thrashed nine-man Qatar 6-0.",
+      "teams": [
+        "Canada",
+        "Qatar"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "c28a12a00346",
@@ -43,32 +176,6 @@
       "teams": [
         "Canada",
         "Qatar"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "bc44d3850831",
-      "title": "Canada rout nine-man Qatar but Koné injury sours first-ever World Cup win",
-      "url": "https://www.theguardian.com/football/2026/jun/18/canada-qatar-world-cup-2026-group-b-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-06-19T00:20:03+00:00",
-      "summary": "At full strength, Canada can go toe-to-toe with any opponent in the Americas. After steady climbs up the Concacaf charts and a credible run to the 2024 Copa América semi-final, all hope was that a talented squad could find their stride at a home World Cup. That belief came to lif",
-      "teams": [
-        "Canada",
-        "Qatar"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "954ed4627813",
-      "title": "Mauricio Pochettino noncommittal on Christian Pulisic status for Australia game: ‘We’ll see’",
-      "url": "https://www.theguardian.com/football/2026/jun/18/usmnt-christian-pulisic-status-mauricio-pochettino",
-      "source": "The Guardian",
-      "published_at": "2026-06-18T23:04:42+00:00",
-      "summary": "Pulisic has been training individually all week US face Australia at 3pm ET in Seattle on Friday World Cup newsletter | Daily podcast | Download the app US men’s national team head coach Mauricio Pochettino offered very little clarity on the injury status of playmaker Christian P",
-      "teams": [
-        "USA",
-        "Australia"
       ],
       "is_injury_related": true
     },
@@ -110,19 +217,6 @@
       "is_injury_related": false
     },
     {
-      "id": "d146894b0723",
-      "title": "England finally exorcise the Southgate era and unleash fun football | Barney Ronay",
-      "url": "https://www.theguardian.com/football/2026/jun/18/england-thomas-tuchel-gareth-southgate-2026-world-cup-croatia",
-      "source": "The Guardian",
-      "published_at": "2026-06-18T21:59:39+00:00",
-      "summary": "You don’t win World Cups by running riot for 10 minutes in mid-June but this felt like the start of something new Walking away from Dallas Stadium, feet throbbing in the heat of the late-evening Texas tarmac, it was tempting to picture the scene inside England’s dressing room thr",
-      "teams": [
-        "England",
-        "Croatia"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "0aa0c9a98270",
       "title": "Liverpool sign Munoz and offer £86m for Diomande",
       "url": "https://www.bbc.com/sport/football/articles/cdjkl44yrg3o",
@@ -148,20 +242,6 @@
       "is_injury_related": false
     },
     {
-      "id": "180b2a856052",
-      "title": "Manzambi double inspires Switzerland rout of 10-man Bosnia and Herzegovina",
-      "url": "https://www.theguardian.com/football/2026/jun/18/switzerland-bosnia-and-herzegovina-group-b-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-06-18T21:09:48+00:00",
-      "summary": "The hype around Johan Manzambi will only heighten after his star turn from the substitutes’ bench helped Switzerland out of a hole and got their World Cup truly up and running. The 20-year-old managed to excel despite Freiburg’s comprehensive Europa League final defeat against As",
-      "teams": [
-        "Bosnia & Herzegovina",
-        "Qatar",
-        "Switzerland"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "b7bb463f5a77",
       "title": "Tottenham complete £52m Van Hecke signing as De Zerbi focuses on defence",
       "url": "https://www.theguardian.com/football/2026/jun/18/tottenham-52m-van-hecke-de-zerbi-defence",
@@ -170,35 +250,6 @@
       "summary": "Spurs bolster backline with third summer signing Defender reunited with former Brighton head coach Tottenham have completed their third signing of the summer after Jan Paul van Hecke joined from Brighton. Spurs made a move for Dutch international centre-back Van Hecke after a ter",
       "teams": [
         "Netherlands"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "2a9ee6fce747",
-      "title": "Broos hits out at stadium and ‘tall’ Czechia after South Africa rescue point",
-      "url": "https://www.theguardian.com/football/2026/jun/18/czechia-south-africa-world-cup-group-a-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-06-18T20:48:57+00:00",
-      "summary": "They can put the matches away, at least for a while. Before this game, Hugo Broos had responded to fierce criticism over South Africa’s start to the World Cup by revealing that eight months ago after qualification a friend had said they would erect a statue of him and the coach h",
-      "teams": [
-        "Mexico",
-        "South Africa",
-        "Czech Republic"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "658d28621590",
-      "title": "Côte d’Ivoire FA says Elye Wahi allowed to travel to Canada amid fixing investigation",
-      "url": "https://www.theguardian.com/football/2026/jun/18/elye-wahi-cote-d-ivoire-canada-entry-visa-world-cup-2026",
-      "source": "The Guardian",
-      "published_at": "2026-06-18T20:02:15+00:00",
-      "summary": "Striker now set to face Germany in Toronto on Saturday Arrest was over alleged ‘organised fraud’ in Ligue 1 The Côte d’Ivoire striker Elye Wahi, who is being investigated for alleged fixing, has received authorisation to enter Canada for his team’s World Cup match against Germany",
-      "teams": [
-        "Canada",
-        "Germany",
-        "Ivory Coast",
-        "Ecuador"
       ],
       "is_injury_related": false
     },
@@ -484,18 +535,6 @@
       "is_injury_related": false
     },
     {
-      "id": "6d5c84b86020",
-      "title": "Scottish Premiership fixtures - find out your club's schedule",
-      "url": "https://www.bbc.com/sport/football/articles/cvgmqvm0r8vo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-18T11:02:13+00:00",
-      "summary": "Find out your team's schedule for this season's Scottish Premiership pre-split campaign.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "3a8292a883b5",
       "title": "Calvin Harris & Commonwealths force Monday start to Celtic's title defence",
       "url": "https://www.bbc.com/sport/football/articles/c1kyv7yjmdlo",
@@ -518,18 +557,6 @@
         "Scotland"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "4cbb37a39d8d",
-      "title": "Working with Postecoglou and following the data - Salford's new boss Cklamovski",
-      "url": "https://www.bbc.com/sport/football/articles/c3dykykz0eno",
-      "source": "BBC Sport",
-      "published_at": "2026-06-18T08:19:10+00:00",
-      "summary": "Salford City have appointed Peter Cklamovski, someone with no experience of coaching in English football to try and lead them to promotion out of League Two",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "8c20277144f3",
@@ -568,19 +595,6 @@
         "Japan"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "31c171936516",
-      "title": "'If we lose, we lose in our way' - how Tuchel inspired 'fearful' England",
-      "url": "https://www.bbc.com/sport/football/articles/cx2k7zvxee8o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-18T05:53:36+00:00",
-      "summary": "England players were on the receiving end of a half-time reproach from manager Thomas Tuchel as their World Cup campaign got off to a victorious start against Croatia.",
-      "teams": [
-        "England",
-        "Croatia"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "92d367e34b1d",
@@ -704,19 +718,6 @@
       "source": "BBC Sport",
       "published_at": "2026-06-17T22:19:01+00:00",
       "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup.",
-      "teams": [
-        "England",
-        "Croatia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "586602f08417",
-      "title": "Kane heads England into 2-1 lead against Croatia",
-      "url": "https://www.bbc.com/sport/football/videos/c74yngzx4yqo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-17T22:01:54+00:00",
-      "summary": "Harry Kane scores his second goal of the game against Croatia, heading home from a Declan Rice corner to give England a 2-1 lead.",
       "teams": [
         "England",
         "Croatia"
