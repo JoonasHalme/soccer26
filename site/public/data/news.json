@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T19:08:07.912895+00:00",
+  "generated_at": "2026-06-19T21:19:21.155741+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -7,14 +7,41 @@
   "items": [
     {
       "id": "2b7feb410ed2",
-      "title": "USA v Australia: World Cup 2026 – live",
+      "title": "USA 2-0 Australia: World Cup 2026 – live reaction",
       "url": "https://www.theguardian.com/football/live/2026/jun/19/usa-v-australia-world-cup-2026-live",
       "source": "The Guardian",
-      "published_at": "2026-06-19T18:51:27+00:00",
+      "published_at": "2026-06-19T21:09:20+00:00",
       "summary": "⚽️ Kick-off time: noon local/3pm ET/8pm BST/5am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Beau The atmosphere here at Lumen Field (excuse me, Seattle Stadium, how dare I) is positively electric a full 30 minutes before kickoff. This was predictable — the stadium ha",
       "teams": [
         "USA",
         "Australia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "e560b93e2c2f",
+      "title": "Scotland v Morocco: World Cup 2026 – live",
+      "url": "https://www.theguardian.com/football/live/2026/jun/19/scotland-v-morocco-world-cup-2026-live",
+      "source": "The Guardian",
+      "published_at": "2026-06-19T21:08:49+00:00",
+      "summary": "⚽️ World Cup kick-off: 6pm local time/11pm BST/8am AEST ⚽️ Player guide | Bracketology | Golden Boot | Email John Scotland: Gunn, Hanley, Hendry, Tierney, Patterson, McTominay, Ferguson, Robertson, McGinn, Christie, Adams. Subs: Kelly, Gordon, Hickey, Fletcher, Dykes, Stewart, So",
+      "teams": [
+        "Canada",
+        "Morocco",
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "66fcaceb521a",
+      "title": "England winger Saka unlikely to start against Ghana",
+      "url": "https://www.bbc.com/sport/football/articles/crm0kg22m9jo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-19T20:09:51+00:00",
+      "summary": "England head coach Thomas Tuchel hints that Bukayo Saka is unlikely to be in contention to start against Ghana on Tuesday.",
+      "teams": [
+        "England",
+        "Ghana"
       ],
       "is_injury_related": false
     },
@@ -347,18 +374,6 @@
       "is_injury_related": false
     },
     {
-      "id": "4622eae5c9f9",
-      "title": "Why Pochettino's fluid USA midfield is thriving",
-      "url": "https://www.bbc.com/sport/football/articles/cr5jdjn65nzo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-19T08:48:45+00:00",
-      "summary": "Mauricio Pochettino has his USA midfield thriving at the World Cup with a fluid approach - here is how it works.",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "87d4ce2fbc85",
       "title": "Football Daily",
       "url": "https://www.bbc.co.uk/sounds/play/p0ns7wjx",
@@ -420,20 +435,6 @@
         "Brazil"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "5237768d1335",
-      "title": "‘The cops bought me an egg and cheese muffin’: Boston’s love affair with Tartan Army goes on",
-      "url": "https://www.theguardian.com/football/2026/jun/19/the-cops-bought-me-an-egg-and-cheese-muffin-bostons-love-affair-with-tartan-army-goes-on",
-      "source": "The Guardian",
-      "published_at": "2026-06-19T07:00:25+00:00",
-      "summary": "Scotland fans in the Massachusetts city awaiting their game against Morocco have continued to make an impression on the locals On Thursday afternoon, local broadcasters in Boston went live to an event hosted by the city’s mayor, Michelle Wu. It was a significant moment, with Wu c",
-      "teams": [
-        "Morocco",
-        "Scotland",
-        "USA"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "f670c7802d07",
@@ -634,20 +635,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "6c6022fd5409",
-      "title": "Rice expected to be fit to face Ghana despite back pain",
-      "url": "https://www.bbc.com/sport/football/articles/cdr45g01vk3o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-18T16:42:59+00:00",
-      "summary": "Declan Rice is expected to be available for England's World Cup match against Ghana after suffering from lower back pain during the win over Croatia.",
-      "teams": [
-        "England",
-        "Croatia",
-        "Ghana"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "38490d76d95b",
@@ -1039,6 +1026,18 @@
         "Brazil",
         "Morocco",
         "France"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "8d04ba4a31de",
+      "title": "Young Socceroos offer something new and tantalising: the hope of an adventure like in 2006",
+      "url": "https://www.theguardian.com/football/blog/2026/jun/14/young-socceroos-inspiring-australians-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-06-14T15:00:48+00:00",
+      "summary": "Irankunda and co have not yet earned golden generation status but they can revive Australia’s World Cup aspirations There always was a familiar feeling to this youthful squad of Socceroos. That sense of deja vu. That you had seen something like this before. But it took Nestory Ir",
+      "teams": [
+        "Australia"
       ],
       "is_injury_related": true
     }
