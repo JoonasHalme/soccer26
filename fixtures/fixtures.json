@@ -1669,10 +1669,10 @@
       "home": "Mexico",
       "away": "South Korea",
       "score": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "odds": {
         "home": 2.05,
         "draw": 3.3,
@@ -4020,10 +4020,10 @@
       "home": "Canada",
       "away": "Qatar",
       "score": {
-        "home": 3,
+        "home": 6,
         "away": 0
       },
-      "status": "LIVE",
+      "status": "FINISHED",
       "odds": {
         "home": 1.29,
         "draw": 5.67,
