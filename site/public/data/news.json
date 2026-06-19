@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T07:25:35.065658+00:00",
+  "generated_at": "2026-06-19T12:17:13.750042+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -7,19 +7,179 @@
   "items": [
     {
       "id": "fb32dad15d9e",
-      "title": "World Cup 2026: Koné injury mars Canada rout; Scotland’s ‘big challenge’; USA v Australia buildup – live",
+      "title": "World Cup 2026: Scotland fans take over Boston; Pochettino looking for spies; Koné injury – live",
       "url": "https://www.theguardian.com/football/live/2026/jun/19/world-cup-2026-news-kone-injury-canada-rout-scotland-big-challenge-morocco-usa-australia-buildup-live",
       "source": "The Guardian",
-      "published_at": "2026-06-19T07:15:30+00:00",
-      "summary": "⚽ All the latest news from day eight of the tournament ⚽ Player guide | Bracketology | Golden Boot | Mail us Because I am really cool, I was speaking to someone about Johan Manzambi before the match yesterday. Freiburg are open to selling him this summer but it would cost any buy",
+      "published_at": "2026-06-19T12:09:15+00:00",
+      "summary": "⚽ All the latest news from day eight of the tournament ⚽ Player guide | Bracketology | Golden Boot | Mail us Let’s begin our look at what will happen later today. First up is USA v Australia in Seattle at 8pm BST/12pm local time. Continue reading...",
       "teams": [
-        "Canada",
-        "Bosnia & Herzegovina",
-        "Qatar",
-        "Switzerland",
         "Scotland",
         "USA",
         "Australia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "8fbcbfb859e3",
+      "title": "'Era of the spy': Mauricio Pochettino spotted looking for spies – video",
+      "url": "https://www.theguardian.com/football/video/2026/jun/19/era-of-spy-mauricio-pochettino-spotted-looking-for-spies-video",
+      "source": "The Guardian",
+      "published_at": "2026-06-19T11:21:41+00:00",
+      "summary": "Guardian journalist Pablo Iglesias Maurer captured the US manager Mauricio Pochettino taking a video appearing to look for spies at his team's training ground.&nbsp;“I wanted to see, because you know, we're in an era of, how you say: spy,” he told reporters at his pre-match press",
+      "teams": [
+        "Australia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "217c85ef8af8",
+      "title": "London City Lionesses sign ex-England keeper Earps",
+      "url": "https://www.bbc.com/sport/football/articles/c8x2jjyl5kqo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-19T11:00:18+00:00",
+      "summary": "Former England goalkeeper Mary Earps joins London City Lionesses on a two-year deal after leaving Paris St-Germain.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "54062d0ec163",
+      "title": "ITV wins World Cup ratings battle with BBC in tournament’s first week",
+      "url": "https://www.theguardian.com/football/2026/jun/19/itv-wins-world-cup-ratings-battle-bbc-first-week-england-croatia",
+      "source": "The Guardian",
+      "published_at": "2026-06-19T10:53:56+00:00",
+      "summary": "England v Croatia attracted year’s highest UK TV figures BBC opted for more first-pick games in knockout stages ITV is winning the UK television ratings battle after the first week of the World Cup. Viewing figures obtained by the Guardian from Barb, which measures audience numbe",
+      "teams": [
+        "England",
+        "Croatia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "6c4005588512",
+      "title": "Scotland's totems must turn up to thwart dynamic Morocco",
+      "url": "https://www.bbc.com/sport/football/articles/cy04jqn90wko",
+      "source": "BBC Sport",
+      "published_at": "2026-06-19T10:43:36+00:00",
+      "summary": "Scotland will need their best display since Steve Clarke took over to achieve the result against Morocco that will secure knockout tournament football for the first time, writes Tom English.",
+      "teams": [
+        "Morocco",
+        "Scotland",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "01d24f0d7b1d",
+      "title": "More than the Score",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nsyqhb",
+      "source": "BBC Sport",
+      "published_at": "2026-06-19T10:41:00+00:00",
+      "summary": "Discover why the history between Haitian and Brazilian football runs deep",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b53a2c6561ec",
+      "title": "Morocco captain Hakimi to stand trial for rape",
+      "url": "https://www.bbc.com/sport/football/articles/c20y18z7le1o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-19T10:28:22+00:00",
+      "summary": "French prosecutors confirm Morocco captain Achraf Hakimi will stand trial for rape, in accusations dating back to 2023.",
+      "teams": [
+        "Morocco",
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "fde3743c4f91",
+      "title": "All done deals in June 2026",
+      "url": "https://www.bbc.com/sport/football/articles/ce9p91r771go",
+      "source": "BBC Sport",
+      "published_at": "2026-06-19T09:57:26+00:00",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "770a92297ed6",
+      "title": "Wonderwall sing-along one of my favourite England moments - Kane",
+      "url": "https://www.bbc.com/sport/football/articles/ckg74e6dz5lo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-19T09:55:06+00:00",
+      "summary": "Harry Kane says singing 'Wonderwall' with fans after England's win over Croatia on Wednesday was one of his \"favourite ever moments\" in a Three Lions shirt.",
+      "teams": [
+        "England",
+        "Croatia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "fa964aa55376",
+      "title": "Can Renard revive Tunisia's World Cup campaign?",
+      "url": "https://www.bbc.com/sport/football/articles/cvgjpk00l7xo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-19T09:47:42+00:00",
+      "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match.",
+      "teams": [
+        "Tunisia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "4622eae5c9f9",
+      "title": "Why Pochettino's fluid USA midfield is thriving",
+      "url": "https://www.bbc.com/sport/football/articles/cr5jdjn65nzo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-19T08:48:45+00:00",
+      "summary": "Mauricio Pochettino has his USA midfield thriving at the World Cup with a fluid approach - here is how it works.",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "87d4ce2fbc85",
+      "title": "Football Daily",
+      "url": "https://www.bbc.co.uk/sounds/play/p0ns7wjx",
+      "source": "BBC Sport",
+      "published_at": "2026-06-19T07:53:00+00:00",
+      "summary": "Charlie Adam joins Rick & Lloyd to preview Scotland's huge World Cup clash with Morocco.",
+      "teams": [
+        "Morocco",
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1e0b37f93e37",
+      "title": "Iran to lodge complaint over travel restrictions",
+      "url": "https://www.bbc.com/sport/football/articles/c4gy62p4e67o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-19T07:50:32+00:00",
+      "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup.",
+      "teams": [
+        "Iran"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "5cc051e77f34",
+      "title": "Happy hosts as Canada claim first win and Mexico seal knockout spot | World Cup Daily",
+      "url": "https://www.theguardian.com/football/video/2026/jun/19/happy-hosts-as-canada-claim-first-win-and-mexico-seal-knockout-spot-world-cup-daily",
+      "source": "The Guardian",
+      "published_at": "2026-06-19T07:38:35+00:00",
+      "summary": "Max Rushden is joined by Barry Glendenning , Nicky Bandini and Ben Fisher as Canada thrash Qatar 6-0 in Vancouver Continue reading...",
+      "teams": [
+        "Mexico",
+        "Canada",
+        "Qatar"
       ],
       "is_injury_related": true
     },
@@ -62,18 +222,17 @@
       "is_injury_related": false
     },
     {
-      "id": "6c4005588512",
-      "title": "Scotland's totems must turn up to thwart dynamic Morocco",
-      "url": "https://www.bbc.com/sport/football/articles/cy04jqn90wko",
+      "id": "f670c7802d07",
+      "title": "Podcast: Game day - Scotland's World Cup nerve test",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nsxlxv",
       "source": "BBC Sport",
-      "published_at": "2026-06-19T06:44:23+00:00",
-      "summary": "Scotland will need their best display since Steve Clarke took over to achieve the result against Morocco that will secure knockout tournament football for the first time, writes Tom English.",
+      "published_at": "2026-06-19T07:00:00+00:00",
+      "summary": "Scotland brace for Morocco—tactics, nerves and World Cup belief.",
       "teams": [
         "Morocco",
-        "Scotland",
-        "England"
+        "Scotland"
       ],
-      "is_injury_related": true
+      "is_injury_related": false
     },
     {
       "id": "1270ecaa1ab3",
@@ -83,12 +242,11 @@
       "published_at": "2026-06-19T05:22:59+00:00",
       "summary": "Iran permitted to arrive in LA just 24 hours before Belgium game Federation will express its ‘dissatisfaction’ over logistical issues Iran plan to lodge a formal complaint with Fifa regarding the “restrictions imposed by the organisers” on the team at the World Cup, after being t",
       "teams": [
-        "Mexico",
         "Belgium",
         "Iran",
         "New Zealand"
       ],
-      "is_injury_related": true
+      "is_injury_related": false
     },
     {
       "id": "d16d6db154ac",
@@ -121,7 +279,7 @@
       "url": "https://www.theguardian.com/football/2026/jun/19/mexico-south-korea-world-cup-2026-group-a-match-report",
       "source": "The Guardian",
       "published_at": "2026-06-19T03:06:51+00:00",
-      "summary": "It wasn’t pretty, distinguished by little other than its black v lilac colour scheme, but Mexico became the first side at the 2026 World Cup to secure their place in the knockout stage. They are sure to top their group and stay in Mexico City, opening the path for an apocalyptic ",
+      "summary": "It wasn’t pretty, the game distinguished by little other than its black v lilac colour scheme, but Mexico became the first side at the 2026 World Cup to secure their place in the knockout stage. They are sure to top their group and stay in Mexico City, opening the path for an apo",
       "teams": [
         "Mexico",
         "South Korea"
@@ -319,19 +477,6 @@
       "is_injury_related": false
     },
     {
-      "id": "5af31f0cd90b",
-      "title": "Ivory Coast's Wahi allowed into Canada after visa issue",
-      "url": "https://www.bbc.com/sport/football/articles/cvg7n7xdnd0o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-18T18:13:14+00:00",
-      "summary": "The Ivory Coast football federation have announced their forward Elye Wahi will be allowed into Canada for their next World Cup game after earlier being denied entry.",
-      "teams": [
-        "Canada",
-        "Ivory Coast"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "bde112be0bea",
       "title": "‘Talisman’ McTominay has the motivation to make impact on World Cup",
       "url": "https://www.theguardian.com/football/2026/jun/18/talisman-mctominay-has-the-motivation-to-make-impact-on-world-cup",
@@ -446,18 +591,6 @@
       "is_injury_related": true
     },
     {
-      "id": "fde3743c4f91",
-      "title": "All done deals in June 2026",
-      "url": "https://www.bbc.com/sport/football/articles/ce9p91r771go",
-      "source": "BBC Sport",
-      "published_at": "2026-06-18T14:50:28+00:00",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "6a12c9403130",
       "title": "Kane is England's greatest striker, says Lineker",
       "url": "https://www.bbc.com/sport/football/articles/cvg5de1dyn2o",
@@ -494,18 +627,6 @@
       "is_injury_related": false
     },
     {
-      "id": "172783340599",
-      "title": "Why does Scotland's McGinn do goggles celebration?",
-      "url": "https://www.bbc.com/sport/football/articles/cwyknd3lk7eo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-18T12:43:42+00:00",
-      "summary": "John McGinn opens up about the relative who inspired his goal celebration.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "ed5890d3d6bc",
       "title": "Lionesses will face Greece in World Cup play-offs",
       "url": "https://www.bbc.com/sport/football/articles/cvgl9xp2lgno",
@@ -530,42 +651,6 @@
         "Brazil",
         "Scotland",
         "Sweden",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "3a8292a883b5",
-      "title": "Calvin Harris & Commonwealths force Monday start to Celtic's title defence",
-      "url": "https://www.bbc.com/sport/football/articles/c1kyv7yjmdlo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-18T11:00:27+00:00",
-      "summary": "Celtic open the 2026-27 Scottish Premiership season at home to Dundee on 3 August, with the champions saying they are disappointed to be starting on a Monday evening.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "92cc765510e9",
-      "title": "Nearly man McInnes finally has Rangers job he always wanted",
-      "url": "https://www.bbc.com/sport/football/articles/cdx7gq4wk1qo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-18T10:38:37+00:00",
-      "summary": "Why has Derek McInnes swapped nearly winning the Scottish title with Heart of Midlothian for a Rangers side who finished behind them in third last season?",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "8c20277144f3",
-      "title": "England take the handbrake off but Ronaldo is stuck in park | World Cup Daily – video",
-      "url": "https://www.theguardian.com/football/video/2026/jun/18/england-handbrake-off-cristiano-ronaldo-stuck-in-park-world-cup-daily-video",
-      "source": "The Guardian",
-      "published_at": "2026-06-18T08:17:14+00:00",
-      "summary": "Max Rushden is joined by Barry Glendenning , Nick Ames , Lucy Ward and Jacob Steinberg as England start their World Cup in style Continue reading...",
-      "teams": [
         "England"
       ],
       "is_injury_related": false
@@ -681,18 +766,6 @@
       "source": "BBC Sport",
       "published_at": "2026-06-18T00:23:30+00:00",
       "summary": "Fun to watch and full of intent - this was an England we have not seen for years, writes Phil McNulty.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "a89ae8feb8c3",
-      "title": "'Chip on shoulder' may help Bellingham to best form",
-      "url": "https://www.bbc.com/sport/football/articles/c5yzpeq7lx4o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-18T00:12:10+00:00",
-      "summary": "Jude Bellingham says the external \"noise\" around his place in the England team may help him find his best form during the World Cup.",
       "teams": [
         "England"
       ],
@@ -872,19 +945,6 @@
       "is_injury_related": true
     },
     {
-      "id": "b7e8cb7da362",
-      "title": "From Shamrock Rovers to defying Spain: ‘rusty’ Roberto Lopes savours Cape Verde’s finest hour",
-      "url": "https://www.theguardian.com/football/2026/jun/16/roberto-lopes-cape-verde-spain-draw-world-cup-2026",
-      "source": "The Guardian",
-      "published_at": "2026-06-16T13:10:15+00:00",
-      "summary": "Dublin-born defender’s display against Spain drew comparisons with Paul McGrath’s against Italy in 1994 but he says there is still room to improve Rucksack on his back, Roberto “Pico” Lopes was standing on the corner of the narrow walkway way below the stands at the Atlanta stadi",
-      "teams": [
-        "Spain",
-        "Cape Verde"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "ed1b4b5a2e27",
       "title": "Class acts: the maths teacher who taught Argentina’s Álvarez and Fernández",
       "url": "https://www.theguardian.com/football/2026/jun/16/enzo-fernandez-julian-alvarez-argentina-river-plate-teacher-world-cup-2026",
@@ -916,32 +976,6 @@
       "source": "The Guardian",
       "published_at": "2026-06-16T06:31:37+00:00",
       "summary": "Max Rushden is joined by Barry Glendenning , Barney Ronay , Dan Bardell and Sid Lowe as debutants Cape Verde earn a draw against the favourites Spain Rate, review, share on Apple Podcasts and join the conversation on email . On the podcast today: their first ever game at a World ",
-      "teams": [
-        "Spain",
-        "Cape Verde"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "b20f1850869a",
-      "title": "‘Our team is the most oppressed’: Iran coach hits out at Fifa and US over treatment",
-      "url": "https://www.theguardian.com/football/2026/jun/16/amir-ghalenoei-iran-coach-mehdi-taremi-fifa-us-world-cup",
-      "source": "The Guardian",
-      "published_at": "2026-06-16T05:36:17+00:00",
-      "summary": "Ghalenoei claims team told to ‘leave immediately’ ‘We were supposed to stay here tonight to recover’ The Iran captain, Mehdi Taremi, midfielder Mohammad Mohebi, and the head coach, Amir Ghalenoei, hit out at Fifa and hinted at resentment toward the US government after being told ",
-      "teams": [
-        "Iran",
-        "New Zealand"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "8d0d38b84a7e",
-      "title": "The 40-year-old keeper who inspired Cape Verde's historic debut against Spain",
-      "url": "https://www.bbc.com/sport/football/articles/c0ryz4n2v0qo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-15T20:15:42+00:00",
-      "summary": "Cape Verde stuns Spain with a goalless draw inspired by a 40-year-old goalkeeper who has gone viral on social media.",
       "teams": [
         "Spain",
         "Cape Verde"
@@ -1004,49 +1038,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "06b3e4aab769",
-      "title": "Electric Ben Gannon-Doak heralds return to Scotland’s tradition of tricky wingers | Paul MacInnes",
-      "url": "https://www.theguardian.com/football/2026/jun/14/ben-gannon-doak-scotland-haiti-world-cup-group-c",
-      "source": "The Guardian",
-      "published_at": "2026-06-14T04:49:13+00:00",
-      "summary": "There was nothing too complicated about the Bournemouth man’s performance but he took the fight to Haiti in a historic World Cup win The game was about 15 minutes in and a familiar script appeared to be taking shape. After an initial flurry, Scotland were under the pump, struggli",
-      "teams": [
-        "Haiti",
-        "Scotland"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "700d6ea310ee",
-      "title": "‘I thought – gosh, he’s going to be some player’: the making of England’s Declan Rice",
-      "url": "https://www.theguardian.com/football/2026/jun/13/making-england-declan-rice-world-cup-west-ham-arsenal",
-      "source": "The Guardian",
-      "published_at": "2026-06-13T04:00:05+00:00",
-      "summary": "Rejected by Chelsea, honed by West Ham and a league winner at Arsenal, the midfielder has plenty from his footballing journey wishing him well at the World Cup Three years ago Declan Rice was the star guest at a Soho House event about the power of effective leadership. Tickets we",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "c14d980cccfb",
-      "title": "Why football does not remember the name of its greatest ever Jewish player",
-      "url": "https://www.theguardian.com/football/2026/jun/13/why-football-does-not-remember-the-name-of-its-greatest-ever-jewish-player",
-      "source": "The Guardian",
-      "published_at": "2026-06-13T04:00:03+00:00",
-      "summary": "Influential Jewish managers such as Bela Guttman survived the Holocaust. In his new book, David Bolchover explores the great players who did not Who was the best Brazilian player of all time? Pelé comes the answer. Argentina? Maradona or Messi. Hungary? Puskas. Holland? Cruyff. G",
-      "teams": [
-        "Brazil",
-        "Germany",
-        "Netherlands",
-        "France",
-        "Argentina",
-        "Portugal",
-        "England"
-      ],
-      "is_injury_related": false
     }
   ]
 }
