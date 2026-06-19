@@ -7105,7 +7105,39 @@
           },
           "totals": {}
         }
-      ]
+      ],
+      "closing_odds": {
+        "captured_at": "2026-06-19T16:13:25.175332+00:00",
+        "consensus": {
+          "home": 5.8,
+          "draw": 3.7,
+          "away": 1.67,
+          "over_2_5": 2.15,
+          "under_2_5": 1.68
+        },
+        "best_book": {
+          "home": {
+            "price": 6.4,
+            "book": "Betfair"
+          },
+          "draw": {
+            "price": 3.8,
+            "book": "Betfair"
+          },
+          "away": {
+            "price": 1.72,
+            "book": "1xBet"
+          },
+          "over_2_5": {
+            "price": 2.26,
+            "book": "1xBet"
+          },
+          "under_2_5": {
+            "price": 1.72,
+            "book": "Unibet (SE)"
+          }
+        }
+      }
     },
     {
       "id": "m-016",
@@ -9927,7 +9959,39 @@
           },
           "totals": {}
         }
-      ]
+      ],
+      "closing_odds": {
+        "captured_at": "2026-06-19T16:13:25.175332+00:00",
+        "consensus": {
+          "home": 1.61,
+          "draw": 4.4,
+          "away": 5.0,
+          "over_2_5": 1.85,
+          "under_2_5": 1.94
+        },
+        "best_book": {
+          "home": {
+            "price": 1.66,
+            "book": "Matchbook"
+          },
+          "draw": {
+            "price": 4.7,
+            "book": "Betfair"
+          },
+          "away": {
+            "price": 5.4,
+            "book": "1xBet"
+          },
+          "over_2_5": {
+            "price": 1.95,
+            "book": "Matchbook"
+          },
+          "under_2_5": {
+            "price": 2.02,
+            "book": "Matchbook"
+          }
+        }
+      }
     },
     {
       "id": "m-022",
