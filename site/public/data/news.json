@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T11:25:15.546266+00:00",
+  "generated_at": "2026-06-20T14:27:40.260410+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -7,18 +7,58 @@
   "items": [
     {
       "id": "81cadf60a1ca",
-      "title": "World Cup 2026: Scotland fall flat; USA into knockouts; Turkey’s tears and Almíron’s red for covering mouth – live",
+      "title": "World Cup 2026: USA’s ‘high IQ’ squad backed to handle hype; Almíron’s historic red; Sweden’s Dutch test– live",
       "url": "https://www.theguardian.com/football/live/2026/jun/20/world-cup-2026-scotland-morocco-usa-australia-netherlands-sweden-germany-cote-d-ivoire-ecuador-curacao-tunisia-japan",
       "source": "The Guardian",
-      "published_at": "2026-06-20T11:01:21+00:00",
+      "published_at": "2026-06-20T13:58:08+00:00",
       "summary": "⚽ All the latest news from day nine of the tournament ⚽ Player guide | Bracketology | Golden Boot | Email us On this day in World Cup Euros history : 1976 – Antonin Panenka won the final for Czechoslovakia with the most famous penalty of all time. And 50 years on, he sat down wit",
       "teams": [
-        "Scotland",
         "USA",
-        "Turkey",
-        "Germany"
+        "Germany",
+        "Netherlands",
+        "Sweden"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "4138291ac60c",
+      "title": "Why Kane is different at this World Cup",
+      "url": "https://www.bbc.com/sport/football/articles/crr87vwrwwlo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-20T13:24:12+00:00",
+      "summary": "Former England captain Alan Shearer explains what has changed for Harry Kane since his struggles at the 2022 World Cup in Qatar.",
+      "teams": [
+        "Qatar",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b56810425dda",
+      "title": "Football Daily | Turkey need another rebrand after failing to take flight at World Cup",
+      "url": "https://www.theguardian.com/football/2026/jun/20/turkey-exit-tears-world-cup-2026-football-daily-newsletter",
+      "source": "The Guardian",
+      "published_at": "2026-06-20T13:22:15+00:00",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! When Turkey changed to Türkiye in 2022, president Recep Tayyip Erdoğan announced it was because the new name was “the best representation and expression of the Turkish people’s culture, civilisation, and values.” The rebrand, th",
+      "teams": [
+        "USA",
+        "Australia",
+        "Turkey",
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f798226c1e11",
+      "title": "Curacao's trailblazer doctor on football's big stage",
+      "url": "https://www.bbc.com/sport/football/articles/ckg08ewg9l2o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-20T12:35:17+00:00",
+      "summary": "Dr Suzanne Huurman is head of medical staff for Curacao's national men's side - the World Cup's smallest ever team by population and size.",
+      "teams": [
+        "Curaçao"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "471271a23c4b",
@@ -202,7 +242,7 @@
       "url": "https://www.theguardian.com/football/2026/jun/20/brazil-haiti-world-cup-match-report",
       "source": "The Guardian",
       "published_at": "2026-06-20T03:05:05+00:00",
-      "summary": "On a sticky, fun, occasionally boisterous, occasionally listless night in Philadelphia Brazil eased past a game but limited Haiti. All three goals in this 3-0 win came during a spell of first-half urgency driven by the high-grade wide play of Vinícius Júnior and Raphinha. In that",
+      "summary": "On a sticky, fun, occasionally boisterous, occasionally listless night in Philadelphia, Brazil eased past a game but limited Haiti. All three goals in this 3-0 win came during a spell of first-half urgency driven by the high-grade wide play of Vinícius Júnior and Raphinha. In tha",
       "teams": [
         "Brazil",
         "Morocco",
@@ -494,19 +534,6 @@
       "is_injury_related": false
     },
     {
-      "id": "4059ab27182c",
-      "title": "Who's the Bos? - meet 2026 World Cup's fastest player",
-      "url": "https://www.bbc.com/sport/football/articles/cyv0m91942do",
-      "source": "BBC Sport",
-      "published_at": "2026-06-19T12:43:36+00:00",
-      "summary": "Fifa’s sprint data has revealed Australia’s Jordan Bos as the fastest player at World Cup 2026, capping a remarkable rise for the Feyenoord defender",
-      "teams": [
-        "Australia",
-        "Jordan"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "c49716f5db08",
       "title": "‘People think I’ve vanished’: Mary Earps on signing for London City and feeling forgotten",
       "url": "https://www.theguardian.com/football/2026/jun/19/mary-earps-london-city-lionesses-signing-interview",
@@ -577,31 +604,6 @@
       "summary": "Discover why the history between Haitian and Brazilian football runs deep",
       "teams": [
         "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "b53a2c6561ec",
-      "title": "Morocco captain Hakimi to stand trial for rape",
-      "url": "https://www.bbc.com/sport/football/articles/c20y18z7le1o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-19T10:28:22+00:00",
-      "summary": "French prosecutors confirm Morocco captain Achraf Hakimi will stand trial for rape, in accusations dating back to 2023.",
-      "teams": [
-        "Morocco",
-        "France"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "1e0b37f93e37",
-      "title": "Iran to lodge complaint over travel restrictions",
-      "url": "https://www.bbc.com/sport/football/articles/c4gy62p4e67o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-19T07:50:32+00:00",
-      "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup.",
-      "teams": [
-        "Iran"
       ],
       "is_injury_related": false
     },
@@ -911,21 +913,6 @@
       "is_injury_related": false
     },
     {
-      "id": "6d366130661e",
-      "title": "Messi dazzles to equal World Cup scoring record as Argentina breeze past Algeria",
-      "url": "https://www.theguardian.com/football/2026/jun/16/argentina-algeria-world-cup-group-j-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-06-17T03:08:57+00:00",
-      "summary": "Those in attendance at Argentina’s opening match against Algeria could be forgiven, for a moment, for thinking they were at one of the great Argentinian cathedrals of football – La Bombonera , or maybe the national stadium, El Monumental . Kansas City Stadium, awash in the colors",
-      "teams": [
-        "Germany",
-        "France",
-        "Argentina",
-        "Algeria"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "c2072dc048ba",
       "title": "Project Mbappe - the road to becoming France's record scorer",
       "url": "https://www.bbc.com/sport/football/articles/c62lp6xx6zdo",
@@ -1058,6 +1045,18 @@
         "Scotland"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "700d6ea310ee",
+      "title": "‘I thought – gosh, he’s going to be some player’: the making of England’s Declan Rice",
+      "url": "https://www.theguardian.com/football/2026/jun/13/making-england-declan-rice-world-cup-west-ham-arsenal",
+      "source": "The Guardian",
+      "published_at": "2026-06-13T04:00:05+00:00",
+      "summary": "Rejected by Chelsea, honed by West Ham and a league winner at Arsenal, the midfielder has plenty from his footballing journey wishing him well at the World Cup Three years ago Declan Rice was the star guest at a Soho House event about the power of effective leadership. Tickets we",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
     }
   ]
 }

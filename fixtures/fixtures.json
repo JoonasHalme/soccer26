@@ -12849,7 +12849,39 @@
           },
           "totals": {}
         }
-      ]
+      ],
+      "closing_odds": {
+        "captured_at": "2026-06-20T14:27:32.180845+00:00",
+        "consensus": {
+          "home": 1.5,
+          "draw": 4.6,
+          "away": 6.2,
+          "over_2_5": 1.56,
+          "under_2_5": 2.41
+        },
+        "best_book": {
+          "home": {
+            "price": 1.55,
+            "book": "Nordic Bet"
+          },
+          "draw": {
+            "price": 4.9,
+            "book": "Betfair"
+          },
+          "away": {
+            "price": 6.8,
+            "book": "Betfair"
+          },
+          "over_2_5": {
+            "price": 1.65,
+            "book": "Matchbook"
+          },
+          "under_2_5": {
+            "price": 2.5,
+            "book": "Matchbook"
+          }
+        }
+      }
     },
     {
       "id": "m-028",
@@ -15862,34 +15894,34 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-20T11:25:06.965001+00:00",
+        "captured_at": "2026-06-20T14:27:32.180845+00:00",
         "consensus": {
-          "home": 1.72,
+          "home": 1.7,
           "draw": 4.0,
-          "away": 4.6,
-          "over_2_5": 1.65,
-          "under_2_5": 2.25
+          "away": 4.7,
+          "over_2_5": 1.57,
+          "under_2_5": 2.35
         },
         "best_book": {
           "home": {
-            "price": 4.9,
-            "book": "Marathon Bet"
+            "price": 1.76,
+            "book": "Betfair"
           },
           "draw": {
-            "price": 4.2,
-            "book": "Matchbook"
-          },
-          "away": {
-            "price": 8.7,
-            "book": "Marathon Bet"
-          },
-          "over_2_5": {
-            "price": 1.67,
+            "price": 4.24,
             "book": "1xBet"
           },
+          "away": {
+            "price": 5.1,
+            "book": "Betfair"
+          },
+          "over_2_5": {
+            "price": 1.72,
+            "book": "Nordic Bet"
+          },
           "under_2_5": {
-            "price": 2.36,
-            "book": "BetOnline.ag"
+            "price": 2.38,
+            "book": "Unibet (SE)"
           }
         }
       }
