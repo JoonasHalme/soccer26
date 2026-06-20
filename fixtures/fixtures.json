@@ -12787,34 +12787,34 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-20T16:44:57.635128+00:00",
+        "captured_at": "2026-06-20T18:43:40.272846+00:00",
         "consensus": {
-          "home": 1.47,
-          "draw": 4.7,
-          "away": 6.5,
-          "over_2_5": 1.6,
-          "under_2_5": 2.35
+          "home": 1.44,
+          "draw": 4.88,
+          "away": 6.78,
+          "over_2_5": 1.58,
+          "under_2_5": 2.37
         },
         "best_book": {
           "home": {
-            "price": 1.54,
-            "book": "GTbets"
+            "price": 1.55,
+            "book": "Nordic Bet"
           },
           "draw": {
-            "price": 5.0,
+            "price": 5.2,
             "book": "Betfair"
           },
           "away": {
-            "price": 7.0,
+            "price": 7.8,
             "book": "Betfair"
           },
           "over_2_5": {
-            "price": 1.64,
-            "book": "1xBet"
+            "price": 1.65,
+            "book": "Nordic Bet"
           },
           "under_2_5": {
-            "price": 2.56,
-            "book": "Matchbook"
+            "price": 2.42,
+            "book": "1xBet"
           }
         }
       }
@@ -13312,7 +13312,39 @@
           },
           "totals": {}
         }
-      ]
+      ],
+      "closing_odds": {
+        "captured_at": "2026-06-20T18:43:40.272846+00:00",
+        "consensus": {
+          "home": 1.12,
+          "draw": 9.1,
+          "away": 22.99,
+          "over_2_5": 1.54,
+          "under_2_5": 2.45
+        },
+        "best_book": {
+          "home": {
+            "price": 1.17,
+            "book": "1xBet"
+          },
+          "draw": {
+            "price": 10.5,
+            "book": "PMU (FR)"
+          },
+          "away": {
+            "price": 31.0,
+            "book": "Nordic Bet"
+          },
+          "over_2_5": {
+            "price": 1.58,
+            "book": "GTbets"
+          },
+          "under_2_5": {
+            "price": 2.62,
+            "book": "Nordic Bet"
+          }
+        }
+      }
     },
     {
       "id": "m-029",
@@ -15290,10 +15322,10 @@
       "home": "Netherlands",
       "away": "Sweden",
       "score": {
-        "home": null,
-        "away": null
+        "home": 4,
+        "away": 1
       },
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "odds": {
         "home": 1.71,
         "draw": 4.0,
@@ -15777,34 +15809,34 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-20T16:44:57.635128+00:00",
+        "captured_at": "2026-06-20T18:43:40.272846+00:00",
         "consensus": {
-          "home": 1.67,
-          "draw": 4.0,
-          "away": 4.8,
-          "over_2_5": 1.57,
-          "under_2_5": 2.35
+          "home": 1.0,
+          "draw": 68.0,
+          "away": 451.0,
+          "over_2_5": 1.72,
+          "under_2_5": 2.15
         },
         "best_book": {
           "home": {
             "price": 1.75,
-            "book": "Matchbook"
+            "book": "Nordic Bet"
           },
           "draw": {
-            "price": 4.2,
-            "book": "Betclic (FR)"
+            "price": 451.0,
+            "book": "Paddy Power"
           },
           "away": {
-            "price": 5.3,
-            "book": "1xBet"
+            "price": 751.0,
+            "book": "Coral"
           },
           "over_2_5": {
-            "price": 1.7,
-            "book": "Matchbook"
+            "price": 1.72,
+            "book": "Nordic Bet"
           },
           "under_2_5": {
-            "price": 2.43,
-            "book": "Unibet (SE)"
+            "price": 2.15,
+            "book": "Nordic Bet"
           }
         }
       }
