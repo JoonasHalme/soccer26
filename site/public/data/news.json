@@ -1,28 +1,79 @@
 {
-  "generated_at": "2026-06-20T14:27:40.260410+00:00",
+  "generated_at": "2026-06-20T16:45:05.953054+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "81cadf60a1ca",
-      "title": "World Cup 2026: USA’s ‘high IQ’ squad backed to handle hype; Almíron’s historic red; Sweden’s Dutch test– live",
-      "url": "https://www.theguardian.com/football/live/2026/jun/20/world-cup-2026-scotland-morocco-usa-australia-netherlands-sweden-germany-cote-d-ivoire-ecuador-curacao-tunisia-japan",
+      "id": "684f5fa4bdb3",
+      "title": "Netherlands v Sweden: World Cup 2026 – live",
+      "url": "https://www.theguardian.com/football/live/2026/jun/20/netherlands-v-sweden-world-cup-2026-live",
       "source": "The Guardian",
-      "published_at": "2026-06-20T13:58:08+00:00",
-      "summary": "⚽ All the latest news from day nine of the tournament ⚽ Player guide | Bracketology | Golden Boot | Email us On this day in World Cup Euros history : 1976 – Antonin Panenka won the final for Czechoslovakia with the most famous penalty of all time. And 50 years on, he sat down wit",
+      "published_at": "2026-06-20T16:40:40+00:00",
+      "summary": "⚽️ World Cup kick-off: 1pm ET/6pm BST/3am AEST ⚽️ Player guide | Bracketology | Golden Boot | Email John Netherlands: Verbruggen, Dumfries, van Dijk, van Hecke, van de Ven, Gravenberch, de Jong, Reijnders, Malen, Brobbey, Gakpo. Subs: Flekken, Roefs, Ake, Geertruida, Hato, Kluive",
       "teams": [
-        "USA",
-        "Germany",
         "Netherlands",
         "Sweden"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "75018d71ef6e",
+      "title": "No Pulisic, no problem: how the USA learned to win without their star player | Jeff Rueter",
+      "url": "https://www.theguardian.com/football/2026/jun/20/no-pulisic-no-problem-how-the-us-learned-to-win-without-their-star-player",
+      "source": "The Guardian",
+      "published_at": "2026-06-20T16:30:06+00:00",
+      "summary": "Mauricio Pochettino had to do without his best player against Australia. But Ricardo Pepi helped the Americans build attacks in different ways Once it was clear that Christian Pulisic’s calf could keep him out of Friday’s match against Australia , Mauricio Pochettino had a lot of",
+      "teams": [
+        "USA",
+        "Australia",
+        "Turkey"
       ],
       "is_injury_related": true
     },
     {
+      "id": "0d4da7fb7420",
+      "title": "Referee told McGinn penalty denied as ball going out of play",
+      "url": "https://www.bbc.com/sport/articles/cx26jxl2gyno",
+      "source": "BBC Sport",
+      "published_at": "2026-06-20T15:46:09+00:00",
+      "summary": "Referee Ilgiz Tantashev told John McGinn he turned down his claim for a penalty against Morocco because the ball was going out of play, the Scotland midfielder's brother, Stephen, says.",
+      "teams": [
+        "Morocco",
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "fe898bcf3a68",
+      "title": "Down but not out: Socceroos take heart from positives in defeat to USA | Jack Snape",
+      "url": "https://www.theguardian.com/football/2026/jun/21/down-but-not-out-socceroos-take-heart-from-positives-in-defeat-to-usa",
+      "source": "The Guardian",
+      "published_at": "2026-06-20T15:00:04+00:00",
+      "summary": "Australia’s fate will be set after their final group game against Paraguay but there were some reasons for cheer from the performance in Seattle The Socceroos are down, but they are not out. The 2-0 defeat to the USA was a sudden comedown after the glories of the previous week, a",
+      "teams": [
+        "USA",
+        "Paraguay",
+        "Australia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "724627e0df1e",
+      "title": "Boston bounce sends Scotland to Miami with hope and no fear",
+      "url": "https://www.bbc.com/sport/football/articles/c0my8z7vpg3o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-20T14:43:39+00:00",
+      "summary": "Scotland and their fans head to Miami for a World Cup date with destiny after making memories in Boston to last a lifetime.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "4138291ac60c",
-      "title": "Why Kane is different at this World Cup",
+      "title": "Why Kane is different at this World Cup - Shearer",
       "url": "https://www.bbc.com/sport/football/articles/crr87vwrwwlo",
       "source": "BBC Sport",
       "published_at": "2026-06-20T13:24:12+00:00",
@@ -253,7 +304,7 @@
     },
     {
       "id": "ac5c994b3fa1",
-      "title": "Uzbeks to beat DR Congo? The reality of Scotland's qualification mental gymnastics",
+      "title": "Who should Scotland fans be cheering on in next few days?",
       "url": "https://www.bbc.com/sport/football/articles/cdejzn507ryo",
       "source": "BBC Sport",
       "published_at": "2026-06-20T02:19:30+00:00",
@@ -277,20 +328,6 @@
         "Morocco",
         "Scotland",
         "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "312a83d1060b",
-      "title": "US players agree with Zlatan Ibrahimovic that World Cup title is possible: ‘That’s our mindset’",
-      "url": "https://www.theguardian.com/football/2026/jun/19/usa-world-cup-zlatan-ibrahimovic-comments",
-      "source": "The Guardian",
-      "published_at": "2026-06-20T01:39:23+00:00",
-      "summary": "US qualify for knockout stage after victory over Australia Former Sweden striker says Americans are contenders US men’s team’s last semi-final came in 1930 After two wins in two to start the World Cup, the US have gained a high-profile supporter: Zlatan Ibrahimovic. Asked on Fox’",
-      "teams": [
-        "USA",
-        "Australia",
-        "Sweden"
       ],
       "is_injury_related": true
     },
@@ -596,44 +633,6 @@
       "is_injury_related": true
     },
     {
-      "id": "01d24f0d7b1d",
-      "title": "More than the Score",
-      "url": "https://www.bbc.co.uk/sounds/play/p0nsyqhb",
-      "source": "BBC Sport",
-      "published_at": "2026-06-19T10:41:00+00:00",
-      "summary": "Discover why the history between Haitian and Brazilian football runs deep",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "d16d6db154ac",
-      "title": "Hat-trick hero & Swiss wonderkid - World Cup duo set for Premier League?",
-      "url": "https://www.bbc.com/sport/articles/cp8rde9q76do",
-      "source": "BBC Sport",
-      "published_at": "2026-06-19T04:19:13+00:00",
-      "summary": "Will Canada hat-trick hero Jonathan David and Swiss goal-scoring midfielder Johan Manzambi be playing in the Premier League next season?",
-      "teams": [
-        "Canada",
-        "Switzerland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "d575dde45116",
-      "title": "Forget the confected World Cup hostility, the US and Australia mirror each other",
-      "url": "https://www.theguardian.com/football/2026/jun/19/australia-v-usa-socceroos-usmnt-confected-hostility-2026-world-cup",
-      "source": "The Guardian",
-      "published_at": "2026-06-19T02:00:19+00:00",
-      "summary": "The Group D clash between the United States and Socceroos has been hyped as next step in a heated rivalry but the nations are on similar football journeys Listen to the hyperbole spewed by the loudest voices, and the World Cup clash between co-hosts the United States and Australi",
-      "teams": [
-        "USA",
-        "Australia"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "392a5020999f",
       "title": "Canada score six but historic win marred by Kone injury",
       "url": "https://www.bbc.com/sport/football/videos/ckg7nx6kg51o",
@@ -694,6 +693,18 @@
       "teams": [
         "Bosnia & Herzegovina",
         "Switzerland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b7bb463f5a77",
+      "title": "Tottenham complete £52m Van Hecke signing as De Zerbi focuses on defence",
+      "url": "https://www.theguardian.com/football/2026/jun/18/tottenham-52m-van-hecke-de-zerbi-defence",
+      "source": "The Guardian",
+      "published_at": "2026-06-18T21:09:41+00:00",
+      "summary": "Spurs bolster backline with third summer signing Defender reunited with former Brighton head coach Tottenham have completed their third signing of the summer after Jan Paul van Hecke joined from Brighton. Spurs made a move for Dutch international centre-back Van Hecke after a ter",
+      "teams": [
+        "Netherlands"
       ],
       "is_injury_related": false
     },
@@ -1045,18 +1056,6 @@
         "Scotland"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "700d6ea310ee",
-      "title": "‘I thought – gosh, he’s going to be some player’: the making of England’s Declan Rice",
-      "url": "https://www.theguardian.com/football/2026/jun/13/making-england-declan-rice-world-cup-west-ham-arsenal",
-      "source": "The Guardian",
-      "published_at": "2026-06-13T04:00:05+00:00",
-      "summary": "Rejected by Chelsea, honed by West Ham and a league winner at Arsenal, the midfielder has plenty from his footballing journey wishing him well at the World Cup Three years ago Declan Rice was the star guest at a Soho House event about the power of effective leadership. Tickets we",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
     }
   ]
 }

@@ -12787,33 +12787,33 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-20T14:27:32.180845+00:00",
+        "captured_at": "2026-06-20T16:44:57.635128+00:00",
         "consensus": {
-          "home": 1.5,
-          "draw": 4.6,
-          "away": 6.2,
-          "over_2_5": 1.56,
-          "under_2_5": 2.41
+          "home": 1.47,
+          "draw": 4.7,
+          "away": 6.5,
+          "over_2_5": 1.6,
+          "under_2_5": 2.35
         },
         "best_book": {
           "home": {
-            "price": 1.55,
-            "book": "Nordic Bet"
+            "price": 1.54,
+            "book": "GTbets"
           },
           "draw": {
-            "price": 4.9,
+            "price": 5.0,
             "book": "Betfair"
           },
           "away": {
-            "price": 6.8,
+            "price": 7.0,
             "book": "Betfair"
           },
           "over_2_5": {
-            "price": 1.65,
-            "book": "Matchbook"
+            "price": 1.64,
+            "book": "1xBet"
           },
           "under_2_5": {
-            "price": 2.5,
+            "price": 2.56,
             "book": "Matchbook"
           }
         }
@@ -15777,33 +15777,33 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-20T14:27:32.180845+00:00",
+        "captured_at": "2026-06-20T16:44:57.635128+00:00",
         "consensus": {
-          "home": 1.7,
+          "home": 1.67,
           "draw": 4.0,
-          "away": 4.7,
+          "away": 4.8,
           "over_2_5": 1.57,
           "under_2_5": 2.35
         },
         "best_book": {
           "home": {
-            "price": 1.76,
-            "book": "Betfair"
+            "price": 1.75,
+            "book": "Matchbook"
           },
           "draw": {
-            "price": 4.24,
-            "book": "1xBet"
+            "price": 4.2,
+            "book": "Betclic (FR)"
           },
           "away": {
-            "price": 5.1,
-            "book": "Betfair"
+            "price": 5.3,
+            "book": "1xBet"
           },
           "over_2_5": {
-            "price": 1.72,
-            "book": "Nordic Bet"
+            "price": 1.7,
+            "book": "Matchbook"
           },
           "under_2_5": {
-            "price": 2.38,
+            "price": 2.43,
             "book": "Unibet (SE)"
           }
         }
