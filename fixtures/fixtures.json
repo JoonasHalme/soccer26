@@ -12344,10 +12344,10 @@
       "home": "Germany",
       "away": "Ivory Coast",
       "score": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       },
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "odds": {
         "home": 1.48,
         "draw": 4.4,
@@ -12848,34 +12848,34 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-20T18:43:40.272846+00:00",
+        "captured_at": "2026-06-20T20:39:06.000620+00:00",
         "consensus": {
-          "home": 1.44,
-          "draw": 4.88,
-          "away": 6.78,
-          "over_2_5": 1.58,
-          "under_2_5": 2.37
+          "home": 2.62,
+          "draw": 3.4,
+          "away": 2.5,
+          "over_2_5": 1.47,
+          "under_2_5": 3.0
         },
         "best_book": {
           "home": {
-            "price": 1.55,
-            "book": "Nordic Bet"
+            "price": 2.94,
+            "book": "Matchbook"
           },
           "draw": {
-            "price": 5.2,
+            "price": 3.65,
             "book": "Betfair"
           },
           "away": {
-            "price": 7.8,
+            "price": 2.78,
             "book": "Betfair"
           },
           "over_2_5": {
-            "price": 1.65,
-            "book": "Nordic Bet"
+            "price": 1.47,
+            "book": "Matchbook"
           },
           "under_2_5": {
-            "price": 2.42,
-            "book": "1xBet"
+            "price": 3.0,
+            "book": "Matchbook"
           }
         }
       }
@@ -13393,34 +13393,34 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-20T18:43:40.272846+00:00",
+        "captured_at": "2026-06-20T20:39:06.000620+00:00",
         "consensus": {
-          "home": 1.12,
-          "draw": 9.1,
-          "away": 22.99,
-          "over_2_5": 1.54,
-          "under_2_5": 2.45
+          "home": 1.16,
+          "draw": 8.0,
+          "away": 17.0,
+          "over_2_5": 1.56,
+          "under_2_5": 2.35
         },
         "best_book": {
           "home": {
-            "price": 1.17,
+            "price": 1.2,
             "book": "1xBet"
           },
           "draw": {
-            "price": 10.5,
-            "book": "PMU (FR)"
+            "price": 9.5,
+            "book": "Sky Bet"
           },
           "away": {
-            "price": 31.0,
-            "book": "Nordic Bet"
+            "price": 21.0,
+            "book": "Betsson"
           },
           "over_2_5": {
-            "price": 1.58,
-            "book": "GTbets"
+            "price": 1.62,
+            "book": "1xBet"
           },
           "under_2_5": {
-            "price": 2.62,
-            "book": "Nordic Bet"
+            "price": 2.42,
+            "book": "Betsson"
           }
         }
       }
@@ -15376,10 +15376,10 @@
       "home": "Netherlands",
       "away": "Sweden",
       "score": {
-        "home": 4,
+        "home": 5,
         "away": 1
       },
-      "status": "LIVE",
+      "status": "FINISHED",
       "odds": {
         "home": 1.71,
         "draw": 4.0,
