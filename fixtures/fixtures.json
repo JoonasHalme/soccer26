@@ -6620,7 +6620,7 @@
         "home": 0,
         "away": 1
       },
-      "status": "LIVE",
+      "status": "FINISHED",
       "odds": {
         "home": 6.0,
         "draw": 3.65,
@@ -7148,10 +7148,10 @@
       "home": "Brazil",
       "away": "Haiti",
       "score": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 0
       },
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "odds": {
         "home": 1.1,
         "draw": 11.0,
@@ -9788,10 +9788,10 @@
       "home": "Turkey",
       "away": "Paraguay",
       "score": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       },
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "odds": {
         "home": 2.05,
         "draw": 3.4,

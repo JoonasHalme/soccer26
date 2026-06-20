@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T23:12:41.570387+00:00",
+  "generated_at": "2026-06-20T04:38:25.822213+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian",
@@ -7,90 +7,41 @@
   ],
   "items": [
     {
-      "id": "27db6a2613ad",
-      "title": "U.S. sees off Australia, advances to WC knockouts",
-      "url": "https://www.espn.com/soccer/story/_/id/49119325/usa-australia-2026-world-cup-knockout-stage",
+      "id": "2ebe2036b6ca",
+      "title": "Matheus Cunha's first-half brace gives Brazil win ...",
+      "url": "https://www.espn.com/soccer/story/_/id/49113556/fifa-world-cup-daily-brazil-usmnt-action-day-9",
       "source": "ESPN",
-      "published_at": "2026-06-19T23:53:29+00:00",
-      "summary": "The U.S. shook off the absence of Christian Pulisic to beat Australia 2-0 in Seattle on Friday and clinch a spot in the World Cup knockout rounds.",
+      "published_at": "2026-06-20T05:02:06+00:00",
+      "summary": "null",
       "teams": [
-        "Australia"
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "75bea949221a",
+      "title": "Turkey v Paraguay: World Cup 2026 – live",
+      "url": "https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-turkey-v-paraguay-updates-tur-vs-par-group-d-match-score-latest",
+      "source": "The Guardian",
+      "published_at": "2026-06-20T04:26:56+00:00",
+      "summary": "⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT ⚽️ Player guide | Bracketology | Golden Boot | Mail Sam A surprise start for attacker Isidro Pitta , who was so certain he wouldn’t be called up to Paraguay’s squad for the World Cup that he had already booked a holiday to Spa",
+      "teams": [
+        "Paraguay",
+        "Turkey",
+        "Spain"
       ],
       "is_injury_related": true
     },
     {
-      "id": "d2dc689af9ec",
-      "title": "Iran to file complaint over WC travel restrictions...",
-      "url": "https://www.espn.com/soccer/story/_/id/49120177/iran-fifa-complaint-world-cup-travel-usa",
+      "id": "e27eb586a0c5",
+      "title": "Haiti first team eliminated at WC as Brazil get wi...",
+      "url": "https://www.espn.com/soccer/story/_/id/49122180/haiti-first-team-eliminated-world-cup-brazil-get-win",
       "source": "ESPN",
-      "published_at": "2026-06-19T23:53:29+00:00",
-      "summary": "Iran's soccer federation said it will lodge a complaint with FIFA after its request to travel to Los Angeles two days before Sunday's World Cup match against Belgium was denied.",
+      "published_at": "2026-06-20T04:23:40+00:00",
+      "summary": "Vinícius Júnior scored and assisted on one of Matheus Cunha's two goals as five-time champion Brazil eliminated Haiti from the World Cup with a 3-0 victory on Friday night.",
       "teams": [
-        "Belgium",
-        "Iran"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "4c024965aecb",
-      "title": "PSG, Morocco's Hakimi to stand trial in rape case",
-      "url": "https://www.espn.com/soccer/story/_/id/49115711/achraf-hakimi-stand-trial-rape-case-french-court-confirms",
-      "source": "ESPN",
-      "published_at": "2026-06-19T23:53:29+00:00",
-      "summary": "A French appeals court confirmed Friday that Paris Saint-Germain and Morocco star player Achraf Hakimi will stand trial in a rape case.",
-      "teams": [
-        "Morocco",
-        "France"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "4d22e0eb1d97",
-      "title": "Potter: Sweden a 'threat' with Gyökeres, Isak duo",
-      "url": "https://www.espn.com/soccer/story/_/id/49119782/sweden-coach-potter-warns-foes-gyokeres-isak-threat",
-      "source": "ESPN",
-      "published_at": "2026-06-19T23:53:29+00:00",
-      "summary": "Graham Potter has warned Sweden's World Cup opponents that strike-duo Alexander Isak and Viktor Gyökeres will get better as the tournament progresses.",
-      "teams": [
-        "Sweden"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e88e7c1998d2",
-      "title": "Portugal's Dias: Ronaldo criticism 'nothing new'",
-      "url": "https://www.espn.com/soccer/story/_/id/49117341/cristiano-ronaldo-portugal-ruben-dias-world-cup-2026",
-      "source": "ESPN",
-      "published_at": "2026-06-19T23:53:29+00:00",
-      "summary": "Portugal defender Rúben Dias on Friday branded criticism of teammate Cristiano Ronaldo \"insignificant\" and claimed it has not affected the team's focus.",
-      "teams": [
-        "Portugal"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "0034b24a509e",
-      "title": "Korea GK gaffe helps Mexico clinch 1st in Group A",
-      "url": "https://www.espn.com/soccer/story/_/id/49113839/mexico-beats-south-korea-clinch-first-place-group-a",
-      "source": "ESPN",
-      "published_at": "2026-06-19T23:53:29+00:00",
-      "summary": "Mexico took advantage of a defensive blunder by South Korea to win 1-0 on Thursday and become the first team to advance to the knockout stage of the FIFA World Cup.",
-      "teams": [
-        "Mexico",
-        "South Korea"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "aadc0baa3566",
-      "title": "Canada's Koné stretchered off after hard tackle",
-      "url": "https://www.espn.com/soccer/story/_/id/49112391/canada-ismael-kone-stretchered-hard-tackle",
-      "source": "ESPN",
-      "published_at": "2026-06-19T23:53:29+00:00",
-      "summary": "Canada midfielder Ismaël Koné was stretchered off the field in the second half of the host nation's match against Qatar on Thursday at BC Place in Vancouver.",
-      "teams": [
-        "Canada",
-        "Qatar"
+        "Brazil",
+        "Haiti"
       ],
       "is_injury_related": false
     },
@@ -99,8 +50,8 @@
       "title": "Pulisic sits but U.S. finds a way vs. Australia to...",
       "url": "https://www.espn.com/soccer/story/_/id/49119070/christian-pulisic-sits-us-finds-way-vs-australia-reach-world-cup-knockout-rounds",
       "source": "ESPN",
-      "published_at": "2026-06-19T23:26:46+00:00",
-      "summary": "The USMNT was without Christian Pulisic on Friday, but it didn't matter: it found a way to beat Australia for its second win of this World Cup.",
+      "published_at": "2026-06-20T04:04:45+00:00",
+      "summary": "The USMNT was without Christian Pulisic on Friday, but it didn't matter: It found a way to beat Australia for its second win of this World Cup.",
       "teams": [
         "USA",
         "Australia"
@@ -108,38 +59,305 @@
       "is_injury_related": false
     },
     {
-      "id": "e560b93e2c2f",
-      "title": "Scotland v Morocco: World Cup 2026 – live",
-      "url": "https://www.theguardian.com/football/live/2026/jun/19/scotland-v-morocco-world-cup-2026-live",
-      "source": "The Guardian",
-      "published_at": "2026-06-19T22:55:38+00:00",
-      "summary": "⚽️ World Cup kick-off: 6pm local time/11pm BST/8am AEST ⚽️ In pictures: our pick of the best images from the match ⚽️ Player guide | Bracketology | Golden Boot | Email John Scotland: Gunn, Hanley, Hendry, Tierney, Patterson, McTominay, Ferguson, Robertson, McGinn, Christie, Adams",
+      "id": "338c7820d53b",
+      "title": "Morocco 'behind' captain Hakimi amid rape case",
+      "url": "https://www.espn.com/soccer/story/_/id/49121788/morocco-achraf-hakimi-rape-case-world-cup-2026",
+      "source": "ESPN",
+      "published_at": "2026-06-20T04:04:35+00:00",
+      "summary": "Morocco coach Mohamed Ouahbi said the team are \"behind\" captain Achraf Hakimi and says the player is \"very relaxed\" after a French appeals court confirmed Friday Hakimi will stand trial in a rape case.",
       "teams": [
-        "Canada",
+        "Morocco",
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "e59597390f7c",
+      "title": "Garber: Vancouver needs new stadium to keep team",
+      "url": "https://www.espn.com/soccer/story/_/id/49120762/mls-commissioner-don-garber-new-stadium-deal-crucial-keep-whitecaps-vancouver",
+      "source": "ESPN",
+      "published_at": "2026-06-20T04:04:35+00:00",
+      "summary": "MLS Commissioner Don Garber stated on Friday in Seattle, before attending the USMNT World Cup win against Australia, that the Whitecaps must secure a new stadium deal to remain in Vancouver.",
+      "teams": [
+        "USA",
+        "Australia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6d52229b9ecd",
+      "title": "Freeman goal for U.S. 'full circle family moment'",
+      "url": "https://www.espn.com/soccer/story/_/id/49120341/alex-freeman-goal-seattle-full-circle-family-moment",
+      "source": "ESPN",
+      "published_at": "2026-06-20T04:04:34+00:00",
+      "summary": "U.S. defender Alex Freeman celebrated a \"full-circle family moment\" on Friday, scoring a goal in the Americans' 2-0 win over Australia on the same field -- kind of -- where his father, Antonio Freeman Jr., once had a banner day for the Green Bay Packers.",
+      "teams": [
+        "Australia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "002a85282b31",
+      "title": "U.S. winning the WC not 'ridiculous,' Richards say...",
+      "url": "https://www.espn.com/soccer/story/_/id/49121031/usa-winning-2026-world-cup-chris-richards-zlatan-ibrahimovic",
+      "source": "ESPN",
+      "published_at": "2026-06-20T04:04:34+00:00",
+      "summary": "Zlatan Ibrahimovic was succinct in saying he thinks that the USMNT has a chance to win the World Cup. Chris Richards doesn't think it's a wild idea at all, either.",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d2dc689af9ec",
+      "title": "Iran to file complaint over WC travel restrictions...",
+      "url": "https://www.espn.com/soccer/story/_/id/49120177/iran-fifa-complaint-world-cup-travel-usa",
+      "source": "ESPN",
+      "published_at": "2026-06-20T04:04:34+00:00",
+      "summary": "Iran's soccer federation said it will lodge a complaint with FIFA after its request to travel to Los Angeles two days before Sunday's World Cup match against Belgium was denied.",
+      "teams": [
+        "Belgium",
+        "Iran"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "82ebaa295079",
+      "title": "‘That penalty changed my life’: Panenka’s pride 50 years on from special spot-kick",
+      "url": "https://www.theguardian.com/football/2026/jun/20/antonin-panenka-penalty-50-years-on-czechoslovakia-west-germany-1976",
+      "source": "The Guardian",
+      "published_at": "2026-06-20T04:00:53+00:00",
+      "summary": "Czech’s audacious defiance of Sepp Maier in Belgrade has slipped into football folklore: ‘The only disadvantage is that I don’t get any royalties from it’ Antonin Panenka laughs like a bear might, a low rumble, suggesting mischief among the memories. He is sat in an office at Boh",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "cc0a0cff79b3",
+      "title": "Cunha scores twice as Brazil beat Haiti",
+      "url": "https://www.bbc.com/sport/football/videos/cy04ly9rk22o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-20T03:06:22+00:00",
+      "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup.",
+      "teams": [
+        "Brazil",
+        "Haiti"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "487fff312357",
+      "title": "Brazil sweep into form as Cunha’s quickfire double sparks World Cup win over Haiti",
+      "url": "https://www.theguardian.com/football/2026/jun/20/brazil-haiti-world-cup-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-06-20T03:05:05+00:00",
+      "summary": "Matheus Cunha scored twice as Brazil moved top of World Cup Group C with a 3-0 win over Haiti. Vinícius Júnior netted the third, with all of the goals coming in a first half during which Brazil looked markedly improved from their insipid opening draw against Morocco . The result ",
+      "teams": [
+        "Brazil",
+        "Morocco",
+        "Haiti",
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "9997a189aa8e",
+      "title": "Socceroos aggrieved by referee’s ‘stinker’ in World Cup defeat to USA",
+      "url": "https://www.theguardian.com/football/2026/jun/20/socceroos-usa-world-cup-group-d-reaction-australia-still-belive",
+      "source": "The Guardian",
+      "published_at": "2026-06-20T02:32:28+00:00",
+      "summary": "German official Felix Zwayer faces criticism for perceived injustices Tony Popovic encouraged by much improved second-half performance Referee Felix Zwayer has come in for criticism from the Socceroos, who labelled the German’s performance a “stinker” after what they believed was",
+      "teams": [
+        "USA",
+        "Australia",
+        "Germany"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "ac5c994b3fa1",
+      "title": "Uzbeks to beat DR Congo? The reality of Scotland's qualification mental gymnastics",
+      "url": "https://www.bbc.com/sport/football/articles/cdejzn507ryo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-20T02:19:30+00:00",
+      "summary": "Uzbeks to beat DR Congo? Argentina to run riot? Favours from England? BBC Scotland weighs up the permutations needed for Scotland to progress.",
+      "teams": [
+        "Scotland",
+        "Argentina",
+        "DR Congo",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "281f84a670b1",
+      "title": "Scotland's World Cup dreams on the ropes as Morocc...",
+      "url": "https://www.espn.com/soccer/story/_/id/49121005/scotland-world-cup-dreams-ropes-morocco-prove-real-deal",
+      "source": "ESPN",
+      "published_at": "2026-06-20T01:51:49+00:00",
+      "summary": "Scotland's dreams of reaching the World Cup knockouts are in jeopardy as Morocco prove they deserve a little more respect as a contender.",
+      "teams": [
+        "Morocco",
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "55ea31a952d4",
+      "title": "Why Keito Nakamura could be Japan's ace in the pac...",
+      "url": "https://www.espn.com/soccer/story/_/id/49119506/why-keito-nakamura-japans-ace-pack-more-ways-one",
+      "source": "ESPN",
+      "published_at": "2026-06-20T01:51:49+00:00",
+      "summary": "Keito Nakamura was not guaranteed to start for Japan. But he is now emerging as a pivotal figure.",
+      "teams": [
+        "Japan"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "5ad7b178e4e4",
+      "title": "Flawed but relentless Scotland show themselves as men of substance",
+      "url": "https://www.bbc.com/sport/football/articles/c33y5v4mer3o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-20T01:41:52+00:00",
+      "summary": "Morocco threatened to blow Scotland away early on, but Steve Clarke's squad showed their resilience, writes Tom English.",
+      "teams": [
+        "Morocco",
+        "Scotland",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "1b3ca0c097be",
+      "title": "'Big decisions went against Scotland'",
+      "url": "https://www.bbc.com/sport/football/videos/c1myz9xye7xo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-20T01:23:25+00:00",
+      "summary": "BBC Sport Scotland's Liam McLeod and James McFadden analyse the three key decisions that went against Scotland during their World Cup Group C 1-0 defeat against Morocco.",
+      "teams": [
         "Morocco",
         "Scotland"
       ],
       "is_injury_related": false
     },
     {
-      "id": "22b4516ef4b5",
-      "title": "Brazil v Haiti: World Cup 2026 – live",
-      "url": "https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-brazil-v-haiti-updates-bra-vs-hai-group-c-match-score-latest",
-      "source": "The Guardian",
-      "published_at": "2026-06-19T22:53:15+00:00",
-      "summary": "⚽️ Kick-off time: 8.30pm local/10.30am AEST/1.30am BST ⚽️ Player guide | Bracketology | Golden Boot | Mail Jonathan If you prefer your World Cup roundups in written form, Dominic Booth has you covered. An old footballing adage tells us that no World Cup is quite complete without ",
+      "id": "a2f50c6c8eda",
+      "title": "Morocco 'got away with one' - McGinn",
+      "url": "https://www.bbc.com/sport/football/videos/c5yzl0jxkd3o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-20T01:19:36+00:00",
+      "summary": "Scotland's John McGinn feels Morocco \"got away with one\" after he was not awarded a penalty in the second half of their World Cup Group C match in Boston.",
       "teams": [
-        "South Africa",
-        "South Korea",
-        "Qatar",
-        "Brazil",
-        "Haiti",
-        "Germany",
-        "Uruguay",
-        "Argentina",
-        "England"
+        "Morocco",
+        "Scotland"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "af0b59055293",
+      "title": "Should Scotland have had two penalties & been playing against 10 men?",
+      "url": "https://www.bbc.com/sport/football/articles/c3vydkrd5dvo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-20T00:55:51+00:00",
+      "summary": "Were Scotland hard done by in Boston in losing 1-0 to Morocco in their second game of the World Cup finals?",
+      "teams": [
+        "Morocco",
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "3ff56836bc3f",
+      "title": "On another day that's a penalty - Clarke on McGinn claim",
+      "url": "https://www.bbc.com/sport/football/videos/cly9207v8d9o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-20T00:53:46+00:00",
+      "summary": "Scotland boss Steve Clarke believes the challenge on John McGinn by Neil El Aynaoui was the Tartan Army's strongest penalty claim against Morocco.",
+      "teams": [
+        "Morocco",
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6b2ecdcea5d7",
+      "title": "Scotland fall to narrow defeat against Morocco",
+      "url": "https://www.bbc.com/sport/videos/cn59zxl376ro",
+      "source": "BBC Sport",
+      "published_at": "2026-06-20T00:47:02+00:00",
+      "summary": "Scotland concede after 71 seconds and fall to a World Cup defeat against a classy Morocco, but their hopes of a historic knock-out place remain in their own hands with one group game to go.",
+      "teams": [
+        "Morocco",
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "4e86db2d7cc6",
+      "title": "Saibari strikes after 70 seconds as Morocco puncture Scotland’s World Cup party",
+      "url": "https://www.theguardian.com/football/2026/jun/20/scotland-morocco-world-cup-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-06-20T00:07:10+00:00",
+      "summary": "Scotland would have taken this outcome after 70 seconds. Ismael Saibiri had fired this highly-rated Moroccan team ahead. Men in kilts gulped under the blazing Massachusetts sun. Scotland may even privately have taken this outcome before a ball was kicked. Avoidance of a comprehen",
+      "teams": [
+        "Brazil",
+        "Morocco",
+        "Haiti",
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "df3bd2eb870b",
+      "title": "'Nightmare start for Scotland' - Morocco score after 71 seconds",
+      "url": "https://www.bbc.com/sport/football/videos/cd7wg71r38no",
+      "source": "BBC Sport",
+      "published_at": "2026-06-19T23:59:48+00:00",
+      "summary": "Morocco's Ismael Saibari stuns Scotland with a superb finish after just 71 seconds in their World Cup Group C game in Boston.",
+      "teams": [
+        "Morocco",
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "74ebf3b17522",
+      "title": "Did key decisions go against Scotland in Morocco match?",
+      "url": "https://www.bbc.com/sport/football/videos/c2lye1qkz91o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-19T23:59:45+00:00",
+      "summary": "Should Scotland feel aggrieved after three key decisions in their World Cup Group C match against Morocco in Boston?",
+      "teams": [
+        "Morocco",
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "47d19086b4b6",
+      "title": "How presenter's Messi error caused outrage in Argentina",
+      "url": "https://www.bbc.com/sport/football/articles/cwy03yzw2y3o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-19T23:45:09+00:00",
+      "summary": "An Argentine TV presenter steps down after wrongly saying on air that Lionel Messi's father had died.",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "a694d6e491e9",
+      "title": "The Super Bowl winner's son stepping into spotlight with USA",
+      "url": "https://www.bbc.com/sport/football/articles/ckg4qvedjkwo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-19T23:31:23+00:00",
+      "summary": "Alex Freeman is stepping out of the shadows of his Super Bowl-winning father to forge his own path in football.",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "b9e194796aa4",
@@ -151,19 +369,6 @@
       "teams": [
         "France",
         "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "49860e84ce4c",
-      "title": "Rate the players in Scotland v Morocco",
-      "url": "https://www.bbc.com/sport/football/articles/ce95gpgv09go",
-      "source": "BBC Sport",
-      "published_at": "2026-06-19T22:44:31+00:00",
-      "summary": "Rate the Scotland and Morocco players out of 10 below and come back 30 minutes after full-time to see the final ratings.",
-      "teams": [
-        "Morocco",
-        "Scotland"
       ],
       "is_injury_related": true
     },
@@ -207,19 +412,6 @@
       "is_injury_related": false
     },
     {
-      "id": "fbf3a5feafc4",
-      "title": "USA surge into World Cup knockout stage after dominant victory over Socceroos",
-      "url": "https://www.theguardian.com/football/2026/jun/19/usa-australia-world-cup-2026-group-d-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-06-19T21:25:50+00:00",
-      "summary": "Whatever the result, soccer was always going to win. But on a hot and bright Friday afternoon in the pacific northwest, the word had an American accent. The United States’ 2-0 World Cup win over Australia was a rare meeting between sides that could agree not just on terminology, ",
-      "teams": [
-        "USA",
-        "Australia"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "66fcaceb521a",
       "title": "England winger Saka unlikely to start against Ghana",
       "url": "https://www.bbc.com/sport/football/articles/crm0kg22m9jo",
@@ -229,20 +421,6 @@
       "teams": [
         "England",
         "Ghana"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "2ebe2036b6ca",
-      "title": "World Cup Daily: Meet Scotland superfan Donny the ...",
-      "url": "https://www.espn.com/soccer/story/_/id/49113556/fifa-world-cup-daily-brazil-usmnt-action-day-9",
-      "source": "ESPN",
-      "published_at": "2026-06-19T20:06:54+00:00",
-      "summary": "Day 9 is upon us, with the United States and Brazil among the teams playing as 2026 FIFA World Cup action continues.",
-      "teams": [
-        "Brazil",
-        "Scotland",
-        "USA"
       ],
       "is_injury_related": false
     },
@@ -283,20 +461,6 @@
       "is_injury_related": false
     },
     {
-      "id": "602f771f0b37",
-      "title": "Elliot Anderson is England’s spirit animal – and is now indispensable",
-      "url": "https://www.theguardian.com/football/2026/jun/19/elliot-anderson-is-englands-spirit-animal-and-is-now-indispensable",
-      "source": "The Guardian",
-      "published_at": "2026-06-19T18:00:38+00:00",
-      "summary": "With Declan Rice nursing a knock, his midfield partner is the reliable rock to which team’s fate is inescapably yoked Elliot Anderson is running. It’s the 88th minute against Croatia, and the game is won, and the game is done, and this is the 60th game of his season and there are",
-      "teams": [
-        "Jordan",
-        "England",
-        "Croatia"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "4efd0eb298e5",
       "title": "Canada's Kone grateful for support after surgery",
       "url": "https://www.bbc.com/sport/football/articles/cql12n692rwo",
@@ -305,18 +469,6 @@
       "summary": "Canada midfielder Ismael Kone thanks his team-mates and fans for their support after having surgery on a broken leg.",
       "teams": [
         "Canada"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e28013aca095",
-      "title": "Argentinian TV host resigns after falsely reporting death of Lionel Messi’s father",
-      "url": "https://www.theguardian.com/football/2026/jun/19/argentina-tv-host-resigns-falsely-reporting-death-jorge-messi",
-      "source": "The Guardian",
-      "published_at": "2026-06-19T17:47:11+00:00",
-      "summary": "Florencia Peña quits after the broadcast on Luzu TV Luzu says ‘those responsible’ relieved of their duties Members of a news crew in Argentina have lost their jobs after falsely reporting the death of Lionel Messi’s father. Florencia Peña announced on Luzu ⁠TV that Jorge Messi ha",
-      "teams": [
-        "Argentina"
       ],
       "is_injury_related": false
     },
@@ -334,20 +486,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "ea487625624b",
-      "title": "Jesse Marsch: windmilling human meme or shrewd protector of suddenly dangerous Canada?",
-      "url": "https://www.theguardian.com/football/2026/jun/19/canada-qatar-world-cup-jesse-marsch",
-      "source": "The Guardian",
-      "published_at": "2026-06-19T15:30:35+00:00",
-      "summary": "Some on the internet are tiring of the American’s antics with Les Rouges. But there’s an argument that he is taking the heat off his players Some corners of the internet were determined that Canada’s totemic and traumatic 6-0 World Cup victory on Thursday would be remembered most",
-      "teams": [
-        "Canada",
-        "Qatar",
-        "Jordan"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "ea4f6ece26c4",
@@ -397,19 +535,6 @@
       "is_injury_related": false
     },
     {
-      "id": "11f789304d59",
-      "title": "The maths whizz turned teen star who chose Morocco over France",
-      "url": "https://www.bbc.com/sport/football/articles/cwylg0kp5lwo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-19T13:22:43+00:00",
-      "summary": "Get to know Ayyoub Bouaddi - Morocco's new star.",
-      "teams": [
-        "Morocco",
-        "France"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "4059ab27182c",
       "title": "Who's the Bos? - meet 2026 World Cup's fastest player",
       "url": "https://www.bbc.com/sport/football/articles/cyv0m91942do",
@@ -421,19 +546,6 @@
         "Jordan"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "6b2f870d4d8e",
-      "title": "‘I paid $800 for my ticket but it was worth it’: England fans enjoying early World Cup vibe",
-      "url": "https://www.theguardian.com/football/2026/jun/19/i-paid-800-for-my-ticket-but-it-was-worth-it-england-fans-enjoying-early-world-cup-vibe",
-      "source": "The Guardian",
-      "published_at": "2026-06-19T12:42:06+00:00",
-      "summary": "Some supporters are breaking the bank to follow Thomas Tuchel’s team and early indications are that it’s worth it They came, they saw and they went to the rodeo. For those England fans who made it to Dallas, watching Thomas Tuchel’s side see off Croatia in their opening match of ",
-      "teams": [
-        "England",
-        "Croatia"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "ad87acc78e1f",
@@ -469,18 +581,6 @@
       "teams": [
         "England",
         "Ghana"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "9bc2cc933c66",
-      "title": "Transfer rumors, news: Real Madrid eye huge deal f...",
-      "url": "https://www.espn.com/soccer/story/_/id/49115006/transfer-rumors-newsreal-madrid-eye-huge-deal-michael-olise-bayern-munich-france",
-      "source": "ESPN",
-      "published_at": "2026-06-19T12:09:22+00:00",
-      "summary": "France and Bayern Munich winger Michael Olise is the next big star in Real Madrid's sights. Transfer Talk has the latest.",
-      "teams": [
-        "France"
       ],
       "is_injury_related": false
     },
@@ -561,19 +661,6 @@
       "is_injury_related": false
     },
     {
-      "id": "770a92297ed6",
-      "title": "Wonderwall sing-along one of my favourite England moments - Kane",
-      "url": "https://www.bbc.com/sport/football/articles/ckg74e6dz5lo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-19T09:55:06+00:00",
-      "summary": "Harry Kane says singing 'Wonderwall' with fans after England's win over Croatia on Wednesday was one of his \"favourite ever moments\" in a Three Lions shirt.",
-      "teams": [
-        "England",
-        "Croatia"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "415cd84b1c73",
       "title": "Co-hosts' historic win over Qatar could be a water...",
       "url": "https://www.espn.com/soccer/story/_/id/49113824/canada-historic-world-cup-win-qatar-turning-point-sport",
@@ -583,31 +670,6 @@
       "teams": [
         "Canada",
         "Qatar"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "fa964aa55376",
-      "title": "Can Renard revive Tunisia's World Cup campaign?",
-      "url": "https://www.bbc.com/sport/football/articles/cvgjpk00l7xo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-19T09:47:42+00:00",
-      "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match.",
-      "teams": [
-        "Tunisia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "87d4ce2fbc85",
-      "title": "Football Daily",
-      "url": "https://www.bbc.co.uk/sounds/play/p0ns7wjx",
-      "source": "BBC Sport",
-      "published_at": "2026-06-19T07:53:00+00:00",
-      "summary": "Charlie Adam joins Rick & Lloyd to preview Scotland's huge World Cup clash with Morocco.",
-      "teams": [
-        "Morocco",
-        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -638,30 +700,6 @@
       "is_injury_related": true
     },
     {
-      "id": "803dadbcc375",
-      "title": "Declan Rice is running out of steam, leaving Tuchel a midfield conundrum",
-      "url": "https://www.theguardian.com/football/2026/jun/19/world-cup-england-rice-out-of-steam-tuchel-midfield-dilemma",
-      "source": "The Guardian",
-      "published_at": "2026-06-19T07:00:27+00:00",
-      "summary": "England mainstay is flagging after six years of nonstop action, but finding a solution to his absence is no easy task A freak of nature is Aaron Cresswell’s description of Declan Rice. The former West Ham left-back marvels at Rice’s ability to keep going. “He can play six or seve",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "7e327055ea0c",
-      "title": "Players are human beings and social media comments reach us. But the focus has to be on the pitch | Rodrygo",
-      "url": "https://www.theguardian.com/football/2026/jun/19/players-are-human-beings-and-social-media-comments-reach-us-but-the-focus-has-to-be-on-the-pitch",
-      "source": "The Guardian",
-      "published_at": "2026-06-19T07:00:26+00:00",
-      "summary": "The pressure of wearing the Brazil shirt can be heavy but also creates a positive kind of responsibility Playing in a World Cup is a huge experience; when you’re with the national team, your entire focus is on the squad’s schedule – the hotel, the training centre, the stadium – b",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "d16d6db154ac",
       "title": "Hat-trick hero & Swiss wonderkid - World Cup duo set for Premier League?",
       "url": "https://www.bbc.com/sport/articles/cp8rde9q76do",
@@ -685,18 +723,6 @@
         "Canada"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "cc2101d0a25b",
-      "title": "Tuchel throws first pitch as England enjoy downtime",
-      "url": "https://www.bbc.com/sport/football/articles/cgrk5qrkw5po",
-      "source": "BBC Sport",
-      "published_at": "2026-06-19T02:46:28+00:00",
-      "summary": "Thomas Tuchel takes some time out at a baseball game as England enjoy some downtime at the World Cup - while Ivan Toney scores a hat-trick in a friendly against MLS side Sporting KC.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "d575dde45116",
@@ -759,6 +785,18 @@
       "teams": [
         "Bosnia & Herzegovina",
         "Switzerland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "0aa0c9a98270",
+      "title": "Liverpool sign Munoz and offer £86m for Diomande",
+      "url": "https://www.bbc.com/sport/football/articles/cdjkl44yrg3o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-18T21:31:47+00:00",
+      "summary": "Liverpool sign Spain winger Victor Munoz - and tell RB Leipzig that they will pay a package worth about 100m euros (£86m) for Yan Diomande.",
+      "teams": [
+        "Spain"
       ],
       "is_injury_related": false
     },
@@ -924,29 +962,18 @@
       "is_injury_related": false
     },
     {
-      "id": "92d367e34b1d",
-      "title": "Diaz scores as Colombia beat debutants Uzbekistan",
-      "url": "https://www.bbc.com/sport/football/videos/c36y177k8d1o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-18T05:01:34+00:00",
-      "summary": "Colombia make a winning return to the World Cup, defeating debutants Uzbekistan.",
+      "id": "320dc81b265c",
+      "title": "Golden Boot: World Cup 2026 top goalscorers",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner",
+      "source": "The Guardian",
+      "published_at": "2026-06-18T08:17:30+00:00",
+      "summary": "Who is winning the battle to be top scorer at the World Cup? Live and updated throughout the tournament All-time World Cup goalscorers The Golden Boot is awarded to the World Cup’s top goalscorer, with assists used as a tie-breaker if two or more players finish level. The 2026 to",
       "teams": [
-        "Uzbekistan",
-        "Colombia"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "cebb4a41faf1",
-      "title": "Messi, Mbappe & Vinicius Jr - best World Cup goals from round one",
-      "url": "https://www.bbc.com/sport/football/videos/c0qynqxdy35o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-18T05:01:15+00:00",
-      "summary": "Watch the best goals from the first round of games at the World Cup, including memorable strikes from Argentina's Lionel Messi, France's Kylian Mbappe and Brazil's Vinicius Jr.",
-      "teams": [
-        "Brazil",
         "France",
-        "Argentina"
+        "Norway",
+        "Argentina",
+        "Colombia",
+        "England"
       ],
       "is_injury_related": false
     },
@@ -959,33 +986,6 @@
       "summary": "All 48 teams at the World Cup have now played once. BBC Sport's experts have ranked them all, from best to worst. Who is top? Not defending champions Argentina.",
       "teams": [
         "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "17f8e0cf6fce",
-      "title": "Fayzullaev scores Uzbekistan's first-ever World Cup goal",
-      "url": "https://www.bbc.com/sport/football/videos/c1eygellgelo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-18T03:53:54+00:00",
-      "summary": "Abbosbek Fayzullaev scores Uzbekistan's first-ever goal at a World Cup final, tapping in an equaliser against Colombia.",
-      "teams": [
-        "Uzbekistan",
-        "Colombia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "961f96945f01",
-      "title": "Ghana score late winner to break Panama hearts",
-      "url": "https://www.bbc.com/sport/football/videos/cvgm3qql8lqo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-18T03:29:02+00:00",
-      "summary": "Ghana's Caleb Yirenkyi scored a 95th-minute winner to deny Panama their first-ever World Cup point in Toronto, Canada.",
-      "teams": [
-        "Canada",
-        "Ghana",
-        "Panama"
       ],
       "is_injury_related": false
     },
@@ -1027,17 +1027,17 @@
       "is_injury_related": false
     },
     {
-      "id": "529c923bfe2e",
-      "title": "Substitute Rashford guides home England's fourth against Croatia",
-      "url": "https://www.bbc.com/sport/football/videos/c3wyxj6lnvxo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-17T22:19:01+00:00",
-      "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup.",
+      "id": "c1a69dd45823",
+      "title": "Yoane Wissa gives DR Congo first ever World Cup point in draw with Portugal",
+      "url": "https://www.theguardian.com/football/2026/jun/17/portugal-dr-congo-world-cup-2026-group-k-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-06-17T19:28:06+00:00",
+      "summary": "The clock was about to hit 83 minutes when Roberto Martínez rolled the dice one last time. His team certainly needed extra movement up front so it hardly confounded logic that Gonçalo Ramos was stripped and ready. What made less sense was that Vitinha departed while Cristiano Ron",
       "teams": [
-        "England",
-        "Croatia"
+        "Portugal",
+        "DR Congo"
       ],
-      "is_injury_related": false
+      "is_injury_related": true
     }
   ]
 }
