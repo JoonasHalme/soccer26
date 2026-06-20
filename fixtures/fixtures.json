@@ -12344,10 +12344,10 @@
       "home": "Germany",
       "away": "Ivory Coast",
       "score": {
-        "home": 0,
+        "home": 2,
         "away": 1
       },
-      "status": "LIVE",
+      "status": "FINISHED",
       "odds": {
         "home": 1.48,
         "draw": 4.4,
@@ -13393,34 +13393,34 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-20T20:39:06.000620+00:00",
+        "captured_at": "2026-06-20T22:20:22.489523+00:00",
         "consensus": {
-          "home": 1.16,
+          "home": 1.15,
           "draw": 8.0,
-          "away": 17.0,
-          "over_2_5": 1.56,
-          "under_2_5": 2.35
+          "away": 18.0,
+          "over_2_5": 1.54,
+          "under_2_5": 2.43
         },
         "best_book": {
           "home": {
-            "price": 1.2,
+            "price": 1.19,
             "book": "1xBet"
           },
           "draw": {
-            "price": 9.5,
-            "book": "Sky Bet"
+            "price": 9.6,
+            "book": "Betfair"
           },
           "away": {
             "price": 21.0,
             "book": "Betsson"
           },
           "over_2_5": {
-            "price": 1.62,
-            "book": "1xBet"
+            "price": 1.58,
+            "book": "GTbets"
           },
           "under_2_5": {
-            "price": 2.42,
-            "book": "Betsson"
+            "price": 2.45,
+            "book": "BetAnything"
           }
         }
       }
@@ -16412,7 +16412,39 @@
           },
           "totals": {}
         }
-      ]
+      ],
+      "closing_odds": {
+        "captured_at": "2026-06-20T22:20:22.489523+00:00",
+        "consensus": {
+          "home": 7.5,
+          "draw": 4.3,
+          "away": 1.48,
+          "over_2_5": 2.02,
+          "under_2_5": 1.78
+        },
+        "best_book": {
+          "home": {
+            "price": 8.2,
+            "book": "Betfair"
+          },
+          "draw": {
+            "price": 4.6,
+            "book": "Betfair"
+          },
+          "away": {
+            "price": 1.53,
+            "book": "GTbets"
+          },
+          "over_2_5": {
+            "price": 2.09,
+            "book": "BetOnline.ag"
+          },
+          "under_2_5": {
+            "price": 1.82,
+            "book": "Unibet (SE)"
+          }
+        }
+      }
     },
     {
       "id": "m-035",
