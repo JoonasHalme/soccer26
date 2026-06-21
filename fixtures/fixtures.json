@@ -21974,7 +21974,39 @@
           },
           "totals": {}
         }
-      ]
+      ],
+      "closing_odds": {
+        "captured_at": "2026-06-21T10:42:06.046769+00:00",
+        "consensus": {
+          "home": 1.1,
+          "draw": 11.0,
+          "away": 26.0,
+          "over_2_5": 1.35,
+          "under_2_5": 3.22
+        },
+        "best_book": {
+          "home": {
+            "price": 3.42,
+            "book": "Marathon Bet"
+          },
+          "draw": {
+            "price": 13.0,
+            "book": "Betfair"
+          },
+          "away": {
+            "price": 35.0,
+            "book": "1xBet"
+          },
+          "over_2_5": {
+            "price": 1.36,
+            "book": "BetAnything"
+          },
+          "under_2_5": {
+            "price": 3.3,
+            "book": "Betsson"
+          }
+        }
+      }
     },
     {
       "id": "m-046",
