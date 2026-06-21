@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T21:40:07.471902+00:00",
+  "generated_at": "2026-06-21T23:41:48.878047+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -10,11 +10,118 @@
       "title": "Uruguay v Cape Verde: World Cup 2026 – live",
       "url": "https://www.theguardian.com/football/live/2026/jun/21/uruguay-v-cape-verde-world-cup-2026-live",
       "source": "The Guardian",
-      "published_at": "2026-06-21T21:27:43+00:00",
-      "summary": "⚽️ Kick-off: 6pm local time/11pm BST/8am (Mon) AEST ⚽️ Player guide | Bracketology | Golden Boot | Email Beau Uruguay Muslera; Sanabria, Olivera, Caceres, Varela; Bentancur, Ugarte, Araújo, Valverde, Cano; Viñas Continue reading...",
+      "published_at": "2026-06-21T23:31:11+00:00",
+      "summary": "⚽️ Kick-off: 6pm local time/11pm BST/8am (Mon) AEST ⚽️ Player guide | Bracketology | Golden Boot | Email Beau 4 min Cano is down, having received a small shove from Borges that, if his reaction is to be believed, dislocated several vertebrae. 3 min Lopes Cabral is judo-tossed aga",
       "teams": [
         "Cape Verde",
         "Uruguay"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "3595415eab57",
+      "title": "New Zealand v Egypt: World Cup 2026 – live",
+      "url": "https://www.theguardian.com/football/live/2026/jun/22/fifa-world-cup-2026-live-new-zealand-v-egypt-updates-nzl-vs-egy-group-g-match-score-latest",
+      "source": "The Guardian",
+      "published_at": "2026-06-21T23:21:12+00:00",
+      "summary": "⚽️ Kick-off time: 6pm local/11am AEST/2am BST/9pm EDT ⚽️ Player guide | Bracketology | Golden Boot | Mail Jonathan Laine Yamal added some much needed spark to Spain’s attack as the World Cup favourites kickstarted their campaign with a rout of Saudi Arabia. This was exactly the w",
+      "teams": [
+        "Belgium",
+        "Egypt",
+        "Iran",
+        "New Zealand",
+        "Spain",
+        "Saudi Arabia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "b935a894a6af",
+      "title": "'Oh my word!' - Cape Verde take shock lead against Uruguay",
+      "url": "https://www.bbc.com/sport/football/videos/cjwg6le7193o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-21T22:46:33+00:00",
+      "summary": "Cape Verde's Kevin Pina scores the opening goal against Uruguay in their Group H match in the 2026 World Cup.",
+      "teams": [
+        "Cape Verde",
+        "Uruguay"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "cf81f1d7cfbb",
+      "title": "Spurs' Bergvall exploring options away from club",
+      "url": "https://www.bbc.com/sport/football/articles/cz0jyrpzpj3o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-21T22:08:27+00:00",
+      "summary": "Sweden's Lucas Bergvall is facing an uncertain future at Tottenham with the midfielder keen for a new challenge.",
+      "teams": [
+        "Sweden"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "9223ecde54de",
+      "title": "Tuchel not afraid to shout at players - Watkins",
+      "url": "https://www.bbc.com/sport/football/articles/cjegy048847o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-21T22:04:05+00:00",
+      "summary": "Ollie Watkins says Thomas Tuchel is \"not afraid\" to shout at England players as the manager aims to maintain training standards at the World Cup.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b1a2dc0d99b7",
+      "title": "Ten-man Belgium remain winless after draw with Iran",
+      "url": "https://www.bbc.com/sport/football/videos/cy06gxjnx3lo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-21T21:55:21+00:00",
+      "summary": "Goalkeeper Alireza Beiranvand made a string of impressive saves to keep alive Iran's hopes of reaching the World Cup knockout stage for the first time, as they earned a hard-fought point against 10-man Belgium.",
+      "teams": [
+        "Belgium",
+        "Iran"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "cd150d757694",
+      "title": "Kylian Mbappé hungry for Golden Boot battle with Messi as he sings Les Bleus",
+      "url": "https://www.theguardian.com/football/2026/jun/21/kylian-mbappe-hungry-for-golden-boot-battle-with-messi-as-he-sings-les-bleus",
+      "source": "The Guardian",
+      "published_at": "2026-06-21T21:47:01+00:00",
+      "summary": "Mbappé: Nothing bigger than playing for France Striker defends performance of Ousmane Dembélé Kylian Mbappé is relishing a Golden Boot duel with Lionel Messi, the player he calls the “best of the best”, but has said his personal ambitions would be subordinated to those of the tea",
+      "teams": [
+        "France",
+        "Iraq"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f5e6dd5f6cdb",
+      "title": "Does it matter if Scotland lose and still make history?",
+      "url": "https://www.bbc.com/sport/football/articles/ckg0exlle8yo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-21T21:39:43+00:00",
+      "summary": "Does the performance, even the result, matter as long as Scotland qualify for the group stage of the World Cup after Wednesday's game against Brazil? Tom English ponders.",
+      "teams": [
+        "Brazil",
+        "Scotland",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "88f64390889e",
+      "title": "VAR rules out Iran's Weghorst-esque goal",
+      "url": "https://www.bbc.com/sport/football/videos/cx24y5ympdjo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-21T21:39:38+00:00",
+      "summary": "Mehdi Taremi scores a goal similar to Wout Weghorst's effort against Argentina in the 2022 World Cup but it's disallowed by by VAR for offside.",
+      "teams": [
+        "Iran",
+        "Argentina"
       ],
       "is_injury_related": false
     },
@@ -24,12 +131,27 @@
       "url": "https://www.theguardian.com/football/2026/jun/21/belgium-iran-world-cup-group-g-match-report",
       "source": "The Guardian",
       "published_at": "2026-06-21T21:16:20+00:00",
-      "summary": "There was simply no debate over the moment of the match and it is one that Iran will cherish, even more so if they are to progress to the World Cup knockout stage for the first time. Every angle of Alireza Beiranvand’s preposterous save to prevent Belgium taking the lead approach",
+      "summary": "There was simply no debate over the moment of the match and it is one that Iran will cherish, even more so if they are to progress to the World Cup knockout stages for the first time. Every angle of Alireza Beiranvand’s preposterous save to prevent Belgium taking the lead approac",
+      "teams": [
+        "Curaçao",
+        "Belgium",
+        "Iran",
+        "Cape Verde"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "4e5903c5ec46",
+      "title": "Ngoy red card leaves Belgium with 10 men",
+      "url": "https://www.bbc.com/sport/football/videos/ckg4jrgyz08o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-21T21:09:28+00:00",
+      "summary": "Belgium's Nathan Ngoy is shown a red card for fouling Iran's Mehdi Taremi.",
       "teams": [
         "Belgium",
         "Iran"
       ],
-      "is_injury_related": true
+      "is_injury_related": false
     },
     {
       "id": "b6024d33b12b",
@@ -141,7 +263,7 @@
       "url": "https://www.theguardian.com/football/2026/jun/21/england-declan-rice-hamstring-nerve-pain-arsenal-schedule-world-cup",
       "source": "The Guardian",
       "published_at": "2026-06-21T15:30:59+00:00",
-      "summary": "Midfielder says schedule ‘obscene’ for club and country But adds he is ‘ready and fit’ for England game v Ghana Declan Rice has revealed he has been managing nerve pain in a hamstring since Christmas as he reflected on the “obscene” number of matches he has&nbsp;played this seaso",
+      "summary": "Midfielder says schedule ‘obscene’ for club and country Ollie Watkins insists he is ready to be nastier on the pitch Declan Rice has revealed he has been managing nerve pain in a hamstring since Christmas as he reflected on the “obscene” number of matches he has&nbsp;played this ",
       "teams": [
         "England",
         "Croatia",
@@ -291,20 +413,6 @@
       "teams": [
         "Japan",
         "Tunisia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "d2c31bca6bea",
-      "title": "Australia’s Jackson Irvine has no sympathy for Paraguay after historic World Cup red card",
-      "url": "https://www.theguardian.com/football/2026/jun/21/australias-jackson-irvine-has-no-sympathy-for-paraguay-after-historic-world-cup-red-card",
-      "source": "The Guardian",
-      "published_at": "2026-06-21T04:50:24+00:00",
-      "summary": "Miguel Almirón sent off against Turkey for covering mouth Socceroos face South Americans in crucial last Group D match Socceroo Jackson Irvine has backed the decision by Fifa to send players off for covering their mouths when they speak, after Paraguay winger Miguel Almirón was g",
-      "teams": [
-        "Paraguay",
-        "Australia",
-        "Turkey"
       ],
       "is_injury_related": false
     },
@@ -465,18 +573,6 @@
       "is_injury_related": true
     },
     {
-      "id": "af2045cb2cb3",
-      "title": "Cooling hoodies help England staff combat World Cup heat",
-      "url": "https://www.bbc.com/sport/football/articles/cwy0gn19zqlo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-20T20:17:41+00:00",
-      "summary": "As the England players trained under the searing heat of the Kansas City sun on Saturday, manager Thomas Tuchel took a very different approach to keeping himself cool.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "2cbefdbd380d",
       "title": "Scotland expects: The story of McTominay's World Cup so far",
       "url": "https://www.bbc.com/sport/football/articles/c78yn1gzy6do",
@@ -484,19 +580,6 @@
       "published_at": "2026-06-20T20:16:11+00:00",
       "summary": "Some are suggesting Scott McTominay has not had the expected impact for Scotland at the World Cup, but is that fair on the Napoli midfielder?",
       "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f2a7714e0dac",
-      "title": "Scotland 0-1 Morocco: Unique angles and behind the scenes",
-      "url": "https://www.bbc.com/sport/videos/c0ly473g3dgo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-20T19:45:21+00:00",
-      "summary": "All the unique angles, and everything the TV cameras didn't show you, from Scotland's 1-0 defeat by Morocco at the 2026 World Cup in North America.",
-      "teams": [
-        "Morocco",
         "Scotland"
       ],
       "is_injury_related": false
@@ -537,19 +620,6 @@
         "Netherlands",
         "Japan",
         "Sweden"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "aed56222c8c8",
-      "title": "The brilliant Michael Olise represents a key faultline in history of French football | Jonathan Wilson",
-      "url": "https://www.theguardian.com/football/2026/jun/20/michael-olise-france-world-cup-didier-deschamps",
-      "source": "The Guardian",
-      "published_at": "2026-06-20T19:00:09+00:00",
-      "summary": "Unusually in the France side, he plays with a sense of freedom and has not yet submitted fully to Deschamps’s tactical yoke Michael Olise is probably the best creative player in the world at the moment. He racked up 26 assists for Bayern Munich last season. It was his shift into ",
-      "teams": [
-        "France",
-        "Senegal"
       ],
       "is_injury_related": false
     },
@@ -604,19 +674,6 @@
         "Sweden"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "0d4da7fb7420",
-      "title": "Referee told McGinn penalty denied as ball going out of play",
-      "url": "https://www.bbc.com/sport/articles/cx26jxl2gyno",
-      "source": "BBC Sport",
-      "published_at": "2026-06-20T15:46:09+00:00",
-      "summary": "Referee Ilgiz Tantashev told John McGinn he turned down his claim for a penalty against Morocco because the ball was going out of play, the Scotland midfielder's brother, Stephen, says.",
-      "teams": [
-        "Morocco",
-        "Scotland"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "fe898bcf3a68",
@@ -684,18 +741,6 @@
       "is_injury_related": true
     },
     {
-      "id": "4e9c2037453d",
-      "title": "'Everything I do is for you' - how tragedy is driving Diomande",
-      "url": "https://www.bbc.com/sport/football/articles/ckg04xer94eo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-20T08:56:58+00:00",
-      "summary": "BBC Sport explores how exciting young Ivory Coast Yan Diomande is determined to succeed at the World Cup in honour of his sister.",
-      "teams": [
-        "Ivory Coast"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "34ca7f83b909",
       "title": "Spaceship stadiums and Ronaldo-mania: Guardian writers’ first impressions of the World Cup",
       "url": "https://www.theguardian.com/football/2026/jun/20/spaceship-stadiums-and-ronaldo-mania-guardian-writers-first-impressions-of-the-world-cup",
@@ -709,19 +754,6 @@
         "DR Congo",
         "England",
         "Croatia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "b880b649c702",
-      "title": "World Cup first as Almiron sent off for covering mouth",
-      "url": "https://www.bbc.com/sport/football/videos/c17y0977klgo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-20T05:05:57+00:00",
-      "summary": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey.",
-      "teams": [
-        "Paraguay",
-        "Turkey"
       ],
       "is_injury_related": false
     },
@@ -752,46 +784,6 @@
         "Germany"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "cc0a0cff79b3",
-      "title": "Cunha scores twice as Brazil beat Haiti",
-      "url": "https://www.bbc.com/sport/football/videos/cy04ly9rk22o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-20T03:06:22+00:00",
-      "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup.",
-      "teams": [
-        "Brazil",
-        "Haiti"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "5ad7b178e4e4",
-      "title": "Flawed but relentless Scotland show themselves as men of substance",
-      "url": "https://www.bbc.com/sport/football/articles/c33y5v4mer3o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-20T01:41:52+00:00",
-      "summary": "Morocco threatened to blow Scotland away early on, but Steve Clarke's squad showed their resilience despite defeat, writes Tom English.",
-      "teams": [
-        "Morocco",
-        "Scotland",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "6b2ecdcea5d7",
-      "title": "Scotland fall to narrow defeat against Morocco",
-      "url": "https://www.bbc.com/sport/videos/cn59zxl376ro",
-      "source": "BBC Sport",
-      "published_at": "2026-06-20T00:47:02+00:00",
-      "summary": "Scotland concede after 71 seconds and fall to a World Cup defeat against a classy Morocco, but their hopes of a historic knock-out place remain in their own hands with one group game to go.",
-      "teams": [
-        "Morocco",
-        "Scotland"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "4e86db2d7cc6",
@@ -1042,6 +1034,18 @@
         "France"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "dde8c3c9690c",
+      "title": "From Brazil to Haaland: must-watch World Cup group stage matches – video",
+      "url": "https://www.theguardian.com/football/video/2026/jun/16/from-brazil-to-haaland-four-must-watch-world-cup-group-stage-matches-video",
+      "source": "The Guardian",
+      "published_at": "2026-06-16T18:22:21+00:00",
+      "summary": "With the World Cup expanding to a massive 104 matches, navigating the \"morass of endless football\" can feel a bit overwhelming. Thankfully, the Guardian’s&nbsp;chief sports writer, Barney Ronay, has done the heavy lifting. He breaks down the group stage fixtures you absolutely ca",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": true
     }
   ]
 }
