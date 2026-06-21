@@ -19023,7 +19023,39 @@
           },
           "totals": {}
         }
-      ]
+      ],
+      "closing_odds": {
+        "captured_at": "2026-06-21T13:16:53.854718+00:00",
+        "consensus": {
+          "home": 1.42,
+          "draw": 4.78,
+          "away": 7.95,
+          "over_2_5": 1.78,
+          "under_2_5": 2.02
+        },
+        "best_book": {
+          "home": {
+            "price": 4.4,
+            "book": "Marathon Bet"
+          },
+          "draw": {
+            "price": 5.15,
+            "book": "BetAnything"
+          },
+          "away": {
+            "price": 12.0,
+            "book": "Marathon Bet"
+          },
+          "over_2_5": {
+            "price": 1.85,
+            "book": "Pinnacle"
+          },
+          "under_2_5": {
+            "price": 2.09,
+            "book": "BetOnline.ag"
+          }
+        }
+      }
     },
     {
       "id": "m-040",
@@ -21976,13 +22008,13 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-21T10:42:06.046769+00:00",
+        "captured_at": "2026-06-21T13:16:53.854718+00:00",
         "consensus": {
-          "home": 1.1,
-          "draw": 11.0,
+          "home": 1.09,
+          "draw": 11.5,
           "away": 26.0,
-          "over_2_5": 1.35,
-          "under_2_5": 3.22
+          "over_2_5": 1.33,
+          "under_2_5": 3.35
         },
         "best_book": {
           "home": {
@@ -21994,15 +22026,15 @@
             "book": "Betfair"
           },
           "away": {
-            "price": 35.0,
+            "price": 38.0,
             "book": "1xBet"
           },
           "over_2_5": {
-            "price": 1.36,
-            "book": "BetAnything"
+            "price": 1.35,
+            "book": "William Hill"
           },
           "under_2_5": {
-            "price": 3.3,
+            "price": 3.35,
             "book": "Betsson"
           }
         }
