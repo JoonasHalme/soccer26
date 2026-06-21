@@ -12889,10 +12889,10 @@
       "home": "Ecuador",
       "away": "Curaçao",
       "score": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "odds": {
         "home": 1.16,
         "draw": 8.0,
@@ -13393,34 +13393,34 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-20T22:20:22.489523+00:00",
+        "captured_at": "2026-06-21T00:19:51.022133+00:00",
         "consensus": {
-          "home": 1.15,
-          "draw": 8.0,
-          "away": 18.0,
-          "over_2_5": 1.54,
-          "under_2_5": 2.43
+          "home": 1.18,
+          "draw": 6.5,
+          "away": 14.5,
+          "over_2_5": 1.65,
+          "under_2_5": 2.12
         },
         "best_book": {
           "home": {
-            "price": 1.19,
-            "book": "1xBet"
+            "price": 1.22,
+            "book": "Betfair"
           },
           "draw": {
-            "price": 9.6,
+            "price": 8.0,
             "book": "Betfair"
           },
           "away": {
-            "price": 21.0,
-            "book": "Betsson"
+            "price": 17.0,
+            "book": "BoyleSports"
           },
           "over_2_5": {
-            "price": 1.58,
-            "book": "GTbets"
+            "price": 1.73,
+            "book": "Matchbook"
           },
           "under_2_5": {
-            "price": 2.45,
-            "book": "BetAnything"
+            "price": 2.34,
+            "book": "Matchbook"
           }
         }
       }
@@ -16414,21 +16414,21 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-20T22:20:22.489523+00:00",
+        "captured_at": "2026-06-21T00:19:51.022133+00:00",
         "consensus": {
           "home": 7.5,
-          "draw": 4.3,
-          "away": 1.48,
-          "over_2_5": 2.02,
-          "under_2_5": 1.78
+          "draw": 4.33,
+          "away": 1.45,
+          "over_2_5": 2.0,
+          "under_2_5": 1.82
         },
         "best_book": {
           "home": {
-            "price": 8.2,
+            "price": 8.4,
             "book": "Betfair"
           },
           "draw": {
-            "price": 4.6,
+            "price": 4.8,
             "book": "Betfair"
           },
           "away": {
@@ -16436,12 +16436,12 @@
             "book": "GTbets"
           },
           "over_2_5": {
-            "price": 2.09,
+            "price": 2.07,
             "book": "BetOnline.ag"
           },
           "under_2_5": {
-            "price": 1.82,
-            "book": "Unibet (SE)"
+            "price": 1.85,
+            "book": "Pinnacle"
           }
         }
       }
