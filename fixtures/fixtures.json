@@ -13030,7 +13030,7 @@
         "home": 0,
         "away": 0
       },
-      "status": "LIVE",
+      "status": "FINISHED",
       "odds": {
         "home": 1.16,
         "draw": 8.0,
@@ -16103,10 +16103,10 @@
       "home": "Tunisia",
       "away": "Japan",
       "score": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 4
       },
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "odds": {
         "home": 175.0,
         "draw": 40.5,
