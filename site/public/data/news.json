@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T16:07:18.078850+00:00",
+  "generated_at": "2026-06-21T17:52:18.988453+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian",
@@ -7,23 +7,11 @@
   ],
   "items": [
     {
-      "id": "35abef278a9e",
-      "title": "World Cup live updates: Yamal starts for Spain in ...",
-      "url": "https://www.espn.com/soccer/story/_/id/49132966/world-cup-daily-nasa-astronauts-kick-ball-space-spain-belgium-action",
-      "source": "ESPN",
-      "published_at": "2026-06-21T17:04:01+00:00",
-      "summary": "null",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "4dd0b087fc7a",
       "title": "Curaçao GK ties Howard's WC save record in draw",
       "url": "https://www.espn.com/soccer/story/_/id/49131334/curacao-goalkeeper-eloy-room-tim-howard-world-cup-save-record",
       "source": "ESPN",
-      "published_at": "2026-06-21T16:53:16+00:00",
+      "published_at": "2026-06-21T18:10:35+00:00",
       "summary": "Curaçao goalkeeper Eloy Room made 15 saves to equal the World Cup record and help earn the island nation its first-ever World Cup point with a 0-0 draw against heavily favored Ecuador on Saturday.",
       "teams": [
         "Curaçao",
@@ -32,15 +20,14 @@
       "is_injury_related": false
     },
     {
-      "id": "e0677b7f19a7",
-      "title": "Japan rout Tunisia to eliminate them from WC",
-      "url": "https://www.espn.com/soccer/report/_/gameId/760449",
+      "id": "f60d8a0a5abd",
+      "title": "Japan set sights on WCup glory after record win",
+      "url": "https://www.espn.com/soccer/story/_/id/49133799/daichi-kamada-reiterates-japan-goal-win-world-cup-record-win",
       "source": "ESPN",
-      "published_at": "2026-06-21T16:53:16+00:00",
-      "summary": "A dominant Japan produced the biggest margin of victory for an Asian nation in a World Cup match as they beat Tunisia 4-0",
+      "published_at": "2026-06-21T18:10:35+00:00",
+      "summary": "After a record-breaking evening for Japan, Daichi Kamada reiterated their target of winning the 2026 FIFA World Cup.",
       "teams": [
-        "Japan",
-        "Tunisia"
+        "Japan"
       ],
       "is_injury_related": false
     },
@@ -49,7 +36,7 @@
       "title": "Netherlands break WC record with Sweden thumping",
       "url": "https://www.espn.com/soccer/story/_/id/49129008/netherlands-shatter-world-cup-unbeaten-record-streak-crushing-sweden",
       "source": "ESPN",
-      "published_at": "2026-06-21T16:53:16+00:00",
+      "published_at": "2026-06-21T18:10:35+00:00",
       "summary": "Netherlands coach Ronald Koeman said their 5-1 win over Sweden on Saturday sends a warning message to their World Cup rivals. The dominant victory came on the same day his side broke a tournament record.",
       "teams": [
         "Netherlands",
@@ -62,7 +49,7 @@
       "title": "Super sub Undav fires Germany to WC knockouts",
       "url": "https://www.espn.com/soccer/story/_/id/49129600/germany-ivory-coast-2026-fifa-world-cup-deniz-undav",
       "source": "ESPN",
-      "published_at": "2026-06-21T16:53:16+00:00",
+      "published_at": "2026-06-21T18:10:35+00:00",
       "summary": "Deniz Undav scored twice after being subbed in during the second half as Germany defeated Ivory Coast 2-1 on Saturday and clinched a spot in the knockout phase at the World Cup for the first time since 2014.",
       "teams": [
         "Germany",
@@ -75,8 +62,20 @@
       "title": "Saliba playing through pain for France WCup bid",
       "url": "https://www.espn.com/soccer/story/_/id/49135262/france-william-saliba-playing-pain-world-cup-gritted-teeth",
       "source": "ESPN",
-      "published_at": "2026-06-21T16:53:15+00:00",
+      "published_at": "2026-06-21T18:10:34+00:00",
       "summary": "William Saliba has said he has been playing through pain for several months but the Arsenal defender has been inspired to keep pushing by the opportunity to make history.",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "e37765b85134",
+      "title": "Madrid: No contact with Bayern, France's Olise",
+      "url": "https://www.espn.com/soccer/story/_/id/49126940/real-madrid-no-contact-made-bayern-munich-michael-olise",
+      "source": "ESPN",
+      "published_at": "2026-06-21T18:10:19+00:00",
+      "summary": "Real Madrid have denied making any \"direct or indirect\" contract with Michael Olise over a possible summer transfer.",
       "teams": [
         "France"
       ],
@@ -87,7 +86,7 @@
       "title": "Dalot: Portugal prepped for team, Ronaldo critics",
       "url": "https://www.espn.com/soccer/story/_/id/49127893/cristiano-ronaldo-portugal-were-prepared-social-media-backlash-world-cup-diogo-dalot",
       "source": "ESPN",
-      "published_at": "2026-06-21T16:52:34+00:00",
+      "published_at": "2026-06-21T18:10:18+00:00",
       "summary": "Diogo Dalot has said Portugal took time before the World Cup to prepare for any potential backlash on social media, adding that having a player like Cristiano Ronaldo meant they needed to.",
       "teams": [
         "Portugal"
@@ -95,14 +94,15 @@
       "is_injury_related": false
     },
     {
-      "id": "e37765b85134",
-      "title": "Madrid: No contact with Bayern, France's Olise",
-      "url": "https://www.espn.com/soccer/story/_/id/49126940/real-madrid-no-contact-made-bayern-munich-michael-olise",
+      "id": "35abef278a9e",
+      "title": "World Cup live updates: Spain cruising vs. Saudi A...",
+      "url": "https://www.espn.com/soccer/story/_/id/49132966/world-cup-daily-nasa-astronauts-kick-ball-space-spain-belgium-action",
       "source": "ESPN",
-      "published_at": "2026-06-21T16:52:33+00:00",
-      "summary": "Real Madrid have denied making any \"direct or indirect\" contract with Michael Olise over a possible summer transfer.",
+      "published_at": "2026-06-21T17:54:12+00:00",
+      "summary": "null",
       "teams": [
-        "France"
+        "Spain",
+        "Saudi Arabia"
       ],
       "is_injury_related": false
     },
@@ -111,8 +111,48 @@
       "title": "Spain v Saudi Arabia: World Cup 2026 – live",
       "url": "https://www.theguardian.com/football/live/2026/jun/21/spain-v-saudi-arabia-world-cup-2026-live",
       "source": "The Guardian",
-      "published_at": "2026-06-21T16:01:12+00:00",
+      "published_at": "2026-06-21T17:46:14+00:00",
       "summary": "⚽️ Kick-off: 12pm local time/5pm BST/2am (Mon) AEST ⚽️ Player guide | Bracketology | Golden Boot | Email John The Spain coach, Luis De La Fuente had this to say in his Saturday press conference: “This generation of footballers is highly competitive and really fired up... It’s goi",
+      "teams": [
+        "Spain",
+        "Saudi Arabia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ff3e70dae0c0",
+      "title": "Belgium v Iran: World Cup 2026 – live",
+      "url": "https://www.theguardian.com/football/live/2026/jun/21/belgium-v-iran-world-cup-2026-live",
+      "source": "The Guardian",
+      "published_at": "2026-06-21T17:00:35+00:00",
+      "summary": "⚽️ Kick-off: 12pm local time/8pm BST/5am (Mon) AEST ⚽️ Player guide | Bracketology | Golden Boot | Email Daniel The world is a different place at the moment, isn’t it? Macro level, it’s same as it ever was, but for those of us going about our business on the micro, there’s a sere",
+      "teams": [
+        "Belgium",
+        "Iran"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "3bc5eb6b1839",
+      "title": "Brazil preview and is the World Cup catching fire in USA?",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nt9cg7",
+      "source": "BBC Sport",
+      "published_at": "2026-06-21T16:46:00+00:00",
+      "summary": "We preview Scotland v Brazil in Miami and ask how the World Cup is going down in the USA.",
+      "teams": [
+        "Brazil",
+        "Scotland",
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "0dddb3fbbf5d",
+      "title": "'He's arrived' - Yamal scores the opener for Spain",
+      "url": "https://www.bbc.com/sport/football/videos/c1jyr87472jo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-21T16:31:27+00:00",
+      "summary": "Spain's Lamine Yamal scores the opening goal against Saudi Arabia in their Group H match in the 2026 World Cup.",
       "teams": [
         "Spain",
         "Saudi Arabia"
@@ -190,7 +230,7 @@
       "url": "https://www.theguardian.com/football/2026/jun/21/thomas-partey-england-ghana-handshake",
       "source": "The Guardian",
       "published_at": "2026-06-21T11:11:47+00:00",
-      "summary": "Ghana midfielder has denied all accusations as he prepares to begin his World Cup campaign in Boston on Tuesday The Football Association has remained coy over what will happen when England line up for their next World Cup match against Ghana on Tuesday and come up against a famil",
+      "summary": "Ghana midfielder has denied all accusations as he prepares to begin his World Cup campaign in Boston on Tuesday The Football Association has remained coy over what will happen when England line up for their next World Cup match, against Ghana on Tuesday, and come up against a fam",
       "teams": [
         "England",
         "Ghana"
@@ -409,6 +449,20 @@
       "is_injury_related": false
     },
     {
+      "id": "2fd53880515c",
+      "title": "‘Stung’ Spain have digested shock start but know repeat is not an option",
+      "url": "https://www.theguardian.com/football/2026/jun/21/stung-spain-have-digested-shock-start-but-know-repeat-is-not-an-option",
+      "source": "The Guardian",
+      "published_at": "2026-06-21T04:00:21+00:00",
+      "summary": "European champions were frustrated by Cape Verde and know there is little margin for error against Saudi Arabia Cape Verde are not the only ones to have kept Spain out at this World Cup. Turns out it was even harder to get past security on the gate of the team hotel in downtown C",
+      "teams": [
+        "Spain",
+        "Cape Verde",
+        "Saudi Arabia"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "0a90f8e58546",
       "title": "Gakpo, Brobbey answer Dutch call for World Cup exc...",
       "url": "https://www.espn.com/soccer/story/_/id/49127808/cody-gakpo-brian-brobbey-answer-dutch-call-world-cup-excellence-win-sweden",
@@ -441,7 +495,7 @@
       "url": "https://www.theguardian.com/football/2026/jun/21/curacao-ecuador-world-cup-group-e-match-report",
       "source": "The Guardian",
       "published_at": "2026-06-21T02:35:43+00:00",
-      "summary": "It is doubtful whether many Ecuador supporters – or many others for that matter – had ever heard the name Eloy Room before this match. They will never forget it now. Watched by King ­Willem-Alexander and Queen ­Máxima of the Netherlands in the stands, the Curaçao goalkeeper etche",
+      "summary": "It is doubtful whether many Ecuador supporters – or many others for that matter – had ever heard the name Eloy Room before this match. They will never forget it now. Watched by King Willem-Alexander and Queen Máxima of the Netherlands in the stands, the Curaçao goalkeeper etched ",
       "teams": [
         "Curaçao",
         "Ecuador",
@@ -819,20 +873,6 @@
       "is_injury_related": false
     },
     {
-      "id": "d88968372c33",
-      "title": "‘Everybody’s crying’: Turkey crash out as 10-man Paraguay hang on for World Cup win",
-      "url": "https://www.theguardian.com/football/2026/jun/20/turkey-paraguay-world-cup-2026-group-d-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-06-20T07:57:00+00:00",
-      "summary": "Turkey arrived at their first World Cup in 24 years with great expectations and a host of rising stars but crashed ⁠out goalless and in tears ⁠after another shocking ​failure to convert against Paraguay. Despite facing 10 men for more than a half, Turkey slumped to a 1-0 defeat a",
-      "teams": [
-        "Paraguay",
-        "Australia",
-        "Turkey"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "34ca7f83b909",
       "title": "Spaceship stadiums and Ronaldo-mania: Guardian writers’ first impressions of the World Cup",
       "url": "https://www.theguardian.com/football/2026/jun/20/spaceship-stadiums-and-ronaldo-mania-guardian-writers-first-impressions-of-the-world-cup",
@@ -971,19 +1011,6 @@
       "is_injury_related": true
     },
     {
-      "id": "df3bd2eb870b",
-      "title": "'Nightmare start for Scotland' - Morocco score after 71 seconds",
-      "url": "https://www.bbc.com/sport/football/videos/cd7wg71r38no",
-      "source": "BBC Sport",
-      "published_at": "2026-06-19T23:59:48+00:00",
-      "summary": "Morocco's Ismael Saibari stuns Scotland with a superb finish after just 71 seconds in their World Cup Group C game in Boston.",
-      "teams": [
-        "Morocco",
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "a694d6e491e9",
       "title": "The Super Bowl winner's son stepping into spotlight with USA",
       "url": "https://www.bbc.com/sport/football/articles/ckg4qvedjkwo",
@@ -996,19 +1023,6 @@
       "is_injury_related": true
     },
     {
-      "id": "66fcaceb521a",
-      "title": "England winger Saka unlikely to start against Ghana",
-      "url": "https://www.bbc.com/sport/football/articles/crm0kg22m9jo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-19T20:09:51+00:00",
-      "summary": "England head coach Thomas Tuchel hints that Bukayo Saka is unlikely to be in contention to start against Ghana on Tuesday.",
-      "teams": [
-        "England",
-        "Ghana"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "133fb7b29025",
       "title": "Earps 'doesn't know' if she's ready for spotlight again",
       "url": "https://www.bbc.com/sport/football/articles/c30y8ed8vdmo",
@@ -1019,21 +1033,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "ac11c9759711",
-      "title": "Life in Hollywood bubble plays second fiddle to US need for World Cup success | Max Rushden",
-      "url": "https://www.theguardian.com/football/2026/jun/19/life-hollywood-bubble-second-fiddle-us-need-for-world-cup-success",
-      "source": "The Guardian",
-      "published_at": "2026-06-19T17:05:44+00:00",
-      "summary": "Working at a tournament brings its own demands but nothing like the pressure on home players for a good showing Greetings from Los Angeles – from your own podcasting correspondent. England aside, it’s been 20 years since I was in the host country for a major tournament. Professio",
-      "teams": [
-        "Brazil",
-        "Australia",
-        "Germany",
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "fde3743c4f91",
