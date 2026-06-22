@@ -1,10 +1,204 @@
 {
-  "generated_at": "2026-06-22T21:11:59.923041+00:00",
+  "generated_at": "2026-06-22T23:42:17.157381+00:00",
   "sources": [
     "BBC Sport",
-    "The Guardian"
+    "The Guardian",
+    "ESPN"
   ],
   "items": [
+    {
+      "id": "f54544b0b2a4",
+      "title": "France-Iraq temporarily suspended due to severe we...",
+      "url": "https://www.espn.com/soccer/story/_/id/49141065/world-cup-daily-crying-belgium-fan-saved-var-messi-mbappe-haaland-action",
+      "source": "ESPN",
+      "published_at": "2026-06-23T00:11:51+00:00",
+      "summary": "null",
+      "teams": [
+        "France",
+        "Iraq"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "b2079780a8f9",
+      "title": "Messi makes history and shows why Argentina star i...",
+      "url": "https://www.espn.com/soccer/story/_/id/49146756/lionel-messi-world-cup-goals-record-argentina-austria-analysis",
+      "source": "ESPN",
+      "published_at": "2026-06-23T00:02:34+00:00",
+      "summary": "Amazing doesn't even begin to describe Lionel Messi, whose two goals in Argentina's win over Austria made him the top men's or women's World Cup scorer. And he's not done yet.",
+      "teams": [
+        "Argentina",
+        "Austria"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "2d0d48b61273",
+      "title": "U.S. rides good vibes as Pulisic back in training",
+      "url": "https://www.espn.com/soccer/story/_/id/49145667/usmnt-riding-good-vibes-christian-pulisic-back-training",
+      "source": "ESPN",
+      "published_at": "2026-06-22T23:54:49+00:00",
+      "summary": "The good vibes continued for the United States men's national team as Christian Pulisic returned to full training for the first time since June 11, having recovered from an injured left calf.",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "c6e93eedf3cd",
+      "title": "Scaloni: Extent of Romero knee injury unknown",
+      "url": "https://www.espn.com/soccer/story/_/id/49146959/argentina-coach-scaloni-awaits-tests-extent-cristian-romero-knee-injury",
+      "source": "ESPN",
+      "published_at": "2026-06-22T23:54:49+00:00",
+      "summary": "Argentina head coach Lionel Scaloni confirmed on Monday that he won't know the extent of the knee injury to center-back Cristian \"Cuti\" Romero until after team doctors complete tests.",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "66bf316975f1",
+      "title": "Messi breaks tie with Klose for most WC goals",
+      "url": "https://www.espn.com/soccer/story/_/id/49140402/lionel-messi-world-cup-record-goals-miroslav-klose-all",
+      "source": "ESPN",
+      "published_at": "2026-06-22T23:49:13+00:00",
+      "summary": "Lionel Messi became the highest goal scorer in men's World Cup history Monday, moving up to 18 with a superb double in Argentina's Group J match against Austria.",
+      "teams": [
+        "Argentina",
+        "Austria"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "15b14c2a1949",
+      "title": "Partey 'ready' for England after missing opener",
+      "url": "https://www.espn.com/soccer/story/_/id/49147003/ghana-thomas-partey-ready-england-denied-entry-world-cup-opener",
+      "source": "ESPN",
+      "published_at": "2026-06-22T23:49:13+00:00",
+      "summary": "Thomas Partey has said he is \"ready to play\" against England on Tuesday after being denied entry to Canada for Ghana's World Cup opener.",
+      "teams": [
+        "Canada",
+        "England",
+        "Ghana"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "39bd5afeefe5",
+      "title": "France v Iraq: second half delayed by storm at World Cup 2026 – live",
+      "url": "https://www.theguardian.com/football/live/2026/jun/22/france-v-iraq-world-cup-2026-live-updates",
+      "source": "The Guardian",
+      "published_at": "2026-06-22T23:35:33+00:00",
+      "summary": "⚽️ World Cup kick-off: 5pm ET/10pm BST/7am AEST ⚽️ Player guide | Bracketology | Golden Boot | Email Tim And here’s our reporter at the game, Paul MacInnes. “Ground already packed for a match that has been highly anticipated in Philly,” he writes. “The French are here is big numb",
+      "teams": [
+        "France",
+        "Iraq"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d8906aded8fa",
+      "title": "Thomas Tuchel urges England to improve defence against Ghana after ‘wake-up call’",
+      "url": "https://www.theguardian.com/football/2026/jun/23/thomas-tuchel-england-ghana-world-cup-defence-improve",
+      "source": "The Guardian",
+      "published_at": "2026-06-22T23:30:24+00:00",
+      "summary": "Win over Ghana could secure top spot in the group ‘We dropped too deep,’ Tuchel says of Croatia opener Thomas Tuchel believes England were given a wake-up call by Croatia and must focus on improving their defensive structure as the World Cup progresses. England will qualify for t",
+      "teams": [
+        "England",
+        "Croatia",
+        "Ghana",
+        "Panama"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "048b23653947",
+      "title": "Julián Alvarez sparks transfer frenzy by telling Atlético Madrid he wants to leave",
+      "url": "https://www.theguardian.com/football/2026/jun/23/julian-alvarez-sparks-transfer-frenzy-by-telling-atletico-madrid-he-wants-to-leave",
+      "source": "The Guardian",
+      "published_at": "2026-06-22T23:06:05+00:00",
+      "summary": "Argentina forward wants to ‘fulfil dream’ by departing Barcelona, Real Madrid and PSG linked with 26-year-old Julián Alvarez has said he wants to ⁠leave Atlético Madrid to “fulfil his dream” following reported interest from Barcelona, Real Madrid ⁠and Paris Saint-⁠Germain. “I ​sp",
+      "teams": [
+        "Argentina",
+        "Austria"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d75a4d473030",
+      "title": "All the angles of Messi's record-breaking goal",
+      "url": "https://www.bbc.com/sport/football/videos/c17ynvkjkjwo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-22T22:56:19+00:00",
+      "summary": "Watch all the angles of Lionel Messi's record-breaking opening goal against Austria in Argentina's 2-0 victory.",
+      "teams": [
+        "Argentina",
+        "Austria"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "52ea53c43e07",
+      "title": "Norway v Senegal: World Cup 2026 – live",
+      "url": "https://www.theguardian.com/football/live/2026/jun/22/norway-v-senegal-world-cup-2026-live",
+      "source": "The Guardian",
+      "published_at": "2026-06-22T22:00:22+00:00",
+      "summary": "⚽️ World Cup kick-off: 8pm ET/1am BST/10am AEST ⚽️ Player guide | Bracketology | Golden Boot | Email Jeff Jeff will be here shortly, in the mean time here’s Jonathan Wilson on a big tournament for African teams: On Monday evening local time at New York New Jersey Stadium, Senegal",
+      "teams": [
+        "Senegal",
+        "Norway"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "97c5464a048a",
+      "title": "USMNT's World Cup success brings dilemma: Rotate t...",
+      "url": "https://www.espn.com/soccer/story/_/id/49140112/usmnt-faces-world-cup-dilemma-vs-turkiye-rotate-squad-keep-same-xi",
+      "source": "ESPN",
+      "published_at": "2026-06-22T21:58:56+00:00",
+      "summary": "The USMNT has clinched a spot in the World Cup knockouts, so should the team rotate in its final Group D match or stay consistent?",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "12c8362eee93",
+      "title": "'Simply stunning' - Mbappe opens the scoring against Iraq",
+      "url": "https://www.bbc.com/sport/football/videos/cm2rkpmvglmo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-22T21:47:23+00:00",
+      "summary": "Kylian Mbappe puts France 1-0 up against Iraq with a powerful strike from outside the box.",
+      "teams": [
+        "France",
+        "Iraq"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "381fb96e498d",
+      "title": "From retirement to records - another immortal Messi moment",
+      "url": "https://www.bbc.com/sport/football/articles/c74y1vypn2wo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-22T21:43:58+00:00",
+      "summary": "Ten years after announcing he was quitting international football, Lionel Messi is still breaking records for reigning World Cup champions Argentina.",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "c72ebf4f3b08",
+      "title": "Arsenal make Villa’s Morgan Rogers their No 1 target in transfer window",
+      "url": "https://www.theguardian.com/football/2026/jun/22/arsenal-make-morgan-rogers-top-target-in-transfer-window",
+      "source": "The Guardian",
+      "published_at": "2026-06-22T21:20:48+00:00",
+      "summary": "Champions expected to make an approach for forward Fee could be around £100m for Villa’s England player Arsenal are expected to make an approach to sign Morgan Rogers from Aston Villa after identifying the England forward as their primary transfer target this summer. The Premier ",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "aeee4c567d53",
       "title": "Fans delayed entry as bad weather affects France-Iraq tie",
@@ -19,15 +213,30 @@
       "is_injury_related": false
     },
     {
-      "id": "39bd5afeefe5",
-      "title": "France v Iraq: World Cup 2026 – live",
-      "url": "https://www.theguardian.com/football/live/2026/jun/22/france-v-iraq-world-cup-2026-live-updates",
+      "id": "a4728446ae80",
+      "title": "USMNT’s Alex Zendejas, yet to play at World Cup, readies for his moment: ‘I’m sure it’ll come’",
+      "url": "https://www.theguardian.com/football/2026/jun/22/usmnt-alex-zendejas-world-cup",
       "source": "The Guardian",
-      "published_at": "2026-06-22T21:03:32+00:00",
-      "summary": "⚽️ World Cup kick-off: 5pm ET/10pm BST/7am AEST ⚽️ Player guide | Bracketology | Golden Boot | Email Tim And here’s our reporter at the game, Paul MacInnes. “Ground already packed for a match that has been highly anticipated in Philly,” he writes. “The French are here is big numb",
+      "published_at": "2026-06-22T21:04:23+00:00",
+      "summary": "Club América star did not appear in first two US games Dual-national was surprise pick to Pochettino’s squad Dead-rubber Turkey match could be time for debut As his US teammates finished off group-clinching wins over Paraguay and Australia, all Alex Zendejas could do to help was ",
       "teams": [
-        "France",
-        "Iraq"
+        "Mexico",
+        "USA",
+        "Paraguay",
+        "Australia",
+        "Turkey"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "473d934b08d8",
+      "title": "Argentinian national treasure Lionel Messi stands alone at goalscoring pinnacle | Pablo Iglesias Maurer",
+      "url": "https://www.theguardian.com/football/2026/jun/22/argentinian-national-treasure-lionel-messi-world-cup-goal-record",
+      "source": "The Guardian",
+      "published_at": "2026-06-22T21:01:26+00:00",
+      "summary": "Missed penalty merely delayed the inevitable before forward scored the goals to go past Miroslav Klose’s World Cup goals record There stood 38-year-old Lionel Messi by the penalty spot, poised for yet another flashbulb moment in a career already overflowing with them. Just a few ",
+      "teams": [
+        "Argentina"
       ],
       "is_injury_related": false
     },
@@ -37,7 +246,7 @@
       "url": "https://www.theguardian.com/football/2026/jun/22/serbian-tv-pundit-rade-bogdanovic-causes-outrage-racist-comment-belgium-iran-world-cup-game",
       "source": "The Guardian",
       "published_at": "2026-06-22T21:00:28+00:00",
-      "summary": "Rade Bogdanovic made comments on public broadcaster Former player and broadcaster apologise for statement The former Yugoslavia and Atlético Madrid striker Rade Bogdanovic has sparked controversy on Serbian TV after saying that “Black players lack concentration beyond 60 to 80 mi",
+      "summary": "Rade Bogdanovic made comments on public broadcaster Former player and broadcaster apologises for statement The former Yugoslavia and Atlético Madrid striker Rade Bogdanovic has sparked controversy on Serbian TV after saying that “Black players lack concentration beyond 60 to 80 m",
       "teams": [
         "Belgium",
         "Iran"
@@ -50,7 +259,7 @@
       "url": "https://www.theguardian.com/football/2026/jun/22/argentina-austria-world-cup-group-j-match-report",
       "source": "The Guardian",
       "published_at": "2026-06-22T20:50:59+00:00",
-      "summary": "It had to be Lionel Messi, it had to be on this day and perhaps it even needed to be in Dallas too. History was made in the way he knows best, a clinical left-footed flourish setting him out on his own as the World Cup’s highest goalscorer of all time. Another followed with the g",
+      "summary": "It had to be Lionel Messi, it had to be on this day and perhaps it even needed to be in Dallas too. History was created in the way he knows best, a clinical left-footed flourish setting him out on his own as the World Cup’s highest goalscorer of all time. An occasion that already",
       "teams": [
         "Argentina",
         "Austria"
@@ -124,7 +333,7 @@
     },
     {
       "id": "6028e3acb7c3",
-      "title": "Semenyo and Ghana aim to emulate 2010 World Cup heroes as they face England",
+      "title": "Semenyo and Ghana out to emulate 2010 World Cup heroes as they face England",
       "url": "https://www.theguardian.com/football/2026/jun/22/antoine-semenyo-ghana-2010-world-cup-team-england",
       "source": "The Guardian",
       "published_at": "2026-06-22T18:33:10+00:00",
@@ -172,18 +381,6 @@
         "Austria"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "051e757659a2",
-      "title": "Thomas Tuchel brings The Surge to make England genuine World Cup threat",
-      "url": "https://www.theguardian.com/football/2026/jun/22/thomas-tuchel-brings-the-surge-to-make-england-genuine-world-cup-threat",
-      "source": "The Guardian",
-      "published_at": "2026-06-22T18:00:17+00:00",
-      "summary": "Head coach wants players to use energy in the right spaces and is also getting the best out of an in-form Harry Kane It didn’t take long for one wag in the travelling England caravan to come up with a deeply inappropriate nickname for that jazzed-up high-energy start to the secon",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "d0a2b8c66086",
@@ -248,6 +445,55 @@
       "is_injury_related": false
     },
     {
+      "id": "048fb1eece15",
+      "title": "Four years later, same debate for Portugal: Why is...",
+      "url": "https://www.espn.com/soccer/story/_/id/49138526/four-years-later-same-debate-portugal-why-ronaldo-starting-2026-fifa-world-cup",
+      "source": "ESPN",
+      "published_at": "2026-06-22T15:22:38+00:00",
+      "summary": "Little has changed since the 2022 World Cup; Cristiano Ronaldo is goalless, and Portugal are struggling. How long can this go on?",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "4a854ce38657",
+      "title": "Is Harry Kane the last of England's world-class st...",
+      "url": "https://www.espn.com/soccer/story/_/id/48376236/england-world-class-strikers-harry-kane-last-world-cup-gary-lineker-alan-shearer-michael-owen-wayne-rooney",
+      "source": "ESPN",
+      "published_at": "2026-06-22T15:22:38+00:00",
+      "summary": "null",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "87a2b3aa7def",
+      "title": "Watching Spain's Yamal score his first World Cup g...",
+      "url": "https://www.espn.com/soccer/story/_/id/49142360/watching-spain-lamine-yamal-score-first-world-cup-goal-hometown-rocafonda",
+      "source": "ESPN",
+      "published_at": "2026-06-22T15:22:30+00:00",
+      "summary": "The modest Catalan district of Rocafonda is where Barcelona and Spain star Lamine Yamal grew up. And ESPN was there to see him score his first World Cup goal.",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "e85cb159e33f",
+      "title": "Spain have Yamal back -- and they finally look lik...",
+      "url": "https://www.espn.com/soccer/story/_/id/49136564/spain-lamine-yamal-back-resemble-world-cup-contenders",
+      "source": "ESPN",
+      "published_at": "2026-06-22T15:22:30+00:00",
+      "summary": "After a shaky start to the World Cup, Spain beat Saudi Arabia and finally looked like a top team.",
+      "teams": [
+        "Spain",
+        "Saudi Arabia"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "42c34fb5c598",
       "title": "A history of World Cup red cards: high feet, lost heads and a covered mouth",
       "url": "https://www.theguardian.com/football/2026/jun/22/world-cup-red-cards-history",
@@ -284,21 +530,6 @@
         "Switzerland"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "1dd0ea5b5d07",
-      "title": "African teams have a point to prove at this World Cup. How are they faring?",
-      "url": "https://www.theguardian.com/football/2026/jun/22/africa-is-out-to-prove-a-point-at-this-world-cup",
-      "source": "The Guardian",
-      "published_at": "2026-06-22T14:40:55+00:00",
-      "summary": "There are twice as many teams from Caf at this World Cup than in 2022, but their results so far have been hit and miss • Predict the winner | Daily podcast | Download our app On Monday evening local time at New York New Jersey Stadium, Senegal will face Norway in a game that is n",
-      "teams": [
-        "Qatar",
-        "Senegal",
-        "Norway",
-        "DR Congo"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "05740cc35e3b",
@@ -403,6 +634,21 @@
         "USA"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "19f2733ffcac",
+      "title": "Who are ya? Behind the scenes of the official World Cup portrait photographs",
+      "url": "https://www.theguardian.com/football/2026/jun/22/behind-the-scenes-official-world-cup-portrait-photographs",
+      "source": "The Guardian",
+      "published_at": "2026-06-22T09:39:23+00:00",
+      "summary": "Poses and backstage snaps showcase the players’ personalities and the mechanics of Fifa’s obligatory photoshoots Lionel Messi of Argentina stands rigidly in front of the camera. Marc Cucurella of Spain whips his hair and appears to boogie. Diego Moreira of Belgium covers his eyes",
+      "teams": [
+        "Belgium",
+        "Spain",
+        "Uruguay",
+        "Argentina"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "c824e146dbf6",
@@ -640,19 +886,6 @@
       "is_injury_related": false
     },
     {
-      "id": "88f64390889e",
-      "title": "VAR rules out Iran's Weghorst-esque goal",
-      "url": "https://www.bbc.com/sport/football/videos/cx24y5ympdjo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-21T21:39:38+00:00",
-      "summary": "Mehdi Taremi scores a goal similar to Wout Weghorst's effort against Argentina in the 2022 World Cup but it's disallowed by by VAR for offside.",
-      "teams": [
-        "Iran",
-        "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "562de57c924a",
       "title": "Iran’s Beiranvand denies 10-man Belgium in World Cup draw as Nathan Ngoy sees red",
       "url": "https://www.theguardian.com/football/2026/jun/21/belgium-iran-world-cup-group-g-match-report",
@@ -666,19 +899,6 @@
         "Cape Verde"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "4e5903c5ec46",
-      "title": "Ngoy red card leaves Belgium with 10 men",
-      "url": "https://www.bbc.com/sport/football/videos/ckg4jrgyz08o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-21T21:09:28+00:00",
-      "summary": "Belgium's Nathan Ngoy is shown a red card for fouling Iran's Mehdi Taremi.",
-      "teams": [
-        "Belgium",
-        "Iran"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "b6024d33b12b",
@@ -747,16 +967,15 @@
       "is_injury_related": false
     },
     {
-      "id": "2fd53880515c",
-      "title": "‘Stung’ Spain have digested shock start but know repeat is not an option",
-      "url": "https://www.theguardian.com/football/2026/jun/21/stung-spain-have-digested-shock-start-but-know-repeat-is-not-an-option",
+      "id": "5bd874c0ca18",
+      "title": "The French aristocrat and the all-American idiot: Henry v Lalas is the World Cup’s most compelling battle",
+      "url": "https://www.theguardian.com/football/2026/jun/21/thierry-henry-alexi-lalas-fox-world-cup",
       "source": "The Guardian",
-      "published_at": "2026-06-21T04:00:21+00:00",
-      "summary": "European champions were frustrated by Cape Verde and know there is little margin for error against Saudi Arabia Cape Verde are not the only ones to have kept Spain out at this World Cup. Turns out it was even harder to get past security on the gate of the team hotel in downtown C",
+      "published_at": "2026-06-21T09:00:27+00:00",
+      "summary": "Fox’s broadcast at the tournament has become a story of two contrasting styles. And there is one clear winner We all know someone like Alexi Lalas. He’s the ranter whose rants never actually say anything, the life of the party at the party no one enjoys attending, the “big person",
       "teams": [
-        "Spain",
-        "Cape Verde",
-        "Saudi Arabia"
+        "Iran",
+        "France"
       ],
       "is_injury_related": false
     },
@@ -769,6 +988,19 @@
       "summary": "Some are suggesting Scott McTominay has not had the expected impact for Scotland at the World Cup, but is that fair on the Napoli midfielder?",
       "teams": [
         "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "aed56222c8c8",
+      "title": "The brilliant Michael Olise represents a key faultline in history of French football | Jonathan Wilson",
+      "url": "https://www.theguardian.com/football/2026/jun/20/michael-olise-france-world-cup-didier-deschamps",
+      "source": "The Guardian",
+      "published_at": "2026-06-20T19:00:09+00:00",
+      "summary": "Unusually in the France side, he plays with a sense of freedom and has not yet submitted fully to Deschamps’s tactical yoke Michael Olise is probably the best creative player in the world at the moment. He racked up 26 assists for Bayern Munich last season. It was his shift into ",
+      "teams": [
+        "France",
+        "Senegal"
       ],
       "is_injury_related": false
     },
@@ -810,238 +1042,6 @@
         "Curaçao"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "471271a23c4b",
-      "title": "David Raya: ‘When you lose a Champions League final it destroys you inside’",
-      "url": "https://www.theguardian.com/football/2026/jun/20/david-raya-when-you-lose-a-champions-league-final-it-destroys-you-inside",
-      "source": "The Guardian",
-      "published_at": "2026-06-20T11:00:04+00:00",
-      "summary": "The goalkeeper discusses being bullied by 35-year-olds in the English fifth tier, winning the Premier League and competition in the Spain squad “No, no, there’s someone else,” David Raya says, leaping out of his chair at Spain’s training camp in Chattanooga, Tennessee, pulling hi",
-      "teams": [
-        "New Zealand",
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "4e9c2037453d",
-      "title": "'Everything I do is for you' - how tragedy is driving Diomande",
-      "url": "https://www.bbc.com/sport/football/articles/ckg04xer94eo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-20T08:56:58+00:00",
-      "summary": "BBC Sport explores how exciting young Ivory Coast Yan Diomande is determined to succeed at the World Cup in honour of his sister.",
-      "teams": [
-        "Ivory Coast"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "34ca7f83b909",
-      "title": "Spaceship stadiums and Ronaldo-mania: Guardian writers’ first impressions of the World Cup",
-      "url": "https://www.theguardian.com/football/2026/jun/20/spaceship-stadiums-and-ronaldo-mania-guardian-writers-first-impressions-of-the-world-cup",
-      "source": "The Guardian",
-      "published_at": "2026-06-20T07:00:02+00:00",
-      "summary": "Tournament has completed its first week and while the logistics have sometimes been challenging, the people and the football have been good It was quite a contrast touching down in sleepy Kansas City hours after having witnessed the bedlam on the streets of New York when the Knic",
-      "teams": [
-        "Brazil",
-        "Morocco",
-        "Portugal",
-        "DR Congo",
-        "England",
-        "Croatia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "82ebaa295079",
-      "title": "‘That penalty changed my life’: Panenka’s pride 50 years on from special spot-kick",
-      "url": "https://www.theguardian.com/football/2026/jun/20/antonin-panenka-penalty-50-years-on-czechoslovakia-west-germany-1976",
-      "source": "The Guardian",
-      "published_at": "2026-06-20T04:00:53+00:00",
-      "summary": "Czech’s audacious defiance of Sepp Maier in Belgrade has slipped into football folklore: ‘The only disadvantage is that I don’t get any royalties from it’ Antonin Panenka laughs like a bear might, a low rumble, suggesting mischief among the memories. He is sat in an office at Boh",
-      "teams": [
-        "Germany"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "a694d6e491e9",
-      "title": "The Super Bowl winner's son stepping into spotlight with USA",
-      "url": "https://www.bbc.com/sport/football/articles/ckg4qvedjkwo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-19T23:31:23+00:00",
-      "summary": "Alex Freeman is stepping out of the shadows of his Super Bowl-winning father to forge his own path in football.",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "133fb7b29025",
-      "title": "Earps 'doesn't know' if she's ready for spotlight again",
-      "url": "https://www.bbc.com/sport/football/articles/c30y8ed8vdmo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-19T18:07:34+00:00",
-      "summary": "Former England goalkeeper Mary Earps does not know if she is ready to be back in the spotlight after signing for the London City Lionesses.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "c49716f5db08",
-      "title": "‘People think I’ve vanished’: Mary Earps on signing for London City and feeling forgotten",
-      "url": "https://www.theguardian.com/football/2026/jun/19/mary-earps-london-city-lionesses-signing-interview",
-      "source": "The Guardian",
-      "published_at": "2026-06-19T12:30:32+00:00",
-      "summary": "Former England goalkeeper discusses why it was time to leave Paris, the lure of her new club and when she will know it is time to stop When Mary Earps signed for Wolfsburg eight years ago, shortly after they had played in the Women’s Champions League final, there was no club phot",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "8fbcbfb859e3",
-      "title": "'Era of the spy': Mauricio Pochettino spotted looking for spies – video",
-      "url": "https://www.theguardian.com/football/video/2026/jun/19/era-of-spy-mauricio-pochettino-spotted-looking-for-spies-video",
-      "source": "The Guardian",
-      "published_at": "2026-06-19T11:21:41+00:00",
-      "summary": "Guardian journalist Pablo Iglesias Maurer captured the US manager Mauricio Pochettino taking a video appearing to look for spies at his team's training ground.&nbsp;“I wanted to see, because you know, we're in an era of, how you say: spy,” he told reporters at his pre-match press",
-      "teams": [
-        "Australia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "217c85ef8af8",
-      "title": "London City Lionesses sign ex-England keeper Earps",
-      "url": "https://www.bbc.com/sport/football/articles/c8x2jjyl5kqo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-19T11:00:18+00:00",
-      "summary": "Former England goalkeeper Mary Earps joins London City Lionesses on a two-year deal after leaving Paris St-Germain.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "54062d0ec163",
-      "title": "ITV wins World Cup ratings battle with BBC in tournament’s first week",
-      "url": "https://www.theguardian.com/football/2026/jun/19/itv-wins-world-cup-ratings-battle-bbc-first-week-england-croatia",
-      "source": "The Guardian",
-      "published_at": "2026-06-19T10:53:56+00:00",
-      "summary": "England v Croatia attracted year’s highest UK TV figures BBC opted for more first-pick games in knockout stages ITV is winning the UK television ratings battle after the first week of the World Cup. Viewing figures from Barb (the Broadcasters’ Audience Research Board) show the ch",
-      "teams": [
-        "England",
-        "Croatia"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "7e327055ea0c",
-      "title": "Players are human beings and social media comments reach us. But the focus has to be on the pitch | Rodrygo",
-      "url": "https://www.theguardian.com/football/2026/jun/19/players-are-human-beings-and-social-media-comments-reach-us-but-the-focus-has-to-be-on-the-pitch",
-      "source": "The Guardian",
-      "published_at": "2026-06-19T07:00:26+00:00",
-      "summary": "The pressure of wearing the Brazil shirt can be heavy but also creates a positive kind of responsibility Playing in a World Cup is a huge experience; when you’re with the national team, your entire focus is on the squad’s schedule – the hotel, the training centre, the stadium – b",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "9c64da4ad4e6",
-      "title": "Beever-Jones set to sign new deal at Chelsea",
-      "url": "https://www.bbc.com/sport/football/articles/czrx8vd2yvdo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-18T17:56:08+00:00",
-      "summary": "England international Aggie Beever-Jones is expected to stay at Chelsea this summer with a new deal extending her stay.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "38490d76d95b",
-      "title": "David Squires on … the Socceroos’ World Cup so far and a tasty clash with the USA to come",
-      "url": "https://www.theguardian.com/football/picture/2026/jun/19/socceroos-world-cup-so-far-david-squires-cartoon",
-      "source": "The Guardian",
-      "published_at": "2026-06-18T15:00:08+00:00",
-      "summary": "Our cartoonist looks at Australia’s involvement at the tournament, with a place in the knockout phase tantalisingly close ⚽️ How to watch the Socceroos | World Cup newsletter ⚽️ Daily podcast | Download the app Continue reading...",
-      "teams": [
-        "USA",
-        "Australia"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "bf933f61af12",
-      "title": "'It's just a statistic': Messi on tying all-time World Cup scoring record – video",
-      "url": "https://www.theguardian.com/football/video/2026/jun/17/its-just-a-statistic-messi-on-tying-all-time-world-cup-scoring-record-video",
-      "source": "The Guardian",
-      "published_at": "2026-06-17T11:27:03+00:00",
-      "summary": "Lionel Messi , in his 200th cap, took another step towards solidifying his place as the greatest footballer in the history of the sport, scoring three goals and tying Germany’s Miroslav Klose for the all-time goal scoring mark in World Cup play (16). What happened on a historic n",
-      "teams": [
-        "Germany",
-        "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "ed02fc292851",
-      "title": "Which player has scored the highest percentage of their team’s goals at a World Cup? | The Knowledge",
-      "url": "https://www.theguardian.com/football/2026/jun/17/which-player-has-scored-the-highest-percentage-of-their-teams-goals-at-a-world-cup",
-      "source": "The Guardian",
-      "published_at": "2026-06-17T07:00:26+00:00",
-      "summary": "Plus: World Cup winners with no domestic honours, and why Australia are unofficial world champions Mail us with your all of your questions and answers “In 1986, Gary Lineker scored six of England’s seven World Cup goals,” writes Brendon O’Mahony. “Has anyone scored a higher propo",
-      "teams": [
-        "USA",
-        "Australia",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "80f50e072827",
-      "title": "What happened on a historic night for Argentina? ‘Messi things’ | Pablo Iglesias Maurer",
-      "url": "https://www.theguardian.com/football/2026/jun/17/lionel-messi-hat-trick-algeria-argentina-world-cup",
-      "source": "The Guardian",
-      "published_at": "2026-06-17T05:59:04+00:00",
-      "summary": "A hat-trick against Algeria equalled Miroslav Klose’s World Cup scoring record, but Messi and his teammates insist the mark doesn’t matter to him World Cup newsletter | Daily podcast | Download the app Long after the dust had settled on Argentina’s 3-0 group-stage victory over Al",
-      "teams": [
-        "Argentina",
-        "Algeria"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "dde8c3c9690c",
-      "title": "From Brazil to Haaland: must-watch World Cup group stage matches – video",
-      "url": "https://www.theguardian.com/football/video/2026/jun/16/from-brazil-to-haaland-four-must-watch-world-cup-group-stage-matches-video",
-      "source": "The Guardian",
-      "published_at": "2026-06-16T18:22:21+00:00",
-      "summary": "With the World Cup expanding to a massive 104 matches, navigating the \"morass of endless football\" can feel a bit overwhelming. Thankfully, the Guardian’s&nbsp;chief sports writer, Barney Ronay, has done the heavy lifting. He breaks down the group stage fixtures you absolutely ca",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "c01c194cfdba",
-      "title": "After Cape Verde’s heroics against Spain, more great World Cup underdog stories",
-      "url": "https://www.theguardian.com/football/2026/jun/16/after-cape-verdes-heroics-against-spain-more-great-world-cup-underdog-stories",
-      "source": "The Guardian",
-      "published_at": "2026-06-16T15:00:08+00:00",
-      "summary": "From Sparwasser being the toast of East Germany to Cameroon’s rumbling of Argentina, the finals are littered with upsets Cape Verde’s stunning draw against Spain produced some incredible statistics. The Spaniards had 27 attempts on the goal of the 40-year-old Vozinha and complete",
-      "teams": [
-        "Germany",
-        "Spain",
-        "Cape Verde",
-        "Argentina"
-      ],
-      "is_injury_related": true
     }
   ]
 }

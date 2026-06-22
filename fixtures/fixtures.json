@@ -24514,7 +24514,7 @@
       "home": "France",
       "away": "Iraq",
       "score": {
-        "home": 0,
+        "home": 1,
         "away": 0
       },
       "status": "LIVE",
@@ -24839,34 +24839,34 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-22T21:11:51.181507+00:00",
+        "captured_at": "2026-06-22T23:42:07.174196+00:00",
         "consensus": {
-          "home": 1.09,
-          "draw": 9.25,
-          "away": 25.0,
-          "over_2_5": 1.33,
-          "under_2_5": 3.27
+          "home": 1.03,
+          "draw": 15.0,
+          "away": 75.0,
+          "over_2_5": 1.7,
+          "under_2_5": 2.08
         },
         "best_book": {
           "home": {
-            "price": 1.14,
-            "book": "Coolbet"
-          },
-          "draw": {
-            "price": 15.0,
-            "book": "Unibet (FR)"
-          },
-          "away": {
-            "price": 46.0,
-            "book": "Betfair"
-          },
-          "over_2_5": {
-            "price": 1.35,
+            "price": 1.11,
             "book": "Betsson"
           },
+          "draw": {
+            "price": 20.0,
+            "book": "Coolbet"
+          },
+          "away": {
+            "price": 150.0,
+            "book": "Coolbet"
+          },
+          "over_2_5": {
+            "price": 1.8,
+            "book": "Matchbook"
+          },
           "under_2_5": {
-            "price": 3.3,
-            "book": "William Hill"
+            "price": 3.25,
+            "book": "Betsson"
           }
         }
       }
@@ -25396,17 +25396,17 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-22T21:11:51.181507+00:00",
+        "captured_at": "2026-06-22T23:42:07.174196+00:00",
         "consensus": {
-          "home": 2.3,
+          "home": 2.38,
           "draw": 3.4,
-          "away": 3.1,
-          "over_2_5": 1.91,
-          "under_2_5": 1.89
+          "away": 3.0,
+          "over_2_5": 1.86,
+          "under_2_5": 1.93
         },
         "best_book": {
           "home": {
-            "price": 2.44,
+            "price": 2.54,
             "book": "Betfair"
           },
           "draw": {
@@ -25418,11 +25418,11 @@
             "book": "Betsson"
           },
           "over_2_5": {
-            "price": 2.0,
-            "book": "Matchbook"
+            "price": 1.92,
+            "book": "Betsson"
           },
           "under_2_5": {
-            "price": 1.99,
+            "price": 2.08,
             "book": "Matchbook"
           }
         }
@@ -28131,33 +28131,33 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-22T21:11:51.181507+00:00",
+        "captured_at": "2026-06-22T23:42:07.174196+00:00",
         "consensus": {
-          "home": 6.4,
-          "draw": 4.25,
-          "away": 1.52,
-          "over_2_5": 1.9,
+          "home": 6.45,
+          "draw": 4.31,
+          "away": 1.51,
+          "over_2_5": 1.89,
           "under_2_5": 1.88
         },
         "best_book": {
           "home": {
-            "price": 7.0,
-            "book": "888sport"
+            "price": 7.02,
+            "book": "1xBet"
           },
           "draw": {
             "price": 4.5,
-            "book": "Winamax (DE)"
+            "book": "1xBet"
           },
           "away": {
             "price": 1.6,
             "book": "Betsson"
           },
           "over_2_5": {
-            "price": 2.0,
+            "price": 2.02,
             "book": "Matchbook"
           },
           "under_2_5": {
-            "price": 1.99,
+            "price": 1.97,
             "book": "Matchbook"
           }
         }
