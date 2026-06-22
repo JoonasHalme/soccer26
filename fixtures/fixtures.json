@@ -28172,7 +28172,39 @@
           },
           "totals": {}
         }
-      ]
+      ],
+      "closing_odds": {
+        "captured_at": "2026-06-22T12:23:54.034088+00:00",
+        "consensus": {
+          "home": 1.45,
+          "draw": 4.39,
+          "away": 7.5,
+          "over_2_5": 1.9,
+          "under_2_5": 1.92
+        },
+        "best_book": {
+          "home": {
+            "price": 1.53,
+            "book": "GTbets"
+          },
+          "draw": {
+            "price": 4.6,
+            "book": "Betfair"
+          },
+          "away": {
+            "price": 8.6,
+            "book": "Betfair"
+          },
+          "over_2_5": {
+            "price": 2.0,
+            "book": "Matchbook"
+          },
+          "under_2_5": {
+            "price": 1.98,
+            "book": "Matchbook"
+          }
+        }
+      }
     },
     {
       "id": "m-058",
