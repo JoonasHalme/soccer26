@@ -24503,10 +24503,10 @@
       "home": "France",
       "away": "Iraq",
       "score": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "odds": {
         "home": 1.08,
         "draw": 12.0,
@@ -24977,25 +24977,25 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-22T17:47:27.639238+00:00",
+        "captured_at": "2026-06-22T21:11:51.181507+00:00",
         "consensus": {
-          "home": 1.08,
-          "draw": 12.0,
-          "away": 29.0,
-          "over_2_5": 1.32,
-          "under_2_5": 3.25
+          "home": 1.09,
+          "draw": 9.25,
+          "away": 25.0,
+          "over_2_5": 1.33,
+          "under_2_5": 3.27
         },
         "best_book": {
           "home": {
-            "price": 1.13,
-            "book": "1xBet"
+            "price": 1.14,
+            "book": "Coolbet"
           },
           "draw": {
             "price": 15.0,
-            "book": "Sky Bet"
+            "book": "Unibet (FR)"
           },
           "away": {
-            "price": 36.0,
+            "price": 46.0,
             "book": "Betfair"
           },
           "over_2_5": {
@@ -25003,8 +25003,8 @@
             "book": "Betsson"
           },
           "under_2_5": {
-            "price": 3.45,
-            "book": "Nordic Bet"
+            "price": 3.3,
+            "book": "William Hill"
           }
         }
       }
@@ -25532,7 +25532,39 @@
           },
           "totals": {}
         }
-      ]
+      ],
+      "closing_odds": {
+        "captured_at": "2026-06-22T21:11:51.181507+00:00",
+        "consensus": {
+          "home": 2.3,
+          "draw": 3.4,
+          "away": 3.1,
+          "over_2_5": 1.91,
+          "under_2_5": 1.89
+        },
+        "best_book": {
+          "home": {
+            "price": 2.44,
+            "book": "Betfair"
+          },
+          "draw": {
+            "price": 3.55,
+            "book": "Betsson"
+          },
+          "away": {
+            "price": 3.25,
+            "book": "Betsson"
+          },
+          "over_2_5": {
+            "price": 2.0,
+            "book": "Matchbook"
+          },
+          "under_2_5": {
+            "price": 1.99,
+            "book": "Matchbook"
+          }
+        }
+      }
     },
     {
       "id": "m-053",
@@ -27433,10 +27465,10 @@
       "home": "Argentina",
       "away": "Austria",
       "score": {
-        "home": 1,
+        "home": 2,
         "away": 0
       },
-      "status": "LIVE",
+      "status": "FINISHED",
       "odds": {
         "home": 1.52,
         "draw": 3.75,
@@ -28359,7 +28391,39 @@
           },
           "totals": {}
         }
-      ]
+      ],
+      "closing_odds": {
+        "captured_at": "2026-06-22T21:11:51.181507+00:00",
+        "consensus": {
+          "home": 6.4,
+          "draw": 4.25,
+          "away": 1.52,
+          "over_2_5": 1.9,
+          "under_2_5": 1.88
+        },
+        "best_book": {
+          "home": {
+            "price": 7.0,
+            "book": "888sport"
+          },
+          "draw": {
+            "price": 4.5,
+            "book": "Winamax (DE)"
+          },
+          "away": {
+            "price": 1.6,
+            "book": "Betsson"
+          },
+          "over_2_5": {
+            "price": 2.0,
+            "book": "Matchbook"
+          },
+          "under_2_5": {
+            "price": 1.99,
+            "book": "Matchbook"
+          }
+        }
+      }
     },
     {
       "id": "m-059",
