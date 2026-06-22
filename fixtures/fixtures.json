@@ -18843,10 +18843,10 @@
       "home": "New Zealand",
       "away": "Egypt",
       "score": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 3
       },
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "odds": {
         "home": 6.0,
         "draw": 4.0,
@@ -21637,7 +21637,7 @@
         "home": 2,
         "away": 2
       },
-      "status": "LIVE",
+      "status": "FINISHED",
       "odds": {
         "home": 1.41,
         "draw": 4.35,
