@@ -24975,7 +24975,39 @@
           },
           "totals": {}
         }
-      ]
+      ],
+      "closing_odds": {
+        "captured_at": "2026-06-22T17:47:27.639238+00:00",
+        "consensus": {
+          "home": 1.08,
+          "draw": 12.0,
+          "away": 29.0,
+          "over_2_5": 1.32,
+          "under_2_5": 3.25
+        },
+        "best_book": {
+          "home": {
+            "price": 1.13,
+            "book": "1xBet"
+          },
+          "draw": {
+            "price": 15.0,
+            "book": "Sky Bet"
+          },
+          "away": {
+            "price": 36.0,
+            "book": "Betfair"
+          },
+          "over_2_5": {
+            "price": 1.35,
+            "book": "Betsson"
+          },
+          "under_2_5": {
+            "price": 3.45,
+            "book": "Nordic Bet"
+          }
+        }
+      }
     },
     {
       "id": "m-052",
@@ -27401,10 +27433,10 @@
       "home": "Argentina",
       "away": "Austria",
       "score": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "odds": {
         "home": 1.52,
         "draw": 3.75,
@@ -27772,34 +27804,34 @@
         }
       ],
       "closing_odds": {
-        "captured_at": "2026-06-22T12:23:54.034088+00:00",
+        "captured_at": "2026-06-22T17:47:27.639238+00:00",
         "consensus": {
-          "home": 1.45,
-          "draw": 4.39,
-          "away": 7.5,
-          "over_2_5": 1.9,
-          "under_2_5": 1.92
+          "home": 1.18,
+          "draw": 6.0,
+          "away": 19.0,
+          "over_2_5": 2.0,
+          "under_2_5": 1.75
         },
         "best_book": {
           "home": {
-            "price": 1.53,
-            "book": "GTbets"
+            "price": 1.65,
+            "book": "Pinnacle"
           },
           "draw": {
-            "price": 4.6,
+            "price": 6.8,
             "book": "Betfair"
           },
           "away": {
-            "price": 8.6,
+            "price": 36.0,
             "book": "Betfair"
           },
           "over_2_5": {
-            "price": 2.0,
+            "price": 2.16,
             "book": "Matchbook"
           },
           "under_2_5": {
-            "price": 1.98,
-            "book": "Matchbook"
+            "price": 1.92,
+            "book": "Betsson"
           }
         }
       }
