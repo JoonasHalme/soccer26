@@ -24514,10 +24514,10 @@
       "home": "France",
       "away": "Iraq",
       "score": {
-        "home": 1,
+        "home": 3,
         "away": 0
       },
-      "status": "LIVE",
+      "status": "FINISHED",
       "odds": {
         "home": 1.02,
         "draw": 21.0,
@@ -24880,10 +24880,10 @@
       "home": "Norway",
       "away": "Senegal",
       "score": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 2
       },
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "odds": {
         "home": 2.32,
         "draw": 3.4,
@@ -27615,10 +27615,10 @@
       "home": "Jordan",
       "away": "Algeria",
       "score": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "odds": {
         "home": 6.4,
         "draw": 4.25,
