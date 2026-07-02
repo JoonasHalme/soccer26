@@ -1,10 +1,346 @@
 {
-  "generated_at": "2026-07-01T23:40:00.046715+00:00",
+  "generated_at": "2026-07-02T04:18:33.599756+00:00",
   "sources": [
     "BBC Sport",
-    "The Guardian"
+    "The Guardian",
+    "ESPN"
   ],
   "items": [
+    {
+      "id": "26d145dd5c7d",
+      "title": "USMNT's multifaceted win vs. Bosnia-Herzegovina bo...",
+      "url": "https://www.espn.com/soccer/story/_/id/49244675/usmnt-multifaceted-win-vs-bosnia-herzegovina-bodes-well-world-cup-hopes",
+      "source": "ESPN",
+      "published_at": "2026-07-02T05:10:43+00:00",
+      "summary": "The U.S. has found a winning formula at this World Cup, but it had to pivot vs. Bosnia-Herzegovina. It worked, and now a World Cup run looks possible.",
+      "teams": [
+        "Bosnia & Herzegovina",
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "12c77528f7e3",
+      "title": "How a small Oregon town became a Mexican soccer stronghold",
+      "url": "https://www.espn.com/soccer/story/_/id/49190018/how-mexico-world-cup-run-brought-small-oregon-town-life",
+      "source": "ESPN",
+      "published_at": "2026-07-02T05:05:29+00:00",
+      "summary": "The World Cup melds communities, cultures, homelands and those left behind. In Woodburn, Oregon, soccer is more than just a game.",
+      "teams": [
+        "Mexico"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "c91000ada981",
+      "title": "Veteran Belgium rage against the dying of the ligh...",
+      "url": "https://www.espn.com/soccer/story/_/id/49243140/belgium-defeat-senegal-world-cup-round-32-youri-tielemans-ismaila-sarr",
+      "source": "ESPN",
+      "published_at": "2026-07-02T04:54:17+00:00",
+      "summary": "Belgium showed incredible character in rallying from down 2-0 to defeat Senegal in extra time. Was their comeback a sign of things to come, or one last flourish from a golden generation of players?",
+      "teams": [
+        "Belgium",
+        "Senegal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "0e40cefb66dd",
+      "title": "World Cup VAR review: Did Belgium deserve penalty ...",
+      "url": "https://www.espn.com/soccer/story/_/id/49027532/world-cup-2026-var-review-red-card-penalty-handball-goal-line-technology",
+      "source": "ESPN",
+      "published_at": "2026-07-02T04:54:17+00:00",
+      "summary": "For the tournament, we are taking a look at the major incidents to examine and explain the process in terms of both VAR protocol and the laws of the game.",
+      "teams": [
+        "Belgium"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "c22bc0dc3023",
+      "title": "Will Folarin Balogun’s World Cup red card be struck off? No",
+      "url": "https://www.theguardian.com/football/2026/jul/01/folarin-balogun-red-card-world-cup-appeal-usmnt",
+      "source": "The Guardian",
+      "published_at": "2026-07-02T03:53:43+00:00",
+      "summary": "Automatic one-game ban for red card cannot be appealed US can only appeal to change length of ban if increased Folarin Balogun’s red card was the only damper on the United States’ 2-1 win over Bosnia and Herzegovina on Wednesday night to reach the World Cup last 16. The decision ",
+      "teams": [
+        "Bosnia & Herzegovina",
+        "USA",
+        "Belgium"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "42b16900f54b",
+      "title": "USA march on but will Balogun red card prove costly?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgjx07ql6v0o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-02T03:53:14+00:00",
+      "summary": "Mauricio Pochettino's USA side set up a World Cup last-16 meeting with Belgium, but how costly will forward Folarin Balogun's red card prove?",
+      "teams": [
+        "USA",
+        "Belgium"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "4ef848dee44f",
+      "title": "Kane delivers for England at vital moment in drama...",
+      "url": "https://www.espn.com/soccer/story/_/id/49239386/england-harry-kane-delivers-dramatic-world-cup-win-vs-congo-dr",
+      "source": "ESPN",
+      "published_at": "2026-07-02T03:30:32+00:00",
+      "summary": "Where would England be without their captain and star striker Harry Kane? The answer in this particular case is \"probably flying back to London.\"",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "488afb560c70",
+      "title": "World Cup VAR review: England deserved penalty for...",
+      "url": "https://www.espn.com/soccer/story/_/id/49238553/world-cup-2026-var-review-england-penalty-foul-harry-kane-congo",
+      "source": "ESPN",
+      "published_at": "2026-07-02T03:30:32+00:00",
+      "summary": "null",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ab36243ffe30",
+      "title": "Balogun red-carded in USMNT clash with Bosnia",
+      "url": "https://www.espn.com/soccer/story/_/id/49243703/usa-folarin-balogun-red-card-bosnia-herzegovina-world-cup-2026",
+      "source": "ESPN",
+      "published_at": "2026-07-02T03:18:55+00:00",
+      "summary": "Folarin Balogun's star turn at this World Cup went sideways early in the second half Wednesday night, as the American forward was sent off against Bosnia-Herzegovina.",
+      "teams": [
+        "Bosnia & Herzegovina",
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "942a17e11d10",
+      "title": "Belgium pull off stunning rally, eliminate Senegal...",
+      "url": "https://www.espn.com/soccer/story/_/id/49240489/belgium-stunning-comeback-eliminate-senegal",
+      "source": "ESPN",
+      "published_at": "2026-07-02T03:14:29+00:00",
+      "summary": "Youri Tielemans scored from the penalty spot in stoppage time of extra time, and Belgium came back from two goals down to beat Senegal 3-2 Wednesday in the round of 32 at the World Cup.",
+      "teams": [
+        "Belgium",
+        "Senegal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "c92bfeff246e",
+      "title": "USMNT beats Bosnia for 1st WC KO win since '02",
+      "url": "https://www.espn.com/soccer/story/_/id/49243502/usa-bosnia-herzegovina-2026-fifa-world-cup-knockout-round-32",
+      "source": "ESPN",
+      "published_at": "2026-07-02T03:14:28+00:00",
+      "summary": "The USMNT beat Bosnia-Herzegovina 2-0 in the World Cup round of 32 on Wednesday night for its first knockout win since 2002.",
+      "teams": [
+        "Bosnia & Herzegovina",
+        "USA"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "1b6062068485",
+      "title": "Kane passes Pelé WC goals total in England win",
+      "url": "https://www.espn.com/soccer/story/_/id/49237509/harry-kane-breaks-pele-world-cup-goals-tally",
+      "source": "ESPN",
+      "published_at": "2026-07-02T03:14:28+00:00",
+      "summary": "Harry Kane has surpassed Pelé's World Cup goals total after scoring two goals against Congo DR on Wednesday to bring his goal tally to 13 and lead England to a 2-1 victory and a spot in the round of 16 at the World Cup.",
+      "teams": [
+        "DR Congo",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "cda3f498f685",
+      "title": "'Icons' Modric, Ronaldo look to avoid WC send-off",
+      "url": "https://www.espn.com/soccer/story/_/id/49241567/croatia-portugal-luka-modric-cristiano-ronaldo-2026-world-cup",
+      "source": "ESPN",
+      "published_at": "2026-07-02T03:14:28+00:00",
+      "summary": "Luka Modric and Cristiano Ronaldo are \"two great icons of world football,\" Portugal midfielder Vitinha said on Wednesday ahead of his team's clash with Croatia.",
+      "teams": [
+        "Portugal",
+        "Croatia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ce3b3ae51f3e",
+      "title": "Bayern sign Morocco WCup goalscorer Saibari",
+      "url": "https://www.espn.com/soccer/story/_/id/49238268/morocco-world-cup-goalscorer-ismael-saibari-joins-bayern-munich",
+      "source": "ESPN",
+      "published_at": "2026-07-02T03:14:28+00:00",
+      "summary": "New Bayern Munich signing Ismael Saibari admits head coach Vincent Kompany played a key role in his decision to join from PSV Eindhoven.",
+      "teams": [
+        "Morocco"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b518706932b3",
+      "title": "Balogun scores & sees red as USA beat Bosnia",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cp8r61l7g12o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-02T03:11:24+00:00",
+      "summary": "Folarin Balogun scores and is later sent off as the United States advance past a lacklustre Bosnia-Herzegovina in Santa Clara to reach the last 16 of the World Cup.",
+      "teams": [
+        "Bosnia & Herzegovina",
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "4688ad91b0bf",
+      "title": "Germany are no longer a tournament team and must reconnect with our own identity | Philipp Lahm",
+      "url": "https://www.theguardian.com/football/2026/jul/02/germany-no-longer-tournament-team-must-reconnect-with-own-identity-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-07-02T02:59:08+00:00",
+      "summary": "Germany’s third early World Cup exit in a row is not down to a lack of talent or the name of the coach, but not knowing how they want to play I am stunned. Germany have been eliminated early from a World Cup for the third time in a row. I need time to recover from this. The key w",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "1cce441312b4",
+      "title": "Steely USA overcome Bosnia and Herzegovina and controversial red to reach World Cup last 16",
+      "url": "https://www.theguardian.com/football/2026/jul/01/usa-bosnia-and-herzegovina-game-report-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-07-02T02:44:56+00:00",
+      "summary": "The US had their hands on their heads. Weston McKennie’s face betrayed a look of total disbelief. Mauricio Pochettino waved his hands towards the sky, incredulous. Folarin Balogun had been sent off after a seemingly innocent collision with Bosnia and Herzegovina’s Tarik Muharemov",
+      "teams": [
+        "Bosnia & Herzegovina",
+        "USA"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "8985591c4629",
+      "title": "France have Kylian Mbappé but are so much more -- ...",
+      "url": "https://www.espn.com/soccer/story/_/id/49229908/france-mbappe-unbeatable-fifa-world-cup-sweden",
+      "source": "ESPN",
+      "published_at": "2026-07-02T02:21:48+00:00",
+      "summary": "How do you beat a team with so much attacking firepower? If France's win over Sweden is any indication, it might be impossible.",
+      "teams": [
+        "Sweden",
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8c89a2ff1c2d",
+      "title": "When it comes to Norway's World Cup dreams, it's a...",
+      "url": "https://www.espn.com/soccer/story/_/id/49228507/norway-ivory-coast-erling-haaland-fifa-world-cup-round-32-analysis",
+      "source": "ESPN",
+      "published_at": "2026-07-02T02:21:48+00:00",
+      "summary": "While he has a very talented and capable supporting cast, Norway's dreams of World Cup glory rest on the shoulders, and goals, of Erling Haaland.",
+      "teams": [
+        "Norway"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "35cd89aa8349",
+      "title": "Goalscorer Balogun sent off for USA",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cpv3xzyr73po",
+      "source": "BBC Sport",
+      "published_at": "2026-07-02T02:12:05+00:00",
+      "summary": "USA forward Folarin Balogun is shown a straight red card for a challenge on Bosnia-Herzegovina's Tarik Muharemovic during their World Cup match.",
+      "teams": [
+        "Bosnia & Herzegovina",
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "7c5c5acc8e5c",
+      "title": "Latest ever winner, comeback and controversy - Senegal's remarkable exit",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg8e2ezvzyo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-02T01:28:40+00:00",
+      "summary": "Late drama, controversy, history and heartbreak - the World Cup last-32 tie between Belgium and Senegal had everything.",
+      "teams": [
+        "Belgium",
+        "Senegal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6526cd5889ef",
+      "title": "Balogun gives USA deserved lead over Bosnia",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c77ymxvm8kdo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-02T01:15:26+00:00",
+      "summary": "Folarin Balogun gives the USA the lead against Bosnia-Herzegovina in their round of 32 match at the San Francisco Bay Area Stadium.",
+      "teams": [
+        "Bosnia & Herzegovina",
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ee10681a80c0",
+      "title": "What it feels like to pull off a World Cup upset: ...",
+      "url": "https://www.espn.com/soccer/story/_/id/49224073/world-cup-upsets-shocks-ireland-italy-1994-paraguay-germany-2026-cape-verde",
+      "source": "ESPN",
+      "published_at": "2026-07-02T00:16:25+00:00",
+      "summary": "Paraguay's win over Germany in the round of 32 is the latest World Cup shock in a long line of them, including famous upsets like Ireland over Italy in 1994 and Norway over Brazil in 1998. What's it feel like to beat a giant?",
+      "teams": [
+        "Brazil",
+        "Paraguay",
+        "Germany",
+        "Norway"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "44979eabe51b",
+      "title": "Why did England struggle against DR Congo - and what can they learn?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cewqzvnw5v7o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-02T00:07:51+00:00",
+      "summary": "A tactical analysis of England's victory over DR Congo - and what it might teach them for their next World Cup match against Mexico.",
+      "teams": [
+        "Mexico",
+        "DR Congo",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "033e373c584b",
+      "title": "Sarr fires home to double Senegal's lead against Belgium",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cy8dgm0015no",
+      "source": "BBC Sport",
+      "published_at": "2026-07-01T23:43:34+00:00",
+      "summary": "Ismaila Sarr shows off his speed to get on the end of Moussa Niakhaté's long ball, before slamming the ball into the net to put Senegal further in control of their World Cup round of 32 clash against Belgium.",
+      "teams": [
+        "Belgium",
+        "Senegal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8ac610415ffa",
+      "title": "Tielemans scores late extra-time penalty in dramatic end to match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c1wy5wwpxw7o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-01T23:40:23+00:00",
+      "summary": "Youri Tielemans scores a dramatic late penalty in extra time to see Belgium advance to the last 16 after a 3-2 victory over Senegal in Seattle.",
+      "teams": [
+        "Belgium",
+        "Senegal"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "d1d45ef5d405",
       "title": "Tielemans scores late extra-time penalty to send Belgium into last 16",
@@ -15,19 +351,6 @@
       "teams": [
         "Belgium",
         "Senegal"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "cca6f8906bb3",
-      "title": "USA v Bosnia and Herzegovina: World Cup 2026 last 32 – live",
-      "url": "https://www.theguardian.com/football/live/2026/jul/01/usa-v-bosnia-and-herzegovina-world-cup-2026-last-32-live",
-      "source": "The Guardian",
-      "published_at": "2026-07-01T23:12:10+00:00",
-      "summary": "⚽️ Kick-off time: 5pm local/10am AEST/1am BST/8pm EDT ⚽️ Player guide | Golden Boot | Bracket | Mail Beau No surprise whatsoever for the co-hosts … USA: Freese; Ream, Richards, Freeman; Robinson, Dest; Tillman, McKennie, Adams, Pulisic; Balogun Continue reading...",
-      "teams": [
-        "Bosnia & Herzegovina",
-        "USA"
       ],
       "is_injury_related": false
     },
@@ -50,10 +373,8 @@
       "url": "https://www.theguardian.com/football/2026/jul/01/belgium-senegal-2026-world-cup-last-32-match-report",
       "source": "The Guardian",
       "published_at": "2026-07-01T22:58:29+00:00",
-      "summary": "A seesawing classic of a contest had just ticked into the 122nd ­minute, penalties all but a formality, when the referee, Saíd Martínez, wandered back towards the centre circle to award Belgium a stoppage-time penalty. The VAR, Guillermo Pacheco Larios, had highlighted Lamine Kam",
+      "summary": "This time Senegal’s players did not depart the field prematurely owing to a burning sense of injustice, as they did in the Africa Cup of Nations final in January, but they did exit another knockout match aggrieved after Belgium advanced to the last 16 deep in extra time. The winn",
       "teams": [
-        "Germany",
-        "Netherlands",
         "Belgium",
         "Senegal"
       ],
@@ -131,6 +452,19 @@
       "source": "BBC Sport",
       "published_at": "2026-07-01T21:23:18+00:00",
       "summary": "England came from behind to beat DR Congo and reach the last 16 of the World Cup, but did the momentum noticeably swing their way after the hydration breaks?",
+      "teams": [
+        "DR Congo",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "a5ffe74040ec",
+      "title": "Harry Kane the one who saves Tuchel as England avoid another traumatic exit | Barney Ronay",
+      "url": "https://www.theguardian.com/football/2026/jul/01/harry-kane-saves-england-a-moment-of-generational-trauma-in-waiting",
+      "source": "The Guardian",
+      "published_at": "2026-07-01T20:51:22+00:00",
+      "summary": "Captain played in deep horror of Iceland defeat and he rescued an England team who were sliding towards disaster Well maybe, you’re gonna be the one that saves me. On a wild, boisterous, often agonising afternoon under the giant Victorian railway dome of the Atlanta Stadium, the ",
       "teams": [
         "DR Congo",
         "England"
@@ -217,19 +551,6 @@
       "is_injury_related": false
     },
     {
-      "id": "663a00b38b85",
-      "title": "Gordon was 'already celebrating' before Kane had scored the winner",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6210y2y2zdo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-01T19:21:48+00:00",
-      "summary": "Anthony Gordon praises England's \"togetherness\" in their 2-1 victory over DR Congo in their round of 32 match in Atlanta.",
-      "teams": [
-        "DR Congo",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "7d9319c560b6",
       "title": "Energy and team spirit at highest level - Tuchel",
       "url": "https://www.bbc.co.uk/sport/football/videos/cg53njjvnljo",
@@ -308,20 +629,6 @@
       "is_injury_related": false
     },
     {
-      "id": "d5f44f08050b",
-      "title": "Kane to the rescue with late double as England edge past DR Congo into last 16",
-      "url": "https://www.theguardian.com/football/2026/jul/01/england-dr-congo-world-cup-2026-last-32-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-07-01T18:00:44+00:00",
-      "summary": "Thomas Tuchel’s mission to put a second World Cup star on the England shirt did not look as though it would reach the second knockout round. On a fraught and chaotic occasion in Atlanta, his team flirted aggressively with disaster. For 75 minutes, England mixed loose defending wi",
-      "teams": [
-        "Senegal",
-        "DR Congo",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "f5454657be16",
       "title": "England sneak through - but who had a nightmare start? Player ratings",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg5x35zx04o",
@@ -361,19 +668,6 @@
       "is_injury_related": false
     },
     {
-      "id": "332f1a09eb19",
-      "title": "'What a save!' - Rashford's effort blocked on line by Wan-Bissaka",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwyl8z0de7xo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-01T17:26:29+00:00",
-      "summary": "Marcus Rashford's effort is cleared off the line by Aaron Wan-Bissaka as England go close to an equaliser against DR Congo in their round of 32 game in Atlanta.",
-      "teams": [
-        "DR Congo",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "740912a25ad5",
       "title": "Could Rangers make Ferguson marquee signing?",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3vy70r52wko",
@@ -386,53 +680,51 @@
       "is_injury_related": false
     },
     {
-      "id": "ed6272505ca2",
-      "title": "Pundits split on Kane penalty claim",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crlw4ykp3x3o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-01T17:18:32+00:00",
-      "summary": "Micah Richards, Joe Hart, Wayne Rooney and Darren Cann debate whether England should have had a penalty after Harry Kane went down under a challenge from DR Congo goalkeeper Lionel Mpasi-Nzau.",
+      "id": "357c5c536d63",
+      "title": "Transfer rumors, news: USMNT's Pulisic on six-man ...",
+      "url": "https://www.espn.com/soccer/story/_/id/49234121/transfer-rumors-news-usmnt-pulisic-six-man-liverpool-shortlist",
+      "source": "ESPN",
+      "published_at": "2026-07-01T16:57:30+00:00",
+      "summary": "USMNT star Christian Pulisic could be headed back to the Premier League. Transfer Talk has the latest.",
       "teams": [
-        "DR Congo",
-        "England"
+        "USA"
       ],
       "is_injury_related": false
     },
     {
-      "id": "ff076b1b66de",
-      "title": "Should England have been awarded a penalty?",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx23dzznk0go",
-      "source": "BBC Sport",
-      "published_at": "2026-07-01T17:08:08+00:00",
-      "summary": "England's appeals for a penalty are waved away after DR Congo goalkeeper Lionel Mpasi appears to bring down Harry Kane.",
+      "id": "104ca6212f9a",
+      "title": "Do Brazil have a plan? One big question for every ...",
+      "url": "https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon",
+      "source": "ESPN",
+      "published_at": "2026-07-01T16:44:01+00:00",
+      "summary": "As this week sees the World Cup field cut from 32 to 16, we're wondering what the biggest issue is for each team still in the tournament -- like can France win if they don't control possession?",
       "teams": [
-        "DR Congo",
-        "England"
+        "Brazil",
+        "France"
       ],
       "is_injury_related": false
     },
     {
-      "id": "89ace2c8d5d2",
-      "title": "'Wonderful finish' - Cipenga gives DR Congo shock lead against England",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cjdg9vp3m1po",
-      "source": "BBC Sport",
-      "published_at": "2026-07-01T16:30:09+00:00",
-      "summary": "Brian Cipenga gives DR Congo an early lead against England during their World Cup last-32 match in Atlanta.",
+      "id": "c53df01fd6a4",
+      "title": "Copy of Mexico send a World Cup message from 'Fortress Azt...",
+      "url": "https://www.espn.com/soccer/story/_/id/49232997/mexico-send-world-cup-message-fortress-azteca-fans-aid-win-ecuador",
+      "source": "ESPN",
+      "published_at": "2026-07-01T16:43:29+00:00",
+      "summary": "The Estadio Azteca was deafening on Tuesday night as Mexico picked up their first win in a World Cup knockout match in 40 years.",
       "teams": [
-        "DR Congo",
-        "England"
+        "Mexico"
       ],
-      "is_injury_related": false
+      "is_injury_related": true
     },
     {
-      "id": "23cab4f2af36",
-      "title": "German police raid national football HQ over Euro 2024 corruption allegations",
-      "url": "https://www.theguardian.com/football/2026/jul/01/german-police-raid-national-football-hq-over-euro-2024-corruption-allegations",
+      "id": "12a903ebb052",
+      "title": "Liverpool complete £60m Jacquet deal as Chelsea tie up £47m Palestra move",
+      "url": "https://www.theguardian.com/football/2026/jul/01/liverpool-sign-jeremy-jacquet-rennes",
       "source": "The Guardian",
-      "published_at": "2026-07-01T16:00:03+00:00",
-      "summary": "Operation concerns ‘unauthorised favours’ in host cities Bribery involving tickets is suspected, Bild reports Police in Germany have raided the national football federation headquarters and other sites across the country as part of an investigation into alleged corruption involvi",
+      "published_at": "2026-07-01T15:56:18+00:00",
+      "summary": "20-year-old centre-back moves to Anfield from Rennes Italy right-back signs seven-year deal at Blues Jérémy Jacquet has officially completed his £60m move to Liverpool from Rennes, while Chelsea have announced the £47m signing of the Atalanta right-back Marco Palestra. Liverpool ",
       "teams": [
-        "Germany"
+        "France"
       ],
       "is_injury_related": false
     },
@@ -461,6 +753,19 @@
         "France"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "607bca171d22",
+      "title": "Unfit stars, wasting chances: Are Spain still amon...",
+      "url": "https://www.espn.com/soccer/story/_/id/49227164/are-european-champions-spain-world-cup-favorites",
+      "source": "ESPN",
+      "published_at": "2026-07-01T14:15:24+00:00",
+      "summary": "They may have booked a round-of-32 tie vs. Austria as group winners, but Spain's performances raised doubts about the team and coach Luis de la Fuente.",
+      "teams": [
+        "Spain",
+        "Austria"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "2f6e7caa16d6",
@@ -642,18 +947,6 @@
       "is_injury_related": false
     },
     {
-      "id": "4596ca1ca01b",
-      "title": "Koeman resigns, while Netherlands report racist abuse",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly0g1y3v00o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-30T22:30:26+00:00",
-      "summary": "Ronald Koeman resigns as Netherlands manager after their World Cup exit, which led to \"appalling\" racist abuse aimed at players who missed penalties.",
-      "teams": [
-        "Netherlands"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "cc8f62b18011",
       "title": "Defying logic - how Haaland could end up with 260 international goals",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvge3wkn1v7o",
@@ -739,302 +1032,6 @@
         "Scotland"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "c84fa4e0d776",
-      "title": "Who did it best? USA 1994 versus World Cup 2026 – then and now",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now",
-      "source": "The Guardian",
-      "published_at": "2026-06-30T13:00:06+00:00",
-      "summary": "From the hairstyles to the stadiums, the kits to the celebrations, we take a look at the changing face of the game. Tap on the images below to fade between the visuals It’s 32 years since Diego Maradona went berserk down the barrel of a TV camera after scoring for Argentina; sinc",
-      "teams": [
-        "USA",
-        "Argentina"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "83800a5f2c7f",
-      "title": "David Squires on … World Cup penalty pain for Germany and the Netherlands",
-      "url": "https://www.theguardian.com/football/picture/2026/jun/30/david-squires-on-world-cup-penalty-pain-germany-netherlands",
-      "source": "The Guardian",
-      "published_at": "2026-06-30T11:30:05+00:00",
-      "summary": "Our cartoonist on the latest knockout drama as Jonathan Tah does a Chris Waddle and Casemiro has a brat summer Buy David’s cartoons | Some of his favourite works And his latest book, Chaos in the Box: get it now Continue reading...",
-      "teams": [
-        "Germany",
-        "Netherlands"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "673cfaaec1bc",
-      "title": "The Paraguay hero who sold his kit when his son was born",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c75yelwge25o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-30T11:28:48+00:00",
-      "summary": "Orlando Gill has become Paraguay's World Cup hero but was in football obscurity 18 months ago and had to sell his kit to support his family after the premature birth of his son.",
-      "teams": [
-        "Paraguay"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e22569cf1ff2",
-      "title": "Spurs sign Norway keeper Panengstuen from SK Brann",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c17y8ll8148o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-30T08:33:18+00:00",
-      "summary": "Norwegian international goalkeeper Selma Panengstuen says it is a \"dream\" move to join Women's Super League side Tottenham.",
-      "teams": [
-        "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "a11e466d2d8e",
-      "title": "My World Cup memory: heartbreak in the exam hall for England v Brazil in 2002 – video",
-      "url": "https://www.theguardian.com/football/video/2026/jun/30/my-world-cup-memory-heartbreak-in-the-exam-hall-for-england-v-brazil-in-2002-video",
-      "source": "The Guardian",
-      "published_at": "2026-06-30T08:20:07+00:00",
-      "summary": "Where were you when Ronaldinho lobbed David Seaman in England’s quarter-final game against Brazil at the 2002 World Cup? Our head of newsletters, Toby Moses, was sitting in an exam hall for his English A Level exam. It was heartbreak for England more than two decades ago, but per",
-      "teams": [
-        "Brazil",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "7b2611d1ce46",
-      "title": "From developing photos in a toilet to a viral Messi shot: 40 years shooting the World Cup – video",
-      "url": "https://www.theguardian.com/artanddesign/video/2026/jun/30/from-developing-photos-in-a-toilet-to-a-viral-messi-shot-40-years-shooting-the-world-cup-video",
-      "source": "The Guardian",
-      "published_at": "2026-06-30T07:27:37+00:00",
-      "summary": "From taking the photo that became the most-liked post on Instagram as of recording, to developing film in the stadium toilets, legendary World Cup photographer Shaun Botterill speaks with Guardian Australia's picture editor, Carly Earl, about how capturing the World Cup has chang",
-      "teams": [
-        "Australia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "78c4aad7d5af",
-      "title": "How DR Congo’s football team became a rare source of national unity",
-      "url": "https://www.theguardian.com/football/2026/jun/30/dr-congo-england-yoane-wissa-2026-world-cup-last-32",
-      "source": "The Guardian",
-      "published_at": "2026-06-30T07:00:42+00:00",
-      "summary": "Historic run to the last 32 and a match against England have left proud fans back home dancing late into the night The Democratic Republic of the Congo (DRC) had not been at a World&nbsp;Cup finals tournament for 52 years – but they are making up for lost time in North America. A",
-      "teams": [
-        "Portugal",
-        "DR Congo",
-        "Uzbekistan",
-        "Colombia",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "ab804ac016e7",
-      "title": "Morocco win wild penalty shootout as Netherlands pay heavy price for misses",
-      "url": "https://www.theguardian.com/football/2026/jun/30/netherlands-morocco-world-cup-2026-last-32-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-06-30T04:10:40+00:00",
-      "summary": "Morocco’s players set off in pursuit of Ismael Saibari and, once they had caught up, lost one another in a pile of exhilarated bodies. Maybe they are about to do it all again and make a heavy dent in the latter stages of a World Cup. This was certainly a huge hurdle cleared and t",
-      "teams": [
-        "Morocco",
-        "Netherlands",
-        "Spain"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "d1f0fa30cd8d",
-      "title": "45 minutes from Brazil 'humiliation' - but 'Crafty Carlo' does it again",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c17yzyy8ldko",
-      "source": "BBC Sport",
-      "published_at": "2026-06-29T22:14:31+00:00",
-      "summary": "Half-time in Houston and Brazil's players trudged off facing another early World Cup exit. But we should have known better than to doubt Carlo Ancelotti.",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "cddc7c8b854b",
-      "title": "Football Daily | Canada see off South Africa but fail to quench our endless World Cup thirst",
-      "url": "https://www.theguardian.com/football/2026/jun/29/canada-south-africa-brazil-netherlands-world-cup",
-      "source": "The Guardian",
-      "published_at": "2026-06-29T15:46:27+00:00",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Following the bumper end to the record-breaking group stage in which a whopping 16 Geopolitics World Cup matches were completed over 54 hours, Football Daily has now gone – at the time of writing – nearly 36 hours with just one ",
-      "teams": [
-        "South Africa",
-        "Canada",
-        "Uruguay",
-        "DR Congo",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "455ebf5b7436",
-      "title": "The World Cup’s two competing realities: brilliant action and off-field injustices | Jonathan Wilson",
-      "url": "https://www.theguardian.com/football/2026/jun/29/world-cup-criticism",
-      "source": "The Guardian",
-      "published_at": "2026-06-29T14:55:37+00:00",
-      "summary": "All of the critiques of this tournament have proven valid and warranted, even as the action on the pitch has delighted us • Predict the winner | Daily podcast | Download our app The football has taken over. Ultimately, that’s what always happens. Football is an incredibly resilie",
-      "teams": [
-        "Iran",
-        "Algeria",
-        "Austria"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "3ca977091ea3",
-      "title": "Harsh reality behind Scotland fans' calls for Moyes & Postecoglou",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8kew413jjo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-29T14:31:43+00:00",
-      "summary": "Some Scotland fans are dreaming of David Moyes or Ange Postecoglou replacing Steve Clarke, but could either man be a realistic prospect?",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e2a4df5b4414",
-      "title": "Kerr joins NWSL side Gotham FC",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg5n027vrgo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-29T14:25:57+00:00",
-      "summary": "Australian international Sam Kerr has joined Gotham FC on a four-year deal following her departure from Chelsea.",
-      "teams": [
-        "Australia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e6b7f82a5596",
-      "title": "Clarke says standing down 'easy' decision after World Cup exit",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3ry1jyzpejo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-29T09:25:31+00:00",
-      "summary": "Steve Clarke says it was an easy decision to step down as Scotland head coach because he always planned to depart if they did not reach the knockout stage.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "6ab6146b738f",
-      "title": "Pampered, protected & primed - so why didn't Scotland players perform?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdr4nz0m74go",
-      "source": "BBC Sport",
-      "published_at": "2026-06-29T06:04:56+00:00",
-      "summary": "Scotland's players got everything they asked for at this World Cup. So why did they not perform on the pitch in the US?",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "d20d13735187",
-      "title": "World Cup glory could all come down to penalties. What’s the best strategy?",
-      "url": "https://www.theguardian.com/football/2026/jun/28/world-cup-glory-could-all-come-down-to-penalties-whats-the-best-strategy",
-      "source": "The Guardian",
-      "published_at": "2026-06-28T11:00:11+00:00",
-      "summary": "As the knockout stages begin, penalties are inevitable. What do the stats say about the best ways to take them? The 2022 World Cup final was a nail-biting affair, decided by a penalty shootout after Argentina and France were evenly matched with three goals apiece . Argentina subs",
-      "teams": [
-        "France",
-        "Argentina"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "b5cc66ed02cc",
-      "title": "England last-32 tie on BBC - see full schedule",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy1ynv34ko",
-      "source": "BBC Sport",
-      "published_at": "2026-06-28T05:00:17+00:00",
-      "summary": "England's World Cup last-32 game against DR Congo will be shown live on BBC One and BBC iPlayer, with all 16 first knockout round ties covered across BBC Sport.",
-      "teams": [
-        "DR Congo",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "1969fb49d702",
-      "title": "'Bye-bye, Scotland' - Clarke's leaving letter to Tartan Army",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74yxdq1ky0o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-28T00:52:22+00:00",
-      "summary": "Steve Clarke's letter to the Scotland fans in full following his departure as head coach.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "51de39c10663",
-      "title": "‘I dreaded the World Cup but am now embracing it’: how the tournament won over (most) people in host cities",
-      "url": "https://www.theguardian.com/football/2026/jun/27/world-cup-tournament-won-over-host-cities-us-canada-mexico-joy-colour-noise",
-      "source": "The Guardian",
-      "published_at": "2026-06-27T07:00:34+00:00",
-      "summary": "Excitement was muted before the event , but the joy, noise and colour from visiting fans has captivated people in the US, Canada and Mexico • Do you live in a host city? We want to hear from you While Kansas City is the smallest of the 16 host cities, it has a history of punching",
-      "teams": [
-        "Mexico",
-        "Canada"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "a7c9fde954f0",
-      "title": "Pattinson signs new deal with London City Lionesses",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly02qzep7qo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-26T13:10:16+00:00",
-      "summary": "London City Lionesses has announced England defender Poppy Pattinson has extended her contract until summer 2029.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "348f2877142d",
-      "title": "‘You better remember where you were watching’: 30 years on from England’s loss to Germany at Euro 96",
-      "url": "https://www.theguardian.com/football/2026/jun/26/thirty-years-of-hurt-england-germany-euro-96",
-      "source": "The Guardian",
-      "published_at": "2026-06-26T07:00:13+00:00",
-      "summary": "With those words on 26 June 1996, Des Lynam ended his coverage of England’s defeat by Germany, one of the most unforgettable nights in English tournament history. So we did … Des Lynam ended the BBC’s coverage of that European Championship semi-final between England and Germany o",
-      "teams": [
-        "Germany",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "6a5cbd89e832",
-      "title": "Fifa unites the world – in anger at hydration breaks (AKA ad breaks) | Barney Ronay",
-      "url": "https://www.theguardian.com/football/2026/jun/26/fifa-unites-the-world-in-anger-at-hydration-breaks-aka-ad-breaks",
-      "source": "The Guardian",
-      "published_at": "2026-06-26T04:00:09+00:00",
-      "summary": "Fans, players and coaches have voiced their indignation at the way the game is massively altered by the four-quarter structure With 22 minutes gone on Tuesday night at Boston Stadium, and an injury delay in train, a clutch of England and Ghana players wandered to the side of the ",
-      "teams": [
-        "England",
-        "Ghana"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "6315c3640521",
-      "title": "Is five-match ban for Qatar's Madibo excessive?",
-      "url": "https://www.bbc.co.uk/sport/articles/c6210561g95o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-25T19:25:29+00:00",
-      "summary": "Our Ask Me Anything team look at whether Madibo's punishment for his challenge on Kone was proportionate.",
-      "teams": [
-        "Qatar"
-      ],
-      "is_injury_related": true
     }
   ]
 }
