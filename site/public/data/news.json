@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T14:26:21.898675+00:00",
+  "generated_at": "2026-07-02T17:00:03.551143+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -7,11 +7,11 @@
   "items": [
     {
       "id": "4919eb64cf93",
-      "title": "Government considers U-turn over extending pub hours for England v Mexico",
+      "title": "Pubs allowed to stay open until 5am for England Mexico match",
       "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o",
       "source": "BBC Sport",
-      "published_at": "2026-07-02T14:13:23+00:00",
-      "summary": "The government had initially said it would not relax licensing laws further than they already have been for the World Cup.",
+      "published_at": "2026-07-02T16:55:59+00:00",
+      "summary": "The government had initially said it would not relax licensing laws further for the World Cup.",
       "teams": [
         "Mexico",
         "England"
@@ -20,20 +20,58 @@
     },
     {
       "id": "5cc2120019d9",
-      "title": "World Cup 2026: England, USA and Belgium through; Spain and Portugal face last-32 tests – live",
+      "title": "World Cup 2026: Klopp linked with Germany job; Spain and Portugal face last-32 tests – live",
       "url": "https://www.theguardian.com/football/live/2026/jul/02/world-cup-2026-england-and-belgium-fight-back-spain-v-austria-buildup-and-more-live",
       "source": "The Guardian",
-      "published_at": "2026-07-02T14:12:37+00:00",
+      "published_at": "2026-07-02T16:36:46+00:00",
       "summary": "⚽ All the latest news from day 22 of the tournament ⚽ Bracketology | Knockout stage draw | And email us And I appreciate all this has been forgotten because England won but Harry Kane should have been awarded a first-half penalty. When a goalkeeper slides and does not get the bal",
       "teams": [
         "Bosnia & Herzegovina",
-        "USA",
-        "Belgium",
+        "Germany",
         "Spain",
         "Portugal",
         "England"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "bdcb20bd0a70",
+      "title": "Keir Starmer to allow pubs to stay open until 5am for England v Mexico match",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/02/starmer-pubs-stay-open-england-mexico-match-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-07-02T16:24:05+00:00",
+      "summary": "PM says ‘whole country will be backing the team’ for 1am game, as licensing hours extended after fierce backlash World Cup live – latest updates Pubs will be able to stay open until 5am on Monday for the England World Cup match against Mexico, after an intervention from Keir Star",
+      "teams": [
+        "Mexico",
+        "DR Congo",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "426133887258",
+      "title": "Premier League clubs interested in Japan's Nakamura",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2j8e99g7ko",
+      "source": "BBC Sport",
+      "published_at": "2026-07-02T15:52:35+00:00",
+      "summary": "Japan winger Keito Nakamura is keen to move to the Premier League this summer after attracting interest from several clubs, following his impressive World Cup performances.",
+      "teams": [
+        "Japan"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8b28606be359",
+      "title": "Egyptian-Australians grapple with a ‘bittersweet’ dilemma: who to support in the World Cup?",
+      "url": "https://www.theguardian.com/football/2026/jul/02/egypt-australia-socceroos-pharaohs-diaspora-who-to-support-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-07-02T15:00:03+00:00",
+      "summary": "The Egyptian diaspora are ‘addicted to football’ and will be in full voice when the Pharaohs take on the Socceroos. For some it’s a ‘win-win situation’ ⚽️ When do the Socceroos play Egypt in their next game? ⚽️ Full Socceroos coverage | Player guide If you want to know how Egypti",
+      "teams": [
+        "Australia",
+        "Egypt"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "64e593b69711",
@@ -48,21 +86,6 @@
       "is_injury_related": true
     },
     {
-      "id": "c92bbe88179e",
-      "title": "World Cup Q&A: England reporter Jacob Steinberg answers your questions – live",
-      "url": "https://www.theguardian.com/football/live/2026/jul/02/world-cup-qa-ask-england-reporter-jacob-steinberg-your-questions-now",
-      "source": "The Guardian",
-      "published_at": "2026-07-02T14:10:55+00:00",
-      "summary": "Jacob was in Atlanta last night to witness England’s Harry Kane-led comeback against DR Congo. He is online now answering all your questions about the Three Lions’ chances against Mexico, England’s defensive frailties and anything else you’d like to know Sign in or sign up to pos",
-      "teams": [
-        "Mexico",
-        "Ecuador",
-        "DR Congo",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "625031399dad",
       "title": "Malik Tillman’s bloody sock game rockets into US World Cup history",
       "url": "https://www.theguardian.com/football/2026/jul/02/malik-tillman-free-kick-bloody-sock-broken-boot-usmnt-world-cup",
@@ -74,6 +97,18 @@
         "USA"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "e7092cb17f1c",
+      "title": "More than the Score",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nwf11z",
+      "source": "BBC Sport",
+      "published_at": "2026-07-02T13:48:00+00:00",
+      "summary": "Can co-hosts USA surpass their last 16 run of 1994?",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "886b4d522069",
@@ -284,18 +319,6 @@
       "is_injury_related": false
     },
     {
-      "id": "f5f9b9c3567f",
-      "title": "Lopes will relish Messi duel, says Cape Verde defender's mother",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c07yjj5j299o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-02T07:02:26+00:00",
-      "summary": "The prospect of facing World Cup record goalscorer Lionel Messi in a knockout game would strike fear into most defenders, but not Roberto Lopes, according to the Cape Verde defender's mother.",
-      "teams": [
-        "Cape Verde"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "690fec4c4940",
       "title": "Modric and Ronaldo reunited at World Cup as Croatia aim to snap Portugal’s streak",
       "url": "https://www.theguardian.com/football/2026/jul/02/modric-ronaldo-reunited-world-cup-croatia-portugal",
@@ -471,6 +494,20 @@
       "is_injury_related": false
     },
     {
+      "id": "a88375ca0123",
+      "title": "Tielemans’ controversial late penalty caps Belgium comeback over Senegal",
+      "url": "https://www.theguardian.com/football/2026/jul/01/belgium-senegal-2026-world-cup-last-32-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-07-01T22:58:29+00:00",
+      "summary": "This time Senegal’s players did not depart the field prematurely owing to a burning sense of injustice, as they did in the Africa Cup of Nations final in January, but they did exit another knockout match aggrieved after Belgium advanced to the last 16 deep in extra time. The winn",
+      "teams": [
+        "USA",
+        "Belgium",
+        "Senegal"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "1190a4cda61c",
       "title": "Tielemans & Trossard go from heated row to rescuing Belgium",
       "url": "https://www.bbc.co.uk/sport/football/videos/cvg512g38g4o",
@@ -633,19 +670,6 @@
       "source": "BBC Sport",
       "published_at": "2026-07-01T18:10:03+00:00",
       "summary": "A \"rocket\" of a strike from Harry Kane gives England a late lead against DR Congo in Atlanta.",
-      "teams": [
-        "DR Congo",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f5454657be16",
-      "title": "England sneak through - but who had a nightmare start? Player ratings",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg5x35zx04o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-01T18:00:16+00:00",
-      "summary": "BBC Sport England reporter Alex Howell rates the players after the World Cup comeback win over DR Congo - plus have your say.",
       "teams": [
         "DR Congo",
         "England"
@@ -816,19 +840,6 @@
       "is_injury_related": false
     },
     {
-      "id": "f9673ba078e6",
-      "title": "Panenka to Paraguay: Germany’s 50-year penalty shootout streak is over",
-      "url": "https://www.theguardian.com/football/2026/jun/30/germany-50-year-penalty-shootout-dominance-over-world-cup-2026",
-      "source": "The Guardian",
-      "published_at": "2026-06-30T14:15:30+00:00",
-      "summary": "Germany once scored 22 consecutive penalties in major tournament shootouts. They missed three as Paraguay won 4-3 from the spot Germany were knocked out of the 2026 World Cup on penalties, an outcome that feels unbelievable to anyone who has watched international football over th",
-      "teams": [
-        "Paraguay",
-        "Germany"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "3d3409aed4a0",
       "title": "Why new Scotland head coach has tricky task",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yzqrq0e9do",
@@ -907,32 +918,6 @@
       "is_injury_related": true
     },
     {
-      "id": "ab804ac016e7",
-      "title": "Morocco win wild penalty shootout as Netherlands pay heavy price for misses",
-      "url": "https://www.theguardian.com/football/2026/jun/30/netherlands-morocco-world-cup-2026-last-32-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-06-30T04:10:40+00:00",
-      "summary": "Morocco’s players set off in pursuit of Ismael Saibari and, once they had caught up, lost one another in a pile of exhilarated bodies. Maybe they are about to do it all again and make a heavy dent in the latter stages of a World Cup. This was certainly a huge hurdle cleared and t",
-      "teams": [
-        "Morocco",
-        "Netherlands",
-        "Spain"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "d1f0fa30cd8d",
-      "title": "45 minutes from Brazil 'humiliation' - but 'Crafty Carlo' does it again",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c17yzyy8ldko",
-      "source": "BBC Sport",
-      "published_at": "2026-06-29T22:14:31+00:00",
-      "summary": "Half-time in Houston and Brazil's players trudged off facing another early World Cup exit. But we should have known better than to doubt Carlo Ancelotti.",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "cddc7c8b854b",
       "title": "Football Daily | Canada see off South Africa but fail to quench our endless World Cup thirst",
       "url": "https://www.theguardian.com/football/2026/jun/29/canada-south-africa-brazil-netherlands-world-cup",
@@ -988,19 +973,6 @@
       "is_injury_related": true
     },
     {
-      "id": "b5cc66ed02cc",
-      "title": "England last-32 tie on BBC - see full schedule",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy1ynv34ko",
-      "source": "BBC Sport",
-      "published_at": "2026-06-28T05:00:17+00:00",
-      "summary": "England's World Cup last-32 game against DR Congo will be shown live on BBC One and BBC iPlayer, with all 16 first knockout round ties covered across BBC Sport.",
-      "teams": [
-        "DR Congo",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "348f2877142d",
       "title": "‘You better remember where you were watching’: 30 years on from England’s loss to Germany at Euro 96",
       "url": "https://www.theguardian.com/football/2026/jun/26/thirty-years-of-hurt-england-germany-euro-96",
@@ -1051,6 +1023,31 @@
         "USA"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "b2aea9d175f2",
+      "title": "Playing at a World Cup is unforgettable but it requires every ounce of your dedication | Rodrygo",
+      "url": "https://www.theguardian.com/football/2026/jun/25/world-cup-rodrygo-brazil-schedule-dedication",
+      "source": "The Guardian",
+      "published_at": "2026-06-25T17:15:54+00:00",
+      "summary": "I savour the memory of playing for Brazil at the 2022 tournament – but it was a privilege that took effort For a player the World Cup day begins with everyone gathering in the restaurant for breakfast at the scheduled time. Buffet options are determined by the nutritionist, who s",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "d71828366c4c",
+      "title": "The difference between Gareth Southgate and Thomas Tuchel is not that simple | Cath Bishop",
+      "url": "https://www.theguardian.com/football/2026/jun/25/world-cup-gareth-southgate-thomas-tuchel-difference-england",
+      "source": "The Guardian",
+      "published_at": "2026-06-25T13:27:44+00:00",
+      "summary": "The assumption that the England coach gave his team a rocket against Croatia at half-time is wrong. In fact he did the opposite We’ve completed the Southgate leadership lessons and now we find ourselves at the beginning of the Tuchelosophy course. We can already see some of the k",
+      "teams": [
+        "England",
+        "Croatia"
+      ],
+      "is_injury_related": false
     }
   ]
 }
