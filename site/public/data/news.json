@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T18:45:42.172742+00:00",
+  "generated_at": "2026-07-02T20:36:37.915710+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian",
@@ -8,13 +8,51 @@
   "items": [
     {
       "id": "aa5cb4e8d822",
-      "title": "World Cup daily: Balogun celly in USMNT win gets L...",
+      "title": "Follow live: Spain score again, take commanding le...",
       "url": "https://www.espn.com/soccer/story/_/id/49244994/world-cup-daily-spain-portugal-action-round-32-continues",
       "source": "ESPN",
-      "published_at": "2026-07-02T19:37:23+00:00",
-      "summary": "Follow live for the latest analysis, reaction and news as the FIFA World Cup round of 32 continues.",
+      "published_at": "2026-07-02T21:28:57+00:00",
+      "summary": "null",
       "teams": [
-        "USA"
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b9ec6e2521c0",
+      "title": "Spain v Austria: World Cup 2026 last 32 – live",
+      "url": "https://www.theguardian.com/football/live/2026/jul/02/spain-v-austria-world-cup-2026-last-32-live",
+      "source": "The Guardian",
+      "published_at": "2026-07-02T20:31:33+00:00",
+      "summary": "⚽️ Kick-off time: 12pm local/3pm EDT/8pm BST/5am AEST ⚽️ Player guide | Bracketology | The full draw | Golden Boot 1 min Lamine Yamal works Alexander Schlager inside the first minute with a low shot from 20 yards after a sharp Spain break. 1 min And they’re off. Continue reading.",
+      "teams": [
+        "Spain",
+        "Austria"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "fbff657cd8b4",
+      "title": "'Spain are furious' - Cucurella has goal ruled out",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5yzx952jy3o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-02T20:17:07+00:00",
+      "summary": "Marc Cucurella sees his goal ruled out for a foul on Austrian goalkeeper Alexander Schlager during their round of 32 game in Los Angeles.",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "acc1040a8a32",
+      "title": "'It had been coming' - Oyarzabal puts Spain ahead",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cvge042v5k7o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-02T20:00:00+00:00",
+      "summary": "Mikel Oyarzabal gives Spain the lead against Austria, during their World Cup round of 32 match in Los Angeles.",
+      "teams": [
+        "Spain",
+        "Austria"
       ],
       "is_injury_related": false
     },
@@ -108,16 +146,27 @@
       "is_injury_related": false
     },
     {
-      "id": "b9ec6e2521c0",
-      "title": "Spain v Austria: World Cup 2026 last 32 – live",
-      "url": "https://www.theguardian.com/football/live/2026/jul/02/spain-v-austria-world-cup-2026-last-32-live",
-      "source": "The Guardian",
-      "published_at": "2026-07-02T18:35:18+00:00",
-      "summary": "⚽️ Kick-off time: 12pm local/3pm EDT/8pm BST/5am AEST ⚽️ Player guide | Bracketology | The full draw | Golden Boot Thomas Tuchel says England will be at a “huge” disadvantage in the high altitude of Mexico City on Sunday when they face Mexico in the last 16 of the World Cup as he",
+      "id": "39077cc745a7",
+      "title": "Secret location & sleep devices: England bid to combat noisy Mexico fans",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c74y7jwj30eo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-02T19:26:15+00:00",
+      "summary": "England are taking precautions to ensure boisterous locals do not disrupt their preparations in Mexico.",
       "teams": [
         "Mexico",
-        "Spain",
-        "Austria",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8e8382648dc9",
+      "title": "Tuchel wants young England fans to stay up for 1am World Cup clash - but should they?",
+      "url": "https://www.bbc.co.uk/news/articles/ckg40qedq57o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-02T19:22:43+00:00",
+      "summary": "England's must-win match against Mexico kicks off at 01:00 BST on Monday - disco naps and spoiler-free recaps may be needed.",
+      "teams": [
+        "Mexico",
         "England"
       ],
       "is_injury_related": false
@@ -127,7 +176,7 @@
       "title": "Pubs allowed to stay open until 5am for England Mexico match",
       "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o",
       "source": "BBC Sport",
-      "published_at": "2026-07-02T18:24:02+00:00",
+      "published_at": "2026-07-02T18:45:49+00:00",
       "summary": "The government had initially said it would not relax licensing laws further for the World Cup.",
       "teams": [
         "Mexico",
@@ -137,7 +186,7 @@
     },
     {
       "id": "2070eef8028a",
-      "title": "Ghosts of the Azteca: England return to scene of infamous Maradona handball",
+      "title": "Azteca avengers? England return to scene of infamous Maradona handball",
       "url": "https://www.theguardian.com/football/2026/jul/02/azteca-england-diego-maradona-handball-mexico-world-cup",
       "source": "The Guardian",
       "published_at": "2026-07-02T18:00:06+00:00",
@@ -200,7 +249,7 @@
     },
     {
       "id": "8b28606be359",
-      "title": "Egyptian-Australians grapple with a ‘bittersweet’ dilemma: who to support in the World Cup?",
+      "title": "Egyptian Australians grapple with a ‘bittersweet’ dilemma: who to support in the World Cup?",
       "url": "https://www.theguardian.com/football/2026/jul/02/egypt-australia-socceroos-pharaohs-diaspora-who-to-support-world-cup",
       "source": "The Guardian",
       "published_at": "2026-07-02T15:00:03+00:00",
@@ -241,7 +290,7 @@
       "url": "https://www.theguardian.com/football/2026/jul/02/malik-tillman-free-kick-bloody-sock-broken-boot-usmnt-world-cup",
       "source": "The Guardian",
       "published_at": "2026-07-02T14:00:01+00:00",
-      "summary": "The midfielder had to work hard to win his place in Mauricio Pochettino’s squad for this tournament. He is more than repaying his coach’s faith While Malik Tillman was unsure of what to expect from the United States’ last-32 clash with Bosnia and Herzegovina, he certainly must ha",
+      "summary": "The midfielder had to work hard to win his place in Mauricio Pochettino’s squad for this tournament. He is more than repaying his coach’s faith While Malik Tillman was unsure what to expect from the United States’ last-32 clash with Bosnia and Herzegovina, he certainly must have ",
       "teams": [
         "Bosnia & Herzegovina",
         "USA"
@@ -323,18 +372,6 @@
       "teams": [
         "Belgium",
         "Senegal"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "8a7683e3e234",
-      "title": "Brighton sign Austria defender Svoboda from Venezia",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2lywk1nk19o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-02T12:02:21+00:00",
-      "summary": "Brighton sign Austria defender Michael Svoboda from Serie B champions Venezia on a four-year deal.",
-      "teams": [
-        "Austria"
       ],
       "is_injury_related": false
     },
@@ -628,19 +665,6 @@
       "is_injury_related": false
     },
     {
-      "id": "7c5c5acc8e5c",
-      "title": "Latest ever winner, comeback and controversy - Senegal's remarkable exit",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg8e2ezvzyo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-02T01:28:40+00:00",
-      "summary": "Late drama, controversy, history and heartbreak - the World Cup last-32 tie between Belgium and Senegal had everything.",
-      "teams": [
-        "Belgium",
-        "Senegal"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "6526cd5889ef",
       "title": "Balogun gives USA deserved lead over Bosnia",
       "url": "https://www.bbc.co.uk/sport/football/videos/c77ymxvm8kdo",
@@ -679,19 +703,6 @@
         "Mexico",
         "DR Congo",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "033e373c584b",
-      "title": "Sarr fires home to double Senegal's lead against Belgium",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cy8dgm0015no",
-      "source": "BBC Sport",
-      "published_at": "2026-07-01T23:43:34+00:00",
-      "summary": "Ismaila Sarr shows off his speed to get on the end of Moussa Niakhaté's long ball, before slamming the ball into the net to put Senegal further in control of their World Cup round of 32 clash against Belgium.",
-      "teams": [
-        "Belgium",
-        "Senegal"
       ],
       "is_injury_related": false
     },
@@ -762,19 +773,6 @@
       "is_injury_related": false
     },
     {
-      "id": "e830ccc89665",
-      "title": "Tuchel urges parents to let kids stay up for England game",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd95g9y8k24o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-01T22:11:59+00:00",
-      "summary": "England manager Thomas Tuchel urges parents to let their children stay up to watch England take on Mexico in the last 16 of the World Cup.",
-      "teams": [
-        "Mexico",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "bee1d35dc0a6",
       "title": "Former physio tells Maddy Cusack inquest Sheffield United were struggling to support women’s team",
       "url": "https://www.theguardian.com/football/2026/jul/01/maddy-cusack-inquest-jonathan-morgan-day-three-sheffield-united",
@@ -812,19 +810,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "82284c2fcb65",
-      "title": "'He is ridiculous' - Rice praise for match-winner Kane",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cgmdlrrgezjo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-01T19:25:59+00:00",
-      "summary": "Declan Rice describes England captain Harry Kane as \"ridiculous\" after he scores twice during their World Cup victory over DR Congo in Atlanta.",
-      "teams": [
-        "DR Congo",
-        "England"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "7d9319c560b6",
@@ -885,19 +870,6 @@
       "source": "BBC Sport",
       "published_at": "2026-07-01T18:10:03+00:00",
       "summary": "A \"rocket\" of a strike from Harry Kane gives England a late lead against DR Congo in Atlanta.",
-      "teams": [
-        "DR Congo",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "2cf0a89fc822",
-      "title": "Relief for England as Kane heads in equalising goal against DR Congo",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cg4wg7lee1vo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-01T17:54:40+00:00",
-      "summary": "Harry Kane heads in from Anthony Gordon's cross as England equalise against DR Congo in their round of 32 game in Atlanta.",
       "teams": [
         "DR Congo",
         "England"
@@ -1003,19 +975,6 @@
       "is_injury_related": true
     },
     {
-      "id": "17f40f67c92b",
-      "title": "United, free and brilliant - can anyone stop France masterclass?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp8r1zdj9k5o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-01T01:07:39+00:00",
-      "summary": "France boss Didier Deschamps urges caution despite watching his side dismantle Sweden to leave Les Bleus fans dreaming of winning the World Cup.",
-      "teams": [
-        "Sweden",
-        "France"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "2ba5fb645292",
       "title": "Kylian Mbappé at the double as France swat aside Sweden in World Cup masterclass",
       "url": "https://www.theguardian.com/football/2026/jul/01/france-sweden-world-cup-2026-last-32-match-report",
@@ -1037,6 +996,45 @@
       "summary": "Men’s team relegated to National League in 2024 Club hope women’s football will return in future Forest Green Rovers have disbanded their women’s team for the 2026-27 season so that they can “concentrate their resources” on trying to return their men’s team to the English Footbal",
       "teams": [
         "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "ab40fd46144e",
+      "title": "Erling Haaland fires Norway into last 16 with dramatic winner against Côte d’Ivoire",
+      "url": "https://www.theguardian.com/football/2026/jun/30/cote-d-ivoire-norway-world-cup-2026-last-32-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-06-30T19:05:09+00:00",
+      "summary": "Decision vindicated. The Norway coach, Ståle Solbakken, had taken a major gamble in resting almost his entire side in the final group game against France, drawing stiff criticism, not least from those who had paid hundreds of dollars to witness a showdown between Erling Haaland a",
+      "teams": [
+        "Ivory Coast",
+        "France",
+        "Norway"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "3d3409aed4a0",
+      "title": "Why new Scotland head coach has tricky task",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzqrq0e9do",
+      "source": "BBC Sport",
+      "published_at": "2026-06-30T13:30:58+00:00",
+      "summary": "Steve Clarke's successor as Scotland head coach may have a tricky task to sustain the national side's success over the long term.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "83800a5f2c7f",
+      "title": "David Squires on … World Cup penalty pain for Germany and the Netherlands",
+      "url": "https://www.theguardian.com/football/picture/2026/jun/30/david-squires-on-world-cup-penalty-pain-germany-netherlands",
+      "source": "The Guardian",
+      "published_at": "2026-06-30T11:30:05+00:00",
+      "summary": "Our cartoonist on the latest knockout drama as Jonathan Tah does a Chris Waddle and Casemiro has a brat summer Buy David’s cartoons | Some of his favourite works And his latest book, Chaos in the Box: get it now Continue reading...",
+      "teams": [
+        "Germany",
+        "Netherlands"
       ],
       "is_injury_related": true
     }
