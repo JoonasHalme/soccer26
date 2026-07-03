@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T11:40:41.525935+00:00",
+  "generated_at": "2026-07-03T14:29:58.286482+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -10,7 +10,7 @@
       "title": "World Cup 2026: Germany hold Klopp talks after Nagelsmann quits; Portugal to face Spain after VAR drama – live",
       "url": "https://www.theguardian.com/football/live/2026/jul/03/world-cup-2026-portugal-spain-switzerland-australia-egypt-argentina-cape-verde-colombia-ghana-live",
       "source": "The Guardian",
-      "published_at": "2026-07-03T11:24:07+00:00",
+      "published_at": "2026-07-03T14:12:08+00:00",
       "summary": "⚽ All the latest news and reaction from the World Cup ⚽ Player guide | Bracketology | Knockout draw | Email us Julian Nagelsmann is set to resign as Germany coach , according to reports in the newspaper, Bild. It was reported ⁠on Friday ​the 38-year-old had agreed to leave follow",
       "teams": [
         "Germany",
@@ -20,12 +20,62 @@
       "is_injury_related": true
     },
     {
+      "id": "0cb6c11105e0",
+      "title": "Who has your Premiership club brought in & let go? - Summer 2026",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-03T14:08:46+00:00",
+      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "98ded66d24f6",
+      "title": "WSL newcomers Crystal Palace agree deal for Enge",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c04yxwl4qdro",
+      "source": "BBC Sport",
+      "published_at": "2026-07-03T12:19:38+00:00",
+      "summary": "Women's Super League newcomers Crystal Palace are set to sign midfielder Sierra Enge from French side Strasbourg.",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "858309574e57",
+      "title": "Mexico's unlikely hero who England could fear most",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx1l3n9dj5o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-03T12:02:36+00:00",
+      "summary": "Julian Quinones' path to being a Mexican hero has been unorthodox - and he will hope to become a legend against England on Monday morning.",
+      "teams": [
+        "Mexico",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8bb71594d069",
+      "title": "England fan tickets for Mexico on resale for up to £26K",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj3g7dxlvexo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-03T11:36:17+00:00",
+      "summary": "Tickets originally bought by England fans for Monday's last 16 game against Mexico are relisted for thousands of pounds on Fifa's official resale portal.",
+      "teams": [
+        "Mexico",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "262c74fb7476",
       "title": "Norway have finally lived up to World Cup billing – a reunion with Brazil is perfect timing | Lars Sivertsen",
       "url": "https://www.theguardian.com/football/2026/jul/03/norway-have-finally-lived-up-to-world-cup-billing-a-reunion-with-brazil-is-perfect-timing",
       "source": "The Guardian",
       "published_at": "2026-07-03T11:12:57+00:00",
-      "summary": "Ståle Solbakken’s side have surpassed previous golden generation as they prepare to meet team they beat in 1998 For a country of 5.6 million people, Norway’s list of competitive achievements is remarkable. Our winter Olympians gobble up medals at a freakish rate, our women’s hand",
+      "summary": "Ståle Solbakken’s side have surpassed previous golden generation as they prepare to meet team they beat in 1998 For a country of 5.6 million people, Norway’s list of competitive achievements is remarkable. Our Winter Olympians gobble up medals at a freakish rate, our women’s hand",
       "teams": [
         "Brazil",
         "Norway"
@@ -47,7 +97,7 @@
     },
     {
       "id": "08edd90a625b",
-      "title": "'You can't breathe' - What is it like playing at altitude?",
+      "title": "'You can't breathe' - what is it like playing at altitude?",
       "url": "https://www.bbc.co.uk/sport/football/videos/cvgle8rgj3vo",
       "source": "BBC Sport",
       "published_at": "2026-07-03T10:49:32+00:00",
@@ -68,18 +118,6 @@
       "teams": [
         "Spain",
         "Austria"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "0cb6c11105e0",
-      "title": "Who has your Premiership club brought in & let go? - Summer 2026",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-03T10:40:51+00:00",
-      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -568,18 +606,6 @@
       "is_injury_related": false
     },
     {
-      "id": "2e61b6559d13",
-      "title": "London City Lionesses sign Germany striker Anyomi",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz8xlwr25o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-02T08:06:11+00:00",
-      "summary": "Germany forward Nicole Anyomi joins London City Lionesses on a four-year contract.",
-      "teams": [
-        "Germany"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "1267e02baaed",
       "title": "A goal, a red and a LeBron James shout: Folarin Balogun gets the spotlight in US’s wild World Cup win",
       "url": "https://www.theguardian.com/football/2026/jul/01/folarin-balogun-red-card-goal-usmnt-world-cup-birthright-citizenship",
@@ -1005,33 +1031,6 @@
       "summary": "Maja Göthberg lost contract after disclosing pregnancy First successful Cas case under Fifa maternity regulations Lazio Women unlawfully ended the Swedish footballer Maja Göthberg’s time at the club because of her pregnancy, the court of arbitration for sport has ruled, ordering ",
       "teams": [
         "Sweden"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "3ef0524e8a5d",
-      "title": "Which footballers have refused to celebrate a goal against another country? | The Knowledge",
-      "url": "https://www.theguardian.com/football/2026/jun/24/international-players-refused-to-celebrate-goal-the-knowledge",
-      "source": "The Guardian",
-      "published_at": "2026-06-24T07:00:38+00:00",
-      "summary": "Plus: is Dick Advocaat unique among coaches, long waits between World Cups, and Dave Beasant revisionism Mail us with your all of your questions and answers “Sweden’s Yasin Ayari has a Tunisian father and chose not to celebrate his first goal against Tunisia (he couldn’t resist c",
-      "teams": [
-        "Switzerland",
-        "Sweden",
-        "Tunisia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "a5bad3d5f3b5",
-      "title": "Why Saudi Arabia and Iraq flags are not laid down at World Cup",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdjk2nny7peo",
-      "source": "BBC Sport",
-      "published_at": "2026-06-22T16:29:58+00:00",
-      "summary": "The flags of Saudi Arabia and Iraq are not laid on the ground during World Cup pre-match ceremonies because they include religious wording.",
-      "teams": [
-        "Saudi Arabia",
-        "Iraq"
       ],
       "is_injury_related": false
     }
