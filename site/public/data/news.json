@@ -1,159 +1,114 @@
 {
-  "generated_at": "2026-07-03T18:23:16.036264+00:00",
+  "generated_at": "2026-07-03T20:21:36.919149+00:00",
   "sources": [
     "BBC Sport",
-    "The Guardian",
-    "ESPN"
+    "The Guardian"
   ],
   "items": [
     {
-      "id": "dcd85ee990f6",
-      "title": "World Cup live updates: Egypt take early lead in r...",
-      "url": "https://www.espn.com/soccer/story/_/id/49255647/world-cup-daily-live-travel-chaos-sees-speed-miss-cristiano-ronaldo-game-messi-action",
-      "source": "ESPN",
-      "published_at": "2026-07-03T19:14:38+00:00",
-      "summary": "null",
+      "id": "f2db5ce945f2",
+      "title": "Argentina v Cape Verde: World Cup 2026 last 32 – live",
+      "url": "https://www.theguardian.com/football/live/2026/jul/03/argentina-v-cape-verde-world-cup-2026-last-32-live",
+      "source": "The Guardian",
+      "published_at": "2026-07-03T20:19:30+00:00",
+      "summary": "⚽️ Kick-off time: 6pm local/8am AEST/11pm BST ⚽️ Player guide | Bracketology | World Cup draw | Mail Tom Weather watch A big blanket of filthy heat has squatted over the east coast of the US for the last few days, but it’s actually not too bad in Miami Gardens (by Miami Gardens s",
       "teams": [
-        "Egypt"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "3e127c7822be",
-      "title": "No matter the France result, Paraguay's inspired W...",
-      "url": "https://www.espn.com/soccer/story/_/id/49254866/paraguays-inspired-return-world-cup-success",
-      "source": "ESPN",
-      "published_at": "2026-07-03T18:57:13+00:00",
-      "summary": "null",
-      "teams": [
-        "Paraguay",
-        "France"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "c0ff4e315e0e",
-      "title": "How a bad loss to France help reshape Colombia's W...",
-      "url": "https://www.espn.com/soccer/story/_/id/49245153/how-bad-loss-france-help-reshape-colombias-world-cup-campaign",
-      "source": "ESPN",
-      "published_at": "2026-07-03T18:57:08+00:00",
-      "summary": "Colombia have won their World Cup group and head into the knockout stage dreaming of a deep run, one that may have been sparked by a humbling defeat to France just months earlier.",
-      "teams": [
-        "France",
-        "Colombia"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "7e08bfe24b3a",
-      "title": "Welcome to Pete's Garden: Messi, Argentina's World...",
-      "url": "https://www.espn.com/soccer/story/_/id/49242532/world-cup-2026-kansas-city-petes-garden-food-distribution-argentina-lionel-messi",
-      "source": "ESPN",
-      "published_at": "2026-07-03T18:57:07+00:00",
-      "summary": "Pete's Garden, a nonprofit organization in Kansas City, is dedicated to minimizing food waste at the World Cup and helping families in need.",
-      "teams": [
+        "Cape Verde",
         "Argentina"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "3eaaff58812b",
-      "title": "Ronaldo pays 'special' tribute to Jota after WC wi...",
-      "url": "https://www.espn.com/soccer/story/_/id/49254330/cristiano-ronaldo-portugal-tribute-diogo-jota-croatia",
-      "source": "ESPN",
-      "published_at": "2026-07-03T18:54:47+00:00",
-      "summary": "Cristiano Ronaldo and Portugal paid an emotional tribute to former teammate Diogo Jota after their 2-1 World Cup win over Croatia in Toronto on Thursday.",
-      "teams": [
-        "Portugal",
-        "Croatia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "499aaf9a2fde",
-      "title": "FIFA: Croatia VAR call vs. Portugal was correct",
-      "url": "https://www.espn.com/soccer/story/_/id/49256422/fifa-var-correctly-denied-croatia-equaliser-portugal",
-      "source": "ESPN",
-      "published_at": "2026-07-03T18:54:43+00:00",
-      "summary": "FIFA has confirmed that Croatia's equaliser against Portugal was correctly ruled out for offside due to technology housed inside the World Cup ball.",
-      "teams": [
-        "Portugal",
-        "Croatia"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "652afc736454",
-      "title": "Postecoglou announced as Al Nassr head coach",
-      "url": "https://www.espn.com/soccer/story/_/id/49259777/ange-postecoglou-al-nassr-saudi-pro-league-cristiano-ronaldo-celtic-tottenham-australia",
-      "source": "ESPN",
-      "published_at": "2026-07-03T18:54:43+00:00",
-      "summary": "Ange Postecoglou has signed a two-year contract as coach of Saudi Pro League champions Al Nassr, linking up with Cristiano Ronaldo at the Riyadh-based team.",
-      "teams": [
-        "Saudi Arabia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "767e0799cf57",
-      "title": "Simeone: Álvarez remains central to Atleti plans",
-      "url": "https://www.espn.com/soccer/story/_/id/49256845/diego-simeone-julian-alvarez-central-atletico-madrid-plans-barcelona-interest",
-      "source": "ESPN",
-      "published_at": "2026-07-03T18:54:43+00:00",
-      "summary": "Atlético Madrid coach Diego Simeone has told ESPN he is still planning to build his team around Julián Álvarez despite Barcelona's interest in signing the wantaway Argentina forward.",
-      "teams": [
-        "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "9d9ba86c776b",
-      "title": "Nagelsmann out as Germany boss, Klopp lined up",
-      "url": "https://www.espn.com/soccer/story/_/id/49225220/julian-nagelsmann-germany-world-cup-2026",
-      "source": "ESPN",
-      "published_at": "2026-07-03T18:54:42+00:00",
-      "summary": "Julian Nagelsmann is out as the Germany head coach following the team's shock exit from the World Cup in the round of 32, with talks already being sought with Jürgen Klopp to replace him.",
-      "teams": [
-        "Germany"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "38dc38eef460",
-      "title": "Sources: USMNT cannot appeal Balogun red card",
-      "url": "https://www.espn.com/soccer/story/_/id/49248052/usmnt-cannot-appeal-folarin-balogun-red-card-face-extended-world-cup-ban-sources",
-      "source": "ESPN",
-      "published_at": "2026-07-03T18:54:42+00:00",
-      "summary": "The USMNT has no route to appeal Folarin Balogun's red card against Bosnia and Herzegovina, sources have told ESPN, and he could face an extended ban.",
-      "teams": [
-        "Bosnia & Herzegovina",
-        "USA"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "e76bd9037a6b",
-      "title": "🤔 Has Brazil really lost its World Cup aura?",
-      "url": "https://www.espn.com/soccer/story/_/id/49242526/have-brazil-lost-aura-made-defining-world-cup-team",
-      "source": "ESPN",
-      "published_at": "2026-07-03T18:54:42+00:00",
-      "summary": "Brazil used to be synonymous with the World Cup, adored for the way they played as much as for winning more than any other team. Have they lost that magic?",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "389d722fbf81",
-      "title": "Australia v Egypt: World Cup 2026 last 32 – live",
+      "title": "Australia v Egypt: World Cup 2026 last-32 tie goes to extra time – live",
       "url": "https://www.theguardian.com/football/live/2026/jul/03/australia-v-egypt-world-cup-2026-last-32-live",
       "source": "The Guardian",
-      "published_at": "2026-07-03T18:19:49+00:00",
+      "published_at": "2026-07-03T20:19:09+00:00",
       "summary": "⚽️ Kick-off time: 1pm local/2pm EDT/7pm BST/4am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Scott A message to all Australian fans who have got up early / talked the whole night through. And to think England fans are moaning about the 1am shift they’ll have to put in",
       "teams": [
         "Australia",
         "Egypt",
         "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "c8f07de8475b",
+      "title": "England v Mexico set to move to earlier kick-off time",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgmz3jyq9qo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-03T20:06:24+00:00",
+      "summary": "England's World Cup last-16 tie with Mexico is set to be moved to 19:00 BST on Sunday.",
+      "teams": [
+        "Mexico",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "670a6441eedf",
+      "title": "Chelsea sign Japan midfielder Matsukubo",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ry2g0d579o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-03T19:58:13+00:00",
+      "summary": "Chelsea sign Japan international Manaka Matsukubo on a five-year contract from North Carolina Courage.",
+      "teams": [
+        "Japan"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d80e3063f211",
+      "title": "‘It’s been surreal’: USMNT’s Folarin Balogun moves on from controversial red card",
+      "url": "https://www.theguardian.com/football/2026/jul/03/folarin-balogun-red-card-suspension-belgium-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-07-03T19:15:13+00:00",
+      "summary": "Striker’s one-match ban will not be increased Balogun says yellow card would have been fair Pepi and Wright among options against Belgium Folarin Balogun fielded questions on the morning of his 25th birthday, though the cards being discussed weren’t filled with kind notes and two",
+      "teams": [
+        "Bosnia & Herzegovina",
+        "USA",
+        "Belgium"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "a005c362ef54",
+      "title": "Get a grip on Mora and take aerial route: what England can do to contain Mexico",
+      "url": "https://www.theguardian.com/football/2026/jul/03/tactical-test-what-england-must-do-to-handle-mexicos-threat",
+      "source": "The Guardian",
+      "published_at": "2026-07-03T19:12:13+00:00",
+      "summary": "Thomas Tuchel’s team can tame the co-hosts by slowing things down and isolating Raúl Jiménez One of the question marks over Mexico’s team before this World Cup centred on a shortage of obvious star quality. That accusation does not hold any more. Gilberto Mora does not turn 18 un",
+      "teams": [
+        "Mexico",
+        "Czech Republic",
+        "Ecuador",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "dfa94913ad14",
+      "title": "England’s game against Mexico could be moved to noon local time, 7pm UK time Sunday",
+      "url": "https://www.theguardian.com/football/2026/jul/03/england-mexico-match-timing",
+      "source": "The Guardian",
+      "published_at": "2026-07-03T18:59:25+00:00",
+      "summary": "Game originally set to kick off at 6pm local time Could be rescheduled due to risk of thunderstorms Fifa is in discussions over moving the kick-off time of Mexico v England to earlier in day on Sunday due to risk of weather disruption including flooding and thunderstorms, a sourc",
+      "teams": [
+        "Mexico",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8dffb5cbd056",
+      "title": "Ashour heads Egypt into lead against Australia",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8923lk4n02o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-03T18:32:23+00:00",
+      "summary": "Emam Ashour heads Egypt into the lead against Australia in their 2026 World Cup round of 32 match in Dallas.",
+      "teams": [
+        "Australia",
+        "Egypt"
       ],
       "is_injury_related": false
     },
@@ -184,18 +139,6 @@
       "is_injury_related": false
     },
     {
-      "id": "6f2a175e9d8d",
-      "title": "Odds to win the World Cup: Spain odds shorten afte...",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "source": "ESPN",
-      "published_at": "2026-07-03T17:34:57+00:00",
-      "summary": "Odds for every team to advance through the knockout stage and to win the 2026 World Cup.",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "720f3691190a",
       "title": "Ange Postecoglou to manage Cristiano Ronaldo after landing Al-Nassr job",
       "url": "https://www.theguardian.com/football/2026/jul/03/ange-postecoglou-head-coach-al-nassr-cristiano-ronaldo",
@@ -221,6 +164,20 @@
       "is_injury_related": false
     },
     {
+      "id": "d842f563d958",
+      "title": "Facing Mexico at the Azteca? Suddenly our expectations of England are unusually realistic | Max Rushden",
+      "url": "https://www.theguardian.com/football/2026/jul/03/world-cup-mexico-azteca-altitude-england-thomas-tuchel-tactics",
+      "source": "The Guardian",
+      "published_at": "2026-07-03T17:13:01+00:00",
+      "summary": "Thomas Tuchel’s side have problems aside from the altitude: defeat in a Mexican haze would be no embarrassment It’s a warm June afternoon in 2009. The teams look uneven. At 30, I am the second-oldest player in our lineup. Lloyd, Nathan and Ben are early 20s – they can all play. M",
+      "teams": [
+        "Mexico",
+        "Germany",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "a646305e080e",
       "title": "The friends who drove from Ghana to the World Cup",
       "url": "https://www.bbc.co.uk/sport/football/videos/cvgmz5jnr37o",
@@ -241,44 +198,6 @@
       "summary": "Manchester City are in talks with Fenerbahce over a £7m deal for Netherlands defender Nathan Ake.",
       "teams": [
         "Netherlands"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "2d35625cee16",
-      "title": "How will the USMNT cope without suspended star str...",
-      "url": "https://www.espn.com/soccer/story/_/id/49256530/how-usmnt-cope-red-card-striker-folarin-balogun-world-cup-round-16-belgium",
-      "source": "ESPN",
-      "published_at": "2026-07-03T16:14:13+00:00",
-      "summary": "With Folarin Balogun controversially suspended for the USMNT's World Cup round-of-16 clash with Belgium, it's time to weigh options on how to replace him.",
-      "teams": [
-        "USA",
-        "Belgium"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "99ebacfa86cc",
-      "title": "USMNT shows it can play ugly, which is exactly wha...",
-      "url": "https://www.espn.com/soccer/story/_/id/49245810/usmnt-shows-play-ugly-world-cup-which-exactly-needs-succeed",
-      "source": "ESPN",
-      "published_at": "2026-07-03T16:14:13+00:00",
-      "summary": "This USMNT has the tools to deal with every situation, which is handy as it faces Belgium next.",
-      "teams": [
-        "USA",
-        "Belgium"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "434057874132",
-      "title": "Messi, Balogun and why two tackles have sparked Wo...",
-      "url": "https://www.espn.com/soccer/story/_/id/49252206/messi-balogun-why-two-tackles-sparked-world-cup-outrage",
-      "source": "ESPN",
-      "published_at": "2026-07-03T16:12:45+00:00",
-      "summary": "U.S. international Folarin Balogun and Argentina's Lionel Messi were at the center of controversy after similar incidents produced opposite outcomes.",
-      "teams": [
-        "Argentina"
       ],
       "is_injury_related": false
     },
@@ -309,19 +228,6 @@
       "is_injury_related": false
     },
     {
-      "id": "4609af5343ab",
-      "title": "Altitude: how does it affect players and how big is England’s disadvantage?",
-      "url": "https://www.theguardian.com/football/2026/jul/03/mexico-england-world-cup-2026-altitude",
-      "source": "The Guardian",
-      "published_at": "2026-07-03T15:02:43+00:00",
-      "summary": "England play in Mexico City on Sunday, 2,240m above sea level, and research shows high-speed running is harder and recovery is slower England have made it into the last 16 of the World Cup, and will face Mexico on Sunday (1am Monday BST). But they will also be up against another ",
-      "teams": [
-        "Mexico",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "fcaf85e1f3ac",
       "title": "What might Robinson's Aberdeen look like this season?",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4gyv1k597do",
@@ -341,32 +247,6 @@
       "published_at": "2026-07-03T14:44:31+00:00",
       "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Before Football Daily’s inbox is flooded by an angry reader with fingers busier than Arsenal fans at a Viktor Gyökores lookalike contest, we would like to shout from the rooftops that Cristiano Ronaldo is one of the greatest mal",
       "teams": [
-        "Portugal",
-        "Croatia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "0e40cefb66dd",
-      "title": "VAR review: Why were Croatia denied an equalizer d...",
-      "url": "https://www.espn.com/soccer/story/_/id/49027532/world-cup-2026-var-review-red-card-penalty-handball-goal-line-technology",
-      "source": "ESPN",
-      "published_at": "2026-07-03T14:24:35+00:00",
-      "summary": "null",
-      "teams": [
-        "Croatia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "31ba4d2e3f89",
-      "title": "Portugal snatch thrilling victory, but should Ramo...",
-      "url": "https://www.espn.com/soccer/story/_/id/49255237/portugal-snatch-victory-cristiano-ronaldo-continue",
-      "source": "ESPN",
-      "published_at": "2026-07-03T14:24:34+00:00",
-      "summary": "Portugal's dramatic win over Croatia has allowed them to advance to the last 16 of the World Cup, but they face an even bigger test in a matchup with Spain.",
-      "teams": [
-        "Spain",
         "Portugal",
         "Croatia"
       ],
@@ -415,7 +295,7 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cj3g7dxlvexo",
       "source": "BBC Sport",
       "published_at": "2026-07-03T11:36:17+00:00",
-      "summary": "Tickets originally bought by England fans for Monday's last 16 game against Mexico are relisted for thousands of pounds on Fifa's official resale portal.",
+      "summary": "Tickets originally bought by England fans for the World Cup last-16 game against Mexico are relisted for thousands of pounds on Fifa's official resale portal.",
       "teams": [
         "Mexico",
         "England"
@@ -462,30 +342,16 @@
       "is_injury_related": false
     },
     {
-      "id": "90e9b30992ec",
-      "title": "Family ties and focus: Lamine Yamal carries burden of Spain’s World Cup dream",
-      "url": "https://www.theguardian.com/football/2026/jul/03/lamine-yamal-spain-world-cup-brother-keyne",
+      "id": "04048f157f8c",
+      "title": "Germany hold Jürgen Klopp talks after Julian Nagelsmann quits as head coach",
+      "url": "https://www.theguardian.com/football/2026/jul/03/germany-hold-jurgen-klopp-talks-after-julian-nagelsmann-quits-as-head-coach",
       "source": "The Guardian",
-      "published_at": "2026-07-03T10:43:57+00:00",
-      "summary": "The 18-year-old is leading a nation’s effort to win a second title – to the delight of his three-year-old brother No one celebrated Spain’s last-32 win quite like Keyne. As the third goal against Austria went in, cameras caught Lamine Yamal’s younger brother, still only three, ra",
+      "published_at": "2026-07-03T10:36:26+00:00",
+      "summary": "Nagelsmann agrees to quit following World Cup exit Klopp to begin discussions over return to management Julian Nagelsmann will step down as Germany’s head coach after the team’s disappointing showing at the World Cup, paving the way for the former Liverpool manager Jürgen Klopp t",
       "teams": [
-        "Spain",
-        "Austria"
+        "Germany"
       ],
-      "is_injury_related": false
-    },
-    {
-      "id": "aa9185ee904a",
-      "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8ml7jv1g1o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-03T10:39:10+00:00",
-      "summary": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup.",
-      "teams": [
-        "Mexico",
-        "England"
-      ],
-      "is_injury_related": false
+      "is_injury_related": true
     },
     {
       "id": "107322cfbd29",
@@ -589,19 +455,6 @@
       "is_injury_related": false
     },
     {
-      "id": "722a433c7cce",
-      "title": "‘Now the flag is everywhere’: how World Cup success has changed life in Cape Verde",
-      "url": "https://www.theguardian.com/football/2026/jul/03/cape-verde-history-2026-world-cup-argentina-last-32",
-      "source": "The Guardian",
-      "published_at": "2026-07-03T07:00:22+00:00",
-      "summary": "The Blue Sharks will become the smallest nation in history to play a knockout match at the World Cup when they face Argentina on Friday The Festival da Gamboa is the largest music festival on Santiago Island, Cape Verde. Since its inception in the early 1990s, the small stretch o",
-      "teams": [
-        "Cape Verde",
-        "Argentina"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "ec9545999e75",
       "title": "Manzambi dazzles as Switzerland stroll into last 16 with win over Algeria",
       "url": "https://www.theguardian.com/football/2026/jul/03/manzambi-switzerland-world-cup-algeria-match-report",
@@ -690,6 +543,19 @@
       "is_injury_related": true
     },
     {
+      "id": "213431660583",
+      "title": "Ramos sends Portugal into last 16 as VAR drama caps wild finish against Croatia",
+      "url": "https://www.theguardian.com/football/2026/jul/02/portugal-croatia-world-cup-2026-last-32-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-07-03T01:32:31+00:00",
+      "summary": "Rafael Leão dropped to his knees. His cross had just been flicked into the net by Gonçalo Ramos to take Portugal to the last 16 of the World Cup. Leão’s expression was not one of delight, but relief. Billed as the last dance for two footballing icons, it was Luka Modric who, at t",
+      "teams": [
+        "Portugal",
+        "Croatia"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "03a255f02f69",
       "title": "Ronaldo levels from penalty spot for Portugal",
       "url": "https://www.bbc.co.uk/sport/football/videos/cdx7ddr5n7qo",
@@ -769,17 +635,19 @@
       "is_injury_related": true
     },
     {
-      "id": "4919eb64cf93",
-      "title": "Pubs allowed to stay open until 5am on Monday for England Mexico match",
-      "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-02T20:49:17+00:00",
-      "summary": "The government had initially said it would not relax licensing laws further for the World Cup.",
+      "id": "940b1a5e7317",
+      "title": "Mikel Oyarzabal at the double as Spain beat Austria and cruise into last 16",
+      "url": "https://www.theguardian.com/football/2026/jul/02/spain-austria-world-cup-2026-last-32-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-07-02T21:12:38+00:00",
+      "summary": "The group stage is something you have to do but the World Cup starts here, Lamine Yamal had insisted, and down on the Pacific that was how it played out. It wasn’t just that Spain defeated Austria to reach the last 16 against Portugal or Croatia, their first victory at the knocko",
       "teams": [
-        "Mexico",
-        "England"
+        "Spain",
+        "Austria",
+        "Portugal",
+        "Croatia"
       ],
-      "is_injury_related": false
+      "is_injury_related": true
     },
     {
       "id": "d6c78a813d9b",
@@ -840,19 +708,6 @@
       "summary": "BBC Scotland looks at the reasons why Scottish top-flight players could be becoming more attractive propositions.",
       "teams": [
         "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "8b28606be359",
-      "title": "Egyptian Australians grapple with a ‘bittersweet’ dilemma: who to support in the World Cup?",
-      "url": "https://www.theguardian.com/football/2026/jul/02/egypt-australia-socceroos-pharaohs-diaspora-who-to-support-world-cup",
-      "source": "The Guardian",
-      "published_at": "2026-07-02T15:00:03+00:00",
-      "summary": "The Egyptian diaspora are ‘addicted to football’ and will be in full voice when the Pharaohs take on the Socceroos. For some it’s a ‘win-win situation’ ⚽️ When do the Socceroos play Egypt in their next game? ⚽️ Full Socceroos coverage | Player guide If you want to know how Egypti",
-      "teams": [
-        "Australia",
-        "Egypt"
       ],
       "is_injury_related": false
     },
@@ -945,17 +800,16 @@
       "is_injury_related": false
     },
     {
-      "id": "b518706932b3",
-      "title": "Balogun scores & sees red as USA beat Bosnia",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cp8r61l7g12o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-02T03:11:24+00:00",
-      "summary": "Folarin Balogun scores and is later sent off as the United States advance past a lacklustre Bosnia-Herzegovina in Santa Clara to reach the last 16 of the World Cup.",
+      "id": "4688ad91b0bf",
+      "title": "Germany are no longer a tournament team and must reconnect with our own identity | Philipp Lahm",
+      "url": "https://www.theguardian.com/football/2026/jul/02/germany-no-longer-tournament-team-must-reconnect-with-own-identity-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-07-02T02:59:08+00:00",
+      "summary": "Germany’s third early World Cup exit in a row is not down to a lack of talent or the name of the coach, but not knowing how they want to play I am stunned. Germany have been eliminated early from a World Cup for the third time in a row. I need time to recover from this. The key w",
       "teams": [
-        "Bosnia & Herzegovina",
-        "USA"
+        "Germany"
       ],
-      "is_injury_related": false
+      "is_injury_related": true
     },
     {
       "id": "f2eae126f337",
@@ -971,18 +825,17 @@
       "is_injury_related": false
     },
     {
-      "id": "a88375ca0123",
-      "title": "Tielemans’ controversial late penalty caps Belgium comeback over Senegal",
-      "url": "https://www.theguardian.com/football/2026/jul/01/belgium-senegal-2026-world-cup-last-32-match-report",
+      "id": "a5ffe74040ec",
+      "title": "Harry Kane the one who saves Tuchel as England avoid another traumatic exit | Barney Ronay",
+      "url": "https://www.theguardian.com/football/2026/jul/01/harry-kane-saves-england-a-moment-of-generational-trauma-in-waiting",
       "source": "The Guardian",
-      "published_at": "2026-07-01T22:58:29+00:00",
-      "summary": "This time Senegal’s players did not depart the field prematurely owing to a burning sense of injustice, as they did in the Africa Cup of Nations final in January, but they did exit another knockout match aggrieved after Belgium advanced to the last 16 deep in extra time. The winn",
+      "published_at": "2026-07-01T20:51:22+00:00",
+      "summary": "Captain played in deep horror of Iceland defeat and he rescued an England team who were sliding towards disaster Well maybe, you’re gonna be the one that saves me. On a wild, boisterous, often agonising afternoon under the giant Victorian railway dome of the Atlanta Stadium, the ",
       "teams": [
-        "USA",
-        "Belgium",
-        "Senegal"
+        "DR Congo",
+        "England"
       ],
-      "is_injury_related": true
+      "is_injury_related": false
     },
     {
       "id": "ef7ebe41bb35",
@@ -1024,6 +877,160 @@
         "England"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "6b6b7bc79591",
+      "title": "Football Daily | France’s fab front four make them incomparable World Cup favourites",
+      "url": "https://www.theguardian.com/football/2026/jul/01/frances-fab-front-four-make-them-incomparable-world-cup-favourites",
+      "source": "The Guardian",
+      "published_at": "2026-07-01T14:45:21+00:00",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! We can all agree the Geopolitics World Cup has gone on far too long, so Football Daily is pleased to announce it is over. It monopolises everyone’s time, changes sleeping, eating and drinking patterns, leaving everyone tired and",
+      "teams": [
+        "Sweden",
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "2f6e7caa16d6",
+      "title": "‘Would you say it to someone’s face?’ Ellen White on going from player to pundit",
+      "url": "https://www.theguardian.com/football/2026/jul/01/ellen-white-england-lionesses-player-to-pundit",
+      "source": "The Guardian",
+      "published_at": "2026-07-01T12:42:36+00:00",
+      "summary": "In this week’s newsletter we speak to the Lionesses’ record scorer, who has been inducted to the hall of fame at the National Football Museum For a generation of England fans she was the talismanic striker the nation could always rely on to find the net at a major tournament, sco",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "7d8c2d8516f4",
+      "title": "All done deals in June 2026",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce9p91r771go",
+      "source": "BBC Sport",
+      "published_at": "2026-07-01T08:44:49+00:00",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "7cb967d68aeb",
+      "title": "Who has scored the most goals at a World Cup without winning the Golden Boot?",
+      "url": "https://www.theguardian.com/football/2026/jul/01/knowledge-world-cup-most-goals-without-golden-boot",
+      "source": "The Guardian",
+      "published_at": "2026-07-01T07:00:29+00:00",
+      "summary": "Plus: World Cup teams stuck on nul points and teams who broke their duck with a drubbing Mail us with your all of your questions and answers “Who has scored the most goals at a World Cup finals without winning the Golden Boot?” asks Sam Edwards. With Lionel Messi and Kylian Mbapp",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ae3b22990da5",
+      "title": "Mexico end World Cup knockout drought with last-32 win over Ecuador in Azteca cauldron",
+      "url": "https://www.theguardian.com/football/2026/jul/01/mexico-ecuador-world-cup-2026-last-32-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-07-01T04:09:56+00:00",
+      "summary": "They were held up by an electric storm but, after the skies had cleared, Mexico kept the lightning bolts coming. This was a climactic night that utterly engulfed the senses and its ramifications will be far reaching. El Tri have broken a hex that had nagged and gnawed at the nati",
+      "teams": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "f9673ba078e6",
+      "title": "Panenka to Paraguay: Germany’s 50-year penalty shootout streak is over",
+      "url": "https://www.theguardian.com/football/2026/jun/30/germany-50-year-penalty-shootout-dominance-over-world-cup-2026",
+      "source": "The Guardian",
+      "published_at": "2026-06-30T14:15:30+00:00",
+      "summary": "Germany once scored 22 consecutive penalties in major tournament shootouts. They missed three as Paraguay won 4-3 from the spot Germany were knocked out of the 2026 World Cup on penalties, an outcome that feels unbelievable to anyone who has watched international football over th",
+      "teams": [
+        "Paraguay",
+        "Germany"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "c84fa4e0d776",
+      "title": "Who did it best? USA 1994 versus World Cup 2026 – then and now",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now",
+      "source": "The Guardian",
+      "published_at": "2026-06-30T13:00:06+00:00",
+      "summary": "From the hairstyles to the stadiums, the kits to the celebrations, we take a look at the changing face of the game. Tap on the images below to fade between the visuals It’s 32 years since Diego Maradona went berserk down the barrel of a TV camera after scoring for Argentina; sinc",
+      "teams": [
+        "USA",
+        "Argentina"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "83800a5f2c7f",
+      "title": "David Squires on … World Cup penalty pain for Germany and the Netherlands",
+      "url": "https://www.theguardian.com/football/picture/2026/jun/30/david-squires-on-world-cup-penalty-pain-germany-netherlands",
+      "source": "The Guardian",
+      "published_at": "2026-06-30T11:30:05+00:00",
+      "summary": "Our cartoonist on the latest knockout drama as Jonathan Tah does a Chris Waddle and Casemiro has a brat summer Buy David’s cartoons | Some of his favourite works And his latest book, Chaos in the Box: get it now Continue reading...",
+      "teams": [
+        "Germany",
+        "Netherlands"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "a11e466d2d8e",
+      "title": "My World Cup memory: heartbreak in the exam hall for England v Brazil in 2002 – video",
+      "url": "https://www.theguardian.com/football/video/2026/jun/30/my-world-cup-memory-heartbreak-in-the-exam-hall-for-england-v-brazil-in-2002-video",
+      "source": "The Guardian",
+      "published_at": "2026-06-30T08:20:07+00:00",
+      "summary": "Where were you when Ronaldinho lobbed David Seaman in England’s quarter-final game against Brazil at the 2002 World Cup? Our head of newsletters, Toby Moses, was sitting in an exam hall for his English A Level exam. It was heartbreak for England more than two decades ago, but per",
+      "teams": [
+        "Brazil",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "7b2611d1ce46",
+      "title": "From developing photos in a toilet to a viral Messi shot: 40 years shooting the World Cup – video",
+      "url": "https://www.theguardian.com/artanddesign/video/2026/jun/30/from-developing-photos-in-a-toilet-to-a-viral-messi-shot-40-years-shooting-the-world-cup-video",
+      "source": "The Guardian",
+      "published_at": "2026-06-30T07:27:37+00:00",
+      "summary": "From taking the photo that became the most-liked post on Instagram as of recording, to developing film in the stadium toilets, legendary World Cup photographer Shaun Botterill speaks with Guardian Australia's picture editor, Carly Earl, about how capturing the World Cup has chang",
+      "teams": [
+        "Australia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1e20ee3ba433",
+      "title": "NWSL all-time record goalscorer Sam Kerr confirms league return by joining Gotham",
+      "url": "https://www.theguardian.com/football/2026/jun/29/nwsl-all-time-record-goalscorer-sam-kerr-confirms-league-return-by-joining-gotham",
+      "source": "The Guardian",
+      "published_at": "2026-06-29T16:12:33+00:00",
+      "summary": "Australia captain back in league she left in 2019 Striker won 11 major trophies in spell at Chelsea Sam Kerr is joining Gotham FC in the National Women’s Soccer League (NWSL) after spending the past six and a half years with Chelsea. Gotham announced on Monday they had signed the",
+      "teams": [
+        "Australia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "cddc7c8b854b",
+      "title": "Football Daily | Canada see off South Africa but fail to quench our endless World Cup thirst",
+      "url": "https://www.theguardian.com/football/2026/jun/29/canada-south-africa-brazil-netherlands-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-06-29T15:46:27+00:00",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Following the bumper end to the record-breaking group stage in which a whopping 16 Geopolitics World Cup matches were completed over 54 hours, Football Daily has now gone – at the time of writing – nearly 36 hours with just one ",
+      "teams": [
+        "South Africa",
+        "Canada",
+        "Uruguay",
+        "DR Congo",
+        "England"
+      ],
+      "is_injury_related": true
     }
   ]
 }
