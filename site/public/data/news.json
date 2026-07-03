@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T08:24:44.556189+00:00",
+  "generated_at": "2026-07-03T11:40:41.525935+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -7,18 +7,196 @@
   "items": [
     {
       "id": "d6981c5ecb58",
-      "title": "World Cup 2026: Portugal through to face Spain after VAR drama, Salah fit to face Australia – live",
+      "title": "World Cup 2026: Germany hold Klopp talks after Nagelsmann quits; Portugal to face Spain after VAR drama – live",
       "url": "https://www.theguardian.com/football/live/2026/jul/03/world-cup-2026-portugal-spain-switzerland-australia-egypt-argentina-cape-verde-colombia-ghana-live",
       "source": "The Guardian",
-      "published_at": "2026-07-03T08:07:03+00:00",
+      "published_at": "2026-07-03T11:24:07+00:00",
       "summary": "⚽ All the latest news and reaction from the World Cup ⚽ Player guide | Bracketology | Knockout draw | Email us Julian Nagelsmann is set to resign as Germany coach , according to reports in the newspaper, Bild. It was reported ⁠on Friday ​the 38-year-old had agreed to leave follow",
       "teams": [
-        "Australia",
         "Germany",
         "Spain",
         "Portugal"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "262c74fb7476",
+      "title": "Norway have finally lived up to World Cup billing – a reunion with Brazil is perfect timing | Lars Sivertsen",
+      "url": "https://www.theguardian.com/football/2026/jul/03/norway-have-finally-lived-up-to-world-cup-billing-a-reunion-with-brazil-is-perfect-timing",
+      "source": "The Guardian",
+      "published_at": "2026-07-03T11:12:57+00:00",
+      "summary": "Ståle Solbakken’s side have surpassed previous golden generation as they prepare to meet team they beat in 1998 For a country of 5.6 million people, Norway’s list of competitive achievements is remarkable. Our winter Olympians gobble up medals at a freakish rate, our women’s hand",
+      "teams": [
+        "Brazil",
+        "Norway"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d88597074875",
+      "title": "Argentina v Cape Verde: Breaking down biggest World Cup knockout mismatch",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c17y82qyjj4o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-03T11:01:01+00:00",
+      "summary": "Lionel Messi versus Vozinha. It is the World Cup battle no-one knew they wanted, but which fans now cannot wait to see.",
+      "teams": [
+        "Cape Verde",
+        "Argentina"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "08edd90a625b",
+      "title": "'You can't breathe' - What is it like playing at altitude?",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cvgle8rgj3vo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-03T10:49:32+00:00",
+      "summary": "BBC pundits Rachel Corsie and Lucas Leiva explain their experiences of playing football at altitude, ahead of England's game at Estadio Azteca against Mexico which sits 2,240 metres above sea level.",
+      "teams": [
+        "Mexico",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "90e9b30992ec",
+      "title": "Family ties and focus: Lamine Yamal carries burden of Spain’s World Cup dream",
+      "url": "https://www.theguardian.com/football/2026/jul/03/lamine-yamal-spain-world-cup-brother-keyne",
+      "source": "The Guardian",
+      "published_at": "2026-07-03T10:43:57+00:00",
+      "summary": "The 18-year-old is leading a nation’s effort to win a second title – to the delight of his three-year-old brother No one celebrated Spain’s last-32 win quite like Keyne. As the third goal against Austria went in, cameras caught Lamine Yamal’s younger brother, still only three, ra",
+      "teams": [
+        "Spain",
+        "Austria"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "0cb6c11105e0",
+      "title": "Who has your Premiership club brought in & let go? - Summer 2026",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-03T10:40:51+00:00",
+      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "aa9185ee904a",
+      "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8ml7jv1g1o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-03T10:39:10+00:00",
+      "summary": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup.",
+      "teams": [
+        "Mexico",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "107322cfbd29",
+      "title": "Germany want Klopp talks as Nagelsmann resigns",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8x272kyp4wo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-03T10:17:01+00:00",
+      "summary": "The German football association is seeking talks with Jurgen Klopp about becoming their men's national team coach after Julian Nagelsmann resigned.",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "00eec95caad5",
+      "title": "Aston Villa sign Norway midfielder Kielland",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp8r4dp1l6wo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-03T10:02:54+00:00",
+      "summary": "Norway midfielder Justine Kielland joins Aston Villa from German club Wolfsburg, subject to visa approval. Kielland joined Norwegian side Brann in 2023. During her time there, she helped the club reach the quarter-finals of the Women's Champions League, playing in 12 matches and ",
+      "teams": [
+        "Germany",
+        "Norway"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "aa17103e8f56",
+      "title": "England must go low against Mexico to hit heights with Total Arsenalball",
+      "url": "https://www.theguardian.com/football/2026/jul/03/total-arsenalball-england-low-block-mexico-azteca",
+      "source": "The Guardian",
+      "published_at": "2026-07-03T10:00:26+00:00",
+      "summary": "Thomas Tuchel needs to slow game down so his side can handle altitude challenge – it is time for the low block If any win will do then England do not have to worry about putting on an exhibition of attacking football against Mexico. They have no time to acclimatise to the altitud",
+      "teams": [
+        "Mexico",
+        "Ecuador",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "9cf81580a7e5",
+      "title": "Croatia snicked off late on and Ronaldo finally scores knockout goal | World Cup Daily – video",
+      "url": "https://www.theguardian.com/football/video/2026/jul/03/croatia-snicked-off-late-on-and-ronaldo-finally-scores-knockout-goal-world-cup-daily-video",
+      "source": "The Guardian",
+      "published_at": "2026-07-03T09:42:17+00:00",
+      "summary": "Max Rushden is joined by Barry Glendenning , Archie Rhind-Tutt and Jonathan Wilson as Cristiano Ronaldo breaks his World Cup knockout duck in a dramatic win over Croatia Continue reading...",
+      "teams": [
+        "Croatia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "8d5a25aa2104",
+      "title": "Lionel Messi makes his Miami homecoming with Argentina: ‘For us this is a chance to celebrate him’",
+      "url": "https://www.theguardian.com/football/2026/jul/03/lionel-messi-argentina-miami-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-07-03T09:00:24+00:00",
+      "summary": "The Albiceleste’s last-32 match against Cape Verde will see the Inter Miami star’s paths for club and country meet at last Take a walk around Miami’s Little Buenos Aires neighborhood, and nearly everyone there will tell you a story about meeting Lionel Messi. There’s the bakery e",
+      "teams": [
+        "Cape Verde",
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "5ec5ba9db388",
+      "title": "Mahrez retires from Algeria duty after World Cup exit",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn0vwn78n8do",
+      "source": "BBC Sport",
+      "published_at": "2026-07-03T08:41:00+00:00",
+      "summary": "Algeria captain Riyad Mahrez announces his retirement from international football after the Desert Foxes’ 2-0 defeat by Switzerland in the World Cup round of 32.",
+      "teams": [
+        "Switzerland",
+        "Algeria"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "88eeaae8c2b8",
+      "title": "Georgia Stanway targets trophies after sealing ‘unbelievable’ move to Arsenal",
+      "url": "https://www.theguardian.com/football/2026/jul/03/georgia-stanway-arsenal-wsl",
+      "source": "The Guardian",
+      "published_at": "2026-07-03T08:23:01+00:00",
+      "summary": "Stanway back in WSL after stint at Bayern Munich ‘This is a massive club’ says England midfielder Georgia Stanway believes Arsenal is the right place for her to win more trophies and further improve her game after completing her move to the north London club on a free transfer. S",
+      "teams": [
+        "Germany",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "9a7f0a3c365e",
+      "title": "Football Daily",
+      "url": "https://www.bbc.co.uk/sounds/play/p0ns84j8",
+      "source": "BBC Sport",
+      "published_at": "2026-07-03T08:11:00+00:00",
+      "summary": "David Villa on Spain, Messi and winning the World Cup.",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "89780a1c89ff",
@@ -31,19 +209,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "6275c8e037ca",
-      "title": "England and Tuchel take leaf out of Ramsey’s book with crossing tactics",
-      "url": "https://www.theguardian.com/football/2026/jul/03/england-thomas-tuchel-alf-ramsey-crossing-tactics-world-cup",
-      "source": "The Guardian",
-      "published_at": "2026-07-03T07:00:23+00:00",
-      "summary": "England attempted 35 crosses in open play against the DRC, their most since their World Cup winning campaign In the 2-1 victory against the Democratic Republic of the Congo (DRC) England achieved something they had not done for six decades: win a World Cup match after going 1-0 d",
-      "teams": [
-        "DR Congo",
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "722a433c7cce",
@@ -69,18 +234,6 @@
         "Australia",
         "Egypt",
         "New Zealand"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "0cb6c11105e0",
-      "title": "Who has your Premiership club brought in & let go? - Summer 2026",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-03T05:19:22+00:00",
-      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -122,19 +275,6 @@
       "is_injury_related": false
     },
     {
-      "id": "8e8382648dc9",
-      "title": "Tuchel wants young England fans to stay up for 1am World Cup clash - but should they?",
-      "url": "https://www.bbc.co.uk/news/articles/ckg40qedq57o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-03T03:26:34+00:00",
-      "summary": "England's must-win match against Mexico kicks off at 01:00 BST on Monday - disco naps and spoiler-free recaps may be needed.",
-      "teams": [
-        "Mexico",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "d4fd76df7725",
       "title": "Portugal through to last 16 after dramatic victory over Croatia",
       "url": "https://www.bbc.co.uk/sport/football/videos/cy9r11gj8lzo",
@@ -166,7 +306,7 @@
       "url": "https://www.theguardian.com/football/ng-interactive/2026/jul/03/melting-hot-when-ireland-played-mexico-in-sweltering-1994-world-cup-clash",
       "source": "The Guardian",
       "published_at": "2026-07-03T02:00:15+00:00",
-      "summary": "As the mercury rises at this year’s World Cup, we asked former Republic of Ireland players Jason McAteer and John Aldridge about the infamous match in Orlando “Some of the boys were melting,” says Jason McAteer as he recalls one of the most notorious matches in World Cup history.",
+      "summary": "As the mercury rises amid a heatwave at this year’s World Cup, we asked former Republic of Ireland players Jason McAteer and John Aldridge about the infamous match in Orlando “Some of the boys were melting,” says Jason McAteer as he recalls one of the most notorious matches in Wo",
       "teams": [
         "Mexico"
       ],
@@ -240,21 +380,6 @@
       "is_injury_related": false
     },
     {
-      "id": "0659e0e58d04",
-      "title": "Mexico City swept up in World Cup fever as El Tri capture imaginations like never before",
-      "url": "https://www.theguardian.com/football/2026/jul/02/mexico-city-world-cup-fever-el-tri-capture-imaginations-england",
-      "source": "The Guardian",
-      "published_at": "2026-07-02T21:43:17+00:00",
-      "summary": "England will arrive at the tournament’s pulsating heart to find expectations soaring and the streets and bars abuzz The shirt sellers are out en masse in the streets around Zócalo, the vast main square in Mexico City. The national team have never captured imaginations quite like ",
-      "teams": [
-        "Mexico",
-        "South Africa",
-        "Ecuador",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "36cfc3f5a1f9",
       "title": "Oyarzabal scores twice as Spain cruise past Austria",
       "url": "https://www.bbc.co.uk/sport/football/videos/crel13y4825o",
@@ -276,21 +401,6 @@
       "summary": "Joe Hart analyses the decision to rule out Marc Cucurella's goal against Austria for a foul on Austrian goalkeeper Alexander Schlager during their last-32 game in Los Angeles, with Hart believing the decision was soft.",
       "teams": [
         "Austria"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "940b1a5e7317",
-      "title": "Mikel Oyarzabal at the double as Spain beat Austria and cruise into last 16",
-      "url": "https://www.theguardian.com/football/2026/jul/02/spain-austria-world-cup-2026-last-32-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-07-02T21:12:38+00:00",
-      "summary": "The group stage is something you have to do but the World Cup starts here, Lamine Yamal had insisted, and down on the Pacific that was how it played out. It wasn’t just that Spain defeated Austria to reach the last 16 against Portugal or Croatia, their first victory at the knocko",
-      "teams": [
-        "Spain",
-        "Austria",
-        "Portugal",
-        "Croatia"
       ],
       "is_injury_related": true
     },
@@ -370,18 +480,6 @@
       "is_injury_related": false
     },
     {
-      "id": "426133887258",
-      "title": "Premier League clubs interested in Japan's Nakamura",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2j8e99g7ko",
-      "source": "BBC Sport",
-      "published_at": "2026-07-02T15:52:35+00:00",
-      "summary": "Japan winger Keito Nakamura is keen to move to the Premier League this summer after attracting interest from several clubs, following his impressive World Cup performances.",
-      "teams": [
-        "Japan"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "8b28606be359",
       "title": "Egyptian Australians grapple with a ‘bittersweet’ dilemma: who to support in the World Cup?",
       "url": "https://www.theguardian.com/football/2026/jul/02/egypt-australia-socceroos-pharaohs-diaspora-who-to-support-world-cup",
@@ -407,18 +505,6 @@
       "is_injury_related": true
     },
     {
-      "id": "e7092cb17f1c",
-      "title": "More than the Score",
-      "url": "https://www.bbc.co.uk/sounds/play/p0nwf11z",
-      "source": "BBC Sport",
-      "published_at": "2026-07-02T13:48:00+00:00",
-      "summary": "Can co-hosts USA surpass their last 16 run of 1994?",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "886b4d522069",
       "title": "England have 'big concerns' - so who would you pick to face Mexico?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cr7x18r0z59o",
@@ -427,19 +513,6 @@
       "summary": "Who should play at right-back? Does Anthony Gordon deserve to start? Select and share your England team to face Mexico.",
       "teams": [
         "Mexico",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "4ee504cd054e",
-      "title": "16.3m tune in to watch England beat DR Congo",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg40883026o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-02T12:15:18+00:00",
-      "summary": "England's dramatic win over DR Congo in the World Cup last 16 attracts an audience of 16.3m on the BBC.",
-      "teams": [
-        "DR Congo",
         "England"
       ],
       "is_injury_related": false
@@ -483,19 +556,6 @@
       "is_injury_related": false
     },
     {
-      "id": "bacde2196af9",
-      "title": "England fans face resale prices of at least £2,600 for Mexico tickets",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdxdg73n911o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-02T10:18:29+00:00",
-      "summary": "England fans hoping to attend the World Cup last-16 showdown with Mexico face paying a minimum of £2,600 for one ticket on Fifa's resale site.",
-      "teams": [
-        "Mexico",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "22449cfe67f1",
       "title": "Record-breaker Layla Drury signs first professional deal with Manchester United",
       "url": "https://www.theguardian.com/football/2026/jul/02/record-breaker-layla-drury-signs-first-professional-deal-with-manchester-united",
@@ -503,47 +563,6 @@
       "published_at": "2026-07-02T09:40:25+00:00",
       "summary": "17-year-old youngest ever to be given professional deal She switched allegiance from Wales to England this year Manchester United Women ’s youngest ever player, Layla Drury, is set to become the youngest player to sign a professional contract with the WSL club. The 17-year-old is",
       "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "a4e68a8d0ebf",
-      "title": "Harry Kane’s heroics and USA stay ahead despite red | World Cup Daily – video",
-      "url": "https://www.theguardian.com/football/video/2026/jul/02/harry-kanes-heroics-and-usa-stay-ahead-despite-red-world-cup-daily-video",
-      "source": "The Guardian",
-      "published_at": "2026-07-02T09:26:31+00:00",
-      "summary": "Max Rushden is joined by Barry Glendenning , Archie Rhind-Tutt and Osasu Obayiuwana as Harry Kane’s second-half double sees England past DR Congo and there is late drama between Senegal and Belgium Continue reading...",
-      "teams": [
-        "USA",
-        "Belgium",
-        "Senegal",
-        "DR Congo",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "693295b8d2bb",
-      "title": "Gueye quits Senegal until coaching staff replaced",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqj18d7q2vwo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-02T09:02:10+00:00",
-      "summary": "Senegal midfielder Pape Gueye says he will be \"taking a break\" from playing for his country while the current management is in charge.",
-      "teams": [
-        "Senegal"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "4c987aede314",
-      "title": "'You can't catch your breath' - how will Azteca altitude impact England?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy0v05qyro",
-      "source": "BBC Sport",
-      "published_at": "2026-07-02T08:21:52+00:00",
-      "summary": "BBC Sport explores how playing football at high altitude affects the body and mind as England prepare to visit Mexico and their fortress Azteca Stadium.",
-      "teams": [
-        "Mexico",
         "England"
       ],
       "is_injury_related": false
@@ -679,19 +698,6 @@
       "is_injury_related": true
     },
     {
-      "id": "a6308ad744a1",
-      "title": "Win over DR Congo 'our best game of the tournament' - Kane",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c802jzd528eo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-01T18:40:36+00:00",
-      "summary": "England captain Harry Kane believes the Three Lions' attacking play against DR Congo was the best they have shown so far in the World Cup after their 2-1 win in Atlanta.",
-      "teams": [
-        "DR Congo",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "1cd17553a763",
       "title": "Kane scores twice as England come from behind to reach last 16",
       "url": "https://www.bbc.co.uk/sport/football/videos/cx2j83vg72go",
@@ -714,18 +720,6 @@
       "summary": "BBC Scotland looks at what Bologna captain Lewis Ferguson would offer to a club where his family are so deeply ingrained.",
       "teams": [
         "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "12a903ebb052",
-      "title": "Liverpool complete £60m Jacquet deal as Chelsea tie up £47m Palestra move",
-      "url": "https://www.theguardian.com/football/2026/jul/01/liverpool-sign-jeremy-jacquet-rennes",
-      "source": "The Guardian",
-      "published_at": "2026-07-01T15:56:18+00:00",
-      "summary": "20-year-old centre-back moves to Anfield from Rennes Italy right-back signs seven-year deal at Blues Jérémy Jacquet has officially completed his £60m move to Liverpool from Rennes, while Chelsea have announced the £47m signing of the Atalanta right-back Marco Palestra. Liverpool ",
-      "teams": [
-        "France"
       ],
       "is_injury_related": false
     },
@@ -801,20 +795,6 @@
       "teams": [
         "Sweden",
         "France"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "ab40fd46144e",
-      "title": "Erling Haaland fires Norway into last 16 with dramatic winner against Côte d’Ivoire",
-      "url": "https://www.theguardian.com/football/2026/jun/30/cote-d-ivoire-norway-world-cup-2026-last-32-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-06-30T19:05:09+00:00",
-      "summary": "Decision vindicated. The Norway coach, Ståle Solbakken, had taken a major gamble in resting almost his entire side in the final group game against France, drawing stiff criticism, not least from those who had paid hundreds of dollars to witness a showdown between Erling Haaland a",
-      "teams": [
-        "Ivory Coast",
-        "France",
-        "Norway"
       ],
       "is_injury_related": false
     },
@@ -1039,6 +1019,19 @@
         "Switzerland",
         "Sweden",
         "Tunisia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "a5bad3d5f3b5",
+      "title": "Why Saudi Arabia and Iraq flags are not laid down at World Cup",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdjk2nny7peo",
+      "source": "BBC Sport",
+      "published_at": "2026-06-22T16:29:58+00:00",
+      "summary": "The flags of Saudi Arabia and Iraq are not laid on the ground during World Cup pre-match ceremonies because they include religious wording.",
+      "teams": [
+        "Saudi Arabia",
+        "Iraq"
       ],
       "is_injury_related": false
     }
