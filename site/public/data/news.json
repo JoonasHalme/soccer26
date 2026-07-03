@@ -1,10 +1,76 @@
 {
-  "generated_at": "2026-07-02T22:17:04.027111+00:00",
+  "generated_at": "2026-07-03T00:17:14.258961+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "7b46ae0a352d",
+      "title": "Portugal v Croatia: World Cup 2026 last 32 – live",
+      "url": "https://www.theguardian.com/football/live/2026/jul/02/portugal-v-croatia-world-cup-2026-last-32-live",
+      "source": "The Guardian",
+      "published_at": "2026-07-03T00:01:01+00:00",
+      "summary": "⚽️ Kick-off time: 7pm EDT/12am BST/9am AEST ⚽️ Player guide | Bracketology | The full draw | Email Beau 1 min: Croatia in blue, Portugal in white. Weather and ref Continue reading...",
+      "teams": [
+        "Portugal",
+        "Croatia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "49b41ba51b06",
+      "title": "Egypt star Mo Salah fit to face Socceroos in last-32 clash after hamstring strain",
+      "url": "https://www.theguardian.com/football/2026/jul/03/egypt-mo-salah-fit-to-play-australia-socceroos-after-injury",
+      "source": "The Guardian",
+      "published_at": "2026-07-02T23:09:44+00:00",
+      "summary": "Coach Hossam Hassan unsure whether veteran will start ‘Messi isn’t that tall’: Pharaohs not worried by physical Australia The Socceroos are set to face Mo Salah in their last 32 match, though uncertainty hangs over whether the Egypt great will start the World Cup knockout in Dall",
+      "teams": [
+        "Australia",
+        "Egypt"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "3f7e10edf377",
+      "title": "The one club man who is Spain's under-the-radar hero",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgd0jz1xq7o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-02T22:49:15+00:00",
+      "summary": "Mikel Oyarzabal is perhaps not the biggest name in Spain's World Cup squad, but the one who has so far shone brightest.",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "4f32ef47313a",
+      "title": "England-Mexico one of four last-16 ties live on BBC TV",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg4wvn1ke9o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-02T22:15:53+00:00",
+      "summary": "England's meeting with Mexico is one of four World Cup last-16 matches to be broadcast live on BBC One, BBC iPlayer and across BBC Sport.",
+      "teams": [
+        "Mexico",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "0997822a865e",
+      "title": "USMNT win smashes record for most-watched soccer broadcast with 33.5 million viewers",
+      "url": "https://www.theguardian.com/football/2026/jul/02/usmnt-world-cup-most-watched-viewership-record",
+      "source": "The Guardian",
+      "published_at": "2026-07-02T22:11:41+00:00",
+      "summary": "Fox averages 24.429 million; 9.1 million on Telemundo Outpaces averages of NBA Finals, Sunday Night Football Monday’s last-16 matchup sure to challenge record again The US men’s national team’s dramatic win over Bosnia and Herzegovina in the World Cup on Wednesday drew a record t",
+      "teams": [
+        "Bosnia & Herzegovina",
+        "USA",
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "0659e0e58d04",
       "title": "Mexico City swept up in World Cup fever as El Tri capture imaginations like never before",
@@ -34,37 +100,31 @@
       "is_injury_related": false
     },
     {
+      "id": "db66a1436123",
+      "title": "'Premier League goalkeepers will be throwing food at TV'",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cvgm419701no",
+      "source": "BBC Sport",
+      "published_at": "2026-07-02T21:16:04+00:00",
+      "summary": "Joe Hart analyses the decision to rule out Marc Cucurella's goal against Austria for a foul on Austrian goalkeeper Alexander Schlager during their last-32 game in Los Angeles, with Hart believing the decision was soft.",
+      "teams": [
+        "Austria"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "940b1a5e7317",
       "title": "Mikel Oyarzabal at the double as Spain beat Austria and cruise into last 16",
       "url": "https://www.theguardian.com/football/2026/jul/02/spain-austria-world-cup-2026-last-32-match-report",
       "source": "The Guardian",
       "published_at": "2026-07-02T21:12:38+00:00",
-      "summary": "The group stage is something you have to do but the World Cup starts here, Lamine Yamal had insisted, and down on the Pacific that was how it played out. It wasn’t that Spain defeated Austria to reach the last 16 where they will face Portugal or Croatia, their first victory at th",
+      "summary": "The group stage is something you have to do but the World Cup starts here, Lamine Yamal had insisted, and down on the Pacific that was how it played out. It wasn’t just that Spain defeated Austria to reach the last 16 against Portugal or Croatia, their first victory at the knocko",
       "teams": [
         "Spain",
-        "Saudi Arabia",
         "Austria",
         "Portugal",
         "Croatia"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "7b46ae0a352d",
-      "title": "Portugal v Croatia: World Cup 2026 last 32 – live",
-      "url": "https://www.theguardian.com/football/live/2026/jul/02/portugal-v-croatia-world-cup-2026-last-32-live",
-      "source": "The Guardian",
-      "published_at": "2026-07-02T21:00:09+00:00",
-      "summary": "⚽️ Kick-off time: 7pm EDT/12am BST/9am AEST ⚽️ Player guide | Bracketology | The full draw | Email Beau Beau will be here shortly. In the meantime, here’s more on today’s matchup: Can you remember what you were doing on 1 March 2006? Perhaps you were at Anfield, watching England ",
-      "teams": [
-        "Switzerland",
-        "Scotland",
-        "Uruguay",
-        "Portugal",
-        "England",
-        "Croatia"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "4919eb64cf93",
@@ -319,21 +379,6 @@
       "is_injury_related": false
     },
     {
-      "id": "1a88a9984186",
-      "title": "Cape Verde’s Sidny Lopes Cabral: ‘If you’re like “oh, it’s Messi”, you’re gonna lose your mind’",
-      "url": "https://www.theguardian.com/football/2026/jul/02/cape-verde-sidny-lopes-cabral-interview-argentina-lionel-messi-world-cup",
-      "source": "The Guardian",
-      "published_at": "2026-07-02T10:32:39+00:00",
-      "summary": "The full-back on defying the odds, dealing with racism, Cape Verde’s party people and taking on Lionel Messi “When we saw 1%, we just laughed.” Cape Verde liked those odds, and so did Sidny Lopes Cabral. “They gave us a 1% chance of reaching the next round, but we showed how big ",
-      "teams": [
-        "Germany",
-        "Netherlands",
-        "Cape Verde",
-        "France"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "bacde2196af9",
       "title": "England fans face resale prices of at least £2,600 for Mexico tickets",
       "url": "https://www.bbc.co.uk/sport/football/articles/cdxdg73n911o",
@@ -497,20 +542,6 @@
       "teams": [
         "Bosnia & Herzegovina",
         "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "44979eabe51b",
-      "title": "Why did England struggle against DR Congo - and what can they learn?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cewqzvnw5v7o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-02T00:07:51+00:00",
-      "summary": "A tactical analysis of England's victory over DR Congo - and what it might teach them for their next World Cup match against Mexico.",
-      "teams": [
-        "Mexico",
-        "DR Congo",
-        "England"
       ],
       "is_injury_related": false
     },
@@ -743,19 +774,6 @@
         "Ecuador"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "17f40f67c92b",
-      "title": "United, free and brilliant - can anyone stop France masterclass?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp8r1zdj9k5o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-01T01:07:39+00:00",
-      "summary": "France boss Didier Deschamps urges caution despite watching his side dismantle Sweden to leave Les Bleus fans dreaming of winning the World Cup.",
-      "teams": [
-        "Sweden",
-        "France"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "2ba5fb645292",
@@ -1015,32 +1033,6 @@
       "summary": "With one year to go on Wednesday, this week’s newsletter speaks to Aline Pellegrino and Angelina Constantino about their hopes for the tournament We are 365 days away from the 2027 Women’s World Cup, which will take place in eight Brazilian cities between 24 June and 25 July next",
       "teams": [
         "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f12852ac8855",
-      "title": "Lazio Women to pay compensation after Cas pregnancy discrimination ruling",
-      "url": "https://www.theguardian.com/football/2026/jun/24/lazio-women-cas-pregnancy-discrimination-ruling-maja-gothberg",
-      "source": "The Guardian",
-      "published_at": "2026-06-24T10:13:47+00:00",
-      "summary": "Maja Göthberg lost contract after disclosing pregnancy First successful Cas case under Fifa maternity regulations Lazio Women unlawfully ended the Swedish footballer Maja Göthberg’s time at the club because of her pregnancy, the court of arbitration for sport has ruled, ordering ",
-      "teams": [
-        "Sweden"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "3ef0524e8a5d",
-      "title": "Which footballers have refused to celebrate a goal against another country? | The Knowledge",
-      "url": "https://www.theguardian.com/football/2026/jun/24/international-players-refused-to-celebrate-goal-the-knowledge",
-      "source": "The Guardian",
-      "published_at": "2026-06-24T07:00:38+00:00",
-      "summary": "Plus: is Dick Advocaat unique among coaches, long waits between World Cups, and Dave Beasant revisionism Mail us with your all of your questions and answers “Sweden’s Yasin Ayari has a Tunisian father and chose not to celebrate his first goal against Tunisia (he couldn’t resist c",
-      "teams": [
-        "Switzerland",
-        "Sweden",
-        "Tunisia"
       ],
       "is_injury_related": false
     }
