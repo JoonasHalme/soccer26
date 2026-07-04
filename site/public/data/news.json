@@ -1,34 +1,66 @@
 {
-  "generated_at": "2026-07-04T14:44:11.244997+00:00",
+  "generated_at": "2026-07-04T16:14:15.091068+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "3308f211d779",
-      "title": "Listen: Sportsound with Levein, McLeish, Halliday, Lennon, Neilson & Naysmith",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm",
-      "source": "BBC Sport",
-      "published_at": "2026-07-04T16:00:00+00:00",
-      "summary": "All the World Cup and domestic football news. Who's next for the Scotland manager job?",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "7ba4c127796b",
       "title": "World Cup 2026: England get hostile reception in Mexico City as last 16 begins; Cape Verde give huge scare to Argentina – live",
       "url": "https://www.theguardian.com/football/live/2026/jul/04/world-cup-2026-cape-verde-give-argentina-mighty-scare-last-16-mexico-v-england-fixture-chaos-morocco-canada-france-paraguay-live",
       "source": "The Guardian",
-      "published_at": "2026-07-04T14:32:39+00:00",
+      "published_at": "2026-07-04T15:55:40+00:00",
       "summary": "⚽ All the latest news and reaction from the World Cup ⚽ Player guide | Bracketology | Knockout draw | Mail us Australia lost to Egypt on penalties in one of the more disastrous shootout cock ups. Changing goalkeepers is a bold move, especially when Mat Ryan made a right Shilton o",
       "teams": [
         "Mexico",
         "Australia",
         "Egypt",
         "Cape Verde",
+        "Argentina",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "17834ba5cea3",
+      "title": "Canada v Morocco: World Cup 2026 last 16 – live",
+      "url": "https://www.theguardian.com/football/live/2026/jul/04/canada-v-morocco-world-cup-2026-last-16-live",
+      "source": "The Guardian",
+      "published_at": "2026-07-04T15:54:57+00:00",
+      "summary": "⚽️ Kick-off time: 12pm local/1pm EDT/6pm BST/3am AEST ⚽️ Player guide | Bracketology | Golden Boot | Email Scott Morocco make one change to their starting XI from the game against the Netherlands. Redouane Halhal takes the place of Chadi Riad at centre-back. Riad picked up a knee",
+      "teams": [
+        "South Africa",
+        "Canada",
+        "Morocco",
+        "Netherlands"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "108176f827a9",
+      "title": "Fenerbahce complete deal to sign Ake from Man City",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20y27eqj13o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-04T15:04:00+00:00",
+      "summary": "Fenerbahce sign Netherlands defender Nathan Ake from Manchester City in a deal that could be worth up to £8.5m.",
+      "teams": [
+        "Netherlands"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b413551d37e9",
+      "title": "Football Daily | Argentina advance. But for Cape Verde, they’ll always have for ever",
+      "url": "https://www.theguardian.com/football/2026/jul/04/football-daily-email-gwc-cape-verde-argentina",
+      "source": "The Guardian",
+      "published_at": "2026-07-04T14:29:39+00:00",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! They couldn’t, could they? They almost did. Fair play, Gianni Infantino, adding an extra knockout round has proved a worthy addition to the Geopolitics World Cup. Sure, the group stage occasionally dragged like a wet Sunday in F",
+      "teams": [
+        "Scotland",
+        "USA",
+        "Cape Verde",
+        "Uruguay",
         "Argentina",
         "England"
       ],
@@ -151,6 +183,21 @@
         "Australia",
         "Cape Verde",
         "Argentina"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f468db5abc66",
+      "title": "For all Cape Verde’s heroics, Africa’s World Cup could and perhaps should have been better | Jonathan Wilson",
+      "url": "https://www.theguardian.com/football/2026/jul/04/for-all-cape-verdes-heroics-africas-world-cup-could-and-perhaps-should-have-been-better",
+      "source": "The Guardian",
+      "published_at": "2026-07-04T07:26:06+00:00",
+      "summary": "Egypt and Morocco are in the last 16 after shootouts, but the continent’s pyramid appears to be getting broader rather than much higher For Africa, this World Cup feels like one of those classic memes from the early days of social media. Is it a gold and white dress or a black an",
+      "teams": [
+        "Qatar",
+        "Morocco",
+        "Egypt",
+        "Cape Verde"
       ],
       "is_injury_related": false
     },
@@ -278,10 +325,23 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c0ey24q42w2o",
       "source": "BBC Sport",
       "published_at": "2026-07-04T01:36:43+00:00",
-      "summary": "For several hours on Friday, no-one seemed to know when England's World Cup last-16 match against co-hosts Mexico would kick off. BBC Sport tells how a story of confusion and anger - culminating in a Fifa U-turn - unfolded.",
+      "summary": "For several hours on Friday, no-one seemed to know when England's World Cup last-16 match against co-hosts Mexico would kick off. BBC Sport explains how a story of confusion and anger - culminating in a Fifa U-turn - unfolded.",
       "teams": [
         "Mexico",
         "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "e80cf3279ee8",
+      "title": "Cape Verde threaten shock for the ages before Argentina break hearts in World Cup classic",
+      "url": "https://www.theguardian.com/football/2026/jul/04/argentina-cape-verde-world-cup-2026-last-32-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-07-04T01:06:10+00:00",
+      "summary": "What a game, what a series of moments, what a display of spirit and skill from Cape Verde, a tiny island nation with a far-flung diaspora team, who took Argentina right to the brink of one of the great sporting shocks in Miami. How to tell the story of this game? Imagine being po",
+      "teams": [
+        "Cape Verde",
+        "Argentina"
       ],
       "is_injury_related": false
     },
@@ -440,7 +500,7 @@
       "teams": [
         "Australia"
       ],
-      "is_injury_related": true
+      "is_injury_related": false
     },
     {
       "id": "670a6441eedf",
@@ -659,19 +719,6 @@
       "is_injury_related": false
     },
     {
-      "id": "5ec5ba9db388",
-      "title": "Mahrez retires from Algeria duty after World Cup exit",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn0vwn78n8do",
-      "source": "BBC Sport",
-      "published_at": "2026-07-03T08:41:00+00:00",
-      "summary": "Algeria captain Riyad Mahrez announces his retirement from international football after the Desert Foxes’ 2-0 defeat by Switzerland in the World Cup round of 32.",
-      "teams": [
-        "Switzerland",
-        "Algeria"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "88eeaae8c2b8",
       "title": "Georgia Stanway targets trophies after sealing ‘unbelievable’ move to Arsenal",
       "url": "https://www.theguardian.com/football/2026/jul/03/georgia-stanway-arsenal-wsl",
@@ -722,18 +769,6 @@
       "is_injury_related": true
     },
     {
-      "id": "671192c083d4",
-      "title": "Huge 'Snicko' VAR call prolongs Ronaldo's last dance but ends Modric's",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz0jee3vy39o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-03T04:42:51+00:00",
-      "summary": "Veteran forward Cristiano Ronaldo gets another day on the World Cup stage after Croatia are denied a late equaliser by a huge VAR call.",
-      "teams": [
-        "Croatia"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "d4fd76df7725",
       "title": "Portugal through to last 16 after dramatic victory over Croatia",
       "url": "https://www.bbc.co.uk/sport/football/videos/cy9r11gj8lzo",
@@ -760,19 +795,6 @@
       "is_injury_related": false
     },
     {
-      "id": "213431660583",
-      "title": "Ramos sends Portugal into last 16 as VAR drama caps wild finish against Croatia",
-      "url": "https://www.theguardian.com/football/2026/jul/02/portugal-croatia-world-cup-2026-last-32-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-07-03T01:32:31+00:00",
-      "summary": "Rafael Leão dropped to his knees. His cross had just been flicked into the net by Gonçalo Ramos to take Portugal to the last 16 of the World Cup. Leão’s expression was not one of delight, but relief. Billed as the last dance for two footballing icons, it was Luka Modric who, at t",
-      "teams": [
-        "Portugal",
-        "Croatia"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "4f32ef47313a",
       "title": "England, France & Spain v Portugal on BBC in last 16",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg4wvn1ke9o",
@@ -789,21 +811,6 @@
       "is_injury_related": false
     },
     {
-      "id": "940b1a5e7317",
-      "title": "Mikel Oyarzabal at the double as Spain beat Austria and cruise into last 16",
-      "url": "https://www.theguardian.com/football/2026/jul/02/spain-austria-world-cup-2026-last-32-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-07-02T21:12:38+00:00",
-      "summary": "The group stage is something you have to do but the World Cup starts here, Lamine Yamal had insisted, and down on the Pacific that was how it played out. It wasn’t just that Spain defeated Austria to reach the last 16 against Portugal or Croatia, their first victory at the knocko",
-      "teams": [
-        "Spain",
-        "Austria",
-        "Portugal",
-        "Croatia"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "39077cc745a7",
       "title": "Secret location & sleep devices: England bid to combat noisy Mexico fans",
       "url": "https://www.bbc.co.uk/sport/football/articles/c74y7jwj30eo",
@@ -813,18 +820,6 @@
       "teams": [
         "Mexico",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "31eb7f65ad02",
-      "title": "The growing appeal of Scottish Premiership talent",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgql9yw1vjo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-02T17:01:23+00:00",
-      "summary": "BBC Scotland looks at the reasons why Scottish top-flight players could be becoming more attractive propositions.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -980,19 +975,6 @@
       "is_injury_related": false
     },
     {
-      "id": "ae3b22990da5",
-      "title": "Mexico end World Cup knockout drought with last-32 win over Ecuador in Azteca cauldron",
-      "url": "https://www.theguardian.com/football/2026/jul/01/mexico-ecuador-world-cup-2026-last-32-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-07-01T04:09:56+00:00",
-      "summary": "They were held up by an electric storm but, after the skies had cleared, Mexico kept the lightning bolts coming. This was a climactic night that utterly engulfed the senses and its ramifications will be far reaching. El Tri have broken a hex that had nagged and gnawed at the nati",
-      "teams": [
-        "Mexico",
-        "Ecuador"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "f9673ba078e6",
       "title": "Panenka to Paraguay: Germany’s 50-year penalty shootout streak is over",
       "url": "https://www.theguardian.com/football/2026/jun/30/germany-50-year-penalty-shootout-dominance-over-world-cup-2026",
@@ -1043,6 +1025,30 @@
         "England"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "7b2611d1ce46",
+      "title": "From developing photos in a toilet to a viral Messi shot: 40 years shooting the World Cup – video",
+      "url": "https://www.theguardian.com/artanddesign/video/2026/jun/30/from-developing-photos-in-a-toilet-to-a-viral-messi-shot-40-years-shooting-the-world-cup-video",
+      "source": "The Guardian",
+      "published_at": "2026-06-30T07:27:37+00:00",
+      "summary": "From taking the photo that became the most-liked post on Instagram as of recording, to developing film in the stadium toilets, legendary World Cup photographer Shaun Botterill speaks with Guardian Australia's picture editor, Carly Earl, about how capturing the World Cup has chang",
+      "teams": [
+        "Australia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1e20ee3ba433",
+      "title": "NWSL all-time record goalscorer Sam Kerr confirms league return by joining Gotham",
+      "url": "https://www.theguardian.com/football/2026/jun/29/nwsl-all-time-record-goalscorer-sam-kerr-confirms-league-return-by-joining-gotham",
+      "source": "The Guardian",
+      "published_at": "2026-06-29T16:12:33+00:00",
+      "summary": "Australia captain back in league she left in 2019 Striker won 11 major trophies in spell at Chelsea Sam Kerr is joining Gotham FC in the National Women’s Soccer League (NWSL) after spending the past six and a half years with Chelsea. Gotham announced on Monday they had signed the",
+      "teams": [
+        "Australia"
+      ],
+      "is_injury_related": true
     }
   ]
 }
