@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T20:16:05.841058+00:00",
+  "generated_at": "2026-07-04T22:09:10.741207+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -10,15 +10,41 @@
       "title": "Paraguay v France: World Cup last 16 – live",
       "url": "https://www.theguardian.com/football/live/2026/jul/04/france-v-paraguay-world-cup-last-32-live",
       "source": "The Guardian",
-      "published_at": "2026-07-04T19:57:53+00:00",
-      "summary": "⚽️ Kick-off time: 5pm local/7am AEST/10pm BST ⚽️ Player guide | Canada 0-3 Morocco | Mail Beau What’s the biggest upset you can remember from a World Cup knockout round? Not the group stage. The record books are full of teams that lost their first games to an unheralded underdog ",
+      "published_at": "2026-07-04T22:03:43+00:00",
+      "summary": "⚽️ Kick-off time: 5pm local/7am AEST/10pm BST ⚽️ Player guide | Canada 0-3 Morocco | Mail Beau A bit more scouting info France is good. Like, really good. Continue reading...",
       "teams": [
         "Canada",
         "Morocco",
         "Paraguay",
         "France"
       ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6841259490a1",
+      "title": "Canada’s World Cup exit revives questions over Alphonso Davies injury management",
+      "url": "https://www.theguardian.com/football/2026/jul/04/canada-world-cup-alphonso-davies-injury-management",
+      "source": "The Guardian",
+      "published_at": "2026-07-04T21:23:43+00:00",
+      "summary": "Canada’s World Cup run ended without Alphonso Davies playing against Morocco, reviving debate over the injury that derailed the team’s biggest star Coming into this World Cup, Canada’s hopes hinged on the form of their one world-class player, Alphonso Davies. This has been the ca",
+      "teams": [
+        "Canada",
+        "Morocco"
+      ],
       "is_injury_related": true
+    },
+    {
+      "id": "7529b68626d7",
+      "title": "Unbeaten in 34 matches - why Morocco are World Cup contenders",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy4e22gqe50o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-04T21:20:25+00:00",
+      "summary": "As Morocco beat Canada to book their place in the last-8, their World Cup campaign can no longer be seen as a fairytale.",
+      "teams": [
+        "Canada",
+        "Morocco"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "679a4cb673db",
@@ -194,20 +220,6 @@
       "summary": "Former Hibernian and Kilmarnock manager Bobby Williamson puts himself forward for the job as Scotland head coach leading a dream team of Ally McCoist, Scott Brown and Kevin Thomson.",
       "teams": [
         "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "be46796a70d4",
-      "title": "From one to 16 - ranking every team left in the World Cup",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd6elwx7eepo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-04T09:55:36+00:00",
-      "summary": "BBC Sport ranks the 16 teams left in the World Cup. Do Argentina deserve to be in the top three? Should Norway be higher? What about England's position?",
-      "teams": [
-        "Norway",
-        "Argentina",
-        "England"
       ],
       "is_injury_related": false
     },
@@ -823,28 +835,25 @@
       "is_injury_related": false
     },
     {
-      "id": "4f32ef47313a",
-      "title": "England, France & Spain v Portugal on BBC in last 16",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg4wvn1ke9o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-02T22:15:53+00:00",
-      "summary": "England's meeting with Mexico is one of four World Cup last-16 matches to be broadcast live on BBC One, BBC iPlayer and across BBC Sport.",
-      "teams": [
-        "Mexico",
-        "Spain",
-        "France",
-        "Portugal",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "39077cc745a7",
       "title": "Secret location & sleep devices: England bid to combat noisy Mexico fans",
       "url": "https://www.bbc.co.uk/sport/football/articles/c74y7jwj30eo",
       "source": "BBC Sport",
       "published_at": "2026-07-02T19:26:15+00:00",
       "summary": "England are taking precautions to ensure boisterous locals do not disrupt their preparations in Mexico.",
+      "teams": [
+        "Mexico",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "886b4d522069",
+      "title": "England have 'big concerns' - so who would you pick to face Mexico?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr7x18r0z59o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-02T13:00:15+00:00",
+      "summary": "Who should play at right-back? Does Anthony Gordon deserve to start? Select and share your England team to face Mexico.",
       "teams": [
         "Mexico",
         "England"
@@ -1040,19 +1049,6 @@
         "Netherlands"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "a11e466d2d8e",
-      "title": "My World Cup memory: heartbreak in the exam hall for England v Brazil in 2002 – video",
-      "url": "https://www.theguardian.com/football/video/2026/jun/30/my-world-cup-memory-heartbreak-in-the-exam-hall-for-england-v-brazil-in-2002-video",
-      "source": "The Guardian",
-      "published_at": "2026-06-30T08:20:07+00:00",
-      "summary": "Where were you when Ronaldinho lobbed David Seaman in England’s quarter-final game against Brazil at the 2002 World Cup? Our head of newsletters, Toby Moses, was sitting in an exam hall for his English A Level exam. It was heartbreak for England more than two decades ago, but per",
-      "teams": [
-        "Brazil",
-        "England"
-      ],
-      "is_injury_related": false
     }
   ]
 }
