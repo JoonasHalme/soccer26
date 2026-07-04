@@ -1,16 +1,28 @@
 {
-  "generated_at": "2026-07-04T12:15:17.086060+00:00",
+  "generated_at": "2026-07-04T14:44:11.244997+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "3308f211d779",
+      "title": "Listen: Sportsound with Levein, McLeish, Halliday, Lennon, Neilson & Naysmith",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm",
+      "source": "BBC Sport",
+      "published_at": "2026-07-04T16:00:00+00:00",
+      "summary": "All the World Cup and domestic football news. Who's next for the Scotland manager job?",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "7ba4c127796b",
       "title": "World Cup 2026: England get hostile reception in Mexico City as last 16 begins; Cape Verde give huge scare to Argentina – live",
       "url": "https://www.theguardian.com/football/live/2026/jul/04/world-cup-2026-cape-verde-give-argentina-mighty-scare-last-16-mexico-v-england-fixture-chaos-morocco-canada-france-paraguay-live",
       "source": "The Guardian",
-      "published_at": "2026-07-04T11:59:53+00:00",
+      "published_at": "2026-07-04T14:32:39+00:00",
       "summary": "⚽ All the latest news and reaction from the World Cup ⚽ Player guide | Bracketology | Knockout draw | Mail us Australia lost to Egypt on penalties in one of the more disastrous shootout cock ups. Changing goalkeepers is a bold move, especially when Mat Ryan made a right Shilton o",
       "teams": [
         "Mexico",
@@ -21,6 +33,34 @@
         "England"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "1870d9519886",
+      "title": "Why Europe's top clubs are eyeing Morocco's teenage sensation Bouaddi",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c802jp3lz13o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-04T14:22:20+00:00",
+      "summary": "After lighting up the 2022 World Cup Morocco are once again shining on the global stage - but this time they have teenage sensation Ayyoub Bouaddi in their ranks.",
+      "teams": [
+        "Morocco"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "cd85c9a428d6",
+      "title": "Delirium, despair, pride: with the fans on Cape Verde’s World Cup rollercoaster",
+      "url": "https://www.theguardian.com/football/2026/jul/04/cape-verde-world-cup-fans-argentina-rotterdam",
+      "source": "The Guardian",
+      "published_at": "2026-07-04T13:08:01+00:00",
+      "summary": "Rotterdam is home to 25,000 Cape Verdeans and 1,600 of them gathered in a beer garden to watch an unforgettable game against Argentina Rotterdam knows how to script a football fairytale. Six players from the Cape Verde side who have lit up the World Cup were born here, nearly 5,0",
+      "teams": [
+        "Morocco",
+        "Curaçao",
+        "Cape Verde",
+        "Saudi Arabia",
+        "Argentina"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "4eb08ffdbb87",
@@ -58,21 +98,6 @@
         "Scotland"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "481fa64477a6",
-      "title": "Tiny Cape Verde steal the show against Argentina in a performance to last in World Cup lore",
-      "url": "https://www.theguardian.com/football/2026/jul/04/cape-verde-argentina-world-cup",
-      "source": "The Guardian",
-      "published_at": "2026-07-04T11:00:11+00:00",
-      "summary": "The African minnows capped off an impressive run with a heroic performance in a 3-2 loss to the defending champions It was a sight we’d seen hundreds of times before, six times previously in this World Cup alone. Lionel Messi celebrating a goal, sprinting away with his arms outst",
-      "teams": [
-        "Spain",
-        "Cape Verde",
-        "Argentina",
-        "Portugal"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "be46796a70d4",
@@ -116,19 +141,6 @@
       "is_injury_related": false
     },
     {
-      "id": "5259955892d6",
-      "title": "Some Americans are reluctant to cheer for the US at the World Cup. They shouldn’t be | Alexander Abnos",
-      "url": "https://www.theguardian.com/football/2026/jul/04/some-americans-are-reluctant-to-cheer-for-the-us-at-the-world-cup-they-shouldnt-be",
-      "source": "The Guardian",
-      "published_at": "2026-07-04T09:00:10+00:00",
-      "summary": "There are plenty of reasons for Americans to feel discomfort about the behavior of their country. But sports have a way of bringing joy and unity The US men’s national team are on the verge of history. One win away from matching their best-ever run in the World Cup’s modern era, ",
-      "teams": [
-        "Bosnia & Herzegovina",
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "5f3c8394ee3b",
       "title": "Cape Verde’s heroics and it’s g’night Australia | World Cup Daily – video",
       "url": "https://www.theguardian.com/football/video/2026/jul/04/cape-verdes-heroics-and-its-gnight-australia-world-cup-daily-video",
@@ -148,7 +160,7 @@
       "url": "https://www.theguardian.com/football/2026/jul/04/jurgen-klopp-germany-talks-recharged-ready",
       "source": "The Guardian",
       "published_at": "2026-07-04T07:24:12+00:00",
-      "summary": "He says ‘intensive’ discussions needed with federation Klopp wants to agree way ahead with changes required Jürgen Klopp has confirmed he is in negotiations to take over as Germany’s coach and says he has “recharged” the energy missing when he left Liverpool . Klopp is the German",
+      "summary": "He says intensive discussions needed with federation Klopp wants to agree way ahead with changes required Jürgen Klopp has confirmed he is in negotiations to take over as Germany’s coach and says he has “recharged” the energy missing when he left Liverpool . Klopp is the German f",
       "teams": [
         "Paraguay",
         "Germany"
@@ -813,19 +825,6 @@
       "summary": "BBC Scotland looks at the reasons why Scottish top-flight players could be becoming more attractive propositions.",
       "teams": [
         "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "886b4d522069",
-      "title": "England have 'big concerns' - so who would you pick to face Mexico?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr7x18r0z59o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-02T13:00:15+00:00",
-      "summary": "Who should play at right-back? Does Anthony Gordon deserve to start? Select and share your England team to face Mexico.",
-      "teams": [
-        "Mexico",
-        "England"
       ],
       "is_injury_related": false
     },
