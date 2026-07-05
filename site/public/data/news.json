@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-05T21:16:55.943487+00:00",
+  "generated_at": "2026-07-05T23:15:11.980281+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "cbe74d44d8ed",
-      "title": "Shelter-in-place order at Azteca before Mexico-England",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyeegldnmpo",
+      "id": "bf2eda32befe",
+      "title": "England's match with Mexico delayed by an hour",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c78yy4x7n5jo",
       "source": "BBC Sport",
-      "published_at": "2026-07-05T21:14:15+00:00",
-      "summary": "The Azteca Stadium issues a shelter-in-place order because of severe weather before the last-16 World Cup tie between Mexico and England.",
+      "published_at": "2026-07-05T23:12:02+00:00",
+      "summary": "England's World Cup last-16 match with Mexico in Mexico City is delayed by one hour because of severe weather and is set to kick off at 02:00 BST (19:00 local time).",
       "teams": [
         "Mexico",
         "England"
@@ -19,17 +19,121 @@
       "is_injury_related": false
     },
     {
-      "id": "c49661cc4c11",
-      "title": "Brazil v Norway: World Cup 2026 last 16 – live",
-      "url": "https://www.theguardian.com/football/live/2026/jul/05/brazil-v-norway-world-cup-2026-last-16-live",
+      "id": "cd734ee78578",
+      "title": "England into last 16 - what is their path to the final?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-05T23:09:47+00:00",
+      "summary": "BBC Sport takes a look at what England will need to do to reach the final after progressing the last 16",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b38aed16a553",
+      "title": "Mexico v England: World Cup 2026 last 16 tie – live",
+      "url": "https://www.theguardian.com/football/live/2026/jul/05/mexico-v-england-world-cup-2026-last-16-live",
       "source": "The Guardian",
-      "published_at": "2026-07-05T21:10:48+00:00",
-      "summary": "⚽️ Kick-off time: 4pm EDT/9pm BST/6am AEST ⚽️ Player guide | Bracketology | Full bracket | Mail Tom Scandinavian Solidarity Department: “I will be rooting enthusiastically for our Norwegian neighbours while rowing in my armchair,” writes Lars Bøgegaard. “The Swedes has been to a ",
+      "published_at": "2026-07-05T23:04:43+00:00",
+      "summary": "⚽️ Kick-off time: 6pm local/8pm EDT/1am BST/10am AEST ⚽️ Player guide | Bracketology | World Cup draw | Email Beau It has just been announced that the arrival of the teams at the stadium has been put on hold. So, maybe we won’t be fine .... And another! Norway are heading through",
+      "teams": [
+        "Mexico",
+        "Norway",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "cbe74d44d8ed",
+      "title": "Shelter-in-place order amid storm at Azteca before Mexico-England",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyeegldnmpo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-05T22:59:47+00:00",
+      "summary": "Supporters are told to stay in their seats as an electrical storm approaches Azteca Stadium before Mexico v England in the last 16 of the World Cup.",
+      "teams": [
+        "Mexico",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "e99754ca605b",
+      "title": "Queiroz leaves Ghana following World Cup exit",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyxx288yr6o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-05T22:55:27+00:00",
+      "summary": "Carlos Queiroz steps down as Ghana head coach after three months in charge following their World Cup exit.",
+      "teams": [
+        "Ghana"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "2a74c3bea9ff",
+      "title": "Haaland sends Norway into quarter-finals as Brazil crash out",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8e226j15rpo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-05T22:47:49+00:00",
+      "summary": "Erling Haaland scores twice for Norway as they beat Brazil 2-1 at the New York New Jersey Stadium to reach the quarter-finals of the World Cup for the first time.",
       "teams": [
         "Brazil",
         "Norway"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "ec6fa4a3ae8d",
+      "title": "Need to stay awake for England v Mexico? Try this quiz",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyp4eprn22o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-05T22:44:05+00:00",
+      "summary": "England and Thomas Tuchel will want to match the achievements of the nation's famous side that lifted the World Cup trophy in 1966. Can you name every side they have ever faced in the knockouts?",
+      "teams": [
+        "Mexico",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "dd5488e9f595",
+      "title": "Haaland double fires Norway into World Cup quarter-finals",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwy00v2xk05o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-05T22:27:08+00:00",
+      "summary": "Erling Haaland scores twice as Norway knock out five-time champions Brazil, and progress to the quarter-finals of the 2026 World Cup.",
+      "teams": [
+        "Brazil",
+        "Norway"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "2d9638438ebc",
+      "title": "Haaland’s heroic double stuns Brazil and sends Norway into World Cup quarter-finals",
+      "url": "https://www.theguardian.com/football/2026/jul/05/brazil-norway-world-cup-2026-last-16-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-07-05T22:15:11+00:00",
+      "summary": "We are going to need a bigger longboat. Norway are into the quarter-finals of the World Cup for the first time after edging this contest thanks to the man whose smile, and choice in cowboy apparel, has charmed the USA. Erling Haaland delivered again for his country, scoring two g",
+      "teams": [
+        "Brazil",
+        "USA",
+        "Norway"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d766bbff8249",
+      "title": "Trump lobbied Fifa to lift Folarin Balogun suspension for World Cup game v Belgium",
+      "url": "https://www.theguardian.com/football/2026/jul/05/folarin-balogun-red-card-suspension-lifted-usmnt-belgium-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-07-05T22:01:21+00:00",
+      "summary": "US striker was shown red in last-32 match Fifa announced suspension of ban earlier on Sunday Belgian FA ‘astonished’ by decision Donald Trump lobbied Fifa to lift the US striker Folarin Balogun’s one-game ban for a red card received in the team’s win over Bosnia and Herzegovina ,",
+      "teams": [
+        "Bosnia & Herzegovina",
+        "Belgium"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "4d3287633449",
@@ -43,32 +147,6 @@
         "Portugal"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "3191ed9c1321",
-      "title": "Quansah set to start at right-back for England",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8r225dm81yo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-05T20:31:31+00:00",
-      "summary": "Jarell Quansah is set to start at right-back for England against Mexico in the World Cup last-16 tie at the Azteca stadium.",
-      "teams": [
-        "Mexico",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "d766bbff8249",
-      "title": "White House lobbied Fifa to lift Folarin Balogun suspension for World Cup game v Belgium",
-      "url": "https://www.theguardian.com/football/2026/jul/05/folarin-balogun-red-card-suspension-lifted-usmnt-belgium-world-cup",
-      "source": "The Guardian",
-      "published_at": "2026-07-05T19:51:59+00:00",
-      "summary": "US striker was shown red in last-32 match Fifa announced suspension of ban earlier on Sunday Belgian FA ‘astonished’ by decision The White House lobbied Fifa to lift the US striker Folarin Balogun’s one-game ban for a red card received in the team’s win over Bosnia and Herzegovin",
-      "teams": [
-        "Bosnia & Herzegovina",
-        "Belgium"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "1786347faa74",
@@ -213,19 +291,6 @@
       "is_injury_related": false
     },
     {
-      "id": "c269334145d3",
-      "title": "England battling history as well as Mexican nation in Azteca cauldron",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg7z7zxkw9o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-05T11:34:49+00:00",
-      "summary": "England will be battling against history as well as entire nation when the face Mexico in the World Cup last 16 at The Azteca, says chief football writer Phil McNulty.",
-      "teams": [
-        "Mexico",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "e3e4ac1fb834",
       "title": "Manchester United target Andrey Santos but Chelsea value midfielder at £50m",
       "url": "https://www.theguardian.com/football/2026/jul/05/andrey-santos-manchester-united-chelsea-transfer",
@@ -339,19 +404,6 @@
       "teams": [
         "Brazil",
         "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "86d3c9e7bdb7",
-      "title": "‘Here to write our own chapters’: England not daunted by unique occasion of Mexico game, says Tuchel",
-      "url": "https://www.theguardian.com/football/2026/jul/05/world-cup-last-16-england-thomas-tuchel-mexico-city-azteca",
-      "source": "The Guardian",
-      "published_at": "2026-07-05T02:51:46+00:00",
-      "summary": "‘Impossible’ to adapt to altitude but players coping, says coach Aguirre trying to keep El Tri ‘grounded’ before Azteca match Thomas Tuchel has admitted England are enduring a challenging adaptation in Mexico City but is convinced his team will be ready to “write our own chapters",
-      "teams": [
-        "Mexico",
-        "England"
       ],
       "is_injury_related": false
     },
@@ -659,18 +711,6 @@
       "is_injury_related": true
     },
     {
-      "id": "cd734ee78578",
-      "title": "England into last 16 - what is their path to the final?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-04T03:33:21+00:00",
-      "summary": "BBC Sport takes a look at what England will need to do to reach the final after progressing the last 16",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "1dda9454a72d",
       "title": "Farewell Cape Verde - the underdogs the World Cup will never forget",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqj1pd8lqw9o",
@@ -758,34 +798,6 @@
       "teams": [
         "Cape Verde",
         "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "790b531dae61",
-      "title": "Egypt into last 16 after shootout victory against Australia",
-      "url": "https://www.bbc.co.uk/sport/football/videos/czde25nmq6no",
-      "source": "BBC Sport",
-      "published_at": "2026-07-03T21:45:03+00:00",
-      "summary": "Egypt defeated Australia on penalties to claim their first ever win in the World Cup knockout stage and set up a last-16 tie with either Argentina or Cape Verde.",
-      "teams": [
-        "Australia",
-        "Egypt",
-        "Cape Verde",
-        "Argentina"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "bb31525c6b31",
-      "title": "'I decided last minute!' - Salah on Panenka penalty",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cg53p2qym2jo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-03T21:31:17+00:00",
-      "summary": "Mo Salah explains it was a last-minute decision to \"Panenka\" his penalty for Egypt after they beat Australia in a shootout to progress to the last 16 of the 2026 World Cup.",
-      "teams": [
-        "Australia",
-        "Egypt"
       ],
       "is_injury_related": false
     },
@@ -940,19 +952,6 @@
         "Algeria"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "886b4d522069",
-      "title": "England have 'big concerns' - so who would you pick to face Mexico?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr7x18r0z59o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-02T13:00:15+00:00",
-      "summary": "Who should play at right-back? Does Anthony Gordon deserve to start? Select and share your England team to face Mexico.",
-      "teams": [
-        "Mexico",
-        "England"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "6b297f369693",
