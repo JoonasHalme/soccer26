@@ -1,25 +1,113 @@
 {
-  "generated_at": "2026-07-06T14:00:42.187399+00:00",
+  "generated_at": "2026-07-06T17:13:48.109487+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "69af57b11d2c",
+      "title": "Starmer intervened in row over Mexico-England kick-off time",
+      "url": "https://www.bbc.co.uk/news/articles/cjwgggp28dlo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-06T17:12:06+00:00",
+      "summary": "Fifa had been set to bring the match forward by six hours, due to a forecast of thunderstorms.",
+      "teams": [
+        "Mexico",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "421e9e08cd58",
-      "title": "World Cup 2026: England set up Norway quarter-final after Mexico thriller; Uefa says Fifa ‘crossed line’ over Balogun – live",
+      "title": "World Cup 2026: Trump admits lobbying Fifa over Balogun red card; Starmer intervened on England kick-off time – live",
       "url": "https://www.theguardian.com/football/live/2026/jul/06/world-cup-2026-england-set-up-norway-quarter-final-after-mexico-thriller-trump-lobbied-for-balogun-red-card-reversal-live",
       "source": "The Guardian",
-      "published_at": "2026-07-06T13:50:20+00:00",
+      "published_at": "2026-07-06T16:58:42+00:00",
       "summary": "⚽️ World Cup news and reaction as the last 16 continues ⚽️ Uefa accuses Fifa of ‘crossing red line’ over Balogun ⚽️ Mexico 2-3 England | Player guide | And email us We haven’t even mentioned Balogun-gate yet. The Belgian FA, and you can assume a large proportion of the football w",
       "teams": [
         "Mexico",
         "Bosnia & Herzegovina",
         "Belgium",
-        "Norway",
         "England"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "1860e9ffbec9",
+      "title": "Uefa has put European football on war footing with Fifa over Balogun decision | Matt Hughes",
+      "url": "https://www.theguardian.com/football/2026/jul/06/uefa-fifa-folarin-balogun-controversy-decision-usa-belgium-gianni-infantino-aleksander-ceferin",
+      "source": "The Guardian",
+      "published_at": "2026-07-06T15:54:47+00:00",
+      "summary": "European governing body’s dramatic move could have major implications for the future of the sport Perhaps the only globally renowned figure who has been more conspicuous by his absence at this World Cup than Donald Trump is the Uefa president, Aleksander Ceferin, although both me",
+      "teams": [
+        "USA",
+        "Belgium"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "63767bec60c4",
+      "title": "Burn’s blocks, Pickford’s punches: the data behind England’s defensive heroics",
+      "url": "https://www.theguardian.com/football/2026/jul/06/england-mexico-win-numbers-thomas-tuchel-jordan-pickford-dan-burn",
+      "source": "The Guardian",
+      "published_at": "2026-07-06T15:29:38+00:00",
+      "summary": "While England conceded twice to Mexico and survived a siege at Azteca, numbers show a performance of true grit Was this England’s best performance since 1966? On the surface, England conceded 20 shots in their 3-2 win against Mexico at the Azteca Stadium – which sounds alarming. ",
+      "teams": [
+        "Mexico",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b57de3138c55",
+      "title": "Trump confirms he asked Fifa to review Balogun ban",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-06T15:27:59+00:00",
+      "summary": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "992d9ff3708c",
+      "title": "Henderson expected to have surgery on injured wrist",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgmmm5923yo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-06T15:22:38+00:00",
+      "summary": "Jordan Henderson is expected to have surgery on the wrist injury he sustained while celebrating England's win over Mexico on Monday.",
+      "teams": [
+        "Mexico",
+        "Jordan",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "0cb6c11105e0",
+      "title": "Who has your Premiership club brought in & let go this summer?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-06T14:25:31+00:00",
+      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "82ee9153ea5c",
+      "title": "Beever-Jones signs new contract until 2030 with Chelsea",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn599py6xvlo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-06T14:00:57+00:00",
+      "summary": "England forward Aggie Beever-Jones signs a new contract with Chelsea, extending her stay at the club she joined as a nine-year-old until 2030.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "6db10fe86a67",
@@ -35,7 +123,7 @@
     },
     {
       "id": "507fdd867db7",
-      "title": "As Norway make history, is Wright correct about Scottish football's ills?",
+      "title": "As Norway advance, is Wright correct about Scottish football's ills?",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yz9nnp2p1o",
       "source": "BBC Sport",
       "published_at": "2026-07-06T13:41:55+00:00",
@@ -162,18 +250,6 @@
       "is_injury_related": false
     },
     {
-      "id": "dc3fc76555e0",
-      "title": "Unwelcome and undue: Trump’s red-card intervention hurts the US’s World Cup more than it helps | Pablo Iglesias Maurer",
-      "url": "https://www.theguardian.com/football/2026/jul/06/donald-trump-folarin-balogun-world-cup-usmnt-intervention",
-      "source": "The Guardian",
-      "published_at": "2026-07-06T09:00:01+00:00",
-      "summary": "In pushing Fifa to reverse Folarin Balogun’s suspension, the president did the most American thing possible: assert unasked-for power to get his way The story of Garrincha’s red card in the 1962 World Cup is the stuff of legend. The Brazilian great was sent off in the semi-finals",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "5e861ea49e13",
       "title": "Quiz: Name every team England have played in a World Cup quarter-final",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8j22mvdgp4o",
@@ -238,33 +314,6 @@
       "is_injury_related": false
     },
     {
-      "id": "c36c02864bf3",
-      "title": "England rise to Azteca occasion and see off ghosts, time and Mexico | Barney Ronay",
-      "url": "https://www.theguardian.com/football/2026/jul/06/england-azteca-mexico-world-cup",
-      "source": "The Guardian",
-      "published_at": "2026-07-06T06:10:47+00:00",
-      "summary": "This was the most extraordinary night of football as an experience of the mind, body, bones, guts and blood “Enn-JOYYY this unforrrgGEDDABLE Fifa Worrrld Cup … expPERRIENCE!!” the strangely guileless American-accented public address had commanded, with 40 minutes still to run bef",
-      "teams": [
-        "Mexico",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "3791c89b6816",
-      "title": "Henderson injures wrist in England celebrations",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9822ez0zdwo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-06T05:56:19+00:00",
-      "summary": "England midfielder Jordan Henderson suffered a \"really bad\" while celebrating his side's World Cup win over Mexico, head coach Thomas Tuchel says.",
-      "teams": [
-        "Mexico",
-        "Jordan",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "341ea3e6efd1",
       "title": "'Iconic match at iconic stadium' - England win down to 'pure will'",
       "url": "https://www.bbc.co.uk/sport/football/articles/cly00xq39n1o",
@@ -298,18 +347,6 @@
       "summary": "For Mexico's football-loving community, the World Cup has been a triumph, despite their last-16 exit. The joy has spread to Southern California, home to one of the largest Mexican communities outside Mexico.",
       "teams": [
         "Mexico"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "bb0fff214598",
-      "title": "Family travels 6,500 miles to see son play 13 minutes at World Cup",
-      "url": "https://www.bbc.co.uk/news/articles/c15ydv51p25o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-06T05:14:43+00:00",
-      "summary": "Callan Elliot's family flew thousands of miles to see their son - originally from Annan - play for New Zealand.",
-      "teams": [
-        "New Zealand"
       ],
       "is_injury_related": false
     },
@@ -647,18 +684,6 @@
       "is_injury_related": false
     },
     {
-      "id": "0cb6c11105e0",
-      "title": "Who has your Premiership club brought in & let go? - Summer 2026",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-04T23:15:31+00:00",
-      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "ff4ad94f3a54",
       "title": "Mbappe coolly fires France into lead from penalty spot",
       "url": "https://www.bbc.co.uk/sport/football/videos/c1dy2y6xyr5o",
@@ -874,18 +899,6 @@
       "is_injury_related": false
     },
     {
-      "id": "98ded66d24f6",
-      "title": "WSL newcomers Crystal Palace agree deal for Enge",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c04yxwl4qdro",
-      "source": "BBC Sport",
-      "published_at": "2026-07-03T12:19:38+00:00",
-      "summary": "Women's Super League newcomers Crystal Palace are set to sign midfielder Sierra Enge from French side Strasbourg.",
-      "teams": [
-        "France"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "00eec95caad5",
       "title": "Aston Villa sign Norway midfielder Kielland",
       "url": "https://www.bbc.co.uk/sport/football/articles/cp8r4dp1l6wo",
@@ -973,19 +986,6 @@
         "Germany"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "f2eae126f337",
-      "title": "What you need to know about England's last-16 opponents Mexico",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8d25v111r6o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-01T23:02:52+00:00",
-      "summary": "England will face Mexico in the World Cup round of 16. Here is what you need to know about them.",
-      "teams": [
-        "Mexico",
-        "England"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "a5ffe74040ec",
