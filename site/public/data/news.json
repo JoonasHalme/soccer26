@@ -1,18 +1,117 @@
 {
-  "generated_at": "2026-07-06T04:36:11.443727+00:00",
+  "generated_at": "2026-07-06T09:08:46.863076+00:00",
   "sources": [
     "BBC Sport",
-    "The Guardian",
-    "ESPN"
+    "The Guardian"
   ],
   "items": [
     {
-      "id": "9dd8070d3249",
-      "title": "Haaland brings the thunder, strikes down Brazil as...",
-      "url": "https://www.espn.com/soccer/story/_/id/49280315/haaland-brings-thunder-strikes-brazil-norway-reach-quarterfinals-2026-world-cup",
-      "source": "ESPN",
-      "published_at": "2026-07-06T05:32:25+00:00",
-      "summary": "Brazil's World Cup hopes were dashed by Erling Haaland, whose stunning brace propelled Norway to the quarterfinals.",
+      "id": "77ceabc6557d",
+      "title": "Red card system in disarray over Trump, Fifa and Balogun decision",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly99dxjkxxo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-06T09:06:26+00:00",
+      "summary": "The decision to effectively overturn the red card shown to United States forward Folarin Balogun leaves many unanswered questions.",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "19b014064ec7",
+      "title": "What are the games to look out for in the Scottish League Cup?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8kkj0p4vyo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-06T09:02:34+00:00",
+      "summary": "Four top-flight clubs open their competitive season in the group stages of the Scottish League Cup on Saturday.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "36964e42e6b1",
+      "title": "Tuchel criticises Fifa over Balogun - where does this end?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzzd73871o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-06T08:36:59+00:00",
+      "summary": "England coach Thomas Tuchel says there is total confusion over the disciplinary process after Fifa's shock decision not to ban Folarin Balogun.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "5e861ea49e13",
+      "title": "Quiz: Name every team England have played in a World Cup quarter-final",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8j22mvdgp4o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-06T08:12:59+00:00",
+      "summary": "Norway will be the 11th team England will have faced in a World Cup quarter-final - so can you name the other 10?",
+      "teams": [
+        "Norway",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d501cda97cd9",
+      "title": "‘Bullshit’: Socceroo Awer Mabil hits out at Pauline Hanson’s monoculture claim",
+      "url": "https://www.theguardian.com/football/2026/jul/06/socceroo-awer-mabil-on-pauline-hanson-monoculture-claim",
+      "source": "The Guardian",
+      "published_at": "2026-07-06T07:56:13+00:00",
+      "summary": "‘We know what we represent,’ says Australian footballer Mabil returns home after Socceroos’ World Cup exit The suggestion that Australia is not a multicultural society is “bullshit”, Socceroo Awer Mabil has said, following Pauline Hanson’s claim that the national team embodies he",
+      "teams": [
+        "Australia",
+        "Egypt"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "9a5a2d98e342",
+      "title": "Let’s talk about Mikel Oyarzabal: Spain’s quiet man forced into the limelight",
+      "url": "https://www.theguardian.com/football/2026/jul/06/mikel-oyarzabal-spain-world-cup-2026-portugal",
+      "source": "The Guardian",
+      "published_at": "2026-07-06T07:00:06+00:00",
+      "summary": "The 29-year-old forward always avoided attention, but his World Cup goals have dragged him into the centre of the conversation We have to talk about Mikel Oyarzabal. When Spain scored their third goal against Austria in Los Angeles, cameras caught Lamine Yamal’s little brother ce",
+      "teams": [
+        "Spain",
+        "Austria"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "41efbfc4c92c",
+      "title": "Brazil’s World Cup exit raises a question: are they more a brand than a team?",
+      "url": "https://www.theguardian.com/football/2026/jul/06/brazil-world-cup-2026-norway-defeat",
+      "source": "The Guardian",
+      "published_at": "2026-07-06T07:00:06+00:00",
+      "summary": "A decidedly unremarkable Brazilian team had looked tentative at this tournament. A sixth World Cup title looks a long way off Brazil were 1-0 down . At first, a few yellow jerseys wandered up the aisles and out to the concourse, writing off the small fortunes they had invested in",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "8b3c532e7a64",
+      "title": "England’s unbelievable night at the Azteca | World Cup Daily – video",
+      "url": "https://www.theguardian.com/football/video/2026/jul/06/england-unbelievable-night-at-the-azteca-world-cup-daily-video-podcast",
+      "source": "The Guardian",
+      "published_at": "2026-07-06T06:59:18+00:00",
+      "summary": "Max Rushden is joined by Barry Glendenning , Archie Rhind-Tutt , Nicky Bandini and Lars Sivertsen as England beat Mexico 3-2 at the Azteca in an all-time great World Cup game Continue reading...",
+      "teams": [
+        "Mexico",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "43f65a33a83c",
+      "title": "Neymar says Brazil career over after Norway defeat",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyww4w1rl8o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-06T06:29:41+00:00",
+      "summary": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway.",
       "teams": [
         "Brazil",
         "Norway"
@@ -20,12 +119,12 @@
       "is_injury_related": false
     },
     {
-      "id": "5ef50f270d79",
-      "title": "England end Mexico's World Cup with best win on fo...",
-      "url": "https://www.espn.com/soccer/story/_/id/49283101/england-end-mexico-world-cup-best-win-foreign-soil-their-history",
-      "source": "ESPN",
-      "published_at": "2026-07-06T05:19:49+00:00",
-      "summary": "Outside of England, the Three Lions' World Cup history is mixed at best, but they defied the odds to grind out an emotional last-16 win over Mexico.",
+      "id": "c36c02864bf3",
+      "title": "England rise to Azteca occasion and see off ghosts, time and Mexico | Barney Ronay",
+      "url": "https://www.theguardian.com/football/2026/jul/06/england-azteca-mexico-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-07-06T06:10:47+00:00",
+      "summary": "This was the most extraordinary night of football as an experience of the mind, body, bones, guts and blood “Enn-JOYYY this unforrrgGEDDABLE Fifa Worrrld Cup … expPERRIENCE!!” the strangely guileless American-accented public address had commanded, with 40 minutes still to run bef",
       "teams": [
         "Mexico",
         "England"
@@ -33,17 +132,68 @@
       "is_injury_related": false
     },
     {
-      "id": "fc90ec73dd36",
-      "title": "England defeat Mexico despite second-half red card...",
-      "url": "https://www.espn.com/soccer/story/_/id/49265317/world-cup-live-updates-mexico-host-england-round-16-clash",
-      "source": "ESPN",
-      "published_at": "2026-07-06T05:19:49+00:00",
-      "summary": "null",
+      "id": "3791c89b6816",
+      "title": "Henderson injures wrist in England celebrations",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9822ez0zdwo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-06T05:56:19+00:00",
+      "summary": "England midfielder Jordan Henderson suffered a \"really bad\" while celebrating his side's World Cup win over Mexico, head coach Thomas Tuchel says.",
+      "teams": [
+        "Mexico",
+        "Jordan",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "341ea3e6efd1",
+      "title": "'Iconic match at iconic stadium' - England win down to 'pure will'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly00xq39n1o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-06T05:51:18+00:00",
+      "summary": "England are praised for showing \"heart and belief\" as they beat Mexico in an \"iconic match at an iconic stadium\" to reach the World Cup quarter-finals.",
       "teams": [
         "Mexico",
         "England"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "23ba273a48a1",
+      "title": "An incredible night when England heroes were made",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjrgg07p8dlo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-06T05:51:10+00:00",
+      "summary": "On a spine-tingling night of drama, emotion and pure theatre in one of sport's most atmospheric arenas, England delivered one of their greatest performances.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "bb0fff214598",
+      "title": "Family travels 6,500 miles to see son play 13 minutes at World Cup",
+      "url": "https://www.bbc.co.uk/news/articles/c15ydv51p25o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-06T05:14:43+00:00",
+      "summary": "Callan Elliot's family flew thousands of miles to see their son - originally from Annan - play for New Zealand.",
+      "teams": [
+        "New Zealand"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "91a8efe167d0",
+      "title": "What Haaland's home town did when Norway beat Brazil",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cd955kdlenxo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-06T04:58:10+00:00",
+      "summary": "Watch how Erling Haaland's hometown of Bryne reacted to their hero scoring both goals as Norway knocked out Brazil to advance to the quarter-final of the World Cup.",
+      "teams": [
+        "Brazil",
+        "Norway"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "f3146dc77f23",
@@ -59,115 +209,12 @@
       "is_injury_related": false
     },
     {
-      "id": "70a173ba85ab",
-      "title": "Belgium furious at Balogun U-turn: It's April Fool...",
-      "url": "https://www.espn.com/soccer/story/_/id/49279471/belgium-usa-folarin-balogun-ban-suspended-fifa-world-cup-2026",
-      "source": "ESPN",
-      "published_at": "2026-07-06T04:10:51+00:00",
-      "summary": "Belgium coach Rudi Garcia said he thought it was a joke when he first heard news that suspended United States striker Folarin Balogun was cleared to play in the Americans' round-of-16 match.",
-      "teams": [
-        "USA",
-        "Belgium"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "7043f66efdb9",
-      "title": "England survive to beat Mexico in Azteca thriller",
-      "url": "https://www.espn.com/soccer/story/_/id/49282902/england-mexico-2026-world-cup-azteca-red-card-bellingham",
-      "source": "ESPN",
-      "published_at": "2026-07-06T04:10:50+00:00",
-      "summary": "England survived a raucous Azteca Stadium atmosphere and a red card early in the second half to prevail past co-hosts Mexico 3-2 in a thrilling World Cup round-of-16 clash in Mexico City on Sunday.",
-      "teams": [
-        "Mexico",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "5b54d72baebc",
-      "title": "Tearful Neymar retires from Brazil after WC exit",
-      "url": "https://www.espn.com/soccer/story/_/id/49281072/neymar-brazil-retires-world-cup-2026-exit-norway",
-      "source": "ESPN",
-      "published_at": "2026-07-06T04:10:50+00:00",
-      "summary": "An emotional Neymar said his career with Brazil had \"finished\" after his team's World Cup exit at the hands of Norway in the round of 16 on Sunday.",
-      "teams": [
-        "Brazil",
-        "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "6dd284563a9b",
-      "title": "Haaland: Brazil win 'greatest game' in our history...",
-      "url": "https://www.espn.com/soccer/story/_/id/49281422/erling-haaland-brazil-win-greatest-game-norway-history",
-      "source": "ESPN",
-      "published_at": "2026-07-06T04:10:50+00:00",
-      "summary": "Erling Haaland said his two-goal match-winning performance in Norway's 2-1 World Cup round-of-16 victory against Brazil capped an \"insane\" day in his country's history -- and its greatest game.",
-      "teams": [
-        "Brazil",
-        "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f9fc1f9bbe5d",
-      "title": "Poch: U.S. 'punished enough' for Balogun red card",
-      "url": "https://www.espn.com/soccer/story/_/id/49281013/pochettino-says-us-punished-enough-balogun-red-card",
-      "source": "ESPN",
-      "published_at": "2026-07-06T04:10:50+00:00",
-      "summary": "United States manager Mauricio Pochettino praised FIFA's decision to lift the suspension on U.S. forward Folarin Balogun, saying the USMNT was \"punished enough\" by having to play shorthanded against Bosnia-Herzegovina for 35 minutes.",
-      "teams": [
-        "Bosnia & Herzegovina",
-        "USA"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "c15bcd632e17",
-      "title": "Ronaldo: 'This will be my last World Cup'",
-      "url": "https://www.espn.com/soccer/story/_/id/49278881/cristiano-ronaldo-world-cup-2026-portugal",
-      "source": "ESPN",
-      "published_at": "2026-07-06T04:10:50+00:00",
-      "summary": "Cristiano Ronaldo has admitted that this will be his last World Cup, as he prepares to face Spain with Portugal in Monday's round of 16 clash in Dallas.",
-      "teams": [
-        "Spain",
-        "Portugal"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "b1b19a551b8e",
-      "title": "FIFA suspends Balogun red card, can face Belgium",
-      "url": "https://www.espn.com/soccer/story/_/id/49277378/usmnt-folarin-balogun-red-card-suspended-belgium",
-      "source": "ESPN",
-      "published_at": "2026-07-06T04:10:18+00:00",
-      "summary": "FIFA has suspended the red card U.S. striker Folarin Balogun received in the team's match against Bosnia-Herzegovina, making him available to face Belgium in the round of 16 at the World Cup.",
-      "teams": [
-        "Bosnia & Herzegovina",
-        "Belgium"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "d282e7b04ec7",
-      "title": "Ancelotti vows to start a 'new cycle' for Brazil",
-      "url": "https://www.espn.com/soccer/story/_/id/49281885/carlo-ancelotti-vows-start-new-cycle-brazil-world-cup-exit",
-      "source": "ESPN",
-      "published_at": "2026-07-06T04:10:18+00:00",
-      "summary": "Brazil coach Carlo Ancelotti said he's looking to oversee a \"new cycle\" with the team after they crashed out of the World Cup on Sunday in the round of 16.",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "4ba8efa31a24",
-      "title": "England win thriller against Mexico to reach quarter-finals",
+      "title": "England win epic tie against Mexico to reach quarter-finals",
       "url": "https://www.bbc.co.uk/sport/football/videos/c9w22dqpjw9o",
       "source": "BBC Sport",
       "published_at": "2026-07-06T04:06:23+00:00",
-      "summary": "Jude Bellingham scores twice and Harry Kane converts a penalty as 10-man England hold on for a 3-2 World Cup victory against Mexico.",
+      "summary": "Jude Bellingham scores twice and Harry Kane converts a penalty as 10-man England beat Mexico 3-2 in the World Cup.",
       "teams": [
         "Mexico",
         "England"
@@ -244,7 +291,7 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cq6115rj9ymo",
       "source": "BBC Sport",
       "published_at": "2026-07-06T02:50:51+00:00",
-      "summary": "England head coach Thomas Tuchel said referees at the World Cup \"are just not good enough\" after the dramatic last-16 win over Mexico.",
+      "summary": "England head coach Thomas Tuchel says referees at the World Cup \"are just not good enough\" after the dramatic last-16 win over Mexico.",
       "teams": [
         "Mexico",
         "England"
@@ -265,18 +312,6 @@
       "is_injury_related": false
     },
     {
-      "id": "750b1315b82f",
-      "title": "Nobody benefits from FIFA letting Balogun off the ...",
-      "url": "https://www.espn.com/soccer/story/_/id/49278521/nobody-benefits-fifa-letting-balogun-hook-not-even-usmnt",
-      "source": "ESPN",
-      "published_at": "2026-07-06T02:23:20+00:00",
-      "summary": "The U.S. will be buzzing to have Folarin Balogun available vs. Belgium on Monday, but FIFA's U-turn on his suspension is a bad look for this World Cup",
-      "teams": [
-        "Belgium"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "d7147a96966a",
       "title": "Bellingham scores two in 98 seconds to silence the Azteca",
       "url": "https://www.bbc.co.uk/sport/football/videos/ce3ee5dkvpro",
@@ -290,12 +325,38 @@
       "is_injury_related": false
     },
     {
+      "id": "f773ab7ecaa6",
+      "title": "World Cup 2026: England beat Mexico in thriller at the Azteca – in pictures",
+      "url": "https://www.theguardian.com/football/gallery/2026/jul/06/world-cup-2026-mexico-v-england-at-the-azteca-in-pictures",
+      "source": "The Guardian",
+      "published_at": "2026-07-06T01:35:26+00:00",
+      "summary": "The best pictures from a sensational knockout fixture which began after a one-hour storm delay Continue reading...",
+      "teams": [
+        "Mexico",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "f3ae66458019",
       "title": "Ageing Brazil need major surgery - but is Ancelotti the man to do it?",
       "url": "https://www.bbc.co.uk/sport/football/articles/c20yywnqwl5o",
       "source": "BBC Sport",
       "published_at": "2026-07-06T00:51:36+00:00",
       "summary": "There was nothing unlucky about Brazil's loss to Norway in the last 16 of the World Cup and their exit at this stage is an unmitigated disaster, writes Tim Vickery.",
+      "teams": [
+        "Brazil",
+        "Norway"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ccb7b92864b3",
+      "title": "Erling Haaland hails ‘one of the sickest days’ in Norway’s history after beating Brazil",
+      "url": "https://www.theguardian.com/football/2026/jul/06/erling-haaland-one-of-the-sickest-days-norway-history-beating-brazil-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-07-06T00:44:14+00:00",
+      "summary": "Coach calls it ‘greatest day’ in country’s football history Neymar appears to announce Brazil retirement Ståle Solbakken called it “the greatest day in Norwegian football history” while Erling Haaland labelled it one of “the sickest”. One thing is for certain, however: Norway are",
       "teams": [
         "Brazil",
         "Norway"
@@ -325,30 +386,6 @@
       "teams": [
         "Brazil",
         "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "77ceabc6557d",
-      "title": "Red card system in disarray over Trump, Fifa and Balogun decision",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly99dxjkxxo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-05T23:57:10+00:00",
-      "summary": "The decision to effectively overturn the red card shown to United States forward Folarin Balogun leaves many unanswered questions.",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "104ca6212f9a",
-      "title": "Can Egypt get the ball to their stars? One big que...",
-      "url": "https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon",
-      "source": "ESPN",
-      "published_at": "2026-07-05T23:23:40+00:00",
-      "summary": "As this week sees the World Cup field cut from 32 to 16, we're wondering what the biggest issue is for each team still in the tournament.",
-      "teams": [
-        "Egypt"
       ],
       "is_injury_related": false
     },
@@ -391,31 +428,6 @@
       "is_injury_related": true
     },
     {
-      "id": "aa97c20488f1",
-      "title": "A key USMNT World Cup perk: An embedded barber, wh...",
-      "url": "https://www.espn.com/soccer/story/_/id/49271996/where-does-usmnt-rank-great-world-cup-hairstyles",
-      "source": "ESPN",
-      "published_at": "2026-07-05T22:25:05+00:00",
-      "summary": "The USMNT's unique hairstyles are turning heads at the World Cup, and it's thanks to their embedded barber who gives them fresh cuts in camp.",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "2d9638438ebc",
-      "title": "Haaland’s heroic double stuns Brazil and sends Norway into World Cup quarter-finals",
-      "url": "https://www.theguardian.com/football/2026/jul/05/brazil-norway-world-cup-2026-last-16-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-07-05T22:15:11+00:00",
-      "summary": "We’re going to need a bigger longboat. Norway are into the quarter-finals of the World Cup for the first time, progressing thanks to the man whose smile, and choice in cowboy apparel, has charmed the US. Erling Haaland delivered again for his country, scoring two goals in the las",
-      "teams": [
-        "Brazil",
-        "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "d766bbff8249",
       "title": "Trump lobbied Fifa to lift Folarin Balogun suspension for World Cup game v Belgium",
       "url": "https://www.theguardian.com/football/2026/jul/05/folarin-balogun-red-card-suspension-lifted-usmnt-belgium-world-cup",
@@ -427,31 +439,6 @@
         "Belgium"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "879376106dac",
-      "title": "France pass toughest World Cup test yet in beating...",
-      "url": "https://www.espn.com/soccer/story/_/id/49272197/france-kylian-mbappe-paraguay-world-cup-reaction-analysis",
-      "source": "ESPN",
-      "published_at": "2026-07-05T20:55:28+00:00",
-      "summary": "France haven't really been challenged yet at this World Cup in the way Paraguay tested them Sunday, but Mbappe & Co. were able to stay cool in the sweltering heat and advance to the quarterfinals.",
-      "teams": [
-        "Paraguay",
-        "France"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "0e40cefb66dd",
-      "title": "World Cup VAR review: Did France deserve deciding ...",
-      "url": "https://www.espn.com/soccer/story/_/id/49027532/world-cup-2026-var-review-red-card-penalty-handball-goal-line-technology",
-      "source": "ESPN",
-      "published_at": "2026-07-05T20:55:28+00:00",
-      "summary": "null",
-      "teams": [
-        "France"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "4d3287633449",
@@ -493,19 +480,6 @@
       "is_injury_related": false
     },
     {
-      "id": "09281b4d9bab",
-      "title": "Postcards from the World Cup: Seeing the U.S., Canada and Mexico play at home",
-      "url": "https://www.espn.com/soccer/story/_/id/49249888/world-cup-postcards-travel-usa-los-angeles-mexico-guadalajara-canada-vancouver",
-      "source": "ESPN",
-      "published_at": "2026-07-05T18:20:23+00:00",
-      "summary": "The 2026 World Cup has been unique for being co-hosted by three countries, the U.S., Canada and Mexico. What has the tournament been like in each nation? Mark Ogden went to find out.",
-      "teams": [
-        "Mexico",
-        "Canada"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "80d8dfa9fc86",
       "title": "Paraguay showed France can be stifled – Morocco will have taken note | Paul MacInnes",
       "url": "https://www.theguardian.com/football/2026/jul/05/paraguay-france-morocco-world-cup-2026",
@@ -520,45 +494,6 @@
       "is_injury_related": true
     },
     {
-      "id": "6f2a175e9d8d",
-      "title": "Odds to win the World Cup: France, Morocco advance...",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "source": "ESPN",
-      "published_at": "2026-07-05T17:36:52+00:00",
-      "summary": "Odds for every team to advance through the round of 16 and to win the 2026 World Cup.",
-      "teams": [
-        "Morocco",
-        "France"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "c12a68036d14",
-      "title": "Freddy the German: psyop, mirror to US rapacity or Tocqueville in a CR7 shirt?",
-      "url": "https://www.theguardian.com/football/2026/jul/05/freddy-the-german-world-cup-2026",
-      "source": "The Guardian",
-      "published_at": "2026-07-05T16:08:33+00:00",
-      "summary": "The true identity of the World Cup’s breakout fan has been the topic of feverish debate. He is also the tournament’s most revealing character Farewell, then, Freddy – the fan whose face we never saw, the German we never heard speak German, the man forever behind the emoji, the Wo",
-      "teams": [
-        "USA",
-        "Germany"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e63fc2db7788",
-      "title": "France deliver knockout punch to Paraguay in the Battle of Philadelphia",
-      "url": "https://www.theguardian.com/football/2026/jul/05/football-daily-france-knockout-punch-paraguay-battle-of-philadelphia-world-cup",
-      "source": "The Guardian",
-      "published_at": "2026-07-05T15:15:40+00:00",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! “Good evening. The game you are about to see is the most stupid, appalling, disgusting and disgraceful exhibition of football in the history of the game.” Were David Coleman still around, then perhaps the highlights package of F",
-      "teams": [
-        "Paraguay",
-        "France"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "3e993f7cc781",
       "title": "Thousands welcome home Cape Verde players after stunning World Cup run",
       "url": "https://www.bbc.co.uk/news/articles/c70yy4xkeexo",
@@ -567,32 +502,6 @@
       "summary": "Tens of thousands of fans formed an ocean of blue outside the airport in capital city, Praia.",
       "teams": [
         "Cape Verde"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "82acac129ddf",
-      "title": "Canada co-hosted the World Cup – but whose party was it?",
-      "url": "https://www.theguardian.com/football/2026/jul/05/canada-co-hosted-the-world-cup-but-whose-party-was-it",
-      "source": "The Guardian",
-      "published_at": "2026-07-05T13:48:26+00:00",
-      "summary": "Les Rouges brought moments of joy to their nation. But there are plenty of questions around Canadian soccer as the tournament moves on It was standing room only on Saturday lunchtime in Toronto’s oldest bar, the&nbsp;Wheatsheaf. For some, the wake had already begun. Nestled in th",
-      "teams": [
-        "Canada",
-        "Morocco"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "c097a456b7ea",
-      "title": "Thanks to Ounahi magic, Morocco sweep past Canada ...",
-      "url": "https://www.espn.com/soccer/story/_/id/49270923/morocco-canada-world-cup-analysis-azzedine-ounahi-jesse-marsch-round-16",
-      "source": "ESPN",
-      "published_at": "2026-07-05T13:29:03+00:00",
-      "summary": "Canada boss Jesse Marsch may have felt his side was the better team on Saturday, but Morocco's 3-0 win -- led by Azzedine Ounahi -- told a different story.",
-      "teams": [
-        "Canada",
-        "Morocco"
       ],
       "is_injury_related": false
     },
@@ -619,85 +528,6 @@
         "Brazil"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "2cdfe831e35d",
-      "title": "England enter the Azteca - where football kings are crowned",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg74e324835o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-05T08:26:39+00:00",
-      "summary": "BBC Sport explores the history and cultural power of the Azteca, one of the great cathedrals of world football, as England prepare to face Mexico there in the last 16 of the World Cup.",
-      "teams": [
-        "Mexico",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "2e5b0baf5a3d",
-      "title": "'Sassuolo and Bologna in Bowie transfer talks' - gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1ly222d9djo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-05T08:03:15+00:00",
-      "summary": "Sassuolo and Bologna are reportedly in talks with Hellas Verona about Kieron Bowie, while Celtic are linked with Norwegian striker Tobias Lauritsen and three clubs are said to be chasing former Rangers loanee Mikey Moore.",
-      "teams": [
-        "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "a07f9e18f8cd",
-      "title": "France find a way past Paraguay and what awaits England in Mexico? | World Cup Daily – video",
-      "url": "https://www.theguardian.com/football/video/2026/jul/05/france-paraguay-england-mexico-world-cup-daily-podcast-video",
-      "source": "The Guardian",
-      "published_at": "2026-07-05T07:49:38+00:00",
-      "summary": "Max Rushden is joined by Barry Glendenning , Archie Rhind-Tutt, Barney Ronay and Philippe Auclair as France beat a spiky Paraguay side to reach the quarter-finals Continue reading...",
-      "teams": [
-        "Mexico",
-        "Paraguay",
-        "France",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "c024a0a976e3",
-      "title": "Luis de la Fuente: ‘I say this with the greatest respect: we have the best midfield in the world’",
-      "url": "https://www.theguardian.com/football/2026/jul/05/luis-de-la-fuente-spain-world-cup-2026-lamine-yamal",
-      "source": "The Guardian",
-      "published_at": "2026-07-05T07:00:21+00:00",
-      "summary": "Spain’s manager answers your questions on advice for Lamine Yamal, the hardest thing about being a coach and how the current team compares to the winners of 2010 “You’ve filtered these, right?” Luis de la Fuente asks, looking at the laptop of your questions on the table in front ",
-      "teams": [
-        "Spain",
-        "Cape Verde",
-        "Argentina",
-        "Portugal"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "2af74a7efaea",
-      "title": "Lionel Messi and football’s ageless wonders can excel into their 40s | Emma Hayes",
-      "url": "https://www.theguardian.com/football/2026/jul/05/lionel-messi-ageless-wonders-world-cup",
-      "source": "The Guardian",
-      "published_at": "2026-07-05T07:00:20+00:00",
-      "summary": "Argentina’s captain leads the way for veteran strikers at World Cup. They have different styles, but all have shown their worth I would be shocked if the record for the most goals scored by a player in a World Cup – Just Fontaine’s 13 in 1958 – is not broken this summer. That is ",
-      "teams": [
-        "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "90f51660fbce",
-      "title": "Football is at the centre of the universe in Brazil in a way it is not in the US | Rodrygo",
-      "url": "https://www.theguardian.com/football/2026/jul/05/football-centre-of-universe-brazil-not-in-us",
-      "source": "The Guardian",
-      "published_at": "2026-07-05T07:00:20+00:00",
-      "summary": "Huge parties take place when the national team play but people in Brazil cherish a good game, whoever is playing The World Cup atmosphere, which, for many of us, is one of the most infectious feelings there is, has, in the US been confined to the stadiums, the surrounding streets",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "d9481367cdb1",
@@ -803,19 +633,6 @@
       "is_injury_related": false
     },
     {
-      "id": "679a4cb673db",
-      "title": "Morocco reach quarter-finals as co-hosts Canada knocked out",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cddlpql2e98o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-04T19:49:57+00:00",
-      "summary": "Canada become the first of co-hosts to exit the 2026 World Cup, after being beaten 3-0 by Morocco in Houston.",
-      "teams": [
-        "Canada",
-        "Morocco"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "108176f827a9",
       "title": "Fenerbahce complete deal to sign Ake from Man City",
       "url": "https://www.bbc.co.uk/sport/football/articles/c20y27eqj13o",
@@ -864,19 +681,6 @@
       "published_at": "2026-07-04T11:54:18+00:00",
       "summary": "England-capped midfielder Alex Oxlade-Chamberlain signs a new one-year contract with Celtic.",
       "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "89bfc57968df",
-      "title": "Lightning, hotel security and spying - issues England face in Mexico",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2x1gwwjego",
-      "source": "BBC Sport",
-      "published_at": "2026-07-04T11:23:54+00:00",
-      "summary": "England are booed as they arrive at their Mexico City hotel to prepare for their World Cup last-16 game against Mexico - and it's not the only issue they face.",
-      "teams": [
-        "Mexico",
         "England"
       ],
       "is_injury_related": false
@@ -990,19 +794,6 @@
       "is_injury_related": false
     },
     {
-      "id": "56fad51bcab8",
-      "title": "Five and a half hours that left England's World Cup tie in chaos",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0ey24q42w2o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-04T01:36:43+00:00",
-      "summary": "For several hours on Friday, no-one seemed to know when England's World Cup last-16 match against co-hosts Mexico would kick off. BBC Sport explains how a story of confusion and anger - culminating in a Fifa U-turn - unfolded.",
-      "teams": [
-        "Mexico",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "e80cf3279ee8",
       "title": "Cape Verde threaten shock for the ages before Argentina break hearts in World Cup classic",
       "url": "https://www.theguardian.com/football/2026/jul/04/argentina-cape-verde-world-cup-2026-last-32-match-report",
@@ -1037,6 +828,209 @@
       "summary": "Former Sheffield United player Nina Wilson ‘tried to escalate concerns’ Morgan to give evidence to inquest on Monday The former Sheffield United goalkeeper Nina Wilson has told an inquest that she had “tried to escalate concerns” about the manager Jonathan Morgan prior to her tea",
       "teams": [
         "Australia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "670a6441eedf",
+      "title": "Chelsea sign Japan midfielder Matsukubo",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ry2g0d579o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-03T19:58:13+00:00",
+      "summary": "Chelsea sign Japan international Manaka Matsukubo on a five-year contract from North Carolina Courage.",
+      "teams": [
+        "Japan"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "4b2ffde4e983",
+      "title": "My Mexico 1986 memories of Maradona, the Azteca and a commentary faux pas | David Pleat",
+      "url": "https://www.theguardian.com/football/2026/jul/03/england-mexico-world-cup-2026-azteca-stadium-diego-maradona-argentina",
+      "source": "The Guardian",
+      "published_at": "2026-07-03T18:00:35+00:00",
+      "summary": "Working at the 1986 World Cup match was unforgettable thanks to the most controversial goal in history and then the best I have seen live When I took my first television work with ITV at the 1986 World Cup in Mexico, I never imagined I would attend a game that would be an iconic ",
+      "teams": [
+        "Mexico",
+        "Argentina",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "720f3691190a",
+      "title": "Ange Postecoglou to manage Cristiano Ronaldo after landing Al-Nassr job",
+      "url": "https://www.theguardian.com/football/2026/jul/03/ange-postecoglou-head-coach-al-nassr-cristiano-ronaldo",
+      "source": "The Guardian",
+      "published_at": "2026-07-03T17:22:56+00:00",
+      "summary": "Former Tottenham manager signs two-year contract Al-Nassr won the Saudi Pro League last season Ange Postecoglou has been appointed as the new head coach of the Saudi Pro League champions, ⁠Al-Nassr, on a two-year deal as the Australian attempts ⁠to revive his ⁠career ​after two b",
+      "teams": [
+        "Australia",
+        "Saudi Arabia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "75ff061d9d19",
+      "title": "Fulham make move for Crysencio Summerville while Granit Xhaka stays at Sunderland",
+      "url": "https://www.theguardian.com/football/2026/jul/03/fulham-move-for-west-ham-crysencio-summerville",
+      "source": "The Guardian",
+      "published_at": "2026-07-03T17:18:07+00:00",
+      "summary": "Chelsea and Manchester United also interested in winger Real Madrid issue statement denying Fernández contact Fulham have joined the race to sign Crysencio Summerville from West Ham. The winger is expected to move this summer and is attracting interest from a host of Premier Leag",
+      "teams": [
+        "Netherlands"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "98ded66d24f6",
+      "title": "WSL newcomers Crystal Palace agree deal for Enge",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c04yxwl4qdro",
+      "source": "BBC Sport",
+      "published_at": "2026-07-03T12:19:38+00:00",
+      "summary": "Women's Super League newcomers Crystal Palace are set to sign midfielder Sierra Enge from French side Strasbourg.",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "00eec95caad5",
+      "title": "Aston Villa sign Norway midfielder Kielland",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp8r4dp1l6wo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-03T10:02:54+00:00",
+      "summary": "Norway midfielder Justine Kielland joins Aston Villa from German club Wolfsburg, subject to visa approval. Kielland joined Norwegian side Brann in 2023. During her time there, she helped the club reach the quarter-finals of the Women's Champions League, playing in 12 matches and ",
+      "teams": [
+        "Germany",
+        "Norway"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "88eeaae8c2b8",
+      "title": "Georgia Stanway targets trophies after sealing ‘unbelievable’ move to Arsenal",
+      "url": "https://www.theguardian.com/football/2026/jul/03/georgia-stanway-arsenal-wsl",
+      "source": "The Guardian",
+      "published_at": "2026-07-03T08:23:01+00:00",
+      "summary": "Stanway back in WSL after stint at Bayern Munich ‘This is a massive club’ says England midfielder Georgia Stanway believes Arsenal is the right place for her to win more trophies and further improve her game after completing her move to the north London club on a free transfer. S",
+      "teams": [
+        "Germany",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "89780a1c89ff",
+      "title": "Arsenal sign Lioness Stanway from Bayern",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy9r153pe31o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-03T08:00:10+00:00",
+      "summary": "England midfielder Georgia Stanway says she is joining Arsenal to \"win trophies and grow as a player\".",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ec9545999e75",
+      "title": "Manzambi dazzles as Switzerland stroll into last 16 with win over Algeria",
+      "url": "https://www.theguardian.com/football/2026/jul/03/manzambi-switzerland-world-cup-algeria-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-07-03T05:11:05+00:00",
+      "summary": "No wonder Newcastle United are working overtime to wrap up a deal for Johan Manzambi. The secret, if there was such a thing, is well and truly out when it comes to the 20-year-old Freiburg forward who destroyed the Algeria defence to tee up Breel Embolo for Switzerland’s opener i",
+      "teams": [
+        "Switzerland",
+        "Algeria"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "6b297f369693",
+      "title": "First Afcon, now World Cup - Senegal trapped in 'football hell'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm20kegmlp5o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-02T12:03:33+00:00",
+      "summary": "Senegal's nightmarish year continues, with a heart-breaking collapse against Belgium featuring late penalty drama which was remarkably similar to events in this year's chaotic Afcon final.",
+      "teams": [
+        "Belgium",
+        "Senegal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8a4e8d526d6f",
+      "title": "Bronze renews contract with Chelsea until 2027",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c17yvrgllk1o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-02T11:26:38+00:00",
+      "summary": "England international Lucy Bronze has signed a contract extension with Chelsea until 2027.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1267e02baaed",
+      "title": "A goal, a red and a LeBron James shout: Folarin Balogun gets the spotlight in US’s wild World Cup win",
+      "url": "https://www.theguardian.com/football/2026/jul/01/folarin-balogun-red-card-goal-usmnt-world-cup-birthright-citizenship",
+      "source": "The Guardian",
+      "published_at": "2026-07-02T05:11:35+00:00",
+      "summary": "The versatile striker was dangerous in his time on the field on Wednesday, but that time was prematurely ended with a surprising ejection The day after the US supreme court upheld birthright citizenship, Folarin Balogun – a player who wouldn’t have even been on the pitch if not f",
+      "teams": [
+        "Bosnia & Herzegovina",
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "42b16900f54b",
+      "title": "USA march on but will Balogun red card prove costly?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgjx07ql6v0o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-02T03:53:14+00:00",
+      "summary": "Mauricio Pochettino's USA side set up a World Cup last-16 meeting with Belgium, but how costly will forward Folarin Balogun's red card prove?",
+      "teams": [
+        "USA",
+        "Belgium"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "4688ad91b0bf",
+      "title": "Germany are no longer a tournament team and must reconnect with our own identity | Philipp Lahm",
+      "url": "https://www.theguardian.com/football/2026/jul/02/germany-no-longer-tournament-team-must-reconnect-with-own-identity-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-07-02T02:59:08+00:00",
+      "summary": "Germany’s third early World Cup exit in a row is not down to a lack of talent or the name of the coach, but not knowing how they want to play I am stunned. Germany have been eliminated early from a World Cup for the third time in a row. I need time to recover from this. The key w",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "f2eae126f337",
+      "title": "What you need to know about England's last-16 opponents Mexico",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8d25v111r6o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-01T23:02:52+00:00",
+      "summary": "England will face Mexico in the World Cup round of 16. Here is what you need to know about them.",
+      "teams": [
+        "Mexico",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "a5ffe74040ec",
+      "title": "Harry Kane the one who saves Tuchel as England avoid another traumatic exit | Barney Ronay",
+      "url": "https://www.theguardian.com/football/2026/jul/01/harry-kane-saves-england-a-moment-of-generational-trauma-in-waiting",
+      "source": "The Guardian",
+      "published_at": "2026-07-01T20:51:22+00:00",
+      "summary": "Captain played in deep horror of Iceland defeat and he rescued an England team who were sliding towards disaster Well maybe, you’re gonna be the one that saves me. On a wild, boisterous, often agonising afternoon under the giant Victorian railway dome of the Atlanta Stadium, the ",
+      "teams": [
+        "DR Congo",
+        "England"
       ],
       "is_injury_related": false
     }
