@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T20:56:34.408921+00:00",
+  "generated_at": "2026-07-07T22:20:52.514722+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -7,14 +7,52 @@
   "items": [
     {
       "id": "cd7c6c08a2ce",
-      "title": "Switzerland v Colombia: World Cup 2026 last 16 – live",
+      "title": "Switzerland v Colombia: World Cup 2026 last-16 tie goes to extra time – live",
       "url": "https://www.theguardian.com/football/live/2026/jul/07/switzerland-v-colombia-world-cup-2026-last-16-live",
       "source": "The Guardian",
-      "published_at": "2026-07-07T20:45:50+00:00",
+      "published_at": "2026-07-07T22:15:58+00:00",
       "summary": "⚽️ Kick-off time: 1pm local/4pm EDT//9pm BST/6am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Billy “I like coffee. I like chocolate. I like knockout football. I’ve come to the right place, haven’t I?” Yes you have, Peter Oh. Apparently Vancouver is a coffee-keen city",
       "teams": [
         "Switzerland",
         "Colombia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "355898372a79",
+      "title": "The fury and heartbreak of Egypt's stunning World Cup collapse",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzd23jll5o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-07T21:33:21+00:00",
+      "summary": "BBC Sport unpicks a game that will go down in World Cup history for featuring a team who were two goals down so late on, but who went on to win without needing extra time.",
+      "teams": [
+        "Egypt"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "06ed4e6e1a7c",
+      "title": "Rogers is Arsenal's main target - Wednesday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8e2n47j0j5o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-07T20:58:10+00:00",
+      "summary": "Arsenal make Morgan Rogers their main target, Liverpool interested in Mexico teenager and Everton eye England defender Spence.",
+      "teams": [
+        "Mexico",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "64d444744ae0",
+      "title": "All the presidents’ meddling: the Balogun scandal shows how Fifa can break football | Barney Ronay",
+      "url": "https://www.theguardian.com/football/2026/jul/07/donald-trump-gianni-infantino-folarin-balogun-fifa-world-cup-2026",
+      "source": "The Guardian",
+      "published_at": "2026-07-07T20:45:02+00:00",
+      "summary": "The suspension of the USA striker’s red card after Trump’s intervention has shown what Gianni Infantino’s organisation is trying to turn the sport into: scripted entertainment Frites 4 Cheats 1. Tintin 4 Tonto 1. Some good news here, perhaps. It seems Gianni Infantino was right a",
+      "teams": [
+        "USA",
+        "Belgium"
       ],
       "is_injury_related": true
     },
@@ -172,7 +210,7 @@
     },
     {
       "id": "7d8d93f2aaee",
-      "title": "Did VAR correctly rule out this Egypt goal?",
+      "title": "VAR controversially rules out Egypt goal",
       "url": "https://www.bbc.co.uk/sport/football/videos/cddlj37zej7o",
       "source": "BBC Sport",
       "published_at": "2026-07-07T18:05:31+00:00",
@@ -266,20 +304,6 @@
       "teams": [
         "Mexico",
         "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "ac0ab1bf48c9",
-      "title": "Belgium unites to enjoy national team’s World Cup success over USA and Trump",
-      "url": "https://www.theguardian.com/football/2026/jul/07/belgium-fans-celebrate-world-cup-usa-donald-trump",
-      "source": "The Guardian",
-      "published_at": "2026-07-07T12:47:17+00:00",
-      "summary": "Fans across Belgium watched 4-1 win in early hours Victory ‘a real slap in the face for Trump and Infantino’ Belgium fans reacted with jubilation after the national team trounced the USA in a World Cup game that was overshadowed by the controversy over Donald Trump’s lobbying to ",
-      "teams": [
-        "USA",
-        "Netherlands",
-        "Belgium"
       ],
       "is_injury_related": true
     },
@@ -1009,30 +1033,6 @@
         "Australia"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "1e20ee3ba433",
-      "title": "NWSL all-time record goalscorer Sam Kerr confirms league return by joining Gotham",
-      "url": "https://www.theguardian.com/football/2026/jun/29/nwsl-all-time-record-goalscorer-sam-kerr-confirms-league-return-by-joining-gotham",
-      "source": "The Guardian",
-      "published_at": "2026-06-29T16:12:33+00:00",
-      "summary": "Australia captain back in league she left in 2019 Striker won 11 major trophies in spell at Chelsea Sam Kerr is joining Gotham FC in the National Women’s Soccer League (NWSL) after spending the past six and a half years with Chelsea. Gotham announced on Monday they had signed the",
-      "teams": [
-        "Australia"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "6315c3640521",
-      "title": "Is five-match ban for Qatar's Madibo excessive?",
-      "url": "https://www.bbc.co.uk/sport/articles/c6210561g95o",
-      "source": "BBC Sport",
-      "published_at": "2026-06-25T19:25:29+00:00",
-      "summary": "Our Ask Me Anything team look at whether Madibo's punishment for his challenge on Kone was proportionate.",
-      "teams": [
-        "Qatar"
-      ],
-      "is_injury_related": true
     }
   ]
 }
