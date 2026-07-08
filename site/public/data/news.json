@@ -1,10 +1,37 @@
 {
-  "generated_at": "2026-07-08T21:21:10.151708+00:00",
+  "generated_at": "2026-07-08T23:21:44.200264+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "b6e62d06bc02",
+      "title": "Chris Sutton's World Cup quarter-final predictions",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c15y1j32jxko",
+      "source": "BBC Sport",
+      "published_at": "2026-07-08T22:34:48+00:00",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the quarter-final ties at the 2026 World Cup, including England against Norway.",
+      "teams": [
+        "Norway",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "c3b993322b13",
+      "title": "White House’s World Cup head defends Trump lobbying Fifa over red card",
+      "url": "https://www.theguardian.com/us-news/2026/jul/08/trump-fifa-red-card",
+      "source": "The Guardian",
+      "published_at": "2026-07-08T22:20:18+00:00",
+      "summary": "Andrew Giuliani claims actions of referee Raphael Claus over US player Folarin Balogun ‘very, very highly suspicious’ Andrew Giuliani, head of the White House’s World Cup taskforce, has defended Donald Trump’s lobbying of Fifa to lift the suspension of US player Folarin Balogun f",
+      "teams": [
+        "Bosnia & Herzegovina",
+        "Brazil",
+        "Belgium"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "6ad94c35b3ba",
       "title": "England to get bank holiday if team win World Cup, Starmer expected to announce",
@@ -23,7 +50,7 @@
       "url": "https://www.theguardian.com/football/2026/jul/08/arsenal-on-alert-after-bruno-guimaraes-tells-newcastle-he-wants-to-leave",
       "source": "The Guardian",
       "published_at": "2026-07-08T20:22:34+00:00",
-      "summary": "Champions believed to be preparing £60m offer Fresh blow for Newcastle after loss of Gordon and Tonali Arsenal are ready to step up their interest in Bruno Guimarães, after the Brazil midfielder informed Newcastle that he wants to join the Premier League champions. Guimarães, who",
+      "summary": "Champions believed to be preparing £60m offer Fresh blow for Newcastle after loss of Gordon and Tonali Arsenal are ready to step up their interest in Bruno Guimarães, after the Brazil midfielder informed ­Newcastle that he wants to join the Premier&nbsp;League champions. Guimarãe",
       "teams": [
         "Brazil",
         "Norway"
@@ -56,20 +83,6 @@
       "is_injury_related": false
     },
     {
-      "id": "c3b993322b13",
-      "title": "White House’s World Cup head defends Trump lobbying Fifa over red card",
-      "url": "https://www.theguardian.com/us-news/2026/jul/08/trump-fifa-red-card",
-      "source": "The Guardian",
-      "published_at": "2026-07-08T19:56:32+00:00",
-      "summary": "Andrew Giuliani claims actions of referee Raphael Claus over US player Folarin Balogun ‘very, very highly suspicious’ Andrew Giuliani, head of the White House’s World Cup taskforce, has defended Donald Trump’s lobbying of Fifa to lift the suspension of US player Folarin Balogun f",
-      "teams": [
-        "Bosnia & Herzegovina",
-        "Brazil",
-        "Belgium"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "0cb6c11105e0",
       "title": "Who has your Premiership club brought in & let go this summer?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo",
@@ -100,7 +113,7 @@
       "url": "https://www.theguardian.com/football/2026/jul/08/reece-james-remains-injury-doubt-england-right-back-woes-norway-world-cup-quarter-final",
       "source": "The Guardian",
       "published_at": "2026-07-08T19:08:24+00:00",
-      "summary": "Defender unable to train with squad on Wednesday Declan Rice and Marc Guéhi also trained individually Reece James is a doubt for England’s World Cup quarter-final against Norway in Miami on Saturday after he was once again unable to train with the squad on Wednesday. The right-ba",
+      "summary": "Defender unable to train with squad on Wednesday Morgan Rogers says training base ‘feels like home’ Reece James is a doubt for England’s World Cup quarter-final against Norway in Miami on Saturday after he was once again unable to train with the squad on Wednesday. The right-back",
       "teams": [
         "Mexico",
         "Norway",
@@ -127,7 +140,7 @@
       "url": "https://www.theguardian.com/football/2026/jul/08/egyptian-fa-questions-fairness-of-loss-to-argentina-amid-refereeing-furore",
       "source": "The Guardian",
       "published_at": "2026-07-08T18:23:18+00:00",
-      "summary": "Statement says decisions ‘raised serious concerns’ Association rues ‘controversial and influential incidents’ The Egyptian Football Association has questioned the “fairness” of the national team’s 3-2 defeat against Argentina in their World Cup last‑16 match on Tuesday Having gon",
+      "summary": "Statement says decisions ‘raised serious concerns’ Association rues ‘controversial and influential incidents’ The Egyptian Football Association has questioned the “fairness” of the national team’s 3-2 defeat against Argentina in their World Cup last‑16 match on Tuesday. Having go",
       "teams": [
         "Egypt",
         "Argentina"
@@ -177,7 +190,7 @@
       "url": "https://www.theguardian.com/football/2026/jul/08/france-deschamps-unruffled-argentinian-officials-morocco-world-cup-quarter-final",
       "source": "The Guardian",
       "published_at": "2026-07-08T16:57:16+00:00",
-      "summary": "Repeat of last World Cup final v Argentina still possible ‘We have to deal with it,’ France’s head coach says Didier Deschamps has insisted he is not concerned by the appointment of Argentinian officials to oversee the World Cup quarter-final between France and Morocco on Thursda",
+      "summary": "Repeat of last World Cup final v Argentina still possible ‘We have to deal with it,’ France’s head coach says Didier Deschamps has insisted he is not concerned by the ­appointment of&nbsp;Argentinian officials to oversee the World Cup quarter-final between France and Morocco on T",
       "teams": [
         "Morocco",
         "Egypt",
@@ -226,7 +239,7 @@
     },
     {
       "id": "fc7bad181cb3",
-      "title": "The key players walking disciplinary tightrope",
+      "title": "The key World Cup players walking disciplinary tightrope",
       "url": "https://www.bbc.co.uk/sport/football/articles/cly7e9879m9o",
       "source": "BBC Sport",
       "published_at": "2026-07-08T15:07:12+00:00",
