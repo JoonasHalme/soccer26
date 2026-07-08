@@ -1,23 +1,126 @@
 {
-  "generated_at": "2026-07-08T10:29:38.945301+00:00",
+  "generated_at": "2026-07-08T12:49:35.200724+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "b63ea78e42aa",
+      "title": "Dalic leaves as Croatia coach after nine years",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly7eeyl5evo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-08T12:27:04+00:00",
+      "summary": "Croatia head coach Zlatko Dalic steps down after nine years in charge following their defeat against Portugal in the World Cup.",
+      "teams": [
+        "Portugal",
+        "Croatia"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "cccd6947a339",
-      "title": "World Cup 2026: Egypt fury after Argentina win thriller, Switzerland triumph in shootout – live",
+      "title": "World Cup 2026: Egypt fury after Argentina win thriller, Croatia head coach Dalic quits – live",
       "url": "https://www.theguardian.com/football/live/2026/jul/08/world-cup-2026-egypt-fury-after-argentina-win-thriller-switzerland-triumph-in-shootout-live",
       "source": "The Guardian",
-      "published_at": "2026-07-08T10:14:44+00:00",
+      "published_at": "2026-07-08T12:22:30+00:00",
       "summary": "⚽ All the latest as we look ahead to the quarter-finals ⚽ Player guide | Bracketology | Golden Boot | Email us Perhaps Lionel Messi could do with a look at this video – our own Nikhita Chulani sifts the data in search of the perfect penalty. Just in, from AP. Continue reading...",
       "teams": [
-        "Switzerland",
+        "Egypt",
+        "Argentina",
+        "Croatia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "3a2f0226280a",
+      "title": "Statesman, comedian and dealer of hard truths: how Kylian Mbappé became the king of this World Cup",
+      "url": "https://www.theguardian.com/football/2026/jul/08/kylian-mbappe-france-world-cup-2026",
+      "source": "The Guardian",
+      "published_at": "2026-07-08T12:14:52+00:00",
+      "summary": "The Frenchman is a footballer, flautist and a thespian. There’s no question he is the most thrilling and compelling figure at this year’s tournament This has been the World Cup of characters, bold fashion statements, and bantz: we’ve had Thomas Tuchel rubber-banding around the En",
+      "teams": [
+        "Mexico",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "0cb6c11105e0",
+      "title": "Who has your Premiership club brought in & let go this summer?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-08T12:14:25+00:00",
+      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "94e99635cd75",
+      "title": "From Hart to Seedorf to Kewell: standout pundits of the 2026 World Cup",
+      "url": "https://www.theguardian.com/football/2026/jul/08/standout-pundits-2026-world-cup-joe-hart-clarence-seedorf-harry-kewell",
+      "source": "The Guardian",
+      "published_at": "2026-07-08T12:08:06+00:00",
+      "summary": "We pick six of the best analysts to feature at the World Cup in North America on screens in the UK, US and Australia Joe Hart There’s long been a feeling that, when it comes to punditry, only goalkeepers should talk about goalkeepers given the unique nature of the role. That view",
+      "teams": [
+        "Australia",
+        "Jordan",
+        "DR Congo",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "44cb7860a7cb",
+      "title": "Egypt want officials kicked out of World Cup",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzdd070r3o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-08T11:42:01+00:00",
+      "summary": "The Egyptian FA lodges a complaint with Fifa and demands an investigation into \"double standards\" of officiating in the controversial defeat by Argentina.",
+      "teams": [
         "Egypt",
         "Argentina"
       ],
+      "is_injury_related": true
+    },
+    {
+      "id": "50a0aacfa605",
+      "title": "What does Sam Kerr’s return to the NWSL mean for the league, Gotham FC and the player herself?",
+      "url": "https://www.theguardian.com/football/2026/jul/08/what-does-sam-kerr-return-to-nwsl-mean-for-league-gotham-fc-player-moving-the-goalposts",
+      "source": "The Guardian",
+      "published_at": "2026-07-08T11:10:29+00:00",
+      "summary": "The Australian superstar returns to the US after a seven-year absence – and will find a vastly changed landscape When Sam Kerr last played for the National Women’s Soccer League’s Big Apple-adjacent club, it was called Sky Blue, and the playing conditions were comparatively abysm",
+      "teams": [
+        "USA",
+        "Australia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "7906a807776c",
+      "title": "A striker duel for the ages & Qatar revenge - what to expect in quarter-finals",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyyvn1yn7o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-08T10:56:31+00:00",
+      "summary": "Setting the scene for each of the four intriguing World Cup quarter-finals that begin on Thursday.",
+      "teams": [
+        "Qatar"
+      ],
       "is_injury_related": false
+    },
+    {
+      "id": "e20242036dfc",
+      "title": "Marcus Rashford expected to start new season back at Manchester United",
+      "url": "https://www.theguardian.com/football/2026/jul/08/marcus-rashford-return-manchester-united-new-season-move-away-not-ruled-out-football",
+      "source": "The Guardian",
+      "published_at": "2026-07-08T10:51:25+00:00",
+      "summary": "Carrick set to welcome player after World Cup Club preference is to ease wage bill by selling striker Marcus Rashford is set to be re-integrated at Manchester United after the World Cup, with the forward expected to start next season as part of Michael Carrick’s squad. Due to a b",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "06b4b34e994c",
@@ -103,7 +206,7 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cy0472drrlzo",
       "source": "BBC Sport",
       "published_at": "2026-07-08T08:39:51+00:00",
-      "summary": "Robbie Ure is thriving with Allsvenskan leaders IK Sirius but Scotland may have competition from Ukraine for the in-form striker.",
+      "summary": "Robbie Ure is thriving with Allsvenskan leaders IK Sirius, but Scotland may have competition from Ukraine for the in-form striker.",
       "teams": [
         "Scotland",
         "Sweden"
@@ -124,6 +227,21 @@
       "is_injury_related": false
     },
     {
+      "id": "00834be5cd2c",
+      "title": "Morocco set a proud example for Africa as France await at World Cup",
+      "url": "https://www.theguardian.com/football/2026/jul/08/morocco-proud-example-africa-france-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-07-08T07:00:23+00:00",
+      "summary": "The 2022 semi-finalists have delighted fans at home as the continent’s other sides struggle with off-field problems Over the past six decades, Morocco have achieved several performance milestones for Africa at the World Cup. The first country to qualify directly, for the 1970 fin",
+      "teams": [
+        "Mexico",
+        "Qatar",
+        "Morocco",
+        "France"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "20597fec721b",
       "title": "Is Neymar the first to bookend his international career with goals at the same venue? | The Knowledge",
       "url": "https://www.theguardian.com/football/2026/jul/08/is-neymar-the-first-to-bookend-his-international-career-with-goals-at-the-same-venue",
@@ -138,21 +256,6 @@
         "Norway"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "00834be5cd2c",
-      "title": "Morocco set a proud example for Africa as France await at World Cup",
-      "url": "https://www.theguardian.com/football/2026/jul/08/morocco-proud-example-africa-france-world-cup",
-      "source": "The Guardian",
-      "published_at": "2026-07-08T07:00:23+00:00",
-      "summary": "The 2022 semi-finalists have delighted fans at home as the continent’s other sides struggle with off-field problems Over the past six decades, Morocco have achieved several performance milestones for Africa at the World Cup. The first country to qualify directly, for the 1970 fin",
-      "teams": [
-        "Mexico",
-        "Qatar",
-        "Morocco",
-        "France"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "c31cc25d6040",
@@ -216,7 +319,6 @@
       "summary": "Davinson Sánchez looked to the heavens. Cucho Hernández trudged back to his teammates. By the end, the pair’s penalty misses sent the Colombian team to the grass in anguish as Switzerland danced in front of their supporters, nearly alone in a sea of yellow. Switzerland had prevai",
       "teams": [
         "Switzerland",
-        "Argentina",
         "Colombia"
       ],
       "is_injury_related": true
@@ -231,18 +333,6 @@
       "teams": [
         "Argentina",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "355898372a79",
-      "title": "Egypt fume at 'injustice' and make Messi favouritism claims after exit",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzd23jll5o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-07T21:33:21+00:00",
-      "summary": "BBC Sport unpicks a game that will go down in World Cup history for featuring a team who were two goals down so late on, but who went on to win without needing extra time.",
-      "teams": [
-        "Egypt"
       ],
       "is_injury_related": false
     },
@@ -271,18 +361,6 @@
         "Belgium"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "0cb6c11105e0",
-      "title": "Who has your Premiership club brought in & let go this summer?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-07T20:34:37+00:00",
-      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "0dc8e4a51ea8",
@@ -460,32 +538,6 @@
       "is_injury_related": true
     },
     {
-      "id": "6238d820f8ba",
-      "title": "Why Jude Bellingham’s world is bigger than most of us can understand",
-      "url": "https://www.theguardian.com/football/2026/jul/07/genius-jude-bellingham-becoming-one-of-englands-leaders",
-      "source": "The Guardian",
-      "published_at": "2026-07-07T13:39:23+00:00",
-      "summary": "The prodigy who has it all has ambitions to play James Bond but for the time being he is more reminiscent of Novak Djokovic There has never been an English footballer quite like Jude Bellingham. He has the cockiness and explosiveness of a teenage Wayne Rooney and the vision of Pa",
-      "teams": [
-        "Mexico",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "cc9263499caf",
-      "title": "9.1m watch England's epic win over Mexico",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdejw7xxe23o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-07T11:50:56+00:00",
-      "summary": "A peak audience of 9.1 million tuned in overnight to watch England beat Mexico to reach the quarter-finals of the World Cup.",
-      "teams": [
-        "Mexico",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "005d85749bdf",
       "title": "The superstar double act that became England's Wonderwall",
       "url": "https://www.bbc.co.uk/sport/football/articles/c24yym25rgjo",
@@ -507,19 +559,6 @@
       "teams": [
         "Mexico",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "0bca089061e5",
-      "title": "Mbappe condemns racist posts from Paraguay senator",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg557wxrzro",
-      "source": "BBC Sport",
-      "published_at": "2026-07-07T08:51:24+00:00",
-      "summary": "France forward Kylian Mbappe condemns a Paraguayan senator as \"despicable\" and unworthy of her position after she made a number of racist remarks mocking his origin and education.",
-      "teams": [
-        "Paraguay",
-        "France"
       ],
       "is_injury_related": false
     },
@@ -729,17 +768,17 @@
       "is_injury_related": false
     },
     {
-      "id": "f773ab7ecaa6",
-      "title": "World Cup 2026: England beat Mexico in thriller at the Azteca – in pictures",
-      "url": "https://www.theguardian.com/football/gallery/2026/jul/06/world-cup-2026-mexico-v-england-at-the-azteca-in-pictures",
-      "source": "The Guardian",
-      "published_at": "2026-07-06T01:35:26+00:00",
-      "summary": "The best pictures from a sensational knockout fixture which began after a one-hour storm delay Continue reading...",
+      "id": "d7147a96966a",
+      "title": "Bellingham scores two in 98 seconds to silence the Azteca",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ce3ee5dkvpro",
+      "source": "BBC Sport",
+      "published_at": "2026-07-06T01:58:08+00:00",
+      "summary": "Jude Bellingham scores two goals in 98 seconds to give England a 2-0 lead over Mexico during their last 16 match at the Mexico City Stadium.",
       "teams": [
         "Mexico",
         "England"
       ],
-      "is_injury_related": true
+      "is_injury_related": false
     },
     {
       "id": "80d8dfa9fc86",
@@ -810,21 +849,6 @@
       "teams": [
         "Sweden",
         "France"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f468db5abc66",
-      "title": "For all Cape Verde’s heroics, Africa’s World Cup could and perhaps should have been better | Jonathan Wilson",
-      "url": "https://www.theguardian.com/football/2026/jul/04/for-all-cape-verdes-heroics-africas-world-cup-could-and-perhaps-should-have-been-better",
-      "source": "The Guardian",
-      "published_at": "2026-07-04T07:26:06+00:00",
-      "summary": "Egypt and Morocco are in the last 16 after shootouts, but the continent’s pyramid appears to be getting broader rather than much higher For Africa, this World Cup feels like one of those classic memes from the early days of social media. Is it a gold and white dress or a black an",
-      "teams": [
-        "Qatar",
-        "Morocco",
-        "Egypt",
-        "Cape Verde"
       ],
       "is_injury_related": false
     },
@@ -923,19 +947,6 @@
       "is_injury_related": false
     },
     {
-      "id": "ec9545999e75",
-      "title": "Manzambi dazzles as Switzerland stroll into last 16 with win over Algeria",
-      "url": "https://www.theguardian.com/football/2026/jul/03/manzambi-switzerland-world-cup-algeria-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-07-03T05:11:05+00:00",
-      "summary": "No wonder Newcastle United are working overtime to wrap up a deal for Johan Manzambi. The secret, if there was such a thing, is well and truly out when it comes to the 20-year-old Freiburg forward who destroyed the Algeria defence to tee up Breel Embolo for Switzerland’s opener i",
-      "teams": [
-        "Switzerland",
-        "Algeria"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "b62fd992a8b1",
       "title": "Melting hot! When Ireland played Mexico in 43C heat at 1994 World Cup",
       "url": "https://www.theguardian.com/football/ng-interactive/2026/jul/03/melting-hot-when-ireland-played-mexico-in-sweltering-1994-world-cup-clash",
@@ -1032,18 +1043,6 @@
         "Australia"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "1e20ee3ba433",
-      "title": "NWSL all-time record goalscorer Sam Kerr confirms league return by joining Gotham",
-      "url": "https://www.theguardian.com/football/2026/jun/29/nwsl-all-time-record-goalscorer-sam-kerr-confirms-league-return-by-joining-gotham",
-      "source": "The Guardian",
-      "published_at": "2026-06-29T16:12:33+00:00",
-      "summary": "Australia captain back in league she left in 2019 Striker won 11 major trophies in spell at Chelsea Sam Kerr is joining Gotham FC in the National Women’s Soccer League (NWSL) after spending the past six and a half years with Chelsea. Gotham announced on Monday they had signed the",
-      "teams": [
-        "Australia"
-      ],
-      "is_injury_related": true
     }
   ]
 }
