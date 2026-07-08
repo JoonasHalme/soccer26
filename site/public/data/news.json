@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T17:49:52.171400+00:00",
+  "generated_at": "2026-07-08T19:51:25.580883+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian",
@@ -7,36 +7,11 @@
   ],
   "items": [
     {
-      "id": "d3e8424cbf89",
-      "title": "Messi, Ream, Berhalter headline MLS ASG roster",
-      "url": "https://www.espn.com/soccer/story/_/id/49298192/lionel-messi-tim-ream-seb-berhalter-headline-mls-all-star-game-roster",
-      "source": "ESPN",
-      "published_at": "2026-07-08T18:33:36+00:00",
-      "summary": "Argentina and Inter Miami CF star Lionel Messi and U.S. players Matt Freese, Max Arfsten, Tim Ream and Sebastian Berhalter were included in MLS' 29-man All-Star Game roster.",
-      "teams": [
-        "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "67dd65d32f2d",
-      "title": "U.S. men, women get equal split of $16M WC prize",
-      "url": "https://www.espn.com/soccer/story/_/id/49301582/us-men-women-get-equal-split-16m-world-cup-prize",
-      "source": "ESPN",
-      "published_at": "2026-07-08T18:33:36+00:00",
-      "summary": "The United States men earned U.S. Soccer $16 million in prize money from FIFA for making the round of 16 at the 2026 FIFA World Cup, where the Americans lost 4-1 to Belgium.",
-      "teams": [
-        "USA",
-        "Belgium"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "55f8c39c4472",
       "title": "Egypt FA: Can't be silent on Argentina referee cal...",
       "url": "https://www.espn.com/soccer/story/_/id/49305559/egypt-argentina-world-cup-2026-referee-var-knockout",
       "source": "ESPN",
-      "published_at": "2026-07-08T18:33:35+00:00",
+      "published_at": "2026-07-08T20:20:24+00:00",
       "summary": "The Egyptian FA said it \"cannot remain silent regarding the refereeing decisions\" following the team's round-of-16 loss to Argentina at the World Cup.",
       "teams": [
         "Egypt",
@@ -49,10 +24,35 @@
       "title": "Sources: Portugal eye Jorge Jesus for head coach",
       "url": "https://www.espn.com/soccer/story/_/id/49305287/portugal-jorge-jesus-roberto-martinez",
       "source": "ESPN",
-      "published_at": "2026-07-08T18:33:35+00:00",
+      "published_at": "2026-07-08T20:20:24+00:00",
       "summary": "Portugal's Football Federation hope to announce Roberto Martinez's successor by the end of the week, with veteran coach Jorge Jesus the leading candidate to take over the national team.",
       "teams": [
         "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "be2c2cdb31d6",
+      "title": "If not for Messi, Argentina would surely be out of...",
+      "url": "https://www.espn.com/soccer/story/_/id/49300589/where-argentina-not-lionel-messi-flight-home-world-cup",
+      "source": "ESPN",
+      "published_at": "2026-07-08T20:01:00+00:00",
+      "summary": "Argentina's win vs. Egypt was down to Leo Messi, who seems to be dragging his team to another final.",
+      "teams": [
+        "Egypt",
+        "Argentina"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "d3e8424cbf89",
+      "title": "Messi, Ream, Berhalter headline MLS ASG roster",
+      "url": "https://www.espn.com/soccer/story/_/id/49298192/lionel-messi-tim-ream-seb-berhalter-headline-mls-all-star-game-roster",
+      "source": "ESPN",
+      "published_at": "2026-07-08T19:47:58+00:00",
+      "summary": "Argentina and Inter Miami CF star Lionel Messi and U.S. players Matt Freese, Max Arfsten, Tim Ream and Sebastian Berhalter were included in MLS' 29-man All-Star Game roster.",
+      "teams": [
+        "Argentina"
       ],
       "is_injury_related": false
     },
@@ -61,7 +61,7 @@
       "title": "FIFA suspended 2 U.S. officials for Belgium game",
       "url": "https://www.espn.com/soccer/story/_/id/49299468/fifa-suspended-usa-soccer-staff-members-belgium",
       "source": "ESPN",
-      "published_at": "2026-07-08T18:33:35+00:00",
+      "published_at": "2026-07-08T19:47:57+00:00",
       "summary": "Two staff members of the United States men's soccer team were suspended by FIFA from Monday's round-of-16 game against Belgium.",
       "teams": [
         "USA",
@@ -70,43 +70,109 @@
       "is_injury_related": true
     },
     {
-      "id": "cccd6947a339",
-      "title": "World Cup 2026: Egypt fury after Argentina win thriller, injured Henderson staying with England – live",
-      "url": "https://www.theguardian.com/football/live/2026/jul/08/world-cup-2026-egypt-fury-after-argentina-win-thriller-switzerland-triumph-in-shootout-live",
-      "source": "The Guardian",
-      "published_at": "2026-07-08T17:26:53+00:00",
-      "summary": "⚽ All the latest as we look ahead to the quarter-finals ⚽ Player guide | Bracketology | Golden Boot | Email us Perhaps Lionel Messi could do with a look at this video – our own Nikhita Chulani sifts the data in search of the perfect penalty. Just in, from AP. Continue reading...",
+      "id": "0cb6c11105e0",
+      "title": "Who has your Premiership club brought in & let go this summer?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-08T19:44:02+00:00",
+      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
       "teams": [
-        "Egypt",
-        "Argentina",
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1957c6150a24",
+      "title": "EFL examines Sheffield United over claim owners trying to avoid paying full purchase price",
+      "url": "https://www.theguardian.com/football/2026/jul/08/efl-sheffield-united-owners-payment-prince-abdullah-coh-sports-1919-partners-investigation",
+      "source": "The Guardian",
+      "published_at": "2026-07-08T19:42:57+00:00",
+      "summary": "Prince Abdullah asserts he is still owed £35m Shares allegedly transferred to new company The English Football League is investigating allegations that Sheffield United’s owner, the American investment group COH Sports, has formed a new parent company for the club to avoid paying",
+      "teams": [
+        "Saudi Arabia",
         "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "286db011c1bb",
+      "title": "After rejecting France, Bouaddi can end their Worl...",
+      "url": "https://www.espn.com/soccer/story/_/id/49308168/after-rejecting-france-bouaddi-end-their-world-cup-morocco",
+      "source": "ESPN",
+      "published_at": "2026-07-08T19:42:45+00:00",
+      "summary": "Ayyoub Bouaddi chose Morocco over France to ensure he'd play at the 2026 World Cup. Now the two teams collide in a 2022 semifinal rematch.",
+      "teams": [
+        "Morocco",
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ad850125b530",
+      "title": "Henderson has surgery in USA after breaking arm",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70ygpg95vlo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-08T19:14:08+00:00",
+      "summary": "Jordan Henderson has had surgery after breaking his arm during the celebrations of England's win over Mexico on Sunday.",
+      "teams": [
+        "Mexico",
+        "USA",
+        "Jordan",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "dffbb535f7ad",
+      "title": "Reece James remains injury doubt as England’s World Cup right-back woes go on",
+      "url": "https://www.theguardian.com/football/2026/jul/08/reece-james-remains-injury-doubt-england-right-back-woes-norway-world-cup-quarter-final",
+      "source": "The Guardian",
+      "published_at": "2026-07-08T19:08:24+00:00",
+      "summary": "Defender unable to train with squad on Wednesday Declan Rice and Marc Guéhi also trained individually Reece James is a doubt for England’s World Cup quarter-final against Norway in Miami on Saturday after he was again unable to train with the squad on Wednesday. The right-back ha",
+      "teams": [
+        "Norway",
+        "England",
+        "Ghana"
       ],
       "is_injury_related": true
     },
     {
-      "id": "be2c2cdb31d6",
-      "title": "If not for Messi, Argentina would surely be out of...",
-      "url": "https://www.espn.com/soccer/story/_/id/49300589/where-argentina-not-lionel-messi-flight-home-world-cup",
-      "source": "ESPN",
-      "published_at": "2026-07-08T17:17:37+00:00",
-      "summary": "Argentina's comeback vs. Egypt was down to Lionel Messi, who is seemingly dragging his team to another final.",
+      "id": "448c6ca9b104",
+      "title": "Scotland goalkeeper Gunn signs for San Jose Earthquakes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c982080yd7ro",
+      "source": "BBC Sport",
+      "published_at": "2026-07-08T18:33:28+00:00",
+      "summary": "Scotland goalkeeper Angus Gunn signs for San Jose Earthquakes after being released by Nottingham Forest.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "a48e2c077fa3",
+      "title": "Egyptian FA questions ‘fairness’ of loss to Argentina amid refereeing furore",
+      "url": "https://www.theguardian.com/football/2026/jul/08/egyptian-fa-questions-fairness-of-loss-to-argentina-amid-refereeing-furore",
+      "source": "The Guardian",
+      "published_at": "2026-07-08T18:23:18+00:00",
+      "summary": "Statement says decisions ‘raised serious concerns’ Association rues ‘controversial and influential incidents’ The Egyptian Football Association has questioned the “fairness” of the national team’s 3-2 loss to Argentina in Tuesday’s World Cup last-16 encounter. Having gone 1-0 up ",
       "teams": [
         "Egypt",
         "Argentina"
       ],
-      "is_injury_related": true
+      "is_injury_related": false
     },
     {
-      "id": "e20242036dfc",
-      "title": "Marcus Rashford expected to start new season back at Manchester United",
-      "url": "https://www.theguardian.com/football/2026/jul/08/marcus-rashford-return-manchester-united-new-season-move-away-not-ruled-out-football",
+      "id": "3a83048bac4a",
+      "title": "Aid worker who organised World Cup screenings in Gaza killed in Israeli strike",
+      "url": "https://www.theguardian.com/world/2026/jul/08/aid-worker-world-cup-screenings-gaza-killed-israeli-strike",
       "source": "The Guardian",
-      "published_at": "2026-07-08T17:11:54+00:00",
-      "summary": "Carrick set to welcome player after World Cup United agree initial £48m deal to buy Chelsea’s Santos Marcus Rashford is set to be reintegrated at Manchester United after the World Cup, with the forward expected to start next season as part of Michael Carrick’s squad. Due to a bre",
+      "published_at": "2026-07-08T17:35:08+00:00",
+      "summary": "Mohamed al-Wahidi died when a missile struck his taxi shortly before Egypt played Argentina in their last 16 match A Palestinian aid worker who had organised screenings of World Cup matches in Gaza was killed by an Israeli missile strike just before the game between Egypt and Arg",
       "teams": [
-        "England"
+        "Egypt",
+        "Argentina"
       ],
-      "is_injury_related": true
+      "is_injury_related": false
     },
     {
       "id": "e757ea0de461",
@@ -117,6 +183,18 @@
       "summary": "Manchester United agree a £50m deal with Chelsea for their Brazilian midfielder Andrey Santos.",
       "teams": [
         "Brazil"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "339e0c842e65",
+      "title": "Podcast: Hands off McGlynn! Falkirk's season preview",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nxknhz",
+      "source": "BBC Sport",
+      "published_at": "2026-07-08T17:00:00+00:00",
+      "summary": "Can Falkirk build on a stunning season amid Scotland links for McGlynn?",
+      "teams": [
+        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -161,18 +239,6 @@
       "is_injury_related": true
     },
     {
-      "id": "0cb6c11105e0",
-      "title": "Who has your Premiership club brought in & let go this summer?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-08T16:02:11+00:00",
-      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "b68ecc9561a4",
       "title": "Are Argentina being treated favourably at World Cup?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go",
@@ -194,21 +260,6 @@
       "summary": "Cristiano Ronaldo said this would be his last World Cup, and after losing to Spain on Monday night, this chapter of his incredible career is now closed. Let's look back to see where each campaign went wrong.",
       "teams": [
         "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "ad850125b530",
-      "title": "Henderson has surgery in USA after breaking arm",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70ygpg95vlo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-08T15:28:28+00:00",
-      "summary": "Jordan Henderson has had surgery after breaking his arm during the celebrations of England's win over Mexico on Sunday.",
-      "teams": [
-        "Mexico",
-        "USA",
-        "Jordan",
-        "England"
       ],
       "is_injury_related": false
     },
@@ -327,18 +378,6 @@
       "is_injury_related": false
     },
     {
-      "id": "0e40cefb66dd",
-      "title": "VAR review: Were Egypt unfairly denied a pivotal g...",
-      "url": "https://www.espn.com/soccer/story/_/id/49027532/world-cup-2026-var-review-red-card-penalty-handball-goal-line-technology",
-      "source": "ESPN",
-      "published_at": "2026-07-08T13:10:46+00:00",
-      "summary": "For the tournament, we are taking a look at the major incidents to examine and explain the process in terms of both VAR protocol and the laws of the game.",
-      "teams": [
-        "Egypt"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "b63ea78e42aa",
       "title": "Dalic leaves as Croatia coach after nine years",
       "url": "https://www.bbc.co.uk/sport/football/articles/cly7eeyl5evo",
@@ -404,20 +443,6 @@
       "is_injury_related": false
     },
     {
-      "id": "d8ad76dff1de",
-      "title": "World Cup 2026 team power rankings: England on the rise as last eight are set",
-      "url": "https://www.theguardian.com/football/2026/jul/08/world-cup-2026-team-rankings-last-16",
-      "source": "The Guardian",
-      "published_at": "2026-07-08T09:55:04+00:00",
-      "summary": "We assess the teams who played in the tournament’s last 16 before the next round of games begins A very different side of France came to the fore , proving they are not mere showboaters, there is plenty of steel, grit and determination among the ranks. It was a brutal encounter a",
-      "teams": [
-        "Paraguay",
-        "France",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "b31de97651e7",
       "title": "The World Cup stars who could have played for England",
       "url": "https://www.bbc.co.uk/sport/football/articles/c0lyj77w9z7o",
@@ -428,21 +453,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "34186a4c8d48",
-      "title": "Refereeing at this World Cup has been fine, we don’t need input of Tuchel and Trump | Chris Foy",
-      "url": "https://www.theguardian.com/football/2026/jul/08/refereeing-world-cup-fine-input-tuchel-trump-comment",
-      "source": "The Guardian",
-      "published_at": "2026-07-08T09:22:43+00:00",
-      "summary": "Give or take the odd error, officials have got it right on most occasions, while VAR has helped them when they haven’t Thomas Tuchel was critical of the refereeing at the World Cup after England’s win against Mexico , describing it as unreliable, erratic and not good enough. His ",
-      "teams": [
-        "Mexico",
-        "Egypt",
-        "Argentina",
-        "England"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "5ed29085094c",
@@ -616,19 +626,6 @@
       "is_injury_related": false
     },
     {
-      "id": "00529ed29c0f",
-      "title": "Fifa investigating alleged racist abuse of IShowSpeed",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1my1pr18jmo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-07T19:13:36+00:00",
-      "summary": "Fifa has opened an investigation following allegations of racist abuse involving American social media influencer IShowSpeed and a supporter during Argentina's 3-2 win over Cape Verde on Friday.",
-      "teams": [
-        "Cape Verde",
-        "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "acd93f5d628d",
       "title": "Argentina make incredible late comeback to beat Egypt",
       "url": "https://www.bbc.co.uk/sport/football/videos/cd95wjv1nedo",
@@ -650,18 +647,6 @@
       "summary": "Former general manager says players ‘deserved better’ Coach Morgan says he did not raise concerns with HR Sheffield United let Maddy Cusack down and the women’s team’s transition from part-time to full-time status in the summer of 2023 was not “managed in the way that it should h",
       "teams": [
         "Australia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "cbd7aaa57927",
-      "title": "Villa and Belgium midfielder Onana ruptures ACL",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c862nw2xj0jo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-07T18:51:59+00:00",
-      "summary": "Aston Villa midfielder Amadou Onana ruptures an anterior cruciate ligament while playing for Belgium at the World Cup.",
-      "teams": [
-        "Belgium"
       ],
       "is_injury_related": false
     },
@@ -714,43 +699,6 @@
         "Egypt"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "6998fef89676",
-      "title": "Qarabag's Duran poised for Celtic medical",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzzxv8yw0o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-07T17:51:53+00:00",
-      "summary": "Colombian forward Camilo Duran is poised to become Celtic's first summer signing, arriving for an undisclosed fee from Qarabag, manager Martin O'Neill confirms.",
-      "teams": [
-        "Colombia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e05773038c0d",
-      "title": "Can Scotland learn from history-making Norway?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr7xk8r9xl4o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-07T15:54:46+00:00",
-      "summary": "Norway, a nation of a similar size to Scotland, are through to the World Cup quarter-finals, so can lessons be learned from their neighbours from across the North Sea?",
-      "teams": [
-        "Scotland",
-        "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "005d85749bdf",
-      "title": "The superstar double act that became England's Wonderwall",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c24yym25rgjo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-07T11:11:58+00:00",
-      "summary": "With 10 of England's 11 goals at the World Cup scored by either Harry Kane or Jude Bellingham, BBC Sport looks at how dependent on them the team is.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "c128c4b5d60d",
@@ -1037,6 +985,57 @@
       "teams": [
         "Australia",
         "Egypt"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "4b2ffde4e983",
+      "title": "My Mexico 1986 memories of Maradona, the Azteca and a commentary faux pas | David Pleat",
+      "url": "https://www.theguardian.com/football/2026/jul/03/england-mexico-world-cup-2026-azteca-stadium-diego-maradona-argentina",
+      "source": "The Guardian",
+      "published_at": "2026-07-03T18:00:35+00:00",
+      "summary": "Working at the 1986 World Cup match was unforgettable thanks to the most controversial goal in history and then the best I have seen live When I took my first television work with ITV at the 1986 World Cup in Mexico, I never imagined I would attend a game that would be an iconic ",
+      "teams": [
+        "Mexico",
+        "Argentina",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "720f3691190a",
+      "title": "Ange Postecoglou to manage Cristiano Ronaldo after landing Al-Nassr job",
+      "url": "https://www.theguardian.com/football/2026/jul/03/ange-postecoglou-head-coach-al-nassr-cristiano-ronaldo",
+      "source": "The Guardian",
+      "published_at": "2026-07-03T17:22:56+00:00",
+      "summary": "Former Tottenham manager signs two-year contract Al-Nassr won the Saudi Pro League last season Ange Postecoglou has been appointed as the new head coach of the Saudi Pro League champions, ⁠Al-Nassr, on a two-year deal as the Australian attempts ⁠to revive his ⁠career ​after two b",
+      "teams": [
+        "Australia",
+        "Saudi Arabia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b62fd992a8b1",
+      "title": "Melting hot! When Ireland played Mexico in 43C heat at 1994 World Cup",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jul/03/melting-hot-when-ireland-played-mexico-in-sweltering-1994-world-cup-clash",
+      "source": "The Guardian",
+      "published_at": "2026-07-03T02:00:15+00:00",
+      "summary": "As the mercury rises amid a heatwave at this year’s World Cup, we asked former Republic of Ireland players Jason McAteer and John Aldridge about the infamous match in Orlando “Some of the boys were melting,” says Jason McAteer as he recalls one of the most notorious matches in Wo",
+      "teams": [
+        "Mexico"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "4688ad91b0bf",
+      "title": "Germany are no longer a tournament team and must reconnect with our own identity | Philipp Lahm",
+      "url": "https://www.theguardian.com/football/2026/jul/02/germany-no-longer-tournament-team-must-reconnect-with-own-identity-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-07-02T02:59:08+00:00",
+      "summary": "Germany’s third early World Cup exit in a row is not down to a lack of talent or the name of the coach, but not knowing how they want to play I am stunned. Germany have been eliminated early from a World Cup for the third time in a row. I need time to recover from this. The key w",
+      "teams": [
+        "Germany"
       ],
       "is_injury_related": true
     }
