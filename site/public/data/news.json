@@ -1,42 +1,16 @@
 {
-  "generated_at": "2026-07-09T08:44:23.169530+00:00",
+  "generated_at": "2026-07-09T12:19:37.549861+00:00",
   "sources": [
     "BBC Sport",
-    "The Guardian",
-    "ESPN"
+    "The Guardian"
   ],
   "items": [
-    {
-      "id": "d41e2acd72bf",
-      "title": "Meet your World Cup quarterfinalists! How they got...",
-      "url": "https://www.espn.com/soccer/story/_/id/49294844/fifa-world-cup-quarterfinal-preview-predictions-odds-argentina-belgium-england-france-morocco-norway-spain-switzerland",
-      "source": "ESPN",
-      "published_at": "2026-07-09T09:39:37+00:00",
-      "summary": "Four weeks after the World Cup began, the quarterfinals start Thursday with each team three wins away from lifting the trophy. First up, it's France vs. Morocco",
-      "teams": [
-        "Morocco",
-        "France"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "d0b42fd48b9a",
-      "title": "Transfer rumors, news: Arsenal, Spurs to battle ov...",
-      "url": "https://www.espn.com/soccer/story/_/id/49312380/transfer-rumors-news-arsenal-tottenham-rb-leipzig-norway-antonio-nusa",
-      "source": "ESPN",
-      "published_at": "2026-07-09T09:17:39+00:00",
-      "summary": "Norway's RB Leipzig winger Antonio Nusa is a target for North London rivals Arsenal and Tottenham Hotspur. Transfer Talk has the latest.",
-      "teams": [
-        "Norway"
-      ],
-      "is_injury_related": false
-    },
     {
       "id": "75f785e08098",
       "title": "World Cup 2026: France v Morocco quarter-final buildup, Collina defends refereeing – live",
       "url": "https://www.theguardian.com/football/live/2026/jul/09/world-cup-2026-france-v-morocco-quarter-final-news-live",
       "source": "The Guardian",
-      "published_at": "2026-07-09T08:33:19+00:00",
+      "published_at": "2026-07-09T12:03:29+00:00",
       "summary": "⚽ All the latest as we look ahead to the quarter-finals ⚽ Player guide | Bracketology | Golden Boot | Email us Our very own Jonny Weeks has been doing clever things with photos from across the World Cup. Check them out! Continue reading...",
       "teams": [
         "Morocco",
@@ -45,8 +19,108 @@
       "is_injury_related": false
     },
     {
+      "id": "bdc3320b6ffe",
+      "title": "Are France beatable? - BBC experts have their say",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20y4d7g1dvo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-09T11:36:10+00:00",
+      "summary": "France are the overwhelming favourites to win the World Cup. BBC Sport's reporters in America look for chinks in their armour.",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b7570deb922d",
+      "title": "Newcastle agree £51.5m Johan Manzambi deal and insist Bruno Guimarães not for sale",
+      "url": "https://www.theguardian.com/football/2026/jul/09/newcastle-agree-johan-manzambi-deal-and-insist-bruno-guimaraes-not-for-sale-transfer-window",
+      "source": "The Guardian",
+      "published_at": "2026-07-09T11:30:12+00:00",
+      "summary": "Switzerland international poised to sign from Freiburg Guimarães wants to leave and is target for Arsenal Newcastle have agreed a £51.5m deal with Freiburg that should see the Switzerland midfielder Johan Manzambi swap the Bundesliga for the Premier League. The 20-year-old, who h",
+      "teams": [
+        "Switzerland",
+        "Argentina"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "bb8d1292f348",
+      "title": "‘Is he a nice guy? No. He’s a good guy’: how Harry Kane became an England great",
+      "url": "https://www.theguardian.com/football/2026/jul/09/is-he-a-nice-guy-no-hes-a-good-guy-how-harry-kane-became-an-england-great",
+      "source": "The Guardian",
+      "published_at": "2026-07-09T11:00:03+00:00",
+      "summary": "Figures who worked with striker in his formative years recall a self-belief – even when his talent did not stand out There is another version of reality in which Harry Kane is not England’s greatest goalscorer but a goalkeeper. On his first day at Ridgeway Rovers, his first club,",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "3b8582353f2a",
+      "title": "Benitez open to Scotland job - what would he bring and is he affordable?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2dzkjnye3o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-09T10:59:16+00:00",
+      "summary": "Is Rafa Benitez a realistic contender to replace Steve Clarke as Scotland head coach or would the Spaniard's likely salary demands be an obvious stumbling block?",
+      "teams": [
+        "Scotland",
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "90f17dd0e099",
+      "title": "'It was good vibes in there' - Stones on viral prank",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdej0znl156o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-09T10:53:47+00:00",
+      "summary": "John Stones talks about the viral dressing-room injury prank that left England boss Thomas Tuchel briefly stunned.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "b0fc8ff81812",
+      "title": "Egypt’s World Cup ended in heartbreak but they gave the country reason to smile | Karim Zidan",
+      "url": "https://www.theguardian.com/football/2026/jul/09/egypt-world-cup-heartbreak-still-gave-country-reason-to-smile",
+      "source": "The Guardian",
+      "published_at": "2026-07-09T10:51:05+00:00",
+      "summary": "For Egypt this World Cup was about more than football – it was the first glimpse of collective joy that Egyptians have enjoyed in 15 years For nearly 15 minutes on Tuesday it seemed Egypt were about to complete one of the great World Cup upsets. The Pharaohs were up 2-0 against A",
+      "teams": [
+        "Egypt",
+        "Argentina"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "f3a3bbfad5f7",
+      "title": "Inquest into Maddy Cusack’s death adjourned again after new documents lodged",
+      "url": "https://www.theguardian.com/football/2026/jul/09/inquest-into-maddy-cusack-death-adjourned-again-new-documents",
+      "source": "The Guardian",
+      "published_at": "2026-07-09T10:00:05+00:00",
+      "summary": "Inquest to restart on 7 December, coroner says Sheffield United midfielder died in 2023, aged 27 An inquest into the death of the Sheffield United midfielder Maddy Cusack has been adjourned again, nearly three years after she died on 20 September 2023, aged 27. The coroner told t",
+      "teams": [
+        "Australia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "e7c00eec6928",
+      "title": "France’s match with Morocco sums up this diverse, multicultural World Cup",
+      "url": "https://www.theguardian.com/football/2026/jul/09/france-morocco-diverse-multicultural-world-cup-tournament-quarter-final",
+      "source": "The Guardian",
+      "published_at": "2026-07-09T08:35:29+00:00",
+      "summary": "Ninety-nine players at the tournament were born in France. Six of them could line up for Morocco in the quarter-final By Get French Football News When Ayyoub Bouaddi steps on to the pitch in Boston for the World Cup quarter-final on Thursday, he will do so in a Morocco shirt. Jus",
+      "teams": [
+        "Morocco",
+        "France"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "8d5b3be0c3d2",
-      "title": "Could Morocco become a football powerhouse?",
+      "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
       "url": "https://www.bbc.co.uk/sport/football/articles/cewqqxz4ye9o",
       "source": "BBC Sport",
       "published_at": "2026-07-09T07:50:17+00:00",
@@ -72,11 +146,11 @@
     },
     {
       "id": "e63e4ec8627c",
-      "title": "World Cup quarter-final predictions: will anyone derail France? Some of our panel believe so …",
+      "title": "World Cup quarter-final predictions: will anyone derail France’s title bid? Some of our panel believe so …",
       "url": "https://www.theguardian.com/football/2026/jul/09/world-cup-2026-quarter-final-predictions-france-spain-argentina-england-messi-mbappe-haaland",
       "source": "The Guardian",
       "published_at": "2026-07-09T07:15:54+00:00",
-      "summary": "With the World Cup down to eight teams, our writers assesses who’s left, identify the biggest remaining threats to France and make calls on who will lift the trophy Lionel Messi . As he proved in thrilling style against Egypt, Argentina’s No 10 still has magic in his boots even a",
+      "summary": "With the World Cup down to eight teams, our writers assess who’s left, identify the biggest remaining threats to France and make calls on who will lift the trophy Lionel Messi . As he proved in thrilling style against Egypt, Argentina’s No 10 still has magic in his boots even at ",
       "teams": [
         "Egypt",
         "France",
@@ -114,18 +188,6 @@
       "is_injury_related": true
     },
     {
-      "id": "8e912087f3d1",
-      "title": "Copy of Copy of So, Ronaldo's World Cup era is over. Where did eac...",
-      "url": "https://www.espn.com/soccer/story/_/id/49295300/cristiano-ronaldo-last-world-cup-analysis-six-tournaments-portugal",
-      "source": "ESPN",
-      "published_at": "2026-07-09T06:58:55+00:00",
-      "summary": "Cristiano Ronaldo said this would be his last World Cup, and after losing to Spain on Monday night, this chapter of his incredible career is now closed. Let's look back to see where each campaign went wrong.",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "9eb0f6e78f85",
       "title": "'Celtic go all out for striker Bowie' - gossip",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce37q0371n8o",
@@ -138,44 +200,6 @@
         "Spain"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "55f8c39c4472",
-      "title": "Egypt FA: Can't be silent on Argentina referee cal...",
-      "url": "https://www.espn.com/soccer/story/_/id/49305559/egypt-argentina-world-cup-2026-referee-var-knockout",
-      "source": "ESPN",
-      "published_at": "2026-07-09T06:01:45+00:00",
-      "summary": "The Egyptian FA said it \"cannot remain silent regarding the refereeing decisions\" following the team's round-of-16 loss to Argentina at the World Cup.",
-      "teams": [
-        "Egypt",
-        "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f04de016efa8",
-      "title": "Mexico start Márquez era on 'strong foundation'",
-      "url": "https://www.espn.com/soccer/story/_/id/49309364/mexico-start-rafa-marquez-strong-foundation-javier-aguirre-world-cup",
-      "source": "ESPN",
-      "published_at": "2026-07-09T06:01:45+00:00",
-      "summary": "The Mexican Football Federation announced Wednesday that Rafael Márquez is taking the reins as Javier Aguirre's successor to lead the team up to the 2030 World Cup.",
-      "teams": [
-        "Mexico"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "be2c2cdb31d6",
-      "title": "If not for Messi, Argentina would surely be out of...",
-      "url": "https://www.espn.com/soccer/story/_/id/49300589/where-argentina-not-lionel-messi-flight-home-world-cup",
-      "source": "ESPN",
-      "published_at": "2026-07-09T05:49:33+00:00",
-      "summary": "Argentina's win vs. Egypt was down to Leo Messi, who seems to be dragging his team to another final.",
-      "teams": [
-        "Egypt",
-        "Argentina"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "ac64b85f1403",
@@ -191,18 +215,6 @@
       "is_injury_related": false
     },
     {
-      "id": "fb3929d18981",
-      "title": "Let's face it: The USMNT's coach doesn't matter --...",
-      "url": "https://www.espn.com/soccer/story/_/id/49298797/usmnt-failed-world-cup-players-no-coach-save-them",
-      "source": "ESPN",
-      "published_at": "2026-07-09T02:59:04+00:00",
-      "summary": "U.S. fans expected more out of the USMNT's expensive, famous coach at the World Cup, but there was one problem: the players.",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "f2f13ea2b9f0",
       "title": "Starmer hints at bank holiday if England win World Cup",
       "url": "https://www.bbc.co.uk/news/articles/c20y9g2v2wvo",
@@ -213,30 +225,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "120320cd7fb4",
-      "title": "Sources: Tchouaméni agrees new Real Madrid deal",
-      "url": "https://www.espn.com/soccer/story/_/id/49309343/aurelien-tchouameni-real-madrid-new-contract-man-united",
-      "source": "ESPN",
-      "published_at": "2026-07-09T00:25:51+00:00",
-      "summary": "Real Madrid midfielder Aurélien Tchouaméni has agreed a new contract to tie him to the Spanish giants until 2031, sources confirmed to ESPN.",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "d3e8424cbf89",
-      "title": "Messi, Ream, Berhalter headline MLS ASG roster",
-      "url": "https://www.espn.com/soccer/story/_/id/49298192/lionel-messi-tim-ream-seb-berhalter-headline-mls-all-star-game-roster",
-      "source": "ESPN",
-      "published_at": "2026-07-09T00:25:51+00:00",
-      "summary": "Argentina and Inter Miami CF star Lionel Messi and U.S. players Matt Freese, Max Arfsten, Tim Ream and Sebastian Berhalter were included in MLS' 29-man All-Star Game roster.",
-      "teams": [
-        "Argentina"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "b6e62d06bc02",
@@ -252,31 +240,6 @@
       "is_injury_related": false
     },
     {
-      "id": "6ad94c35b3ba",
-      "title": "England to get bank holiday if team win World Cup, Starmer expected to announce",
-      "url": "https://www.theguardian.com/football/2026/jul/08/england-to-get-bank-holiday-if-team-win-world-cup-starmer-expected-to-announce",
-      "source": "The Guardian",
-      "published_at": "2026-07-08T21:00:41+00:00",
-      "summary": "Prime minister understood to be poised to give England a day off should the nation’s team bring home the trophy for first time since 1966 Keir Starmer is planning to announce a bank holiday if England win the World Cup, the Guardian understands, to celebrate the men’s national te",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "902d4d588929",
-      "title": "Arsenal on alert after Bruno Guimarães tells Newcastle he wants to leave",
-      "url": "https://www.theguardian.com/football/2026/jul/08/arsenal-on-alert-after-bruno-guimaraes-tells-newcastle-he-wants-to-leave",
-      "source": "The Guardian",
-      "published_at": "2026-07-08T20:22:34+00:00",
-      "summary": "Champions believed to be preparing £60m offer Fresh blow for Newcastle after loss of Gordon and Tonali Arsenal are ready to step up their interest in Bruno Guimarães, after the Brazil midfielder informed ­Newcastle that he wants to join the Premier&nbsp;League champions. Guimarãe",
-      "teams": [
-        "Brazil",
-        "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "ad850125b530",
       "title": "Henderson not ruled out of World Cup despite breaking arm",
       "url": "https://www.bbc.co.uk/sport/football/articles/c70ygpg95vlo",
@@ -288,18 +251,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "e2dcdc01b175",
-      "title": "Maddy Cusack did not want Sheffield United to know about talks with club’s former chaplain, inquest told",
-      "url": "https://www.theguardian.com/football/2026/jul/08/maddy-cusack-inquest-sheffield-united-former-chaplain-womens-football",
-      "source": "The Guardian",
-      "published_at": "2026-07-08T20:00:12+00:00",
-      "summary": "Dr Delroy Hall said Cusack struggled to juggle two jobs Cusack was found dead at her home in September 2023 The former club chaplain at Sheffield United has told an inquest into Maddy Cusack’s death that she repeatedly asked him not to inform the club that she had been speaking t",
-      "teams": [
-        "Australia"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "0cb6c11105e0",
@@ -323,19 +274,6 @@
       "teams": [
         "Saudi Arabia",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "286db011c1bb",
-      "title": "After rejecting France, Bouaddi can end their Worl...",
-      "url": "https://www.espn.com/soccer/story/_/id/49308168/after-rejecting-france-bouaddi-end-their-world-cup-morocco",
-      "source": "ESPN",
-      "published_at": "2026-07-08T19:42:45+00:00",
-      "summary": "Ayyoub Bouaddi chose Morocco over France to ensure he'd play at the 2026 World Cup. Now the two teams collide in a 2022 semifinal rematch.",
-      "teams": [
-        "Morocco",
-        "France"
       ],
       "is_injury_related": false
     },
@@ -489,19 +427,6 @@
         "Portugal"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "b63ea78e42aa",
-      "title": "Dalic leaves as Croatia coach after nine years",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly7eeyl5evo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-08T12:27:04+00:00",
-      "summary": "Croatia head coach Zlatko Dalic steps down after nine years in charge following their defeat against Portugal in the World Cup.",
-      "teams": [
-        "Portugal",
-        "Croatia"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "3a2f0226280a",
@@ -1037,6 +962,80 @@
       "teams": [
         "Australia",
         "Egypt"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "720f3691190a",
+      "title": "Ange Postecoglou to manage Cristiano Ronaldo after landing Al-Nassr job",
+      "url": "https://www.theguardian.com/football/2026/jul/03/ange-postecoglou-head-coach-al-nassr-cristiano-ronaldo",
+      "source": "The Guardian",
+      "published_at": "2026-07-03T17:22:56+00:00",
+      "summary": "Former Tottenham manager signs two-year contract Al-Nassr won the Saudi Pro League last season Ange Postecoglou has been appointed as the new head coach of the Saudi Pro League champions, ⁠Al-Nassr, on a two-year deal as the Australian attempts ⁠to revive his ⁠career ​after two b",
+      "teams": [
+        "Australia",
+        "Saudi Arabia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "2f6e7caa16d6",
+      "title": "‘Would you say it to someone’s face?’ Ellen White on going from player to pundit",
+      "url": "https://www.theguardian.com/football/2026/jul/01/ellen-white-england-lionesses-player-to-pundit",
+      "source": "The Guardian",
+      "published_at": "2026-07-01T12:42:36+00:00",
+      "summary": "In this week’s newsletter we speak to the Lionesses’ record scorer, who has been inducted to the hall of fame at the National Football Museum For a generation of England fans she was the talismanic striker the nation could always rely on to find the net at a major tournament, sco",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "7d8c2d8516f4",
+      "title": "All done deals in June 2026",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce9p91r771go",
+      "source": "BBC Sport",
+      "published_at": "2026-07-01T08:44:49+00:00",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "7cb967d68aeb",
+      "title": "Who has scored the most goals at a World Cup without winning the Golden Boot?",
+      "url": "https://www.theguardian.com/football/2026/jul/01/knowledge-world-cup-most-goals-without-golden-boot",
+      "source": "The Guardian",
+      "published_at": "2026-07-01T07:00:29+00:00",
+      "summary": "Plus: World Cup teams stuck on nul points and teams who broke their duck with a drubbing Mail us with your all of your questions and answers “Who has scored the most goals at a World Cup finals without winning the Golden Boot?” asks Sam Edwards. With Lionel Messi and Kylian Mbapp",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "a11e466d2d8e",
+      "title": "My World Cup memory: heartbreak in the exam hall for England v Brazil in 2002 – video",
+      "url": "https://www.theguardian.com/football/video/2026/jun/30/my-world-cup-memory-heartbreak-in-the-exam-hall-for-england-v-brazil-in-2002-video",
+      "source": "The Guardian",
+      "published_at": "2026-06-30T08:20:07+00:00",
+      "summary": "Where were you when Ronaldinho lobbed David Seaman in England’s quarter-final game against Brazil at the 2002 World Cup? Our head of newsletters, Toby Moses, was sitting in an exam hall for his English A Level exam. It was heartbreak for England more than two decades ago, but per",
+      "teams": [
+        "Brazil",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1e20ee3ba433",
+      "title": "NWSL all-time record goalscorer Sam Kerr confirms league return by joining Gotham",
+      "url": "https://www.theguardian.com/football/2026/jun/29/nwsl-all-time-record-goalscorer-sam-kerr-confirms-league-return-by-joining-gotham",
+      "source": "The Guardian",
+      "published_at": "2026-06-29T16:12:33+00:00",
+      "summary": "Australia captain back in league she left in 2019 Striker won 11 major trophies in spell at Chelsea Sam Kerr is joining Gotham FC in the National Women’s Soccer League (NWSL) after spending the past six and a half years with Chelsea. Gotham announced on Monday they had signed the",
+      "teams": [
+        "Australia"
       ],
       "is_injury_related": true
     }
