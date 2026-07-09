@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-07-08T23:21:44.200264+00:00",
+  "generated_at": "2026-07-09T04:09:41.975227+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "f2f13ea2b9f0",
+      "title": "Starmer hints at bank holiday if England win World Cup",
+      "url": "https://www.bbc.co.uk/news/articles/c20y9g2v2wvo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-09T01:25:24+00:00",
+      "summary": "The prime minister says he does not want to \"jinx it\" but \"ask me again if we get to the final\".",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "b6e62d06bc02",
       "title": "Chris Sutton's World Cup quarter-final predictions",
@@ -135,19 +147,6 @@
       "is_injury_related": false
     },
     {
-      "id": "a48e2c077fa3",
-      "title": "Egyptian FA questions ‘fairness’ of loss to Argentina amid refereeing furore",
-      "url": "https://www.theguardian.com/football/2026/jul/08/egyptian-fa-questions-fairness-of-loss-to-argentina-amid-refereeing-furore",
-      "source": "The Guardian",
-      "published_at": "2026-07-08T18:23:18+00:00",
-      "summary": "Statement says decisions ‘raised serious concerns’ Association rues ‘controversial and influential incidents’ The Egyptian Football Association has questioned the “fairness” of the national team’s 3-2 defeat against Argentina in their World Cup last‑16 match on Tuesday. Having go",
-      "teams": [
-        "Egypt",
-        "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "3a83048bac4a",
       "title": "Aid worker who organised World Cup screenings in Gaza killed in Israeli strike",
       "url": "https://www.theguardian.com/world/2026/jul/08/aid-worker-world-cup-screenings-gaza-killed-israeli-strike",
@@ -190,7 +189,7 @@
       "url": "https://www.theguardian.com/football/2026/jul/08/france-deschamps-unruffled-argentinian-officials-morocco-world-cup-quarter-final",
       "source": "The Guardian",
       "published_at": "2026-07-08T16:57:16+00:00",
-      "summary": "Repeat of last World Cup final v Argentina still possible ‘We have to deal with it,’ France’s head coach says Didier Deschamps has insisted he is not concerned by the ­appointment of&nbsp;Argentinian officials to oversee the World Cup quarter-final between France and Morocco on T",
+      "summary": "‘We have to deal with it,’ France’s head coach says Ouahbi insists Morocco’s aim is to win World Cup Didier Deschamps has insisted he is not concerned by the ­appointment of&nbsp;Argentinian officials to oversee the World Cup quarter-final between France and Morocco on Thursday, ",
       "teams": [
         "Morocco",
         "Egypt",
