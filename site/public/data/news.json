@@ -1,16 +1,30 @@
 {
-  "generated_at": "2026-07-09T20:54:34.542806+00:00",
+  "generated_at": "2026-07-09T22:41:58.573043+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "04a59c9a3c24",
+      "title": "Mbappé stunner ends Morocco resistance to send France into World Cup semi-finals",
+      "url": "https://www.theguardian.com/football/2026/jul/09/morocco-france-world-cup-quarter-final-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-07-09T22:13:13+00:00",
+      "summary": "There is a relentlessness to this France that might make them irresistible. Morocco no doubt had the best of intentions, ideas of how they could hurt the side that had beaten them in the semi-final in Qatar, but France press so well that they soon accepted they had no option but ",
+      "teams": [
+        "Qatar",
+        "Morocco",
+        "France"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "f34f6c919409",
       "title": "Norway's Haaland calls for media pressure on England before quarter-final",
       "url": "https://www.bbc.co.uk/sport/football/articles/cj3gd8rg628o",
       "source": "BBC Sport",
-      "published_at": "2026-07-09T20:51:13+00:00",
+      "published_at": "2026-07-09T22:01:51+00:00",
       "summary": "Norway striker Erling Haaland says all the pressure is on England before the two sides' World Cup quarter-final on Saturday.",
       "teams": [
         "Norway",
@@ -19,24 +33,29 @@
       "is_injury_related": false
     },
     {
-      "id": "3067a218bf20",
-      "title": "France v Morocco: World Cup 2026 quarter-final – live",
-      "url": "https://www.theguardian.com/football/live/2026/jul/09/france-v-morocco-world-cup-2026-quarter-final-live",
+      "id": "a811b3f85333",
+      "title": "‘There is a magnificent balance’: how Spain built a record-breaking defence",
+      "url": "https://www.theguardian.com/football/2026/jul/09/there-is-a-magnificent-balance-how-spain-built-a-record-breaking-defence",
       "source": "The Guardian",
-      "published_at": "2026-07-09T20:41:31+00:00",
-      "summary": "⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Scott France have long demonstrated the benefits of diversity at the World Cup. Now Morocco are reaping similar rewards, with six members of Morocco’s squad – Ayyoub Bouaddi, Issa ",
+      "published_at": "2026-07-09T21:25:51+00:00",
+      "summary": "The Spain goalkeeper Unai Simón has not conceded a goal at the World Cup and, worryingly for Belgium, he has not had to face that many shots “We’re the villains, there to stop the goals that football lives off,” Unai Simón says. If so, there has never been a bad guy as bad as him",
       "teams": [
-        "Morocco",
-        "France"
+        "Qatar",
+        "Switzerland",
+        "Japan",
+        "Belgium",
+        "Spain",
+        "Austria",
+        "Portugal"
       ],
-      "is_injury_related": true
+      "is_injury_related": false
     },
     {
       "id": "62f1cdfacc53",
       "title": "Quansah banned for two games after Mexico red card",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjdgvrnn5n3o",
       "source": "BBC Sport",
-      "published_at": "2026-07-09T19:55:33+00:00",
+      "published_at": "2026-07-09T21:16:10+00:00",
       "summary": "England defender Jarell Quansah receives a two-match ban for his red card against Mexico.",
       "teams": [
         "Mexico",
@@ -76,7 +95,7 @@
       "url": "https://www.theguardian.com/football/2026/jul/09/erling-haaland-claims-pressure-is-all-on-england-in-quarter-final-with-norway",
       "source": "The Guardian",
       "published_at": "2026-07-09T18:46:48+00:00",
-      "summary": "Striker says England one of the ‘clear favourites’ to win World Cup Also makes knowing reference to famous ‘Stay humble’ remark Erling Haaland has ramped up the World Cup mind games by saying England are the team under pressure when they face Norway in their quarter-final tie on ",
+      "summary": "Striker says England one of the ‘clear favourites’ to win World Cup Also makes knowing reference to famous ‘Stay humble’ remark Erling Haaland has ramped up the World Cup mind games by saying England are the team under ­pressure when they face Norway in their ­quarter-final tie o",
       "teams": [
         "Brazil",
         "Norway",
@@ -295,19 +314,6 @@
       "is_injury_related": false
     },
     {
-      "id": "b7570deb922d",
-      "title": "Newcastle agree £51.5m Johan Manzambi deal and insist Bruno Guimarães not for sale",
-      "url": "https://www.theguardian.com/football/2026/jul/09/newcastle-agree-johan-manzambi-deal-and-insist-bruno-guimaraes-not-for-sale-transfer-window",
-      "source": "The Guardian",
-      "published_at": "2026-07-09T11:30:12+00:00",
-      "summary": "Switzerland international poised to sign from Freiburg Guimarães wants to leave and is target for Arsenal Newcastle have agreed a £51.5m deal with Freiburg that should mean the versatile Switzerland midfielder Johan Manzambi swaps the Bundesliga for the Premier League. The 20-yea",
-      "teams": [
-        "Switzerland",
-        "Argentina"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "bb8d1292f348",
       "title": "‘Is he a nice guy? No. He’s a good guy’: how Harry Kane became an England great",
       "url": "https://www.theguardian.com/football/2026/jul/09/is-he-a-nice-guy-no-hes-a-good-guy-how-harry-kane-became-an-england-great",
@@ -496,18 +502,6 @@
       "teams": [
         "Egypt",
         "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "fc7bad181cb3",
-      "title": "The key World Cup players walking disciplinary tightrope",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly7e9879m9o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-08T15:07:12+00:00",
-      "summary": "Four England players are at risk of missing a potential World Cup semi-final because of the tournament's yellow-card rules.",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
@@ -1043,6 +1037,18 @@
         "England"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "1e20ee3ba433",
+      "title": "NWSL all-time record goalscorer Sam Kerr confirms league return by joining Gotham",
+      "url": "https://www.theguardian.com/football/2026/jun/29/nwsl-all-time-record-goalscorer-sam-kerr-confirms-league-return-by-joining-gotham",
+      "source": "The Guardian",
+      "published_at": "2026-06-29T16:12:33+00:00",
+      "summary": "Australia captain back in league she left in 2019 Striker won 11 major trophies in spell at Chelsea Sam Kerr is joining Gotham FC in the National Women’s Soccer League (NWSL) after spending the past six and a half years with Chelsea. Gotham announced on Monday they had signed the",
+      "teams": [
+        "Australia"
+      ],
+      "is_injury_related": true
     }
   ]
 }
