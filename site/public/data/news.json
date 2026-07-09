@@ -1,17 +1,116 @@
 {
-  "generated_at": "2026-07-09T12:19:37.549861+00:00",
+  "generated_at": "2026-07-09T16:08:34.577249+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "707a7ca48e7a",
+      "title": "Oxford placed under summer transfer embargo by EFL",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c75y0r0v3dxo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-09T16:06:35+00:00",
+      "summary": "Oxford United are placed under a temporary transfer embargo by the English Football League.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "75f785e08098",
       "title": "World Cup 2026: France v Morocco quarter-final buildup, Collina defends refereeing – live",
       "url": "https://www.theguardian.com/football/live/2026/jul/09/world-cup-2026-france-v-morocco-quarter-final-news-live",
       "source": "The Guardian",
-      "published_at": "2026-07-09T12:03:29+00:00",
+      "published_at": "2026-07-09T16:06:01+00:00",
       "summary": "⚽ All the latest as we look ahead to the quarter-finals ⚽ Player guide | Bracketology | Golden Boot | Email us Our very own Jonny Weeks has been doing clever things with photos from across the World Cup. Check them out! Continue reading...",
+      "teams": [
+        "Morocco",
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f5de498954a5",
+      "title": "Brentford sign Wilson after West Ham exit",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1wyxlzqvrqo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-09T15:42:07+00:00",
+      "summary": "Brentford sign former England striker Callum Wilson on a 12-month contract after his exit from relegated West Ham.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "75f62626b249",
+      "title": "Going first in a penalty shootout gives teams an advantage … or does it?",
+      "url": "https://www.theguardian.com/football/2026/jul/09/world-cup-first-penalty-shootout-advantage-second",
+      "source": "The Guardian",
+      "published_at": "2026-07-09T15:18:48+00:00",
+      "summary": "Thirteen of the past 15 shootouts at World Cups have been won by the team that went second By Opta Analyst After watching 120 minutes of football, you might not find observing a coin toss the most exciting dessert. Fans in the stadium care, though. Win a coin toss for a penalty s",
+      "teams": [
+        "Switzerland",
+        "Colombia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "2fd2834ef693",
+      "title": "QPR sign Motherwell goalkeeper Ward",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c932e1ez42jo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-09T14:47:20+00:00",
+      "summary": "Queens Park Rangers sign goalkeeper Calum Ward from Scottish Premiership side Motherwell.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "9632022839f9",
+      "title": "'A bit of a rebel' - what will Celtic get from forward Duran?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x3yep3po",
+      "source": "BBC Sport",
+      "published_at": "2026-07-09T14:37:38+00:00",
+      "summary": "Celtic are set to sign their first player in the transfer window - 24-year-old Colombian forward Camilo Duran from Qarabag - for a reported £5.5m. But who is he?",
+      "teams": [
+        "Colombia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "eec4badb45d0",
+      "title": "Norway shirts sell out before England match",
+      "url": "https://www.bbc.co.uk/news/articles/czxqzyggzypo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-09T14:34:36+00:00",
+      "summary": "Norway's performance has created huge demand for the football jerseys, but this hasn't been met by suppliers.",
+      "teams": [
+        "Norway",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6c2e22455068",
+      "title": "I've changed my mind, we might actually be able to win this thing - Shearer",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz6vz34yv82o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-09T14:19:13+00:00",
+      "summary": "Alan Shearer explains why he now has belief and confidence that England can go further in this World Cup than he thought.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "20a19b9e5469",
+      "title": "Morocco's unfinished business with France",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp8rd56dk1go",
+      "source": "BBC Sport",
+      "published_at": "2026-07-09T12:40:13+00:00",
+      "summary": "Morocco are set to play in another World Cup quarter-final, but are they football's dreamers or is this where they belong?",
       "teams": [
         "Morocco",
         "France"
@@ -36,7 +135,7 @@
       "url": "https://www.theguardian.com/football/2026/jul/09/newcastle-agree-johan-manzambi-deal-and-insist-bruno-guimaraes-not-for-sale-transfer-window",
       "source": "The Guardian",
       "published_at": "2026-07-09T11:30:12+00:00",
-      "summary": "Switzerland international poised to sign from Freiburg Guimarães wants to leave and is target for Arsenal Newcastle have agreed a £51.5m deal with Freiburg that should see the Switzerland midfielder Johan Manzambi swap the Bundesliga for the Premier League. The 20-year-old, who h",
+      "summary": "Switzerland international poised to sign from Freiburg Guimarães wants to leave and is target for Arsenal Newcastle have agreed a £51.5m deal with Freiburg that should see the versatile Switzerland midfielder Johan Manzambi swap the Bundesliga for the Premier League. The 20-year-",
       "teams": [
         "Switzerland",
         "Argentina"
@@ -82,26 +181,14 @@
     },
     {
       "id": "b0fc8ff81812",
-      "title": "Egypt’s World Cup ended in heartbreak but they gave the country reason to smile | Karim Zidan",
+      "title": "Egypt’s World Cup adventure gave the country its first collective joy in 15 years | Karim Zidan",
       "url": "https://www.theguardian.com/football/2026/jul/09/egypt-world-cup-heartbreak-still-gave-country-reason-to-smile",
       "source": "The Guardian",
       "published_at": "2026-07-09T10:51:05+00:00",
-      "summary": "For Egypt this World Cup was about more than football – it was the first glimpse of collective joy that Egyptians have enjoyed in 15 years For nearly 15 minutes on Tuesday it seemed Egypt were about to complete one of the great World Cup upsets. The Pharaohs were up 2-0 against A",
+      "summary": "In a nation where more than 70% of people rely on food subsidies the team’s history-making campaign brought welcome celebration For nearly 15 minutes on Tuesday it seemed Egypt were about to complete one of the great World Cup upsets. The Pharaohs were up 2-0 against Argentina, t",
       "teams": [
         "Egypt",
         "Argentina"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "f3a3bbfad5f7",
-      "title": "Inquest into Maddy Cusack’s death adjourned again after new documents lodged",
-      "url": "https://www.theguardian.com/football/2026/jul/09/inquest-into-maddy-cusack-death-adjourned-again-new-documents",
-      "source": "The Guardian",
-      "published_at": "2026-07-09T10:00:05+00:00",
-      "summary": "Inquest to restart on 7 December, coroner says Sheffield United midfielder died in 2023, aged 27 An inquest into the death of the Sheffield United midfielder Maddy Cusack has been adjourned again, nearly three years after she died on 20 September 2023, aged 27. The coroner told t",
-      "teams": [
-        "Australia"
       ],
       "is_injury_related": true
     },
@@ -146,7 +233,7 @@
     },
     {
       "id": "e63e4ec8627c",
-      "title": "World Cup quarter-final predictions: will anyone derail France’s title bid? Some of our panel believe so …",
+      "title": "World Cup quarter-final (and beyond) predictions: will anyone derail France’s title bid?",
       "url": "https://www.theguardian.com/football/2026/jul/09/world-cup-2026-quarter-final-predictions-france-spain-argentina-england-messi-mbappe-haaland",
       "source": "The Guardian",
       "published_at": "2026-07-09T07:15:54+00:00",
@@ -198,19 +285,6 @@
         "Scotland",
         "Egypt",
         "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "ac64b85f1403",
-      "title": "Football Daily",
-      "url": "https://www.bbc.co.uk/sounds/play/p0ns8d0z",
-      "source": "BBC Sport",
-      "published_at": "2026-07-09T04:00:00+00:00",
-      "summary": "Rick & Lloyd get a taste of Norway before England's quarter-final.",
-      "teams": [
-        "Norway",
-        "England"
       ],
       "is_injury_related": false
     },
@@ -290,55 +364,6 @@
       "is_injury_related": false
     },
     {
-      "id": "e757ea0de461",
-      "title": "Man Utd agree £50m deal for Chelsea's Santos",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr7xkgd8vdko",
-      "source": "BBC Sport",
-      "published_at": "2026-07-08T17:09:53+00:00",
-      "summary": "Manchester United agree a £50m deal with Chelsea for their Brazilian midfielder Andrey Santos.",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "339e0c842e65",
-      "title": "Podcast: Hands off McGlynn! Falkirk's season preview",
-      "url": "https://www.bbc.co.uk/sounds/play/p0nxknhz",
-      "source": "BBC Sport",
-      "published_at": "2026-07-08T17:00:00+00:00",
-      "summary": "Can Falkirk build on a stunning season amid Scotland links for McGlynn?",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "d45642316b9f",
-      "title": "'Gutted' Christie 'desperate' to help Scotland to more finals",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp8le3v25j5o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-08T16:45:20+00:00",
-      "summary": "At 31, Bournemouth midfielder Ryan Christie is determined to help Scotland reach more major finals after his World Cup disappointment.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "058105c4686b",
-      "title": "England players granted day off after Mexico win",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx24re32r4lo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-08T16:03:41+00:00",
-      "summary": "England manager Thomas Tuchel gave his players permission for an offsite family day on Tuesday as the squad recharged after their euphoric win over Mexico.",
-      "teams": [
-        "Mexico",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "b68ecc9561a4",
       "title": "Are Argentina being treated favourably at World Cup?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go",
@@ -376,19 +401,6 @@
       "is_injury_related": false
     },
     {
-      "id": "362f0d0c1c28",
-      "title": "Portugal confirm departure of coach Martinez",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c78ygpede52o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-08T14:31:21+00:00",
-      "summary": "The Portuguese football federation confirm the departure of national team coach Roberto Martinez, while Rafael Marquez replaces Javier Aguirre as Mexico coach.",
-      "teams": [
-        "Mexico",
-        "Portugal"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "8d0f21a65754",
       "title": "Football Daily | Argentina, VAR machinations and the greatest goal that never was",
       "url": "https://www.theguardian.com/football/2026/jul/08/football-daily-email-gwc-argentina-egypt",
@@ -400,19 +412,6 @@
         "Argentina"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "44cb7860a7cb",
-      "title": "Egypt want officials kicked out of World Cup",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzdd070r3o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-08T13:45:24+00:00",
-      "summary": "The Egyptian FA lodges a complaint with Fifa and demands an investigation into \"double standards\" of officiating in the controversial defeat by Argentina.",
-      "teams": [
-        "Egypt",
-        "Argentina"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "e267a785b6f5",
@@ -450,30 +449,6 @@
       "summary": "Australia’s superstar striker returns to the US after a seven-year absence – and will find a vastly changed landscape When Sam Kerr last played for the National Women’s Soccer League’s Big Apple-adjacent club, it was called Sky Blue and the playing conditions were abysmal. The Au",
       "teams": [
         "Australia"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "7906a807776c",
-      "title": "A striker duel for the ages & Qatar revenge - what to expect in quarter-finals",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyyvn1yn7o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-08T10:56:31+00:00",
-      "summary": "Setting the scene for each of the four intriguing World Cup quarter-finals that begin on Thursday.",
-      "teams": [
-        "Qatar"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "b31de97651e7",
-      "title": "The World Cup stars who could have played for England",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0lyj77w9z7o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-08T09:49:22+00:00",
-      "summary": "While there is no shortage of talent in the England squad, a number of World Cup stars from other nations could have featured for the Three Lions if things had worked out differently.",
-      "teams": [
-        "England"
       ],
       "is_injury_related": true
     },
@@ -531,22 +506,6 @@
       "is_injury_related": false
     },
     {
-      "id": "20597fec721b",
-      "title": "Is Neymar the first to bookend his international career with goals at the same venue? | The Knowledge",
-      "url": "https://www.theguardian.com/football/2026/jul/08/is-neymar-the-first-to-bookend-his-international-career-with-goals-at-the-same-venue",
-      "source": "The Guardian",
-      "published_at": "2026-07-08T07:00:23+00:00",
-      "summary": "Plus: national team colours that are different from flags; Senegal’s goal difference record setters; and Scotland’s unbeaten 1974 tournament Mail us with your all of your questions and answers “Neymar’s consolation penalty against Norway at the World Cup means his first internati",
-      "teams": [
-        "Brazil",
-        "Scotland",
-        "USA",
-        "Senegal",
-        "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "6af06049b9b4",
       "title": "Switzerland beat Colombia on penalties to reach quarter-finals",
       "url": "https://www.bbc.co.uk/sport/football/videos/c6219n0yezno",
@@ -598,19 +557,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "64d444744ae0",
-      "title": "All the presidents’ meddling: the Balogun scandal shows how Fifa can break football | Barney Ronay",
-      "url": "https://www.theguardian.com/football/2026/jul/07/donald-trump-gianni-infantino-folarin-balogun-fifa-world-cup-2026",
-      "source": "The Guardian",
-      "published_at": "2026-07-07T20:45:02+00:00",
-      "summary": "The suspension of the USA striker’s red card after Trump’s intervention has shown what Gianni Infantino’s organisation is trying to turn the sport into: scripted entertainment Frites 4 Cheats 1. Tintin 4 Tonto 1. Some good news here, perhaps. It seems Gianni Infantino was right a",
-      "teams": [
-        "USA",
-        "Belgium"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "acd93f5d628d",
@@ -1036,6 +982,18 @@
       "summary": "Australia captain back in league she left in 2019 Striker won 11 major trophies in spell at Chelsea Sam Kerr is joining Gotham FC in the National Women’s Soccer League (NWSL) after spending the past six and a half years with Chelsea. Gotham announced on Monday they had signed the",
       "teams": [
         "Australia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "6315c3640521",
+      "title": "Is five-match ban for Qatar's Madibo excessive?",
+      "url": "https://www.bbc.co.uk/sport/articles/c6210561g95o",
+      "source": "BBC Sport",
+      "published_at": "2026-06-25T19:25:29+00:00",
+      "summary": "Our Ask Me Anything team look at whether Madibo's punishment for his challenge on Kone was proportionate.",
+      "teams": [
+        "Qatar"
       ],
       "is_injury_related": true
     }
