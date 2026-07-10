@@ -1,24 +1,62 @@
 {
-  "generated_at": "2026-07-10T21:17:51.771197+00:00",
+  "generated_at": "2026-07-10T23:11:37.221358+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "3b4b4988aa55",
-      "title": "Spain 2-1 Belgium: World Cup 2026 quarter-final – live reaction",
-      "url": "https://www.theguardian.com/football/live/2026/jul/10/spain-v-belgium-world-cup-2026-quarter-final-live",
-      "source": "The Guardian",
-      "published_at": "2026-07-10T21:10:00+00:00",
-      "summary": "⚽ Kick-off time: 12pm local/3pm EDT/8pm BST/5am AEST ⚽ Player guide | Bracketology | Golden Boot | Email Billy “I did my year abroad in Belgium and Germany in 2015/16, and my university in Germany had a big screen outside the canteen showing the Euros games,” writes Harry Desmond",
+      "id": "2abc7aabe761",
+      "title": "England's Guehi, Rice & James all train before Norway game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-10T22:06:14+00:00",
+      "summary": "Midfielder Declan Rice and defenders Marc Guehi and Reece James all train with England on the eve of Saturday's World Cup quarter-final against Norway.",
       "teams": [
-        "Germany",
-        "Belgium",
-        "Spain",
-        "Portugal"
+        "Norway",
+        "England"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "dc158a796e9b",
+      "title": "Spain into semi-finals at expense of Belgium after Merino's late winner",
+      "url": "https://www.bbc.co.uk/sport/videos/cd0m9e88g0vo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-10T22:01:20+00:00",
+      "summary": "Mikel Merino emerges as Spain's hero yet again as the substitute scores in the 88th minute to stun Belgium and set up a World Cup semi-final against France.",
+      "teams": [
+        "Belgium",
+        "Spain",
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "abff5abcb97d",
+      "title": "'Influential' Lamine Yamal has 'more to give' to Spain",
+      "url": "https://www.bbc.co.uk/sport/videos/cy9r3dnngqno",
+      "source": "BBC Sport",
+      "published_at": "2026-07-10T21:52:15+00:00",
+      "summary": "BBC Sport World Cup pundits Cesar Azpilicueta and Wayne Rooney look at how Lamine Yamal performed against Belgium and feel there is \"more to come\" from the Spain forward.",
+      "teams": [
+        "Belgium",
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "37ef394de3c4",
+      "title": "Merino puts Spain into World Cup semi-finals as Belgium rue costly Courtois injury",
+      "url": "https://www.theguardian.com/football/2026/jul/10/spain-belgium-world-cup-2026-quarter-final-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-07-10T21:13:02+00:00",
+      "summary": "Mikel Merino’s amazing moment arrived once more, an entire country circling the corner flag with him as football, which somehow always finds a way, provided another absurdly tall tale. The man who came on to score the late, late goals that took Spain into a European championship ",
+      "teams": [
+        "Belgium",
+        "Spain"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "84e84e391658",
@@ -209,17 +247,19 @@
       "is_injury_related": false
     },
     {
-      "id": "81bd1748290f",
-      "title": "Time marches on: what the next three years will bring for the USMNT",
-      "url": "https://www.theguardian.com/football/2026/jul/10/usmnt-world-cup-qualifying-gold-cup-copa-america",
+      "id": "4d72a08b5c8e",
+      "title": "Argentina continue to show ‘heart’ but flaws are apparent before Switzerland clash",
+      "url": "https://www.theguardian.com/football/2026/jul/10/argentina-show-heart-flaws-apparent-swizerland-world-cup-quarter-final",
       "source": "The Guardian",
-      "published_at": "2026-07-10T12:00:20+00:00",
-      "summary": "After a fun World Cup with a dismal end, the US enters the 2030 cycle with numerous avenues to rebuild the squad After an exciting home World Cup run ended with a disappointing thud in the last 16, there are massive questions lingering around the US men’s national team program. M",
+      "published_at": "2026-07-10T11:52:53+00:00",
+      "summary": "Close calls against Cape Verde and Egypt show Scaloni’s side are vulnerable, despite all the brilliance of Lionel Messi It is among the defining moments of this World Cup: Lionel Messi wandering the pitch in Atlanta with tears rolling down his face. Minutes earlier, Argentina had",
       "teams": [
-        "USA",
-        "Saudi Arabia"
+        "Switzerland",
+        "Egypt",
+        "Cape Verde",
+        "Argentina"
       ],
-      "is_injury_related": true
+      "is_injury_related": false
     },
     {
       "id": "ffb2dc920ffb",
@@ -414,19 +454,6 @@
       "is_injury_related": true
     },
     {
-      "id": "2abc7aabe761",
-      "title": "Guehi a doubt for Norway game and Rice ill with bug",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-09T22:33:14+00:00",
-      "summary": "England defender Marc Guehi is managing a slight hamstring injury and could miss Saturday's Norway quarter-final.",
-      "teams": [
-        "Norway",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "04a59c9a3c24",
       "title": "Mbappé stunner ends Morocco resistance to send France into World Cup semi-finals",
       "url": "https://www.theguardian.com/football/2026/jul/09/morocco-france-world-cup-quarter-final-match-report",
@@ -562,19 +589,6 @@
         "Argentina"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "981170301916",
-      "title": "‘Maggie Thatcher, can you hear me?’ The story behind the iconic Norway v England commentary",
-      "url": "https://www.theguardian.com/football/2026/jul/09/the-story-behind-iconic-norway-v-england-commentary-bjorge-lillelien-maggie-thatcher",
-      "source": "The Guardian",
-      "published_at": "2026-07-09T11:15:06+00:00",
-      "summary": "Bjørge Lillelien’s famous rant after 1981 clash stemmed from Norwegian obsession with English football What do Lord Nelson, Lord Beaverbrook, Sir Winston Churchill, Sir Anthony Eden, Clement Attlee, Henry Cooper and Lady Diana have in common? On 9 September 1981 they were all bea",
-      "teams": [
-        "Norway",
-        "England"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "bb8d1292f348",
@@ -823,19 +837,6 @@
       "is_injury_related": true
     },
     {
-      "id": "cf5d8301fbe8",
-      "title": "'Total calamity!' US gift Belgium a third goal",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx266ee3v2mo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-07T01:55:57+00:00",
-      "summary": "USA goalkeeper Matt Freese with a huge error in judgement as he gifts Belgium's Hans Vanaken the ball, leaving him with an easy finish that defender Tim Ream could've done more to stop. Errors all around as Belgium take control of the round of 16 tie.",
-      "teams": [
-        "USA",
-        "Belgium"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "73eaca040548",
       "title": "Mikel Merino comes full circle with Spain in touching tale of fathers and sons | Sid Lowe",
       "url": "https://www.theguardian.com/football/2026/jul/06/mikel-merino-spain-world-cup-winner-portugal",
@@ -847,19 +848,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "2b760706322f",
-      "title": "Spain into quarter-finals after Merino's late winner against Portugal",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx2338eg1ndo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-06T21:46:32+00:00",
-      "summary": "Spain leave it late as super-sub Mikel Merino scores a stoppage-time winner to send his side into the quarter-finals, ending Cristiano Ronaldo's hopes of World Cup glory.",
-      "teams": [
-        "Spain",
-        "Portugal"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "1a6c7b0521c9",
