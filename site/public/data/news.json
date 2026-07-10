@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T19:48:23.592586+00:00",
+  "generated_at": "2026-07-10T21:17:51.771197+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -7,10 +7,10 @@
   "items": [
     {
       "id": "3b4b4988aa55",
-      "title": "Spain v Belgium: World Cup 2026 quarter-final – live",
+      "title": "Spain 2-1 Belgium: World Cup 2026 quarter-final – live reaction",
       "url": "https://www.theguardian.com/football/live/2026/jul/10/spain-v-belgium-world-cup-2026-quarter-final-live",
       "source": "The Guardian",
-      "published_at": "2026-07-10T19:39:50+00:00",
+      "published_at": "2026-07-10T21:10:00+00:00",
       "summary": "⚽ Kick-off time: 12pm local/3pm EDT/8pm BST/5am AEST ⚽ Player guide | Bracketology | Golden Boot | Email Billy “I did my year abroad in Belgium and Germany in 2015/16, and my university in Germany had a big screen outside the canteen showing the Euros games,” writes Harry Desmond",
       "teams": [
         "Germany",
@@ -21,12 +21,37 @@
       "is_injury_related": false
     },
     {
+      "id": "84e84e391658",
+      "title": "Salah demands put Saudi switch in doubt - Saturday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy06rnjzxkyo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-10T20:32:14+00:00",
+      "summary": "Mohamed Salah's financial demands putting off Saudi clubs, Bayern Munich rebuff Real Madrid move for Michael Olise, Barcelona agree to sign Karim Adeyemi, plus more.",
+      "teams": [
+        "Saudi Arabia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "daceb6f1981c",
+      "title": "England favourites to reach semis, says Norway boss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq61n2gqqv0o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-10T20:10:44+00:00",
+      "summary": "England are favourites to reach the semi-finals of the World Cup, Norway boss Stale Solbakken has told BBC Sport.",
+      "teams": [
+        "Norway",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "0f6429369554",
       "title": "New species named after Cape Verde keeper Vozinha",
       "url": "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo",
       "source": "BBC Sport",
       "published_at": "2026-07-10T19:30:06+00:00",
-      "summary": "A new species of sea snail has been named after Cape Verde goalkeeper Vozinha to mark his performance against Spain at the World Cup.",
+      "summary": "A new species of sea slug has been named after Cape Verde goalkeeper Vozinha to mark his performance against Spain at the World Cup.",
       "teams": [
         "Spain",
         "Cape Verde"
@@ -195,18 +220,6 @@
         "Saudi Arabia"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "bcec8f108823",
-      "title": "'What old-timers can do' - the evolution of Belgium's golden generation",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0g0mg4no",
-      "source": "BBC Sport",
-      "published_at": "2026-07-10T11:38:58+00:00",
-      "summary": "BBC Sport explores what is behind Belgium's progress to the last eight of the World Cup, and whether they were too easily discounted among the contenders.",
-      "teams": [
-        "Belgium"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "ffb2dc920ffb",
@@ -572,19 +585,6 @@
       "summary": "Figures who worked with striker in his formative years recall a self-belief – even when his talent did not stand out There is another version of reality in which Harry Kane is not England’s greatest goalscorer but a goalkeeper. On his first day at Ridgeway Rovers, his first club,",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "3b8582353f2a",
-      "title": "Benitez open to Scotland job - what would he bring and is he affordable?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2dzkjnye3o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-09T10:59:16+00:00",
-      "summary": "Is Rafa Benitez a realistic contender to replace Steve Clarke as Scotland head coach or would the Spaniard's likely salary demands be an obvious stumbling block?",
-      "teams": [
-        "Scotland",
-        "Spain"
       ],
       "is_injury_related": false
     },
