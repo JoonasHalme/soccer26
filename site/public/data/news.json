@@ -1,10 +1,119 @@
 {
-  "generated_at": "2026-07-10T12:07:40.757234+00:00",
+  "generated_at": "2026-07-10T15:39:04.860007+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "1fb7d8070ad0",
+      "title": "West Ham sign forward Salmon on two-year deal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy04elxeyvqo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-10T15:31:05+00:00",
+      "summary": "West Ham have signed England forward Ebony Salmon on a two-year deal following her exit from Aston Villa.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "c346073b28a5",
+      "title": "World Cup 2026: ‘violent disorder’ in London after France’s win over Morocco; Spain v Belgium buildup; Jesus takes Portugal job – live",
+      "url": "https://www.theguardian.com/football/live/2026/jul/10/world-cup-2026-france-power-on-quansah-ban-fallout-spain-v-belgium-buildup-live",
+      "source": "The Guardian",
+      "published_at": "2026-07-10T15:24:54+00:00",
+      "summary": "⚽ All the latest news as the quarter-finals continue ⚽ Player guide | Bracketology | Golden Boot | Email us A 17-year-old girl fell off a truck and died while celebrating France’s World Cup quarter final win over Morocco, emergency services said Friday. Celebrations erupted acros",
+      "teams": [
+        "Morocco",
+        "USA",
+        "Belgium",
+        "Spain",
+        "France",
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8ec42588e83e",
+      "title": "Devlin attracts interest from Rangers - gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v29j8ee3yo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-10T14:31:01+00:00",
+      "summary": "Rangers linked with midfielders as English clubs express interest in Scottish left-back.",
+      "teams": [
+        "Scotland",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b2d81729335d",
+      "title": "Football Daily | Mbappé and France are on the march. Who’s going to stop them?",
+      "url": "https://www.theguardian.com/football/2026/jul/10/football-daily-email-gwc-france-morocco",
+      "source": "The Guardian",
+      "published_at": "2026-07-10T13:18:48+00:00",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Marchons, marchons. Fans of France’s remaining rivals at the Geopolitics World Cup – and lovers of business-end big tournament jeopardy – were left sorely disappointed as the favourites steamrolled Morocco. Didier Deschamps’ coh",
+      "teams": [
+        "Morocco",
+        "USA",
+        "Paraguay",
+        "France",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "19b014064ec7",
+      "title": "What are the games to look out for in the Scottish League Cup?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8kkj0p4vyo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-10T12:55:23+00:00",
+      "summary": "Four top-flight clubs open their competitive season in the group stages of the Scottish League Cup on Saturday.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "67f173b478f3",
+      "title": "How do England stop Norway - and Haaland?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c621jyxkvzko",
+      "source": "BBC Sport",
+      "published_at": "2026-07-10T12:39:21+00:00",
+      "summary": "As England prepare to face Norway in a World Cup quarter-final on Saturday, how can Thomas Tuchel's side handle the main threat - star striker Erling Haaland?",
+      "teams": [
+        "Norway",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "05645830f275",
+      "title": "Wing wizards or worries? England and Norway have choices to make out wide",
+      "url": "https://www.theguardian.com/football/2026/jul/10/wing-wizards-england-norway-2026-world-cup-quarter-final",
+      "source": "The Guardian",
+      "published_at": "2026-07-10T12:15:09+00:00",
+      "summary": "Thomas Tuchel seems undecided, while Ståle Solbakken has been structured before the World Cup quarter-final While there will be much focus on Harry Kane and Erling Haaland before England’s match with Norway, they carry no mystery. They will play. They will probably score. A more ",
+      "teams": [
+        "Norway",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "81bd1748290f",
+      "title": "Time marches on: what the next three years will bring for the USMNT",
+      "url": "https://www.theguardian.com/football/2026/jul/10/usmnt-world-cup-qualifying-gold-cup-copa-america",
+      "source": "The Guardian",
+      "published_at": "2026-07-10T12:00:20+00:00",
+      "summary": "After a fun World Cup with a dismal end, the US enters the 2030 cycle with numerous avenues to rebuild the squad There are massive questions lingering around the US men’s program. Mauricio Pochettino’s contract is up, US Soccer has made an extension offer, but both parties are ta",
+      "teams": [
+        "USA",
+        "Saudi Arabia"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "bcec8f108823",
       "title": "'What old timers can do' - the evolution of Belgium's golden generation",
@@ -14,22 +123,6 @@
       "summary": "BBC Sport explores what is behind Belgium's progress to the last eight of the World Cup, and whether they were too easily discounted among the contenders.",
       "teams": [
         "Belgium"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "c346073b28a5",
-      "title": "World Cup 2026: ‘violent disorder’ in London after France’s win over Morocco, Spain v Belgium buildup – live",
-      "url": "https://www.theguardian.com/football/live/2026/jul/10/world-cup-2026-france-power-on-quansah-ban-fallout-spain-v-belgium-buildup-live",
-      "source": "The Guardian",
-      "published_at": "2026-07-10T11:37:07+00:00",
-      "summary": "⚽ All the latest news as the quarter-finals continue ⚽ Player guide | Bracketology | Golden Boot | Email us A 17-year-old girl fell off a truck and died while celebrating France’s World Cup quarter final win over Morocco, emergency services said Friday. Celebrations erupted acros",
-      "teams": [
-        "Morocco",
-        "USA",
-        "Belgium",
-        "Spain",
-        "France"
       ],
       "is_injury_related": false
     },
@@ -133,6 +226,18 @@
       "is_injury_related": false
     },
     {
+      "id": "0cb6c11105e0",
+      "title": "Who has your Premiership club brought in & let go this summer?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-10T08:05:18+00:00",
+      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "ac19d60078c1",
       "title": "‘Give me another medal!’: meet the hair stylist who has taken over the World Cup",
       "url": "https://www.theguardian.com/football/2026/jul/10/give-me-another-medal-hair-stylist-world-cup-jayema-lamine-yamal-raphinha",
@@ -149,19 +254,6 @@
       "is_injury_related": false
     },
     {
-      "id": "e79eae19c342",
-      "title": "London to Lisbon and back every game: England rack up the World Cup miles",
-      "url": "https://www.theguardian.com/football/2026/jul/10/london-to-lisbon-and-back-every-game-england-rack-up-the-world-cup-miles",
-      "source": "The Guardian",
-      "published_at": "2026-07-10T07:00:13+00:00",
-      "summary": "England have been happy with their Kansas City base but it has led to them travelling more than the other quarter-finalists – here’s just how much more Much was made of the challenge England faced by playing Mexico at altitude in the Estadio Azteca. The greater concern might be t",
-      "teams": [
-        "Mexico",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "168f16e66189",
       "title": "How De la Fuente's Spain are closing in on greatness",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwyez8r7ve8o",
@@ -171,18 +263,6 @@
       "teams": [
         "Belgium",
         "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "8ec42588e83e",
-      "title": "Rangers pursue midfielder Fosso - gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v29j8ee3yo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-10T06:44:44+00:00",
-      "summary": "Rangers linked with midfielders in Austria and Serbia as Hearts hold talks with key player over a contract extension...",
-      "teams": [
-        "Austria"
       ],
       "is_injury_related": false
     },
@@ -213,7 +293,7 @@
     },
     {
       "id": "a94ea7e06f10",
-      "title": "France cruise into semi-finals - could this be the best Les Bleus ever?",
+      "title": "France cruise into semi-finals - are they best-ever version of Les Bleus?",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4gy74978myo",
       "source": "BBC Sport",
       "published_at": "2026-07-10T00:43:10+00:00",
@@ -240,7 +320,7 @@
     },
     {
       "id": "3ee2ad0ae647",
-      "title": "What's going on with penalties - is it time to end the stutter?",
+      "title": "Are stuttering penalties clever or a fail? Stats suggest they are a no-no",
       "url": "https://www.bbc.co.uk/sport/football/articles/cg74k39rp4vo",
       "source": "BBC Sport",
       "published_at": "2026-07-10T00:02:46+00:00",
@@ -344,20 +424,6 @@
       "is_injury_related": false
     },
     {
-      "id": "bb06de055750",
-      "title": "Erling Haaland claims pressure is all on England in quarter-final with Norway",
-      "url": "https://www.theguardian.com/football/2026/jul/09/erling-haaland-claims-pressure-is-all-on-england-in-quarter-final-with-norway",
-      "source": "The Guardian",
-      "published_at": "2026-07-09T18:46:48+00:00",
-      "summary": "Striker says England one of the ‘clear favourites’ to win World Cup Also makes knowing reference to famous ‘Stay humble’ remark Erling Haaland has ramped up the World Cup mind games by saying England are the team under ­pressure when they face Norway in their ­quarter-final tie o",
-      "teams": [
-        "Brazil",
-        "Norway",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "d6b591329bb1",
       "title": "Christian Pulisic suffered leg fracture in US loss to Belgium, out for several weeks",
       "url": "https://www.theguardian.com/football/2026/jul/09/christian-pulisic-injury-world-cup-usmnt",
@@ -420,18 +486,6 @@
         "Colombia"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "502713f52939",
-      "title": "Football banning orders strengthened in pitch invasion and pyro crackdown",
-      "url": "https://www.bbc.co.uk/news/articles/c0lyrk3yz73o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-09T15:05:31+00:00",
-      "summary": "Scottish courts will be granted more powers to hand out football banning orders in order to improve safety at matches.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "6c2e22455068",
@@ -515,18 +569,6 @@
         "Spain"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "90f17dd0e099",
-      "title": "'It was good vibes in there' - Stones on viral prank",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdej0znl156o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-09T10:53:47+00:00",
-      "summary": "John Stones talks about the viral dressing-room injury prank that left England boss Thomas Tuchel briefly stunned.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "f6d5fba724da",
@@ -823,18 +865,6 @@
       "summary": "This was the most extraordinary night of football as an experience of the mind, body, bones, guts and blood “Enn-JOYYY this unforrrgGEDDABLE Fifa Worrrld Cup … expPERRIENCE!!” the strangely guileless American‑accented public address had commanded, with 40 minutes still to run bef",
       "teams": [
         "Mexico",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "23ba273a48a1",
-      "title": "An incredible night when England heroes were made",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjrgg07p8dlo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-06T05:51:10+00:00",
-      "summary": "On a spine-tingling night of drama, emotion and pure theatre in one of sport's most atmospheric arenas, England delivered one of their greatest performances.",
-      "teams": [
         "England"
       ],
       "is_injury_related": false
