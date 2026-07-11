@@ -1,10 +1,49 @@
 {
-  "generated_at": "2026-07-10T23:11:37.221358+00:00",
+  "generated_at": "2026-07-11T03:37:02.709112+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "8f6f9627dde5",
+      "title": "Tuchel fears more Haaland heroics as England seek identity against Norway",
+      "url": "https://www.theguardian.com/football/2026/jul/11/thomas-tuchel-erling-haaland-england-norway-2026-world-cup-quarter-final",
+      "source": "The Guardian",
+      "published_at": "2026-07-11T00:00:34+00:00",
+      "summary": "Head coach says ‘you can’t avoid focusing’ on the forward, who has form against Tuchel’s sides, before the World Cup quarter-final The way that Thomas Tuchel remembers it, he was the only choice for the award. He had led Chelsea to Champions League glory in 2020-21 so when the Ge",
+      "teams": [
+        "Germany",
+        "Norway",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "df97ff66c082",
+      "title": "Merino the unlikely hero again - as Spain wait for Lamine Yamal show",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg50pvejzdo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-10T23:29:52+00:00",
+      "summary": "Mikel Merino came off the bench to send Spain into the World Cup semi-finals - but Lamine Yamal is still waiting for his moment to truly shine.",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "994fe7c065a0",
+      "title": "Lammens' error spells end for Belgium's golden generation",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy107g38eo",
+      "source": "BBC Sport",
+      "published_at": "2026-07-10T23:14:51+00:00",
+      "summary": "Belgium's World Cup campaign ends after Senne Lammens' error against Spain - could it all be over for their golden generation too?",
+      "teams": [
+        "Belgium",
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "2abc7aabe761",
       "title": "England's Guehi, Rice & James all train before Norway game",
@@ -93,18 +132,6 @@
       "teams": [
         "Spain",
         "Cape Verde"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "b7b767625d36",
-      "title": "Players and staff to reap £19m bonus bonanza if England win World Cup",
-      "url": "https://www.theguardian.com/football/2026/jul/10/players-and-staff-to-reap-19m-bonus-bonanza-if-england-win-world-cup",
-      "source": "The Guardian",
-      "published_at": "2026-07-10T18:11:13+00:00",
-      "summary": "FA would pay out half its £38m Fifa prize money Players could net £15m, Thomas Tuchel £3m England’s players and coaching staff will receive around half of the FA’s £38m Fifa prize money in bonuses if they win the World Cup. The Guardian has learned that as part of a bonus scheme ",
-      "teams": [
-        "England"
       ],
       "is_injury_related": true
     },
@@ -234,19 +261,6 @@
       "is_injury_related": false
     },
     {
-      "id": "05645830f275",
-      "title": "Wing wizards or worries? England and Norway have choices to make out wide",
-      "url": "https://www.theguardian.com/football/2026/jul/10/wing-wizards-england-norway-2026-world-cup-quarter-final",
-      "source": "The Guardian",
-      "published_at": "2026-07-10T12:15:09+00:00",
-      "summary": "Thomas Tuchel seems undecided, while Ståle Solbakken has been structured before the World Cup quarter-final While there will be much focus on Harry Kane and Erling Haaland before England’s match with Norway, they carry no mystery. They will play. They will probably score. A more ",
-      "teams": [
-        "Norway",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "4d72a08b5c8e",
       "title": "Argentina continue to show ‘heart’ but flaws are apparent before Switzerland clash",
       "url": "https://www.theguardian.com/football/2026/jul/10/argentina-show-heart-flaws-apparent-swizerland-world-cup-quarter-final",
@@ -298,6 +312,19 @@
       "is_injury_related": false
     },
     {
+      "id": "d2edd213cb38",
+      "title": "‘What’s more American than baseball?’: World Cup brings fans, chants and verve to the national pastime",
+      "url": "https://www.theguardian.com/football/2026/jul/10/world-cup-major-league-baseball-fans-michael-harris-braves",
+      "source": "The Guardian",
+      "published_at": "2026-07-10T10:00:17+00:00",
+      "summary": "The crossover in the American sports calendar has made for a compelling collision of cultures, from Scots in Boston to a new English folk hero in Atlanta First they sang for Harry Kane. Then they sang for Michael Harris II. The Atlanta Braves center-fielder is not someone many Ma",
+      "teams": [
+        "Scotland",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "b338633391bc",
       "title": "Football Daily",
       "url": "https://www.bbc.co.uk/sounds/play/p0ny0bzw",
@@ -334,6 +361,20 @@
         "Colombia"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "8ad5033181b5",
+      "title": "Police officer hurt amid violent disorder in London after France beat Morocco",
+      "url": "https://www.theguardian.com/football/2026/jul/10/violent-disorder-in-london-france-morocco-world-cup-police-officer-hurt-arrests",
+      "source": "The Guardian",
+      "published_at": "2026-07-10T08:28:38+00:00",
+      "summary": "Four arrests after Edgware Road incidents, say police Teenager dies in France while celebrating team’s win A police officer has been hurt and several people were arrested after disorder in London on Thursday night in the wake of France beating Morocco 2-0 in a World Cup quarter-f",
+      "teams": [
+        "Morocco",
+        "USA",
+        "France"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "856480b4d166",
@@ -466,19 +507,6 @@
         "France"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "f34f6c919409",
-      "title": "Norway's Haaland says pressure is all on England",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj3gd8rg628o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-09T22:01:51+00:00",
-      "summary": "Norway striker Erling Haaland says all the pressure is on England before the two sides' World Cup quarter-final on Saturday.",
-      "teams": [
-        "Norway",
-        "England"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "f4fb5381e398",
