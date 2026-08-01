@@ -1,13 +1,37 @@
 {
-  "generated_at": "2026-08-01T04:31:28.231503+00:00",
+  "generated_at": "2026-08-01T07:37:13.593319+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "2329c148ed26",
+      "title": "Have you ever switched allegiance as a football fan? You are not alone | Luke McLaughlin",
+      "url": "https://www.theguardian.com/football/2026/aug/01/switch-allegiance-football-fan",
+      "source": "The Guardian",
+      "published_at": "2026-08-01T07:00:47+00:00",
+      "summary": "If professional athletes can represent more than one country, let alone multiple clubs, why shouldn’t fans change teams? “I was fanatically pro-German when the Germans were here to protect us against the Americans, and now that Americans are here to protect us against the Germans",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "4f915ec86001",
+      "title": "Marketing stunt or ‘extraordinary’ transfer? Ravenna fans ride wave of the Ronaldinho Effect",
+      "url": "https://www.theguardian.com/football/2026/aug/01/marketing-stunt-or-extraordinary-transfer-ravenna-fans-ronaldinho",
+      "source": "The Guardian",
+      "published_at": "2026-08-01T07:00:46+00:00",
+      "summary": "Brazil legend’s decision to play in Serie C at 46 has divided fans – but the man who arranged the deal has high hopes On a scorching summer afternoon in Ravenna, a city far better known for its fifth-century Byzantine mosaics and Dante’s tomb than for footballing glory, eyes are ",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "5a7d64e24fd7",
-      "title": "Dundee Utd & Rangers open season with Friday draw - watch",
+      "title": "Highlights: Dundee Utd 1-1 Rangers",
       "url": "https://www.bbc.co.uk/sport/football/videos/c62enlg40j5o",
       "source": "BBC Sport",
       "published_at": "2026-07-31T23:45:21+00:00",
@@ -48,6 +72,18 @@
       "source": "BBC Sport",
       "published_at": "2026-07-31T22:40:49+00:00",
       "summary": "Scotland international Kieron Bowie has completed a loan move from Hellas Verona to Serie A side Sassuolo.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "851329c529c7",
+      "title": "Rangers held by Dundee United to kick off McInnes era and Scottish Premiership",
+      "url": "https://www.theguardian.com/football/2026/jul/31/dundee-united-rangers-scottish-premiership-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-07-31T21:58:49+00:00",
+      "summary": "Thelo Aasgaard earned Derek McInnes his first point as Rangers manager as they fought back for a 1-1 draw against Dundee United. Lachlan Rose struck the first goal of the Premiership season to give United a half-time lead at Tannadice. Continue reading...",
       "teams": [
         "Scotland"
       ],
@@ -190,18 +226,6 @@
       "is_injury_related": false
     },
     {
-      "id": "2c7dbd8706e2",
-      "title": "Football Daily",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p1tw86",
-      "source": "BBC Sport",
-      "published_at": "2026-07-30T22:21:00+00:00",
-      "summary": "A look ahead to the new Scottish Premiership season.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "059c84c31e76",
       "title": "Not so black and white: how Eddie Howe lost control at Newcastle in one summer | Louise Taylor",
       "url": "https://www.theguardian.com/football/2026/jul/30/not-so-black-and-white-how-one-summer-saw-eddie-howe-lose-control-at-newcastle",
@@ -249,18 +273,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "b0ca0f1ca6d2",
-      "title": "Scottish Premiership returns with McInnes adding new twist to Old Firm rivalry",
-      "url": "https://www.theguardian.com/football/2026/jul/30/scottish-premiership-celtic-rangers-old-firm-motherwell-hearts",
-      "source": "The Guardian",
-      "published_at": "2026-07-30T13:00:15+00:00",
-      "summary": "Derek McInnes has a score to settle with Celtic after swapping Hearts for Rangers, while Motherwell could impress again Only residents of cloud cuckoo land can hold the firm belief that Scottish football will emerge promptly from a summer of discontent. The onset of a new domesti",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "df7e8b061e50",
