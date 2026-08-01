@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-08-01T18:08:53.352693+00:00",
+  "generated_at": "2026-08-01T20:14:11.985254+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "a648b8c1d836",
+      "title": "Watch: Sportscene highlights of Saturday's Scottish Premiership games",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcscotland",
+      "source": "BBC Sport",
+      "published_at": "2026-08-01T20:29:34+00:00",
+      "summary": "Highlights of Falkirk v St Mirren and Aberdeen v Hearts.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "dc4ddb15adb3",
+      "title": "Scottish Premiership: Mayo and Nisbet strike late to help Aberdeen stun Hearts",
+      "url": "https://www.theguardian.com/football/2026/aug/01/scottish-premiership-aberdeen-hearts-falkirk-st-mirren",
+      "source": "The Guardian",
+      "published_at": "2026-08-01T19:21:08+00:00",
+      "summary": "Two stoppage-time goals secured 2-1 win for the hosts Killian Phillips double gives St Mirren 2-0 win at Falkirk Hearts’ miserable summer continued as they conceded two late goals to lose 2-1 to Aberdeen in their Premiership opener at Pittodrie. Wouter Vrancken and the Jambos loo",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "05e99430519b",
       "title": "All done deals in August 2026",
@@ -246,6 +270,18 @@
       "summary": "Everything was looking rosy for Howe at St James’ Park until Alexander Isak’s departure led to rushed signings and a messy season Last September, David Hopkinson, just installed as Newcastle’s chief executive, perched on a stool at a downstairs corner table in Shearer’s Bar at St",
       "teams": [
         "Saudi Arabia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8c867aa7f48e",
+      "title": "Defender Stones joins Inter Milan on free transfer",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp3rklgggn5o",
+      "source": "BBC Sport",
+      "published_at": "2026-07-30T18:36:32+00:00",
+      "summary": "England defender John Stones joins Italian Serie A champions Inter Milan on a free transfer and signs a two-year contract.",
+      "teams": [
+        "England"
       ],
       "is_injury_related": false
     },
