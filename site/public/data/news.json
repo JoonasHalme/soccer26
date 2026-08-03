@@ -1,31 +1,43 @@
 {
-  "generated_at": "2026-08-03T04:42:40.226289+00:00",
+  "generated_at": "2026-08-03T08:40:33.040619+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "69ec8043c043",
+      "title": "Goals galore as Scottish Championship & Leagues 1 and 2 return",
+      "url": "https://www.bbc.co.uk/sport/videos/c8jnmz34rzno",
+      "source": "BBC Sport",
+      "published_at": "2026-08-03T07:22:23+00:00",
+      "summary": "Highlights of the opening day of the Scottish Championship, League 1 and League 2 for season 2026-27.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "2e36136394b2",
+      "title": "Watch highlights as St Johnstone edge out Killie in seven-goal thriller",
+      "url": "https://www.bbc.co.uk/sport/articles/cn5nqg6vvvyo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-03T06:11:47+00:00",
+      "summary": "Watch Sportscene highlights from McDiarmid Park as St Johnstone and Kilmarnock play out a seven-goal thriller in the Scottish Premiership.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "6188c58ef4b1",
-      "title": "Socceroos on the move: Lucas Herrington headlines post-World Cup transfers | Joey Lynch",
+      "title": "Socceroos on the move: Herrington headlines post-World Cup transfers",
       "url": "https://www.theguardian.com/football/blog/2026/aug/03/lucas-herrington-transfers-hull-premier-league-socceroos-transfer-news-fee-australian-players",
       "source": "The Guardian",
       "published_at": "2026-08-03T03:33:18+00:00",
       "summary": "The defender is set to become one of Australia’s most expensive players with a Premier League deal nearly done while some international teammates have already made moves Lucas Herrington, fresh off becoming the youngest Australian to start a game at a men’s World Cup, is set to b",
       "teams": [
         "Australia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "21e96a19039e",
-      "title": "Tale of two halves leaves Iraola with plenty to ponder",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr7k03gy028o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-02T23:18:36+00:00",
-      "summary": "On the overnight flight from Chicago back to England, Andoni Iraola will have plenty of thinking to do after the conclusion of Liverpool's pre-season US tour.",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
@@ -139,36 +151,12 @@
       "is_injury_related": false
     },
     {
-      "id": "5a7d64e24fd7",
-      "title": "Highlights: Dundee Utd 1-1 Rangers",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c62enlg40j5o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-31T23:45:21+00:00",
-      "summary": "Derek McInnes' era as Rangers manager got off to an underwhelming start as Dundee United hold them to an opening Scottish Premiership draw.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "1faf5a50a103",
       "title": "Same start but different outlook at Rangers as McInnes era begins",
       "url": "https://www.bbc.co.uk/sport/football/articles/c04krgdvn3ro",
       "source": "BBC Sport",
       "published_at": "2026-07-31T23:09:51+00:00",
       "summary": "Derek McInnes insists Rangers will improve after his team's Scottish Premiership draw at Dundee United.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "851329c529c7",
-      "title": "Rangers held by Dundee United to kick off McInnes era and Scottish Premiership",
-      "url": "https://www.theguardian.com/football/2026/jul/31/dundee-united-rangers-scottish-premiership-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-07-31T21:58:49+00:00",
-      "summary": "Thelo Aasgaard earned Derek McInnes his first point as Rangers manager as they fought back for a 1-1 draw against Dundee United. Lachlan Rose struck the first goal of the Premiership season to give United a half-time lead at Tannadice. Continue reading...",
       "teams": [
         "Scotland"
       ],
@@ -219,19 +207,6 @@
       "summary": "Akbar Majeed’s new feature tells the story of the sport through a Black lens and asks hard questions about the barriers facing the game’s breakthrough Akbar Majeed takes a deep breath as he considers the legacy of the 2026 World Cup and, in particular, the effect of the US team’s",
       "teams": [
         "Belgium"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "ac74c5273452",
-      "title": "Football transfer rumours: Guimarães set for Arsenal? Newcastle to bring in Froholdt?",
-      "url": "https://www.theguardian.com/football/2026/jul/31/football-transfer-rumours-bruno-guimaraes-arsenal-newcastle-victor-froholdt",
-      "source": "The Guardian",
-      "published_at": "2026-07-31T08:37:20+00:00",
-      "summary": "Today’s rumours have a geordie flavour Eddie Howe presumably won’t be reading this page for a while. Perhaps the now departed Newcastle boss will be seeking some beach time, looking out to sea and mentally preparing his audition for the England job while his assistant Jason Tinda",
-      "teams": [
-        "Spain",
-        "England"
       ],
       "is_injury_related": false
     },
@@ -322,18 +297,6 @@
       "is_injury_related": true
     },
     {
-      "id": "e47cd0f1294a",
-      "title": "Spain U20s midfielder Arques joins London City",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj03mr318r6o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-29T17:00:14+00:00",
-      "summary": "London City Lionesses sign Spanish youth international Daniela Arques from Sporting, subject to international clearance.",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "8dc3ceabd172",
       "title": "USMNT coach Mauricio Pochettino, US Soccer in ‘final stages’ of agreeing on new contract",
       "url": "https://www.theguardian.com/football/2026/jul/29/mauricio-pochettino-us-soccer-contract-status",
@@ -379,19 +342,6 @@
       "summary": "New manager’s No 1 priority must be to persuade World Cup-winning captain to stay as Real Madrid circle “Welcome home,” was Khaldoon al-Mubarak’s warm greeting to Enzo Maresca on his appointment last month as Manchester City manager. Now, after two previous spells at the club, th",
       "teams": [
         "Spain"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "41a9def86642",
-      "title": "Relive Zidane's World Cup masterclass as he's named France head coach",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cpvwkdnpgkpo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-28T13:36:50+00:00",
-      "summary": "New France head coach Zinedine Zidane produces a masterclass against Brazil in the quarter-finals of the 2006 World Cup.",
-      "teams": [
-        "Brazil",
-        "France"
       ],
       "is_injury_related": true
     },
@@ -463,18 +413,6 @@
       "teams": [
         "Paraguay",
         "Germany"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "acc303d7fe88",
-      "title": "'I'm proud of it' - Keegan looks back on career highlights and legacy",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cgmkv3j3yv0o",
-      "source": "BBC Sport",
-      "published_at": "2026-07-20T16:32:51+00:00",
-      "summary": "Kevin Keegan talks to Football Focus' Dan Walker in 2018 about some of the standout moments from his career - from winning World Player of the Year twice, to managing England and the iconic \"I would love it\" remark from the 1995–96 season.",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
