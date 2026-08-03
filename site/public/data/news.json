@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-08-02T23:07:29.569477+00:00",
+  "generated_at": "2026-08-03T00:12:06.816451+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "21e96a19039e",
+      "title": "Tale of two halves leaves Iraola with plenty to ponder",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr7k03gy028o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-02T23:18:36+00:00",
+      "summary": "On the overnight flight from Chicago back to England, Andoni Iraola will have plenty of thinking to do after the conclusion of Liverpool's pre-season US tour.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "44cff4b94c3a",
       "title": "Chelsea sign Argentina international Valentín Barco from Strasbourg",
@@ -161,20 +173,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "87be94670d04",
-      "title": "Arsenal target Bruno Guimarães not on Newcastle’s flight to pre-season camp",
-      "url": "https://www.theguardian.com/football/2026/jul/31/newcastle-bruno-guimaraes-pre-season-camp",
-      "source": "The Guardian",
-      "published_at": "2026-07-31T16:17:20+00:00",
-      "summary": "Midfielder could still fly to La Manga on Sunday Howe says he stood down ‘to recharge and take a break’ Bruno Guimarães was not on Newcastle’s flight to Murcia on Friday lunchtime as Eddie Howe’s former players prepared to meet their new head coach in southern Spain. As Guimarães",
-      "teams": [
-        "Brazil",
-        "Spain",
-        "Saudi Arabia"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "c7ad8b6285ad",
