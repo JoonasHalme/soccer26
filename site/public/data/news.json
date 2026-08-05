@@ -1,10 +1,61 @@
 {
-  "generated_at": "2026-08-05T09:44:58.769094+00:00",
+  "generated_at": "2026-08-05T12:11:05.545750+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "a17468515b8e",
+      "title": "Salah given hero's welcome before Trabzonspor move",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8negllz1ko",
+      "source": "BBC Sport",
+      "published_at": "2026-08-05T10:57:54+00:00",
+      "summary": "Turkish club Trabzonspor are set to confirm the signing of Egypt captain and former Liverpool forward Mohamed Salah.",
+      "teams": [
+        "Egypt"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ddcd72bd23d3",
+      "title": "Crystal Palace ready to swoop for US star Zavier Gozo and stand firm on Wharton",
+      "url": "https://www.theguardian.com/football/2026/aug/05/crystal-palace-ready-to-swoop-for-us-star-zavier-gozo-and-stand-firm-on-wharton",
+      "source": "The Guardian",
+      "published_at": "2026-08-05T10:51:53+00:00",
+      "summary": "Palace determined to keep hold of England midfielder Chelsea close to deal for Chavarria from Rayo Vallecano Crystal Palace are closing in on the signing of the United States youth international Zavier Gozo as the new manager Pierre Sage attempts to strengthen his squad ahead of ",
+      "teams": [
+        "USA",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "b9da9c2494cb",
+      "title": "‘Trabzon, are you ⁠ready?’: Mohamed Salah lands in Turkey to sign for Trabzonspor",
+      "url": "https://www.theguardian.com/football/2026/aug/04/trabzonspor-transfer-mohamed-salah-turkish-super-lig",
+      "source": "The Guardian",
+      "published_at": "2026-08-05T10:48:47+00:00",
+      "summary": "Salah greeted by hundreds of fans before free transfer Egypt star left Liverpool this summer after nine years Mohamed Salah arrived smiling at an Istanbul airport on Wednesday wearing Trabzonspor’s burgundy and blue kit ahead of ⁠his expected move to ⁠the Turkish Super Lig ​side,",
+      "teams": [
+        "Turkey",
+        "Egypt"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ef1fa4490617",
+      "title": "Arsenal agree £75m fee with Newcastle for Bruno Guimarães as clubs reach compromise",
+      "url": "https://www.theguardian.com/football/2026/aug/05/arsenal-agree-75m-fee-with-newcastle-for-bruno-guimaraes-as-clubs-reach-compromise",
+      "source": "The Guardian",
+      "published_at": "2026-08-05T10:23:19+00:00",
+      "summary": "Magpies rejected opening offer of £70m on Monday Newcastle captain to travel from Spain training camp Bruno Guimarães is set to leave Newcastle’s pre-season training camp in southern Spain and fly to London before a £75m move to Arsenal. The out-going Newcastle captain is schedul",
+      "teams": [
+        "Brazil",
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "0255e3eebf33",
       "title": "Japanese winger Yokota joins Rangers from Hannover",
@@ -14,19 +65,6 @@
       "summary": "Japanese winger Daisuke Yokota hopes to make \"special memories\" after joining Rangers from Hannover.",
       "teams": [
         "Japan"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "ef1fa4490617",
-      "title": "Arsenal agree £75m fee with Newcastle for Bruno Guimarães as clubs reach compromise",
-      "url": "https://www.theguardian.com/football/2026/aug/05/arsenal-agree-75m-fee-with-newcastle-for-bruno-guimaraes-as-clubs-reach-compromise",
-      "source": "The Guardian",
-      "published_at": "2026-08-05T09:00:50+00:00",
-      "summary": "Magpies rejected opening offer of £70m on Monday Newcastle captain to travel from Spain training camp Bruno Guimarães is set to leave Newcastle’s pre-season training camp in southern Spain and fly to London before a £75m move to Arsenal. The out-going Newcastle captain is schedul",
-      "teams": [
-        "Brazil",
-        "Spain"
       ],
       "is_injury_related": false
     },
@@ -103,18 +141,6 @@
       "is_injury_related": false
     },
     {
-      "id": "b9da9c2494cb",
-      "title": "Trabzonspor aim to sign Mohamed Salah this week after opening transfer talks",
-      "url": "https://www.theguardian.com/football/2026/aug/04/trabzonspor-transfer-mohamed-salah-turkish-super-lig",
-      "source": "The Guardian",
-      "published_at": "2026-08-04T21:52:37+00:00",
-      "summary": "Club chair says forward will have medical on Wednesday Egypt international left Liverpool after nine years The Turkish Super Lig side Trabzonspor say they have begun transfer ⁠negotiations with Mohamed Salah, with the club chair adding they hoped to sign the Egypt forward later t",
-      "teams": [
-        "Egypt"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "f5200b7b2c38",
       "title": "Barcelona sign Brazil forward Kerolin from Manchester City for club-record £1.25m",
       "url": "https://www.theguardian.com/football/2026/aug/04/barcelona-sign-brazil-forward-kerolin-manchester-city-womens-super-league",
@@ -149,18 +175,6 @@
       "summary": "Newly promoted Ipswich Town complete the signing of Portuguese midfielder Florentino Luis from Burnley for an undisclosed fee.",
       "teams": [
         "Portugal"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "76a450acf5a9",
-      "title": "Arsenal target Vinícius says Mourinho ‘wants me to be happy’ at Real Madrid",
-      "url": "https://www.theguardian.com/football/2026/aug/04/arsenal-target-vinicius-junior-jose-mourinho-real-madrid",
-      "source": "The Guardian",
-      "published_at": "2026-08-04T16:37:50+00:00",
-      "summary": "‘It has gone very well, getting to know the new coach’ Brazil winger has one year left on contract at Bernabéu Vinícius Júnior is settling into life under the new Real Madrid manager, José ⁠Mourinho, with a smile on his face even as uncertainty swirls around the Brazil forward’s ",
-      "teams": [
-        "Brazil"
       ],
       "is_injury_related": false
     },
@@ -265,18 +279,6 @@
       "is_injury_related": false
     },
     {
-      "id": "3a5ba023b1ae",
-      "title": "Tierney shows value as Celtic title defence begins with win",
-      "url": "https://www.bbc.co.uk/sport/articles/cpd72xwyjw9o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-03T22:18:02+00:00",
-      "summary": "BBC Scotland looks at the impact of Kieran Tierney in Celtic's win over Dundee in the Scottish Premiership.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "7209fece55c7",
       "title": "Mauricio Pochettino’s US return is risky, expensive and probably unnecessary | Leander Schaerlaeckens",
       "url": "https://www.theguardian.com/football/2026/aug/03/mauricio-pochettino-usmnt-return",
@@ -288,19 +290,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "6e9042dfb13a",
-      "title": "England midfielder Henderson joins Chelsea",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62qnnrzqk5o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-03T15:17:56+00:00",
-      "summary": "Free agent Jordan Henderson signs a two-year deal with Chelsea after his contract with Premier League rivals Brentford is mutually terminated.",
-      "teams": [
-        "Jordan",
-        "England"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "3c4832c373a1",
@@ -395,18 +384,6 @@
       "summary": "The World Cup gave MLS unprecedented momentum. Keeping it will depend less on signing aging icons than convincing America’s best young players to stay “Thanks World, we’ll take it from here,” is Major League Soccer’s message to the American public. Yet two moves in the last week ",
       "teams": [
         "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "c1301a1667d7",
-      "title": "Why women's football is first casualty of Fifa plans",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp8xzl54wyzo",
-      "source": "BBC Sport",
-      "published_at": "2026-07-31T13:25:00+00:00",
-      "summary": "Fifa's president Gianni Infantino's plans will make women's football \"the first casualties\" according to former England defender Anita Asante.",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
