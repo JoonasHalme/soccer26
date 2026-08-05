@@ -1,13 +1,25 @@
 {
-  "generated_at": "2026-08-05T15:24:34.953710+00:00",
+  "generated_at": "2026-08-05T17:51:18.943299+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "2af5d27678e6",
+      "title": "Parkinson gets England-U20s call before World Cup",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd0xk2n23ymo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-05T16:03:10+00:00",
+      "summary": "Midfielder Erica Meg Parkinson, 18, has been named in England's preparation squad for the Under-20 Women's World Cup in Poland next month.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "156f38c1267b",
-      "title": "Luis Figo blasts ‘deceitful’ Infantino and says Fifa president must quit to ‘save football’",
+      "title": "Luís Figo blasts ‘deceitful’ Infantino and says Fifa president must quit to ‘save football’",
       "url": "https://www.theguardian.com/football/2026/aug/05/luis-figo-gianni-infantino-fifa-president-quit-save-football",
       "source": "The Guardian",
       "published_at": "2026-08-05T15:03:11+00:00",
@@ -23,7 +35,7 @@
       "url": "https://www.theguardian.com/football/2026/aug/05/manchester-united-women-appoint-eva-olid-new-head-coach",
       "source": "The Guardian",
       "published_at": "2026-08-05T14:10:54+00:00",
-      "summary": "United impressed by her ability to develop players Spaniard signs two-year deal after guiding Hearts to glory Eva Olid has described being appointed as the Manchester United Women head coach as a dream come true, after signing a two-year contract until 2028 with the option of a f",
+      "summary": "United impressed by her ability to develop players Spaniard signs two-year deal after guiding Hearts to glory Eva Olid has described being appointed as the Manchester United Women head coach as a dream come true after signing a two-year contract until 2028 with the option of a fu",
       "teams": [
         "Spain"
       ],
@@ -31,7 +43,7 @@
     },
     {
       "id": "ddcd72bd23d3",
-      "title": "Transfer roundup: Coventry to make Yirenkyi new record signing, Palace swoop for Gozo",
+      "title": "Transfer roundup: Coventry to make Yirenkyi record signing, Palace swoop for Gozo",
       "url": "https://www.theguardian.com/football/2026/aug/05/crystal-palace-ready-to-swoop-for-us-star-zavier-gozo-and-stand-firm-on-wharton",
       "source": "The Guardian",
       "published_at": "2026-08-05T13:49:12+00:00",
@@ -56,25 +68,12 @@
       "is_injury_related": false
     },
     {
-      "id": "b9da9c2494cb",
-      "title": "‘Trabzon, are you ⁠ready?’: Mohamed Salah lands in Turkey to sign for Trabzonspor",
-      "url": "https://www.theguardian.com/football/2026/aug/04/trabzonspor-transfer-mohamed-salah-turkish-super-lig",
-      "source": "The Guardian",
-      "published_at": "2026-08-05T10:48:47+00:00",
-      "summary": "Salah greeted by hundreds of fans before free transfer Egypt star left Liverpool this summer after nine years Mohamed Salah arrived smiling at an Istanbul airport on Wednesday wearing Trabzonspor’s burgundy and blue kit ahead of ⁠his expected move to ⁠the Turkish Super Lig ​side,",
-      "teams": [
-        "Turkey",
-        "Egypt"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "ef1fa4490617",
       "title": "Arsenal agree £75m fee with Newcastle for Bruno Guimarães as clubs reach compromise",
       "url": "https://www.theguardian.com/football/2026/aug/05/arsenal-agree-75m-fee-with-newcastle-for-bruno-guimaraes-as-clubs-reach-compromise",
       "source": "The Guardian",
       "published_at": "2026-08-05T10:23:19+00:00",
-      "summary": "Magpies rejected opening offer of £70m on Monday Newcastle captain to travel from Spain training camp Bruno Guimarães is set to leave Newcastle’s pre-season training camp in southern Spain and fly to London before a £75m move to Arsenal. The out-going Newcastle captain is schedul",
+      "summary": "Magpies rejected opening offer of £70m on Monday Newcastle captain to travel from Spain training camp Bruno Guimarães is poised to leave Newcastle’s pre-season training camp in southern Spain and fly to London before a £75m move to Arsenal. The departing Newcastle captain is sche",
       "teams": [
         "Brazil",
         "Spain"
@@ -279,19 +278,6 @@
       "is_injury_related": false
     },
     {
-      "id": "6ebc35986a27",
-      "title": "Alverca: the Portuguese club thriving with help from Vinícius Júnior",
-      "url": "https://www.theguardian.com/football/2026/aug/04/alverca-fc-portuguese-club-smart-scouting-vinicius-junior-eduardo-camavinga-travis-scott",
-      "source": "The Guardian",
-      "published_at": "2026-08-04T09:12:55+00:00",
-      "summary": "Their rise is down to smart scouting and clever links with celebrities such as Eduardo Camavinga and Travis Scott By Get French Football News Alverca have been busy in the last few years. They have shot up the Portuguese pyramid while changing owners, buying a whole new squad and",
-      "teams": [
-        "France",
-        "Portugal"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "05e99430519b",
       "title": "All done deals in August 2026",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
@@ -348,18 +334,6 @@
       "summary": "The £34m signing from Club Brugge says he is a more complete player now after an indifferent time at Norwich For any Arsenal fan eager to know what Christos Tzolis might bring to the Premier League champions, the winger’s swiftly earned nickname at his new club might prove instru",
       "teams": [
         "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "69ec8043c043",
-      "title": "Goals galore as Scottish Championship & Leagues 1 and 2 return",
-      "url": "https://www.bbc.co.uk/sport/videos/c8jnmz34rzno",
-      "source": "BBC Sport",
-      "published_at": "2026-08-03T07:22:23+00:00",
-      "summary": "Highlights of the opening day of the Scottish Championship, League 1 and League 2 for season 2026-27.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": true
     },
