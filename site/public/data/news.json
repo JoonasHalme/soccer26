@@ -1,10 +1,95 @@
 {
-  "generated_at": "2026-08-05T06:38:41.151701+00:00",
+  "generated_at": "2026-08-05T09:44:58.769094+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "0255e3eebf33",
+      "title": "Japanese winger Yokota joins Rangers from Hannover",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cddjryv4e52o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-05T09:01:35+00:00",
+      "summary": "Japanese winger Daisuke Yokota hopes to make \"special memories\" after joining Rangers from Hannover.",
+      "teams": [
+        "Japan"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ef1fa4490617",
+      "title": "Arsenal agree £75m fee with Newcastle for Bruno Guimarães as clubs reach compromise",
+      "url": "https://www.theguardian.com/football/2026/aug/05/arsenal-agree-75m-fee-with-newcastle-for-bruno-guimaraes-as-clubs-reach-compromise",
+      "source": "The Guardian",
+      "published_at": "2026-08-05T09:00:50+00:00",
+      "summary": "Magpies rejected opening offer of £70m on Monday Newcastle captain to travel from Spain training camp Bruno Guimarães is set to leave Newcastle’s pre-season training camp in southern Spain and fly to London before a £75m move to Arsenal. The out-going Newcastle captain is schedul",
+      "teams": [
+        "Brazil",
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "cf05f874fdbc",
+      "title": "Football transfer rumours: Folarin Balogun to Spurs? Pedro Neto to Manchester City?",
+      "url": "https://www.theguardian.com/football/2026/aug/05/football-transfer-rumours-folarin-balogun-tottenham-hotspur-pedro-neto-manchester-city",
+      "source": "The Guardian",
+      "published_at": "2026-08-05T07:31:34+00:00",
+      "summary": "Today’s fluff is riding a unicycle It’s been a quiet summer thus far for Folarin Balogun , so why not stir up some controversy by signing for the arch rivals of your boyhood club? The Monaco striker, who started his career at Arsenal, is being linked with a move to Tottenham Hots",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "02c6f25d55b4",
+      "title": "Héctor Bellerín: ‘When you leave a club like Arsenal, it’s scary. It hurts’",
+      "url": "https://www.theguardian.com/football/2026/aug/05/hector-bellerin-arsenal-mikel-arteta-real-betis",
+      "source": "The Guardian",
+      "published_at": "2026-08-05T07:00:13+00:00",
+      "summary": "Spanish full-back on moving on from the Emirates Stadium, his elation at his old club ending their title drought, and how Mikel Arteta has helped prolong his career One day when he was 18 or 19, still near the start of his journey, Héctor Bellerín got a call from Mikel Arteta inv",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "e33c4c389698",
+      "title": "Which footballer made the biggest leap in competitive levels between games? | The Knowledge",
+      "url": "https://www.theguardian.com/football/2026/aug/05/which-footballer-biggest-leap-in-competitive-levels-between-games-the-knowledge",
+      "source": "The Guardian",
+      "published_at": "2026-08-05T07:00:12+00:00",
+      "summary": "Plus: worst-ever penalty shoot outs, poachers turned gamekeepers … and footballers donating antiques?! Mail us with your all of your questions and answers “Malachi Fagan-Walcott’s final game of last season was for York City against Rochdale in the National League. His first compe",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d3fb66aa3813",
+      "title": "Vozinha granted shirt name exemption by Chile FA",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9d89177xg4o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-05T06:44:38+00:00",
+      "summary": "The Chilean Football Federation (ANFP) grants an exemption to allow Cape Verde goalkeeper Vozinha to wear his nickname on his shirt after signing for Colo Colo.",
+      "teams": [
+        "Cape Verde"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "12045be833b3",
+      "title": "Celtic push for Ghedjemis deal as Rangers face Yokota race - gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg3l1jennro",
+      "source": "BBC Sport",
+      "published_at": "2026-08-05T06:40:41+00:00",
+      "summary": "Possible incomings at Celtic as Scottish champions' former left-back moves to Houston Dynamo.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "e3b6dd6a357d",
       "title": "Why Liverpool are ready to make Barcola third £100m signing",
@@ -156,18 +241,6 @@
       "is_injury_related": false
     },
     {
-      "id": "2fb99d274577",
-      "title": "Retired Taylor named head of refereeing in Turkey",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8dnr5m89d3o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-04T13:40:15+00:00",
-      "summary": "Retired referee Anthony Taylor is appointed as director of elite refereeing for the Turkish Football Federation.",
-      "teams": [
-        "Turkey"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "769fc989272f",
       "title": "Nygren header earns Celtic opening victory against Dundee",
       "url": "https://www.bbc.co.uk/sport/videos/ce856g741mmo",
@@ -180,37 +253,12 @@
       "is_injury_related": false
     },
     {
-      "id": "6ebc35986a27",
-      "title": "Alverca: the Portuguese club thriving with help from Vinícius Júnior",
-      "url": "https://www.theguardian.com/football/2026/aug/04/alverca-fc-portuguese-club-smart-scouting-vinicius-junior-eduardo-camavinga-travis-scott",
-      "source": "The Guardian",
-      "published_at": "2026-08-04T09:12:55+00:00",
-      "summary": "Their rise is down to smart scouting and clever links with celebrities such as Eduardo Camavinga and Travis Scott By Get French Football News Alverca have been busy in the last few years. They have shot up the Portuguese pyramid while changing owners, buying a whole new squad and",
-      "teams": [
-        "France",
-        "Portugal"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "05e99430519b",
       "title": "All done deals in August 2026",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
       "source": "BBC Sport",
       "published_at": "2026-08-04T07:36:11+00:00",
       "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "cf87c750ebd7",
-      "title": "Which Scottish club has toughest route to European group stage?",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p2jb1l",
-      "source": "BBC Sport",
-      "published_at": "2026-08-04T07:00:00+00:00",
-      "summary": "Celtic win but are they ready for Europe? Dundee show promise in defeat.",
       "teams": [
         "Scotland"
       ],
@@ -485,19 +533,6 @@
       "teams": [
         "Germany",
         "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "68c9b9e2720c",
-      "title": "World Cup 2026 awards: the Guardian team give their final tournament verdicts",
-      "url": "https://www.theguardian.com/football/2026/jul/22/world-cup-awards-guardian-team-2026-tournament-verdicts",
-      "source": "The Guardian",
-      "published_at": "2026-07-22T09:01:34+00:00",
-      "summary": "The best games, goals and personal highlights – from a magical Azteca to Erling Haaland breaking America Paraguay 1-1 Germany. There were plenty more games with more goals but none could match the drama of the penalty shootout in this last-32 tie. Germany aren’t supposed to lose ",
-      "teams": [
-        "Paraguay",
-        "Germany"
       ],
       "is_injury_related": false
     }
