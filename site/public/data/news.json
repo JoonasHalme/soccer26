@@ -1,10 +1,37 @@
 {
-  "generated_at": "2026-08-06T06:42:01.615878+00:00",
+  "generated_at": "2026-08-06T09:47:50.061079+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "ea47ef7fb6a3",
+      "title": "Football transfer rumours: Arsenal back for £60m Konsa? Asencio to Liverpool?",
+      "url": "https://www.theguardian.com/football/2026/aug/06/football-transfer-rumours-arsenal-ezri-konsa-raul-asencio-liverpool",
+      "source": "The Guardian",
+      "published_at": "2026-08-06T08:26:43+00:00",
+      "summary": "Today’s rumours are prising open their war chest Aston Villa struggling to hold on to their World Cup stars has become something of a theme of this transfer window and off we go again with Arsenal stepping up their interest in Ezri Konsa . The Daily Mail reports that the Premier ",
+      "teams": [
+        "France",
+        "Senegal",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "bf9b7821acc9",
+      "title": "Podcast: Polish test for Rangers, Portuguese giants await Hearts",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p2xq6p",
+      "source": "BBC Sport",
+      "published_at": "2026-08-06T07:00:00+00:00",
+      "summary": "Rangers need a result, Hearts need a miracle? Europe's big Scottish test.",
+      "teams": [
+        "Scotland",
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "a17468515b8e",
       "title": "Salah given hero's welcome before Trabzonspor move",
@@ -132,6 +159,20 @@
       "is_injury_related": true
     },
     {
+      "id": "ddcd72bd23d3",
+      "title": "Transfer roundup: Coventry to make Yirenkyi record signing, Palace swoop for Gozo",
+      "url": "https://www.theguardian.com/football/2026/aug/05/crystal-palace-ready-to-swoop-for-us-star-zavier-gozo-and-stand-firm-on-wharton",
+      "source": "The Guardian",
+      "published_at": "2026-08-05T13:49:12+00:00",
+      "summary": "Promoted side closing on £23m deal with Nordsjælland Palace target USA’s Zavier Gozo, hold firm on Wharton Coventry are set to break their transfer record for the fourth time in this window after agreeing a £23m fee with Danish side Nordsjælland for the Ghana midfielder Caleb Yir",
+      "teams": [
+        "USA",
+        "Ghana",
+        "Panama"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "ef1fa4490617",
       "title": "Arsenal agree £75m fee with Newcastle for Bruno Guimarães as clubs reach compromise",
       "url": "https://www.theguardian.com/football/2026/aug/05/arsenal-agree-75m-fee-with-newcastle-for-bruno-guimaraes-as-clubs-reach-compromise",
@@ -153,18 +194,6 @@
       "summary": "Japanese winger Daisuke Yokota hopes to make \"special memories\" after joining Rangers from Hannover.",
       "teams": [
         "Japan"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "cf05f874fdbc",
-      "title": "Football transfer rumours: Folarin Balogun to Spurs? Pedro Neto to Manchester City?",
-      "url": "https://www.theguardian.com/football/2026/aug/05/football-transfer-rumours-folarin-balogun-tottenham-hotspur-pedro-neto-manchester-city",
-      "source": "The Guardian",
-      "published_at": "2026-08-05T07:31:34+00:00",
-      "summary": "Today’s fluff is riding a unicycle It’s been a quiet summer thus far for Folarin Balogun , so why not stir up some controversy by signing for the arch rivals of your boyhood club? The Monaco striker, who started his career at Arsenal, is being linked with a move to Tottenham, who",
-      "teams": [
-        "Portugal"
       ],
       "is_injury_related": false
     },
@@ -217,19 +246,6 @@
       "is_injury_related": false
     },
     {
-      "id": "f5200b7b2c38",
-      "title": "Barcelona sign Brazil forward Kerolin from Manchester City for club-record £1.25m",
-      "url": "https://www.theguardian.com/football/2026/aug/04/barcelona-sign-brazil-forward-kerolin-manchester-city-womens-super-league",
-      "source": "The Guardian",
-      "published_at": "2026-08-04T18:57:15+00:00",
-      "summary": "Transfer fee largest sum received for a sale by WSL side Signing eclipses Olivia Smith’s £1m move to Arsenal Barcelona have signed the Brazil forward Kerolin from Manchester City for an undisclosed fee that sources say is in the region of £1.25m, which would represent the largest",
-      "teams": [
-        "Brazil",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "c95ec332a10a",
       "title": "USMNT to face Mexico and Canada in friendlies to kick off 2030 World Cup cycle",
       "url": "https://www.theguardian.com/football/2026/aug/04/usmnt-friendlies-mexico-canada",
@@ -244,19 +260,6 @@
       "is_injury_related": true
     },
     {
-      "id": "df903bddb71c",
-      "title": "Football Daily | Chelsea, Jordan Henderson and a transfer pivot for the ages",
-      "url": "https://www.theguardian.com/football/2026/aug/04/chelsea-jordan-henderson-transfer-pivot-for-the-ages-football-daily",
-      "source": "The Guardian",
-      "published_at": "2026-08-04T15:28:29+00:00",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Who’s next? Can they convince Craig Gordon to reverse his recent retirement? Invite Bolo Zenden back for a second spell at Stamford Bridge? Get Kieran Richardson to replace Marc Cucurella? Chelsea really have cooked up a fascina",
-      "teams": [
-        "Jordan",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "7502aa0d12a6",
       "title": "Man City lose forward Kerolin to Barcelona",
       "url": "https://www.bbc.co.uk/sport/football/articles/c36de65dg2po",
@@ -265,18 +268,6 @@
       "summary": "Barcelona sign Brazil forward Kerolin from Women's Super League champions Manchester City.",
       "teams": [
         "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "1e4062aebef7",
-      "title": "What did Premiership start tell us about Scottish sides' Euro hopes?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8kz2prrplo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-04T15:21:15+00:00",
-      "summary": "With Rangers, Hearts, Hibernian and Motherwell in action on Thursday, BBC Scotland has been attempting to analyse the chances of the nation's European hopefuls.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -317,6 +308,18 @@
       "is_injury_related": false
     },
     {
+      "id": "3c4832c373a1",
+      "title": "Vinícius Júnior to Arsenal doesn’t make sense. That’s why it may work | Jonathan Wilson",
+      "url": "https://www.theguardian.com/football/2026/aug/03/arsenal-vinicius-transfer-real-madrid",
+      "source": "The Guardian",
+      "published_at": "2026-08-03T15:00:21+00:00",
+      "summary": "Mikel Arteta’s team and the Brazilian star could be a perfect match. It also could be a risk that ends in disaster Sometimes what is needed is something different. There is a long history in football of counterintuitive thinking being successful, of the benefits of creative tensi",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "f7944f714ea6",
       "title": "Inside Liverpool's summer so far - should fans be worried?",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4g42rz2y89o",
@@ -327,18 +330,6 @@
         "USA"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "5e19b873ff38",
-      "title": "Worn in the USA: Liverpool’s pre-season tour had highs but exposed glaring gaps in the squad | Andy Hunter",
-      "url": "https://www.theguardian.com/football/2026/aug/03/liverpool-pre-season-usa-tour-exposed-squad-gaps",
-      "source": "The Guardian",
-      "published_at": "2026-08-03T10:23:25+00:00",
-      "summary": "Teenager Nyoni excelled in Andoni Iraola’s first pre-season tour, but the head coach desperately needs transfers Andoni Iraola’s first pre-season tour as the Liverpool head coach produced wins over Sunderland in Nashville and Wrexham in New York before ending in a 4-2 defeat agai",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "2e36136394b2",
@@ -446,21 +437,6 @@
       "summary": "New manager’s No 1 priority must be to persuade World Cup-winning captain to stay as Real Madrid circle “Welcome home,” was Khaldoon al-Mubarak’s warm greeting to Enzo Maresca on his appointment last month as Manchester City manager. Now, after two previous spells at the club, th",
       "teams": [
         "Spain"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "171f7c2e8268",
-      "title": "The 2026 World Cup is over, but the onslaught of soccer relentlessly rolls on | Leander Schaerlaeckens",
-      "url": "https://www.theguardian.com/football/2026/jul/27/relentless-soccer-schedule-world-cup",
-      "source": "The Guardian",
-      "published_at": "2026-07-27T16:36:58+00:00",
-      "summary": "The supply of soccer seems to be enormously exceeding demand. It’s made the sport feel utterly overwhelming On Friday, the Scottish Premiership kicks off its 2026-27 season. The following Friday, the Dutch Eredivisie begins anew, and England’s Carabao Cup sets off on its ponderou",
-      "teams": [
-        "Scotland",
-        "USA",
-        "Netherlands",
-        "England"
       ],
       "is_injury_related": true
     }
