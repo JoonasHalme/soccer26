@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-08-06T03:31:08.171960+00:00",
+  "generated_at": "2026-08-06T06:42:01.615878+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "a17468515b8e",
+      "title": "Salah given hero's welcome before Trabzonspor move",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8negllz1ko",
+      "source": "BBC Sport",
+      "published_at": "2026-08-06T06:21:01+00:00",
+      "summary": "Turkish club Trabzonspor are set to confirm the signing of Egypt captain and former Liverpool forward Mohamed Salah.",
+      "teams": [
+        "Egypt"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "59bc95623396",
       "title": "Defender Walker 'at ease' with England retirement",
@@ -120,18 +132,6 @@
       "is_injury_related": true
     },
     {
-      "id": "a17468515b8e",
-      "title": "Salah given hero's welcome before Trabzonspor move",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn8negllz1ko",
-      "source": "BBC Sport",
-      "published_at": "2026-08-05T10:57:54+00:00",
-      "summary": "Turkish club Trabzonspor are set to confirm the signing of Egypt captain and former Liverpool forward Mohamed Salah.",
-      "teams": [
-        "Egypt"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "ef1fa4490617",
       "title": "Arsenal agree £75m fee with Newcastle for Bruno Guimarães as clubs reach compromise",
       "url": "https://www.theguardian.com/football/2026/aug/05/arsenal-agree-75m-fee-with-newcastle-for-bruno-guimaraes-as-clubs-reach-compromise",
@@ -226,18 +226,6 @@
       "teams": [
         "Brazil",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "55a88753af6e",
-      "title": "Ipswich sign midfielder Florentino from Burnley",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjrv0pxvqx1o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-04T18:09:27+00:00",
-      "summary": "Newly promoted Ipswich Town complete the signing of Portuguese midfielder Florentino Luis from Burnley for an undisclosed fee.",
-      "teams": [
-        "Portugal"
       ],
       "is_injury_related": false
     },
