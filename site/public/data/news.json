@@ -1,21 +1,59 @@
 {
-  "generated_at": "2026-08-07T13:33:27.034292+00:00",
+  "generated_at": "2026-08-07T15:06:19.368993+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "ebfabfa6d99a",
+      "title": "Hjerto-Dahl joins Hull in 'biggest challenge' yet",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdrve3k5xv0o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-07T14:10:20+00:00",
+      "summary": "Hull City sign Norwegian midfielder Jens Hjerto-Dahl on a five-year contract from Tromso.",
+      "teams": [
+        "Norway"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "05e99430519b",
       "title": "All done deals in August 2026",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
       "source": "BBC Sport",
-      "published_at": "2026-08-07T12:42:44+00:00",
+      "published_at": "2026-08-07T14:08:15+00:00",
       "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "teams": [
         "Scotland"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "e013723af88a",
+      "title": "Manchester City reject Barcelona’s opening £38.5m bid for Rodri as talks continue",
+      "url": "https://www.theguardian.com/football/2026/aug/07/manchester-city-reject-barcelonas-opening-385m-bid-for-rodri-as-talks-continue",
+      "source": "The Guardian",
+      "published_at": "2026-08-07T14:02:12+00:00",
+      "summary": "Mourinho reportedly unhappy over Barça hijack City ready to seal deal for Morocco star Bouaddi Manchester City have rejected an offer of £38.5m (€45m) from Barcelona for Rodri and want at least £60m before allowing Spain’s World Cup-winning captain to depart. Barcelona have emerg",
+      "teams": [
+        "Morocco",
+        "Spain"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "162a23b3f097",
+      "title": "Football Daily | Vinícius Júnior and a fantasy world of transfers in the football lull",
+      "url": "https://www.theguardian.com/football/2026/aug/07/football-daily-email-vinicius-junior",
+      "source": "The Guardian",
+      "published_at": "2026-08-07T13:53:18+00:00",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! “We were so close … At the end of the day, really, they made him an offer he couldn’t refuse … It shows where we’re trying to aim for the club … There has been a lot of stuff written in the papers that you have to take on the ch",
+      "teams": [
+        "Brazil",
+        "England"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "95f9d496a9c0",
@@ -53,7 +91,7 @@
       "teams": [
         "Norway"
       ],
-      "is_injury_related": true
+      "is_injury_related": false
     },
     {
       "id": "459a0e395616",
@@ -87,7 +125,7 @@
       "url": "https://www.theguardian.com/football/2026/aug/07/tottenham-and-atletico-in-talks-over-romero-with-van-de-ven-set-to-sign-new-deal",
       "source": "The Guardian",
       "published_at": "2026-08-07T10:37:43+00:00",
-      "summary": "Simeone keen on swoop for Spurs defender Van de Ven expected to pen five-year extension Tottenham are in talks with Atlético Madrid over the sale of Cristian Romero after categorically rejecting Arsenal’s approach for the Argentina defender and are expected to agree a new five-ye",
+      "summary": "Simeone keen on move for Spurs defender Van de Ven expected to pen five-year extension Tottenham are in talks with Atlético Madrid over the sale of Cristian Romero after categorically rejecting Arsenal’s approach for the Argentina defender and are expected to agree a new five-yea",
       "teams": [
         "Argentina"
       ],
@@ -167,19 +205,6 @@
       "is_injury_related": false
     },
     {
-      "id": "82b36265345c",
-      "title": "Arsenal hopes dashed after Vinícius Júnior extends Real Madrid contract to 2032",
-      "url": "https://www.theguardian.com/football/2026/aug/06/arsenal-hopes-dashed-after-vinicius-junior-extends-real-madrid-contract-to-2032",
-      "source": "The Guardian",
-      "published_at": "2026-08-06T22:29:10+00:00",
-      "summary": "Brazil international has agreed a new six-year deal ‘Eight years at the Bernabéu are too few,’ says Vinícius Vinícius Júnior has ended summer speculation over his future by agreeing a new six-year contract with Real Madrid. Arsenal had been heavily linked with a move for the Braz",
-      "teams": [
-        "Brazil",
-        "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "aea9d0943417",
       "title": "Birmingham sign striker Effa Effa for £100K",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce971e8ny8mo",
@@ -237,18 +262,6 @@
       "summary": "Barça ready to hijack rivals’ plans to sign Spain captain Manchester City will allow midfielder to go for £60m Barcelona have stepped up their attempts to hijack Real Madrid’s move to sign Rodri from Manchester City. While City have not given up hope that Spain’s World Cup-winnin",
       "teams": [
         "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f1e3af4fe96b",
-      "title": "Scottish FA scraps key match incident panel",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c79gx0nl33zo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-06T15:56:01+00:00",
-      "summary": "The Scottish FA will no longer use a key match incident review panel.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
