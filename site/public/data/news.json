@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T21:52:13.551882+00:00",
+  "generated_at": "2026-08-07T22:51:55.551036+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -124,6 +124,19 @@
         "Norway"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "e013723af88a",
+      "title": "Manchester City reject Barcelona’s opening £38.5m bid for Rodri as talks continue",
+      "url": "https://www.theguardian.com/football/2026/aug/07/manchester-city-reject-barcelonas-opening-385m-bid-for-rodri-as-talks-continue",
+      "source": "The Guardian",
+      "published_at": "2026-08-07T14:02:12+00:00",
+      "summary": "Mourinho reportedly unhappy over Barça hijack City ready to seal deal for Morocco star Bouaddi Manchester City have rejected an offer of £38.5m (€45m) from Barcelona for Rodri and want at least £60m before allowing Spain’s World Cup-winning captain to depart. Barcelona have emerg",
+      "teams": [
+        "Morocco",
+        "Spain"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "95f9d496a9c0",
@@ -307,18 +320,6 @@
       "teams": [
         "Argentina",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "b4a98ee3e9c6",
-      "title": "Mohamed Salah to earn upwards of £14.5m per season in two-year Trabzonspor deal",
-      "url": "https://www.theguardian.com/football/2026/aug/06/mohamed-salah-14m-per-season-two-year-trabzonspor-deal",
-      "source": "The Guardian",
-      "published_at": "2026-08-06T14:07:16+00:00",
-      "summary": "Club reveal salary to Turkish stock exchange Striker will receive 20% from products sold in his name Mohamed Salah has signed a two-year deal with Trabzonspor and the Egypt forward will receive €17m (£14.5m) a season. The ⁠announcement to ‌the Turkish stock ‌exchange came ​as Tra",
-      "teams": [
-        "Egypt"
       ],
       "is_injury_related": false
     },
