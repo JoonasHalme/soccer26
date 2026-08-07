@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-08-07T22:51:55.551036+00:00",
+  "generated_at": "2026-08-07T23:45:10.113414+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "871550b861a9",
+      "title": "Liverpool close to signing Barcelona's Araujo on loan",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gxvvxldewo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-07T22:54:13+00:00",
+      "summary": "Liverpool are close to signing Uruguay defender Ronald Araujo on a season-long loan from Barcelona, with an option to purchase.",
+      "teams": [
+        "Uruguay"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "05e99430519b",
       "title": "All done deals in August 2026",
@@ -272,18 +284,6 @@
         "Brazil"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "fb7f0af33c7c",
-      "title": "Trafford joins Leeds from Man City in potential £45m deal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0l592513y9o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-06T18:04:21+00:00",
-      "summary": "Leeds United sign Manchester City and England goalkeeper James Trafford in a deal worth up to £45m.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "3230786b8355",
