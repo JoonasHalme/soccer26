@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-08-07T16:07:58.742883+00:00",
+  "generated_at": "2026-08-07T17:59:03.945571+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "aec88e91da38",
+      "title": "'Critically important' summit called on future of Scottish football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cglj813z9rro",
+      "source": "BBC Sport",
+      "published_at": "2026-08-07T17:06:48+00:00",
+      "summary": "The Scottish Football Association is to hold a \"critically important\" summit around the future of the national game.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "ac04f12b7a72",
       "title": "France set to take part in U20 Women's World Cup despite Uefa boycott threat",
@@ -157,7 +169,7 @@
     },
     {
       "id": "68d3d01beabe",
-      "title": "Scottish summer malaise continues but some room for optimism",
+      "title": "Scottish summer malaise continues, but some room for optimism",
       "url": "https://www.bbc.co.uk/sport/football/articles/c39e4jryjn2o",
       "source": "BBC Sport",
       "published_at": "2026-08-07T10:28:54+00:00",
@@ -352,32 +364,6 @@
       "is_injury_related": true
     },
     {
-      "id": "b006921dde90",
-      "title": "Argentina mark World Cup win over England with 'National Football Teams Day'",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn9n8q8w7ndo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-06T10:02:31+00:00",
-      "summary": "The Argentine Football Association announces 15 July as National Football Teams Day to mark Argentina's 2026 World Cup semi-final victory over England.",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "13b7be17292d",
-      "title": "Infantino is getting his karmic kicking, but why did football take so long to rebel against Fifa? | Jonathan Liew",
-      "url": "https://www.theguardian.com/football/2026/aug/05/gianni-infantino-fifa-president-uefa-world-cup",
-      "source": "The Guardian",
-      "published_at": "2026-08-05T19:00:26+00:00",
-      "summary": "Federation leaders are massing forces at the gates, but years after the first proposed selling off of its commercial legacy and the Qatar World Cup In recent decades the city of Salé, just across the river from Rabat on Morocco’s Atlantic coast, has undergone a remarkable transfo",
-      "teams": [
-        "Qatar",
-        "Morocco"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "8b56b775e9e8",
       "title": "Newcastle appoint Jaissle - what should fans expect?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cn4n0ypyx31o",
@@ -484,18 +470,6 @@
       "summary": "Watch Sportscene highlights from McDiarmid Park as St Johnstone and Kilmarnock play out a seven-goal thriller in the Scottish Premiership.",
       "teams": [
         "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "2329c148ed26",
-      "title": "Have you ever switched allegiance as a football fan? You are not alone | Luke McLaughlin",
-      "url": "https://www.theguardian.com/football/2026/aug/01/switch-allegiance-football-fan",
-      "source": "The Guardian",
-      "published_at": "2026-08-01T07:00:47+00:00",
-      "summary": "If professional athletes can represent more than one country, let alone multiple clubs, why shouldn’t fans change teams? “I was fanatically pro-German when the Germans were here to protect us against the Americans, and now that Americans are here to protect us against the Germans",
-      "teams": [
-        "Germany"
       ],
       "is_injury_related": false
     },
