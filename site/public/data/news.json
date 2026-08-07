@@ -1,22 +1,108 @@
 {
-  "generated_at": "2026-08-07T09:12:55.140942+00:00",
+  "generated_at": "2026-08-07T11:04:54.513491+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "ac04f12b7a72",
+      "title": "Uefa boycott right thing for future of game - Bronze",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c87nrpwg20vo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-07T10:43:06+00:00",
+      "summary": "England international Lucy Bronze says a Uefa boycott of Fifa competitions would be the \"right thing\" for the future of the game.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8eadaf9dee12",
+      "title": "Tottenham and Atlético in talks over Romero with Van de Ven set to sign new deal",
+      "url": "https://www.theguardian.com/football/2026/aug/07/tottenham-and-atletico-in-talks-over-romero-with-van-de-ven-set-to-sign-new-deal",
+      "source": "The Guardian",
+      "published_at": "2026-08-07T10:37:43+00:00",
+      "summary": "Simeone keen on swoop for Spurs defender Van de Ven expected to pen five-year extension Tottenham are in talks with Atlético Madrid over the sale of Cristian Romero after categorically rejecting Arsenal’s approach for the Argentina defender and are expected to agree a new five-ye",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "66c9c560ec55",
-      "title": "Mexico break ranks to join Argentina in backing Infantino",
+      "title": "Norway call for Infantino to resign as Mexico and Argentina back president",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go",
       "source": "BBC Sport",
-      "published_at": "2026-08-07T08:42:12+00:00",
-      "summary": "Mexico goes against its regional governing body Concacaf to publicly support under-fire Fifa president Gianni Infantino.",
+      "published_at": "2026-08-07T10:29:38+00:00",
+      "summary": "The Norwegian Football Federation calls for Fifa president Gianni Infantino to resign after he attempted to sell off stakes in the World Cup.",
+      "teams": [
+        "Mexico",
+        "Norway",
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "68d3d01beabe",
+      "title": "Scottish summer malaise continues but some room for optimism",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c39e4jryjn2o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-07T10:28:54+00:00",
+      "summary": "Supporters and former Hibs player Scott Allan react to a mixed night for Scottish clubs in Europe.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "459a0e395616",
+      "title": "England striker Ivan Toney charged with assault after Soho nightclub incident",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/07/england-striker-ivan-toney-charged-with-assault-after-soho-nightclub-incident",
+      "source": "The Guardian",
+      "published_at": "2026-08-07T09:40:14+00:00",
+      "summary": "Met police say charge relates to alleged assault that reportedly took place in December at venue in London The England striker Ivan Toney has been charged with assault after an incident at a nightclub in Soho. The Metropolitan police said Toney, 30, of Northampton, was charged on",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "15791a945774",
+      "title": "Mexico and Argentina line up behind Infantino to deepen football’s civil war",
+      "url": "https://www.theguardian.com/football/2026/aug/07/mexico-argentina-gianni-infantino-deepen-football-civil-war-fifa",
+      "source": "The Guardian",
+      "published_at": "2026-08-07T09:33:49+00:00",
+      "summary": "Mexico breaks ranks with Concacaf to support Fifa chief Growing speculation country will switch to Conmebol The Mexican football federations have broken ranks with the rest of Concacaf by issuing their public backing for beleaguered Fifa president Gianni Infantino in a move that ",
       "teams": [
         "Mexico",
         "Argentina"
       ],
+      "is_injury_related": true
+    },
+    {
+      "id": "af35b3d6bce1",
+      "title": "England forward Toney charged with assault in Soho",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-07T09:30:30+00:00",
+      "summary": "The 30-year-old former Brentford striker is due to appear in court next month.",
+      "teams": [
+        "England"
+      ],
       "is_injury_related": false
+    },
+    {
+      "id": "4954a346c445",
+      "title": "Norway’s Klaveness tells Fifa president Infantino to resign: ‘There is no trust now’",
+      "url": "https://www.theguardian.com/football/2026/aug/07/lise-klaveness-norwegian-fa-fifa-president-gianni-infantino-resign",
+      "source": "The Guardian",
+      "published_at": "2026-08-07T09:14:16+00:00",
+      "summary": "‘There is no way back for him,’ says NFF president Infantino still battling for support around the world The Norwegian FA will ask Gianni Infantino to resign with immediate effect after his doomed attempt to sell stakes in the World Cup to private investors. Norway is the first f",
+      "teams": [
+        "Norway"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "33f9839c1654",
@@ -192,18 +278,6 @@
       "is_injury_related": false
     },
     {
-      "id": "0f91841c1643",
-      "title": "Forlan agrees to become interim Uruguay head coach",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyrddd2y2no",
-      "source": "BBC Sport",
-      "published_at": "2026-08-06T14:38:33+00:00",
-      "summary": "Former Manchester United striker Diego Forlan agrees to become the new Uruguay coach on an interim basis.",
-      "teams": [
-        "Uruguay"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "b4a98ee3e9c6",
       "title": "Mohamed Salah to earn upwards of £14.5m per season in two-year Trabzonspor deal",
       "url": "https://www.theguardian.com/football/2026/aug/06/mohamed-salah-14m-per-season-two-year-trabzonspor-deal",
@@ -239,55 +313,6 @@
         "Iran"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "cfaee8e14711",
-      "title": "Bournemouth sign Spanish right-back Juanlu",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly91exewj2o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-06T13:33:13+00:00",
-      "summary": "Bournemouth announce the signing of right-back Juanlu Sanchez from Spanish club Sevilla in a deal worth up to £11.1m.",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "9182417f4592",
-      "title": "Swansea sign Scotland striker Stewart",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq56qwgdg9po",
-      "source": "BBC Sport",
-      "published_at": "2026-08-06T13:01:22+00:00",
-      "summary": "Swansea City sign free agent Ross Stewart on a three-year deal following the Scotland striker's departure from Southampton.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "390d91a97228",
-      "title": "Pato consortium set for Northampton Town takeover",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yv05p1kwro",
-      "source": "BBC Sport",
-      "published_at": "2026-08-06T12:28:08+00:00",
-      "summary": "Former AC Milan and Brazil forward Alexandre Pato is a member of a consortium which is set to buy a majority stake in League Two club Northampton Town, BBC Sport understands.",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "64577a9f85d5",
-      "title": "Argentina commemorate win against England at World Cup 2026 with special day",
-      "url": "https://www.theguardian.com/football/2026/aug/06/argentinas-fa-commemorate-world-cup-semi-final-win-england",
-      "source": "The Guardian",
-      "published_at": "2026-08-06T12:18:40+00:00",
-      "summary": "National Football Teams Day established for 15 July Post-match celebrations included Falklands banner Argentina’s World Cup semi-final win over England last month is being commemorated by the country’s football association, the AFA, which has established 15 July as National Footb",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "db783f55c98a",
@@ -327,20 +352,6 @@
       "is_injury_related": false
     },
     {
-      "id": "ea47ef7fb6a3",
-      "title": "Football transfer rumours: Arsenal back for £60m Konsa? Asencio to Liverpool?",
-      "url": "https://www.theguardian.com/football/2026/aug/06/football-transfer-rumours-arsenal-ezri-konsa-raul-asencio-liverpool",
-      "source": "The Guardian",
-      "published_at": "2026-08-06T08:26:43+00:00",
-      "summary": "Today’s rumours are prising open their war chest Aston Villa struggling to hold on to their World Cup stars has become something of a theme of this transfer window and off we go again with Arsenal stepping up their interest in Ezri Konsa . The Daily Mail reports that the Premier ",
-      "teams": [
-        "France",
-        "Senegal",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "13b7be17292d",
       "title": "Infantino is getting his karmic kicking, but why did football take so long to rebel against Fifa? | Jonathan Liew",
       "url": "https://www.theguardian.com/football/2026/aug/05/gianni-infantino-fifa-president-uefa-world-cup",
@@ -366,20 +377,6 @@
       "is_injury_related": false
     },
     {
-      "id": "2809abda9a82",
-      "title": "‘There is a clear vision’: Matthias Jaissle installed as Newcastle head coach",
-      "url": "https://www.theguardian.com/football/2026/aug/05/matthias-jaissle-installed-as-newcastle-united-head-coach",
-      "source": "The Guardian",
-      "published_at": "2026-08-05T18:00:25+00:00",
-      "summary": "German officially announced as Howe’s successor ‘This an incredibly compelling place to be’ Matthias Jaissle has described Newcastle “as an incredibly compelling place to be” after finally formalising his managerial move from Saudi Arabia’s Al-Ahli. The 38-year-old German has bee",
-      "teams": [
-        "Germany",
-        "Spain",
-        "Saudi Arabia"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "e5e6cf45e26e",
       "title": "Mohamed Salah’s story of success and sacrifice: ‘Chasing a dream I had to reach’",
       "url": "https://www.theguardian.com/football/2026/aug/05/mohamed-salah-book-extract-liverpool-egypt",
@@ -390,18 +387,6 @@
         "Egypt"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "744c58cdcce5",
-      "title": "‘Dream come true’: Eva Olid delighted after being named Manchester United’s new head coach",
-      "url": "https://www.theguardian.com/football/2026/aug/05/manchester-united-women-appoint-eva-olid-new-head-coach",
-      "source": "The Guardian",
-      "published_at": "2026-08-05T14:10:54+00:00",
-      "summary": "United impressed by her ability to develop players Spaniard signs two-year deal after guiding Hearts to glory Eva Olid has described being appointed as the Manchester United Women head coach as a dream come true after signing a two-year contract until 2028 with the option of a fu",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "02c6f25d55b4",
