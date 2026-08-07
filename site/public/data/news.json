@@ -1,10 +1,35 @@
 {
-  "generated_at": "2026-08-07T07:38:15.800299+00:00",
+  "generated_at": "2026-08-07T09:12:55.140942+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "66c9c560ec55",
+      "title": "Mexico break ranks to join Argentina in backing Infantino",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go",
+      "source": "BBC Sport",
+      "published_at": "2026-08-07T08:42:12+00:00",
+      "summary": "Mexico goes against its regional governing body Concacaf to publicly support under-fire Fifa president Gianni Infantino.",
+      "teams": [
+        "Mexico",
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "33f9839c1654",
+      "title": "Stanway deal boosts Partick Thistle promotion push",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg9pe0jv7zo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-07T08:00:11+00:00",
+      "summary": "Mark Wilson believes the aim of returning Partick Thistle to the Scottish Premiership was a huge factor in Ben Stanway signing a surprise new contract as Livingston visit in Friday's live BBC Scotland match.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "5d59a3147cb7",
       "title": "Afcon’s biennial switch cost African governing body deal worth more than $1bn",
@@ -403,20 +428,6 @@
       "is_injury_related": false
     },
     {
-      "id": "c95ec332a10a",
-      "title": "USMNT to face Mexico and Canada in friendlies to kick off 2030 World Cup cycle",
-      "url": "https://www.theguardian.com/football/2026/aug/04/usmnt-friendlies-mexico-canada",
-      "source": "The Guardian",
-      "published_at": "2026-08-04T16:20:04+00:00",
-      "summary": "Fall opponents also include Peru and Chile Matches set for 26 September to 6 October First games since Pochettino agreed to return The US men’s national team will kick off the next World Cup cycle with four matches over 11 days on home soil. The friendlies include games against P",
-      "teams": [
-        "Mexico",
-        "Canada",
-        "USA"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "769fc989272f",
       "title": "Nygren header earns Celtic opening victory against Dundee",
       "url": "https://www.bbc.co.uk/sport/videos/ce856g741mmo",
@@ -501,18 +512,6 @@
         "Germany"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "06792e88623a",
-      "title": "Arsenal’s title defence: keeping tired players fit and the Vinícius question",
-      "url": "https://www.theguardian.com/football/2026/jul/31/arsenal-mikel-arteta-injuries-fatigue-title-defence",
-      "source": "The Guardian",
-      "published_at": "2026-07-31T19:00:31+00:00",
-      "summary": "Key players have piled up extra minutes at the World Cup and signing Vinícius Júnior would smash their wage structure After beating MK Dons 3-0 in a training-ground friendly last weekend, Arsenal truly begin their pre-season programme against Girona on Saturday evening. It marks ",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "059c84c31e76",
