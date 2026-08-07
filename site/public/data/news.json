@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-08-07T20:54:58.947934+00:00",
+  "generated_at": "2026-08-07T21:52:13.551882+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "05e99430519b",
+      "title": "All done deals in August 2026",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-07T21:37:30+00:00",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b670e9a55106",
+      "title": "Partick Thistle beat Livingston in Scottish Championship",
+      "url": "https://www.bbc.co.uk/sport/videos/c98vppyny3go",
+      "source": "BBC Sport",
+      "published_at": "2026-08-07T21:25:41+00:00",
+      "summary": "An early Robbie Crawford back-heel and a Cammy MacPherson own goal give Partick Thistle victory over Livingston as two of the promotion favourites meet in the Scottish Championship at Firhill.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "023740e61bcf",
       "title": "Infantino’s World Cup sell-off debacle has rocked football but Fifa’s crisis has deep and rotten roots",
@@ -98,18 +122,6 @@
       "summary": "Hull City sign Norwegian midfielder Jens Hjerto-Dahl on a five-year contract from Tromso.",
       "teams": [
         "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "05e99430519b",
-      "title": "All done deals in August 2026",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-07T14:08:15+00:00",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -295,6 +307,18 @@
       "teams": [
         "Argentina",
         "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b4a98ee3e9c6",
+      "title": "Mohamed Salah to earn upwards of £14.5m per season in two-year Trabzonspor deal",
+      "url": "https://www.theguardian.com/football/2026/aug/06/mohamed-salah-14m-per-season-two-year-trabzonspor-deal",
+      "source": "The Guardian",
+      "published_at": "2026-08-06T14:07:16+00:00",
+      "summary": "Club reveal salary to Turkish stock exchange Striker will receive 20% from products sold in his name Mohamed Salah has signed a two-year deal with Trabzonspor and the Egypt forward will receive €17m (£14.5m) a season. The ⁠announcement to ‌the Turkish stock ‌exchange came ​as Tra",
+      "teams": [
+        "Egypt"
       ],
       "is_injury_related": false
     },
