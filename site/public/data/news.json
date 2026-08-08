@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-08-08T11:38:32.926059+00:00",
+  "generated_at": "2026-08-08T13:08:59.706958+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "91e42f33366d",
+      "title": "Scotland closing in on head coach to replace Clarke",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c07rx4npmpxo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-08T11:48:24+00:00",
+      "summary": "The Scottish FA is closing in on the appointment of a new head coach to succeed Steve Clarke.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "88b4a96b40e4",
+      "title": "Data shows Bruno Guimarães deal could be another Arsenal set-piece masterstroke",
+      "url": "https://www.theguardian.com/football/2026/aug/08/why-the-data-shows-guimaraes-deal-could-be-another-arsenal-set-piece-masterstroke",
+      "source": "The Guardian",
+      "published_at": "2026-08-08T11:22:32+00:00",
+      "summary": "Brazilian excels at winning free-kicks and conjuring results from them, hence why the champions were willing to spend £75m Bruno Guimarães has broken a very niche record. His £75m move to Arsenal is the most expensive transfer for a midfielder aged at least 28. This should not be",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "c2f063ee63cb",
       "title": "Watch Guimaraes' best moments after Arsenal sign midfield maestro",
@@ -116,18 +140,6 @@
       "is_injury_related": false
     },
     {
-      "id": "5039d527bd9a",
-      "title": "Coventry sign Ghana's Yirenkyi for record fee",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy4kgprjzx2o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-07T18:37:55+00:00",
-      "summary": "Premier League newcomers Coventry City have completed the club-record signing of Ghana midfielder Caleb Yirenkyi.",
-      "teams": [
-        "Ghana"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "b9bdad8c66f9",
       "title": "Euro navel gazing & early troubles for Scottish title hopefuls",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce8kr3y5xp4o",
@@ -160,18 +172,6 @@
       "summary": "France say they are still planning to compete in the Under-20 Women's World Cup next month despite a threat from Uefa to boycott Fifa competitions.",
       "teams": [
         "France"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f2ac368a19e5",
-      "title": "Palace sign defender Tomiyasu after pre-season trial",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c07rxpj2ln9o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-07T15:08:25+00:00",
-      "summary": "Crystal Palace complete the signing of Japan defender Takehiro Tomiyasu following a successful pre-season trial.",
-      "teams": [
-        "Japan"
       ],
       "is_injury_related": false
     },
@@ -214,19 +214,6 @@
       "is_injury_related": false
     },
     {
-      "id": "66c9c560ec55",
-      "title": "Norway call for Infantino to resign as Mexico and Conmebol chief back president",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go",
-      "source": "BBC Sport",
-      "published_at": "2026-08-07T12:04:25+00:00",
-      "summary": "The Norwegian Football Federation calls for Fifa president Gianni Infantino to resign after he attempted to sell off stakes in the World Cup.",
-      "teams": [
-        "Mexico",
-        "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "4954a346c445",
       "title": "Norway’s Klaveness tells Fifa president Infantino to resign: ‘There is no trust now’",
       "url": "https://www.theguardian.com/football/2026/aug/07/lise-klaveness-norwegian-fa-fifa-president-gianni-infantino-resign",
@@ -249,6 +236,18 @@
         "Scotland",
         "Saudi Arabia",
         "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8eadaf9dee12",
+      "title": "Tottenham and Atlético in talks over Romero with Van de Ven set to sign new deal",
+      "url": "https://www.theguardian.com/football/2026/aug/07/tottenham-and-atletico-in-talks-over-romero-with-van-de-ven-set-to-sign-new-deal",
+      "source": "The Guardian",
+      "published_at": "2026-08-07T10:37:43+00:00",
+      "summary": "Simeone keen on move for Spurs defender Van de Ven expected to pen five-year extension Tottenham are in talks with Atlético Madrid over the sale of Cristian Romero after categorically rejecting Arsenal’s approach for the Argentina defender and are expected to agree a new five-yea",
+      "teams": [
+        "Argentina"
       ],
       "is_injury_related": false
     },
@@ -314,14 +313,14 @@
       "is_injury_related": false
     },
     {
-      "id": "8b56b775e9e8",
-      "title": "Newcastle appoint Jaissle - what should fans expect?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn4n0ypyx31o",
+      "id": "db783f55c98a",
+      "title": "Why has Salah chosen to join Trabzonspor?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy74v1j1v6zo",
       "source": "BBC Sport",
-      "published_at": "2026-08-05T18:32:43+00:00",
-      "summary": "Newcastle United appoint Matthias Jaissle, 38, as head coach to succeed Eddie Howe - but what will the German bring to the club?",
+      "published_at": "2026-08-06T12:02:05+00:00",
+      "summary": "Why Mohamed Salah chose Trabzonspor over Saudi Arabia and MLS, and what the move means for him and Turkish football.",
       "teams": [
-        "Germany"
+        "Saudi Arabia"
       ],
       "is_injury_related": false
     },
