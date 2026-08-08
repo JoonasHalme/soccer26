@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-08-08T05:53:05.210571+00:00",
+  "generated_at": "2026-08-08T07:10:12.782583+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "d695a1a0c8fb",
+      "title": "Man City agree deal to sign Marseille keeper Rulli",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwye10q7e92o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-08T06:00:37+00:00",
+      "summary": "Manchester City agree a deal to sign Argentina goalkeeper Geronimo Rulli from Marseille.",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "871550b861a9",
       "title": "Liverpool close to signing Barcelona's Araujo on loan",
@@ -147,6 +159,19 @@
       "teams": [
         "Morocco",
         "Spain"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "162a23b3f097",
+      "title": "Football Daily | Vinícius Júnior and a fantasy world of transfers in the football lull",
+      "url": "https://www.theguardian.com/football/2026/aug/07/football-daily-email-vinicius-junior",
+      "source": "The Guardian",
+      "published_at": "2026-08-07T13:53:18+00:00",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! “We were so close … At the end of the day, really, they made him an offer he couldn’t refuse … It shows where we’re trying to aim for the club … There has been a lot of stuff written in the papers that you have to take on the ch",
+      "teams": [
+        "Brazil",
+        "England"
       ],
       "is_injury_related": true
     },
@@ -298,32 +323,6 @@
       "is_injury_related": false
     },
     {
-      "id": "3d20cff53a1e",
-      "title": "Real Madrid announce arrival of £115m Yan Diomande on seven-year contract",
-      "url": "https://www.theguardian.com/football/2026/aug/05/real-madrid-agree-club-record-115m-deal-for-yan-diomande-and-want-to-keep-vinicius",
-      "source": "The Guardian",
-      "published_at": "2026-08-06T15:15:19+00:00",
-      "summary": "Forward becomes most expensive African player Club are in positive talks with Vinícius Júnior Real Madrid have sealed the €135m (£115.7m) club-record signing of Yan Diomande from RB Leipzig. After several weeks of negotiations that saw Paris Saint-Germain pull out of the race, th",
-      "teams": [
-        "Germany",
-        "Ivory Coast"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "737b9931cd73",
-      "title": "Football Daily | The Argentinian FA has a date for your diary, whether you want it or not",
-      "url": "https://www.theguardian.com/football/2026/aug/06/football-daily-email-argentina-days",
-      "source": "The Guardian",
-      "published_at": "2026-08-06T14:54:02+00:00",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! There are at least 6,001 days in the year. Days occur at a rate of approximately 16.5 days a day. This is confusing, sure, but it’s the world we live in. Get over it. This is based on the boast from daysoftheyear.com that they l",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "09e0217db663",
       "title": "Liverpool sign Spanish midfielder Ramos",
       "url": "https://www.bbc.co.uk/sport/football/articles/cz6484p441yo",
@@ -334,30 +333,6 @@
         "Spain"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "db783f55c98a",
-      "title": "Why has Salah chosen to join Trabzonspor?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy74v1j1v6zo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-06T12:02:05+00:00",
-      "summary": "Why Mohamed Salah chose Trabzonspor over Saudi Arabia and MLS, and what the move means for him and Turkish football.",
-      "teams": [
-        "Saudi Arabia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "2f5c3433d21b",
-      "title": "Coming up: six promoted teams to look out for in Europe this season",
-      "url": "https://www.theguardian.com/football/2026/aug/06/coming-up-six-promoted-teams-to-look-out-for-in-europe-this-season",
-      "source": "The Guardian",
-      "published_at": "2026-08-06T11:00:47+00:00",
-      "summary": "Former European heavyweights, investment projects and teams from tiny towns will liven up the top tiers Absent from La Liga since 2018, Dépor were once part of a Spanish “big four” with Barcelona, Valencia and Real Madrid. The Galicians were title-race disruptors over a sustained",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "8b56b775e9e8",
