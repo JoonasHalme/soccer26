@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T08:56:17.712124+00:00",
+  "generated_at": "2026-08-08T09:50:47.560339+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -251,6 +251,19 @@
       "is_injury_related": false
     },
     {
+      "id": "15791a945774",
+      "title": "Mexico and Argentina line up behind Infantino to deepen football’s civil war",
+      "url": "https://www.theguardian.com/football/2026/aug/07/mexico-argentina-gianni-infantino-deepen-football-civil-war-fifa",
+      "source": "The Guardian",
+      "published_at": "2026-08-07T09:33:49+00:00",
+      "summary": "Mexico breaks ranks with Concacaf to support Fifa chief Growing speculation country will switch to Conmebol Mexico’s football federation has broken ranks with the rest of Concacaf by publicly backing the beleaguered Gianni Infantino in a move that has deepened world football’s ci",
+      "teams": [
+        "Mexico",
+        "Argentina"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "af35b3d6bce1",
       "title": "England forward Toney charged with assault in Soho",
       "url": "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo",
@@ -297,18 +310,6 @@
         "Brazil"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "3230786b8355",
-      "title": "Barcelona step up Rodri interest after Real Madrid talks with Manchester City star stall",
-      "url": "https://www.theguardian.com/football/2026/aug/06/barcelona-rodri-alvarez-manchester-city-real-madrid-transfers",
-      "source": "The Guardian",
-      "published_at": "2026-08-06T16:39:01+00:00",
-      "summary": "Barça ready to hijack rivals’ plans to sign Spain captain Manchester City will allow midfielder to go for £60m Barcelona have stepped up their attempts to hijack Real Madrid’s move to sign Rodri from Manchester City. While City have not given up hope that Spain’s World Cup-winnin",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "09e0217db663",
@@ -454,18 +455,6 @@
       "summary": "Manuela Zinsberger and Alexandra Popp have made surprise moves to third-tier club looking to join elite Located in Austria during a pre-season training camp, the Borussia Dortmund women’s team, squad as well as staff, are plotting how to reach the 2. Bundesliga after missing out ",
       "teams": [
         "Austria"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "4127f371075f",
-      "title": "Retaining Rodri is key to Manchester City success under Enzo Maresca",
-      "url": "https://www.theguardian.com/football/2026/jul/28/retaining-rodri-is-key-to-manchester-city-success-under-enzo-maresca",
-      "source": "The Guardian",
-      "published_at": "2026-07-28T19:00:11+00:00",
-      "summary": "New manager’s No 1 priority must be to persuade World Cup-winning captain to stay as Real Madrid circle “Welcome home,” was Khaldoon al-Mubarak’s warm greeting to Enzo Maresca on his appointment last month as Manchester City manager. Now, after two previous spells at the club, th",
-      "teams": [
-        "Spain"
       ],
       "is_injury_related": true
     }
