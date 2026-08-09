@@ -1,10 +1,23 @@
 {
-  "generated_at": "2026-08-09T11:40:04.560445+00:00",
+  "generated_at": "2026-08-09T13:11:43.942407+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "2b5a786204d1",
+      "title": "Sevilla close to signing Scottish striker Ure in £7.9m deal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7vgj826nnjo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-09T12:29:04+00:00",
+      "summary": "Sevilla near a £7.9m move to sign Scotland Under-21 striker Robbie Ure from Swedish club IK Sirius.",
+      "teams": [
+        "Scotland",
+        "Sweden"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "d83f1a62062f",
       "title": "Fifa defends Gianni Infantino and launches attack after ‘effort to undermine’ president",
@@ -78,18 +91,6 @@
       "is_injury_related": true
     },
     {
-      "id": "6d57e1456dc0",
-      "title": "Premier League managers have never been less English, title-winning or secure in their jobs",
-      "url": "https://www.theguardian.com/football/2026/aug/08/premier-league-managers-have-never-been-less-english-title-winning-or-secure-in-their-jobs",
-      "source": "The Guardian",
-      "published_at": "2026-08-08T19:00:05+00:00",
-      "summary": "Huge turnover between seasons means 11 clubs start 2026-27 led by people with under a year in their dugout Nine of the 20 Premier League clubs will begin the 2026-27 season with a different man in the dugout than the one who ended the last campaign. Opta recently revealed that th",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "9628731f376c",
       "title": "Versatile Bruno Guimarães gives Mikel Arteta options to shuffle midfield pack | Ed Aarons",
       "url": "https://www.theguardian.com/football/2026/aug/08/bruno-guimaraes-mikel-arteta-arsenal-options-midfield",
@@ -99,6 +100,18 @@
       "teams": [
         "Brazil",
         "Norway"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6d57e1456dc0",
+      "title": "Premier League managers have never been less English, title-winning or secure in their jobs",
+      "url": "https://www.theguardian.com/football/2026/aug/08/premier-league-managers-have-never-been-less-english-title-winning-or-secure-in-their-jobs",
+      "source": "The Guardian",
+      "published_at": "2026-08-08T19:00:05+00:00",
+      "summary": "Huge turnover between seasons means 11 clubs start 2026-27 led by people with under a year in their dugout Nine of the 20 Premier League clubs will begin the 2026-27 season with a different man in the dugout than the one who ended the last campaign. Opta recently revealed that th",
+      "teams": [
+        "England"
       ],
       "is_injury_related": false
     },
