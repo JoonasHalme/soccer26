@@ -1,10 +1,36 @@
 {
-  "generated_at": "2026-08-09T21:45:08.762609+00:00",
+  "generated_at": "2026-08-09T22:46:26.192852+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "9c6db988666f",
+      "title": "Transfer roundup: Digne returns to PSG from Villa, Fulham agree £30m deal for Charles",
+      "url": "https://www.theguardian.com/football/2026/aug/09/transfer-roundup-fulham-agree-deal-shea-charles-southampton-trevoh-chalobah-como",
+      "source": "The Guardian",
+      "published_at": "2026-08-09T22:07:40+00:00",
+      "summary": "France full-back Lucas Digne signs three-year PSG deal Midfielder Shea Charles to sign five-year Fulham contract France defender Lucas Digne has completed his return to Paris Saint-Germain from Aston Villa on a three-year contract. The 33-year-old full-back, who featured in six o",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "0402e265363f",
+      "title": "African quartet secure Women's World Cup places",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gw456e3xxo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-09T22:06:43+00:00",
+      "summary": "Algeria, Morocco, Cameroon and Malawi all qualify for the 2027 Women's World Cup in Brazil by reaching the semi-finals of the Women's Africa Cup of Nations.",
+      "teams": [
+        "Brazil",
+        "Morocco",
+        "Algeria"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "ac5d7a48f421",
       "title": "Chermiti injured after Rangers reject bid for striker",
@@ -139,18 +165,6 @@
         "Argentina"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "aec88e91da38",
-      "title": "'Critically important' summit called on future of Scottish football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cglj813z9rro",
-      "source": "BBC Sport",
-      "published_at": "2026-08-08T13:40:39+00:00",
-      "summary": "The Scottish Football Association is to hold a \"critically important\" summit around the future of the national game.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "88b4a96b40e4",
