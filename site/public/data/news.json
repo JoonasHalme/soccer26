@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-08-09T20:48:50.695159+00:00",
+  "generated_at": "2026-08-09T21:45:08.762609+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "ac5d7a48f421",
+      "title": "Chermiti injured after Rangers reject bid for striker",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g3808zjl9o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-09T20:51:53+00:00",
+      "summary": "Rangers reject an offer for striker Youssef Chermiti, with manager Derek McInnes confirming that it did not meet the Scottish Premiership club's valuation.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "338b2ed45572",
       "title": "Arteta expects Guimarães to ‘ignite’ Arsenal and help take team to new level",
@@ -40,18 +52,6 @@
         "Switzerland"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "ac5d7a48f421",
-      "title": "Chermiti injured after Rangers reject bid for striker",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g3808zjl9o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-09T15:45:07+00:00",
-      "summary": "Rangers reject an offer for striker Youssef Chermiti, with manager Derek McInnes confirming that it did not meet the Scottish Premiership club's valuation.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "7aac3fc0d8f6",
@@ -114,18 +114,6 @@
         "Egypt"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "36a3a01107d1",
-      "title": "Mason Mount injury overshadows Manchester United’s draw with PSG",
-      "url": "https://www.theguardian.com/football/2026/aug/08/mason-mount-injury-overshadows-manchester-uniteds-draw-with-psg",
-      "source": "The Guardian",
-      "published_at": "2026-08-08T19:10:23+00:00",
-      "summary": "Bryan Mbeumo scores United’s goal in 1-1 draw Mount taken off with foot injury in Gothenburg Manchester United managed a creditable 1-1 draw with the European champions, Paris Saint-Germain, in a Gothenburg friendly on Saturday but the result was overshadowed by an injury to Maso",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "9628731f376c",
