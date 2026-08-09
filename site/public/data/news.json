@@ -1,17 +1,29 @@
 {
-  "generated_at": "2026-08-09T15:43:02.427111+00:00",
+  "generated_at": "2026-08-09T16:50:02.924395+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "ac5d7a48f421",
+      "title": "Chermiti injured after Rangers reject bid for striker",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g3808zjl9o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-09T15:45:07+00:00",
+      "summary": "Rangers reject an offer for striker Youssef Chermiti, with manager Derek McInnes confirming that it did not meet the Scottish Premiership club's valuation.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "c7616277f179",
       "title": "Martin O’Neill absent from Celtic’s win at Kilmarnock as Høgh hits hat-trick",
       "url": "https://www.theguardian.com/football/2026/aug/09/scottish-premiership-kilmarnock-celtic-hearts-dundee-united-motherwell-falkirk-rangers-hibernian",
       "source": "The Guardian",
       "published_at": "2026-08-09T15:04:54+00:00",
-      "summary": "Høgh scored first goals since joining from Bodø/Glimt O’Neill ‘doing better’ after procedure in hospital Kasper Høgh scored a hat-trick, his first goals for Celtic , as the Scottish champions made light of the absence of their manager Martin O’Neill with a 5-1 win away to Kilmarn",
+      "summary": "Høgh scored first Celtic goals in 5-1 victory Hearts beat Dundee United 4-0 in first win under Wouter Vrancken Kasper Høgh scored a hat-trick, his first goals for Celtic , as the Scottish champions made light of the absence of their manager Martin O’Neill with a 5-1 win at Kilmar",
       "teams": [
         "Scotland"
       ],
@@ -153,6 +165,18 @@
       "is_injury_related": true
     },
     {
+      "id": "aec88e91da38",
+      "title": "'Critically important' summit called on future of Scottish football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cglj813z9rro",
+      "source": "BBC Sport",
+      "published_at": "2026-08-08T13:40:39+00:00",
+      "summary": "The Scottish Football Association is to hold a \"critically important\" summit around the future of the national game.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "91e42f33366d",
       "title": "Scotland closing in on head coach to replace Clarke",
       "url": "https://www.bbc.co.uk/sport/football/articles/c07rx4npmpxo",
@@ -197,18 +221,6 @@
       "summary": "Premier League champions Arsenal sign Brazil midfielder Bruno Guimaraes from Newcastle United for £75m.",
       "teams": [
         "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "d695a1a0c8fb",
-      "title": "Man City agree deal to sign Marseille keeper Rulli",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwye10q7e92o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-08T06:00:37+00:00",
-      "summary": "Manchester City agree a deal to sign Argentina goalkeeper Geronimo Rulli from Marseille.",
-      "teams": [
-        "Argentina"
       ],
       "is_injury_related": false
     },
@@ -285,6 +297,18 @@
         "England"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "4954a346c445",
+      "title": "Norway’s Klaveness tells Fifa president Infantino to resign: ‘There is no trust now’",
+      "url": "https://www.theguardian.com/football/2026/aug/07/lise-klaveness-norwegian-fa-fifa-president-gianni-infantino-resign",
+      "source": "The Guardian",
+      "published_at": "2026-08-07T11:15:39+00:00",
+      "summary": "‘There is no way back for him,’ says NFF president Infantino still battling for support around the world The Norwegian FA will ask Gianni Infantino to resign with immediate effect after his doomed attempt to sell stakes in the World Cup to private investors. Norway is the first f",
+      "teams": [
+        "Norway"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "459a0e395616",
