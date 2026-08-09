@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-08-09T14:49:04.414400+00:00",
+  "generated_at": "2026-08-09T15:43:02.427111+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "c7616277f179",
+      "title": "Martin O’Neill absent from Celtic’s win at Kilmarnock as Høgh hits hat-trick",
+      "url": "https://www.theguardian.com/football/2026/aug/09/scottish-premiership-kilmarnock-celtic-hearts-dundee-united-motherwell-falkirk-rangers-hibernian",
+      "source": "The Guardian",
+      "published_at": "2026-08-09T15:04:54+00:00",
+      "summary": "Høgh scored first goals since joining from Bodø/Glimt O’Neill ‘doing better’ after procedure in hospital Kasper Høgh scored a hat-trick, his first goals for Celtic , as the Scottish champions made light of the absence of their manager Martin O’Neill with a 5-1 win away to Kilmarn",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "7aac3fc0d8f6",
       "title": "Brazilian top-flight club wear name of English fan with MND on shirts",
@@ -139,18 +151,6 @@
         "Argentina"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "aec88e91da38",
-      "title": "'Critically important' summit called on future of Scottish football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cglj813z9rro",
-      "source": "BBC Sport",
-      "published_at": "2026-08-08T13:40:39+00:00",
-      "summary": "The Scottish Football Association is to hold a \"critically important\" summit around the future of the national game.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "91e42f33366d",
