@@ -1,10 +1,23 @@
 {
-  "generated_at": "2026-08-09T13:11:43.942407+00:00",
+  "generated_at": "2026-08-09T14:49:04.414400+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "7aac3fc0d8f6",
+      "title": "Brazilian top-flight club wear name of English fan with MND on shirts",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1m1j8l11ego",
+      "source": "BBC Sport",
+      "published_at": "2026-08-09T14:16:20+00:00",
+      "summary": "Brazilian top flight club Coritiba wear the name of an English fan from Norwich on their shirts to raise awareness of motor neurone disease.",
+      "teams": [
+        "Brazil",
+        "England"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "2b5a786204d1",
       "title": "Sevilla close to signing Scottish striker Ure in £7.9m deal",
@@ -60,7 +73,7 @@
       "url": "https://www.theguardian.com/football/2026/aug/09/mohamed-salah-trabzonspor-turkish-rivals-istanbul",
       "source": "The Guardian",
       "published_at": "2026-08-09T07:00:09+00:00",
-      "summary": "Never before has a big name rejected Istanbul for Trabzon, but former Liverpool striker was offered more than riches It began with a text sent during the World Cup. Ertugrul Dogan, the president of Trabzonspor, was watching Egypt when he picked up his phone and messaged his manag",
+      "summary": "Never before has a big name rejected Istanbul for Trabzon, but former Liverpool striker was offered more than riches It began with a text sent during the World Cup. Ertugrul Dogan, the president of Trabzonspor, was&nbsp;watching Egypt when he picked up his phone and messaged his ",
       "teams": [
         "Egypt"
       ],
@@ -91,6 +104,18 @@
       "is_injury_related": true
     },
     {
+      "id": "6d57e1456dc0",
+      "title": "Premier League managers have never been less English, title-winning or secure in their jobs",
+      "url": "https://www.theguardian.com/football/2026/aug/08/premier-league-managers-have-never-been-less-english-title-winning-or-secure-in-their-jobs",
+      "source": "The Guardian",
+      "published_at": "2026-08-08T19:00:05+00:00",
+      "summary": "Huge turnover between seasons means 11 clubs start 2026-27 led by people with under a year in their dugout Nine of the 20 Premier League clubs will begin the 2026-27 season with a different man in the dugout than the one who ended the last campaign. The only other seasons which s",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "9628731f376c",
       "title": "Versatile Bruno Guimarães gives Mikel Arteta options to shuffle midfield pack | Ed Aarons",
       "url": "https://www.theguardian.com/football/2026/aug/08/bruno-guimaraes-mikel-arteta-arsenal-options-midfield",
@@ -100,18 +125,6 @@
       "teams": [
         "Brazil",
         "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "6d57e1456dc0",
-      "title": "Premier League managers have never been less English, title-winning or secure in their jobs",
-      "url": "https://www.theguardian.com/football/2026/aug/08/premier-league-managers-have-never-been-less-english-title-winning-or-secure-in-their-jobs",
-      "source": "The Guardian",
-      "published_at": "2026-08-08T19:00:05+00:00",
-      "summary": "Huge turnover between seasons means 11 clubs start 2026-27 led by people with under a year in their dugout Nine of the 20 Premier League clubs will begin the 2026-27 season with a different man in the dugout than the one who ended the last campaign. Opta recently revealed that th",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
@@ -184,19 +197,6 @@
       "summary": "Premier League champions Arsenal sign Brazil midfielder Bruno Guimaraes from Newcastle United for £75m.",
       "teams": [
         "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f3655d8ef007",
-      "title": "Aberdeen buy versatile Belgian forward Ntelo",
-      "url": "https://www.bbc.co.uk/sport/articles/cd0xy9dlgnjo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-08T10:18:53+00:00",
-      "summary": "Aberdeen sign Mitchy Ntelo from Swiss side Yverdon-Sport for an undisclosed fee, with manager Stephen Robinson saying the Belgian forward's \"versatility was one of the biggest attractions\".",
-      "teams": [
-        "Switzerland",
-        "Belgium"
       ],
       "is_injury_related": false
     },
@@ -297,6 +297,18 @@
         "Scotland",
         "Saudi Arabia",
         "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8eadaf9dee12",
+      "title": "Tottenham and Atlético in talks over Romero with Van de Ven set to sign new deal",
+      "url": "https://www.theguardian.com/football/2026/aug/07/tottenham-and-atletico-in-talks-over-romero-with-van-de-ven-set-to-sign-new-deal",
+      "source": "The Guardian",
+      "published_at": "2026-08-07T10:37:43+00:00",
+      "summary": "Simeone keen on move for Spurs defender Van de Ven expected to pen five-year extension Tottenham are in talks with Atlético Madrid over the sale of Cristian Romero after categorically rejecting Arsenal’s approach for the Argentina defender and are expected to agree a new five-yea",
+      "teams": [
+        "Argentina"
       ],
       "is_injury_related": false
     },
