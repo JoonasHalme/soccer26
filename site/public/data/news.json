@@ -1,17 +1,80 @@
 {
-  "generated_at": "2026-08-10T15:13:14.572660+00:00",
+  "generated_at": "2026-08-10T17:05:00.697955+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "2af5d27678e6",
+      "title": "Parkinson withdraws from England Under-20 camp",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd0xk2n23ymo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-10T16:53:54+00:00",
+      "summary": "Teenager Erica Meg Parkinson withdraws from England's training camp before the Under-20 Women's World Cup in Poland next month.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "5300312d51de",
+      "title": "Derby 'off market' as takeover deal collapses",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2gk7l7yl7o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-10T16:51:34+00:00",
+      "summary": "Saudi Arabia government official Turki Alalshikh abandons his proposed takeover of Championship club Derby County.",
+      "teams": [
+        "Saudi Arabia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "cc7e83827442",
+      "title": "SWPL player drain a problem or positive?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyj0kg9jjdo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-10T16:48:34+00:00",
+      "summary": "Players flocking to ply their trade in England can still be a positive for women's football in Scotland, insists SWPL managing director Fiona McIntyre.",
+      "teams": [
+        "Scotland",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "14d0d4ea6331",
+      "title": "Jordan Nobbs ready to complete wishlist with Newcastle WSL dream",
+      "url": "https://www.theguardian.com/football/2026/aug/10/jordan-nobbs-newcastle-united-wsl2-sunderland-promotion-womens-football",
+      "source": "The Guardian",
+      "published_at": "2026-08-10T15:31:13+00:00",
+      "summary": "Former England midfielder keen for north-east to thrive Newcastle have made ambitious signings this summer Jordan Nobbs says winning promotion to the Women’s Super League with Newcastle would fulfil her ambition for a club from the north-east to be in the top tier. Nobbs, who has",
+      "teams": [
+        "Jordan",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "e23ed517c0ad",
+      "title": "Will summit encourage Scottish clubs to give youth a chance?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce3q52njxv0o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-10T15:14:04+00:00",
+      "summary": "Finding a balance between the national interest and self-interest of clubs will be a challenge when it comes to how best to nurture Scottish talent, writes Tom English.",
+      "teams": [
+        "Scotland",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "db0db2f6c7eb",
-      "title": "Somali referee Omar Artan grateful for Super Cup chance after ‘tough’ World Cup exclusion",
+      "title": "Somali referee Omar Artan grateful for Super Cup chance after World Cup exclusion",
       "url": "https://www.theguardian.com/football/2026/aug/10/somali-referee-omar-artan-super-cup-psg-aston-villa-world-cup-exclusion",
       "source": "The Guardian",
       "published_at": "2026-08-10T14:40:46+00:00",
-      "summary": "Referee was controversially refused entry to US in June He will take charge of PSG v Aston Villa on Wednesday The Somali referee Omar Artan, who was refused entry to the US to officiate at the World Cup, has spoken publicly for the first time about the decision and detailed his p",
+      "summary": "Referee was refused entry to US in June Will take charge of PSG v Aston Villa on Wednesday The Somali referee Omar Artan, who was refused entry to the US to officiate at the World Cup, has spoken publicly for the first time about the decision and detailed his pride as he prepares",
       "teams": [
         "Austria"
       ],
@@ -122,18 +185,6 @@
       "summary": "Brazilian player Jacy says he got \"carried away\" after he ended up falling down a hold in his goal celebration in Coritib's 2-1 win against Chapecoense.",
       "teams": [
         "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "60269d165bfd",
-      "title": "Rangers midfielder Diomande set for move to Turkey - gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2klw97p97o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-10T06:29:07+00:00",
-      "summary": "Rangers reportedly agree a £4.5m transfer to Corum for Mohamed Diomande as the Ibrox club are also linked with Aston Villa right-back Kosta Nedeljkovic.",
-      "teams": [
-        "Turkey"
       ],
       "is_injury_related": false
     },
@@ -310,17 +361,16 @@
       "is_injury_related": false
     },
     {
-      "id": "162a23b3f097",
-      "title": "Football Daily | Vinícius Júnior and a fantasy world of transfers in the football lull",
-      "url": "https://www.theguardian.com/football/2026/aug/07/football-daily-email-vinicius-junior",
+      "id": "023740e61bcf",
+      "title": "Infantino’s World Cup sell-off debacle has rocked football but Fifa’s crisis has deep and rotten roots",
+      "url": "https://www.theguardian.com/football/2026/aug/07/gianni-infantino-world-cup-sell-off-debacle-fifa-crisis",
       "source": "The Guardian",
-      "published_at": "2026-08-07T13:53:18+00:00",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! “We were so close … At the end of the day, really, they made him an offer he couldn’t refuse … It shows where we’re trying to aim for the club … There has been a lot of stuff written in the papers that you have to take on the ch",
+      "published_at": "2026-08-07T19:00:25+00:00",
+      "summary": "It has been a remarkable few days for an institution that may be irredeemable but this is a story that stretches back to a decision in 2010 There are decades in which nothing happens, and weeks in which decades happen, and those weeks tend to result in leaders being toppled. Not ",
       "teams": [
-        "Brazil",
-        "England"
+        "Qatar"
       ],
-      "is_injury_related": true
+      "is_injury_related": false
     },
     {
       "id": "5d59a3147cb7",
@@ -368,18 +418,6 @@
       "summary": "Plus: worst penalty shootouts, poachers turned gamekeepers … and footballers donating antiques?! Mail us with your all of your questions and answers “Malachi Fagan-Walcott’s final game of last season was for York City against Rochdale in the National League. His first competitive",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "3c4832c373a1",
-      "title": "Vinícius Júnior to Arsenal doesn’t make sense. That’s why it may work | Jonathan Wilson",
-      "url": "https://www.theguardian.com/football/2026/aug/03/arsenal-vinicius-transfer-real-madrid",
-      "source": "The Guardian",
-      "published_at": "2026-08-03T15:00:21+00:00",
-      "summary": "Mikel Arteta’s team and the Brazilian star could be a perfect match. It also could be a risk that ends in disaster Sometimes what is needed is something different. There is a long history in football of counterintuitive thinking being successful, of the benefits of creative tensi",
-      "teams": [
-        "Brazil"
       ],
       "is_injury_related": false
     },
