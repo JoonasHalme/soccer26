@@ -1,19 +1,43 @@
 {
-  "generated_at": "2026-08-10T11:56:11.489013+00:00",
+  "generated_at": "2026-08-10T13:38:48.628524+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "7feceda40c4d",
+      "title": "Palace close to signing Khalaili from Union SG",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g36zdrq2lo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-10T12:45:17+00:00",
+      "summary": "Crystal Palace poised to sign 21-year-old midfielder Anan Khalaili from Belgian side Union Saint-Gilloise.",
+      "teams": [
+        "Belgium"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f1935022eca3",
+      "title": "Brazilian footballer falls down hole celebrating goal that was then disallowed",
+      "url": "https://www.theguardian.com/football/2026/aug/10/brazilian-footballer-falls-down-hole-celebrating-goal-that-was-then-disallowed",
+      "source": "The Guardian",
+      "published_at": "2026-08-10T12:30:43+00:00",
+      "summary": "Coritiba’s Jacy Maranhão jumped into a tunnel Goal was ruled out by video assistant referee A Brazilian’s goal celebration went badly wrong when he jumped over advertising boards after scoring, only to fall down a hole in the ground. Jacy Maranhão, a defender for Coritiba, escape",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "4dd389c3eec4",
       "title": "Manchester City closing in on £85m Bouaddi to soften blow of Rodri’s expected exit",
       "url": "https://www.theguardian.com/football/2026/aug/10/manchester-city-85m-ayyoub-bouaddi-rodri-barcelona-transfer",
       "source": "The Guardian",
       "published_at": "2026-08-10T11:01:02+00:00",
-      "summary": "Player agrees terms but Lille want €100m for 18-year-old Barça to return with improved bid for Rodri this week Manchester City are closing in on signing Ayyoub Bouaddi from Lille, with the midfielder’s expected arrival clearing the path for Rodri to join Barcelona. The 18-year-ol",
+      "summary": "Morocco international midfielder has agreed terms Barça to return with improved bid for Rodri Manchester City are closing in on signing Ayyoub Bouaddi from Lille, with the midfielder’s expected arrival clearing the path for Rodri to join Barcelona. The 18-year-old has agreed pers",
       "teams": [
-        "France"
+        "Morocco"
       ],
       "is_injury_related": true
     },
@@ -153,18 +177,6 @@
       "is_injury_related": false
     },
     {
-      "id": "ac5d7a48f421",
-      "title": "Chermiti injured after Rangers reject bid for striker",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g3808zjl9o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-09T20:51:53+00:00",
-      "summary": "Rangers reject an offer for striker Youssef Chermiti, with manager Derek McInnes confirming that it did not meet the Scottish Premiership club's valuation.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "f761798a0769",
       "title": "Digne completes move to PSG from Aston Villa",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce34v2eyn1qo",
@@ -173,19 +185,6 @@
       "summary": "France international Lucas Digne has completed his move from Aston Villa to European champions Paris St-Germain.",
       "teams": [
         "France"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "7aac3fc0d8f6",
-      "title": "Brazilian top-flight club wear name of English fan with MND on shirts",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1m1j8l11ego",
-      "source": "BBC Sport",
-      "published_at": "2026-08-09T14:16:20+00:00",
-      "summary": "Brazilian top flight club Coritiba wear the name of an English fan from Norwich on their shirts to raise awareness of motor neurone disease.",
-      "teams": [
-        "Brazil",
-        "England"
       ],
       "is_injury_related": false
     },
@@ -237,6 +236,18 @@
         "Norway"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "185955583e04",
+      "title": "Jorge Messi, father and agent of Argentina great, dies aged 68",
+      "url": "https://www.theguardian.com/football/2026/aug/08/jorge-messi-dies-father-agent-lionel-messi-argentina-inter-miami",
+      "source": "The Guardian",
+      "published_at": "2026-08-08T14:49:29+00:00",
+      "summary": "Messi family report death at medical clinic in Rosario Inter Miami are due to play Monterrey on Saturday night Lionel Messi’s father and agent, Jorge, has died aged 68 at a medical clinic in the ⁠Argentinian city of ⁠Rosario after ​a long illness, the family have announced. Jorge",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "88b4a96b40e4",
@@ -299,18 +310,6 @@
       "is_injury_related": false
     },
     {
-      "id": "ac04f12b7a72",
-      "title": "France set to take part in U20 Women's World Cup",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c87nrpwg20vo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-07T15:35:22+00:00",
-      "summary": "France say they are still planning to compete in the Under-20 Women's World Cup next month despite a threat from Uefa to boycott Fifa competitions.",
-      "teams": [
-        "France"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "162a23b3f097",
       "title": "Football Daily | Vinícius Júnior and a fantasy world of transfers in the football lull",
       "url": "https://www.theguardian.com/football/2026/aug/07/football-daily-email-vinicius-junior",
@@ -322,6 +321,31 @@
         "England"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "5d59a3147cb7",
+      "title": "Afcon’s biennial switch cost African governing body deal worth more than $1bn",
+      "url": "https://www.theguardian.com/football/2026/aug/07/afcons-biennial-switch-cost-african-governing-body-deal-worth-more-than-1bn",
+      "source": "The Guardian",
+      "published_at": "2026-08-07T07:00:10+00:00",
+      "summary": "Change to four-year cycle led to abandonment of 2025 bid Caf has not had long-term financial deal since 2019 A deal worth at least $1bn in secured income over eight years was abandoned by the Confederation of African Football (Caf) because the governing body decided to switch the",
+      "teams": [
+        "Morocco"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "13b7be17292d",
+      "title": "Infantino is getting his karmic kicking, but why did football take so long to rebel against Fifa? | Jonathan Liew",
+      "url": "https://www.theguardian.com/football/2026/aug/05/gianni-infantino-fifa-president-uefa-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-08-05T19:00:26+00:00",
+      "summary": "Federation leaders are massing forces at the gates, but years after the first proposed selling off of its commercial legacy and the Qatar World Cup In recent decades the city of Salé, just across the river from Rabat on Morocco’s Atlantic coast, has undergone a remarkable transfo",
+      "teams": [
+        "Qatar",
+        "Morocco"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "02c6f25d55b4",
@@ -346,32 +370,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "6ebc35986a27",
-      "title": "Alverca: the Portuguese club thriving with help from Vinícius Júnior",
-      "url": "https://www.theguardian.com/football/2026/aug/04/alverca-fc-portuguese-club-smart-scouting-vinicius-junior-eduardo-camavinga-travis-scott",
-      "source": "The Guardian",
-      "published_at": "2026-08-04T09:12:55+00:00",
-      "summary": "Their rise is down to smart scouting and clever links with celebrities such as Eduardo Camavinga and Travis Scott By Get French Football News Alverca have been busy in the last few years. They have shot up the Portuguese pyramid while changing owners, buying a whole new squad and",
-      "teams": [
-        "France",
-        "Portugal"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "7209fece55c7",
-      "title": "Mauricio Pochettino’s US return is risky, expensive and probably unnecessary | Leander Schaerlaeckens",
-      "url": "https://www.theguardian.com/football/2026/aug/03/mauricio-pochettino-usmnt-return",
-      "source": "The Guardian",
-      "published_at": "2026-08-03T16:48:15+00:00",
-      "summary": "In giving the head coach another World Cup cycle, US Soccer is tempting fate for negligible benefit Mauricio Pochettino and US Soccer enjoyed their time together. Or, rather, they enshoyed it, as Pochettino would pronounce it in his thick Argentinian accent, which charmingly carr",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "3c4832c373a1",
