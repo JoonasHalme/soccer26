@@ -1,10 +1,23 @@
 {
-  "generated_at": "2026-08-11T09:11:03.074810+00:00",
+  "generated_at": "2026-08-11T11:01:55.643668+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "2b5a786204d1",
+      "title": "Scottish striker Ure makes £5.5m Sevilla move",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7vgj826nnjo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-11T09:42:20+00:00",
+      "summary": "Sevilla announce £5.5m move, rising to potential £7.6m, for former Scotland youth international striker Robbie Ure to join from Swedish club IK Sirius.",
+      "teams": [
+        "Scotland",
+        "Sweden"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "1c10b9102541",
       "title": "Australia falls into line with AFC stance but stops short of calling for Infantino’s head",
@@ -151,18 +164,6 @@
         "Scotland"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "7feceda40c4d",
-      "title": "Palace close to signing Khalaili from Union SG",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g36zdrq2lo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-10T12:45:17+00:00",
-      "summary": "Crystal Palace poised to sign 21-year-old midfielder Anan Khalaili from Belgian side Union Saint-Gilloise.",
-      "teams": [
-        "Belgium"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "f1935022eca3",
@@ -344,18 +345,6 @@
       "summary": "Messi family report death at medical clinic in Rosario Inter Miami are due to play Monterrey on Saturday night Lionel Messi’s father and agent, Jorge, has died aged 68 at a medical clinic in the ⁠Argentinian city of ⁠Rosario after ​a long illness, the family have announced. Jorge",
       "teams": [
         "Argentina"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "88b4a96b40e4",
-      "title": "Data shows Bruno Guimarães deal could be another Arsenal set-piece masterstroke",
-      "url": "https://www.theguardian.com/football/2026/aug/08/why-the-data-shows-guimaraes-deal-could-be-another-arsenal-set-piece-masterstroke",
-      "source": "The Guardian",
-      "published_at": "2026-08-08T11:22:32+00:00",
-      "summary": "Brazilian excels at winning free-kicks and conjuring results from them, hence why the champions were willing to spend £75m Bruno Guimarães has broken a very niche record. His £75m move to Arsenal is the most expensive transfer for a midfielder aged at least 28. This should not be",
-      "teams": [
-        "Brazil"
       ],
       "is_injury_related": true
     },
