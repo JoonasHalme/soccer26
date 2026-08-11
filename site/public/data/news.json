@@ -1,13 +1,50 @@
 {
-  "generated_at": "2026-08-11T11:01:55.643668+00:00",
+  "generated_at": "2026-08-11T11:52:49.365604+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "c05711534a64",
+      "title": "Chelsea face Sociedad in Champions League qualifying",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdrvm27rel0o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-11T11:35:40+00:00",
+      "summary": "Chelsea will face Spanish side Real Sociedad in the Women's Champions League third qualifying round, with the first leg of the tie on 26 August.",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "3ff555538315",
+      "title": "Chelsea face Real Sociedad in WCL third qualifying round with riches at stake",
+      "url": "https://www.theguardian.com/football/2026/aug/11/chelsea-real-sociedad-womens-champions-league-wcl-third-qualifying-round",
+      "source": "The Guardian",
+      "published_at": "2026-08-11T11:19:00+00:00",
+      "summary": "WSL team will be favourites against Spanish side Financial implications of missing out are significant Chelsea will face Real Sociedad in the Women’s Champions League’s third qualifying round, needing a victory over two legs to earn a place in the main league phase of the competi",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "306c228b9b51",
+      "title": "Forest sign Sporting's Ivory Coast defender Diomande",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70g5539dygo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-11T11:05:55+00:00",
+      "summary": "Nottingham Forest sign Ivory Coast defender Ousmane Diomande from Portuguese club Sporting for a reported £34m.",
+      "teams": [
+        "Ivory Coast",
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "2b5a786204d1",
-      "title": "Scottish striker Ure makes £5.5m Sevilla move",
+      "title": "Striker snubbed by Scotland for World Cup signs for Sevilla",
       "url": "https://www.bbc.co.uk/sport/football/articles/c7vgj826nnjo",
       "source": "BBC Sport",
       "published_at": "2026-08-11T09:42:20+00:00",
@@ -41,18 +78,6 @@
         "Australia"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "ac482b9f8e46",
-      "title": "Nottingham Forest owner Marinakis sues Crystal Palace over fan banner",
-      "url": "https://www.theguardian.com/football/2026/aug/10/nottingham-forest-owner-marinakis-sues-crystal-palace-over-fan-banner",
-      "source": "The Guardian",
-      "published_at": "2026-08-10T19:10:48+00:00",
-      "summary": "Banner depicted him holding gun to Gibbs-White’s head Palace have already been handed £50,000 fine from FA The Nottingham Forest owner, Evangelos Marinakis, is suing Crystal Palace for defamation after supporters of the south London club displayed a banner depicting him holding a",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "14c95aa66f6f",
@@ -138,18 +163,6 @@
       "teams": [
         "Scotland",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "db0db2f6c7eb",
-      "title": "Somali referee Omar Artan grateful for Super Cup chance after World Cup exclusion",
-      "url": "https://www.theguardian.com/football/2026/aug/10/somali-referee-omar-artan-super-cup-psg-aston-villa-world-cup-exclusion",
-      "source": "The Guardian",
-      "published_at": "2026-08-10T14:40:46+00:00",
-      "summary": "Referee was refused entry to US in June Will take charge of PSG v Aston Villa on Wednesday The Somali referee Omar Artan, who was refused entry to the US to officiate at the World Cup, has spoken publicly for the first time about the decision and detailed his pride as he prepares",
-      "teams": [
-        "Austria"
       ],
       "is_injury_related": false
     },
@@ -262,18 +275,6 @@
       "is_injury_related": false
     },
     {
-      "id": "a1d95ca0c693",
-      "title": "The Argentine who wishes he could play for Wales",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5ywqxvgzl0o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-10T03:47:50+00:00",
-      "summary": "Proud of his Welsh roots, Chile-based Argentine defender Jeremias James hopes for a rule change to help his international ambitions.",
-      "teams": [
-        "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "0402e265363f",
       "title": "African quartet secure Women's World Cup places",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4gw456e3xxo",
@@ -284,18 +285,6 @@
         "Brazil",
         "Morocco",
         "Algeria"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "1b2bd771d68a",
-      "title": "Unmasking London City's Spanish superstar",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8en56r919ro",
-      "source": "BBC Sport",
-      "published_at": "2026-08-09T08:00:15+00:00",
-      "summary": "Alexia Putellas' arrival at London City Lionesses was the biggest transfer in WSL history - but who is the person behind the global stardom?",
-      "teams": [
-        "Spain"
       ],
       "is_injury_related": false
     },
