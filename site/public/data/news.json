@@ -1,10 +1,46 @@
 {
-  "generated_at": "2026-08-12T11:55:48.190192+00:00",
+  "generated_at": "2026-08-12T13:40:10.521497+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "385d24d810cd",
+      "title": "South Korea crisis deepens over sexual favours for referees scandal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpw9px9z5wgo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-12T13:11:07+00:00",
+      "summary": "The South Korean FA apologises amid a series of controversies and a police raid on its headquarters.",
+      "teams": [
+        "South Korea"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b282ddafa78f",
+      "title": "Championship angst: why the sense of rejuvenation in EFL is not universal",
+      "url": "https://www.theguardian.com/football/2026/aug/12/championship-efl-2026-27-season-blackburn-tony-mowbray-bolton-preston",
+      "source": "The Guardian",
+      "published_at": "2026-08-12T13:00:29+00:00",
+      "summary": "The lineup of Championship teams this season is fearsome, leaving some supporters fearing a long slog to come A new season is supposed to be about renewed hope and optimism, a fresh campaign opening up a world of possibilities, a clean slate. But with the English Football League ",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "46d42558a42c",
+      "title": "Cult indoor event Tennent's Soccer Sixes returns",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg6p8pg55go",
+      "source": "BBC Sport",
+      "published_at": "2026-08-12T12:00:20+00:00",
+      "summary": "All 12 Scottish Premiership clubs will enter teams into a legends version of cult indoor tournament the Tennent's Soccer Sixes later this year.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "767669d4982f",
       "title": "How will relegated trio fare in the Championship?",
@@ -35,7 +71,7 @@
       "url": "https://www.theguardian.com/football/2026/aug/12/manchester-united-janina-leitzig-interview-on-goalkeeping-and-gardening",
       "source": "The Guardian",
       "published_at": "2026-08-12T10:50:19+00:00",
-      "summary": "Former Leicester player’s focus has moved from runner beans to running drills as the season approaches With some parts of England gearing up for a fifth heatwave of 2026, the new Manchester United goalkeeper Janina Leitzig, a keen gardener, is sympathetic to the precarious health",
+      "summary": "The former Leicester player’s focus has moved from runner beans to running drills as the season approaches With some parts of England gearing up for a fifth heatwave of 2026 the new Manchester United goalkeeper Janina Leitzig, a keen gardener, is sympathetic to the precarious hea",
       "teams": [
         "Germany",
         "England"
@@ -80,11 +116,11 @@
     },
     {
       "id": "f4b410594076",
-      "title": "Saudi Pro League tries to move on from era of ageing megastar but big names still loom",
+      "title": "Saudi Pro League tries to move on from era of ageing megastar but big names still loom | John Duerden",
       "url": "https://www.theguardian.com/football/2026/aug/12/saudi-pro-league-ageing-overseas-stars-local-talent-investment",
       "source": "The Guardian",
       "published_at": "2026-08-12T09:05:29+00:00",
-      "summary": "As Ronaldo heads towards 1,000 career-goals, league plans to lift standard of Saudi Arabian football, not just the clubs There’s no Mohamed Salah in the new Saudi Pro League season that kicks off on Thursday and while the age of the ageing megastar is ending, there is still the s",
+      "summary": "As Ronaldo heads towards 1,000 career goals, the league plans to lift the standard of Saudi Arabian football, not just the clubs There is no Mohamed Salah in the new Saudi Pro League season that kicks off on Thursday and while the era of the ageing megastar is ending, there is st",
       "teams": [
         "Saudi Arabia"
       ],
@@ -299,19 +335,6 @@
       "is_injury_related": false
     },
     {
-      "id": "306c228b9b51",
-      "title": "Forest sign Sporting's Ivory Coast defender Diomande",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70g5539dygo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-11T11:05:55+00:00",
-      "summary": "Nottingham Forest sign Ivory Coast defender Ousmane Diomande from Portuguese club Sporting for a reported £34m.",
-      "teams": [
-        "Ivory Coast",
-        "Portugal"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "2b5a786204d1",
       "title": "Scottish striker Ure makes £5.5m Sevilla move",
       "url": "https://www.bbc.co.uk/sport/football/articles/c7vgj826nnjo",
@@ -386,19 +409,6 @@
       "is_injury_related": false
     },
     {
-      "id": "e23ed517c0ad",
-      "title": "Can SFA summit encourage clubs to give youth a chance?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce3q52njxv0o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-10T15:14:04+00:00",
-      "summary": "Finding a balance between the national interest and self-interest of clubs will be a challenge when it comes to how best to nurture Scottish talent, writes Tom English.",
-      "teams": [
-        "Scotland",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "3f0fabfcff68",
       "title": "Football Daily | Self-aggrandisement, backslapping and news from the past: it’s José time",
       "url": "https://www.theguardian.com/football/2026/aug/10/football-daily-email-jose-mourinho-manchester-united",
@@ -421,18 +431,6 @@
         "Jordan"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "03c230c05caa",
-      "title": "Arsenal step up push for defensive cover with Timber and Saliba sidelined",
-      "url": "https://www.theguardian.com/football/2026/aug/10/arsenal-defensive-backup-jurrien-timber-william-saliba-sidelined-transfer-window",
-      "source": "The Guardian",
-      "published_at": "2026-08-10T09:48:53+00:00",
-      "summary": "Fresh bid expected for Villa’s Konsa Arteta says existing players need to improve Arsenal are stepping up their efforts to sign defensive cover for William Saliba after Mikel Arteta revealed that Jurriën Timber is well away from returning to competitive action. Saliba will be out",
-      "teams": [
-        "France"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "e11d8d9aa1af",
