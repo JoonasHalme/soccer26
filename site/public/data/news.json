@@ -1,17 +1,41 @@
 {
-  "generated_at": "2026-08-12T15:11:13.544535+00:00",
+  "generated_at": "2026-08-12T17:08:20.894309+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "6dd607999431",
+      "title": "Australia’s brightest young talents are on the move and it bodes well for the Socceroos | Jack Snape",
+      "url": "https://www.theguardian.com/football/2026/aug/12/australia-football-talent-socceroos-lucas-herrington-nestory-irankunda-transfers-premier-league",
+      "source": "The Guardian",
+      "published_at": "2026-08-12T15:00:34+00:00",
+      "summary": "Headlined by Nestory Irankunda and Lucas Herrington, almost a third of the World Cup squad are changing clubs with January’s Asian Cup looming From Socceroos to soccer-moves, the World Cup has launched Australia’s top footballers into the transfer vortex, highlighted by this week",
+      "teams": [
+        "Australia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "eac93ed5022f",
+      "title": "Football Daily | Newcastle’s ‘rock star’ plays the hits but will he find it hard to stay in Toon?",
+      "url": "https://www.theguardian.com/football/2026/aug/12/newcastle-matthias-jaissle-football-daily-newsletter",
+      "source": "The Guardian",
+      "published_at": "2026-08-12T14:52:43+00:00",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! As rallying cries for the dawn of a golden era go, “I am quite optimistic” is not “ask not what your country can do for you, ask what you can do for your country”. It did not fit the “I think I am a special one” template set 22 ",
+      "teams": [
+        "Saudi Arabia"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "30d76def7d80",
       "title": "Lionel Messi has ‘quite a few doubts’ about football future after death of his father",
       "url": "https://www.theguardian.com/football/2026/aug/12/lionel-messi-doubts-football-future-death-of-his-father-jorge",
       "source": "The Guardian",
       "published_at": "2026-08-12T14:16:12+00:00",
-      "summary": "Messi’s father, ⁠Jorge, died last week at age of 68 Argentinian suggests he may not play on much longer Lionel Messi said on Wednesday that he is having doubts about continuing his career following the death of his father last week. Messi’s father, ⁠Jorge, died last week aged 68 ",
+      "summary": "Messi’s father, ⁠Jorge, died last week at age of 68 Argentinian suggests he may not play on much longer Lionel Messi has hinted that the end of his career may be near after ­admitting to “quite a few doubts” about his football future following the death of his father. Jorge Messi",
       "teams": [
         "Argentina"
       ],
@@ -23,7 +47,7 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgxz9xd95zo",
       "source": "BBC Sport",
       "published_at": "2026-08-12T13:43:30+00:00",
-      "summary": "Inter Milan are in advanced talks to sign Tottenham and England full-back Djed Spence, in a deal worth a minimum of £25.6m (30m euros).",
+      "summary": "Inter Milan are in advanced talks to sign Tottenham and England full-back Djed Spence in a deal worth a minimum of £25.6m.",
       "teams": [
         "England"
       ],
@@ -144,7 +168,7 @@
       "url": "https://www.theguardian.com/football/2026/aug/12/saudi-pro-league-ageing-overseas-stars-local-talent-investment",
       "source": "The Guardian",
       "published_at": "2026-08-12T09:05:29+00:00",
-      "summary": "As Ronaldo heads towards 1,000 career goals, the league plans to lift the standard of Saudi Arabian football, not just the clubs There is no Mohamed Salah in the new Saudi Pro League season that kicks off on Thursday and while the era of the ageing megastar is ending, there is st",
+      "summary": "As Ronaldo heads towards 1,000 career goals, the league plans to lift the standard of Saudi Arabian football, not just the clubs There is no Mohamed Salah in the new Saudi&nbsp;Pro League season that kicks off on Thursday and while the era of the ageing megastar is ending, there ",
       "teams": [
         "Saudi Arabia"
       ],
@@ -290,10 +314,23 @@
       "url": "https://www.theguardian.com/football/2026/aug/11/matthias-jaissle-eddie-howe-newcastle-united-manager-unveiling-st-james-park",
       "source": "The Guardian",
       "published_at": "2026-08-11T19:15:09+00:00",
-      "summary": "The former Al-Ahli head coach, chosen by the Saudi owners to replace Eddie Howe, admits ‘vacuum’ after sale of three key players Matthias Jaissle has been described as “fire” and a “rockstar”, but his formal “unveiling” as Newcastle’s manager revealed a rather more considered and",
+      "summary": "The former Al-Ahli head coach, chosen by the Saudi owners to replace Eddie Howe, admits ‘vacuum’ after sale of three key players Matthias Jaissle has been described as “fire” and a “rockstar”, but his formal unveiling as Newcastle’s manager revealed a rather more considered and c",
       "teams": [
         "Germany",
         "Saudi Arabia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "859305a45bc8",
+      "title": "Djed Spence nears Tottenham exit with Inter in talks over £25.6m move",
+      "url": "https://www.theguardian.com/football/2026/aug/11/djed-spence-nears-tottenham-exit-inter-in-talks-over-move",
+      "source": "The Guardian",
+      "published_at": "2026-08-11T16:22:46+00:00",
+      "summary": "England defender keen on move to Italian champions Udogie and Porro set to be Spurs’ first-choice full-backs Tottenham are prepared to allow Djed Spence to join Inter, with the England defender expected to cost around €30m (£25.6m). Spence – who started four games at the World Cu",
+      "teams": [
+        "Argentina",
+        "England"
       ],
       "is_injury_related": false
     },
@@ -309,18 +346,6 @@
         "Egypt"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "fb3792103c07",
-      "title": "Transfer roundup: Nottingham Forest seal £34m deal for Sporting’s Diomande",
-      "url": "https://www.theguardian.com/football/2026/aug/11/transfer-roundup-nottingham-forest-ousmane-diomande-fulham-shea-charles",
-      "source": "The Guardian",
-      "published_at": "2026-08-11T11:47:24+00:00",
-      "summary": "Fulham sign Shea Charles from Saints for £30m Chelsea’s Filip Jorgensen moves to Strasbourg on loan Nottingham Forest have signed Côte d’Ivoire defender Ousmane Diomande from Sporting for an undisclosed fee, reported to be £34.2m. The 22-year-old centre-half, who featured in the ",
-      "teams": [
-        "Ivory Coast"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "c05711534a64",
@@ -421,18 +446,6 @@
       "is_injury_related": false
     },
     {
-      "id": "3f0fabfcff68",
-      "title": "Football Daily | Self-aggrandisement, backslapping and news from the past: it’s José time",
-      "url": "https://www.theguardian.com/football/2026/aug/10/football-daily-email-jose-mourinho-manchester-united",
-      "source": "The Guardian",
-      "published_at": "2026-08-10T13:39:45+00:00",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! “You don’t do a documentary with a guy who wins nothing,” parps José Mourinho during the trailer for his shiny, new Netflix film, although since 2017, his sole piece of silverware is the 2021-22 Tin Pot with Roma. And while his ",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "98a8d9abf5d0",
       "title": "Nobbs says promotion would be 'job done' in career",
       "url": "https://www.bbc.co.uk/sport/football/articles/cy07d00lrz1o",
@@ -528,18 +541,6 @@
         "Scotland"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "5d59a3147cb7",
-      "title": "Afcon’s biennial switch cost African governing body deal worth more than $1bn",
-      "url": "https://www.theguardian.com/football/2026/aug/07/afcons-biennial-switch-cost-african-governing-body-deal-worth-more-than-1bn",
-      "source": "The Guardian",
-      "published_at": "2026-08-07T07:00:10+00:00",
-      "summary": "Change to four-year cycle led to abandonment of 2025 bid Caf has not had long-term financial deal since 2019 A deal worth at least $1bn in secured income over eight years was abandoned by the Confederation of African Football (Caf) because the governing body decided to switch the",
-      "teams": [
-        "Morocco"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "13b7be17292d",
