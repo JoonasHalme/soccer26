@@ -1,17 +1,42 @@
 {
-  "generated_at": "2026-08-12T20:59:03.761431+00:00",
+  "generated_at": "2026-08-12T21:58:41.419596+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "0a8e72bf4c88",
+      "title": "Manchester United enjoy trip to Dublin with penalty shootout win over Leeds",
+      "url": "https://www.theguardian.com/football/2026/aug/12/manchester-united-leeds-friendly-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-08-12T21:01:10+00:00",
+      "summary": "Manchester United 1-1 Leeds (5-4 on pens) First game between two ­English clubs at Croke Park With blazing sunshine fading over a hot Dublin day, this penultimate friendly for Manchester United and Leeds United felt like a pre-season game on a far continent, not one&nbsp;staged a",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "5f97037e0fd0",
+      "title": "Anderson still pained by England defeat but ready to shine at Manchester City",
+      "url": "https://www.theguardian.com/football/2026/aug/12/elliot-anderson-england-argentina-world-cup-manchester-city-premier-league",
+      "source": "The Guardian",
+      "published_at": "2026-08-12T21:00:39+00:00",
+      "summary": "Midfielder takes confidence from World Cup performances Anderson intent on making impact for City Elliot Anderson has admitted ­England’s World Cup semi-final defeat to Argentina still pains him, but is hoping to use the confidence from his performances at the ­tournament to insp",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "e9405dcf8cf4",
       "title": "Xavi Hernández appointed head coach of the Netherlands on four-year contract",
       "url": "https://www.theguardian.com/football/2026/aug/12/xavi-hernandez-appointed-head-coach-of-the-netherlands-on-four-year-contract",
       "source": "The Guardian",
       "published_at": "2026-08-12T20:26:36+00:00",
-      "summary": "Former Barcelona coach given deal until 2030 World Cup Spaniard has been out of management since 2024 Former Barcelona head coach Xavi Hernández has been appointed the new head coach of the Netherlands. The 46-year-old Spaniard has agreed a contract to lead the team through to th",
+      "summary": "Former Barcelona coach given deal until 2030 World Cup Spaniard has been out of management since 2024 The former Barcelona head coach Xavi Hernández has been appointed the new head coach of the Netherlands. The 46-year-old Spaniard has agreed a contract to lead the team through t",
       "teams": [
         "Morocco",
         "Netherlands",
@@ -287,18 +312,6 @@
       "is_injury_related": false
     },
     {
-      "id": "ceb0c7422b78",
-      "title": "Slot pulls out of Netherlands talks to focus on club football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c980rd5njneo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-12T06:20:53+00:00",
-      "summary": "Former Liverpool head coach Arne Slot confirms talks for Netherlands managerial vacancy but says his next job will be in club football.",
-      "teams": [
-        "Netherlands"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "b4537e571082",
       "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
       "url": "https://www.bbc.co.uk/news/articles/clyj0325z3ko",
@@ -343,18 +356,6 @@
       "source": "BBC Sport",
       "published_at": "2026-08-11T11:35:40+00:00",
       "summary": "Chelsea will face Spanish side Real Sociedad in the Women's Champions League third qualifying round, with the first leg of the tie on 26 August.",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "3ff555538315",
-      "title": "Chelsea face Real Sociedad in WCL third qualifying round with riches at stake",
-      "url": "https://www.theguardian.com/football/2026/aug/11/chelsea-real-sociedad-womens-champions-league-wcl-third-qualifying-round",
-      "source": "The Guardian",
-      "published_at": "2026-08-11T11:19:00+00:00",
-      "summary": "WSL team will be favourites against Spanish side Financial implications of missing out are significant Chelsea will face Real Sociedad in the Women’s Champions League third qualifying round, needing a win over two legs to secure a place in the main league phase of the competition",
       "teams": [
         "Spain"
       ],
@@ -422,30 +423,6 @@
       "is_injury_related": false
     },
     {
-      "id": "e11d8d9aa1af",
-      "title": "Hearts thump Dundee United for Vrancken's first win",
-      "url": "https://www.bbc.co.uk/sport/videos/cwymd7mmnddo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-10T09:32:13+00:00",
-      "summary": "Hearts fire four past Dundee United in the Scottish Premiership as head coach Wouter Vrancken earns his first victory at the fifth attempt.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "313a7aa743ab",
-      "title": "Hogh hat-trick fires Celtic to win at Kilmarnock",
-      "url": "https://www.bbc.co.uk/sport/videos/cj6302d4n79o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-10T09:13:48+00:00",
-      "summary": "Watch Sportscene highlights as Kasper Hogh's hat-trick fires Celtic to an emphatic Scottish Premiership victory at Kilmarnock.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "9a573731c3c8",
       "title": "Alexia Putellas: ‘I’m hungry to win, to fight with my teammates for victory’",
       "url": "https://www.theguardian.com/football/2026/aug/09/wsl-london-city-lionesses-alexia-putellas-hungry-to-win-to-fight-with-teammates-for-victory",
@@ -481,30 +458,6 @@
         "Argentina"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "c2f063ee63cb",
-      "title": "Watch Guimaraes' best moments after Arsenal sign midfield maestro",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cp3r469vq79o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-08T11:09:40+00:00",
-      "summary": "Watch Bruno Guimaraes' best Premier League moments after Arsenal sign the Brazil midfielder from Newcastle.",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "b670e9a55106",
-      "title": "Partick Thistle beat Livingston in Scottish Championship",
-      "url": "https://www.bbc.co.uk/sport/videos/c98vppyny3go",
-      "source": "BBC Sport",
-      "published_at": "2026-08-07T21:25:41+00:00",
-      "summary": "An early Robbie Crawford back-heel and a Cammy MacPherson own goal give Partick Thistle victory over Livingston as two of the promotion favourites meet in the Scottish Championship at Firhill.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "13b7be17292d",
