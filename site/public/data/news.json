@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-08-12T04:57:10.981793+00:00",
+  "generated_at": "2026-08-12T06:38:55.612239+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "145aa5108de4",
+      "title": "Depay says Corinthians 'unacceptable' as contract ends",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwym29gnkzdo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-12T06:35:01+00:00",
+      "summary": "Memphis Depay accuses Corinthians of \"unacceptable behaviour\" and of breaching an agreement after the Brazilian club decided against renewing his contract.",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ceb0c7422b78",
+      "title": "Slot pulls out of Netherlands talks to focus on club football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c980rd5njneo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-12T06:20:53+00:00",
+      "summary": "Former Liverpool head coach Arne Slot confirms talks for Netherlands managerial vacancy but says his next job will be in club football.",
+      "teams": [
+        "Netherlands"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "1ddcec979a0f",
       "title": "Doku 'not against' journalist who criticised him at World Cup",
