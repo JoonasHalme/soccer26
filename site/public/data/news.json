@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-08-12T22:56:51.066120+00:00",
+  "generated_at": "2026-08-12T23:54:39.430403+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "180a624070f0",
+      "title": "Chawinga sisters fire Malawi into Wafcon final",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg9p34wgxvo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-12T23:22:57+00:00",
+      "summary": "Malawi's fairy tale run at the 2026 Women's Africa Cup of Nations goes on as sisters Tabitha and Temwa Chawinga share three goals in a 3-1 semi-final win over Algeria.",
+      "teams": [
+        "Algeria"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "294431602701",
       "title": "Lukaku seals 'emotional' move to Fenerbahce",
@@ -16,6 +28,18 @@
         "Belgium"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "bf4d035f9f05",
+      "title": "Atlético Madrid agree £34.1m deal for Tottenham’s Cristian Romero",
+      "url": "https://www.theguardian.com/football/2026/aug/12/atletico-madrid-agree-deal-tottenham-cristian-romero",
+      "source": "The Guardian",
+      "published_at": "2026-08-12T22:16:37+00:00",
+      "summary": "Centre-back closes on move to La Liga side Hull break their transfer record to sign Nobel Mendy Tottenham have reached an agreement with Atlético Madrid over the sale of their captain, Cristian Romero. Romero was given the green light by the club and Roberto De Zerbi to depart Sp",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "2371efee27ac",
@@ -93,24 +117,12 @@
       "is_injury_related": false
     },
     {
-      "id": "180a624070f0",
-      "title": "Chawinga sisters fire Malawi into Wafcon final",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg9p34wgxvo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-12T19:57:26+00:00",
-      "summary": "Malawi's fairy tale run at the 2026 Women's Africa Cup of Nations goes on as sisters Tabitha and Temwa Chawinga share three goals in a 3-1 semi-final win over Algeria.",
-      "teams": [
-        "Algeria"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "6dd607999431",
       "title": "Australia’s brightest young talents are on the move and it bodes well for the Socceroos | Jack Snape",
       "url": "https://www.theguardian.com/football/2026/aug/12/australia-football-talent-socceroos-lucas-herrington-nestory-irankunda-transfers-premier-league",
       "source": "The Guardian",
       "published_at": "2026-08-12T15:00:34+00:00",
-      "summary": "Headlined by Nestory Irankunda and Lucas Herrington, almost a third of the World Cup squad are changing clubs with January’s Asian Cup looming From Socceroos to soccer-moves, the World Cup has launched Australia’s top footballers into the transfer vortex, highlighted by this week",
+      "summary": "Headlined by Lucas Herrington’s record move to Hull City, almost a third of the World Cup squad are changing clubs with January’s Asian Cup looming From Socceroos to soccer-moves, the World Cup has launched Australia’s top footballers into the transfer vortex, highlighted by this",
       "teams": [
         "Australia"
       ],
@@ -320,19 +332,6 @@
       "summary": "Memphis Depay accuses Corinthians of \"unacceptable behaviour\" and of breaching an agreement after the Brazilian club decide against renewing his contract.",
       "teams": [
         "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "26a5a087d219",
-      "title": "‘I am quite optimistic’: Newcastle’s Jaissle on leading club after turbulent summer",
-      "url": "https://www.theguardian.com/football/2026/aug/11/matthias-jaissle-eddie-howe-newcastle-united-manager-unveiling-st-james-park",
-      "source": "The Guardian",
-      "published_at": "2026-08-11T19:15:09+00:00",
-      "summary": "The former Al-Ahli head coach, chosen by the Saudi owners to replace Eddie Howe, admits ‘vacuum’ after sale of three key players Matthias Jaissle has been described as “fire” and a “rockstar”, but his formal unveiling as Newcastle’s manager revealed a rather more considered and c",
-      "teams": [
-        "Germany",
-        "Saudi Arabia"
       ],
       "is_injury_related": false
     },
