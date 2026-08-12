@@ -1,10 +1,60 @@
 {
-  "generated_at": "2026-08-12T19:17:21.378271+00:00",
+  "generated_at": "2026-08-12T20:59:03.761431+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "e9405dcf8cf4",
+      "title": "Xavi Hernández appointed head coach of the Netherlands on four-year contract",
+      "url": "https://www.theguardian.com/football/2026/aug/12/xavi-hernandez-appointed-head-coach-of-the-netherlands-on-four-year-contract",
+      "source": "The Guardian",
+      "published_at": "2026-08-12T20:26:36+00:00",
+      "summary": "Former Barcelona coach given deal until 2030 World Cup Spaniard has been out of management since 2024 Former Barcelona head coach Xavi Hernández has been appointed the new head coach of the Netherlands. The 46-year-old Spaniard has agreed a contract to lead the team through to th",
+      "teams": [
+        "Morocco",
+        "Netherlands",
+        "Spain"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "4683cc0a2229",
+      "title": "Xavi becomes first non-Dutch Netherlands coach since 1978",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c77g5dne45lo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-12T20:15:18+00:00",
+      "summary": "Former Barcelona manager Xavi is appointed as the new head coach of the Netherlands on a four-year deal.",
+      "teams": [
+        "Netherlands"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "4d23bac4221d",
+      "title": "Egypt's Hassan joins Celtic on initial four-year deal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c980kg4xnxeo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-12T19:57:57+00:00",
+      "summary": "Celtic sign winger Haissem Hassan from Real Oviedo on a four-year contract with the option of a further year.",
+      "teams": [
+        "Egypt"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "180a624070f0",
+      "title": "Chawinga sisters fire Malawi into Wafcon final",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg9p34wgxvo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-12T19:57:26+00:00",
+      "summary": "Malawi's fairy tale run at the 2026 Women's Africa Cup of Nations goes on as sisters Tabitha and Temwa Chawinga share three goals in a 3-1 semi-final win over Algeria.",
+      "teams": [
+        "Algeria"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "6dd607999431",
       "title": "Australia’s brightest young talents are on the move and it bodes well for the Socceroos | Jack Snape",
@@ -213,18 +263,6 @@
       "is_injury_related": false
     },
     {
-      "id": "05aa1ce6a3cf",
-      "title": "Listen: Do Scotland take McGinn for granted?",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p409d2",
-      "source": "BBC Sport",
-      "published_at": "2026-08-12T07:00:00+00:00",
-      "summary": "John McGinn's remarkable rise from St Mirren to European Super Cup finalist.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "673cecd08090",
       "title": "Why 'wanted' Stanway wasted no time in getting Arsenal tattoo",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce8l6n9g6wgo",
@@ -273,18 +311,6 @@
       "is_injury_related": false
     },
     {
-      "id": "99bf4de34668",
-      "title": "Emery positive about Aston Villa’s outlook despite summer exits as PSG await",
-      "url": "https://www.theguardian.com/football/2026/aug/11/emery-vows-to-keep-aston-villa-moving-forward-as-they-take-on-psg",
-      "source": "The Guardian",
-      "published_at": "2026-08-11T20:14:18+00:00",
-      "summary": "Ebullient manager takes his side to Salzburg to cross swords with the European champions in the Super Cup One thing was almost instantly detectable as Unai Emery walked into a stuffy room inside the Red Bull Arena on the eve of Wednesday’s Super Cup against Paris Saint-Germain. A",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "26a5a087d219",
       "title": "‘I am quite optimistic’: Newcastle’s Jaissle on leading club after turbulent summer",
       "url": "https://www.theguardian.com/football/2026/aug/11/matthias-jaissle-eddie-howe-newcastle-united-manager-unveiling-st-james-park",
@@ -311,19 +337,6 @@
       "is_injury_related": false
     },
     {
-      "id": "4d23bac4221d",
-      "title": "Who is prospective new Celtic signing Hassan?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c980kg4xnxeo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-11T16:08:58+00:00",
-      "summary": "BBC Scotland takes a look at Egypt winger Haissem Hassan, who seems poised for a move to Scottish champions Celtic.",
-      "teams": [
-        "Scotland",
-        "Egypt"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "c05711534a64",
       "title": "Chelsea face Sociedad in Champions League qualifying",
       "url": "https://www.bbc.co.uk/sport/football/articles/cdrvm27rel0o",
@@ -344,19 +357,6 @@
       "summary": "WSL team will be favourites against Spanish side Financial implications of missing out are significant Chelsea will face Real Sociedad in the Women’s Champions League third qualifying round, needing a win over two legs to secure a place in the main league phase of the competition",
       "teams": [
         "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "2b5a786204d1",
-      "title": "Scottish striker Ure makes £5.5m Sevilla move",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7vgj826nnjo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-11T09:42:20+00:00",
-      "summary": "Sevilla announce £5.5m move, rising to potential £7.6m, for former Scotland youth international striker Robbie Ure to join from Swedish club IK Sirius.",
-      "teams": [
-        "Scotland",
-        "Sweden"
       ],
       "is_injury_related": false
     },
@@ -418,18 +418,6 @@
       "teams": [
         "Scotland",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "98a8d9abf5d0",
-      "title": "Nobbs says promotion would be 'job done' in career",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy07d00lrz1o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-10T11:00:17+00:00",
-      "summary": "Jordan Nobbs says helping Newcastle United gain promotion to the Women's Super League for the first time would be \"job done\" in her career.",
-      "teams": [
-        "Jordan"
       ],
       "is_injury_related": false
     },
