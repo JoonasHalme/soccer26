@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T05:00:57.921644+00:00",
+  "generated_at": "2026-08-13T06:41:34.544482+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -18,6 +18,18 @@
         "Portugal"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "6d0bd52a43bd",
+      "title": "Bihina saves four penalties as Cameroon upset Morocco to make Wafcon final",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg3pzne52xo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-12T23:36:44+00:00",
+      "summary": "Cameroon's Michaely Bihina saves an extra-time penalty and three more spot kicks in a shootout to send her side though to the 2026 Wafcon final at the expense of host nation Morocco.",
+      "teams": [
+        "Morocco"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "180a624070f0",
@@ -421,19 +433,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "cc7e83827442",
-      "title": "SWPL player drain a problem or positive?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyj0kg9jjdo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-10T16:48:34+00:00",
-      "summary": "Players flocking to ply their trade in England can still be a positive for women's football in Scotland, insists SWPL managing director Fiona McIntyre.",
-      "teams": [
-        "Scotland",
-        "England"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "9628731f376c",
