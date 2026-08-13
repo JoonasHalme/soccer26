@@ -1,13 +1,61 @@
 {
-  "generated_at": "2026-08-13T15:11:27.436909+00:00",
+  "generated_at": "2026-08-13T17:08:35.377891+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "3308f211d779",
+      "title": "Listen: Sportsound build-up to four Scottish clubs in European action",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm",
+      "source": "BBC Sport",
+      "published_at": "2026-08-13T21:00:00+00:00",
+      "summary": "Commentary of Rangers v Jagiellonia in the second leg of their Europa League qualifier.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ed2839512778",
+      "title": "Celta Vigo’s La Liga opener postponed due to fungal outbreak on pitch",
+      "url": "https://www.theguardian.com/football/2026/aug/13/celta-vigo-la-liga-opener-osasuna-postponed-due-to-fungus-on-pitch",
+      "source": "The Guardian",
+      "published_at": "2026-08-13T16:14:47+00:00",
+      "summary": "Fungal outbreak damages surface at Estadio de Balaidos Turf for Osasuna match left ‘unfit for football’ Celta Vigo’s ⁠season-opening La Liga match against Osasuna has been postponed after ⁠a fungal outbreak ⁠affected ​the pitch at Estadio de Balaidos, the Spanish club ⁠said on Th",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "05e99430519b",
+      "title": "All done deals in August 2026",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-13T15:40:36+00:00",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "2d523c5b41e2",
+      "title": "Unal completes move from Bournemouth to Getafe",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy9w2749p89o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-13T15:34:42+00:00",
+      "summary": "Enes Unal leaves Bournemouth to rejoin Spanish club Getafe.",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "fc9a20ed0f3e",
-      "title": "Celtic buy midfielder Baur from Paderborn",
+      "title": "Celtic sign midfielder Baur from Paderborn",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce85jy4rrz5o",
       "source": "BBC Sport",
       "published_at": "2026-08-13T15:06:40+00:00",
@@ -24,18 +72,6 @@
       "source": "BBC Sport",
       "published_at": "2026-08-13T14:41:24+00:00",
       "summary": "England came third in this summer's World Cup - their best performance in a men's competition in 60 years - and now their players are in demand in the transfer market.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "fb534913c868",
-      "title": "‘He has a very high ceiling’: Madjo makes instant mark on delayed Aston Villa bow",
-      "url": "https://www.theguardian.com/football/2026/aug/13/aston-villa-brian-madjo-makes-mark-psg",
-      "source": "The Guardian",
-      "published_at": "2026-08-13T12:00:00+00:00",
-      "summary": "Teenager endured a frustrating wait for his registration to be approved but took no time to show his potential on the big stage against PSG At first glance there was the usual stuff: the wide smile, the guttural release, the punch of the air, teammates quickly on the scene to off",
       "teams": [
         "England"
       ],
@@ -62,18 +98,6 @@
       "summary": "Manchester City want around £65m for Spain midfielder Al-Qadsiah closing on move for City’s Tijjani Reijnders Manchester City have rejected Barcelona’s second bid of around €60m (£51m) for Rodri, while Chelsea have set a 5pm (BST) Friday deadline for the club to bid £120m for the",
       "teams": [
         "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "05e99430519b",
-      "title": "All done deals in August 2026",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-13T09:20:46+00:00",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -136,18 +160,6 @@
       "summary": "European Thursday: Comebacks, Confidence and Conference League Dreams",
       "teams": [
         "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "4aa3b346b7b5",
-      "title": "Celtic want Chelsea's Emenalo on loan - gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c79g4q44zvro",
-      "source": "BBC Sport",
-      "published_at": "2026-08-13T06:55:40+00:00",
-      "summary": "Celtic linked with two full-backs as Spanish club join chase for Rangers midfielder...",
-      "teams": [
-        "Spain"
       ],
       "is_injury_related": false
     },
@@ -228,26 +240,14 @@
       "is_injury_related": true
     },
     {
-      "id": "4683cc0a2229",
-      "title": "Xavi becomes first non-Dutch Netherlands coach since 1978",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c77g5dne45lo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-12T20:15:18+00:00",
-      "summary": "Former Barcelona manager Xavi is appointed as the new head coach of the Netherlands on a four-year deal.",
-      "teams": [
-        "Netherlands"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "4d23bac4221d",
-      "title": "Celtic sign winger who tormented Argentina in World Cup",
+      "title": "'Great moment' as Egypt winger Hassan joins Celtic on four-year deal",
       "url": "https://www.bbc.co.uk/sport/football/articles/c980kg4xnxeo",
       "source": "BBC Sport",
       "published_at": "2026-08-12T19:57:57+00:00",
       "summary": "Celtic sign winger Haissem Hassan from Real Oviedo on a four-year contract with the option of a further year.",
       "teams": [
-        "Argentina"
+        "Egypt"
       ],
       "is_injury_related": false
     },
@@ -272,18 +272,6 @@
       "summary": "Sign up now! Sign up now! Sign up now? Sign up now! As rallying cries for the dawn of a golden era go, “I am quite optimistic” is not “ask not what your country can do for you, ask what you can do for your country”. It did not fit the “I think I am a special one” template set 22 ",
       "teams": [
         "Saudi Arabia"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "30d76def7d80",
-      "title": "Lionel Messi has ‘quite a few doubts’ about football future after death of his father",
-      "url": "https://www.theguardian.com/football/2026/aug/12/lionel-messi-doubts-football-future-death-of-his-father-jorge",
-      "source": "The Guardian",
-      "published_at": "2026-08-12T14:16:12+00:00",
-      "summary": "Messi’s father, ⁠Jorge, died last week at age of 68 Argentinian suggests he may not play on much longer Lionel Messi has hinted that the end of his career may be near after ­admitting to “quite a few doubts” about his football future following the death of his father. Jorge Messi",
-      "teams": [
-        "Argentina"
       ],
       "is_injury_related": true
     },
@@ -409,19 +397,6 @@
       "is_injury_related": true
     },
     {
-      "id": "9628731f376c",
-      "title": "Versatile Bruno Guimarães gives Mikel Arteta options to shuffle midfield pack | Ed Aarons",
-      "url": "https://www.theguardian.com/football/2026/aug/08/bruno-guimaraes-mikel-arteta-arsenal-options-midfield",
-      "source": "The Guardian",
-      "published_at": "2026-08-08T19:00:05+00:00",
-      "summary": "While able to play deeper, the onus will also be on Arsenal’s £75m signing to provide creativity in an attack that has struggled to break down the low block Data shows deal could be another set-piece masterstroke If there was one of his many assets Newcastle supporters grew to lo",
-      "teams": [
-        "Brazil",
-        "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "185955583e04",
       "title": "Jorge Messi, father and agent of Argentina great, dies aged 68",
       "url": "https://www.theguardian.com/football/2026/aug/08/jorge-messi-dies-father-agent-lionel-messi-argentina-inter-miami",
@@ -432,6 +407,30 @@
         "Argentina"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "88b4a96b40e4",
+      "title": "Data shows Bruno Guimarães deal could be another Arsenal set-piece masterstroke",
+      "url": "https://www.theguardian.com/football/2026/aug/08/why-the-data-shows-guimaraes-deal-could-be-another-arsenal-set-piece-masterstroke",
+      "source": "The Guardian",
+      "published_at": "2026-08-08T11:22:32+00:00",
+      "summary": "Brazilian excels at winning free-kicks and conjuring results from them, hence why the champions were willing to spend £75m Bruno Guimarães has broken a very niche record. His £75m move to Arsenal is the most expensive transfer for a midfielder aged at least 28. This should not be",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "023740e61bcf",
+      "title": "Infantino’s World Cup sell-off debacle has rocked football but Fifa’s crisis has deep and rotten roots",
+      "url": "https://www.theguardian.com/football/2026/aug/07/gianni-infantino-world-cup-sell-off-debacle-fifa-crisis",
+      "source": "The Guardian",
+      "published_at": "2026-08-07T19:00:25+00:00",
+      "summary": "It has been a remarkable few days for an institution that may be irredeemable but this is a story that stretches back to a decision in 2010 There are decades in which nothing happens, and weeks in which decades happen, and those weeks tend to result in leaders being toppled. Not ",
+      "teams": [
+        "Qatar"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "13b7be17292d",
