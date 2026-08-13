@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-08-13T21:58:23.329354+00:00",
+  "generated_at": "2026-08-13T22:58:10.183010+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "3e706d32ce4a",
+      "title": "Man City's Reijnders set for £52m Saudi move",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp30xwkj4y3o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-13T22:12:05+00:00",
+      "summary": "Manchester City midfielder Tijjani Reijnders is set to leave following a year at the club after a £52m move was agreed with Saudi Pro-League side Al-Qadsiah.",
+      "teams": [
+        "Saudi Arabia"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "ed42277f357a",
       "title": "'Dad rang and I was like: What's happening?' - England U20s boss on Uefa threat",
@@ -238,6 +250,18 @@
         "Spain"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "4d23bac4221d",
+      "title": "'Great moment' as Egypt winger Hassan joins Celtic on four-year deal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c980kg4xnxeo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-12T19:57:57+00:00",
+      "summary": "Celtic sign winger Haissem Hassan from Real Oviedo on a four-year contract with the option of a further year.",
+      "teams": [
+        "Egypt"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "6dd607999431",
