@@ -1,17 +1,29 @@
 {
-  "generated_at": "2026-08-13T17:08:35.377891+00:00",
+  "generated_at": "2026-08-13T19:16:39.523986+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "3308f211d779",
-      "title": "Listen: Sportsound build-up to four Scottish clubs in European action",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm",
+      "id": "0071fad5475f",
+      "title": "Championship spending hits record levels and likely to go higher as playoffs expand",
+      "url": "https://www.theguardian.com/football/2026/aug/13/championship-spending-record-premier-league-playoffs",
+      "source": "The Guardian",
+      "published_at": "2026-08-13T19:00:05+00:00",
+      "summary": "With a top-eight finish offering at least a playoff place, the temptation to spend big in pursuit of the Premier League will grow – but so will the risks The Championship’s collective wage bill grew to a record £903m in 2024-25, according to Deloitte’s latest Annual Review of Foo",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "150fdc4e81f6",
+      "title": "PSV winger Driouech at Ibrox before expected Rangers move",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyl368n7p3o",
       "source": "BBC Sport",
-      "published_at": "2026-08-13T21:00:00+00:00",
-      "summary": "Commentary of Rangers v Jagiellonia in the second leg of their Europa League qualifier.",
+      "published_at": "2026-08-13T18:41:31+00:00",
+      "summary": "PSV Eindhoven winger Couhaib Driouech is at Ibrox to watch Rangers face Jagiellonia Bialystok pending a transfer to the Scottish Premiership club.",
       "teams": [
         "Scotland"
       ],
@@ -72,6 +84,18 @@
       "source": "BBC Sport",
       "published_at": "2026-08-13T14:41:24+00:00",
       "summary": "England came third in this summer's World Cup - their best performance in a men's competition in 60 years - and now their players are in demand in the transfer market.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "fb534913c868",
+      "title": "‘He has a very high ceiling’: Madjo makes instant mark on delayed Aston Villa bow",
+      "url": "https://www.theguardian.com/football/2026/aug/13/aston-villa-brian-madjo-makes-mark-psg",
+      "source": "The Guardian",
+      "published_at": "2026-08-13T12:00:00+00:00",
+      "summary": "Teenager endured a frustrating wait for his registration to be approved but took no time to show his potential on the big stage against PSG At first there was the usual stuff: the wide smile, the guttural release, the punch of the air, teammates quickly on the scene to offer cong",
       "teams": [
         "England"
       ],
@@ -152,18 +176,6 @@
       "is_injury_related": true
     },
     {
-      "id": "330648172ae1",
-      "title": "Podcast: Four Scottish clubs in European action",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p46ws2",
-      "source": "BBC Sport",
-      "published_at": "2026-08-13T07:00:00+00:00",
-      "summary": "European Thursday: Comebacks, Confidence and Conference League Dreams",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "b3267d52371a",
       "title": "Failure not an option as Ange Postecoglou gears up for biggest challenge yet alongside Ronaldo | John Duerden",
       "url": "https://www.theguardian.com/football/blog/2026/aug/13/australian-ange-postecoglou-football-coach-al-nassr-ronaldo",
@@ -202,18 +214,6 @@
       "is_injury_related": false
     },
     {
-      "id": "294431602701",
-      "title": "Lukaku seals 'emotional' move to Fenerbahce",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn8npx57499o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-12T22:26:25+00:00",
-      "summary": "Belgium striker Romelu Lukaku has joined Turkish side Fenerbahce from Napoli for an undisclosed fee and contract length.",
-      "teams": [
-        "Belgium"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "bf4d035f9f05",
       "title": "Atlético Madrid agree £34.1m deal for Tottenham’s Cristian Romero",
       "url": "https://www.theguardian.com/football/2026/aug/12/atletico-madrid-agree-deal-tottenham-cristian-romero",
@@ -238,18 +238,6 @@
         "Spain"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "4d23bac4221d",
-      "title": "'Great moment' as Egypt winger Hassan joins Celtic on four-year deal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c980kg4xnxeo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-12T19:57:57+00:00",
-      "summary": "Celtic sign winger Haissem Hassan from Real Oviedo on a four-year contract with the option of a further year.",
-      "teams": [
-        "Egypt"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "6dd607999431",
@@ -298,18 +286,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "767669d4982f",
-      "title": "How will relegated trio fare in the Championship?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg0d3ewek0o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-12T11:05:41+00:00",
-      "summary": "BBC Sport England looks at how the three relegated sides - West Ham, Burnley and Wolves - will navigate the Championship this season.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "c36dfc291bb6",
