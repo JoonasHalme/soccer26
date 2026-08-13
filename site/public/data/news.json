@@ -1,10 +1,23 @@
 {
-  "generated_at": "2026-08-13T22:58:10.183010+00:00",
+  "generated_at": "2026-08-13T23:54:03.097847+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "a58d62d72913",
+      "title": "Nigeria to miss Women's World Cup after South Africa and Ghana win play-offs",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgk46yrk2pjo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-13T22:49:29+00:00",
+      "summary": "South Africa and Ghana progress to an inter-confederation qualifier for the 2027 Women's World Cup, but Nigeria will miss the tournament for the first time.",
+      "teams": [
+        "South Africa",
+        "Ghana"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "3e706d32ce4a",
       "title": "Man City's Reijnders set for £52m Saudi move",
@@ -38,18 +51,6 @@
       "summary": "With a top-eight finish offering at least a playoff place, the temptation to spend big in pursuit of the Premier League will grow – but so will the risks The Championship’s collective wage bill grew to a record £903m in 2024-25, according to Deloitte’s latest Annual Review of Foo",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "150fdc4e81f6",
-      "title": "PSV winger Driouech at Ibrox before expected Rangers move",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyl368n7p3o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-13T18:41:31+00:00",
-      "summary": "PSV Eindhoven winger Couhaib Driouech is at Ibrox to watch Rangers face Jagiellonia Bialystok pending a transfer to the Scottish Premiership club.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -250,18 +251,6 @@
         "Spain"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "4d23bac4221d",
-      "title": "'Great moment' as Egypt winger Hassan joins Celtic on four-year deal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c980kg4xnxeo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-12T19:57:57+00:00",
-      "summary": "Celtic sign winger Haissem Hassan from Real Oviedo on a four-year contract with the option of a further year.",
-      "teams": [
-        "Egypt"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "6dd607999431",
