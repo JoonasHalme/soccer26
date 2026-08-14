@@ -1,17 +1,41 @@
 {
-  "generated_at": "2026-08-14T13:35:49.524890+00:00",
+  "generated_at": "2026-08-14T15:04:10.366925+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "861ff14f25f6",
+      "title": "Celtic's Engels poised for West Ham transfer",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgjexdypjqyo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-14T14:51:01+00:00",
+      "summary": "Belgium midfielder Arne Engels is having a medical pending a transfer to West Ham United, Celtic manager Martin O'Neill has confirmed.",
+      "teams": [
+        "Belgium"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "2da60fb75025",
+      "title": "Rangers and the paradox of a painful exit that boosts their trophy chances",
+      "url": "https://www.theguardian.com/football/2026/aug/14/rangers-football-daily-newsletter",
+      "source": "The Guardian",
+      "published_at": "2026-08-14T14:48:56+00:00",
+      "summary": "All new managers want to hit the ground running. But landing with a dull thud has never been a barrier to future glory, certainly not at Ibrox. Take Graeme Souness, whose start as Rangers’ player-manager put the ‘pish’ in ‘inauspicious’. On his league debut, away to Hibs, he was ",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "9b10aaa04320",
-      "title": "Arsenal in talks over deal for Quansah; transfer latest; Championship kicks off; Fifa news: football – live",
+      "title": "Arsenal in talks over Quansah; transfer news; Giuliani slams Infantino’s critics: football – live",
       "url": "https://www.theguardian.com/football/live/2026/aug/14/championship-kicks-off-fifa-latest-and-community-shield-buildup-football-live",
       "source": "The Guardian",
-      "published_at": "2026-08-14T13:20:31+00:00",
-      "summary": "⚽ All the latest football news, comment and previews ⚽ This weekend’s fixtures | Read Football Daily | Mail Stuart Arsenal are in talks with Bayer Leverkusen over Jarell Quansah. The asking price for the England defender expected to be at least €50m (£43m). He joined the German c",
+      "published_at": "2026-08-14T14:48:35+00:00",
+      "summary": "⚽ All the latest football news, comment and previews ⚽ This weekend’s fixtures | Read Football Daily | Mail Dominic Arsenal are in talks with Bayer Leverkusen over Jarell Quansah. The asking price for the England defender expected to be at least €50m (£43m). He joined the German ",
       "teams": [
         "Germany",
         "England"
@@ -43,6 +67,18 @@
       "is_injury_related": false
     },
     {
+      "id": "150fdc4e81f6",
+      "title": "Rangers leave PSV surprised as they pull out of Driouech deal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyl368n7p3o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-14T10:05:02+00:00",
+      "summary": "Rangers withdraw from a proposed deal to sign Couhaib Driouech from PSV Eindhoven, with the winger carrying an injury and the Dutch champions expressing their surprise at the decision.",
+      "teams": [
+        "Netherlands"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "3a7b6878cffe",
       "title": "Football transfer rumours: Arsenal offered Osimhen in exchange deal? Newcastle to make Baleba bid?",
       "url": "https://www.theguardian.com/football/2026/aug/14/football-transfer-rumours-arsenal-osimhen-exchange-deal-newcastle-baleba-bid",
@@ -54,18 +90,6 @@
         "Saudi Arabia"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "496f55f6a2bd",
-      "title": "Oceania declares support for Infantino in boost for Fifa president but New Zealand breaks ranks",
-      "url": "https://www.theguardian.com/football/2026/aug/14/oceania-football-confederation-ofc-declares-support-infantino-fifa-president",
-      "source": "The Guardian",
-      "published_at": "2026-08-14T07:13:59+00:00",
-      "summary": "OFC’s 11 votes could prove crucial in Fifa election Stance shows continued backing from smaller nations The Oceania Football Confederation (OFC) has declared its support for Gianni Infantino following demands from Uefa, Concacaf and the Asian Football Confederation for the Fifa p",
-      "teams": [
-        "New Zealand"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "3e9cc355cd6f",
@@ -165,18 +189,6 @@
       "is_injury_related": true
     },
     {
-      "id": "2d523c5b41e2",
-      "title": "Unal completes move from Bournemouth to Getafe",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy9w2749p89o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-13T15:34:42+00:00",
-      "summary": "Enes Unal leaves Bournemouth to rejoin Spanish club Getafe.",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "9f7d375361e3",
       "title": "Why half of England's World Cup defenders are on the move",
       "url": "https://www.bbc.co.uk/sport/football/articles/cj63p367gpyo",
@@ -211,19 +223,6 @@
         "Spain"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "73e262d13320",
-      "title": "Coach in DR Congo banned by Fifa for 20 years for sexual abuse still training young players",
-      "url": "https://www.theguardian.com/football/2026/aug/13/coach-in-dr-congo-banned-by-fifa-for-20-years-for-sexual-abuse-still-training-young-players",
-      "source": "The Guardian",
-      "published_at": "2026-08-13T07:00:52+00:00",
-      "summary": "Jonathan Bukabakwa released from prison last year Case highlights flaws in Fifa’s safeguarding processes A coach in the Democratic Republic of the Congo who was banned from football for 20 years by Fifa in March 2023 for sexual abuse of a minor is continuing to take charge of you",
-      "teams": [
-        "Switzerland",
-        "DR Congo"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "b69fdbd01e5c",
