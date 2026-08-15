@@ -1,10 +1,36 @@
 {
-  "generated_at": "2026-08-15T11:31:20.844068+00:00",
+  "generated_at": "2026-08-15T12:56:11.864593+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "b926d0a36ccf",
+      "title": "Hull sign Gelhardt and Gourna-Douath",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg8qgg7qg1o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-15T12:03:16+00:00",
+      "summary": "Hull City sign English forward Joe Gelhardt from Leeds and French midfielder Lucas Gourna-Douath from Red Bull Salzburg for undisclosed fees.",
+      "teams": [
+        "France",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8784b0e7fa81",
+      "title": "Belgian Pocognoli set for Scotland job - gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp30x80lny7o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-15T11:51:50+00:00",
+      "summary": "Belgian tipped for Scotland job, Celtic forward likely moving on and Scottish champions target goalkeeper.",
+      "teams": [
+        "Scotland",
+        "Belgium"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "bf96435ad240",
       "title": "Women’s U20 World Cup boycott may hurt in short term but can send Fifa a vital message | Tom Garry",
@@ -42,18 +68,6 @@
       "is_injury_related": false
     },
     {
-      "id": "8784b0e7fa81",
-      "title": "Balikwisha set to leave Celtic with three clubs interested - gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp30x80lny7o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-15T07:41:04+00:00",
-      "summary": "Celtic winger set to move on with three clubs interested as Scottish champions target goalkeeper.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "ee16c267d6f2",
       "title": "Why Michaely Bihina is the keeper making waves at Wafcon",
       "url": "https://www.bbc.co.uk/sport/football/articles/c7vgylpgmz7o",
@@ -67,7 +81,7 @@
     },
     {
       "id": "bcd97817ca6b",
-      "title": "Premier League clubs looking to EFL for next Semenyo & Eze",
+      "title": "Premier League clubs looking to EFL for next Semenyo and Eze",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5y6w5972lyo",
       "source": "BBC Sport",
       "published_at": "2026-08-15T07:16:50+00:00",
@@ -125,19 +139,6 @@
         "Spain"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "746fb6b7ea98",
-      "title": "Raúl Jiménez’s injury-time penalty salvages point for Wolves against Blackburn",
-      "url": "https://www.theguardian.com/football/2026/aug/14/wolves-blackburn-championship-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-08-14T21:21:18+00:00",
-      "summary": "Raúl Jiménez marked his return to Wolves with the stoppage-time equaliser that saved them from an embarrassing start to their return to the Championship. The Mexico striker, who scored against England during the World Cup, came off the bench to convert a penalty given for handbal",
-      "teams": [
-        "Mexico",
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "05e99430519b",
@@ -233,18 +234,6 @@
       "summary": "Lincoln’s joint head coaches, Tom Shaw and Chris Cohen, hope Championship rivals underestimate ‘amazing squad’ The last thing the Championship needs is another spying scandal, so when a lorry emblazoned with KGB parked up alongside Lincoln City’s training ground on Tuesday luncht",
       "teams": [
         "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "b745aa2f76d6",
-      "title": "New Zealand break with OFC to withdraw Infantino support",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crl7wdkxdd7o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-14T06:19:11+00:00",
-      "summary": "New Zealand break rank with Oceania's football governing body to become the latest nation to withdraw support for Fifa president Gianni Infantino.",
-      "teams": [
-        "New Zealand"
       ],
       "is_injury_related": true
     },
