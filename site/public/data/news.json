@@ -1,10 +1,36 @@
 {
-  "generated_at": "2026-08-15T13:39:06.285487+00:00",
+  "generated_at": "2026-08-15T14:35:09.699809+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "0df1a895b7a2",
+      "title": "Belgian Pocognoli frontrunner to be Scotland boss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyrre1qzwlo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-15T13:58:42+00:00",
+      "summary": "Former Monaco head coach Sebastien Pocognoli is identified by the Scottish FA as their prime candidate to replace Steve Clarke.",
+      "teams": [
+        "Scotland",
+        "Belgium"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "7212ec8fb3c1",
+      "title": "Scotland hope to name 39-year-old Pocognoli as successor to Clarke in fresh approach",
+      "url": "https://www.theguardian.com/football/2026/aug/15/scotland-hope-to-name-sebastien-pocognoli-as-new-international-manager",
+      "source": "The Guardian",
+      "published_at": "2026-08-15T13:09:59+00:00",
+      "summary": "Belgian would be first non-Scot in role since Berti Vogts Scotland face Slovenia on 26 September in Nations League The Scottish Football Association hopes to name the Belgian Sébastien Pocognoli as the successor to Steve Clarke as manager early next week. The 39-year-old, who was",
+      "teams": [
+        "Scotland",
+        "Belgium"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "cb4d4fc39064",
       "title": "Ex-tennis player Bautista Agut scores on football debut",
@@ -32,14 +58,13 @@
     },
     {
       "id": "8784b0e7fa81",
-      "title": "Belgian Pocognoli set for Scotland job - gossip",
+      "title": "Balikwisha set to leave Celtic with three clubs interested - gossip",
       "url": "https://www.bbc.co.uk/sport/football/articles/cp30x80lny7o",
       "source": "BBC Sport",
       "published_at": "2026-08-15T11:51:50+00:00",
-      "summary": "Belgian tipped for Scotland job, Celtic forward likely moving on and Scottish champions target goalkeeper.",
+      "summary": "Celtic forward likely moving on as Scottish champions target goalkeeper.",
       "teams": [
-        "Scotland",
-        "Belgium"
+        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -213,18 +238,6 @@
       "is_injury_related": false
     },
     {
-      "id": "150fdc4e81f6",
-      "title": "Rangers leave PSV surprised as they pull out of Driouech deal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyl368n7p3o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-14T10:05:02+00:00",
-      "summary": "Rangers withdraw from a proposed deal to sign Couhaib Driouech from PSV Eindhoven, with the winger carrying an injury and the Dutch champions expressing their surprise at the decision.",
-      "teams": [
-        "Netherlands"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "3a7b6878cffe",
       "title": "Football transfer rumours: Arsenal offered Osimhen in exchange deal? Newcastle to make Baleba bid?",
       "url": "https://www.theguardian.com/football/2026/aug/14/football-transfer-rumours-arsenal-osimhen-exchange-deal-newcastle-baleba-bid",
@@ -345,18 +358,6 @@
         "Saudi Arabia"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "767669d4982f",
-      "title": "How will relegated trio fare in the Championship?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg0d3ewek0o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-12T11:05:41+00:00",
-      "summary": "BBC Sport England looks at how the three relegated sides - West Ham, Burnley and Wolves - will navigate the Championship this season.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "c36dfc291bb6",
