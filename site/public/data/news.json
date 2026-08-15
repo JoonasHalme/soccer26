@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-08-15T17:32:44.160730+00:00",
+  "generated_at": "2026-08-15T18:44:32.904822+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "2c85fae630ee",
+      "title": "Transfer roundup: Aston Villa close on Japan keeper Zion Suzuki as Emiliano Martínez nears exit",
+      "url": "https://www.theguardian.com/football/2026/aug/15/psg-ferran-torres-barcelona-transfer-window",
+      "source": "The Guardian",
+      "published_at": "2026-08-15T17:53:31+00:00",
+      "summary": "PSG sign Spain’s Ferran Torres from Barcelona Djed Spence completes move to Inter from Spurs Aston Villa are preparing for the potential exit of goalkeeper Emiliano Martínez by accelerating a move for Parma’s Zion Suzuki. Juventus have revived their interest in Martínez, who is o",
+      "teams": [
+        "Japan",
+        "Spain",
+        "Argentina"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "47d03b095ecd",
       "title": "Inter sign England full-back Spence from Tottenham",
@@ -13,19 +27,6 @@
       "published_at": "2026-08-15T17:15:16+00:00",
       "summary": "England full-back Djed Spence signs a five-year deal at Inter Milan as he makes a move to Italy from Tottenham.",
       "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "2c85fae630ee",
-      "title": "Transfer roundup: Paris Saint-Germain sign €50m Ferran Torres; Djed Spence seals Inter move",
-      "url": "https://www.theguardian.com/football/2026/aug/15/psg-ferran-torres-barcelona-transfer-window",
-      "source": "The Guardian",
-      "published_at": "2026-08-15T17:01:09+00:00",
-      "summary": "Spain World Cup winner Torres leaves Barcelona England’s Spence completes move from Tottenham Paris Saint -Germain have signed Spain’s World Cup-winning ⁠forward Ferran Torres from Barcelona on a contract until 2031. Financial ​details were not disclosed, but reports said PSG pai",
-      "teams": [
-        "Spain",
         "England"
       ],
       "is_injury_related": false
