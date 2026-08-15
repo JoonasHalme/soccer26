@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-08-15T12:56:11.864593+00:00",
+  "generated_at": "2026-08-15T13:39:06.285487+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "cb4d4fc39064",
+      "title": "Ex-tennis player Bautista Agut scores on football debut",
+      "url": "https://www.bbc.co.uk/sport/articles/c0jllp431qqo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-15T13:07:09+00:00",
+      "summary": "Roberto Bautista Agut scores twice on his debut for Spanish seventh-tier side CD Els Ibarsos - just over a month after retiring from tennis.",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "b926d0a36ccf",
       "title": "Hull sign Gelhardt and Gourna-Douath",
@@ -251,18 +263,6 @@
       "is_injury_related": true
     },
     {
-      "id": "3e706d32ce4a",
-      "title": "Man City's Reijnders set for £52m Saudi move",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp30xwkj4y3o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-13T22:12:05+00:00",
-      "summary": "Manchester City midfielder Tijjani Reijnders is set to leave following a year at the club after a £52m move was agreed with Saudi Pro-League side Al-Qadsiah.",
-      "teams": [
-        "Saudi Arabia"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "ed42277f357a",
       "title": "'Dad rang and I was like: What's happening?' - England U20s boss on Uefa threat",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5ydz50jnz3o",
@@ -404,18 +404,6 @@
       "summary": "Football Australia issues statement in support of Asian federation Calls for ‘clear and credible action’ in response to Fifa crisis Football Australia has joined a growing chorus placing pressure on Fifa president Gianni Infantino by calling for “clear and credible action” in res",
       "teams": [
         "Australia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "b6fb14c13cf6",
-      "title": "Why has Araujo joined Liverpool and where did it go wrong at Barcelona?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gx5w7egvwo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-10T18:11:48+00:00",
-      "summary": "Ronald Araujo has joined Liverpool on loan from Barcelona. We explain why Liverpool moved for the Uruguay defender and what went wrong at Barcelona.",
-      "teams": [
-        "Uruguay"
       ],
       "is_injury_related": false
     },
