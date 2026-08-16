@@ -1,10 +1,36 @@
 {
-  "generated_at": "2026-08-16T17:31:09.797715+00:00",
+  "generated_at": "2026-08-16T18:43:40.553747+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "0df1a895b7a2",
+      "title": "Belgian Pocognoli confirmed as Scotland boss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyrre1qzwlo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-16T17:56:58+00:00",
+      "summary": "The Scottish FA say they have appointed \"one of Europe's brightest emerging coaching talents\" by securing Sebastien Pocognoli as Scotland men's new head coach on a two-year deal.",
+      "teams": [
+        "Scotland",
+        "Belgium"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "7212ec8fb3c1",
+      "title": "Scotland appoint Pocognoli as successor to Clarke in fresh approach",
+      "url": "https://www.theguardian.com/football/2026/aug/15/scotland-hope-to-name-sebastien-pocognoli-as-new-international-manager",
+      "source": "The Guardian",
+      "published_at": "2026-08-16T17:46:42+00:00",
+      "summary": "Belgian is the first non-Scot in role since Berti Vogts Scotland face Slovenia in Nations League in September The Scottish Football Association has appointed the Belgian Sébastien Pocognoli as the successor to Steve Clarke as manager. The 39-year-old, who was sacked by Monaco in ",
+      "teams": [
+        "Scotland",
+        "Belgium"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "1892a1167ead",
       "title": "Cristiano Ronaldo says this year is ‘probably’ his last as a footballer",
@@ -23,7 +49,7 @@
       "url": "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-match-report",
       "source": "The Guardian",
       "published_at": "2026-08-16T16:06:30+00:00",
-      "summary": "For Enzo Maresca, a miserable first competitive game in charge of Manchester City that began with Arsenal seizing the lead after 24.5 seconds ended with Mikel Arteta’s side lifting the Community Shield. Arsenal eviscerated City, Riccardo Calafiori’s smart opener after Myles Lewis",
+      "summary": "For Enzo Maresca, a miserable first meaningful game in charge of Manchester City that began with Arsenal seizing the lead after 24.5 seconds ended with Mikel Arteta’s side lifting the Community Shield. Arsenal eviscerated City, Riccardo Calafiori’s smart opener after Myles Lewis-",
       "teams": [
         "England"
       ],
@@ -103,32 +129,6 @@
       "summary": "England full-back Djed Spence signs a five-year deal at Inter Milan as he makes a move to Italy from Tottenham.",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "0df1a895b7a2",
-      "title": "Belgian Pocognoli frontrunner to be Scotland boss - but who is he?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyrre1qzwlo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-15T13:58:42+00:00",
-      "summary": "Former Monaco head coach Sebastien Pocognoli is identified by the Scottish FA as their prime candidate to replace Steve Clarke.",
-      "teams": [
-        "Scotland",
-        "Belgium"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "7212ec8fb3c1",
-      "title": "Scotland hope to name 39-year-old Pocognoli as successor to Clarke in fresh approach",
-      "url": "https://www.theguardian.com/football/2026/aug/15/scotland-hope-to-name-sebastien-pocognoli-as-new-international-manager",
-      "source": "The Guardian",
-      "published_at": "2026-08-15T13:09:59+00:00",
-      "summary": "Belgian would be first non-Scot in role since Berti Vogts Scotland face Slovenia on 26 September in Nations League The Scottish Football Association hopes to name the Belgian Sébastien Pocognoli as the successor to Steve Clarke as manager early next week. The 39-year-old, who was",
-      "teams": [
-        "Scotland",
-        "Belgium"
       ],
       "is_injury_related": false
     },
