@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-08-16T09:37:30.312195+00:00",
+  "generated_at": "2026-08-16T10:35:50.230687+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "2c85fae630ee",
+      "title": "Transfer roundup: Aston Villa close on Japan keeper Zion Suzuki; Djed Spence seals Inter move",
+      "url": "https://www.theguardian.com/football/2026/aug/15/psg-ferran-torres-barcelona-transfer-window",
+      "source": "The Guardian",
+      "published_at": "2026-08-16T09:47:03+00:00",
+      "summary": "Emiliano Martínez potentially heading for Villa exit England’s Spence completes move to Inter from Spurs Aston Villa are preparing for the potential exit of goalkeeper Emiliano Martínez by accelerating a move for Parma’s Zion Suzuki. Juventus have revived their interest in Martín",
+      "teams": [
+        "Japan",
+        "Argentina",
+        "England"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "5236678fc038",
       "title": "End of an era? South Korea’s sun sets in the Premier League but Japan rise",
@@ -43,20 +57,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "2c85fae630ee",
-      "title": "Transfer roundup: Aston Villa close on Japan keeper Zion Suzuki as Emiliano Martínez nears exit",
-      "url": "https://www.theguardian.com/football/2026/aug/15/psg-ferran-torres-barcelona-transfer-window",
-      "source": "The Guardian",
-      "published_at": "2026-08-15T17:53:31+00:00",
-      "summary": "PSG sign Spain’s Ferran Torres from Barcelona Djed Spence completes move to Inter from Spurs Aston Villa are preparing for the potential exit of goalkeeper Emiliano Martínez by accelerating a move for Parma’s Zion Suzuki. Juventus have revived their interest in Martínez, who is o",
-      "teams": [
-        "Japan",
-        "Spain",
-        "Argentina"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "47d03b095ecd",
