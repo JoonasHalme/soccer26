@@ -1,16 +1,30 @@
 {
-  "generated_at": "2026-08-17T13:50:15.227699+00:00",
+  "generated_at": "2026-08-17T14:39:56.936209+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "9fc5d29a09ca",
+      "title": "‘I’ll remember it for the rest of my life’: the footballers whose biggest games come before their league begins",
+      "url": "https://www.theguardian.com/football/2026/aug/17/footballers-games-champions-league-europa-conference-prize-money",
+      "source": "The Guardian",
+      "published_at": "2026-08-17T14:00:56+00:00",
+      "summary": "Larne defender Dan Bent has played in two European competitions this summer and now faces a former team in a Conference League tie that could earn his club vital funds By Playing in the Shadows Premier League footballers are gearing up for the start of the season, but some of the",
+      "teams": [
+        "Egypt",
+        "Argentina",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "cc2aa5fc0f7c",
-      "title": "Man City in advanced talks for £85m Bouaddi, 18",
+      "title": "Man City move for £85m Bouaddi and still want Fernandez",
       "url": "https://www.bbc.co.uk/sport/football/articles/cd7l9n4qnlno",
       "source": "BBC Sport",
-      "published_at": "2026-08-17T13:44:43+00:00",
+      "published_at": "2026-08-17T13:50:22+00:00",
       "summary": "Manchester City are in advanced talks with Lille over a move for Morocco midfielder Ayyoub Bouaddi.",
       "teams": [
         "Morocco"
@@ -248,18 +262,6 @@
         "South Korea",
         "Japan",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "05292403e5b6",
-      "title": "West Ham break EFL record to sign Engels for £22m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c77ggr5nk7jo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-15T20:19:40+00:00",
-      "summary": "West Ham United pay a £22m fee, a new EFL record, to sign Celtic's Belgium international midfielder Arne Engels.",
-      "teams": [
-        "Belgium"
       ],
       "is_injury_related": false
     },
