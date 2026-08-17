@@ -1,10 +1,58 @@
 {
-  "generated_at": "2026-08-17T07:12:53.265014+00:00",
+  "generated_at": "2026-08-17T08:56:49.833117+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "3308f211d779",
+      "title": "What do you think of new Scotland boss? - listen live",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm",
+      "source": "BBC Sport",
+      "published_at": "2026-08-17T11:00:00+00:00",
+      "summary": "Connie McLaughlin gets to the heart of the stories making the news.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "7bf82d305332",
+      "title": "Bronze explains out-of-character contract extension",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy4kge80l1eo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-17T08:06:16+00:00",
+      "summary": "England defender Lucy Bronze says she has found a \"really good role\" at a club she is \"comfortable\" with, after signing a rare contract extension with Chelsea.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d911cfe93bed",
+      "title": "Football transfer rumours: Manchester City to move for Alexis Mac Allister?",
+      "url": "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister",
+      "source": "The Guardian",
+      "published_at": "2026-08-17T07:42:16+00:00",
+      "summary": "Today’s fluff lacks community spirit After looking a tad silly in the Community Shield loss to Arsenal , with not having a midfield being one problem for Enzo Maresca and the further blow of Rodri’s departure getting closer, Manchester City really need some new blood. A surprise ",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "1cb1d9f4b244",
+      "title": "Brighton’s Emilie Joramo: ‘I feel like I’m now in the place I want to be’",
+      "url": "https://www.theguardian.com/football/2026/aug/17/brightons-emilie-joramo-i-feel-like-im-now-in-the-place-i-want-to-be",
+      "source": "The Guardian",
+      "published_at": "2026-08-17T07:00:48+00:00",
+      "summary": "She’s always been keen on the WSL, and the club have long had their eye on her – now the Norwegian midfielder feels ready to make an impact Emilie Joramo has long had her sights set on the Women’s Super League, but she held herself back from pushing for a move over from Scandinav",
+      "teams": [
+        "Norway"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "dee13e1e6739",
       "title": "Scotland boss to bring in ex-Premier League winger - gossip",
@@ -230,18 +278,6 @@
       "is_injury_related": true
     },
     {
-      "id": "ff22a0c25dcb",
-      "title": "La Liga 2026-27 preview: Madrid look to Mourinho in bid to dethrone Barcelona",
-      "url": "https://www.theguardian.com/football/2026/aug/15/2026-2027-la-liga-preview-real-madrid-jose-mourinho-barcelona",
-      "source": "The Guardian",
-      "published_at": "2026-08-15T07:00:50+00:00",
-      "summary": "Florentino Pérez pressed the Special One button again after two straight trophyless seasons at Real, but Lamine Yamal and co remain title favourites A lot has changed since José Mourinho was last appointed Real Madrid manager, but a lot has also not changed. Before his first game",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "46f0bd7e02ed",
       "title": "Chelsea say no Fernandez move as deadline passes - but is it really over?",
       "url": "https://www.bbc.co.uk/sport/football/articles/c7vgyrl2573o",
@@ -277,31 +313,6 @@
         "Saudi Arabia"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "bc1511adbe50",
-      "title": "Lincoln trust in double act as second-tier return starts at Middlesbrough",
-      "url": "https://www.theguardian.com/football/2026/aug/14/lincoln-have-faith-in-double-act-as-they-return-to-second-tier",
-      "source": "The Guardian",
-      "published_at": "2026-08-14T07:00:20+00:00",
-      "summary": "Lincoln’s joint head coaches, Tom Shaw and Chris Cohen, hope Championship rivals underestimate ‘amazing squad’ The last thing the Championship needs is another spying scandal, so when a lorry emblazoned with KGB parked up alongside Lincoln City’s training ground on Tuesday luncht",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "a58d62d72913",
-      "title": "Nigeria to miss Women's World Cup after South Africa and Ghana win play-offs",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgk46yrk2pjo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-13T22:49:29+00:00",
-      "summary": "South Africa and Ghana progress to an inter-confederation qualifier for the 2027 Women's World Cup, but Nigeria will miss the tournament for the first time.",
-      "teams": [
-        "South Africa",
-        "Ghana"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "ed42277f357a",
