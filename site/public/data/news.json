@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-08-17T05:47:02.088850+00:00",
+  "generated_at": "2026-08-17T07:12:53.265014+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "dee13e1e6739",
+      "title": "Scotland boss to bring in ex-Premier League winger - gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cddjv462963o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-17T06:55:27+00:00",
+      "summary": "New Scotland boss to bring in former Premier League winger as assistant, while Hearts lodge a bid for a new striker...",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "36736a76266b",
       "title": "Rodri set to complete Barcelona move after Manchester City accept £65.4m bid",
@@ -165,18 +177,6 @@
       "summary": "England full-back Djed Spence signs a five-year deal at Inter Milan as he makes a move to Italy from Tottenham.",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "cb4d4fc39064",
-      "title": "Ex-tennis player Bautista Agut scores on football debut",
-      "url": "https://www.bbc.co.uk/sport/articles/c0jllp431qqo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-15T13:07:09+00:00",
-      "summary": "Roberto Bautista Agut scores twice on his debut for Spanish seventh-tier side CD Els Ibarsos - just over a month after retiring from tennis.",
-      "teams": [
-        "Spain"
       ],
       "is_injury_related": false
     },
@@ -385,6 +385,18 @@
       "summary": "Football Australia issues statement in support of Asian federation Calls for ‘clear and credible action’ in response to Fifa crisis Football Australia has joined a growing chorus placing pressure on Fifa president Gianni Infantino by calling for “clear and credible action” in res",
       "teams": [
         "Australia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "313a7aa743ab",
+      "title": "Hogh hat-trick fires Celtic to win at Kilmarnock",
+      "url": "https://www.bbc.co.uk/sport/videos/cj6302d4n79o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-10T09:13:48+00:00",
+      "summary": "Watch Sportscene highlights as Kasper Hogh's hat-trick fires Celtic to an emphatic Scottish Premiership victory at Kilmarnock.",
+      "teams": [
+        "Scotland"
       ],
       "is_injury_related": false
     },
