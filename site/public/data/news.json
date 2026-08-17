@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-08-17T19:36:50.287338+00:00",
+  "generated_at": "2026-08-17T20:38:52.950727+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "705f366111d6",
+      "title": "Rodri lands in Barcelona to complete 'dream' move",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cevmw02j4nyo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-17T20:02:27+00:00",
+      "summary": "Spain midfielder Rodri says it is his \"dream\" to play for Barcelona as he arrives in the city to complete his move from Manchester City.",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "36736a76266b",
+      "title": "Rodri calls it ‘a dream to play for Barcelona’ as he flies in for medical",
+      "url": "https://www.theguardian.com/football/2026/aug/16/rodri-set-to-complete-barcelona-move-after-manchester-city-accept-654m-bid",
+      "source": "The Guardian",
+      "published_at": "2026-08-17T19:39:23+00:00",
+      "summary": "Spain midfielder in £65.4m move from Manchester City ‘I’m happy that everything has been resolved’ Rodri has said it is “a dream” to play for Barcelona after landing in Catalonia on Monday to complete his move from Manchester City. Spain’s World Cup-winning captain will have a me",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "32e49faae84d",
       "title": "Tottenham goalkeeper Guglielmo Vicario to leave for Juventus in loan deal",
@@ -161,30 +185,6 @@
       "summary": "She’s always been keen on the WSL, and the club have long had their eye on her – now the Norwegian midfielder feels ready to make an impact Emilie Joramo has long had her sights set on the Women’s Super League, but she held herself back from pushing for a move over from Scandinav",
       "teams": [
         "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "36736a76266b",
-      "title": "Rodri set to complete Barcelona move after Manchester City accept £65.4m bid",
-      "url": "https://www.theguardian.com/football/2026/aug/16/rodri-set-to-complete-barcelona-move-after-manchester-city-accept-654m-bid",
-      "source": "The Guardian",
-      "published_at": "2026-08-16T20:46:01+00:00",
-      "summary": "30-year-old said to favour a move back to Spain Maresca chasing Lille’s Bouaddi as replacement Rodri looks set to complete a move to Barcelona after Manchester City accepted a bid of £65.4m from the Spanish club. The 30-year-old World Cup winner had entered the final year of his ",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "7d282edd99a2",
-      "title": "Barcelona agree £65m deal to sign Rodri from Man City",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-16T19:37:45+00:00",
-      "summary": "Barcelona agree a deal to sign Spain captain Rodri from Manchester City.",
-      "teams": [
-        "Spain"
       ],
       "is_injury_related": false
     },
