@@ -1,10 +1,47 @@
 {
-  "generated_at": "2026-08-18T14:48:02.782647+00:00",
+  "generated_at": "2026-08-18T15:43:12.629929+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "c5322979636b",
+      "title": "Hart on Man City's rebuild, Chelsea's opportunity and Arsenal's title defence",
+      "url": "https://www.bbc.co.uk/sport/articles/cly5e5ezlj5o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-18T15:01:48+00:00",
+      "summary": "The former Manchester City and England goalkeeper believes Enzo Maresca will be given time to build.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "df9f4e548ee3",
+      "title": "Patrick Vieira appointed as head coach of Senegal, the country of his birth",
+      "url": "https://www.theguardian.com/football/2026/aug/18/patrick-vieira-appointed-as-senegal-head-coach",
+      "source": "The Guardian",
+      "published_at": "2026-08-18T14:48:30+00:00",
+      "summary": "Former Arsenal captain succeeds Pape Thiaw Senegal reached last 32 of this summer’s World Cup Patrick Vieira has been appointed as the head coach of Senegal. The Senegal-born former Arsenal captain has been out of work since leaving his post as manager of the Serie A side Genoa l",
+      "teams": [
+        "Belgium",
+        "Senegal"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "6e8d929f6b62",
+      "title": "Transfer roundup: Dedic completes £29.5m Newcastle move, Vicario joins Juventus",
+      "url": "https://www.theguardian.com/football/2026/aug/18/newcastle-sign-amar-dedic-benfica-transfer-window",
+      "source": "The Guardian",
+      "published_at": "2026-08-18T14:44:44+00:00",
+      "summary": "Right-back worked with Matthias Jaissle at RB Salzburg Sunderland to announce signing of Dayann Methalie The chance to be reunited with Matthias Jaissle convinced Amar Dedic to swap Benfica for Newcastle in a £29.5m transfer. Dedic becomes Newcastle’s sixth signing of a turbulent",
+      "teams": [
+        "Bosnia & Herzegovina"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "7a0faf322452",
       "title": "Vieira named new Senegal head coach",
@@ -17,18 +54,6 @@
         "Senegal"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "6e8d929f6b62",
-      "title": "‘Really happy’ Amar Dedic completes £29.5m move from Benfica to Newcastle",
-      "url": "https://www.theguardian.com/football/2026/aug/18/newcastle-sign-amar-dedic-benfica-transfer-window",
-      "source": "The Guardian",
-      "published_at": "2026-08-18T09:35:51+00:00",
-      "summary": "Right-back worked with Matthias Jaissle at RB Salzburg Sunderland to announce signing of Dayann Methalie The chance to be reunited with Matthias Jaissle convinced Amar Dedic to swap Benfica for Newcastle in a £29.5m transfer. Dedic becomes Newcastle’s sixth signing of a turbulent",
-      "teams": [
-        "Bosnia & Herzegovina"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "d27d593f55bb",
@@ -100,30 +125,6 @@
       "summary": "Spain midfielder in £65.4m move from Manchester City ‘I’m happy that everything has been resolved’ Rodri has said it is “a dream” to play for Barcelona after landing in Catalonia on Monday to complete his move from Manchester City. Spain’s World Cup-winning captain will have a me",
       "teams": [
         "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "32e49faae84d",
-      "title": "Tottenham goalkeeper Guglielmo Vicario to leave for Juventus in loan deal",
-      "url": "https://www.theguardian.com/football/2026/aug/17/tottenham-guglielmo-vicario-spurs-juventus-loan-deal-transfer-window",
-      "source": "The Guardian",
-      "published_at": "2026-08-17T17:09:17+00:00",
-      "summary": "Vicario has lost No 1 slot at Spurs to Antonin Kinsky Coventry and Ipswich also busy in the market Juventus have agreed a deal with Tottenham for Guglielmo Vicario to join on an initial loan after the Italian side decided against a move for Aston Villa’s Emiliano Martínez. Vicari",
-      "teams": [
-        "Argentina"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "6cec7c1b2fe8",
-      "title": "What will ticket arrangements be for Rangers v Celtic?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1k1x4pgnlmo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-17T16:46:57+00:00",
-      "summary": "A few months on from disorder at their last cup meeting at Ibrox, Rangers and Celtic are scheduled to meet at the same venue but the ticketing arrangements are still to be confirmed. BBC Scotland assesses the likely outcome.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
