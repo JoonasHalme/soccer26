@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-08-18T21:34:56.477414+00:00",
+  "generated_at": "2026-08-18T22:37:28.982931+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "9ee1faf5dfa1",
+      "title": "In Zavier Gozo, Crystal Palace land a US prospect living up to the hype",
+      "url": "https://www.theguardian.com/football/2026/aug/18/zavier-gozo-crystal-palace-mls-real-salt-lake-transfer",
+      "source": "The Guardian",
+      "published_at": "2026-08-18T21:32:42+00:00",
+      "summary": "The 19-year-old US youth international has turned heads in MLS this year, and is on the cusp of a USMNT breakthrough For much of the past year, the story of American starlet Zavier Gozo has been one of realizing potential – even in failure. Speaking with the Guardian the day afte",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "1ea41b483442",
       "title": "Palace sign United States prospect Gozo",
@@ -210,18 +222,6 @@
       "teams": [
         "Scotland",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "89ed19649c7d",
-      "title": "Ipswich sign Strasbourg duo Enciso & Ouattara",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwymzjwypezo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-17T14:51:19+00:00",
-      "summary": "Ipswich Town complete the signing of Julio Enciso and Abdoul Ouattara from French club Strasbourg.",
-      "teams": [
-        "France"
       ],
       "is_injury_related": false
     },
