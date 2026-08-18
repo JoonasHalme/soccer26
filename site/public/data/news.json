@@ -1,10 +1,58 @@
 {
-  "generated_at": "2026-08-18T20:36:26.665749+00:00",
+  "generated_at": "2026-08-18T21:34:56.477414+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "1ea41b483442",
+      "title": "Palace sign United States prospect Gozo",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpq80q88dyqo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-18T21:26:12+00:00",
+      "summary": "Crystal Palace sign forward Zavier Gozo from Real Salt Lake for a reported $15m (£11.08m).",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d00931fc98c2",
+      "title": "Al Hilal target England's Kane - Wednesday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70gdd61kk4o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-18T21:02:44+00:00",
+      "summary": "Al-Hilal in talks with Harry Kane and Ollie Watkins, Newcastle explore move for Manchester City's Nico Gonzalez, Sunderland move for Dayann Methalie in danger of collapsing.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d8aca5c89896",
+      "title": "Brighton sign Canada striker David on loan",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c30450z6pmmo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-18T20:43:01+00:00",
+      "summary": "Brighton sign Canada striker Promise David from Royale Union Saint-Gilloise on a season-long loan with an obligation to buy for a reported £22m.",
+      "teams": [
+        "Canada"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6926e1261db6",
+      "title": "Barcelona steal Rodri away from Real Madrid and plan to make him new Busquets",
+      "url": "https://www.theguardian.com/football/2026/aug/18/barcelona-snatch-rodri-from-madrid-and-make-him-new-busquets",
+      "source": "The Guardian",
+      "published_at": "2026-08-18T19:49:19+00:00",
+      "summary": "Spain’s World Cup-winning captain has completed his move to Camp Nou where he is a natural successor to club legend By the time Flight PTN27B started its descent into El Prat a bit before 8pm on Monday evening, a small crowd had gathered by the terminal doors, waiting for it to l",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "df44047b49c5",
       "title": "Irish striker Parrott on brink of Real Betis move",
