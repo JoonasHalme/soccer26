@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-08-18T16:45:40.473764+00:00",
+  "generated_at": "2026-08-18T17:38:40.661482+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "55a576684e9b",
+      "title": "Barcelona sign Rodri from Man City in £65m deal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2k7w3vwv5yo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-18T16:57:18+00:00",
+      "summary": "Barcelona sign Spain midfielder Rodri, the player of the 2026 World Cup, from Manchester City after a trophy-laden seven years with the Premier League club.",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "c5322979636b",
       "title": "Hart on Man City's rebuild, Chelsea's opportunity and Arsenal's title defence",
@@ -36,7 +48,7 @@
       "url": "https://www.theguardian.com/football/2026/aug/18/newcastle-sign-amar-dedic-benfica-transfer-window",
       "source": "The Guardian",
       "published_at": "2026-08-18T14:44:44+00:00",
-      "summary": "Right-back worked with Matthias Jaissle at RB Salzburg Sunderland to announce signing of Dayann Methalie The chance to be reunited with Matthias Jaissle convinced Amar Dedic to swap Benfica for Newcastle in a £29.5m transfer. Dedic becomes Newcastle’s sixth signing of a turbulent",
+      "summary": "Right-back worked with Matthias Jaissle at RB Salzburg Sunderland to announce signing of Dayann Methalie The chance to be reunited with ­Matthias Jaissle convinced Amar Dedic to swap Benfica for Newcastle in a £29.5m transfer. Dedic becomes Newcastle’s sixth signing of a turbulen",
       "teams": [
         "Bosnia & Herzegovina"
       ],
@@ -103,18 +115,6 @@
         "Turkey"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "705f366111d6",
-      "title": "Rodri lands in Barcelona to complete 'dream' move",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cevmw02j4nyo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-17T20:02:27+00:00",
-      "summary": "Spain midfielder Rodri says it is his \"dream\" to play for Barcelona as he arrives in the city to complete his move from Manchester City.",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "36736a76266b",
@@ -204,18 +204,6 @@
       "is_injury_related": false
     },
     {
-      "id": "d911cfe93bed",
-      "title": "Football transfer rumours: Manchester City to move for Alexis Mac Allister?",
-      "url": "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister",
-      "source": "The Guardian",
-      "published_at": "2026-08-17T07:42:16+00:00",
-      "summary": "Today’s fluff lacks community spirit After looking a tad silly in the Community Shield loss to Arsenal , with not having a midfield being one problem for Enzo Maresca and the further blow of Rodri’s departure getting closer, Manchester City really need some new blood. A surprise ",
-      "teams": [
-        "France"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "1cb1d9f4b244",
       "title": "Brighton’s Emilie Joramo: ‘I feel like I’m now in the place I want to be’",
       "url": "https://www.theguardian.com/football/2026/aug/17/brightons-emilie-joramo-i-feel-like-im-now-in-the-place-i-want-to-be",
@@ -224,20 +212,6 @@
       "summary": "She’s always been keen on the WSL, and the club have long had their eye on her – now the Norwegian midfielder feels ready to make an impact Emilie Joramo has long had her sights set on the Women’s Super League, but she held herself back from pushing for a move over from Scandinav",
       "teams": [
         "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "5236678fc038",
-      "title": "End of an era? South Korea’s sun sets in the Premier League but Japan rise",
-      "url": "https://www.theguardian.com/football/2026/aug/16/end-of-era-south-korea-japan-premier-league",
-      "source": "The Guardian",
-      "published_at": "2026-08-16T07:00:19+00:00",
-      "summary": "After glory days of Park Ji-sung and Son Heung-min, the new season could be Korean-free for first time since 2005 It has been a cruel summer for South Korea. The national team crashed and burned at the World Cup, the police are investigating the football association, reports have",
-      "teams": [
-        "South Korea",
-        "Japan",
-        "England"
       ],
       "is_injury_related": false
     },
