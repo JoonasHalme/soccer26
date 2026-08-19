@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-08-19T13:05:40.204368+00:00",
+  "generated_at": "2026-08-19T13:55:47.976489+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "fcb8e3709e22",
+      "title": "Arsenal agree £50m-plus deal to sign Villa's Konsa",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-19T13:55:18+00:00",
+      "summary": "Arsenal agree a deal worth more than £50m to sign Aston Villa and England defender Ezri Konsa.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ea00c3635931",
+      "title": "‘He doubted’: Mourinho says Real Madrid didn’t want Rodri after hesitation over move",
+      "url": "https://www.theguardian.com/football/2026/aug/19/jose-mourinho-real-madrid-rodri-barcelona-transfer-offer",
+      "source": "The Guardian",
+      "published_at": "2026-08-19T13:42:13+00:00",
+      "summary": "Mourinho: Madrid made midfielder ‘a very good offer’ Spain captain chose to join Barcelona instead for £65.4m José Mourinho has confirmed Real Madrid made Rodri an offer and that he spoke to him about joining the club, but claimed the player’s doubts about the transfer made him u",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "a3d649d6311c",
       "title": "Coventry sign teenage Fenerbahce forward Cherif",
@@ -19,11 +43,11 @@
     },
     {
       "id": "4775dff68fb3",
-      "title": "Aston Villa expect another bid from Al Hilal for Ollie Watkins",
+      "title": "Aston Villa expect another bid from Al-Hilal for Ollie Watkins",
       "url": "https://www.theguardian.com/football/2026/aug/19/aston-villa-al-hilal-ollie-watkins",
       "source": "The Guardian",
       "published_at": "2026-08-19T10:57:58+00:00",
-      "summary": "Offer of almost £40m rejected for England striker Watkins has two years left on his contract Aston Villa are braced for another bid from Al Hilal for Ollie Watkins, after rejecting an offer worth almost £40m for the striker. Al Hilal are pursuing a move for Villa’s all-time Premi",
+      "summary": "Offer of almost £40m rejected for England striker Watkins has two years left on his contract Aston Villa are braced for another bid from Al-Hilal for Ollie Watkins, after rejecting an offer worth almost £40m for the striker. Al-Hilal are pursuing a move for Villa’s all-time Premi",
       "teams": [
         "England"
       ],
@@ -83,9 +107,8 @@
       "url": "https://www.theguardian.com/football/2026/aug/19/football-transfer-rumours-al-hilal-eye-moves-for-harry-kane-and-ollie-watkins",
       "source": "The Guardian",
       "published_at": "2026-08-19T08:41:10+00:00",
-      "summary": "Today’s gossip is still on the beach It seems the possibility of winning the Ballon d’Or is not the only thing the England captain Harry Kane has been talking about recently. Well, his representatives at least. It is thought the Bayern Munich striker’s team have been in talks wit",
+      "summary": "Today’s gossip is still on the beach It seems the possibility of winning the Ballon d’Or is not the only thing the England captain, Harry Kane , has been talking about recently. Well, his representatives at least. It is thought Bayern Munich have been in talks with the Saudi Pro ",
       "teams": [
-        "Germany",
         "Saudi Arabia",
         "England"
       ],
@@ -262,20 +285,6 @@
         "Scotland"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "9fc5d29a09ca",
-      "title": "‘I’ll remember it for the rest of my life’: the footballers whose biggest games come before their league begins",
-      "url": "https://www.theguardian.com/football/2026/aug/17/footballers-games-champions-league-europa-conference-prize-money",
-      "source": "The Guardian",
-      "published_at": "2026-08-17T14:00:56+00:00",
-      "summary": "Larne defender Dan Bent has played in two European competitions this summer and now faces a former team in a Conference League tie that could earn his club vital funds By Playing in the Shadows Premier League footballers are gearing up for the start of the season, but some of the",
-      "teams": [
-        "Egypt",
-        "Argentina",
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "7bf82d305332",
