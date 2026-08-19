@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-08-19T11:35:40.753616+00:00",
+  "generated_at": "2026-08-19T13:05:40.204368+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "a3d649d6311c",
+      "title": "Coventry sign teenage Fenerbahce forward Cherif",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2v3721ykjo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-19T12:38:14+00:00",
+      "summary": "Nineteen-year-old Sidiki Cherif joins the Sky Blues on a long‑term deal after finishing last season with two goals in 12 games in Turkey's top flight.",
+      "teams": [
+        "Turkey"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "4775dff68fb3",
       "title": "Aston Villa expect another bid from Al Hilal for Ollie Watkins",
@@ -26,6 +38,18 @@
       "summary": "Jose Mourinho explains how he successfully persuaded Vinicius Jr to remain the Spanish club.",
       "teams": [
         "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "13de3724bfe8",
+      "title": "Wafcon 2026 review: Glory for Cameroon, Nigeria flop and Malawi cause a stir",
+      "url": "https://www.theguardian.com/sport/2026/aug/19/wafcon-2026-review-glory-for-cameroon-nigeria-flop-and-malawi-cause-a-stir",
+      "source": "The Guardian",
+      "published_at": "2026-08-19T10:00:13+00:00",
+      "summary": "Monique Ngock starred as Cameroon triumphed for the first time in a tournament of compelling surprises, even if crowd figures disappointed Cameroon became only the fourth country to lift the Women’s Africa Cup of Nations (Wafcon) title following Nigeria, Equatorial Guinea and Sou",
+      "teams": [
+        "South Africa"
       ],
       "is_injury_related": false
     },
@@ -161,19 +185,6 @@
       "summary": "Despite another reset with a new manager and fresh strategy, the boardroom drama persists at Stamford Bridge Perhaps, in hindsight, it was always going to end this way. As some of the world’s wealthiest investors scrambled to find funds after Vladimir Putin’s invasion of Ukraine ",
       "teams": [
         "Switzerland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "df9f4e548ee3",
-      "title": "Patrick Vieira appointed as head coach of Senegal, the country of his birth",
-      "url": "https://www.theguardian.com/football/2026/aug/18/patrick-vieira-appointed-as-senegal-head-coach",
-      "source": "The Guardian",
-      "published_at": "2026-08-18T14:48:30+00:00",
-      "summary": "Former Arsenal captain succeeds Pape Thiaw Senegal reached last 32 of this summer’s World Cup Senegal have appointed France’s 1998 World Cup winner Patrick Vieira as head coach, the country’s football federation announced, succeeding Pape Thiaw, who was dismissed in the wake of t",
-      "teams": [
-        "France",
-        "Senegal"
       ],
       "is_injury_related": false
     },
