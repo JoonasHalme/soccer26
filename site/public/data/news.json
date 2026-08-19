@@ -1,19 +1,33 @@
 {
-  "generated_at": "2026-08-19T08:51:37.632238+00:00",
+  "generated_at": "2026-08-19T09:45:53.515626+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "94ba8cd8fa3d",
-      "title": "Villa sign goalkeeper Suzuki and left-back Ruggeri",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7vg4962yp9o",
+      "id": "cd509d1ec314",
+      "title": "Pogba leaves Monaco after contract termination",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckgve2zevzgo",
       "source": "BBC Sport",
-      "published_at": "2026-08-19T08:41:07+00:00",
-      "summary": "Aston Villa spend around £47m to land Japan international goalkeeper Zion Sukuki and Italian left-back Matteo Ruggeri.",
+      "published_at": "2026-08-19T09:12:22+00:00",
+      "summary": "Former France midfielder Paul Pogba leaves Monaco his contract was terminated after just one season.",
       "teams": [
-        "Japan"
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "a94266a5af53",
+      "title": "Football transfer rumours: Al-Hilal eye moves for Harry Kane and Ollie Watkins?",
+      "url": "https://www.theguardian.com/football/2026/aug/19/football-transfer-rumours-al-hilal-eye-moves-for-harry-kane-and-ollie-watkins",
+      "source": "The Guardian",
+      "published_at": "2026-08-19T08:41:10+00:00",
+      "summary": "Today’s gossip is still on the beach It seems the possibility of winning the Ballon d’Or is not the only thing the England captain Harry Kane has been talking about recently. Well, his representatives at least. It is thought the Bayern Munich striker’s team have been in talks wit",
+      "teams": [
+        "Germany",
+        "Saudi Arabia",
+        "England"
       ],
       "is_injury_related": false
     },
