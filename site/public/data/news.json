@@ -1,10 +1,48 @@
 {
-  "generated_at": "2026-08-19T15:42:59.202600+00:00",
+  "generated_at": "2026-08-19T16:43:32.527888+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "4c746ba5acec",
+      "title": "Questions remain over Vieira deal amid Senegal uncertainty",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cddjvjqd5mro",
+      "source": "BBC Sport",
+      "published_at": "2026-08-19T16:26:06+00:00",
+      "summary": "Questions remain over the appointment of Patrick Vieira as Senegal's new head coach, with the country's football federation riven by off-field issues.",
+      "teams": [
+        "Senegal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "2498ea2196eb",
+      "title": "Referees’ chief Howard Webb ‘really troubled’ by Folarin Balogun escaping World Cup ban",
+      "url": "https://www.theguardian.com/football/2026/aug/19/referees-chief-howard-webb-really-troubled-by-folarin-balogun-escaping-world-cup-ban",
+      "source": "The Guardian",
+      "published_at": "2026-08-19T16:05:18+00:00",
+      "summary": "USA striker missed no matches after sending-off ‘Far too often now decisions are viewed as corrupt’ Howard Webb was “really troubled” by the decision of Fifa’s disciplinary committee to suspend Folarin Balogun’s ban for a red card during the World Cup, warning of a growing belief",
+      "teams": [
+        "USA",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "dfd705f8ea61",
+      "title": "Reijnders leaves Man City for Al-Qadsiah in £52m deal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0m7el3zr2eo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-19T16:01:32+00:00",
+      "summary": "Netherlands midfielder Tijjani Reijnders completes a £52m move to Saudi Arabian side Al-Qadsiah from Manchester City.",
+      "teams": [
+        "Netherlands",
+        "Saudi Arabia"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "4775dff68fb3",
       "title": "Arsenal agree £51m deal to sign Ezri Konsa from Aston Villa",
@@ -81,6 +119,18 @@
       "is_injury_related": false
     },
     {
+      "id": "8b1166ad723a",
+      "title": "Manchester United make £65m offer for Brighton’s Carlos Baleba",
+      "url": "https://www.theguardian.com/football/2026/aug/19/manchester-united-brighton-carlos-baleba",
+      "source": "The Guardian",
+      "published_at": "2026-08-19T12:01:14+00:00",
+      "summary": "Bid short of Brighton’s valuation for midfielder Reijnders leaves Manchester City for Saudi Arabia Manchester United are confident of signing Brighton’s Carlos Baleba for less than £75m, and the 22-year-old midfielder has agreed personal terms. United have made an initial offer o",
+      "teams": [
+        "Saudi Arabia"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "297f6c86fd2c",
       "title": "Mourinho told Vinicius Jr 'not worth' leaving Real",
       "url": "https://www.bbc.co.uk/sport/football/articles/cgq5wv43g8lo",
@@ -140,18 +190,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "b41d62c0e60d",
-      "title": "To the well and back - how Malaga returned to La Liga",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn8nx2wnjq9o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-19T08:01:45+00:00",
-      "summary": "After tumbling from the Champions League to the depths of Spain's semi-professional third tier, Malaga are back in La Liga after almost a decade away.",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "067d86801d67",
