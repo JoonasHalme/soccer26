@@ -1,17 +1,29 @@
 {
-  "generated_at": "2026-08-19T09:45:53.515626+00:00",
+  "generated_at": "2026-08-19T10:42:40.768692+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "50c5fe9fbd36",
+      "title": "Is Turkey home to savvy signings or a new retirement league? We’ll soon find out",
+      "url": "https://www.theguardian.com/football/2026/aug/19/turkey-super-lig-signings-salah-retirement-league",
+      "source": "The Guardian",
+      "published_at": "2026-08-19T10:00:12+00:00",
+      "summary": "Mohamed Salah’s arrival made a splash, but the Turkish Super Lig will probably become the latest league to end up as a bailout fund for Europe’s powerhouses Mohamed Salah plays in Turkey now. So do Romelu Lukaku and Leandro Trossard and Leroy Sané and Nathan Aké. Mason Greenwood ",
+      "teams": [
+        "Turkey"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "cd509d1ec314",
       "title": "Pogba leaves Monaco after contract termination",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckgve2zevzgo",
       "source": "BBC Sport",
       "published_at": "2026-08-19T09:12:22+00:00",
-      "summary": "Former France midfielder Paul Pogba leaves Monaco his contract was terminated after just one season.",
+      "summary": "Former France midfielder Paul Pogba leaves Monaco with his contract terminated after just one season.",
       "teams": [
         "France"
       ],
@@ -165,18 +177,6 @@
       "is_injury_related": false
     },
     {
-      "id": "c5322979636b",
-      "title": "Hart on Man City's rebuild, Chelsea's opportunity and Arsenal's title defence",
-      "url": "https://www.bbc.co.uk/sport/articles/cly5e5ezlj5o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-18T15:01:48+00:00",
-      "summary": "The former Manchester City and England goalkeeper believes Enzo Maresca will be given time to build.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "df9f4e548ee3",
       "title": "Patrick Vieira appointed as head coach of Senegal, the country of his birth",
       "url": "https://www.theguardian.com/football/2026/aug/18/patrick-vieira-appointed-as-senegal-head-coach",
@@ -299,20 +299,6 @@
       "summary": "Al-Nassr and Portugal forward expects to retire soon Ronaldo has more than 950 goals for club and country Cristiano Ronaldo believes this year is “probably” his last as a professional footballer, the 41-year-old Portugal captain said in an interview with Vogue magazine published ",
       "teams": [
         "Portugal"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "5236678fc038",
-      "title": "End of an era? South Korea’s sun sets in the Premier League but Japan rise",
-      "url": "https://www.theguardian.com/football/2026/aug/16/end-of-era-south-korea-japan-premier-league",
-      "source": "The Guardian",
-      "published_at": "2026-08-16T07:00:19+00:00",
-      "summary": "After glory days of Park Ji-sung and Son Heung-min, the new season could be Korean-free for first time since 2005 It has been a cruel summer for South Korea. The national team crashed and burned at the World Cup, the police are investigating the football association, reports have",
-      "teams": [
-        "South Korea",
-        "Japan",
-        "England"
       ],
       "is_injury_related": false
     },
