@@ -1,10 +1,23 @@
 {
-  "generated_at": "2026-08-19T16:43:32.527888+00:00",
+  "generated_at": "2026-08-19T17:37:00.132159+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "74cdf95ae826",
+      "title": "Kane plays down returning to Premier League in future",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clylkxekeleo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-19T17:14:38+00:00",
+      "summary": "Harry Kane says \"the itch isn't there as much anymore\" to one day return to England from Germany and try and break the all-time scoring record in the Premier League.",
+      "teams": [
+        "Germany",
+        "England"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "4c746ba5acec",
       "title": "Questions remain over Vieira deal amid Senegal uncertainty",
@@ -192,6 +205,18 @@
       "is_injury_related": false
     },
     {
+      "id": "b41d62c0e60d",
+      "title": "To the well and back - how Malaga returned to La Liga",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8nx2wnjq9o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-19T08:01:45+00:00",
+      "summary": "After tumbling from the Champions League to the depths of Spain's semi-professional third tier, Malaga are back in La Liga after almost a decade away.",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "067d86801d67",
       "title": "‘This isn’t normal in football’: Xisco, Malaysia and the new Invincibles",
       "url": "https://www.theguardian.com/football/2026/aug/19/xisco-malaysia-new-invincibles-football-johor-darul-tazim",
@@ -275,19 +300,6 @@
         "Switzerland"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "7a0faf322452",
-      "title": "Vieira named new Senegal head coach",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr49v9dn431o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-18T14:38:57+00:00",
-      "summary": "Former Arsenal and France captain Patrick Vieira is appointed as the new head coach of the Senegal men's national team.",
-      "teams": [
-        "France",
-        "Senegal"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "1358b4db091f",
