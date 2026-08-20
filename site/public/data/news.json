@@ -1,19 +1,43 @@
 {
-  "generated_at": "2026-08-20T21:38:36.323852+00:00",
+  "generated_at": "2026-08-20T22:41:06.577099+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "2b349543bc06",
+      "title": "McInnes' Rangers serve up stodgy 12-course banquet of huff and puff",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c98v73n24j2o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-20T22:09:11+00:00",
+      "summary": "Rangers beat Jablonec in the first leg of their Conference League play-off, but it wasn't a pretty watch, writes Tom English.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "05e99430519b",
       "title": "All done deals in August 2026",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
       "source": "BBC Sport",
-      "published_at": "2026-08-20T21:36:26+00:00",
+      "published_at": "2026-08-20T21:45:48+00:00",
       "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "teams": [
         "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8ef42a29bc24",
+      "title": "Ronaldinho, 46, on mission of love and happiness – and maybe goals – at Serie C’s Ravenna",
+      "url": "https://www.theguardian.com/football/2026/aug/20/ronaldinho-46-serie-c-ravenna-unveiling-comeback",
+      "source": "The Guardian",
+      "published_at": "2026-08-20T21:27:01+00:00",
+      "summary": "Brazilian legend pledges excitement at his unveiling for a comeback that is winning over initially disbelieving fans It seemed like a joke, a hoax, when at 10pm on 19 June, Ravenna broke the news of Ronaldinho’s signing . The Brazilian, a former Ballon d’Or winner and one of the ",
+      "teams": [
+        "Brazil"
       ],
       "is_injury_related": false
     },
@@ -154,6 +178,18 @@
       "is_injury_related": false
     },
     {
+      "id": "9e95743b0dc5",
+      "title": "Police watchdog calls for live facial recognition to tackle football disorder",
+      "url": "https://www.bbc.co.uk/news/articles/c1l138rgz83o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-20T09:44:47+00:00",
+      "summary": "The head of the Scottish police watchdog is calling for the introduction of new technology to stop disorder on and off the pitch.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "adeee230f9a9",
       "title": "Premier League season preview: Hull City to Spurs | Football Weekly video",
       "url": "https://www.theguardian.com/football/video/2026/aug/20/premier-league-season-preview-hull-city-to-tottenham-football-weekly-video",
@@ -199,55 +235,6 @@
       "teams": [
         "Australia",
         "Portugal"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f0a8f2c26756",
-      "title": "Algorithms amplified World Cup racism, says report",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2k7en0lxkjo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-19T23:02:14+00:00",
-      "summary": "Racist abuse aimed at England footballers on social media was amplified during the World Cup by algorithms designed to maximise engagement and profit, according to new research.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "10988330563e",
-      "title": "Bodo/Glimt in strong position following first-leg win at NEC",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c62v4v90yd9o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-19T21:29:50+00:00",
-      "summary": "Last season's Champions League fairytale side Bodo/Glimt look set to qualify for this year's edition of the competition after winning 3-1 away at NEC Nijmegen of the Netherlands.",
-      "teams": [
-        "Netherlands"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "171b54cc0de2",
-      "title": "Viking fight back to claim thrilling first-leg draw at Dinamo Zagreb",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwymzewv14no",
-      "source": "BBC Sport",
-      "published_at": "2026-08-19T21:06:40+00:00",
-      "summary": "Norway's Viking FK complete a comeback from two behind to hold Dinamo Zagreb of Croatia to a 2-2 draw in the first leg of their Champions League play-off.",
-      "teams": [
-        "Norway",
-        "Croatia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f9de1f39d6d9",
-      "title": "Duran's incredible double edges Celtic closer to Champions League",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crmrydv4ww0o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-19T21:00:41+00:00",
-      "summary": "Camilo Duran scores two excellent goals for Celtic in the first leg of their Champions League play-off against Austria's LASK, finding the top corner with a volley and curling an effort past Lukas Jungwirth in the visitors' goal.",
-      "teams": [
-        "Austria"
       ],
       "is_injury_related": false
     },
@@ -410,6 +397,54 @@
         "Argentina"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "e11d8d9aa1af",
+      "title": "Hearts thump Dundee United for Vrancken's first win",
+      "url": "https://www.bbc.co.uk/sport/videos/cwymd7mmnddo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-10T09:32:13+00:00",
+      "summary": "Hearts fire four past Dundee United in the Scottish Premiership as head coach Wouter Vrancken earns his first victory at the fifth attempt.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "313a7aa743ab",
+      "title": "Hogh hat-trick fires Celtic to win at Kilmarnock",
+      "url": "https://www.bbc.co.uk/sport/videos/cj6302d4n79o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-10T09:13:48+00:00",
+      "summary": "Watch Sportscene highlights as Kasper Hogh's hat-trick fires Celtic to an emphatic Scottish Premiership victory at Kilmarnock.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "c2f063ee63cb",
+      "title": "Watch Guimaraes' best moments after Arsenal sign midfield maestro",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cp3r469vq79o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-08T11:09:40+00:00",
+      "summary": "Watch Bruno Guimaraes' best Premier League moments after Arsenal sign the Brazil midfielder from Newcastle.",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b670e9a55106",
+      "title": "Partick Thistle beat Livingston in Scottish Championship",
+      "url": "https://www.bbc.co.uk/sport/videos/c98vppyny3go",
+      "source": "BBC Sport",
+      "published_at": "2026-08-07T21:25:41+00:00",
+      "summary": "An early Robbie Crawford back-heel and a Cammy MacPherson own goal give Partick Thistle victory over Livingston as two of the promotion favourites meet in the Scottish Championship at Firhill.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
     }
   ]
 }
