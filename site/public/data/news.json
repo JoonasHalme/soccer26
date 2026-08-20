@@ -1,10 +1,46 @@
 {
-  "generated_at": "2026-08-20T15:45:48.669717+00:00",
+  "generated_at": "2026-08-20T16:48:11.521613+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "05e99430519b",
+      "title": "All done deals in August 2026",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-20T15:50:17+00:00",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "9c001d334e88",
+      "title": "‘Enzo is a Chelsea player,’ says Alonso but doesn’t guarantee Fernández’s future",
+      "url": "https://www.theguardian.com/football/2026/aug/20/enzo-fernandez-chelsea-xabi-alonso-manchester-city-transfer",
+      "source": "The Guardian",
+      "published_at": "2026-08-20T15:50:12+00:00",
+      "summary": "Midfielder linked with £120m move to Manchester City Chelsea still interested in Bournemouth’s Alex Scott Xabi Alonso has refused to offer any guarantee that Chelsea will hold firm if Manchester City try to sign Enzo Fernández. Fernández’s future remains up in the air and the pro",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d06006b82740",
+      "title": "Maracanã to host opening game and final at next year’s Women’s World Cup",
+      "url": "https://www.theguardian.com/football/2026/aug/20/maracana-to-host-opening-game-and-final-at-next-years-womens-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-08-20T15:25:54+00:00",
+      "summary": "Stadium has hosted two men’s World Cup finals Arena Itaquera in São Paulo will host 10 matches The Maracanã in Rio de Janeiro will host the opening game and the final of next year’s Women’s World Cup. The 78,838-capacity stadium, which hosted the finals of the 1950 and 2014 men’s",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "820729945d94",
       "title": "Cancelo makes 'dream' Barca move after Al-Hilal exit",
@@ -23,24 +59,12 @@
       "url": "https://www.theguardian.com/football/2026/aug/20/yirenkyi-completes-rapid-journey-from-ghana-to-coventry-via-denmark",
       "source": "The Guardian",
       "published_at": "2026-08-20T14:29:33+00:00",
-      "summary": "Coventry’s record signing is set to make a big top-flight impact after emerging from Right to Dream academy It is mid-July in Kössen, an Austrian village on the edge of the Alps, close to the German border, at Nordsjælland’s pre-season camp. The Danish Superliga club’s coaching s",
+      "summary": "Coventry’s £26m record signing from Nordsjælland, a Right to Dream academy alumnus, can make a top-flight splash It is mid-July in Kössen, an Austrian village on the edge of the Alps, close to the German border, at Nordsjælland’s pre-season camp. The Danish Superliga club’s coach",
       "teams": [
         "Germany",
         "Ghana"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "05e99430519b",
-      "title": "All done deals in August 2026",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-20T13:15:43+00:00",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "e28f4ce6f3cc",
@@ -190,19 +214,6 @@
       "is_injury_related": false
     },
     {
-      "id": "2498ea2196eb",
-      "title": "‘Believe your eyes’: Masters says Premier League’s integrity cannot be doubted",
-      "url": "https://www.theguardian.com/football/2026/aug/19/referees-chief-howard-webb-really-troubled-by-folarin-balogun-escaping-world-cup-ban",
-      "source": "The Guardian",
-      "published_at": "2026-08-19T21:08:21+00:00",
-      "summary": "CEO says English football is ‘everything that it should be’ Concern over perception following World Cup scandal Richard Masters has sought to reassure fans that the Premier League remains “everything that it should be” after the Folarin Balogun red-card scandal called the integri",
-      "teams": [
-        "USA",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "171b54cc0de2",
       "title": "Viking fight back to claim thrilling first-leg draw at Dinamo Zagreb",
       "url": "https://www.bbc.co.uk/sport/football/videos/cwymzewv14no",
@@ -278,18 +289,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "ea00c3635931",
-      "title": "‘He doubted’: Mourinho says Real Madrid did not want Rodri after hesitation over move",
-      "url": "https://www.theguardian.com/football/2026/aug/19/jose-mourinho-real-madrid-rodri-barcelona-transfer-offer",
-      "source": "The Guardian",
-      "published_at": "2026-08-19T13:42:13+00:00",
-      "summary": "Mourinho: Madrid made midfielder ‘a very good offer’ Spain captain chose to join Barcelona instead for £65.4m José Mourinho has confirmed Real Madrid made Rodri an offer and that he spoke to him about joining the club, but claimed the player’s doubts about the transfer made him u",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "13de3724bfe8",
