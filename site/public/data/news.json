@@ -1,10 +1,23 @@
 {
-  "generated_at": "2026-08-20T19:40:47.405709+00:00",
+  "generated_at": "2026-08-20T20:41:46.929709+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "b5cdca94c2e2",
+      "title": "Parrott makes move to Real Betis from AZ Alkmaar",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdew1782493o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-20T20:15:59+00:00",
+      "summary": "Republic of Ireland striker Troy Parrott completes his transfer from Dutch team AZ Alkmaar to Spanish side Real Betis.",
+      "teams": [
+        "Netherlands",
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "b360cea7619d",
       "title": "Confident Matthias Jaissle asks Newcastle to ‘avoid the negativity from outside’",
@@ -99,18 +112,6 @@
       "summary": "Format would resemble that of Australian rules football League will ditch conferences for five-division setup Major League Soccer is planning a significant overhaul of its playoff format, multiple league and club sources told the Guardian this week. The changes, which would debut",
       "teams": [
         "Australia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "eb9910edbf09",
-      "title": "Who replaces Salah as Africa's Premier League king?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20dgvp9445o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-20T11:03:10+00:00",
-      "summary": "Following Mohamed Salah's Liverpool exit after nine seasons, who could take the Egyptian King's crown as Africa's biggest Premier League star?",
-      "teams": [
-        "Egypt"
       ],
       "is_injury_related": false
     },
