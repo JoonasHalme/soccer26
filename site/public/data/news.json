@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-08-20T07:02:31.359572+00:00",
+  "generated_at": "2026-08-20T07:53:16.415335+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "e31e9cc17881",
+      "title": "Football transfer rumours: Newcastle to sign Manchester City’s Nico González?",
+      "url": "https://www.theguardian.com/football/2026/aug/20/football-transfer-rumours-newcastle-nico-gonzalez-manchester-united-aston-villa",
+      "source": "The Guardian",
+      "published_at": "2026-08-20T07:35:41+00:00",
+      "summary": "Today’s fluff awaits the rainbow A Manchester City clearout is in the offing, which could aid Newcastle’s search for a new central midfielder to replace the departed Sandro Tonali and Bruno Guimarães. Nico González could be packing his bags to head up to St James’ Park, having ne",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "9d9475fb15ce",
+      "title": "Podcast: Who makes it through? Big calls on Rangers, Hearts, Hibs and Motherwell",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p5dst3",
+      "source": "BBC Sport",
+      "published_at": "2026-08-20T07:00:00+00:00",
+      "summary": "Big predictions ahead of a huge European night for Scottish football.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "cb2a1a76cd3c",
       "title": "St Mirren agree loan deal for Ramsay - gossip",
@@ -14,6 +38,18 @@
       "summary": "St Mirren agree deal for Liverpool right-back as Scotland forward set for big money move.",
       "teams": [
         "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f9a5dccf469a",
+      "title": "Instant classics, odd inspirations and barcodes: 2026-27’s best and worst kits",
+      "url": "https://www.theguardian.com/football/2026/aug/20/instant-classics-odd-inspirations-and-barcodes-2025-26s-best-and-worst-kits",
+      "source": "The Guardian",
+      "published_at": "2026-08-20T05:00:44+00:00",
+      "summary": "A look at six of the best and worst of the new season’s strips gives us Pro Evo chic, throwbacks done right, and how – and how not – to use stripes The Premier League season kicks off on Friday and league debutants such as Christos Tzolis and Victor Muñoz , along with masses of f",
+      "teams": [
+        "USA"
       ],
       "is_injury_related": false
     },
@@ -101,18 +137,6 @@
       "summary": "Camilo Duran scores two excellent goals for Celtic in the first leg of their Champions League play-off against Austria's LASK, finding the top corner with a volley and curling an effort past Lukas Jungwirth in the visitors' goal.",
       "teams": [
         "Austria"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f10d2e958ce4",
-      "title": "Manchester City target Roma’s Manu Koné as Spurs talk over Savinho and Marmoush deal",
-      "url": "https://www.theguardian.com/football/2026/aug/19/manchester-city-target-romas-manu-kone-as-spurs-talk-over-savinho-and-marmoush-deal",
-      "source": "The Guardian",
-      "published_at": "2026-08-19T20:56:13+00:00",
-      "summary": "France World Cup midfielder could cost £50m Tottenham discussing £150m double deal for forward pair Manchester City have identified Roma’s Manu Koné as a potential target to strengthen further Enzo Maresca’s options in midfield. While City have already bought Elliot Anderson for ",
-      "teams": [
-        "France"
       ],
       "is_injury_related": false
     },
@@ -254,18 +278,6 @@
       "is_injury_related": false
     },
     {
-      "id": "8b1166ad723a",
-      "title": "Manchester United make £65m offer for Brighton’s Carlos Baleba",
-      "url": "https://www.theguardian.com/football/2026/aug/19/manchester-united-brighton-carlos-baleba",
-      "source": "The Guardian",
-      "published_at": "2026-08-19T12:01:14+00:00",
-      "summary": "Bid short of Brighton’s valuation for midfielder Reijnders leaves Manchester City for Saudi Arabia Manchester United are confident of signing Brighton’s Carlos Baleba for less than £75m, and the 22-year-old midfielder has agreed personal terms. United have made an initial offer o",
-      "teams": [
-        "Saudi Arabia"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "297f6c86fd2c",
       "title": "Mourinho told Vinicius Jr 'not worth' leaving Real",
       "url": "https://www.bbc.co.uk/sport/football/articles/cgq5wv43g8lo",
@@ -351,18 +363,6 @@
       "is_injury_related": false
     },
     {
-      "id": "6926e1261db6",
-      "title": "Barcelona steal Rodri away from Real Madrid and plan to make him new Busquets",
-      "url": "https://www.theguardian.com/football/2026/aug/18/barcelona-snatch-rodri-from-madrid-and-make-him-new-busquets",
-      "source": "The Guardian",
-      "published_at": "2026-08-18T19:49:19+00:00",
-      "summary": "Spain’s World Cup-winning captain has completed his move to Camp Nou where he is a natural successor to club legend By the time Flight PTN27B started its descent into El Prat a bit before 8pm on Monday evening, a small crowd had gathered by the terminal doors, waiting for it to l",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "55a576684e9b",
       "title": "Rodri ready for 'excitement again' after Barca complete £65m deal",
       "url": "https://www.bbc.co.uk/sport/football/articles/c2k7w3vwv5yo",
@@ -371,19 +371,6 @@
       "summary": "Barcelona sign Spain midfielder Rodri, the player of the 2026 World Cup, from Manchester City after a trophy-laden seven years with the Premier League club.",
       "teams": [
         "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "1358b4db091f",
-      "title": "Football transfer rumours: Atlético want Alvarez to join Arsenal over Barça?",
-      "url": "https://www.theguardian.com/football/2026/aug/18/football-transfer-rumour-mill-atletico-madrid-julian-alvarez-arsenal-barcelona",
-      "source": "The Guardian",
-      "published_at": "2026-08-18T08:35:44+00:00",
-      "summary": "Today’s gossip is being advertised in imaginative ways A new Premier League season is only days away, so it stands to reason that a few clubs are getting panicky in the transfer market. Newcastle are certainly in need of some fresh faces after being raided earlier in the summer s",
-      "teams": [
-        "Belgium",
-        "Austria"
       ],
       "is_injury_related": false
     },
@@ -409,18 +396,6 @@
       "teams": [
         "Scotland",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "6d1b276380f6",
-      "title": "Football Daily | Pocognoli looks the part as Scotland’s new boss but a question remains: can he boogie?",
-      "url": "https://www.theguardian.com/football/2026/aug/17/sebastien-pocognoli-scotland-football-daily-newsletter",
-      "source": "The Guardian",
-      "published_at": "2026-08-17T14:33:16+00:00",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! When Berti Vogts was unveiled as Scotland’s first foreign manager, back in 2002, he had a simple instruction . “When we are playing,” he said, “you can call me Berti McVogts!” Scotland fans preferred a slightly courser sobriquet",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
