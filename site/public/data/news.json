@@ -1,10 +1,35 @@
 {
-  "generated_at": "2026-08-21T13:57:31.515343+00:00",
+  "generated_at": "2026-08-21T14:49:47.021863+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "05e99430519b",
+      "title": "All done deals in August 2026",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-21T14:21:36+00:00",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d86af63992ae",
+      "title": "Argentina's Paredes banned for 10 games after World Cup clashes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c98v7p1pr3eo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-21T14:20:26+00:00",
+      "summary": "Fifa ban Argentina midfielder Leandro Paredes for 10 matches over his role in clashes with Spanish players after the World Cup final.",
+      "teams": [
+        "Spain",
+        "Argentina"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "59de56816f19",
       "title": "England Women U20s squad named amid boycott threat",
@@ -16,18 +41,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "05e99430519b",
-      "title": "All done deals in August 2026",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-21T12:52:03+00:00",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "4777eab14303",
