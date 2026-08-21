@@ -1,10 +1,23 @@
 {
-  "generated_at": "2026-08-21T17:40:14.236277+00:00",
+  "generated_at": "2026-08-21T18:52:22.669741+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "c24295d9e252",
+      "title": "Mohamed Salah: Inside his move to Trabzonspor",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx2reg4knn5o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-21T17:44:55+00:00",
+      "summary": "Mohamed Salah was expected to move to Saudi Arabia or the United States after leaving Liverpool, but Turkish side Trabzonspor pulled off one of the coups of the transfer window.",
+      "teams": [
+        "USA",
+        "Saudi Arabia"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "05e99430519b",
       "title": "All done deals in August 2026",
@@ -144,18 +157,6 @@
       "is_injury_related": false
     },
     {
-      "id": "eb675e517757",
-      "title": "Inverness dream big after dark days - watch Partick Thistle match on BBC",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c87nz9dwlddo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-21T07:19:37+00:00",
-      "summary": "Inverness Caledonian Thistle have been through a lot in 12 months and now harbour ambitions of returning to the top flight. Watch their Friday BBC Scotland live match with Partick Thistle.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "784a23685388",
       "title": "PSG are the best team in Europe. The rest of Ligue 1 are just trying to survive",
       "url": "https://www.theguardian.com/football/2026/aug/21/psg-team-europe-ligue-1-survive-france-premier-league",
@@ -234,18 +235,6 @@
       "source": "The Guardian",
       "published_at": "2026-08-20T21:27:01+00:00",
       "summary": "Brazilian legend pledges excitement at his unveiling for a comeback that is winning over initially disbelieving fans It seemed like a joke, a hoax, when at 10pm on 19 June, Ravenna broke the news of Ronaldinho’s signing . The Brazilian, a former Ballon d’Or winner and one of the ",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "30636b068279",
-      "title": "Ronaldinho seeks 300th goal with comeback aged 46",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2lq5dk0gneo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-20T20:58:57+00:00",
-      "summary": "Brazil great Ronaldinho says he hopes he can score his 300th career goal after announcing a comeback at the age of 46 at Italian third-tier side Ravenna.",
       "teams": [
         "Brazil"
       ],
