@@ -1,10 +1,36 @@
 {
-  "generated_at": "2026-08-21T16:48:21.585552+00:00",
+  "generated_at": "2026-08-21T17:40:14.236277+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "05e99430519b",
+      "title": "All done deals in August 2026",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-21T17:34:27+00:00",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "343314a9898c",
+      "title": "Leandro Paredes receives 10-match ban as Argentina punished for World Cup final brawl",
+      "url": "https://www.theguardian.com/football/2026/aug/21/fifa-leandro-paredes-argentina-spain-world-cup-final-brawl",
+      "source": "The Guardian",
+      "published_at": "2026-08-21T16:14:16+00:00",
+      "summary": "Nahuel Molina, Thiago Almada and Gavi also suspended Fifa issue $321,000 fine for Falkland Islands banner Three Argentina players have been banned for their part in a brawl at the end of last month’s World Cup final against Spain , but they have only been fined for displaying a F",
+      "teams": [
+        "Spain",
+        "Argentina",
+        "England"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "ce0191a0ef4d",
       "title": "The Premier League returns, F1’s Dutch Grand Prix and The Greatest Rivalry – follow with us",
@@ -56,18 +82,6 @@
       "is_injury_related": false
     },
     {
-      "id": "05e99430519b",
-      "title": "All done deals in August 2026",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-21T14:21:36+00:00",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "59de56816f19",
       "title": "England Women U20s squad named amid boycott threat",
       "url": "https://www.bbc.co.uk/sport/football/articles/c2el8j10vl3o",
@@ -101,18 +115,6 @@
       "teams": [
         "France",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "c83a923c2af4",
-      "title": "West Ham's Wan‑Bissaka joins Aston Villa on loan",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c629pr7lwd1o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-21T10:24:16+00:00",
-      "summary": "DR Congo right-back Aaron Wan‑Bissaka arrives at Villa Park on an initial loan deal with a \"conditional obligation to buy\".",
-      "teams": [
-        "DR Congo"
       ],
       "is_injury_related": false
     },
