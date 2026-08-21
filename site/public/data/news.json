@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-08-21T20:36:45.073859+00:00",
+  "generated_at": "2026-08-21T21:35:21.182844+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "730b98ef11c3",
+      "title": "Bavidge earns Inverness CT a point against Partick Thistle",
+      "url": "https://www.bbc.co.uk/sport/videos/cvgl2zz12xeo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-21T20:42:09+00:00",
+      "summary": "Watch the goals as Alfie Bavidge's late goal earns Inverness Caledonian Thistle a draw against Partick Thistle in the Scottish Championship.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "c24295d9e252",
       "title": "Mohamed Salah: Inside his move to Trabzonspor",
@@ -470,18 +482,6 @@
       "summary": "Watch Bruno Guimaraes' best Premier League moments after Arsenal sign the Brazil midfielder from Newcastle.",
       "teams": [
         "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "b670e9a55106",
-      "title": "Partick Thistle beat Livingston in Scottish Championship",
-      "url": "https://www.bbc.co.uk/sport/videos/c98vppyny3go",
-      "source": "BBC Sport",
-      "published_at": "2026-08-07T21:25:41+00:00",
-      "summary": "An early Robbie Crawford back-heel and a Cammy MacPherson own goal give Partick Thistle victory over Livingston as two of the promotion favourites meet in the Scottish Championship at Firhill.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     }
