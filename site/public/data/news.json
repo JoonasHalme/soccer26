@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T22:37:35.032424+00:00",
+  "generated_at": "2026-08-21T23:35:09.287052+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -144,6 +144,18 @@
       "is_injury_related": false
     },
     {
+      "id": "28396b087f56",
+      "title": "Football transfer rumours: Endrick to Liverpool? Arsenal to swap Martinelli for Yildiz?",
+      "url": "https://www.theguardian.com/football/2026/aug/21/football-transfer-rumours-endrick-to-liverpool-arsenal-to-swap-martinelli-for-yildiz",
+      "source": "The Guardian",
+      "published_at": "2026-08-21T07:41:43+00:00",
+      "summary": "Today’s fluff does not do Sudoku Since Vinícius Júnior signed a shiny new deal at Real Madrid, Arsenal have been having to look elsewhere for a new winger. Turkey’s and Juventus’s Kenan Yildizm is of interest to Mikel Arteta and the Gunners hierarchy. One potential way of getting",
+      "teams": [
+        "Turkey"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "d0d187db0a2c",
       "title": "Manchester City set to sell Savinho and Omar Marmoush to Spurs for combined £160m",
       "url": "https://www.theguardian.com/football/2026/aug/21/tottenham-hotspur-close-on-deals-for-manchester-city-savinho-omar-marmoush",
@@ -286,18 +298,6 @@
       "summary": "Max Rushden is joined by Barry Glendenning, Nicky Bandini and Jordan Jarrett-Bryan for the second of our Premier League preview podcasts. Continue reading...",
       "teams": [
         "Jordan"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "e31e9cc17881",
-      "title": "Football transfer rumours: Newcastle to sign Manchester City’s Nico González?",
-      "url": "https://www.theguardian.com/football/2026/aug/20/football-transfer-rumours-newcastle-nico-gonzalez-manchester-united-aston-villa",
-      "source": "The Guardian",
-      "published_at": "2026-08-20T07:35:41+00:00",
-      "summary": "Today’s fluff awaits the rainbow A Manchester City clearout is in the offing, which could aid Newcastle’s search for a new central midfielder to replace the departed Sandro Tonali and Bruno Guimarães. Nico González could be packing his bags to head up to St James’ Park, having ne",
-      "teams": [
-        "Brazil"
       ],
       "is_injury_related": true
     },
