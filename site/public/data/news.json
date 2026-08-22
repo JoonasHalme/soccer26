@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T13:40:43.844187+00:00",
+  "generated_at": "2026-08-22T14:34:33.470788+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -49,6 +49,18 @@
       "source": "BBC Sport",
       "published_at": "2026-08-21T20:42:09+00:00",
       "summary": "Watch the goals as Alfie Bavidge's late goal earns Inverness Caledonian Thistle a draw against Partick Thistle in the Scottish Championship.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6f491c5d79f5",
+      "title": "Eight more arrests after Celtic title party disorder",
+      "url": "https://www.bbc.co.uk/news/articles/c62ep6dm4yqo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-21T18:43:02+00:00",
+      "summary": "Police Scotland say the number of arrests over trouble which flared in the city centre in May is now up to 32.",
       "teams": [
         "Scotland"
       ],
@@ -214,18 +226,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "1181ee86e4d5",
-      "title": "Podcast: Dundee derby bragging rights & which Scottish teams will survive in Europe?",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p5mpqx",
-      "source": "BBC Sport",
-      "published_at": "2026-08-21T07:00:00+00:00",
-      "summary": "Europe: what happens next week? Plus Dundee Derby debate ahead of a crucial weekend.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "e9fdc1bf76d7",
