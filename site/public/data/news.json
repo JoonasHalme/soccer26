@@ -1,17 +1,29 @@
 {
-  "generated_at": "2026-08-22T17:32:54.903533+00:00",
+  "generated_at": "2026-08-22T18:45:49.144133+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "2c096e61d03b",
+      "title": "Ex-West Brom midfielder Castro, 25, dies during friendly",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8dnd416pzyo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-22T18:06:43+00:00",
+      "summary": "Former West Brom midfielder Quevin Castro dies at the age of 25 after collapsing during a match in Portugal.",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "09ed62e9a5d3",
-      "title": "Jack Clarke’s last-minute strike secures Ipswich winning return against Sunderland",
+      "title": "Enciso shines bright for Ipswich as Emersonn and Clarke sink Sunderland",
       "url": "https://www.theguardian.com/football/2026/aug/22/ipswich-sunderland-premier-league-match-report",
       "source": "The Guardian",
       "published_at": "2026-08-22T16:23:36+00:00",
-      "summary": "It would be fascinating to know what recruitment algorithms or eagle-eyed staff in Ipswich’s recruitment department spotted the potential and capability in Emersonn to score the goals to keep them in the Premier League. Thirteen games, no goals and a serious knee injury at the Br",
+      "summary": "It would be fascinating to know which algorithms or eagle-eyed staff in Ipswich’s recruitment department spotted the potential in Emersonn to score the goals to keep them in the Premier League. Thirteen games, no goals and a serious knee injury at the Brazilian side Athletico Par",
       "teams": [
         "Brazil",
         "France",
@@ -42,18 +54,6 @@
         "Scotland"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "b48386a688a4",
-      "title": "Depay defends music video showing Corinthians HQ on fire",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2l2565l90o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-22T12:22:26+00:00",
-      "summary": "Netherlands forward Memphis Depay says having Corinthians HQ, Parque São Jorge, in flames for a music video is \"just art\".",
-      "teams": [
-        "Netherlands"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "966eed62dbdd",
@@ -152,19 +152,6 @@
       "summary": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports Continue reading...",
       "teams": [
         "Netherlands"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "d86af63992ae",
-      "title": "Argentina's Paredes banned for 10 games after World Cup clashes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c98v7p1pr3eo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-21T15:26:05+00:00",
-      "summary": "Fifa ban Argentina midfielder Leandro Paredes for 10 matches over his role in clashes with Spanish players after the World Cup final.",
-      "teams": [
-        "Spain",
-        "Argentina"
       ],
       "is_injury_related": true
     },
