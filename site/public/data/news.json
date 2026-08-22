@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-08-22T14:34:33.470788+00:00",
+  "generated_at": "2026-08-22T15:32:36.405486+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "43dc2e4238ac",
+      "title": "Villa close to signing Germany midfielder Goretzka",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cnvnvjer47mo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-22T14:39:46+00:00",
+      "summary": "Aston Villa are close to signing free agent Leon Goretzka, who left Bayern Munich in the summer after eight years.",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "cca6b9bd8e96",
+      "title": "Can Pocognoli afford to continue McBurnie's Scotland exile?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crrvr9xgqx5o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-22T14:34:07+00:00",
+      "summary": "With a fresh face in the Scotland dugout, are excuses running dry about whether Oli McBurnie should feature in Sebastien Pocognoli's first squad next month?",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "b48386a688a4",
       "title": "Depay defends music video showing Corinthians HQ on fire",
@@ -167,19 +191,6 @@
       "is_injury_related": true
     },
     {
-      "id": "52343f230011",
-      "title": "The inside story of how Trabzonspor pulled off Salah deal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg0jgy929do",
-      "source": "BBC Sport",
-      "published_at": "2026-08-21T09:41:46+00:00",
-      "summary": "Mohamed Salah was expected to move to Saudi Arabia or the United States after leaving Liverpool, but Turkish side Trabzonspor pulled off one of the coups of the transfer window.",
-      "teams": [
-        "USA",
-        "Saudi Arabia"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "28396b087f56",
       "title": "Football transfer rumours: Endrick to Liverpool? Arsenal to swap Martinelli for Yildiz?",
       "url": "https://www.theguardian.com/football/2026/aug/21/football-transfer-rumours-endrick-to-liverpool-arsenal-to-swap-martinelli-for-yildiz",
@@ -216,18 +227,6 @@
       "is_injury_related": true
     },
     {
-      "id": "a43a4afacfc1",
-      "title": "New rules, managers and pundits: what’s different this Premier League season?",
-      "url": "https://www.theguardian.com/football/2026/aug/21/new-rules-managers-pundits-premier-league-season-2026-2027",
-      "source": "The Guardian",
-      "published_at": "2026-08-21T07:00:27+00:00",
-      "summary": "A crackdown on time wasting, a record number of new people in charge, and some new faces on Match of the Day The 2026-27 Premier League season kicks off on Friday and while the familiar rivalries return, the English top flight has some alterations this campaign. From evolved rule",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "e9fdc1bf76d7",
       "title": "Premier League: 10 things to look out for as the new season kicks off",
       "url": "https://www.theguardian.com/football/2026/aug/21/premier-league-10-things-to-look-out-for-as-new-season-kicks-off",
@@ -238,18 +237,6 @@
         "Brazil"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "2b349543bc06",
-      "title": "McInnes' Rangers serve up stodgy 12-course banquet of huff and puff",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c98v73n24j2o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-20T22:09:11+00:00",
-      "summary": "Rangers beat Jablonec in the first leg of their Conference League play-off, but it wasn't a pretty watch, writes Tom English.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "8ef42a29bc24",
