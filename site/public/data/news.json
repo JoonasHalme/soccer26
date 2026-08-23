@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T06:57:40.915170+00:00",
+  "generated_at": "2026-08-23T07:43:56.243256+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -14,18 +14,6 @@
       "summary": "Manchester City will \"try to find the new Rodri\" after the Spain captain left the club earlier this week to join La Liga champions Barcelona, says manager Enzo Maresca.",
       "teams": [
         "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "20c0c1c30252",
-      "title": "Roberto De Zerbi says Tottenham are ‘not a team’ and hits out at lack of fight",
-      "url": "https://www.theguardian.com/football/2026/aug/22/roberto-de-zerbi-brentford-tottenham-premier-league",
-      "source": "The Guardian",
-      "published_at": "2026-08-22T20:27:08+00:00",
-      "summary": "‘We are not in the right physical condition’ Spurs beaten 3-0 at Brentford in Premier League opener Roberto De Zerbi said that Tottenham are “not a team” after they opened their season with a humiliating 3-0 defeat away to Brentford. Spurs are looking to kick on after almost goin",
-      "teams": [
-        "Australia"
       ],
       "is_injury_related": false
     },
@@ -311,6 +299,20 @@
         "Spain"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "9fc5d29a09ca",
+      "title": "‘I’ll remember it for the rest of my life’: the footballers whose biggest games come before their league begins",
+      "url": "https://www.theguardian.com/football/2026/aug/17/footballers-games-champions-league-europa-conference-prize-money",
+      "source": "The Guardian",
+      "published_at": "2026-08-17T14:00:56+00:00",
+      "summary": "Larne defender Dan Bent has played in two European competitions this summer and now faces a former team in a Conference League tie that could earn his club vital funds By Playing in the Shadows Premier League footballers are gearing up for the start of the season, but some of the",
+      "teams": [
+        "Egypt",
+        "Argentina",
+        "England"
+      ],
+      "is_injury_related": true
     }
   ]
 }
