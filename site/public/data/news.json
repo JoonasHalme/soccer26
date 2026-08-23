@@ -1,19 +1,24 @@
 {
-  "generated_at": "2026-08-23T15:33:32.214484+00:00",
+  "generated_at": "2026-08-23T16:38:42.506627+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "58bd09480e75",
-      "title": "Manchester City 2-1 Bournemouth: Premier League – live",
-      "url": "https://www.theguardian.com/football/live/2026/aug/23/manchester-city-v-bournemouth-premier-league-live",
-      "source": "The Guardian",
-      "published_at": "2026-08-23T15:12:59+00:00",
-      "summary": "⚽ Premier League updates from the 2pm BST kick-off ⚽ Live scores | Sign up for Football Daily | Mail Emillia More on City’s move for Ayyoub Bouaddi here: Marco Rose spoke positively before his first competitive match in charge of Bournemouth, at Manchester City on Sunday. The Ger",
+      "id": "b0d392b154a2",
+      "title": "Is Sevilla's 'all-round striker' Ure ready to lead Scotland's attack?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c86n6d07825o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-23T15:35:33+00:00",
+      "summary": "Over the past decade, Sevilla's number nine jersey has been adorned by internationals from Spain, France, Argentina, Mexico and the Netherlands. Now, it is an uncapped Scotsman.",
       "teams": [
-        "Germany"
+        "Mexico",
+        "Scotland",
+        "Netherlands",
+        "Spain",
+        "France",
+        "Argentina"
       ],
       "is_injury_related": false
     },
@@ -116,18 +121,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "43dc2e4238ac",
-      "title": "Villa close to signing Germany midfielder Goretzka",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cnvnvjer47mo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-22T14:39:46+00:00",
-      "summary": "Aston Villa are close to signing free agent Leon Goretzka, who left Bayern Munich in the summer after eight years.",
-      "teams": [
-        "Germany"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "cca6b9bd8e96",
@@ -324,20 +317,6 @@
         "Spain"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "9fc5d29a09ca",
-      "title": "‘I’ll remember it for the rest of my life’: the footballers whose biggest games come before their league begins",
-      "url": "https://www.theguardian.com/football/2026/aug/17/footballers-games-champions-league-europa-conference-prize-money",
-      "source": "The Guardian",
-      "published_at": "2026-08-17T14:00:56+00:00",
-      "summary": "Larne defender Dan Bent has played in two European competitions this summer and now faces a former team in a Conference League tie that could earn his club vital funds By Playing in the Shadows Premier League footballers are gearing up for the start of the season, but some of the",
-      "teams": [
-        "Egypt",
-        "Argentina",
-        "England"
-      ],
-      "is_injury_related": true
     }
   ]
 }
