@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-08-24T20:44:44.896679+00:00",
+  "generated_at": "2026-08-24T21:40:38.465543+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "3f39baed4076",
+      "title": "Al-Hilal in advanced talks to sign Arsenal's Martinelli",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-24T21:37:26+00:00",
+      "summary": "Arsenal are in advanced talks with Saudi Arabian club Al-Hilal over the sale of Gabriel Martinelli for at least £50m.",
+      "teams": [
+        "Saudi Arabia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d8fc08005367",
+      "title": "Chelsea’s front three dazzle as they edge out Fulham in derby thriller",
+      "url": "https://www.theguardian.com/football/2026/aug/24/fulham-chelsea-premier-league-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-08-24T21:05:48+00:00",
+      "summary": "This was a crash course for Xabi Alonso in life at Chelsea. His new side thrilled in possession at Craven Cottage. The front three of João Pedro, Cole Palmer and Morgan Rogers combined to devastating effect and there was even an assist for the new £52m centre-back, Maxence Lacroi",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "2380c02c9c87",
       "title": "Manchester City agree £34m deal for Allan Elias as Nico González nears Newcastle move",
@@ -147,19 +171,6 @@
       "summary": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction.",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "3f39baed4076",
-      "title": "Al-Hilal open talks to sign Arsenal winger Martinelli",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-23T17:37:06+00:00",
-      "summary": "Saudi Arabian club Al-Hilal open negotiations with Arsenal over a move for Brazil forward Gabriel Martinelli.",
-      "teams": [
-        "Brazil",
-        "Saudi Arabia"
       ],
       "is_injury_related": false
     },
