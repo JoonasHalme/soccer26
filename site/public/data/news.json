@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T16:57:26.213878+00:00",
+  "generated_at": "2026-08-24T17:41:49.757129+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -103,18 +103,6 @@
       "is_injury_related": true
     },
     {
-      "id": "5e53eb22ccad",
-      "title": "Premier League: 10 talking points from opening weekend of the season",
-      "url": "https://www.theguardian.com/football/2026/aug/24/premier-league-10-talking-points-from-opening-weekend-action",
-      "source": "The Guardian",
-      "published_at": "2026-08-24T07:00:54+00:00",
-      "summary": "Manchester United’s under-powered attack, Brentford’s £39m bargain and Dewsbury-Hall delivers for Everton Arsenal’s treatment of Gabriel Martinelli has been questioned by Ian Wright after the Brazil forward was left out of their squad for Friday’s opening game against Coventry. M",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "94518c48bef9",
       "title": "Chelsea change course with Alonso primed to banish the chaos of youth",
       "url": "https://www.theguardian.com/football/2026/aug/24/chelsea-change-course-with-alonso-primed-to-banish-the-chaos-of-youth",
@@ -123,6 +111,18 @@
       "summary": "The 44-year-old is focused on maintaining ‘emotional control’ and a slew of sensible signings offer genuine hope It is a necessary reset. Although it would be pushing it to say that Chelsea have switched from development centre to retirement home, even after the signings of Jorda",
       "teams": [
         "Jordan"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "5e53eb22ccad",
+      "title": "Premier League: 10 talking points from opening weekend of the season",
+      "url": "https://www.theguardian.com/football/2026/aug/24/premier-league-10-talking-points-from-opening-weekend-action",
+      "source": "The Guardian",
+      "published_at": "2026-08-24T07:00:54+00:00",
+      "summary": "Manchester United’s under-powered attack, Brentford’s £39m bargain and Dewsbury-Hall delivers for Everton Arsenal’s treatment of Gabriel Martinelli has been questioned by Ian Wright after the Brazil forward was left out of their squad for Friday’s opening game against Coventry. M",
+      "teams": [
+        "Brazil"
       ],
       "is_injury_related": true
     },
