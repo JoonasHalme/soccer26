@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-08-24T10:55:07.524162+00:00",
+  "generated_at": "2026-08-24T11:39:46.593188+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "caadc059b1c4",
+      "title": "Fans suffer firework burns and eye injuries in Eredivisie",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr50n2d4rj0o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-24T11:13:53+00:00",
+      "summary": "Dutch side SC Cambuur says fans were left with \"burns, hearing damage and eye injuries\" after Feyenoord supporters threw fireworks during Sunday's Eredivisie match.",
+      "teams": [
+        "Netherlands"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "ea2f09e57d9e",
       "title": "EFL and Scottish league pushing to stop illegal broadcast of matches in Russia",
@@ -36,7 +48,7 @@
       "url": "https://www.theguardian.com/football/2026/aug/24/football-transfer-rumour-mill-julian-alvarez-arsenal-booed-atletico",
       "source": "The Guardian",
       "published_at": "2026-08-24T07:23:45+00:00",
-      "summary": "Today’s rumours laugh off heartburn Booing Julián Alvarez during Atlético Madrid’s draw with Villarreal on Sunday has seemingly convinced the Argentinian forward to consider joining Arsenal in the window. The former Manchester City man has been kept out of the reaches of Barcelon",
+      "summary": "Today’s rumours laugh off heartburn Booing Julián Alvarez during Atlético Madrid’s draw with Villarreal on Sunday has seemingly convinced the Argentina forward to consider joining Arsenal in the window. The former Manchester City man has been kept out of the reaches of Barcelona,",
       "teams": [
         "Argentina"
       ],
