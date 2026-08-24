@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-08-24T14:55:56.692030+00:00",
+  "generated_at": "2026-08-24T15:51:41.223480+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "8cb19b9a14c0",
+      "title": "Docherty appointed Scotland Under-21 head coach",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy4zyk4w78no",
+      "source": "BBC Sport",
+      "published_at": "2026-08-24T15:33:02+00:00",
+      "summary": "Tony Docherty is named Scotland Under-21 head coach, with Steven Naismith as assistant.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "8e89fa4bb473",
       "title": "Rennes push PSG all the way to show they are the best of the rest in Ligue 1",
@@ -228,18 +240,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "8ef42a29bc24",
-      "title": "Ronaldinho, 46, on mission of love and happiness – and maybe goals – at Serie C’s Ravenna",
-      "url": "https://www.theguardian.com/football/2026/aug/20/ronaldinho-46-serie-c-ravenna-unveiling-comeback",
-      "source": "The Guardian",
-      "published_at": "2026-08-20T21:27:01+00:00",
-      "summary": "Brazilian legend pledges excitement at his unveiling for a comeback that is winning over initially disbelieving fans It seemed like a joke, a hoax, when at 10pm on 19 June, Ravenna broke the news of Ronaldinho’s signing . The Brazilian, a former Ballon d’Or winner and one of the ",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "d06006b82740",
