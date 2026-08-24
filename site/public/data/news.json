@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-08-24T07:16:27.963070+00:00",
+  "generated_at": "2026-08-24T09:00:20.859293+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "54b47365c484",
+      "title": "What does your Premiership club need in final 11 days of transfer window?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgmkmpj03zmo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-24T07:41:49+00:00",
+      "summary": "BBC Scotland assesses the 12 top-flight clubs' needs as the transfer deadline approaches.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "523dfae8fa17",
+      "title": "Football transfer rumours: Alvarez set for Arsenal after being booed at Atlético?",
+      "url": "https://www.theguardian.com/football/2026/aug/24/football-transfer-rumour-mill-julian-alvarez-arsenal-booed-atletico",
+      "source": "The Guardian",
+      "published_at": "2026-08-24T07:23:45+00:00",
+      "summary": "Today’s rumours laugh off heartburn Booing Julián Alvarez during Atlético Madrid’s draw with Villarreal on Sunday has seemingly convinced the Argentinian forward to consider joining Arsenal in the window. The former Manchester City man has been kept out of the reaches of Barcelon",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "5e53eb22ccad",
       "title": "Premier League: 10 talking points from opening weekend of the season",
@@ -181,18 +205,6 @@
       "is_injury_related": true
     },
     {
-      "id": "28396b087f56",
-      "title": "Football transfer rumours: Endrick to Liverpool? Arsenal to swap Martinelli for Yildiz?",
-      "url": "https://www.theguardian.com/football/2026/aug/21/football-transfer-rumours-endrick-to-liverpool-arsenal-to-swap-martinelli-for-yildiz",
-      "source": "The Guardian",
-      "published_at": "2026-08-21T07:41:43+00:00",
-      "summary": "Today’s fluff does not do Sudoku Since Vinícius Júnior signed a shiny new deal at Real Madrid, Arsenal have been having to look elsewhere for a new winger. Turkey’s and Juventus’s Kenan Yildizm is of interest to Mikel Arteta and the Gunners hierarchy. One potential way of getting",
-      "teams": [
-        "Turkey"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "a43a4afacfc1",
       "title": "New rules, managers and pundits: what’s different this Premier League season?",
       "url": "https://www.theguardian.com/football/2026/aug/21/new-rules-managers-pundits-premier-league-season-2026-2027",
@@ -203,18 +215,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "e9fdc1bf76d7",
-      "title": "Premier League: 10 things to look out for as the new season kicks off",
-      "url": "https://www.theguardian.com/football/2026/aug/21/premier-league-10-things-to-look-out-for-as-new-season-kicks-off",
-      "source": "The Guardian",
-      "published_at": "2026-08-20T23:01:18+00:00",
-      "summary": "Manchester United’s new-look midfield, Ipswich’s ambition is tested and Kevin Keegan tributes at Newcastle While Myles Lewis-Skelly looks likely to remain at the Emirates , the same can’t be said for Ethan Nwaneri. The 19-year-old was outstanding in his breakthrough season for Ar",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "8ef42a29bc24",
