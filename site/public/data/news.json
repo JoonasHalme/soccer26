@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-08-25T07:56:15.497677+00:00",
+  "generated_at": "2026-08-25T08:55:58.818878+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "e28c64202758",
+      "title": "Football transfer rumours: Manchester City and Spurs chase Cody Gakpo?",
+      "url": "https://www.theguardian.com/football/2026/aug/25/football-transfer-rumours-manchester-city-tottenham-cody-gakpo",
+      "source": "The Guardian",
+      "published_at": "2026-08-25T08:32:29+00:00",
+      "summary": "Today’s rumours are so severely underwhelmed After Aston Villa endured a day to forget on the Premier League’s opening weekend, it only stands to reason that they must sign players, and ideally good ones. Milan wide man Rafael Leão has flirted with a move to England in the past a",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "9116fbe74bdc",
       "title": "'To have a good team, we need a great Cole' - Alonso on Palmer",
@@ -16,18 +28,6 @@
         "Spain"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "3f39baed4076",
-      "title": "Al-Hilal in advanced talks to sign Arsenal's Martinelli",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-24T21:37:26+00:00",
-      "summary": "Arsenal are in advanced talks with Saudi Arabian club Al-Hilal over the sale of Gabriel Martinelli for at least £50m.",
-      "teams": [
-        "Saudi Arabia"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "2380c02c9c87",
@@ -127,18 +127,6 @@
       "is_injury_related": false
     },
     {
-      "id": "523dfae8fa17",
-      "title": "Football transfer rumours: Alvarez set for Arsenal after being booed at Atlético?",
-      "url": "https://www.theguardian.com/football/2026/aug/24/football-transfer-rumour-mill-julian-alvarez-arsenal-booed-atletico",
-      "source": "The Guardian",
-      "published_at": "2026-08-24T07:23:45+00:00",
-      "summary": "Today’s rumours laugh off heartburn Booing Julián Álvarez during Atlético Madrid’s draw with Villarreal on Sunday has seemingly convinced the Argentina forward to consider joining Arsenal in the window. The former Manchester City man has been kept out of the reaches of Barcelona,",
-      "teams": [
-        "Argentina"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "5e53eb22ccad",
       "title": "Premier League: 10 talking points from opening weekend of the season",
       "url": "https://www.theguardian.com/football/2026/aug/24/premier-league-10-talking-points-from-opening-weekend-action",
@@ -149,18 +137,6 @@
         "Brazil"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "b9f0417e2d0a",
-      "title": "Maradona's 'Hand of God' ball sells for £2.5m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-24T06:55:06+00:00",
-      "summary": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "1dd3281f8362",
