@@ -1,10 +1,23 @@
 {
-  "generated_at": "2026-08-25T22:41:16.975652+00:00",
+  "generated_at": "2026-08-25T23:34:30.864767+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "f0fb5a32c907",
+      "title": "Exhausted and fragile - how Celtic's capitulation unfolded",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crerjz8814qo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-25T23:12:09+00:00",
+      "summary": "BBC Scotland guides you through the timeline in Celtic's Champions League reverse in Austria.",
+      "teams": [
+        "Scotland",
+        "Austria"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "37156c4ad0a6",
       "title": "Celtic throw away four-goal aggregate lead to crash out of Champions League against Lask",
@@ -102,6 +115,18 @@
         "Scotland"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "8bc7af6fc4c0",
+      "title": "David Squires on … boos, barcodes and buzzcuts as the Premier League returns",
+      "url": "https://www.theguardian.com/football/picture/2026/aug/25/david-squires-on-boos-barcodes-buzzcuts-premier-league-returns",
+      "source": "The Guardian",
+      "published_at": "2026-08-25T09:54:30+00:00",
+      "summary": "Our cartoonist looks back at the big storylines and fresh looks as the English top flight swung back into action Buy a cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading...",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "e28c64202758",
