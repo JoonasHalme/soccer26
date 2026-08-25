@@ -1,17 +1,41 @@
 {
-  "generated_at": "2026-08-25T09:48:24.116210+00:00",
+  "generated_at": "2026-08-25T10:46:26.268610+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "f10aebf32745",
+      "title": "Dalglish and Carney win PFA merit awards",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8e7q501j3o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-25T10:01:23+00:00",
+      "summary": "Liverpool and Scotland legend Sir Kenny Dalglish and Lionesses great Karen Carney win the Professional Footballers' Association's merit awards for 2026.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8bc7af6fc4c0",
+      "title": "David Squires on … boos, barcodes and buzzcuts as the Premier League returns",
+      "url": "https://www.theguardian.com/football/picture/2026/aug/25/david-squires-on-boos-barcodes-buzzcuts-premier-league-returns",
+      "source": "The Guardian",
+      "published_at": "2026-08-25T09:54:30+00:00",
+      "summary": "Our cartoonist looks back at the big storylines and fresh looks as the English top flight swung back into action Buy a cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading...",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "a2fb3520dcbe",
       "title": "Savinho seals £75m Spurs move from Manchester City – and changes name to Sávio",
       "url": "https://www.theguardian.com/football/2026/aug/25/savinho-completes-spurs-move-manchester-city-changes-name-to-savio",
       "source": "The Guardian",
       "published_at": "2026-08-25T09:21:22+00:00",
-      "summary": "Spurs could pay £85m including add-ons for winger De Zerbi says Sávio will bring ‘imagination and quality’ Tottenham have confirmed the signing of Savinho from Manchester City, with the Brazilian winger choosing to be known as Sávio at his new club. Spurs have paid £75m for the 2",
+      "summary": "Spurs could pay £85m including add-ons for winger De Zerbi says Sávio will bring ‘imagination and quality’ Savinho has completed his £75m move to Tottenham from Manchester City and marked the beginning of a new chapter in his career by indicating that he wants to be known as Sávi",
       "teams": [
         "Brazil"
       ],
@@ -112,6 +136,18 @@
         "Scotland"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "8e89fa4bb473",
+      "title": "Rennes push PSG all the way to show they are the best of the rest in Ligue 1",
+      "url": "https://www.theguardian.com/football/2026/aug/24/rennes-psg-best-rest-ligue-1-ferran-torres",
+      "source": "The Guardian",
+      "published_at": "2026-08-24T14:03:52+00:00",
+      "summary": "PSG flexed their muscles, bringing Ferran Torres off the bench to save the day, but only because Rennes made them By Get French Football News On the scale of expressions of prowess and power, Paris Saint-Germain bringing almost €150m worth of attacking talent off the bench – incl",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "caadc059b1c4",
