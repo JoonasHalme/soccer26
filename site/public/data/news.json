@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-08-25T08:55:58.818878+00:00",
+  "generated_at": "2026-08-25T09:48:24.116210+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "a2fb3520dcbe",
+      "title": "Savinho seals £75m Spurs move from Manchester City – and changes name to Sávio",
+      "url": "https://www.theguardian.com/football/2026/aug/25/savinho-completes-spurs-move-manchester-city-changes-name-to-savio",
+      "source": "The Guardian",
+      "published_at": "2026-08-25T09:21:22+00:00",
+      "summary": "Spurs could pay £85m including add-ons for winger De Zerbi says Sávio will bring ‘imagination and quality’ Tottenham have confirmed the signing of Savinho from Manchester City, with the Brazilian winger choosing to be known as Sávio at his new club. Spurs have paid £75m for the 2",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "3a0901373995",
+      "title": "Tottenham sign Savinho from Man City for £75m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy7z637nj8jo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-25T09:14:39+00:00",
+      "summary": "Tottenham sign Brazil winger Savinho from Manchester City for an initial £75m.",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "e28c64202758",
       "title": "Football transfer rumours: Manchester City and Spurs chase Cody Gakpo?",
@@ -28,6 +52,18 @@
         "Spain"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "3f39baed4076",
+      "title": "Al-Hilal in advanced talks to sign Arsenal's Martinelli",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-24T21:37:26+00:00",
+      "summary": "Arsenal are in advanced talks with Saudi Arabian club Al-Hilal over the sale of Gabriel Martinelli for at least £50m.",
+      "teams": [
+        "Saudi Arabia"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "2380c02c9c87",
@@ -78,18 +114,6 @@
       "is_injury_related": true
     },
     {
-      "id": "8e89fa4bb473",
-      "title": "Rennes push PSG all the way to show they are the best of the rest in Ligue 1",
-      "url": "https://www.theguardian.com/football/2026/aug/24/rennes-psg-best-rest-ligue-1-ferran-torres",
-      "source": "The Guardian",
-      "published_at": "2026-08-24T14:03:52+00:00",
-      "summary": "PSG flexed their muscles, bringing Ferran Torres off the bench to save the day, but only because Rennes made them By Get French Football News On the scale of expressions of prowess and power, Paris Saint-Germain bringing almost €150m worth of attacking talent off the bench – incl",
-      "teams": [
-        "France"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "caadc059b1c4",
       "title": "Fans suffer firework burns and eye injuries in Eredivisie",
       "url": "https://www.bbc.co.uk/sport/football/articles/cr50n2d4rj0o",
@@ -137,6 +161,18 @@
         "Brazil"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "b9f0417e2d0a",
+      "title": "Maradona's 'Hand of God' ball sells for £2.5m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-24T06:55:06+00:00",
+      "summary": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "1dd3281f8362",
