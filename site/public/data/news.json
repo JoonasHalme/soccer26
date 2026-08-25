@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-08-25T15:55:47.214783+00:00",
+  "generated_at": "2026-08-25T16:51:52.851612+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "28f2459b5b96",
+      "title": "£1.5m-rated Abdulmalik asks to leave Boreham Wood",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy42l2v5go",
+      "source": "BBC Sport",
+      "published_at": "2026-08-25T16:18:23+00:00",
+      "summary": "Boreham Wood forward Abdul Abdulmalik says he is \"capable of reaching the top\" after the National League side reject a £1.5m offer from Swedish club Djurgarden.",
+      "teams": [
+        "Sweden"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "3a0901373995",
       "title": "All the best Savinho - welcome Savio... new club, new name for Spurs signing",
@@ -86,18 +98,6 @@
       "summary": "Arsenal are in advanced talks with Saudi Arabian club Al-Hilal over the sale of Gabriel Martinelli for at least £50m.",
       "teams": [
         "Saudi Arabia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "2380c02c9c87",
-      "title": "Manchester City agree £34m deal for Allan Elias as Nico González nears Newcastle move",
-      "url": "https://www.theguardian.com/football/2026/aug/24/manchester-city-agree-34m-deal-for-allan-elias-as-nico-gonzalez-nears-newcastle-move",
-      "source": "The Guardian",
-      "published_at": "2026-08-24T19:56:12+00:00",
-      "summary": "Palmeiras winger’s arrival paves way for Savinho exit City monitoring Liverpool forward Cody Gakpo Manchester City have agreed a €37.5m plus €2.5m (£34m) deal for the Palmeiras winger Allan Elias, with the club also in advanced negotiations to sell Nico González to Newcastle. The",
-      "teams": [
-        "Brazil"
       ],
       "is_injury_related": false
     },
@@ -197,35 +197,6 @@
         "Brazil"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "b9f0417e2d0a",
-      "title": "Maradona's 'Hand of God' ball sells for £2.5m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-24T06:55:06+00:00",
-      "summary": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "b0d392b154a2",
-      "title": "Is Sevilla's 'all-round striker' Ure ready to lead Scotland's attack?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c86n6d07825o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-23T15:35:33+00:00",
-      "summary": "Over the past decade, Sevilla's number nine jersey has been adorned by internationals from Spain, France, Argentina, Mexico and the Netherlands. Now, it is an uncapped Scotsman.",
-      "teams": [
-        "Mexico",
-        "Scotland",
-        "Netherlands",
-        "Spain",
-        "France",
-        "Argentina"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "05e99430519b",
