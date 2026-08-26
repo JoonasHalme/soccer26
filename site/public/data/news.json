@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-08-26T08:58:21.746795+00:00",
+  "generated_at": "2026-08-26T09:53:44.995597+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "431066efd1b2",
+      "title": "Manchester City agree Omar Marmoush loan to Spurs with initial £50m obligation to buy",
+      "url": "https://www.theguardian.com/football/2026/aug/26/manchester-city-omar-marmoush-spurs-loan-obligation-buy-nico-gonzalez-newcastle",
+      "source": "The Guardian",
+      "published_at": "2026-08-26T09:25:22+00:00",
+      "summary": "City agree £52m Nico González sale to Newcastle Club expected to make Enzo Fernández bid Manchester City have agreed to loan Omar Marmoush to Tottenham for the season, with an obligation to buy the forward for an initial £50m, and struck a deal to sell Nico González to Newcastle ",
+      "teams": [
+        "Egypt"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "ad2824e3075f",
       "title": "Raheem Sterling charged with dangerous driving and nitrous oxide possession",
@@ -42,6 +54,18 @@
       "is_injury_related": false
     },
     {
+      "id": "e18219003eae",
+      "title": "Martin O’Neill puts Champions League collapse among most painful Celtic nights",
+      "url": "https://www.theguardian.com/football/2026/aug/26/martin-oneill-celtic-champions-league-collapse-lask-painful",
+      "source": "The Guardian",
+      "published_at": "2026-08-26T07:37:56+00:00",
+      "summary": "Celtic lose to Lask in qualifier from 4-0 up on aggregate ‘That’s my team and that’s my responsibility,’ O’Neill says Martin O’Neill has admitted Celtic’s Champions League qualifying collapse from 4-0 up ranks as one of his most painful nights as the club’s manager. Celtic held a",
+      "teams": [
+        "Austria"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "53fa8476ce66",
       "title": "Celtic deficiencies laid bare on another night of Champions League pain",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjdv5xvgv9lo",
@@ -65,19 +89,6 @@
         "Austria"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "37156c4ad0a6",
-      "title": "Celtic throw away four-goal aggregate lead to crash out of Champions League against Lask",
-      "url": "https://www.theguardian.com/football/2026/aug/25/champions-league-celtic",
-      "source": "The Guardian",
-      "published_at": "2026-08-25T21:40:06+00:00",
-      "summary": "Celtic threw away a four-goal lead in Austria as they missed out on the Champions League for the second year running. The Scottish champions looked to be cruising into the league stage when Callum McGregor put them 4-0 up on aggregate against Lask with a 21st-minute deflected str",
-      "teams": [
-        "Scotland",
-        "Austria"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "f37b57e6f146",
