@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-08-25T23:34:30.864767+00:00",
+  "generated_at": "2026-08-26T01:54:56.362165+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "4550f9771c01",
+      "title": "O'Neill takes responsibility with nowhere to hide for Celtic",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7506lkw1gno",
+      "source": "BBC Sport",
+      "published_at": "2026-08-25T23:35:46+00:00",
+      "summary": "Celtic manager Martin O'Neill says his team have a \"million miles to go\" after defeat in Austria.",
+      "teams": [
+        "Austria"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "f0fb5a32c907",
       "title": "Exhausted and fragile - how Celtic's capitulation unfolded",
@@ -187,18 +199,6 @@
         "Argentina"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "8cb19b9a14c0",
-      "title": "Docherty appointed Scotland Under-21 head coach",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy4zyk4w78no",
-      "source": "BBC Sport",
-      "published_at": "2026-08-24T15:33:02+00:00",
-      "summary": "Tony Docherty is named Scotland Under-21 head coach, with Steven Naismith as assistant.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "8e89fa4bb473",
