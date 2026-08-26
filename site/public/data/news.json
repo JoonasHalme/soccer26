@@ -1,10 +1,107 @@
 {
-  "generated_at": "2026-08-26T19:17:17.894209+00:00",
+  "generated_at": "2026-08-26T23:26:57.429494+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "3c7879b6c2d3",
+      "title": "Mbappé hat-trick sinks Real Sociedad after Real Madrid jeered by home fans",
+      "url": "https://www.theguardian.com/football/2026/aug/26/real-madrid-real-sociedad-la-liga-match-report-jose-mourinho-kylian-mbappe",
+      "source": "The Guardian",
+      "published_at": "2026-08-26T21:39:14+00:00",
+      "summary": "Kylian Mbappé scored a hat-trick as Real Madrid beat Real Sociedad 4-1 at the Bernabéu on Wednesday ⁠in their first home match since the return of José Mourinho as head coach. Mbappé put Madrid ahead in the 40th minute before Luka Sucic levelled four minutes later, but the ⁠Franc",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "f2463ce8cf4c",
+      "title": "Chelsea in talks with Martínez’s camp as Aston Villa close on striker Jackson",
+      "url": "https://www.theguardian.com/football/2026/aug/26/chelsea-emiliano-martinez-aston-villa-goalkeeper",
+      "source": "The Guardian",
+      "published_at": "2026-08-26T21:30:42+00:00",
+      "summary": "Blues consider making offer for Argentina goalkeeper Villa agree £65m Jackson deal as Watkins nears £50m exit Manchester City expected to make bid for Fernández Chelsea have been offered Emiliano Martínez and are considering a bid for the goalkeeper. The club are in talks with Ma",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1c6746182019",
+      "title": "Bodo/Glimt thrash NEC to ease into Champions League main draw",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ce9ejgj70p7o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-26T21:00:30+00:00",
+      "summary": "Bodo/Glimt reach the main draw of the Champions League for a second successive season after beating Dutch side NEC Nijmegen 3-0 in the second leg of their play-off, qualifying 6-1 on aggregate.",
+      "teams": [
+        "Netherlands"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "45b01198596e",
+      "title": "Celtic crash out of Champions League after humiliating defeat to LASK",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c07ln9jj2n7o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-26T21:00:23+00:00",
+      "summary": "Despite leading 4-0 on aggregate, Celtic are humiliated by LASK as they lose the second leg of their Champions League play-off 5-1 and are knocked out 5-4 on aggregate in Austria to miss out on the main draw of the Champions League for a second successive season.",
+      "teams": [
+        "Austria"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "140ae3f06b8c",
+      "title": "Sávio savours debut goal as Spurs coast to emphatic Carabao Cup win over Charlton",
+      "url": "https://www.theguardian.com/football/2026/aug/26/tottenham-charlton-carabao-cup-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-08-26T20:58:36+00:00",
+      "summary": "A new season at the snazziest modern stadium in England and something extremely welcome for Tottenham. A home win over domestic opposition. There were only four of them last time out; three in the Premier League with the final one – over Everton on the last day – helping them to ",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "e7671f8e6a67",
+      "title": "Thierno Barry fires hat-trick as ruthless Everton sweep Preston aside",
+      "url": "https://www.theguardian.com/football/2026/aug/26/preston-everton-carabao-cup-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-08-26T20:55:10+00:00",
+      "summary": "Thierno Barry resembled a striker reborn, and the goalscorer David Moyes desperately needs, as the first hat-trick of his Everton career plus an assist for new signing Brennan Johnson delivered a resounding win for the Scot on his competitive return to Preston. The France under-2",
+      "teams": [
+        "France",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "ca30d11d0299",
+      "title": "Sunderland weigh up Jack Grealish loan with Marseille’s Igor Paixão also a target",
+      "url": "https://www.theguardian.com/football/2026/aug/26/forest-in-talks-with-celta-vigo-over-javi-rueda-as-axel-disasi-joins-palace-on-loan",
+      "source": "The Guardian",
+      "published_at": "2026-08-26T19:22:14+00:00",
+      "summary": "Manchester City winger reportedly open to move Forest in talks over right-back Javi Rueda from Celta Vigo Sunderland are exploring a potential loan move for Jack Grealish, but formal negotiations with Manchester City are yet to take place. For the moment sources say the former En",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "27ac083f3054",
+      "title": "West Ham accept £40m Brentford bid for Diouf",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crk3dr5pnyjo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-26T19:17:17+00:00",
+      "summary": "El Hadji Malick Diouf is cleared to have a medical with Brentford after West Ham accept a £40m bid for the Senegal defender.",
+      "teams": [
+        "Senegal"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "05e99430519b",
       "title": "All done deals in August 2026",
@@ -14,18 +111,6 @@
       "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "teams": [
         "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f2463ce8cf4c",
-      "title": "Chelsea in talks with Martínez’s camp as Aston Villa close on striker Jackson",
-      "url": "https://www.theguardian.com/football/2026/aug/26/chelsea-emiliano-martinez-aston-villa-goalkeeper",
-      "source": "The Guardian",
-      "published_at": "2026-08-26T15:18:10+00:00",
-      "summary": "Blues consider making offer for Argentina goalkeeper Aston Villa agree £65m deal for striker Nicolas Jackson Manchester City expected to make bid for Fernández Chelsea have been offered Emiliano Martínez and are considering a bid for the goalkeeper. The club are in talks with Mar",
-      "teams": [
-        "Argentina"
       ],
       "is_injury_related": false
     },
@@ -114,18 +199,6 @@
       "is_injury_related": true
     },
     {
-      "id": "e18219003eae",
-      "title": "Martin O’Neill puts Champions League collapse among most painful Celtic nights",
-      "url": "https://www.theguardian.com/football/2026/aug/26/martin-oneill-celtic-champions-league-collapse-lask-painful",
-      "source": "The Guardian",
-      "published_at": "2026-08-26T07:37:56+00:00",
-      "summary": "Celtic lose against Lask in qualifier from 4-0 up on aggregate ‘That’s my team and that’s my responsibility,’ O’Neill says Martin O’Neill has admitted Celtic’s Champions League qualifying collapse from 4-0 up ranks as one of his most painful nights as the club’s manager. Celtic h",
-      "teams": [
-        "Austria"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "53fa8476ce66",
       "title": "Celtic deficiencies laid bare on another night of Champions League pain",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjdv5xvgv9lo",
@@ -134,19 +207,6 @@
       "summary": "When Callum McGregor eviscerated his own team-mates in the wake of Celtic's stupefying Champions League collapse against LASK, he delivered their one coherent moment of a spineless night, writes Tom English.",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f0fb5a32c907",
-      "title": "Exhausted and fragile - how Celtic's capitulation unfolded",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crerjz8814qo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-25T23:12:09+00:00",
-      "summary": "BBC Scotland guides you through the timeline in Celtic's Champions League reverse in Austria.",
-      "teams": [
-        "Scotland",
-        "Austria"
       ],
       "is_injury_related": false
     },
@@ -161,30 +221,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "b8e7da35429c",
-      "title": "Xavi hopes time at the ‘university of football’ will end with Dutch success",
-      "url": "https://www.theguardian.com/football/2026/aug/25/xavi-hernandez-university-of-football-netherlands-head-coach-barcelona",
-      "source": "The Guardian",
-      "published_at": "2026-08-25T19:58:37+00:00",
-      "summary": "Barcelona legend wants to emulate Johan Cruyff’s total football philosophy after taking over as the Netherlands head coach “My feeling today is that I’m going to the university of football.” Those were Xavi Hernández’s opening words at his presentation as the Netherlands coach on",
-      "teams": [
-        "Netherlands"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "28f2459b5b96",
-      "title": "£1.5m-rated Abdulmalik asks to leave Boreham Wood",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy42l2v5go",
-      "source": "BBC Sport",
-      "published_at": "2026-08-25T16:18:23+00:00",
-      "summary": "Boreham Wood forward Abdul Abdulmalik says he is \"capable of reaching the top\" after the National League side reject a £1.5m offer from Swedish club Djurgarden.",
-      "teams": [
-        "Sweden"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "8bc7af6fc4c0",
@@ -231,18 +267,6 @@
       "summary": "Manchester United’s under-powered attack, Brentford’s £39m bargain and Dewsbury-Hall delivers for Everton Arsenal’s treatment of Gabriel Martinelli has been questioned by Ian Wright after the Brazil forward was left out of their squad for Friday’s opening game against Coventry. M",
       "teams": [
         "Brazil"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "59de56816f19",
-      "title": "England Women U20s squad named amid boycott threat",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2el8j10vl3o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-21T13:00:06+00:00",
-      "summary": "Manager Lydia Bedford has named her England squad for the upcoming Fifa U20s Women's World Cup amid ongoing threat of a boycott from European nations.",
-      "teams": [
-        "England"
       ],
       "is_injury_related": true
     },
