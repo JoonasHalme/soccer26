@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-08-26T14:58:02.598173+00:00",
+  "generated_at": "2026-08-26T16:32:52.090347+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "05e99430519b",
+      "title": "All done deals in August 2026",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-26T15:53:46+00:00",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f2463ce8cf4c",
+      "title": "Chelsea in talks with Emiliano Martínez’s camp and braced for Enzo Fernández bid",
+      "url": "https://www.theguardian.com/football/2026/aug/26/chelsea-emiliano-martinez-aston-villa-goalkeeper",
+      "source": "The Guardian",
+      "published_at": "2026-08-26T15:18:10+00:00",
+      "summary": "Experienced goalkeeper wants to leave Aston Villa Manchester City expected to push for midfielder Chelsea have been offered Emiliano Martínez and are considering making a bid for the goalkeeper. The club are in talks with Martínez’s camp and are braced for a bid from Manchester C",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "86250bda4c83",
       "title": "Football Daily | Celtic raise the bar for calamitous capitulations in Europe",
@@ -23,7 +47,7 @@
       "url": "https://www.theguardian.com/football/2026/aug/26/ayyoub-bouaddi-manchester-city-lille-transfer-rodri",
       "source": "The Guardian",
       "published_at": "2026-08-26T14:00:15+00:00",
-      "summary": "The £85m midfielder passed his exams a year early, is studying for a degree and is ready to tackle Premier League learning curve “He’s like a computer,” the former Lille head of academy recruitment Mathieu Frison says of the £85m Manchester City recruit Ayyoub Bouaddi. “You teach",
+      "summary": "The £85m midfielder passed his exams a year early, is studying for a degree and is ready to tackle Premier League learning curve “He’s like a computer,” the former Lille head of academy recruitment, Mathieu Frison, says of the €100m (£85.7m) Manchester City recruit Ayyoub Bouaddi",
       "teams": [
         "Morocco"
       ],
@@ -223,30 +247,6 @@
       "is_injury_related": true
     },
     {
-      "id": "3f39baed4076",
-      "title": "Al-Hilal in advanced talks to sign Arsenal's Martinelli",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-24T21:37:26+00:00",
-      "summary": "Arsenal are in advanced talks with Saudi Arabian club Al-Hilal over the sale of Gabriel Martinelli for at least £50m.",
-      "teams": [
-        "Saudi Arabia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "8cb19b9a14c0",
-      "title": "Docherty appointed Scotland Under-21 head coach",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy4zyk4w78no",
-      "source": "BBC Sport",
-      "published_at": "2026-08-24T15:33:02+00:00",
-      "summary": "Tony Docherty is named Scotland Under-21 head coach, with Steven Naismith as assistant.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "8e89fa4bb473",
       "title": "Rennes push PSG all the way to show they are the best of the rest in Ligue 1",
       "url": "https://www.theguardian.com/football/2026/aug/24/rennes-psg-best-rest-ligue-1-ferran-torres",
@@ -255,18 +255,6 @@
       "summary": "PSG flexed their muscles, bringing Ferran Torres off the bench to save the day, but only because Rennes made them By Get French Football News On the scale of expressions of prowess and power, Paris Saint-Germain bringing almost €150m worth of attacking talent off the bench – incl",
       "teams": [
         "France"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "54b47365c484",
-      "title": "What does your Premiership club need in final 11 days of transfer window?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgmkmpj03zmo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-24T07:41:49+00:00",
-      "summary": "BBC Scotland assesses the 12 top-flight clubs' needs as the transfer deadline approaches.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -281,18 +269,6 @@
         "Brazil"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "05e99430519b",
-      "title": "All done deals in August 2026",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-21T17:34:27+00:00",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "59de56816f19",
