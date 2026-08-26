@@ -1,19 +1,31 @@
 {
-  "generated_at": "2026-08-26T05:47:05.996797+00:00",
+  "generated_at": "2026-08-26T07:05:00.877047+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "4550f9771c01",
-      "title": "O'Neill takes responsibility with nowhere to hide for Celtic",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7506lkw1gno",
+      "id": "f678561b812c",
+      "title": "Scottish Football Podcast",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p69mj3",
       "source": "BBC Sport",
-      "published_at": "2026-08-25T23:35:46+00:00",
-      "summary": "Celtic manager Martin O'Neill says his team have a \"million miles to go\" after defeat in Austria.",
+      "published_at": "2026-08-26T07:00:00+00:00",
+      "summary": "What does Celtic’s Champions League humbling mean for Scottish Football?",
       "teams": [
-        "Austria"
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "53fa8476ce66",
+      "title": "'Celtic deficiencies laid bare on another night of Champions League pain'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjdv5xvgv9lo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-26T06:52:56+00:00",
+      "summary": "When Callum McGregor eviscerated his own teammates in the wake of Celtic's stupefying Champions League collapse against LASK, he delivered their one coherent moment of a spineless night, writes Tom English.",
+      "teams": [
+        "England"
       ],
       "is_injury_related": false
     },
@@ -177,18 +189,6 @@
       "is_injury_related": false
     },
     {
-      "id": "74c617b46494",
-      "title": "Watkins' departure would cut deepest - and Villa did not see it coming",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq63ry9q6jzo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-24T16:43:58+00:00",
-      "summary": "Ollie Watkins has been an Aston Villa legend but it appears his time at the club is nearing a painful end amid interest from Saudi Arabia.",
-      "teams": [
-        "Saudi Arabia"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "4aa9a0410895",
       "title": "Alvarez's Arsenal dilemma amid summer's most bitter transfer tussle",
       "url": "https://www.bbc.co.uk/sport/football/articles/c750nd7yq7yo",
@@ -211,18 +211,6 @@
         "France"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "caadc059b1c4",
-      "title": "Fans suffer firework burns and eye injuries in Eredivisie",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr50n2d4rj0o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-24T11:13:53+00:00",
-      "summary": "Dutch side SC Cambuur says fans were left with \"burns, hearing damage and eye injuries\" after Feyenoord supporters threw fireworks during Sunday's Eredivisie match.",
-      "teams": [
-        "Netherlands"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "ea2f09e57d9e",
