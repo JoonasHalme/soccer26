@@ -1,19 +1,43 @@
 {
-  "generated_at": "2026-08-26T07:57:11.652729+00:00",
+  "generated_at": "2026-08-26T08:58:21.746795+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "f678561b812c",
-      "title": "Scottish Football Podcast",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p69mj3",
-      "source": "BBC Sport",
-      "published_at": "2026-08-26T07:00:00+00:00",
-      "summary": "What does Celtic’s Champions League humbling mean for Scottish Football?",
+      "id": "ad2824e3075f",
+      "title": "Raheem Sterling charged with dangerous driving and nitrous oxide possession",
+      "url": "https://www.theguardian.com/football/2026/aug/26/raheem-sterling-charged-with-dangerous-driving-and-nitrous-oxide-possession",
+      "source": "The Guardian",
+      "published_at": "2026-08-26T08:34:29+00:00",
+      "summary": "Former England forward crashed on M3 in late May Sterling is also accused of failing to provide a specimen The former England forward Raheem Sterling has been charged with dangerous driving and possession of nitrous oxide after a crash involving a Lamborghini on the motorway, pol",
       "teams": [
-        "Scotland"
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8d3a2bb82546",
+      "title": "Football transfer rumours: Jean-Philippe Mateta to Aston Villa?",
+      "url": "https://www.theguardian.com/football/2026/aug/26/football-transfer-rumours-jean-philippe-mateta-to-aston-villa",
+      "source": "The Guardian",
+      "published_at": "2026-08-26T08:13:30+00:00",
+      "summary": "Today’s fluff is splashing out regardless Liam Delap may not have broken any records during his time with Chelsea but he is setting one on his way out the door. The England youth international is thought to be breaking Nottingham Forest’s transfer fee record with Oliver Glasner b",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "55190e9ee300",
+      "title": "Celtic face competition for Bosnia star - gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v9pgre9p0o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-26T07:41:21+00:00",
+      "summary": "PAOK emerge as contenders for Celtic-linked midfielder, while Falkirk close in on another loan deal.",
+      "teams": [
+        "Bosnia & Herzegovina"
       ],
       "is_injury_related": false
     },
@@ -201,6 +225,18 @@
       "is_injury_related": false
     },
     {
+      "id": "8cb19b9a14c0",
+      "title": "Docherty appointed Scotland Under-21 head coach",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy4zyk4w78no",
+      "source": "BBC Sport",
+      "published_at": "2026-08-24T15:33:02+00:00",
+      "summary": "Tony Docherty is named Scotland Under-21 head coach, with Steven Naismith as assistant.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "8e89fa4bb473",
       "title": "Rennes push PSG all the way to show they are the best of the rest in Ligue 1",
       "url": "https://www.theguardian.com/football/2026/aug/24/rennes-psg-best-rest-ligue-1-ferran-torres",
@@ -213,15 +249,14 @@
       "is_injury_related": false
     },
     {
-      "id": "ea2f09e57d9e",
-      "title": "EFL and Scottish league pushing to stop illegal broadcast of matches in Russia",
-      "url": "https://www.theguardian.com/football/2026/aug/24/efl-and-scottish-league-matches-broadcast-russia",
-      "source": "The Guardian",
-      "published_at": "2026-08-24T10:43:41+00:00",
-      "summary": "Leagues stopped rights packages in Russia in 2022 They are considering legal action against Football TV The English Football League and Scottish Professional Football League have launched investigations and are considering legal action after discovering that television coverage o",
+      "id": "54b47365c484",
+      "title": "What does your Premiership club need in final 11 days of transfer window?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgmkmpj03zmo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-24T07:41:49+00:00",
+      "summary": "BBC Scotland assesses the 12 top-flight clubs' needs as the transfer deadline approaches.",
       "teams": [
-        "Scotland",
-        "England"
+        "Scotland"
       ],
       "is_injury_related": false
     },
