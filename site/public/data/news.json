@@ -1,10 +1,71 @@
 {
-  "generated_at": "2026-08-26T23:26:57.429494+00:00",
+  "generated_at": "2026-08-27T09:35:51.156784+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "8d28b10d5f75",
+      "title": "Fan backlash as gay World Cup star joins Saudi club",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyl2dvvv0o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-27T08:52:41+00:00",
+      "summary": "Spain forward Esther Gonzalez attracts backlash after signing for Saudi Women's Premier League side Al Qadsiah.",
+      "teams": [
+        "Spain",
+        "Saudi Arabia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "79ef68a409ae",
+      "title": "Villa close to £65m move for Chelsea's Jackson as Watkins nears exit",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cge4y57ygvdo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-27T08:48:20+00:00",
+      "summary": "Senegal striker striker is nearing a move to Villa Park after three years at Chelsea.",
+      "teams": [
+        "Senegal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "553bdcaf934f",
+      "title": "Liverpool agree £120m fee for Bradley Barcola after breakthrough talks with PSG",
+      "url": "https://www.theguardian.com/football/2026/aug/27/liverpool-bradley-barcola-psg-transfer-window",
+      "source": "The Guardian",
+      "published_at": "2026-08-27T08:26:17+00:00",
+      "summary": "Liverpool would pay £100m plus £2om in add-ons France winger has been main summer transfer target Liverpool are closing in on a £120m deal for Bradley Barcola following a breakthrough in talks with Paris Saint-Germain. Barcola has been Liverpool’s main transfer target all summer ",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "19e248b6bcf2",
+      "title": "Why Herrera is playing for free in Spanish third division",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9864p3wz1jo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-27T07:02:50+00:00",
+      "summary": "Ander Herrera has represented some of the world's biggest clubs, but now he is back home playing for free in Spain's third tier - and this is why.",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "54d3a0e501ec",
+      "title": "Plight of Pogba, Sancho and others is cautionary tale for any Carrick rebuild",
+      "url": "https://www.theguardian.com/football/2026/aug/27/manchester-united-michael-carrick-paul-pogba-jadon-sancho-cautionary-tale",
+      "source": "The Guardian",
+      "published_at": "2026-08-27T07:00:07+00:00",
+      "summary": "Bruno Fernandes is the only surviving attacker from Ole Gunnar Solskjær’s attempt to bridge gap to rivals in 2021 Five years is a long time in football. Manchester United’s summer of 2021 is now remembered as the turning point in Ole Gunnar Solskjær’s reign; the sentimental decis",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "3c7879b6c2d3",
       "title": "Mbappé hat-trick sinks Real Sociedad after Real Madrid jeered by home fans",
@@ -16,18 +77,6 @@
         "France"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "f2463ce8cf4c",
-      "title": "Chelsea in talks with Martínez’s camp as Aston Villa close on striker Jackson",
-      "url": "https://www.theguardian.com/football/2026/aug/26/chelsea-emiliano-martinez-aston-villa-goalkeeper",
-      "source": "The Guardian",
-      "published_at": "2026-08-26T21:30:42+00:00",
-      "summary": "Blues consider making offer for Argentina goalkeeper Villa agree £65m Jackson deal as Watkins nears £50m exit Manchester City expected to make bid for Fernández Chelsea have been offered Emiliano Martínez and are considering a bid for the goalkeeper. The club are in talks with Ma",
-      "teams": [
-        "Argentina"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "1c6746182019",
@@ -64,19 +113,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "e7671f8e6a67",
-      "title": "Thierno Barry fires hat-trick as ruthless Everton sweep Preston aside",
-      "url": "https://www.theguardian.com/football/2026/aug/26/preston-everton-carabao-cup-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-08-26T20:55:10+00:00",
-      "summary": "Thierno Barry resembled a striker reborn, and the goalscorer David Moyes desperately needs, as the first hat-trick of his Everton career plus an assist for new signing Brennan Johnson delivered a resounding win for the Scot on his competitive return to Preston. The France under-2",
-      "teams": [
-        "France",
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "ca30d11d0299",
@@ -151,18 +187,6 @@
       "is_injury_related": false
     },
     {
-      "id": "663730dec0df",
-      "title": "Wrexham close in on Ekomie and Kabore deals",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn5dr0vyd3ro",
-      "source": "BBC Sport",
-      "published_at": "2026-08-26T12:25:08+00:00",
-      "summary": "Manchester City's Issa Kabore is poised to seal a permanent switch to Championship club Wrexham, who are also close to signing left-back Jacques Ekomie from French side Angers.",
-      "teams": [
-        "France"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "edb46b96d1a0",
       "title": "Man City complete £86m Bouaddi signing from Lille",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8d3jej2lqlo",
@@ -199,18 +223,6 @@
       "is_injury_related": true
     },
     {
-      "id": "53fa8476ce66",
-      "title": "Celtic deficiencies laid bare on another night of Champions League pain",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjdv5xvgv9lo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-26T06:52:56+00:00",
-      "summary": "When Callum McGregor eviscerated his own team-mates in the wake of Celtic's stupefying Champions League collapse against LASK, he delivered their one coherent moment of a spineless night, writes Tom English.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "bb068c4384c4",
       "title": "'A huge award' - O'Reilly named PFA young player of the year",
       "url": "https://www.bbc.co.uk/sport/football/videos/cn74yyepggmo",
@@ -221,6 +233,18 @@
         "England"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "b8e7da35429c",
+      "title": "Xavi hopes time at the ‘university of football’ will end with Dutch success",
+      "url": "https://www.theguardian.com/football/2026/aug/25/xavi-hernandez-university-of-football-netherlands-head-coach-barcelona",
+      "source": "The Guardian",
+      "published_at": "2026-08-25T19:58:37+00:00",
+      "summary": "Barcelona legend wants to emulate Johan Cruyff’s total football philosophy after taking over as the Netherlands head coach “My feeling today is that I’m going to the university of football.” Those were Xavi Hernández’s opening words at his presentation as the Netherlands coach on",
+      "teams": [
+        "Netherlands"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "8bc7af6fc4c0",
@@ -271,57 +295,6 @@
       "is_injury_related": true
     },
     {
-      "id": "a43a4afacfc1",
-      "title": "New rules, managers and pundits: what’s different this Premier League season?",
-      "url": "https://www.theguardian.com/football/2026/aug/21/new-rules-managers-pundits-premier-league-season-2026-2027",
-      "source": "The Guardian",
-      "published_at": "2026-08-21T07:00:27+00:00",
-      "summary": "A crackdown on time wasting, a record number of new people in charge, and some new faces on Match of the Day The 2026-27 Premier League season kicks off on Friday and while the familiar rivalries return, the English top flight has some alterations this campaign. From evolved rule",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "d06006b82740",
-      "title": "Maracanã to host opening game and final at next year’s Women’s World Cup",
-      "url": "https://www.theguardian.com/football/2026/aug/20/maracana-to-host-opening-game-and-final-at-next-years-womens-world-cup",
-      "source": "The Guardian",
-      "published_at": "2026-08-20T15:25:54+00:00",
-      "summary": "Stadium has hosted two men’s World Cup finals Arena Itaquera in São Paulo will host 10 matches The Maracanã in Rio de Janeiro will host the opening game and the final of next year’s Women’s World Cup. The 78,838-capacity stadium, which hosted the finals of the 1950 and 2014 men’s",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "4807a19cef6d",
-      "title": "Can a managerial merry-go-round in Serie A stop Inter’s dominance?",
-      "url": "https://www.theguardian.com/football/2026/aug/20/serie-a-preview-inter-milan-juventus-como-roma-napoli",
-      "source": "The Guardian",
-      "published_at": "2026-08-20T11:00:51+00:00",
-      "summary": "Milan, Napoli and Atalanta all have new head coaches as Italian football hopes to return to the spotlight And so, calcio’s “ third apocalypse ” has passed. A lot of Italians enjoyed the World Cup more than they expected. Without a team to cheer for, again, a country turned its at",
-      "teams": [
-        "Belgium",
-        "Spain",
-        "Argentina"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "1e1c62fa4206",
-      "title": "‘A huge honour’: Socceroos World Cup star Alessandro Circati seals move to Benfica",
-      "url": "https://www.theguardian.com/football/2026/aug/20/alessandro-circati-benfica-portugal-primeira-liga-transfer-news-move",
-      "source": "The Guardian",
-      "published_at": "2026-08-19T23:58:35+00:00",
-      "summary": "Defender completes transfer for reported fee of 20m euros ($33m) Ten Australian players have now made post-World Cup moves Young Socceroo Alessandro Circati has become the latest Australian international to be snapped up in a money-spinning European transfer, as he hailed his mov",
-      "teams": [
-        "Australia",
-        "Portugal"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "1ebf91834857",
       "title": "Football Daily | Sensible soccer: are football clubs actually signing the players they need?",
       "url": "https://www.theguardian.com/football/2026/aug/19/sensible-soccer-clubs-signing-players-transfers-football-daily",
@@ -343,18 +316,6 @@
       "summary": "Monique Ngock starred as Cameroon triumphed for the first time in a tournament of compelling surprises, even if crowd figures disappointed Cameroon became only the fourth country to lift the Women’s Africa Cup of Nations (Wafcon) title following Nigeria, Equatorial Guinea and Sou",
       "teams": [
         "South Africa"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "067d86801d67",
-      "title": "‘This isn’t normal in football’: Xisco, Malaysia and the new Invincibles",
-      "url": "https://www.theguardian.com/football/2026/aug/19/xisco-malaysia-new-invincibles-football-johor-darul-tazim",
-      "source": "The Guardian",
-      "published_at": "2026-08-19T07:00:08+00:00",
-      "summary": "Royal family-backed Johor Darul Ta’zim are on the verge of a world-record 109 league games unbeaten and their former Watford manager is aiming higher Many Watford fans felt Xisco Muñoz was dismissed too soon after leading them into the Premier League as Championship runners-up in",
-      "teams": [
-        "Spain"
       ],
       "is_injury_related": false
     }
