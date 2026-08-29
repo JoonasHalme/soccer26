@@ -1,17 +1,53 @@
 {
-  "generated_at": "2026-08-29T18:24:58.623384+00:00",
+  "generated_at": "2026-08-29T21:41:46.999368+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "a648b8c1d836",
-      "title": "Watch Sportscene highlights of Saturday's Premiership action",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcscotland",
+      "id": "e3807ec9f508",
+      "title": "Carrick dismisses ‘lazy’ Manchester United criticism and defends Fernandes’ leadership",
+      "url": "https://www.theguardian.com/football/2026/aug/29/manchester-united-michael-carrick-bruno-fernandes-lazy-criticism",
+      "source": "The Guardian",
+      "published_at": "2026-08-29T21:30:37+00:00",
+      "summary": "Manager says opening-day defeat just ‘one game’ United to be without Carlos Baleba against Ipswich Michael Carrick has said it was “lazy and easy” to say everything was wrong with Manchester United after the opening-day defeat at Hull. United lost 2-0 in a tame display and the ma",
+      "teams": [
+        "Belgium"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "05e99430519b",
+      "title": "All done deals in August 2026",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
       "source": "BBC Sport",
-      "published_at": "2026-08-29T19:15:08+00:00",
-      "summary": "Steven Thompson looks back at the afternoon's fixtures in the Scottish Premiership.",
+      "published_at": "2026-08-29T20:41:04+00:00",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "5bc7c3a81408",
+      "title": "Man City open talks with Liverpool over Gakpo",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-29T20:17:18+00:00",
+      "summary": "The Netherlands forward has also attracted interest from Tottenham, but sources indicate Manchester City is his preferred destination if he leaves Anfield.",
+      "teams": [
+        "Netherlands"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "fb58ccc5abf4",
+      "title": "'Angry & apologetic' - can McCann halt Kilmarnock's losing start?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c86xw1v3vp4o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-29T19:39:22+00:00",
+      "summary": "What is going wrong at Kilmarnock amid losing start to Scottish Premiership season?",
       "teams": [
         "Scotland"
       ],
@@ -55,19 +91,6 @@
       "is_injury_related": false
     },
     {
-      "id": "5f36c295633e",
-      "title": "James Tarkowski pounces at the death as Everton deny Bournemouth win",
-      "url": "https://www.theguardian.com/football/2026/aug/29/bournemouth-everton-premier-league-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-08-29T16:12:19+00:00",
-      "summary": "Through wind and rain, the end of summer and a new era at the Vitality. In the Europa League, Milan will visit Dorset and trips to San Sebastián, Galicia, Norway and Czechia await Bournemouth. The stadium is under renovation, towering exoskeletons waiting to be filled, new securi",
-      "teams": [
-        "Czech Republic",
-        "Norway"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "a78d249952a3",
       "title": "José Mourinho claims Kylian Mbappé should win Ballon d’Or ahead of PSG and Spain stars",
       "url": "https://www.theguardian.com/football/2026/aug/29/jose-mourinho-real-madrid-kylian-mbappe-ballon-dor",
@@ -92,30 +115,6 @@
       "is_injury_related": false
     },
     {
-      "id": "05e99430519b",
-      "title": "All done deals in August 2026",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-29T10:24:45+00:00",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "76d3f36524f5",
-      "title": "Aston Villa sign Jackson and close on Mbaye as Emery clears air with departing Watkins",
-      "url": "https://www.theguardian.com/football/2026/aug/28/nicolas-jackson-nears-aston-villa-move-unai-emery-ollie-watkins",
-      "source": "The Guardian",
-      "published_at": "2026-08-29T09:51:02+00:00",
-      "summary": "Jackson joins from Chelsea, PSG’s Mbaye poised to join Saudi-bound Watkins says sorry for refusing to play Unai Emery said Aston Villa were embarking on a “new chapter” as he welcomed the signing of Chelsea’s Nicolas Jackson, with Paris Saint-Germain’s Ibrahim Mbaye poised to com",
-      "teams": [
-        "Saudi Arabia"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "946ce4772adc",
       "title": "‘Now is a good time for players to speak up’: Lucy Bronze on Fifa and helping refugees",
       "url": "https://www.theguardian.com/football/2026/aug/29/lucy-bronze-chelsea-women-england-fifa-refugees",
@@ -124,30 +123,6 @@
       "summary": "Chelsea defender reflects on spending time with refugees in Colombia this summer and her passion for helping people on and off the pitch Lucy Bronze does not stop. Her brain runs a hundred miles a minute. She does not need traditional entertainment. “I’m not good at watching TV –",
       "teams": [
         "Colombia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "7e8b5c04c17d",
-      "title": "Cherki and Haaland double up in Manchester City cruise at Crystal Palace",
-      "url": "https://www.theguardian.com/football/2026/aug/28/crystal-palace-manchester-city-premier-league-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-08-28T20:59:41+00:00",
-      "summary": "All who attend the Rayan Cherki show know the ticket comes with a guarantee of entertainment. Enzo Maresca, a manager famed for his obsessive positional control, does not need to put limits on the Manchester City wizard. Cherki has to feel free and he was at his creative best aga",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "5e802ac97aa3",
-      "title": "Stadium closures for Old Firm over fan disorder",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gk206k95xo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-28T18:36:00+00:00",
-      "summary": "Celtic and Rangers are ordered to play their next home Scottish Cup ties behind closed doors after fan disorder last season.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -176,16 +151,17 @@
       "is_injury_related": false
     },
     {
-      "id": "bfc10f17d324",
-      "title": "'They are now athletes' - how do referees get ready for a season?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd68q3wx56zo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-28T09:40:12+00:00",
-      "summary": "Pre-season camps in Spain and full-time training throughout the season - the rigorous regimes top-flight officials undergo to keep up with the pace of play in the Premier League",
+      "id": "f75d0fb00d30",
+      "title": "Esther González, Saudi Arabia and the questions around an unexpected transfer saga",
+      "url": "https://www.theguardian.com/football/2026/aug/28/esther-gonzalez-saudi-arabia-gotham-nwsl",
+      "source": "The Guardian",
+      "published_at": "2026-08-28T13:00:01+00:00",
+      "summary": "The Gotham striker said she was stepping away from the sport, but then signed for Al Qadsiah. The move sparked questions over professionalism and raised concerns of LGBTQ+ fans who have disavowed the Saudi league A recent World Cup winner joins a historically downtrodden club, im",
       "teams": [
-        "Spain"
+        "Spain",
+        "Saudi Arabia"
       ],
-      "is_injury_related": false
+      "is_injury_related": true
     },
     {
       "id": "5592aeb414dd",
@@ -199,18 +175,6 @@
         "Argentina"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "d496ffb2840f",
-      "title": "Kane on Ballon d'Or hopes",
-      "url": "https://www.bbc.co.uk/sport/football/videos/czjz9g977p0o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-28T05:05:59+00:00",
-      "summary": "Harry Kane discusses potential Ballon d'Or hopes after becoming the first Englishman to win Germany's footballer of the year award for the 2025-26 season.",
-      "teams": [
-        "Germany"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "950a86aa49d8",
@@ -344,18 +308,6 @@
         "Morocco"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "bb068c4384c4",
-      "title": "'A huge award' - O'Reilly named PFA young player of the year",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cn74yyepggmo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-25T21:02:32+00:00",
-      "summary": "Manchester City and England full-back Nico O'Reilly says \"it feels amazing\" after receiving the 2026 PFA young player of the year award.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "b8e7da35429c",
