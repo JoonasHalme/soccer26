@@ -1,14 +1,27 @@
 {
-  "generated_at": "2026-08-30T21:00:09.289623+00:00",
+  "generated_at": "2026-08-30T23:26:55.553407+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "9c79a5139dd5",
+      "id": "be1a3e75878d",
+      "title": "Mikel Arteta ‘begging’ Premier League to expand 20-man matchday squads",
+      "url": "https://www.theguardian.com/football/2026/aug/30/mikel-arteta-premier-league-matchday-squad-player-welfare-arsenal",
+      "source": "The Guardian",
+      "published_at": "2026-08-30T21:30:06+00:00",
+      "summary": "Arsenal manager says dropping players ‘affects wellbeing’ Serie A allows 25-player matchday squads and La Liga 23 Arsenal have asked the Premier League to increase the size of matchday squads, with Mikel Arteta saying the current system is detrimental to player welfare. Top‑fligh",
+      "teams": [
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "72399fd31e93",
       "title": "Watch: Sportscene - Sunday's Scottish Premiership highlights",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m00312t8",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone",
       "source": "BBC Sport",
       "published_at": "2026-08-30T19:15:44+00:00",
       "summary": "With Aberdeen v Rangers, Dundee v Hibs and St Mirren v Motherwell",
@@ -50,6 +63,18 @@
       "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "teams": [
         "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "e3e4a1f95661",
+      "title": "Transfer roundup: Ollie Watkins completes move to Al-Hilal from Aston Villa",
+      "url": "https://www.theguardian.com/football/2026/aug/30/transfer-roundup-ollie-watkins-al-hilal-aston-villa",
+      "source": "The Guardian",
+      "published_at": "2026-08-30T16:46:29+00:00",
+      "summary": "England forward’s exit continues busy summer for Villa News follows Emiliano Martínez moving to Chelsea Al-Hilal have signed Ollie Watkins from Aston Villa, ⁠the two clubs announced on Sunday, as the 30-year-old striker ended a successful ⁠six-year spell with ⁠the ​Midlands club ",
+      "teams": [
+        "England"
       ],
       "is_injury_related": false
     },
@@ -124,18 +149,6 @@
       "summary": "The Netherlands forward has also attracted interest from Tottenham, but sources indicate Manchester City is his preferred destination if he leaves Anfield.",
       "teams": [
         "Netherlands"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "091222a1cb57",
-      "title": "Amin Nabizada sparkles for Watford as draw puts pressure on West Ham’s Nuno",
-      "url": "https://www.theguardian.com/football/2026/aug/29/watford-west-ham-championship-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-08-29T16:15:30+00:00",
-      "summary": "When a club is an established part of English football’s upper echelons, plays its home games inside a 68,000-seater stadium, and promptly breaks the Championship transfer record following relegation from the top flight , there are expectations that naturally follow. By all accou",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
