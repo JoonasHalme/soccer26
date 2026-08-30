@@ -1,10 +1,71 @@
 {
-  "generated_at": "2026-08-30T06:35:57.458039+00:00",
+  "generated_at": "2026-08-30T12:49:38.720793+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "05e99430519b",
+      "title": "All done deals in August 2026",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-30T12:34:51+00:00",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6046337323e6",
+      "title": "Coventry sign Mfuni on loan from Man City",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g73yvjz9do",
+      "source": "BBC Sport",
+      "published_at": "2026-08-30T11:55:34+00:00",
+      "summary": "Coventry City sign English defender Stephen Mfuni on a season-long loan deal from Manchester City.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8ff28f37f394",
+      "title": "Boreham Wood accept Vardy-beating record fee for Abdulmalik",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zvw14e8zo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-30T09:19:27+00:00",
+      "summary": "Swedish club Djurgardens agree a National League record fee thought to be in excess of £1.5m to sign winger Abdul Abdulmalik from Boreham Wood.",
+      "teams": [
+        "Sweden"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f25bda0d0ee9",
+      "title": "Emiliano Martínez finally gets his Villa exit with £7.5m move to Chelsea",
+      "url": "https://www.theguardian.com/football/2026/aug/30/emiliano-martinez-aston-villa-exit-move-chelsea",
+      "source": "The Guardian",
+      "published_at": "2026-08-30T08:44:11+00:00",
+      "summary": "Argentinian set to displace Sánchez as Blues’ No 1 ‘Coming to Chelsea was an easy decision to make’ Chelsea have completed the signing of the Aston Villa goalkeeper Emiliano Martínez. The 33-year-old, who has been agitating to leave Villa for the last two summers, has finally got",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f6c4403d34b4",
+      "title": "Antonio helps young Ghanaians chase Premier League dreams",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg0n8l87g7o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-30T07:01:58+00:00",
+      "summary": "Former West Ham forward Michail Antonio is helping players from a Ghana academy, who have travelled to England in the hope of turning pro.",
+      "teams": [
+        "England",
+        "Ghana"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "a966c351f320",
       "title": "Women’s Super League 2026-27 preview No 9: Liverpool",
@@ -27,18 +88,6 @@
       "summary": "Manager says opening-day defeat just ‘one game’ United to be without Carlos Baleba against Ipswich Michael Carrick has said it was “lazy and easy” to say everything was wrong with Manchester United after the opening-day defeat at Hull. United lost 2-0 in a tame display and the ma",
       "teams": [
         "Belgium"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "05e99430519b",
-      "title": "All done deals in August 2026",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-29T20:41:04+00:00",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -88,18 +137,6 @@
       "summary": "When a club is an established part of English football’s upper echelons, plays its home games inside a 68,000-seater stadium, and promptly breaks the Championship transfer record following relegation from the top flight , there are expectations that naturally follow. By all accou",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "57f6e182bb90",
-      "title": "The tiny town aiming to defy odds in Bundesliga debut",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70d4n1d0r9o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-29T16:14:34+00:00",
-      "summary": "Elversberg has no train station and a population of just 13,000, but its football team have enjoyed a meteoric rise from the regional German leagues to the Bundesliga.",
-      "teams": [
-        "Germany"
       ],
       "is_injury_related": false
     },
@@ -234,31 +271,6 @@
       "summary": "Too many players are off the pace and Roberto De Zerbi has had no hesitation in naming names Jan Paul van Hecke was among those given an unwanted name-check by Roberto De Zerbi after Tottenham’s 3-0 defeat at Brentford on Saturday . Not at the right level physically, was the gist",
       "teams": [
         "Australia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "ba2d21bc483d",
-      "title": "Dortmund best of the rest as Bundesliga clubs grasp at Bayern Munich’s coattails | Andy Brassell",
-      "url": "https://www.theguardian.com/football/2026/aug/27/bundesliga-preview-bayern-munich-borussia-dortmund",
-      "source": "The Guardian",
-      "published_at": "2026-08-27T11:14:22+00:00",
-      "summary": "BVB are re-energised and Leverkusen have stabilised, but can anyone stop the champions? The Franz Beckenbauer Supercup has a modicum more intensity than most of its European equivalents. There are many reasons for this. The Bundesliga’s traditional season curtain-raiser pitting l",
-      "teams": [
-        "Germany"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "8d28b10d5f75",
-      "title": "Fan backlash as gay World Cup star joins Saudi club",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyl2dvvv0o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-27T08:52:41+00:00",
-      "summary": "Spain forward Esther Gonzalez attracts backlash after signing for Saudi Women's Premier League side Al Qadsiah.",
-      "teams": [
-        "Spain",
-        "Saudi Arabia"
       ],
       "is_injury_related": false
     },
