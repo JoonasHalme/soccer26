@@ -1,17 +1,53 @@
 {
-  "generated_at": "2026-08-30T12:49:38.720793+00:00",
+  "generated_at": "2026-08-30T17:25:07.578069+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "3e0d91c5fef7",
+      "title": "Watkins completes £51m move to Saudi side Al-Hilal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70le5gllyeo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-30T17:12:52+00:00",
+      "summary": "Ollie Watkins completes his £51m move to Saudi Pro League side Al Hilal from Aston Villa.",
+      "teams": [
+        "Saudi Arabia"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "05e99430519b",
       "title": "All done deals in August 2026",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
       "source": "BBC Sport",
-      "published_at": "2026-08-30T12:34:51+00:00",
+      "published_at": "2026-08-30T17:11:42+00:00",
       "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "e3e4a1f95661",
+      "title": "Transfer roundup: Ollie Watkins completes move to Al-Hilal from Aston Villa",
+      "url": "https://www.theguardian.com/football/2026/aug/30/transfer-roundup-ollie-watkins-al-hilal-aston-villa",
+      "source": "The Guardian",
+      "published_at": "2026-08-30T16:46:29+00:00",
+      "summary": "England forward’s exit continues busy summer for Villa News follows Emiliano Martínez moving to Chelsea Al-Hilal have signed Ollie Watkins from Aston Villa, ⁠the two clubs announced on Sunday, as the 30-year-old striker ended a successful ⁠six-year spell with ⁠the ​Midlands club ",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "5ef949694019",
+      "title": "Scottish Premiership: Shankland on the spot to ease pressure on McInnes and Rangers",
+      "url": "https://www.theguardian.com/football/2026/aug/29/scottish-premiership-celtic-hearts-rangers-aberdeen",
+      "source": "The Guardian",
+      "published_at": "2026-08-30T16:31:12+00:00",
+      "summary": "Striker’s second-half penalty ensures 1-0 win at Aberdeen St Mirren 3-3 Motherwell; Celtic 2-0 Falkirk on Saturday Lawrence Shankland’s second-half penalty gave Derek McInnes and Rangers some much-needed respite with a 1-0 win against Aberdeen at Pittodrie. The tale since the Ran",
       "teams": [
         "Scotland"
       ],
@@ -80,18 +116,6 @@
       "is_injury_related": false
     },
     {
-      "id": "e3807ec9f508",
-      "title": "Carrick dismisses ‘lazy’ Manchester United criticism and defends Fernandes’ leadership",
-      "url": "https://www.theguardian.com/football/2026/aug/29/manchester-united-michael-carrick-bruno-fernandes-lazy-criticism",
-      "source": "The Guardian",
-      "published_at": "2026-08-29T21:30:37+00:00",
-      "summary": "Manager says opening-day defeat just ‘one game’ United to be without Carlos Baleba against Ipswich Michael Carrick has said it was “lazy and easy” to say everything was wrong with Manchester United after the opening-day defeat at Hull. United lost 2-0 in a tame display and the ma",
-      "teams": [
-        "Belgium"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "5bc7c3a81408",
       "title": "Man City open talks with Liverpool over Gakpo",
       "url": "https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo",
@@ -104,31 +128,6 @@
       "is_injury_related": false
     },
     {
-      "id": "fb58ccc5abf4",
-      "title": "'Angry & apologetic' - can McCann halt Kilmarnock's losing start?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c86xw1v3vp4o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-29T19:39:22+00:00",
-      "summary": "What is going wrong at Kilmarnock amid losing start to Scottish Premiership season?",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "5ef949694019",
-      "title": "Scottish Premiership: on-song Durán lifts Celtic spirits in win over Falkirk",
-      "url": "https://www.theguardian.com/football/2026/aug/29/scottish-premiership-celtic-hearts-rangers-aberdeen",
-      "source": "The Guardian",
-      "published_at": "2026-08-29T16:42:20+00:00",
-      "summary": "Celtic fans’ banner mocks club’s ‘world class’ claims Hearts edge St Johnstone, Dundee United rout Killie Camilo Durán, in his preferred position of centre-forward, scored both goals for Celtic in their 2-1 win over Falkirk . The Colombian hit two striker’s goals in the opening 2",
-      "teams": [
-        "Scotland",
-        "Colombia"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "091222a1cb57",
       "title": "Amin Nabizada sparkles for Watford as draw puts pressure on West Ham’s Nuno",
       "url": "https://www.theguardian.com/football/2026/aug/29/watford-west-ham-championship-match-report",
@@ -137,30 +136,6 @@
       "summary": "When a club is an established part of English football’s upper echelons, plays its home games inside a 68,000-seater stadium, and promptly breaks the Championship transfer record following relegation from the top flight , there are expectations that naturally follow. By all accou",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "a78d249952a3",
-      "title": "José Mourinho claims Kylian Mbappé should win Ballon d’Or ahead of PSG and Spain stars",
-      "url": "https://www.theguardian.com/football/2026/aug/29/jose-mourinho-real-madrid-kylian-mbappe-ballon-dor",
-      "source": "The Guardian",
-      "published_at": "2026-08-29T14:31:10+00:00",
-      "summary": "Real Madrid manager backs his striker to land award ‘The best player in the world is not at PSG or Spain’ José Mourinho has said Kylian Mbappé deserves to win this year’s Ballon d’Or, arguing the award should go to the best player in the world rather than be decided by World Cup ",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "7429a9232709",
-      "title": "Alonso gets Chelsea’s priorities right by ditching Sánchez for winner Martínez | Jacob Steinberg",
-      "url": "https://www.theguardian.com/football/2026/aug/29/xabi-alonso-chelsea-keepers-robert-sanchez-emiliano-martinez",
-      "source": "The Guardian",
-      "published_at": "2026-08-29T11:00:26+00:00",
-      "summary": "Signing of World Cup winner adds to sense that this is the summer when BlueCo got serious in transfer market Carlo Cudicini was a very good goalkeeper. However, José Mourinho was ruthless when he became Chelsea manager in 2004. Very good was not good enough. Mourinho wanted the b",
-      "teams": [
-        "Portugal"
       ],
       "is_injury_related": false
     },
@@ -275,6 +250,19 @@
       "is_injury_related": false
     },
     {
+      "id": "8d28b10d5f75",
+      "title": "Fan backlash as gay World Cup star joins Saudi club",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyl2dvvv0o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-27T08:52:41+00:00",
+      "summary": "Spain forward Esther Gonzalez attracts backlash after signing for Saudi Women's Premier League side Al Qadsiah.",
+      "teams": [
+        "Spain",
+        "Saudi Arabia"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "19e248b6bcf2",
       "title": "Why Herrera is playing for free in Spanish third division",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9864p3wz1jo",
@@ -283,18 +271,6 @@
       "summary": "Ander Herrera has represented some of the world's biggest clubs, but now he is back home playing for free in Spain's third tier - and this is why.",
       "teams": [
         "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "54d3a0e501ec",
-      "title": "Plight of Pogba, Sancho and others is cautionary tale for any Carrick rebuild",
-      "url": "https://www.theguardian.com/football/2026/aug/27/manchester-united-michael-carrick-paul-pogba-jadon-sancho-cautionary-tale",
-      "source": "The Guardian",
-      "published_at": "2026-08-27T07:00:07+00:00",
-      "summary": "Bruno Fernandes is the only surviving attacker from Ole Gunnar Solskjær’s attempt to bridge gap to rivals in 2021 Five years is a long time in football. Manchester United’s summer of 2021 is now remembered as the turning point in Ole Gunnar Solskjær’s reign; the sentimental decis",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
