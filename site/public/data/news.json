@@ -1,17 +1,41 @@
 {
-  "generated_at": "2026-08-30T17:25:07.578069+00:00",
+  "generated_at": "2026-08-30T21:00:09.289623+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "9c79a5139dd5",
+      "title": "Watch: Sportscene - Sunday's Scottish Premiership highlights",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m00312t8",
+      "source": "BBC Sport",
+      "published_at": "2026-08-30T19:15:44+00:00",
+      "summary": "With Aberdeen v Rangers, Dundee v Hibs and St Mirren v Motherwell",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "41835e646019",
+      "title": "Lionel Messi’s ‘footballing beauty’ hailed as Miami crush Montreal; MLS roundup",
+      "url": "https://www.theguardian.com/football/2026/aug/30/lionel-messi-inter-miami-mls-nashville-sc-dejan-joveljic-seattle-sounders",
+      "source": "The Guardian",
+      "published_at": "2026-08-30T18:09:56+00:00",
+      "summary": "Messi nets four goals, adds assist in 7-1 Miami win Dejan Joveljić scores twice on Sounders debut Minnesota United score three times in four minutes Inter Miami interim coach Guillermo Hoyos ran out of superlatives for Lionel Messi after the ⁠Argentine playmaker scored four goals",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "3e0d91c5fef7",
       "title": "Watkins completes £51m move to Saudi side Al-Hilal",
       "url": "https://www.bbc.co.uk/sport/football/articles/c70le5gllyeo",
       "source": "BBC Sport",
       "published_at": "2026-08-30T17:12:52+00:00",
-      "summary": "Ollie Watkins completes his £51m move to Saudi Pro League side Al Hilal from Aston Villa.",
+      "summary": "Ollie Watkins says he never imagined or intended his Aston Villa career to \"end this way\" after completing his £51m move to Al-Hilal.",
       "teams": [
         "Saudi Arabia"
       ],
@@ -26,18 +50,6 @@
       "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "teams": [
         "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e3e4a1f95661",
-      "title": "Transfer roundup: Ollie Watkins completes move to Al-Hilal from Aston Villa",
-      "url": "https://www.theguardian.com/football/2026/aug/30/transfer-roundup-ollie-watkins-al-hilal-aston-villa",
-      "source": "The Guardian",
-      "published_at": "2026-08-30T16:46:29+00:00",
-      "summary": "England forward’s exit continues busy summer for Villa News follows Emiliano Martínez moving to Chelsea Al-Hilal have signed Ollie Watkins from Aston Villa, ⁠the two clubs announced on Sunday, as the 30-year-old striker ended a successful ⁠six-year spell with ⁠the ​Midlands club ",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
@@ -67,25 +79,13 @@
     },
     {
       "id": "8ff28f37f394",
-      "title": "Boreham Wood accept Vardy-beating record fee for Abdulmalik",
+      "title": "Abdulmalik breaks Vardy's non-league transfer record",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx2zvw14e8zo",
       "source": "BBC Sport",
       "published_at": "2026-08-30T09:19:27+00:00",
-      "summary": "Swedish club Djurgardens agree a National League record fee thought to be in excess of £1.5m to sign winger Abdul Abdulmalik from Boreham Wood.",
+      "summary": "Swedish club Djurgarden sign Abdul Adbulmalik from Boreham Wood for a National League record fee worth an initial £1.5m.",
       "teams": [
         "Sweden"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f25bda0d0ee9",
-      "title": "Emiliano Martínez finally gets his Villa exit with £7.5m move to Chelsea",
-      "url": "https://www.theguardian.com/football/2026/aug/30/emiliano-martinez-aston-villa-exit-move-chelsea",
-      "source": "The Guardian",
-      "published_at": "2026-08-30T08:44:11+00:00",
-      "summary": "Argentinian set to displace Sánchez as Blues’ No 1 ‘Coming to Chelsea was an easy decision to make’ Chelsea have completed the signing of the Aston Villa goalkeeper Emiliano Martínez. The 33-year-old, who has been agitating to leave Villa for the last two summers, has finally got",
-      "teams": [
-        "Argentina"
       ],
       "is_injury_related": false
     },
