@@ -1,10 +1,146 @@
 {
-  "generated_at": "2026-08-31T05:25:58.025820+00:00",
+  "generated_at": "2026-08-31T13:36:56.224160+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "05e99430519b",
+      "title": "All done deals in August 2026",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-31T13:10:31+00:00",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "7f3bd6837112",
+      "title": "Barcola joins Liverpool from PSG in £123m move",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9qrj4p58j4o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-31T13:01:22+00:00",
+      "summary": "Liverpool complete the signing of France forward Bradley Barcola from Paris St-Germain for a fee worth up to £123m.",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "fb2cf2eb59e9",
+      "title": "Transfer latest: Juventus in Woltemade loan talks, Everton pushing for Balogun",
+      "url": "https://www.theguardian.com/football/2026/aug/31/transfer-latest-nick-woltemade-newcastle-juventus-everton-folarin-balogun",
+      "source": "The Guardian",
+      "published_at": "2026-08-31T12:01:33+00:00",
+      "summary": "Manchester City confirm Allan signing for initial £32.1m Palace sell Muñoz to Forest and poised to sign Ahanor Nick Woltemade is close to a loan move from Newcastle to Juventus, a year after arriving at Newcastle in a club record £69m deal from Stuttgart. The gifted Germany forwa",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "a42d944d5b89",
+      "title": "Elversberg and ‘miracle village’ prove that Bundesliga fairytales still exist | Andy Brassell",
+      "url": "https://www.theguardian.com/football/2026/aug/31/elversberg-miracle-village-prove-bundesliga-fairytales-still-exist",
+      "source": "The Guardian",
+      "published_at": "2026-08-31T11:52:41+00:00",
+      "summary": "German football has long insisted there is more to their elite league than a title race. Now they have a story that shows the world that surprise and wonder does live here too Friday night was no first day fun for VfB Stuttgart as they got first-hand proof of what the rest of the",
+      "teams": [
+        "Germany",
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "5862c2002ed7",
+      "title": "Arsenal trying to lure Julián Álvarez after agreeing deals to sell Martinelli and Jesus",
+      "url": "https://www.theguardian.com/football/2026/aug/31/arsenal-julian-alvarez-gabriel-martinelli-jesus-transfers",
+      "source": "The Guardian",
+      "published_at": "2026-08-31T10:45:18+00:00",
+      "summary": "Atlético say they will not allow Barcelona to buy Álvarez Jesus poised for Barça and Martinelli for Al-Hilal Arsenal are running out of time to persuade Julián Álvarez to join them from Atlético Madrid after agreeing to sell Gabriel Martinelli, Gabriel Jesus and Fábio Vieira in d",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "f656537161bd",
+      "title": "Germany's Wamser completes move to Man City",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g5x8y0n2jo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-31T10:30:12+00:00",
+      "summary": "Manchester City complete the signing of Bayer Leverkusen and Germany defender Carlotta Wamser on a four-year deal.",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "9df5a21a4b1a",
+      "title": "Watch round-up of best SPFL action",
+      "url": "https://www.bbc.co.uk/sport/videos/cn0715p7wn7o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-31T10:08:42+00:00",
+      "summary": "Watch the best of the weekend action from the Scottish Championship, Scottish League 1 and Scottish League 2.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "523422ddea3c",
+      "title": "Watkins faces Toney clash as strikers push for Saudi supremacy and Tuchel’s attention",
+      "url": "https://www.theguardian.com/football/2026/aug/31/ollie-watkins-ivan-toney-saudi-arabia-thomas-tuchel-england",
+      "source": "The Guardian",
+      "published_at": "2026-08-31T09:01:39+00:00",
+      "summary": "Al-Hilal’s signing from Villa is thrown straight into big game against Al-Ahli and faces the highest of expectations Ollie Watkins and Ivan Toney spent 33 minutes on the pitch together a few weeks ago in Miami as England beat France 6-4 in a game for third place at the World Cup.",
+      "teams": [
+        "Saudi Arabia",
+        "France",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1817475ccd31",
+      "title": "Man Utd near deal for Mexico's Bernal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c780weq4146o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-31T08:21:54+00:00",
+      "summary": "Manchester United are close to signing Mexico international Rebeca Bernal from Washington Spirit.",
+      "teams": [
+        "Mexico"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6d0deee987f0",
+      "title": "The transfers to watch before window closes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7v433lejveo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-31T08:12:39+00:00",
+      "summary": "BBC Sport's football experts pick out the standout transfers that could go through before Tuesday's 23:00 BST English deadline.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "abba6d2863f0",
+      "title": "Premier League: 10 talking points from the weekend’s action",
+      "url": "https://www.theguardian.com/football/2026/aug/31/premier-league-10-talking-points-from-the-weekend-action",
+      "source": "The Guardian",
+      "published_at": "2026-08-31T07:00:19+00:00",
+      "summary": "Newcastle players look revitalised, Liverpool’s curious transfer strategy and a worrying start for Palace Amid the concerns at Manchester United, one player unquestioned is Senne Lammens. The goalkeeper produced some important first-half saves against Ipswich to keep his side in ",
+      "teams": [
+        "Paraguay",
+        "Belgium"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "be1a3e75878d",
       "title": "Mikel Arteta ‘begging’ Premier League to expand 20-man matchday squads",
@@ -19,30 +155,6 @@
       "is_injury_related": true
     },
     {
-      "id": "9c79a5139dd5",
-      "title": "Watch: Sportscene - Sunday's Scottish Premiership highlights",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m00312t8",
-      "source": "BBC Sport",
-      "published_at": "2026-08-30T19:15:44+00:00",
-      "summary": "With Aberdeen v Rangers, Dundee v Hibs and St Mirren v Motherwell",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "41835e646019",
-      "title": "Lionel Messi’s ‘footballing beauty’ hailed as Miami crush Montreal; MLS roundup",
-      "url": "https://www.theguardian.com/football/2026/aug/30/lionel-messi-inter-miami-mls-nashville-sc-dejan-joveljic-seattle-sounders",
-      "source": "The Guardian",
-      "published_at": "2026-08-30T18:09:56+00:00",
-      "summary": "Messi nets four goals, adds assist in 7-1 Miami win Dejan Joveljić scores twice on Sounders debut Minnesota United score three times in four minutes Inter Miami interim coach Guillermo Hoyos ran out of superlatives for Lionel Messi after the ⁠Argentine playmaker scored four goals",
-      "teams": [
-        "Argentina"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "3e0d91c5fef7",
       "title": "Watkins completes £51m move to Saudi side Al-Hilal",
       "url": "https://www.bbc.co.uk/sport/football/articles/c70le5gllyeo",
@@ -51,54 +163,6 @@
       "summary": "Ollie Watkins says he never imagined or intended his Aston Villa career to \"end this way\" after completing his £51m move to Al-Hilal.",
       "teams": [
         "Saudi Arabia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "05e99430519b",
-      "title": "All done deals in August 2026",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-30T17:11:42+00:00",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e3e4a1f95661",
-      "title": "Transfer roundup: Ollie Watkins completes move to Al-Hilal from Aston Villa",
-      "url": "https://www.theguardian.com/football/2026/aug/30/transfer-roundup-ollie-watkins-al-hilal-aston-villa",
-      "source": "The Guardian",
-      "published_at": "2026-08-30T16:46:29+00:00",
-      "summary": "England forward’s exit continues busy summer for Villa News follows Emiliano Martínez moving to Chelsea Al-Hilal have signed Ollie Watkins from Aston Villa, ⁠the two clubs announced on Sunday, as the 30-year-old striker ended a successful ⁠six-year spell with ⁠the ​Midlands club ",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "5ef949694019",
-      "title": "Scottish Premiership: Shankland on the spot to ease pressure on McInnes and Rangers",
-      "url": "https://www.theguardian.com/football/2026/aug/29/scottish-premiership-celtic-hearts-rangers-aberdeen",
-      "source": "The Guardian",
-      "published_at": "2026-08-30T16:31:12+00:00",
-      "summary": "Striker’s second-half penalty ensures 1-0 win at Aberdeen St Mirren 3-3 Motherwell; Celtic 2-0 Falkirk on Saturday Lawrence Shankland’s second-half penalty gave Derek McInnes and Rangers some much-needed respite with a 1-0 win against Aberdeen at Pittodrie. The tale since the Ran",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "6046337323e6",
-      "title": "Coventry sign Mfuni on loan from Man City",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g73yvjz9do",
-      "source": "BBC Sport",
-      "published_at": "2026-08-30T11:55:34+00:00",
-      "summary": "Coventry City sign English defender Stephen Mfuni on a season-long loan deal from Manchester City.",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
@@ -137,18 +201,6 @@
       "teams": [
         "Germany",
         "Japan"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "5bc7c3a81408",
-      "title": "Man City open talks with Liverpool over Gakpo",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-29T20:17:18+00:00",
-      "summary": "The Netherlands forward has also attracted interest from Tottenham, but sources indicate Manchester City is his preferred destination if he leaves Anfield.",
-      "teams": [
-        "Netherlands"
       ],
       "is_injury_related": false
     },
@@ -202,19 +254,6 @@
       "is_injury_related": true
     },
     {
-      "id": "5592aeb414dd",
-      "title": "Football transfer rumours: Rafael Leão to Aston Villa? Harvey Elliott to Napoli or Lazio?",
-      "url": "https://www.theguardian.com/football/2026/aug/28/football-transfer-rumours-rafael-leao-to-aston-villa-harvey-elliott-to-napoli-or-lazio",
-      "source": "The Guardian",
-      "published_at": "2026-08-28T08:27:02+00:00",
-      "summary": "Today’s tittle tattle is staring into the abyss The absence of Enzo Fernández from the Chelsea squad that saw off Luton in the Carabao Cup on Thursday night set no end of tongues wagging before, during and after the game. Despite public pre-match assurances from Xabi Alonso that ",
-      "teams": [
-        "Spain",
-        "Argentina"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "950a86aa49d8",
       "title": "Women’s Super League 2026-27 preview No 7: Crystal Palace",
       "url": "https://www.theguardian.com/football/2026/aug/28/womens-super-league-2026-27-preview-no-7-crystal-palace",
@@ -249,43 +288,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "83c299e82e94",
-      "title": "Spurs paying price for World Cup and pre-season trip to Australia",
-      "url": "https://www.theguardian.com/football/2026/aug/27/spurs-squad-pre-season-charlton-carabao-cup-newcastle",
-      "source": "The Guardian",
-      "published_at": "2026-08-27T15:27:04+00:00",
-      "summary": "Too many players are off the pace and Roberto De Zerbi has had no hesitation in naming names Jan Paul van Hecke was among those given an unwanted name-check by Roberto De Zerbi after Tottenham’s 3-0 defeat at Brentford on Saturday . Not at the right level physically, was the gist",
-      "teams": [
-        "Australia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "8d28b10d5f75",
-      "title": "Fan backlash as gay World Cup star joins Saudi club",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyl2dvvv0o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-27T08:52:41+00:00",
-      "summary": "Spain forward Esther Gonzalez attracts backlash after signing for Saudi Women's Premier League side Al Qadsiah.",
-      "teams": [
-        "Spain",
-        "Saudi Arabia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "19e248b6bcf2",
-      "title": "Why Herrera is playing for free in Spanish third division",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9864p3wz1jo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-27T07:02:50+00:00",
-      "summary": "Ander Herrera has represented some of the world's biggest clubs, but now he is back home playing for free in Spain's third tier - and this is why.",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "3c7879b6c2d3",
@@ -358,18 +360,6 @@
         "France"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "5e53eb22ccad",
-      "title": "Premier League: 10 talking points from opening weekend of the season",
-      "url": "https://www.theguardian.com/football/2026/aug/24/premier-league-10-talking-points-from-opening-weekend-action",
-      "source": "The Guardian",
-      "published_at": "2026-08-24T07:00:54+00:00",
-      "summary": "Manchester United’s under-powered attack, Brentford’s £39m bargain and Dewsbury-Hall delivers for Everton Arsenal’s treatment of Gabriel Martinelli has been questioned by Ian Wright after the Brazil forward was left out of their squad for Friday’s opening game against Coventry. M",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": true
     }
   ]
 }
