@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T13:36:56.224160+00:00",
+  "generated_at": "2026-08-31T19:59:40.671024+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -10,10 +10,135 @@
       "title": "All done deals in August 2026",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
       "source": "BBC Sport",
-      "published_at": "2026-08-31T13:10:31+00:00",
+      "published_at": "2026-08-31T19:49:43+00:00",
       "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "teams": [
         "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ee4a88044d2d",
+      "title": "Manchester City gazump Spurs over Iliman Ndiaye and eye Enzo Fernández deal",
+      "url": "https://www.theguardian.com/football/2026/aug/31/manchester-city-spurs-iliman-ndiaye-enzo-fernandez-deal-richarlison-mudryk",
+      "source": "The Guardian",
+      "published_at": "2026-08-31T19:32:27+00:00",
+      "summary": "City agree £65m deal with Everton for Senegal winger Richarlison to stay at Spurs, who want Chelsea’s Mudryk Manchester City are set to bolster their attack by buying Everton’s Iliman Ndiaye for up to £65m and have opened talks with Chelsea over a deal to sign Enzo Fernández. Cit",
+      "teams": [
+        "Senegal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "4436f625b06b",
+      "title": "Lionel Messi’s international retirement serves as a reminder: Watch him while you still can",
+      "url": "https://www.theguardian.com/football/2026/aug/31/lionel-messis-international-retirement-serves-as-a-reminder-watch-him-while-you-still-can",
+      "source": "The Guardian",
+      "published_at": "2026-08-31T18:51:49+00:00",
+      "summary": "The Argentine’s career with Argentina was singular, and his exit is a reminder that all good things come to an end It was among the defining moments of the 2026 World Cup: Lionel Messi standing arms akimbo, looking up towards Argentina’s fervent supporters after losing the final ",
+      "teams": [
+        "Egypt",
+        "Spain",
+        "Argentina",
+        "Algeria",
+        "Austria"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "e0a3df0314fc",
+      "title": "How Messi's decade of dominance almost never happened",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20e6wv1pdwo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-31T18:24:04+00:00",
+      "summary": "Lionel Messi's decade of dominance with Argentina that almost never happened will go down as one of football's greatest ever stories.",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6d0deee987f0",
+      "title": "The transfers to watch before window closes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7v433lejveo",
+      "source": "BBC Sport",
+      "published_at": "2026-08-31T17:28:57+00:00",
+      "summary": "BBC Sport's football experts pick out the standout transfers that could go through before Tuesday's 23:00 BST English deadline.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "064cbefeeecb",
+      "title": "Liverpool sign Barcola in £123m deal and expect Gakpo to stay after City offer £80m",
+      "url": "https://www.theguardian.com/football/2026/aug/31/liverpool-confirm-bradley-barcola-signing-psg",
+      "source": "The Guardian",
+      "published_at": "2026-08-31T16:38:50+00:00",
+      "summary": "France international says title ‘one of my biggest dreams’ Club rejected weekend Gakpo bid from Manchester City Bradley Barcola is aiming to win the Premier League after completing his move to Liverpool from Paris Saint‑Germain for an initial £106m, which could rise to £123m. The",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "a1e426a4a291",
+      "title": "Marseille’s squad is being gutted but their manager is staying – for now",
+      "url": "https://www.theguardian.com/football/2026/aug/31/marseille-squad-manager-staying-monaco-season",
+      "source": "The Guardian",
+      "published_at": "2026-08-31T16:11:23+00:00",
+      "summary": "It has been a tough transfer window for Marseille and a 2-0 defeat at Monaco suggests it could be a long season By Get French Football News A humid night in Monaco provided an opportunity to gauge the temperature of the Marseille supporters. Despite the ban on away fans at the St",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "bc0c61aa19cd",
+      "title": "Fifa extends ban on man who secretly filmed female footballers in Austria",
+      "url": "https://www.theguardian.com/football/2026/aug/31/fifa-worldwide-ban-man-secretly-filmed-female-footballers-austria-altach",
+      "source": "The Guardian",
+      "published_at": "2026-08-31T16:06:11+00:00",
+      "summary": "Former SCR Altach employee now banned worldwide Move follows pressure from players’ unions Fifa has extended worldwide the ban on a former match official and SCR Altach employee found guilty of taking secret videos and photographs of members of the club’s women’s team. In Februar",
+      "teams": [
+        "Austria"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "bea5102a83b7",
+      "title": "Argentina’s Lionel Messi retires from international football: ‘This hurts me a lot’",
+      "url": "https://www.theguardian.com/football/2026/aug/31/lionel-messi-retires-from-international-football-argentina",
+      "source": "The Guardian",
+      "published_at": "2026-08-31T15:19:13+00:00",
+      "summary": "Argentina great’s last game was in World Cup final Player’s father Jorge passed away earlier in August Lionel Messi has announced his retirement from international football seven weeks after Argentina were beaten by Spain in the World Cup final in the US. The 39-year-old captaine",
+      "teams": [
+        "Spain",
+        "Argentina"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "42672547e9b0",
+      "title": "Messi retires from Argentina duty with 'nothing left to give'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro",
+      "source": "BBC Sport",
+      "published_at": "2026-08-31T15:18:39+00:00",
+      "summary": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\".",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "4980288b5373",
+      "title": "Everton make bid for Monaco striker Balogun",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c780wzlzl45o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-31T15:16:28+00:00",
+      "summary": "Everton make an offer for Monaco forward Folarin Balogun - who is valued at £40m by the French club.",
+      "teams": [
+        "France"
       ],
       "is_injury_related": false
     },
@@ -30,18 +155,6 @@
       "is_injury_related": false
     },
     {
-      "id": "fb2cf2eb59e9",
-      "title": "Transfer latest: Juventus in Woltemade loan talks, Everton pushing for Balogun",
-      "url": "https://www.theguardian.com/football/2026/aug/31/transfer-latest-nick-woltemade-newcastle-juventus-everton-folarin-balogun",
-      "source": "The Guardian",
-      "published_at": "2026-08-31T12:01:33+00:00",
-      "summary": "Manchester City confirm Allan signing for initial £32.1m Palace sell Muñoz to Forest and poised to sign Ahanor Nick Woltemade is close to a loan move from Newcastle to Juventus, a year after arriving at Newcastle in a club record £69m deal from Stuttgart. The gifted Germany forwa",
-      "teams": [
-        "Germany"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "a42d944d5b89",
       "title": "Elversberg and ‘miracle village’ prove that Bundesliga fairytales still exist | Andy Brassell",
       "url": "https://www.theguardian.com/football/2026/aug/31/elversberg-miracle-village-prove-bundesliga-fairytales-still-exist",
@@ -53,18 +166,6 @@
         "France"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "5862c2002ed7",
-      "title": "Arsenal trying to lure Julián Álvarez after agreeing deals to sell Martinelli and Jesus",
-      "url": "https://www.theguardian.com/football/2026/aug/31/arsenal-julian-alvarez-gabriel-martinelli-jesus-transfers",
-      "source": "The Guardian",
-      "published_at": "2026-08-31T10:45:18+00:00",
-      "summary": "Atlético say they will not allow Barcelona to buy Álvarez Jesus poised for Barça and Martinelli for Al-Hilal Arsenal are running out of time to persuade Julián Álvarez to join them from Atlético Madrid after agreeing to sell Gabriel Martinelli, Gabriel Jesus and Fábio Vieira in d",
-      "teams": [
-        "Argentina"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "f656537161bd",
@@ -96,7 +197,7 @@
       "url": "https://www.theguardian.com/football/2026/aug/31/ollie-watkins-ivan-toney-saudi-arabia-thomas-tuchel-england",
       "source": "The Guardian",
       "published_at": "2026-08-31T09:01:39+00:00",
-      "summary": "Al-Hilal’s signing from Villa is thrown straight into big game against Al-Ahli and faces the highest of expectations Ollie Watkins and Ivan Toney spent 33 minutes on the pitch together a few weeks ago in Miami as England beat France 6-4 in a game for third place at the World Cup.",
+      "summary": "Al-Hilal’s signing from Villa is thrown straight into big game against Al-Ahli and faces the highest of expectations Ollie Watkins and Ivan Toney spent 33 minutes on the pitch together a few weeks ago in Miami as England defeated France 6-4 in a game for third place at the World ",
       "teams": [
         "Saudi Arabia",
         "France",
@@ -113,18 +214,6 @@
       "summary": "Manchester United are close to signing Mexico international Rebeca Bernal from Washington Spirit.",
       "teams": [
         "Mexico"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "6d0deee987f0",
-      "title": "The transfers to watch before window closes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7v433lejveo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-31T08:12:39+00:00",
-      "summary": "BBC Sport's football experts pick out the standout transfers that could go through before Tuesday's 23:00 BST English deadline.",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
@@ -163,31 +252,6 @@
       "summary": "Ollie Watkins says he never imagined or intended his Aston Villa career to \"end this way\" after completing his £51m move to Al-Hilal.",
       "teams": [
         "Saudi Arabia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "8ff28f37f394",
-      "title": "Abdulmalik breaks Vardy's non-league transfer record",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zvw14e8zo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-30T09:19:27+00:00",
-      "summary": "Swedish club Djurgarden sign Abdul Adbulmalik from Boreham Wood for a National League record fee worth an initial £1.5m.",
-      "teams": [
-        "Sweden"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f6c4403d34b4",
-      "title": "Antonio helps young Ghanaians chase Premier League dreams",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg0n8l87g7o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-30T07:01:58+00:00",
-      "summary": "Former West Ham forward Michail Antonio is helping players from a Ghana academy, who have travelled to England in the hope of turning pro.",
-      "teams": [
-        "England",
-        "Ghana"
       ],
       "is_injury_related": false
     },
@@ -300,30 +364,6 @@
         "France"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "86250bda4c83",
-      "title": "Football Daily | Celtic raise the bar for calamitous capitulations in Europe",
-      "url": "https://www.theguardian.com/football/2026/aug/26/celtic-lask-champions-league-calamity-football-daily-newsletter",
-      "source": "The Guardian",
-      "published_at": "2026-08-26T14:11:14+00:00",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! When Celtic opened the scoring against Lask courtesy of a low Callum McGregor shot after 21 minutes on Tuesday night, the Scottish champions looked to have exorcised their Bigger Cup demons from 12 months ago. Four goals ahead o",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f7e30db5e856",
-      "title": "Ayyoub Bouaddi: maths student, chess fan and Manchester City’s new Rodri",
-      "url": "https://www.theguardian.com/football/2026/aug/26/ayyoub-bouaddi-manchester-city-lille-transfer-rodri",
-      "source": "The Guardian",
-      "published_at": "2026-08-26T14:00:15+00:00",
-      "summary": "The £85m midfielder passed his exams a year early, is studying for a degree and is ready to tackle Premier League learning curve “He’s like a computer,” the former Lille head of academy recruitment, Mathieu Frison, says of the €100m (£85.7m) Manchester City recruit Ayyoub Bouaddi",
-      "teams": [
-        "Morocco"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "b8e7da35429c",
