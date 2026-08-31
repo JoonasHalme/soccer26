@@ -1,10 +1,58 @@
 {
-  "generated_at": "2026-08-31T19:59:40.671024+00:00",
+  "generated_at": "2026-08-31T23:47:51.636288+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "fb2cf2eb59e9",
+      "title": "Transfer latest: Juventus in Woltemade loan talks, Everton agree £40m Balogun fee",
+      "url": "https://www.theguardian.com/football/2026/aug/31/transfer-latest-nick-woltemade-newcastle-juventus-everton-folarin-balogun",
+      "source": "The Guardian",
+      "published_at": "2026-08-31T22:47:37+00:00",
+      "summary": "Manchester City confirm Allan signing for initial £32.1m Palace sell Muñoz to Forest and poised to sign Ahanor Nick Woltemade is close to a loan move from Newcastle to Juventus, a year after arriving at St James’ Park in a club-record £69m deal from Stuttgart. The gifted Germany ",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "68d80fa02e1b",
+      "title": "Man City open talks with Chelsea over Fernandez move",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckgvrlme148o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-31T21:20:32+00:00",
+      "summary": "Manchester City open talks with Chelsea in their bid to sign Argentina midfielder Enzo Fernandez.",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "09b6f70ee5e2",
+      "title": "MNC: Transfer Deadline Eve & Messi says goodbye to Argentina",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p78d6b",
+      "source": "BBC Sport",
+      "published_at": "2026-08-31T20:39:00+00:00",
+      "summary": "Mark Chapman is joined by Chris Sutton, Stephen Warnock and Rory Smith.",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "4980288b5373",
+      "title": "Everton agree £40m fee for Monaco striker Balogun",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c780wzlzl45o",
+      "source": "BBC Sport",
+      "published_at": "2026-08-31T20:21:22+00:00",
+      "summary": "Everton agree a £40m deal with Monaco for United States striker Folarin Balogun.",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "05e99430519b",
       "title": "All done deals in August 2026",
@@ -23,7 +71,7 @@
       "url": "https://www.theguardian.com/football/2026/aug/31/manchester-city-spurs-iliman-ndiaye-enzo-fernandez-deal-richarlison-mudryk",
       "source": "The Guardian",
       "published_at": "2026-08-31T19:32:27+00:00",
-      "summary": "City agree £65m deal with Everton for Senegal winger Richarlison to stay at Spurs, who want Chelsea’s Mudryk Manchester City are set to bolster their attack by buying Everton’s Iliman Ndiaye for up to £65m and have opened talks with Chelsea over a deal to sign Enzo Fernández. Cit",
+      "summary": "City agree £65m deal with Everton for Senegal winger Richarlison to stay at Spurs, who agree Mudryk loan Manchester City are poised to bolster their attack by buying Everton’s Iliman Ndiaye for up to £65m and have opened talks with Chelsea over a deal to sign Enzo Fernández. City",
       "teams": [
         "Senegal"
       ],
@@ -35,7 +83,7 @@
       "url": "https://www.theguardian.com/football/2026/aug/31/lionel-messis-international-retirement-serves-as-a-reminder-watch-him-while-you-still-can",
       "source": "The Guardian",
       "published_at": "2026-08-31T18:51:49+00:00",
-      "summary": "The Argentine’s career with Argentina was singular, and his exit is a reminder that all good things come to an end It was among the defining moments of the 2026 World Cup: Lionel Messi standing arms akimbo, looking up towards Argentina’s fervent supporters after losing the final ",
+      "summary": "The Argentine’s career with Argentina was singular, and his exit is a reminder that all good things come to an end IIt was among the defining moments of the 2026 World Cup: Lionel Messi standing arms akimbo, looking up towards Argentina’s fervent supporters after losing the final",
       "teams": [
         "Egypt",
         "Spain",
@@ -47,7 +95,7 @@
     },
     {
       "id": "e0a3df0314fc",
-      "title": "How Messi's decade of dominance almost never happened",
+      "title": "How retiring Messi's Argentina glory years almost never happened",
       "url": "https://www.bbc.co.uk/sport/football/articles/c20e6wv1pdwo",
       "source": "BBC Sport",
       "published_at": "2026-08-31T18:24:04+00:00",
@@ -111,7 +159,7 @@
       "url": "https://www.theguardian.com/football/2026/aug/31/lionel-messi-retires-from-international-football-argentina",
       "source": "The Guardian",
       "published_at": "2026-08-31T15:19:13+00:00",
-      "summary": "Argentina great’s last game was in World Cup final Player’s father Jorge passed away earlier in August Lionel Messi has announced his retirement from international football seven weeks after Argentina were beaten by Spain in the World Cup final in the US. The 39-year-old captaine",
+      "summary": "Argentina great’s last game was in World Cup final Player’s father Jorge died earlier in August Lionel Messi has announced his retirement from international football seven weeks after Argentina were beaten by Spain in the World Cup final in the US. The 39-year-old captained Argen",
       "teams": [
         "Spain",
         "Argentina"
@@ -120,25 +168,13 @@
     },
     {
       "id": "42672547e9b0",
-      "title": "Messi retires from Argentina duty with 'nothing left to give'",
+      "title": "'Nothing left to give' - legend Messi ends Argentina career",
       "url": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro",
       "source": "BBC Sport",
       "published_at": "2026-08-31T15:18:39+00:00",
       "summary": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\".",
       "teams": [
         "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "4980288b5373",
-      "title": "Everton make bid for Monaco striker Balogun",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c780wzlzl45o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-31T15:16:28+00:00",
-      "summary": "Everton make an offer for Monaco forward Folarin Balogun - who is valued at £40m by the French club.",
-      "teams": [
-        "France"
       ],
       "is_injury_related": false
     },
