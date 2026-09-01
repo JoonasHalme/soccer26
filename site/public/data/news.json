@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T18:26:18.067819+00:00",
+  "generated_at": "2026-09-01T21:44:08.209838+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -10,7 +10,7 @@
       "title": "Every done deal on transfer deadline day",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo",
       "source": "BBC Sport",
-      "published_at": "2026-09-01T18:24:01+00:00",
+      "published_at": "2026-09-01T21:39:08+00:00",
       "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "teams": [
         "Scotland"
@@ -19,11 +19,11 @@
     },
     {
       "id": "c345b44ceb91",
-      "title": "Football transfer deadline day: Man City agree £125m Fernández deal, Woltemade loaned to Juve, and more – live",
+      "title": "Football transfer deadline day: Man City sign Ndiaye and agree Fernández deal, Chelsea close on Camara – live",
       "url": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
       "source": "The Guardian",
-      "published_at": "2026-09-01T18:14:05+00:00",
-      "summary": "Men’s transfer interactive | Women’s transfer interactive The Rumour Mill: check all of the deadline-day gossip You can mail Daniel and follow us on TikTok and Bluesky A lot of people are highly invested in people moving companies and changing jobs. You do not get this with accou",
+      "published_at": "2026-09-01T21:24:26+00:00",
+      "summary": "Chelsea to sign Monaco’s Lamine Camara in £47m move Men’s transfer interactive : all the deadline-day deals You can mail Daniel and follow us on TikTok and Bluesky A lot of people are highly invested in people moving companies and changing jobs. You do not get this with accountan",
       "teams": [
         "Brazil",
         "Scotland",
@@ -36,6 +36,68 @@
         "Argentina",
         "Portugal",
         "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "89765a19b631",
+      "title": "Man Utd fail in attempt to sign Ait-Nouri from Man City",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzn5n015go",
+      "source": "BBC Sport",
+      "published_at": "2026-09-01T21:04:30+00:00",
+      "summary": "Manchester United approached Manchester City in the final hours of the transfer window in an attempt to sign Algeria defender Rayan Ait-Nouri on loan",
+      "teams": [
+        "Algeria"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "e445a6017549",
+      "title": "Sunderland sign Spurs defender Danso on loan",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7v4z3yglzro",
+      "source": "BBC Sport",
+      "published_at": "2026-09-01T19:50:58+00:00",
+      "summary": "Sunderland have signed Austria defender Kevin Danso from Tottenham on a loan deal until the end of the season.",
+      "teams": [
+        "Austria"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b6f5e64031b3",
+      "title": "Arsenal's Nwaneri joins Dortmund on loan",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70lq9rpzgjo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-01T18:32:20+00:00",
+      "summary": "German club Borussia Dortmund signs Ethan Nwaneri on a season-long loan from Arsenal.",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "17edb45774e0",
+      "title": "Raskin 'as good as gold' amid Rangers transfer wait - McInnes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce3r0yzgwp2o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-01T18:29:04+00:00",
+      "summary": "Nicolas Raskin has \"been good as gold\" despite no signs of a transfer from Rangers and the Belgium midfielder's absence from their latest two match-day squads, manager Derek McInnes insists.",
+      "teams": [
+        "Belgium"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "a9bffee2f5e0",
+      "title": "Aston Villa sign Mbaye and Harwood-Bellis as Newcastle get Fernandez-Pardo",
+      "url": "https://www.theguardian.com/football/2026/sep/01/aston-villa-sign-mbaye-and-harwood-bellis-as-newcastle-get-fernandez-pardo",
+      "source": "The Guardian",
+      "published_at": "2026-09-01T17:58:47+00:00",
+      "summary": "Gabriel Jesus completes move from Arsenal to Barcelona Harvey Elliott joins Valencia on loan from Liverpool Aston Villa completed the signings of Ibrahim Mbaye and Taylor Harwood-Bellis on deadline day, with Unai Emery confident the club’s radical summer overhaul has left Villa i",
+      "teams": [
+        "Switzerland",
+        "Belgium",
+        "Saudi Arabia"
       ],
       "is_injury_related": true
     },
@@ -114,18 +176,6 @@
       "is_injury_related": true
     },
     {
-      "id": "cb22a333411e",
-      "title": "South Africa reappoint Mosimane as head coach",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd79d1gnej4o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-01T12:13:12+00:00",
-      "summary": "Pitso Mosimane is reappointed head coach of South Africa's men's national team, more than 14 years after his first spell in charge of Bafana Bafana ended.",
-      "teams": [
-        "South Africa"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "4f479bd453c5",
       "title": "Beckham and Mourinho pay tribute to Messi",
       "url": "https://www.bbc.co.uk/sport/football/articles/cdx0nw1n9y8o",
@@ -200,18 +250,6 @@
       "is_injury_related": false
     },
     {
-      "id": "b6f5e64031b3",
-      "title": "Dortmund agree loan move for Arsenal's Nwaneri",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70lq9rpzgjo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-01T07:34:09+00:00",
-      "summary": "German club Borussia Dortmund agree a deal with Arsenal to sign Ethan Nwaneri on a season-long loan.",
-      "teams": [
-        "Germany"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "a4ef63574f0a",
       "title": "Podcast: From Stenny to Elgin - the stories shaping Scotland's lower leagues",
       "url": "https://www.bbc.co.uk/sounds/play/p0p79nzc",
@@ -232,42 +270,6 @@
       "summary": "Manchester City confirm Allan signing for initial £32.1m Palace sell Muñoz to Forest and poised to sign Ahanor Nick Woltemade is close to a loan move from Newcastle to Juventus, a year after arriving at St James’ Park in a club-record £69m deal from Stuttgart. The gifted Germany ",
       "teams": [
         "Germany"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "4980288b5373",
-      "title": "Everton agree £40m fee for Monaco striker Balogun",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c780wzlzl45o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-31T20:21:22+00:00",
-      "summary": "Everton agree a £40m deal with Monaco for United States striker Folarin Balogun.",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e0a3df0314fc",
-      "title": "How retiring Messi's Argentina glory years almost never happened",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20e6wv1pdwo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-31T18:24:04+00:00",
-      "summary": "Lionel Messi's decade of dominance with Argentina that almost never happened will go down as one of football's greatest ever stories.",
-      "teams": [
-        "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "6d0deee987f0",
-      "title": "The transfers to watch before window closes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7v433lejveo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-31T17:28:57+00:00",
-      "summary": "BBC Sport's football experts pick out the standout transfers that could go through before Tuesday's 23:00 BST English deadline.",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
@@ -417,18 +419,6 @@
       "summary": "Manchester United have confirmed the signing of Sweden winger Monica Jusu Bah from BK Hacken for just under £400,000.",
       "teams": [
         "Sweden"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "950a86aa49d8",
-      "title": "Women’s Super League 2026-27 preview No 7: Crystal Palace",
-      "url": "https://www.theguardian.com/football/2026/aug/28/womens-super-league-2026-27-preview-no-7-crystal-palace",
-      "source": "The Guardian",
-      "published_at": "2026-08-27T23:01:41+00:00",
-      "summary": "Jo Potter’s side charged to promotion and have brought in striker Bethany England as they bid to stay up Guardian writers’ predicted position: 13th (NB: this is not necessarily Sophie Downey’s prediction but the average of our writers’ tips) Last season’s position: 2nd (WSL2) Con",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
