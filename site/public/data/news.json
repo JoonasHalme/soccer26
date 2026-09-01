@@ -1,16 +1,28 @@
 {
-  "generated_at": "2026-09-01T14:49:25.537982+00:00",
+  "generated_at": "2026-09-01T18:26:18.067819+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "dedf642de316",
+      "title": "Every done deal on transfer deadline day",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-01T18:24:01+00:00",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "c345b44ceb91",
-      "title": "Football transfer deadline day: Manchester City move for Fernández, Newcastle seal £51m deal, and more – live",
+      "title": "Football transfer deadline day: Man City agree £125m Fernández deal, Woltemade loaned to Juve, and more – live",
       "url": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
       "source": "The Guardian",
-      "published_at": "2026-09-01T14:38:38+00:00",
+      "published_at": "2026-09-01T18:14:05+00:00",
       "summary": "Men’s transfer interactive | Women’s transfer interactive The Rumour Mill: check all of the deadline-day gossip You can mail Daniel and follow us on TikTok and Bluesky A lot of people are highly invested in people moving companies and changing jobs. You do not get this with accou",
       "teams": [
         "Brazil",
@@ -28,14 +40,27 @@
       "is_injury_related": true
     },
     {
-      "id": "dedf642de316",
-      "title": "Every done deal on transfer deadline day",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo",
+      "id": "8ea3163051d0",
+      "title": "Celtic sign Parma's Sorensen, with more to come before deadline",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62ek3n67e7o",
       "source": "BBC Sport",
-      "published_at": "2026-09-01T14:16:00+00:00",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "published_at": "2026-09-01T16:15:49+00:00",
+      "summary": "Celtic sign Parma midfielder Oliver Sorensen on loan shortly after assistant manager Shaun Maloney suggests the Scottish champions were working on up to four additions before finalising their Europa League squad on Wednesday.",
       "teams": [
         "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "1f6476b20094",
+      "title": "‘In my heart until I die’: Argentina says a tearful thank you to Lionel Messi",
+      "url": "https://www.theguardian.com/football/2026/sep/01/argentina-tearful-thank-you-to-lionel-messi-retirement",
+      "source": "The Guardian",
+      "published_at": "2026-09-01T15:05:49+00:00",
+      "summary": "The Argentinian’s decision to quit international football was met by an outpouring of affection from the country he led to World Cup glory in 2022 Anyone who was present at Lionel Scaloni’s press conference immediately after the World Cup final between Spain and Argentina in New ",
+      "teams": [
+        "Spain",
+        "Argentina"
       ],
       "is_injury_related": false
     },
@@ -119,7 +144,7 @@
       "url": "https://www.theguardian.com/football/2026/sep/01/janine-sonis-interview-denver-summit-moving-the-goalposts",
       "source": "The Guardian",
       "published_at": "2026-09-01T11:29:56+00:00",
-      "summary": "The Canada and Denver Summit full-back on playing at a packed Mile Stadium and the impact of Lindsey Heaps In the 13th minute of a 6-1 win against Chicago, Janine Sonis ran into the penalty area and stealthily positioned herself behind a line of defenders, before striking a crisp",
+      "summary": "The Canada and Denver Summit full-back on playing at a packed Mile High Stadium and the impact of Lindsey Heaps In the 13th minute of a 6-1 win against Chicago, Janine Sonis ran into the penalty area and stealthily positioned herself behind a line of defenders, before striking a ",
       "teams": [
         "Canada"
       ],
@@ -131,7 +156,7 @@
       "url": "https://www.theguardian.com/football/2026/sep/01/i-was-scared-to-tell-my-old-teammates-victoria-pelova-on-making-leap-from-arsenal-to-spurs",
       "source": "The Guardian",
       "published_at": "2026-09-01T11:00:03+00:00",
-      "summary": "While move across north London has been amicable, Netherlands midfielder is relishing clash with former club There is not the same intensity to club rivalries between women’s teams as there is between their men’s counterparts, but as the game grows that is changing. Increasingly,",
+      "summary": "While move across north London has been amicable, the Dutch midfielder is relishing clash with former club There is not the same intensity to club rivalries between women’s teams as there is between their men’s counterparts, but as the game grows that is changing. Increasingly, t",
       "teams": [
         "Netherlands"
       ],
@@ -155,7 +180,7 @@
       "url": "https://www.theguardian.com/football/2026/sep/01/barcelona-la-liga-rayo-vallecano-atletico-julian-alvarez",
       "source": "The Guardian",
       "published_at": "2026-09-01T09:42:25+00:00",
-      "summary": "Hansi Flick is very happy to welcome Gabriel Jesus to Barcelona. But Julián Álvarez remains the ultimate prize If Raphinha has any misgivings about playing as a makeshift No 9 for Barcelona, he is doing a good job of hiding it. Julián Álvarez would have been proud of the Brazilia",
+      "summary": "Hansi Flick is very happy to welcome Gabriel Jesus to Barcelona – but Julián Álvarez remains the ultimate prize If Raphinha has any misgivings about playing as a makeshift No 9 for Barcelona, he is doing a good job of hiding it. Julián Álvarez would have been proud of the Brazili",
       "teams": [
         "Brazil",
         "Spain"
@@ -211,18 +236,6 @@
       "is_injury_related": false
     },
     {
-      "id": "68d80fa02e1b",
-      "title": "Man City open talks with Chelsea over Fernandez move",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgvrlme148o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-31T21:20:32+00:00",
-      "summary": "Manchester City open talks with Chelsea in their bid to sign Argentina midfielder Enzo Fernandez.",
-      "teams": [
-        "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "4980288b5373",
       "title": "Everton agree £40m fee for Monaco striker Balogun",
       "url": "https://www.bbc.co.uk/sport/football/articles/c780wzlzl45o",
@@ -233,22 +246,6 @@
         "USA"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "4436f625b06b",
-      "title": "Lionel Messi’s international retirement serves as a reminder: watch him while you still can",
-      "url": "https://www.theguardian.com/football/2026/aug/31/lionel-messis-international-retirement-serves-as-a-reminder-watch-him-while-you-still-can",
-      "source": "The Guardian",
-      "published_at": "2026-08-31T18:51:49+00:00",
-      "summary": "The Argentinian’s international career was singular, and his exit is a reminder that all good things come to an end It was among the defining moments of the 2026 World Cup: Lionel Messi standing arms akimbo, looking up towards Argentina’s fervent supporters after losing the final",
-      "teams": [
-        "Egypt",
-        "Spain",
-        "Argentina",
-        "Algeria",
-        "Austria"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "e0a3df0314fc",
@@ -297,42 +294,6 @@
         "France"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "bc0c61aa19cd",
-      "title": "Fifa extends ban on man who secretly filmed female footballers in Austria",
-      "url": "https://www.theguardian.com/football/2026/aug/31/fifa-worldwide-ban-man-secretly-filmed-female-footballers-austria-altach",
-      "source": "The Guardian",
-      "published_at": "2026-08-31T16:06:11+00:00",
-      "summary": "Former SCR Altach employee now banned worldwide Move follows pressure from players’ unions Fifa has extended worldwide the ban on a former match official and SCR Altach employee found guilty of taking secret videos and photographs of members of the club’s women’s team. In Februar",
-      "teams": [
-        "Austria"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "42672547e9b0",
-      "title": "'Nothing left to give' - legend Messi ends Argentina career",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro",
-      "source": "BBC Sport",
-      "published_at": "2026-08-31T15:18:39+00:00",
-      "summary": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\".",
-      "teams": [
-        "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "7f3bd6837112",
-      "title": "Barcola joins Liverpool from PSG in £123m move",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9qrj4p58j4o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-31T13:01:22+00:00",
-      "summary": "Liverpool complete the signing of France forward Bradley Barcola from Paris St-Germain for a fee worth up to £123m.",
-      "teams": [
-        "France"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "a42d944d5b89",
@@ -506,18 +467,6 @@
         "Netherlands"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "8bc7af6fc4c0",
-      "title": "David Squires on … boos, barcodes and buzzcuts as the Premier League returns",
-      "url": "https://www.theguardian.com/football/picture/2026/aug/25/david-squires-on-boos-barcodes-buzzcuts-premier-league-returns",
-      "source": "The Guardian",
-      "published_at": "2026-08-25T09:54:30+00:00",
-      "summary": "Our cartoonist looks back at the big storylines and fresh looks as the English top flight swung back into action Buy this cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading...",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "8e89fa4bb473",
