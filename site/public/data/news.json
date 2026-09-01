@@ -1,10 +1,104 @@
 {
-  "generated_at": "2026-09-01T05:00:06.645286+00:00",
+  "generated_at": "2026-09-01T10:01:35.103854+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "401126208f74",
+      "title": "Arsenal agree terms to sign De Almeida from PSG",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgl7yw9y1weo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-01T09:59:20+00:00",
+      "summary": "Arsenal agree terms to sign versatile France defender Elisa de Almeida from Paris St-Germain.",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "584a413a89b0",
+      "title": "Hull sign German forward Ansah from Union Berlin",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cje8x575v51o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-01T09:57:22+00:00",
+      "summary": "Hull City sign forward Ilyas Ansah on a five-year deal from Bundesliga side Union Berlin.",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "c345b44ceb91",
+      "title": "Football transfer deadline day: latest on Fernández, Álvarez, Ndiaye and more – live",
+      "url": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
+      "source": "The Guardian",
+      "published_at": "2026-09-01T09:47:14+00:00",
+      "summary": "Men’s transfer interactive | Women’s transfer interactive The Rumour Mill: check all of the deadline-day gossip You can mail Will and follow us on TikTok and Bluesky A lot of people are highly invested in people moving companies and changing jobs. You do not get this with account",
+      "teams": [
+        "Brazil",
+        "Scotland",
+        "Turkey",
+        "Germany",
+        "Netherlands",
+        "Spain",
+        "Saudi Arabia",
+        "France",
+        "Argentina",
+        "Portugal",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "dedf642de316",
+      "title": "Every done deal on transfer deadline day",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-01T09:33:43+00:00",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "0d5817b39ee9",
+      "title": "Football transfer rumours: Manchester United and Liverpool eye Kroupi? Vardy to Wrexham?",
+      "url": "https://www.theguardian.com/football/2026/sep/01/football-transfer-rumours-manchester-united-liverpool-eli-junior-kroupi-jamie-vardy-wrexham",
+      "source": "The Guardian",
+      "published_at": "2026-09-01T08:23:59+00:00",
+      "summary": "Today’s rumours are squeezing out every last drop Deadline day live – follow all the news and moves The final day of the men’s transfer window is here , but there is still time for some rumourmongering, before a Supermarket Sweep-style trolley dash for 11th-hour signings. Going w",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b6f5e64031b3",
+      "title": "Dortmund agree loan move for Arsenal's Nwaneri",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70lq9rpzgjo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-01T07:34:09+00:00",
+      "summary": "German club Borussia Dortmund agree a deal with Arsenal to sign Ethan Nwaneri on a season-long loan.",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "a4ef63574f0a",
+      "title": "Podcast: From Stenny to Elgin - the stories shaping Scotland's lower leagues",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p79nzc",
+      "source": "BBC Sport",
+      "published_at": "2026-09-01T07:00:00+00:00",
+      "summary": "A deep dive into Scotland's lower leagues",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "fb2cf2eb59e9",
       "title": "Transfer latest: Juventus in Woltemade loan talks, Everton agree £40m Balogun fee",
@@ -50,30 +144,6 @@
       "summary": "Everton agree a £40m deal with Monaco for United States striker Folarin Balogun.",
       "teams": [
         "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "05e99430519b",
-      "title": "All done deals in August 2026",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-31T19:49:43+00:00",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "ee4a88044d2d",
-      "title": "Manchester City gazump Spurs over Iliman Ndiaye and eye Enzo Fernández deal",
-      "url": "https://www.theguardian.com/football/2026/aug/31/manchester-city-spurs-iliman-ndiaye-enzo-fernandez-deal-richarlison-mudryk",
-      "source": "The Guardian",
-      "published_at": "2026-08-31T19:32:27+00:00",
-      "summary": "City agree £65m deal with Everton for Senegal winger Richarlison to stay at Spurs, who agree Mudryk loan Manchester City are poised to bolster their attack by buying Everton’s Iliman Ndiaye for up to £65m and have opened talks with Chelsea over a deal to sign Enzo Fernández. City",
-      "teams": [
-        "Senegal"
       ],
       "is_injury_related": false
     },
@@ -252,18 +322,6 @@
         "Belgium"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "3e0d91c5fef7",
-      "title": "Watkins completes £51m move to Saudi side Al-Hilal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70le5gllyeo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-30T17:12:52+00:00",
-      "summary": "Ollie Watkins says he never imagined or intended his Aston Villa career to \"end this way\" after completing his £51m move to Al-Hilal.",
-      "teams": [
-        "Saudi Arabia"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "a966c351f320",
