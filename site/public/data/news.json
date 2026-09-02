@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-09-02T09:32:43.261739+00:00",
+  "generated_at": "2026-09-02T14:25:33.651742+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "5735f3b2a18e",
+      "title": "Celtic loan goalkeeper Johnstone and striker Mheuka",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c07lzmp03kpo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-02T14:25:14+00:00",
+      "summary": "Former England goalkeeper Sam Johnstone joins Celtic on a season-long loan from Wolvers as striker Shumaira Mheuka arrives from Chelsea.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "dedf642de316",
+      "title": "Every done deal on transfer deadline day",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-02T12:17:43+00:00",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "763fdf3734ba",
       "title": "Transfer window verdict: how every Premier League club fared",
@@ -31,12 +55,25 @@
       "is_injury_related": false
     },
     {
+      "id": "c7aa6560a32d",
+      "title": "Which footballer has had the most glittering club career? | The Knowledge",
+      "url": "https://www.theguardian.com/football/2026/sep/02/which-footballer-has-had-the-most-trophy-laden-club-career",
+      "source": "The Guardian",
+      "published_at": "2026-09-02T07:00:26+00:00",
+      "summary": "Plus: brothers playing in England’s top four tiers, shirt-hogging sponsors, and goalkeepers sent off upfield Mail us with your all of your questions and answers “Marquinhos won his 40th trophy in club football when Paris Saint-Germain beat Aston Villa in the Super Cup,” notes Pau",
+      "teams": [
+        "France",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "b3fd647d1e6e",
-      "title": "Football connects communities but can pull them apart if governed carelessly",
+      "title": "Football connects communities but can pull them apart if governed carelessly | Cath Bishop",
       "url": "https://www.theguardian.com/sport/2026/sep/02/football-connects-communities-but-can-pull-them-apart-if-governed-carelessly",
       "source": "The Guardian",
       "published_at": "2026-09-02T07:00:26+00:00",
-      "summary": "Sport is a space to help youngsters develop character, resilience and confidence, but we need stronger leadership and safer environments to make this happen The fight for the soul of football isn’t just happening in the offices of Uefa and Fifa, it’s taking place on pitches much ",
+      "summary": "Sport is a space to help youngsters to develop character, resilience and confidence, but we need stronger leadership and safer environments to make this happen The fight for the soul of football isn’t just happening in the offices of Uefa and Fifa, it’s taking place on pitches mu",
       "teams": [
         "Scotland"
       ],
@@ -67,40 +104,16 @@
       "is_injury_related": true
     },
     {
-      "id": "0c7f8b7b05c3",
-      "title": "Coady with Liverpool U21s after Wrexham exit",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy7zxk832p4o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-02T05:40:22+00:00",
-      "summary": "Former England defender Conor Coady training and helping coaches at Liverpool's under-21s after leaving Championship side Wrexham.",
+      "id": "90e25db682ae",
+      "title": "Everton left with only one striker after Balogun deal collapses late on deadline day",
+      "url": "https://www.theguardian.com/football/2026/sep/02/everton-in-late-scramble-to-complete-balogun-transfer-after-flurry-of-sales",
+      "source": "The Guardian",
+      "published_at": "2026-09-01T23:46:05+00:00",
+      "summary": "USA forward changes his mind over £40m deal Club had sold Beto and Ndiaye to raise funds Everton’s £40m move for the USA international Folarin Balogun collapsed late on deadline day to leave the manager, David Moyes, with only one striker for the first half of the season. Everton",
       "teams": [
-        "England"
+        "USA"
       ],
-      "is_injury_related": false
-    },
-    {
-      "id": "0e2fe0a72181",
-      "title": "Everton sell Scotland's Patterson to Torino",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn4kyyw1v8do",
-      "source": "BBC Sport",
-      "published_at": "2026-09-02T00:07:18+00:00",
-      "summary": "Everton sell Scotland right-back Nathan Patterson to Torino for an undisclosed fee.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "dedf642de316",
-      "title": "Every done deal on transfer deadline day",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-01T23:48:37+00:00",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
+      "is_injury_related": true
     },
     {
       "id": "83204840b2da",
@@ -120,7 +133,7 @@
       "url": "https://www.theguardian.com/football/2026/sep/02/fernandez-completes-record-equalling-125m-move-from-chelsea-to-manchester-city",
       "source": "The Guardian",
       "published_at": "2026-09-01T23:12:28+00:00",
-      "summary": "Fernández: ‘This is a club built for success’ Chelsea’s move for Monaco’s Camara falls through Manchester City have equalled the British transfer record with a £125m deal to sign Enzo Fernández from Chelsea, who were left raging after their attempts to replace the Argentina midfi",
+      "summary": "‘This is a club built for success,’ midfielder says Chelsea’s move for Monaco’s Camara falls through Manchester City have equalled the British transfer record with a £125m deal to sign Enzo Fernández from Chelsea, who were left raging after their attempts to replace the Argentina",
       "teams": [
         "Argentina"
       ],
@@ -162,18 +175,6 @@
         "Germany"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "17edb45774e0",
-      "title": "Raskin 'as good as gold' amid Rangers transfer wait - McInnes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce3r0yzgwp2o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-01T18:29:04+00:00",
-      "summary": "Nicolas Raskin has \"been good as gold\" despite no signs of a transfer from Rangers and the Belgium midfielder's absence from their latest two match-day squads, manager Derek McInnes insists.",
-      "teams": [
-        "Belgium"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "1f6476b20094",
@@ -238,18 +239,6 @@
       "is_injury_related": false
     },
     {
-      "id": "7e52567b6ba4",
-      "title": "‘I was scared to tell my old teammates’: Victoria Pelova on making leap from Arsenal to Spurs",
-      "url": "https://www.theguardian.com/football/2026/sep/01/i-was-scared-to-tell-my-old-teammates-victoria-pelova-on-making-leap-from-arsenal-to-spurs",
-      "source": "The Guardian",
-      "published_at": "2026-09-01T11:00:03+00:00",
-      "summary": "While move across north London has been amicable, the Dutch midfielder is relishing clash with former club There is not the same intensity to club rivalries between women’s teams as there is between their men’s counterparts, but as the game grows that is changing. Increasingly, t",
-      "teams": [
-        "Netherlands"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "401126208f74",
       "title": "Arsenal agree terms to sign De Almeida from PSG",
       "url": "https://www.bbc.co.uk/sport/football/articles/cgl7yw9y1weo",
@@ -283,18 +272,6 @@
       "summary": "Today’s rumours are squeezing out every last drop Deadline day live – follow all the news and moves The final day of the men’s transfer window is here , but there is still time for some rumourmongering, before a Supermarket Sweep-style trolley dash for 11th-hour signings. Going w",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "fb2cf2eb59e9",
-      "title": "Transfer latest: Juventus in Woltemade loan talks, Everton agree £40m Balogun fee",
-      "url": "https://www.theguardian.com/football/2026/aug/31/transfer-latest-nick-woltemade-newcastle-juventus-everton-folarin-balogun",
-      "source": "The Guardian",
-      "published_at": "2026-08-31T22:47:37+00:00",
-      "summary": "Manchester City confirm Allan signing for initial £32.1m Palace sell Muñoz to Forest and poised to sign Ahanor Nick Woltemade is close to a loan move from Newcastle to Juventus, a year after arriving at St James’ Park in a club-record £69m deal from Stuttgart. The gifted Germany ",
-      "teams": [
-        "Germany"
       ],
       "is_injury_related": false
     },
@@ -382,18 +359,6 @@
         "Saudi Arabia",
         "France",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "1817475ccd31",
-      "title": "Man Utd near deal for Mexico's Bernal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c780weq4146o",
-      "source": "BBC Sport",
-      "published_at": "2026-08-31T08:21:54+00:00",
-      "summary": "Manchester United are close to signing Mexico international Rebeca Bernal from Washington Spirit.",
-      "teams": [
-        "Mexico"
       ],
       "is_injury_related": false
     },
