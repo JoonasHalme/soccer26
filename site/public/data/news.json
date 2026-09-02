@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-09-02T00:05:47.159780+00:00",
+  "generated_at": "2026-09-02T04:29:01.007586+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "0e2fe0a72181",
+      "title": "Everton sell Scotland's Patterson to Torino",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn4kyyw1v8do",
+      "source": "BBC Sport",
+      "published_at": "2026-09-02T00:07:18+00:00",
+      "summary": "Everton sell Scotland right-back Nathan Patterson to Torino for an undisclosed fee.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "dedf642de316",
       "title": "Every done deal on transfer deadline day",
@@ -253,18 +265,6 @@
       "is_injury_related": false
     },
     {
-      "id": "a4ef63574f0a",
-      "title": "Podcast: From Stenny to Elgin - the stories shaping Scotland's lower leagues",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p79nzc",
-      "source": "BBC Sport",
-      "published_at": "2026-09-01T07:00:00+00:00",
-      "summary": "A deep dive into Scotland's lower leagues",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "fb2cf2eb59e9",
       "title": "Transfer latest: Juventus in Woltemade loan talks, Everton agree £40m Balogun fee",
       "url": "https://www.theguardian.com/football/2026/aug/31/transfer-latest-nick-woltemade-newcastle-juventus-everton-folarin-balogun",
@@ -287,6 +287,30 @@
         "France"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "a1e426a4a291",
+      "title": "Marseille’s squad is being gutted but their manager is staying – for now",
+      "url": "https://www.theguardian.com/football/2026/aug/31/marseille-squad-manager-staying-monaco-season",
+      "source": "The Guardian",
+      "published_at": "2026-08-31T16:11:23+00:00",
+      "summary": "It has been a tough transfer window for Marseille and a 2-0 defeat at Monaco suggests it could be a long season By Get French Football News A humid night in Monaco provided an opportunity to gauge the temperature of the Marseille supporters. Despite the ban on away fans at the St",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "bc0c61aa19cd",
+      "title": "Fifa extends ban on man who secretly filmed female footballers in Austria",
+      "url": "https://www.theguardian.com/football/2026/aug/31/fifa-worldwide-ban-man-secretly-filmed-female-footballers-austria-altach",
+      "source": "The Guardian",
+      "published_at": "2026-08-31T16:06:11+00:00",
+      "summary": "Former SCR Altach employee now banned worldwide Move follows pressure from players’ unions Fifa has extended worldwide the ban on a former match official and SCR Altach employee found guilty of taking secret videos and photographs of members of the club’s women’s team. In Februar",
+      "teams": [
+        "Austria"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "a42d944d5b89",
@@ -365,6 +389,18 @@
       "is_injury_related": true
     },
     {
+      "id": "41835e646019",
+      "title": "Lionel Messi’s ‘footballing beauty’ hailed as Miami crush Montreal; MLS roundup",
+      "url": "https://www.theguardian.com/football/2026/aug/30/lionel-messi-inter-miami-mls-nashville-sc-dejan-joveljic-seattle-sounders",
+      "source": "The Guardian",
+      "published_at": "2026-08-30T18:09:56+00:00",
+      "summary": "Messi nets four goals, adds assist in 7-1 Miami win Dejan Joveljić scores twice on Sounders debut Minnesota United score three times in four minutes Inter Miami interim coach Guillermo Hoyos ran out of superlatives for Lionel Messi after the ⁠Argentine playmaker scored four goals",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "a966c351f320",
       "title": "Women’s Super League 2026-27 preview No 9: Liverpool",
       "url": "https://www.theguardian.com/football/2026/aug/30/womens-super-league-2026-27-preview-no-9-liverpool",
@@ -414,18 +450,6 @@
       "is_injury_related": false
     },
     {
-      "id": "26193e9823c6",
-      "title": "Struggling Inter Miami hire Kily González as new head coach",
-      "url": "https://www.theguardian.com/football/2026/aug/27/inter-miami-kily-gonzalez-lionel-messi-guillermo-hoyos",
-      "source": "The Guardian",
-      "published_at": "2026-08-27T21:04:11+00:00",
-      "summary": "MLS club mired in five-match winless run González to replace interim coach Guillermo Hoyos Inter Miami have hired former Argentina international Cristian “Kily” González as the club’s new head coach, according to two sources familiar with negotiations. César Luis Merlo was first ",
-      "teams": [
-        "Argentina"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "3c7879b6c2d3",
       "title": "Mbappé hat-trick sinks Real Sociedad after Real Madrid jeered by home fans",
       "url": "https://www.theguardian.com/football/2026/aug/26/real-madrid-real-sociedad-la-liga-match-report-jose-mourinho-kylian-mbappe",
@@ -436,30 +460,6 @@
         "France"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "b8e7da35429c",
-      "title": "Xavi hopes time at the ‘university of football’ will end with Dutch success",
-      "url": "https://www.theguardian.com/football/2026/aug/25/xavi-hernandez-university-of-football-netherlands-head-coach-barcelona",
-      "source": "The Guardian",
-      "published_at": "2026-08-25T19:58:37+00:00",
-      "summary": "Barcelona legend wants to emulate Johan Cruyff’s total football philosophy after taking over as the Netherlands head coach “My feeling today is that I’m going to the university of football.” Those were Xavi Hernández’s opening words at his presentation as the Netherlands coach on",
-      "teams": [
-        "Netherlands"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "8e89fa4bb473",
-      "title": "Rennes push PSG all the way to show they are the best of the rest in Ligue 1",
-      "url": "https://www.theguardian.com/football/2026/aug/24/rennes-psg-best-rest-ligue-1-ferran-torres",
-      "source": "The Guardian",
-      "published_at": "2026-08-24T14:03:52+00:00",
-      "summary": "PSG flexed their muscles, bringing Ferran Torres off the bench to save the day, but only because Rennes made them By Get French Football News On the scale of expressions of prowess and power, Paris Saint-Germain bringing almost €150m worth of attacking talent off the bench – incl",
-      "teams": [
-        "France"
-      ],
-      "is_injury_related": false
     }
   ]
 }
