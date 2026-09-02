@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T14:25:33.651742+00:00",
+  "generated_at": "2026-09-02T18:38:01.820314+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -7,13 +7,63 @@
   "items": [
     {
       "id": "5735f3b2a18e",
-      "title": "Celtic loan goalkeeper Johnstone and striker Mheuka",
+      "title": "Celtic loan keeper Johnstone & teenage Chelsea duo Mheuka & Emenalo",
       "url": "https://www.bbc.co.uk/sport/football/articles/c07lzmp03kpo",
       "source": "BBC Sport",
-      "published_at": "2026-09-02T14:25:14+00:00",
-      "summary": "Former England goalkeeper Sam Johnstone joins Celtic on a season-long loan from Wolvers as striker Shumaira Mheuka arrives from Chelsea.",
+      "published_at": "2026-09-02T17:25:41+00:00",
+      "summary": "Celtic complete loan deals for former England goalkeeper Sam Johnstone and teenage Chelsea duo Shumaira Mheuka and Landon Emenalo.",
       "teams": [
         "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "93a147d8820c",
+      "title": "Richarlison could still leave Tottenham as Trabzonspor weigh up bid for striker",
+      "url": "https://www.theguardian.com/football/2026/sep/02/richarlison-could-still-leave-tottenham-as-trabzonspor-weigh-up-bid-for-striker",
+      "source": "The Guardian",
+      "published_at": "2026-09-02T17:11:00+00:00",
+      "summary": "Turkish transfer window closes on Friday night Brazilian refused a return to Everton on Tuesday Richarlison is the subject of firm interest from Trabzonspor and could move there from Tottenham before the closure of the transfer window in Turkey on Friday night. The striker has as",
+      "teams": [
+        "Brazil",
+        "Turkey",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "aead862d3894",
+      "title": "Aasgaard set for Anderlecht switch as Rangers reject Raskin bid",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c624z0q5y5jo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-02T16:21:25+00:00",
+      "summary": "Rangers midfielder Thelo Aasgaard is on the verge of a loan move to Anderlecht, while the Ibrox club have knocked back an loan bid from Besiktas for Belgium midfielder Nicolas Raskin.",
+      "teams": [
+        "Belgium"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "4bc8b2e6e68e",
+      "title": "Premier League transfer talking points: three things we learned from the data",
+      "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-talking-points-three-things-we-learned-from-the-data",
+      "source": "The Guardian",
+      "published_at": "2026-09-02T15:29:31+00:00",
+      "summary": "After record spending in the transfer market, England’s top clubs have widened the gap to their European counterparts Premier League clubs have invested more than £3.4bn in players this summer, an increase of 11.9% on last year. There are three aspects of this enormous spending w",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f727d2c285ca",
+      "title": "Football Daily | War chests, deal sheets and online meltdowns: anatomy of a deadline day",
+      "url": "https://www.theguardian.com/football/2026/sep/02/football-daily-newsletter-anatomy-of-a-deadline-day",
+      "source": "The Guardian",
+      "published_at": "2026-09-02T14:57:37+00:00",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Release clauses. War chests. Amortisation. Transfer requests. Surplus to requirements. Online meltdowns. Agents. Gazumping. Buy-back clauses. Options. Add-ons. Personal terms. Soft approaches. Grifters. Clickbait. Lowball bids. ",
+      "teams": [
+        "Argentina"
       ],
       "is_injury_related": false
     },
@@ -28,19 +78,6 @@
         "Scotland"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "763fdf3734ba",
-      "title": "Transfer window verdict: how every Premier League club fared",
-      "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
-      "source": "The Guardian",
-      "published_at": "2026-09-02T08:30:27+00:00",
-      "summary": "The British transfer record was equalled and one club signed no fewer than 18 players in another hectic summer Bringing in Christos Tzolis, Bruno Guimarães and Ezri Konsa was a strong start to the window but could Arsenal’s failure to sign a marquee attacker cost them in the long",
-      "teams": [
-        "Saudi Arabia",
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "dc46c7c7d8b1",
@@ -80,18 +117,6 @@
       "is_injury_related": true
     },
     {
-      "id": "9beccbdbe1a1",
-      "title": "What should you look out for this Premiership midweek?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c33k43vjk85o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-02T06:54:26+00:00",
-      "summary": "With five games on Wednesday and an Edinburgh derby on Thursday, plus a transfer deadline looming, what should you look out for in the Scottish Premiership this midweek?",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "3e94024f3c89",
       "title": "Paredes puts question mark over Argentina future",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce3r07w353go",
@@ -100,18 +125,6 @@
       "summary": "Argentina midfielder Leandro Paredes says it is going to be \"difficult\" for him to continue playing for his country in the wake of his 10-match international ban.",
       "teams": [
         "Argentina"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "90e25db682ae",
-      "title": "Everton left with only one striker after Balogun deal collapses late on deadline day",
-      "url": "https://www.theguardian.com/football/2026/sep/02/everton-in-late-scramble-to-complete-balogun-transfer-after-flurry-of-sales",
-      "source": "The Guardian",
-      "published_at": "2026-09-01T23:46:05+00:00",
-      "summary": "USA forward changes his mind over £40m deal Club had sold Beto and Ndiaye to raise funds Everton’s £40m move for the USA international Folarin Balogun collapsed late on deadline day to leave the manager, David Moyes, with only one striker for the first half of the season. Everton",
-      "teams": [
-        "USA"
       ],
       "is_injury_related": true
     },
@@ -202,6 +215,18 @@
       "is_injury_related": false
     },
     {
+      "id": "c4fbf811046d",
+      "title": "Why is Scotland's transfer window closing on Thursday?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zy363lqyo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-01T12:58:19+00:00",
+      "summary": "BBC Scotland answers the question about Scotland's delayed closure of the summer transfer window.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "fad93a3927fb",
       "title": "Aston Villa sign Mbaye and Harwood-Bellis",
       "url": "https://www.bbc.co.uk/sport/football/articles/c1kxmjvnl8yo",
@@ -213,18 +238,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "9fcdb5330bd1",
-      "title": "McTominay to miss Scotland games with minor heart issue",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c305dgrdjq6o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-01T12:15:19+00:00",
-      "summary": "Scotland midfielder Scott McTominay is to have a minor heart procedure after the discovery of \"a mild benign arrhythmia\", Napoli have announced.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "f2cb633ed609",
@@ -272,18 +285,6 @@
       "summary": "Today’s rumours are squeezing out every last drop Deadline day live – follow all the news and moves The final day of the men’s transfer window is here , but there is still time for some rumourmongering, before a Supermarket Sweep-style trolley dash for 11th-hour signings. Going w",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "064cbefeeecb",
-      "title": "Liverpool sign Barcola in £123m deal and expect Gakpo to stay after City offer £80m",
-      "url": "https://www.theguardian.com/football/2026/aug/31/liverpool-confirm-bradley-barcola-signing-psg",
-      "source": "The Guardian",
-      "published_at": "2026-08-31T16:38:50+00:00",
-      "summary": "France international says title ‘one of my biggest dreams’ Club rejected weekend Gakpo bid from Manchester City Bradley Barcola is aiming to win the Premier League after completing his move to Liverpool from Paris Saint‑Germain for an initial £106m, which could rise to £123m. The",
-      "teams": [
-        "France"
       ],
       "is_injury_related": false
     },
@@ -345,20 +346,6 @@
       "summary": "Watch the best of the weekend action from the Scottish Championship, Scottish League 1 and Scottish League 2.",
       "teams": [
         "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "523422ddea3c",
-      "title": "Watkins faces Toney clash as strikers push for Saudi supremacy and Tuchel’s attention",
-      "url": "https://www.theguardian.com/football/2026/aug/31/ollie-watkins-ivan-toney-saudi-arabia-thomas-tuchel-england",
-      "source": "The Guardian",
-      "published_at": "2026-08-31T09:01:39+00:00",
-      "summary": "Al-Hilal’s signing from Villa is thrown straight into big game against Al-Ahli and faces the highest of expectations Ollie Watkins and Ivan Toney spent 33 minutes on the pitch together a few weeks ago in Miami as England defeated France 6-4 in a game for third place at the World ",
-      "teams": [
-        "Saudi Arabia",
-        "France",
-        "England"
       ],
       "is_injury_related": false
     },
