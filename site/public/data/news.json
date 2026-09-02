@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T21:44:08.209838+00:00",
+  "generated_at": "2026-09-02T00:05:47.159780+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -10,7 +10,7 @@
       "title": "Every done deal on transfer deadline day",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo",
       "source": "BBC Sport",
-      "published_at": "2026-09-01T21:39:08+00:00",
+      "published_at": "2026-09-01T23:48:37+00:00",
       "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "teams": [
         "Scotland"
@@ -18,26 +18,41 @@
       "is_injury_related": false
     },
     {
-      "id": "c345b44ceb91",
-      "title": "Football transfer deadline day: Man City sign Ndiaye and agree Fernández deal, Chelsea close on Camara – live",
-      "url": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
-      "source": "The Guardian",
-      "published_at": "2026-09-01T21:24:26+00:00",
-      "summary": "Chelsea to sign Monaco’s Lamine Camara in £47m move Men’s transfer interactive : all the deadline-day deals You can mail Daniel and follow us on TikTok and Bluesky A lot of people are highly invested in people moving companies and changing jobs. You do not get this with accountan",
+      "id": "83204840b2da",
+      "title": "Camara's £47.1m move from Monaco to Chelsea collapses",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8emxm7xmzo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-01T23:34:53+00:00",
+      "summary": "Lamine Camara is staying at Monaco after the Senegal midfielder's £47.1m move to Chelsea collapses.",
       "teams": [
-        "Brazil",
-        "Scotland",
-        "Turkey",
-        "Germany",
-        "Netherlands",
-        "Spain",
-        "Saudi Arabia",
-        "France",
-        "Argentina",
-        "Portugal",
-        "England"
+        "Senegal"
       ],
-      "is_injury_related": true
+      "is_injury_related": false
+    },
+    {
+      "id": "6275d8ce9690",
+      "title": "Fernández completes record-equalling £125m move from Chelsea to Manchester City",
+      "url": "https://www.theguardian.com/football/2026/sep/02/fernandez-completes-record-equalling-125m-move-from-chelsea-to-manchester-city",
+      "source": "The Guardian",
+      "published_at": "2026-09-01T23:12:28+00:00",
+      "summary": "Fernández: ‘This is a club built for success’ Chelsea’s move for Monaco’s Camara falls through Manchester City have equalled the British transfer record with a £125m deal to sign Enzo Fernández from Chelsea, who were left raging after their attempts to replace the Argentina midfi",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d2e2d97c4458",
+      "title": "Sunderland pip Crystal Palace in battle of the private jets to land Malick Fofana",
+      "url": "https://www.theguardian.com/football/2026/sep/01/sunderland-pip-crystal-palace-in-battle-of-the-private-jets-to-land-malick-fofana",
+      "source": "The Guardian",
+      "published_at": "2026-09-01T22:15:29+00:00",
+      "summary": "Both clubs send planes to France to acquire Lyon winger Sunderland submit deal sheet for £31m transfer Sunderland and Crystal Palace were involved in an extraordinary deadline-day tug of war that concluded with Malick Fofana agreeing to swap Lyon for the Stadium of Light in a clu",
+      "teams": [
+        "Belgium",
+        "France"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "89765a19b631",
@@ -98,18 +113,6 @@
         "Switzerland",
         "Belgium",
         "Saudi Arabia"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "8ea3163051d0",
-      "title": "Celtic sign Parma's Sorensen, with more to come before deadline",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62ek3n67e7o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-01T16:15:49+00:00",
-      "summary": "Celtic sign Parma midfielder Oliver Sorensen on loan shortly after assistant manager Shaun Maloney suggests the Scottish champions were working on up to four additions before finalising their Europa League squad on Wednesday.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": true
     },
@@ -284,18 +287,6 @@
         "France"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "a1e426a4a291",
-      "title": "Marseille’s squad is being gutted but their manager is staying – for now",
-      "url": "https://www.theguardian.com/football/2026/aug/31/marseille-squad-manager-staying-monaco-season",
-      "source": "The Guardian",
-      "published_at": "2026-08-31T16:11:23+00:00",
-      "summary": "It has been a tough transfer window for Marseille and a 2-0 defeat at Monaco suggests it could be a long season By Get French Football News A humid night in Monaco provided an opportunity to gauge the temperature of the Marseille supporters. Despite the ban on away fans at the St",
-      "teams": [
-        "France"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "a42d944d5b89",
