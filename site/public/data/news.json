@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T18:38:01.820314+00:00",
+  "generated_at": "2026-09-02T21:46:22.628558+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -7,15 +7,76 @@
   "items": [
     {
       "id": "5735f3b2a18e",
-      "title": "Celtic loan keeper Johnstone & teenage Chelsea duo Mheuka & Emenalo",
+      "title": "Celtic sign Dutch midfielder Van den Berg to add to loan trio",
       "url": "https://www.bbc.co.uk/sport/football/articles/c07lzmp03kpo",
       "source": "BBC Sport",
-      "published_at": "2026-09-02T17:25:41+00:00",
+      "published_at": "2026-09-02T21:37:27+00:00",
       "summary": "Celtic complete loan deals for former England goalkeeper Sam Johnstone and teenage Chelsea duo Shumaira Mheuka and Landon Emenalo.",
       "teams": [
+        "Netherlands",
         "England"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "aead862d3894",
+      "title": "Aasgaard makes Anderlecht switch as Rangers reject Raskin bid",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c624z0q5y5jo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-02T21:18:23+00:00",
+      "summary": "Rangers midfielder Thelo Aasgaard is on the verge of a loan move to Anderlecht, while the Ibrox club have knocked back an loan bid from Besiktas for Belgium midfielder Nicolas Raskin.",
+      "teams": [
+        "Belgium"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "7823990597a4",
+      "title": "Walsh caps Champions League progress for Chelsea despite Real Sociedad grind",
+      "url": "https://www.theguardian.com/football/2026/sep/02/walsh-caps-champions-league-progress-for-chelsea-despite-real-sociedad-grind",
+      "source": "The Guardian",
+      "published_at": "2026-09-02T19:54:27+00:00",
+      "summary": "Real Sociedad 0-1 Chelsea (agg 2-6) Keira Walsh scores at corner to settle tie Chelsea ensured there will be three Women’s Super League teams in the league phase of the Champions League as Keira Walsh’s second-half strike against Real Sociedad extended their three-goal margin fro",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1817475ccd31",
+      "title": "Man Utd sign Bernal from Washington Spirit",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c780weq4146o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-02T19:47:24+00:00",
+      "summary": "Manchester United have completed the signing of Mexico international Rebeca Bernal from Washington Spirit.",
+      "teams": [
+        "Mexico"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8df034c78ea9",
+      "title": "‘A commodity’: Ismaïla Sarr’s agent wants respect for African players in transfer deals",
+      "url": "https://www.theguardian.com/football/2026/sep/02/a-commodity-ismaila-sarrs-agent-wants-respect-for-african-players-in-transfer-deals",
+      "source": "The Guardian",
+      "published_at": "2026-09-02T19:29:01+00:00",
+      "summary": "Diomansy Kamara says players must ‘be heard’ Monaco defend halting Lamine Camara’s Chelsea move Ismaïla Sarr’s agent has claimed some African players are treated like “a commodity” after Crystal Palace turned down Liverpool’s approach for the Senegal forward and Lamine Camara’s m",
+      "teams": [
+        "Senegal"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "cd58b63d6ee5",
+      "title": "Balogun pulled out of Everton move over handling of his medical, claim Monaco",
+      "url": "https://www.theguardian.com/football/2026/sep/02/folarin-balogun-transfer-deadline-day-collapse-monaco-everton-lamine-camara-chelsea",
+      "source": "The Guardian",
+      "published_at": "2026-09-02T17:46:40+00:00",
+      "summary": "Thiago Scuro suggests Merseyside club responsible Monaco chief executive defends keeping Camara Folarin Balogun pulled out of a £40m move to Everton because of how he was treated over his medical, according to Monaco’s chief executive, Thiago Scuro, who also defended the late dec",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "93a147d8820c",
@@ -28,18 +89,6 @@
         "Brazil",
         "Turkey",
         "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "aead862d3894",
-      "title": "Aasgaard set for Anderlecht switch as Rangers reject Raskin bid",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c624z0q5y5jo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-02T16:21:25+00:00",
-      "summary": "Rangers midfielder Thelo Aasgaard is on the verge of a loan move to Anderlecht, while the Ibrox club have knocked back an loan bid from Besiktas for Belgium midfielder Nicolas Raskin.",
-      "teams": [
-        "Belgium"
       ],
       "is_injury_related": true
     },
@@ -166,30 +215,6 @@
       "is_injury_related": false
     },
     {
-      "id": "e445a6017549",
-      "title": "Sunderland sign Spurs defender Danso on loan",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7v4z3yglzro",
-      "source": "BBC Sport",
-      "published_at": "2026-09-01T19:50:58+00:00",
-      "summary": "Sunderland have signed Austria defender Kevin Danso from Tottenham on a loan deal until the end of the season.",
-      "teams": [
-        "Austria"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "b6f5e64031b3",
-      "title": "Arsenal's Nwaneri joins Dortmund on loan",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70lq9rpzgjo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-01T18:32:20+00:00",
-      "summary": "German club Borussia Dortmund signs Ethan Nwaneri on a season-long loan from Arsenal.",
-      "teams": [
-        "Germany"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "1f6476b20094",
       "title": "‘In my heart until I die’: Argentina says a tearful thank you to Lionel Messi",
       "url": "https://www.theguardian.com/football/2026/sep/01/argentina-tearful-thank-you-to-lionel-messi-retirement",
@@ -203,43 +228,6 @@
       "is_injury_related": false
     },
     {
-      "id": "149e33c3d23a",
-      "title": "Newcastle sign Fernandez-Pardo from Lille for £51m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5ylv97mn58o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-01T14:01:47+00:00",
-      "summary": "Newcastle United sign Belgium forward Matias Fernandez-Pardo from Lille for an initial £51.4m.",
-      "teams": [
-        "Belgium"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "c4fbf811046d",
-      "title": "Why is Scotland's transfer window closing on Thursday?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zy363lqyo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-01T12:58:19+00:00",
-      "summary": "BBC Scotland answers the question about Scotland's delayed closure of the summer transfer window.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "fad93a3927fb",
-      "title": "Aston Villa sign Mbaye and Harwood-Bellis",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1kxmjvnl8yo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-01T12:24:52+00:00",
-      "summary": "Aston Villa complete the signings of Senegal winger Ibrahim Mbaye from Paris St-Germain and English centre-back Taylor Harwood-Bellis from Southampton.",
-      "teams": [
-        "Senegal",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "f2cb633ed609",
       "title": "Janine Sonis: ‘63,000 fans in Denver proves a women’s team was way overdue’",
       "url": "https://www.theguardian.com/football/2026/sep/01/janine-sonis-interview-denver-summit-moving-the-goalposts",
@@ -248,18 +236,6 @@
       "summary": "The Canada and Denver Summit full-back on playing at a packed Mile High Stadium and the impact of Lindsey Heaps In the 13th minute of a 6-1 win against Chicago, Janine Sonis ran into the penalty area and stealthily positioned herself behind a line of defenders, before striking a ",
       "teams": [
         "Canada"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "401126208f74",
-      "title": "Arsenal agree terms to sign De Almeida from PSG",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgl7yw9y1weo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-01T09:59:20+00:00",
-      "summary": "Arsenal agree terms to sign versatile France defender Elisa de Almeida from Paris St-Germain.",
-      "teams": [
-        "France"
       ],
       "is_injury_related": false
     },
@@ -322,18 +298,6 @@
       "teams": [
         "Germany",
         "France"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f656537161bd",
-      "title": "Germany's Wamser completes move to Man City",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g5x8y0n2jo",
-      "source": "BBC Sport",
-      "published_at": "2026-08-31T10:30:12+00:00",
-      "summary": "Manchester City complete the signing of Bayer Leverkusen and Germany defender Carlotta Wamser on a four-year deal.",
-      "teams": [
-        "Germany"
       ],
       "is_injury_related": false
     },
