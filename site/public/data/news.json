@@ -1,10 +1,58 @@
 {
-  "generated_at": "2026-09-03T19:46:39.863401+00:00",
+  "generated_at": "2026-09-03T22:31:17.539445+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "5191baa08538",
+      "title": "Is Hearts' derby hero McPake ready for Scotland?",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p7ww7y",
+      "source": "BBC Sport",
+      "published_at": "2026-09-03T21:32:00+00:00",
+      "summary": "Alasdair Lamont, Scott Allan and Ryan Stevenson review Hibs 1-3 Hearts at Easter Road",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "2dbf5c5a6b4d",
+      "title": "Scottish Premiership: McPake’s solo pearler seals Hearts’ cruise past 10-man Hibs",
+      "url": "https://www.theguardian.com/football/2026/sep/02/scottish-premiership-celtic-aberdeen-kenny-dalglish-rangers-falkirk",
+      "source": "The Guardian",
+      "published_at": "2026-09-03T21:13:18+00:00",
+      "summary": "Camilo Durán inspires Celtic’s 3-0 win against Aberdeen Falkirk 1-2 Rangers; Kilmarnock 0-1 St Mirren Wouter Vrancken enjoyed a memorable first Edinburgh derby in charge of Hearts as his rampant side cruised to a deserved 3-1 victory over 10-man Hibernian at Easter Road. James Wi",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "401126208f74",
+      "title": "Arsenal sign France defender De Almeida from PSG",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgl7yw9y1weo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-03T21:00:09+00:00",
+      "summary": "Arsenal confirm the signing of France defender Elisa de Almeida from Paris St-Germain.",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "123395d85e78",
+      "title": "Man City sign England goalkeeper Moorhouse on loan",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yep5d6qnno",
+      "source": "BBC Sport",
+      "published_at": "2026-09-03T20:30:19+00:00",
+      "summary": "Manchester City sign England goalkeeper Anna Moorhouse on a short-term loan from Orlando Pride.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "1629eaa855f0",
       "title": "Thierry Henry says players ‘have more power than they think’ amid Fifa scandals",
@@ -23,7 +71,7 @@
       "url": "https://www.theguardian.com/football/2026/sep/03/wsl-transfer-deadline-day-arsenal-elisa-de-almeida-psg",
       "source": "The Guardian",
       "published_at": "2026-09-03T17:28:08+00:00",
-      "summary": "Arsenal poised to land PSG’s Élisa De Almeida New United coach Olid promises attacking style Manchester City could be without Vivianne Miedema for at least the rest of 2026, the Guardian understands, after the Netherlands forward sustained a knee injury. According to multiple sou",
+      "summary": "Arsenal sign defender Élisa De Almeida from PSG New United coach Olid promises attacking style Manchester City could be without Vivianne Miedema for at least the rest of 2026, the Guardian understands, after the Netherlands forward sustained a knee injury. According to multiple s",
       "teams": [
         "Netherlands"
       ],
@@ -116,18 +164,6 @@
       "summary": "Former official says he ‘tried to stay in the centre circle’ Referees’ group thought to be puzzled by remarks The former Premier League referee Mike Dean claims he used to take part in secret challenges while officiating, including trying to stay in the centre circle for as long ",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "aead862d3894",
-      "title": "Rangers reject second Raskin bid from Besiktas after Aasgaard exit",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c624z0q5y5jo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-03T14:35:57+00:00",
-      "summary": "Rangers reject another bid from Besiktas for Belgium international Nico Raskin after fellow midfielder Thelo Aasgaard joined Anderlecht in a £1m loan move to Anderlecht.",
-      "teams": [
-        "Belgium"
       ],
       "is_injury_related": false
     },
@@ -228,15 +264,14 @@
       "is_injury_related": true
     },
     {
-      "id": "2dbf5c5a6b4d",
-      "title": "Scottish Premiership: Durán inspires Celtic to convincing victory after Dalglish ovation",
-      "url": "https://www.theguardian.com/football/2026/sep/02/scottish-premiership-celtic-aberdeen-kenny-dalglish-rangers-falkirk",
-      "source": "The Guardian",
-      "published_at": "2026-09-02T22:09:35+00:00",
-      "summary": "Colombian opens scoring in 3-0 win against Aberdeen Falkirk 1-2 Rangers; Kilmarnock 0-1 St Mirren The Celtic striker Camilo Durán inspired the Scottish champions’ 3-0 win over Aberdeen , while Rangers snatched a 2-1 victory against Falkirk on Wednesday. Durán has scored six goals",
+      "id": "f760d7cfa908",
+      "title": "Will Scottish football finally agree on how to fix youth development?",
+      "url": "https://www.bbc.co.uk/news/articles/c1e5zxxegzyo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-03T05:07:12+00:00",
+      "summary": "For more than 15 years, Scottish football has been asking itself what it could be doing better - now it's preparing for a forum on the future of the game.",
       "teams": [
-        "Scotland",
-        "Colombia"
+        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -261,18 +296,6 @@
       "summary": "Real Sociedad 0-1 Chelsea (agg 2-6) Keira Walsh scores at corner to settle tie Chelsea ensured there will be three Women’s Super League teams in the league phase of the Champions League as Keira Walsh’s second-half strike against Real Sociedad extended their three-goal margin fro",
       "teams": [
         "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "1817475ccd31",
-      "title": "Man Utd sign Bernal from Washington Spirit",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c780weq4146o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-02T19:47:24+00:00",
-      "summary": "Manchester United have completed the signing of Mexico international Rebeca Bernal from Washington Spirit.",
-      "teams": [
-        "Mexico"
       ],
       "is_injury_related": false
     },
