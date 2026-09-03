@@ -1,19 +1,31 @@
 {
-  "generated_at": "2026-09-02T21:46:22.628558+00:00",
+  "generated_at": "2026-09-03T00:10:03.953432+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "2dbf5c5a6b4d",
+      "title": "Scottish Premiership: Durán inspires Celtic to convincing victory after Dalglish ovation",
+      "url": "https://www.theguardian.com/football/2026/sep/02/scottish-premiership-celtic-aberdeen-kenny-dalglish-rangers-falkirk",
+      "source": "The Guardian",
+      "published_at": "2026-09-02T22:09:35+00:00",
+      "summary": "Colombian opens scoring in 3-0 win against Aberdeen Falkirk 1-2 Rangers; Kilmarnock 0-1 St Mirren The Celtic striker Camilo Durán inspired the Scottish champions’ 3-0 win over Aberdeen , while Rangers snatched a 2-1 victory against Falkirk on Wednesday. Durán has scored six goals",
+      "teams": [
+        "Scotland",
+        "Colombia"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "5735f3b2a18e",
-      "title": "Celtic sign Dutch midfielder Van den Berg to add to loan trio",
+      "title": "Celtic sign five in one day after Van den Berg & Lotomba arrive",
       "url": "https://www.bbc.co.uk/sport/football/articles/c07lzmp03kpo",
       "source": "BBC Sport",
-      "published_at": "2026-09-02T21:37:27+00:00",
+      "published_at": "2026-09-02T22:07:25+00:00",
       "summary": "Celtic complete loan deals for former England goalkeeper Sam Johnstone and teenage Chelsea duo Shumaira Mheuka and Landon Emenalo.",
       "teams": [
-        "Netherlands",
         "England"
       ],
       "is_injury_related": false
@@ -141,6 +153,18 @@
       "is_injury_related": false
     },
     {
+      "id": "b3fd647d1e6e",
+      "title": "Football connects communities but can pull them apart if governed carelessly | Cath Bishop",
+      "url": "https://www.theguardian.com/sport/2026/sep/02/football-connects-communities-but-can-pull-them-apart-if-governed-carelessly",
+      "source": "The Guardian",
+      "published_at": "2026-09-02T07:00:26+00:00",
+      "summary": "Sport is a space to help youngsters to develop character, resilience and confidence, but we need stronger leadership and safer environments to make this happen The fight for the soul of football isn’t just happening in the offices of Uefa and Fifa, it’s taking place on pitches mu",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "c7aa6560a32d",
       "title": "Which footballer has had the most glittering club career? | The Knowledge",
       "url": "https://www.theguardian.com/football/2026/sep/02/which-footballer-has-had-the-most-trophy-laden-club-career",
@@ -152,18 +176,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "b3fd647d1e6e",
-      "title": "Football connects communities but can pull them apart if governed carelessly | Cath Bishop",
-      "url": "https://www.theguardian.com/sport/2026/sep/02/football-connects-communities-but-can-pull-them-apart-if-governed-carelessly",
-      "source": "The Guardian",
-      "published_at": "2026-09-02T07:00:26+00:00",
-      "summary": "Sport is a space to help youngsters to develop character, resilience and confidence, but we need stronger leadership and safer environments to make this happen The fight for the soul of football isn’t just happening in the offices of Uefa and Fifa, it’s taking place on pitches mu",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "3e94024f3c89",
@@ -265,18 +277,6 @@
       "is_injury_related": false
     },
     {
-      "id": "a1e426a4a291",
-      "title": "Marseille’s squad is being gutted but their manager is staying – for now",
-      "url": "https://www.theguardian.com/football/2026/aug/31/marseille-squad-manager-staying-monaco-season",
-      "source": "The Guardian",
-      "published_at": "2026-08-31T16:11:23+00:00",
-      "summary": "It has been a tough transfer window for Marseille and a 2-0 defeat at Monaco suggests it could be a long season By Get French Football News A humid night in Monaco provided an opportunity to gauge the temperature of the Marseille supporters. Despite the ban on away fans at the St",
-      "teams": [
-        "France"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "bc0c61aa19cd",
       "title": "Fifa extends ban on man who secretly filmed female footballers in Austria",
       "url": "https://www.theguardian.com/football/2026/aug/31/fifa-worldwide-ban-man-secretly-filmed-female-footballers-austria-altach",
@@ -314,6 +314,20 @@
       "is_injury_related": false
     },
     {
+      "id": "523422ddea3c",
+      "title": "Watkins faces Toney clash as strikers push for Saudi supremacy and Tuchel’s attention",
+      "url": "https://www.theguardian.com/football/2026/aug/31/ollie-watkins-ivan-toney-saudi-arabia-thomas-tuchel-england",
+      "source": "The Guardian",
+      "published_at": "2026-08-31T09:01:39+00:00",
+      "summary": "Al-Hilal’s signing from Villa is thrown straight into big game against Al-Ahli and faces the highest of expectations Ollie Watkins and Ivan Toney spent 33 minutes on the pitch together a few weeks ago in Miami as England defeated France 6-4 in a game for third place at the World ",
+      "teams": [
+        "Saudi Arabia",
+        "France",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "abba6d2863f0",
       "title": "Premier League: 10 talking points from the weekend’s action",
       "url": "https://www.theguardian.com/football/2026/aug/31/premier-league-10-talking-points-from-the-weekend-action",
@@ -323,18 +337,6 @@
       "teams": [
         "Paraguay",
         "Belgium"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "41835e646019",
-      "title": "Lionel Messi’s ‘footballing beauty’ hailed as Miami crush Montreal; MLS roundup",
-      "url": "https://www.theguardian.com/football/2026/aug/30/lionel-messi-inter-miami-mls-nashville-sc-dejan-joveljic-seattle-sounders",
-      "source": "The Guardian",
-      "published_at": "2026-08-30T18:09:56+00:00",
-      "summary": "Messi nets four goals, adds assist in 7-1 Miami win Dejan Joveljić scores twice on Sounders debut Minnesota United score three times in four minutes Inter Miami interim coach Guillermo Hoyos ran out of superlatives for Lionel Messi after the ⁠Argentine playmaker scored four goals",
-      "teams": [
-        "Argentina"
       ],
       "is_injury_related": true
     },
@@ -372,18 +374,6 @@
       "summary": "Much like Central Cee, the Chelsea attacker is a distinct presence and right now is perhaps the only truly creative English player out there This week Central Cee launched his new Premier League song, called The Team. It owes its existence to a youth-centred, fist-bumping corpora",
       "teams": [
         "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "3c7879b6c2d3",
-      "title": "Mbappé hat-trick sinks Real Sociedad after Real Madrid jeered by home fans",
-      "url": "https://www.theguardian.com/football/2026/aug/26/real-madrid-real-sociedad-la-liga-match-report-jose-mourinho-kylian-mbappe",
-      "source": "The Guardian",
-      "published_at": "2026-08-26T21:39:14+00:00",
-      "summary": "Kylian Mbappé scored a hat-trick as Real Madrid beat Real Sociedad 4-1 at the Bernabéu on Wednesday ⁠in their first home match since the return of José Mourinho as head coach. Mbappé put Madrid ahead in the 40th minute before Luka Sucic levelled four minutes later, but the ⁠Franc",
-      "teams": [
-        "France"
       ],
       "is_injury_related": true
     }
