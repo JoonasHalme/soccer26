@@ -1,19 +1,80 @@
 {
-  "generated_at": "2026-09-03T16:21:49.731276+00:00",
+  "generated_at": "2026-09-03T19:46:39.863401+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "1629eaa855f0",
+      "title": "Thierry Henry says players ‘have more power than they think’ amid Fifa scandals",
+      "url": "https://www.theguardian.com/football/2026/sep/03/thierry-henry-fifa-scandal-players",
+      "source": "The Guardian",
+      "published_at": "2026-09-03T19:10:36+00:00",
+      "summary": "The former Arsenal, Barcelona and France star says players shouldn’t underestimate their ability to change how football works As Fifa continues to face scrutiny from some confederations and fans, Thierry Henry has encouraged players to use their voice as the political battle for ",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "4f0cfc2504e3",
+      "title": "Manchester City’s Vivianne Miedema could miss rest of year with knee injury",
+      "url": "https://www.theguardian.com/football/2026/sep/03/wsl-transfer-deadline-day-arsenal-elisa-de-almeida-psg",
+      "source": "The Guardian",
+      "published_at": "2026-09-03T17:28:08+00:00",
+      "summary": "Arsenal poised to land PSG’s Élisa De Almeida New United coach Olid promises attacking style Manchester City could be without Vivianne Miedema for at least the rest of 2026, the Guardian understands, after the Netherlands forward sustained a knee injury. According to multiple sou",
+      "teams": [
+        "Netherlands"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "0b33f44fd273",
+      "title": "Gabriel Martinelli leaves Arsenal for Saudi Arabian club Al-Hilal in £60m deal",
+      "url": "https://www.theguardian.com/football/2026/sep/03/gabriel-martinelli-leaves-arsenal-al-hilal",
+      "source": "The Guardian",
+      "published_at": "2026-09-03T17:26:25+00:00",
+      "summary": "Forward follows Gabriel Jesus out of champions Richarlison not in Tottenham’s Premier League squad Arsenal have confirmed Gabriel Martinelli has joined the Saudi Arabian side Al-Hilal for £60m. It is understood the deal for Brazil forward includes a sell-on clause. Martinelli, wh",
+      "teams": [
+        "Brazil",
+        "Saudi Arabia"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "dedf642de316",
       "title": "Every done deal on transfer deadline day",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo",
       "source": "BBC Sport",
-      "published_at": "2026-09-03T16:20:36+00:00",
+      "published_at": "2026-09-03T17:11:55+00:00",
       "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "teams": [
         "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d315f828ff97",
+      "title": "'Adonis' Gibbs-White's chance to shine - will Tuchel take notice?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c07lk45y3ego",
+      "source": "BBC Sport",
+      "published_at": "2026-09-03T17:07:18+00:00",
+      "summary": "Morgan Gibbs-White was left out of England's World Cup squad - will his continued good form be impossible for Thomas Tuchel to ignore?",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "274a32469e20",
+      "title": "Arsenal's Martinelli joins Al-Hilal in £60m move",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq5xl575q7no",
+      "source": "BBC Sport",
+      "published_at": "2026-09-03T16:30:43+00:00",
+      "summary": "Arsenal winger Gabriel Martinelli has joined Saudi Pro League side Al-Hilal for £60m.",
+      "teams": [
+        "Saudi Arabia"
       ],
       "is_injury_related": false
     },
@@ -26,18 +87,6 @@
       "summary": "Rangers confirm they have bought Venezuela striker Kevin Kelsy from Portland Timbers and taken Algeria winger Badredine Bouanani on loan from Stuttgart.",
       "teams": [
         "Algeria"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "4f0cfc2504e3",
-      "title": "Arsenal poised to land PSG’s Élisa De Almeida on WSL transfer deadline day",
-      "url": "https://www.theguardian.com/football/2026/sep/03/wsl-transfer-deadline-day-arsenal-elisa-de-almeida-psg",
-      "source": "The Guardian",
-      "published_at": "2026-09-03T16:02:46+00:00",
-      "summary": "PSG reluctant to let Echegini join Manchester City New United coach Olid promises attacking style Arsenal are expected to finalise the signing of the France defender Élisa De Almeida before the 11pm BST Women’s Super League transfer deadline. The club are understood to have agree",
-      "teams": [
-        "France"
       ],
       "is_injury_related": false
     },
@@ -119,18 +168,6 @@
       "is_injury_related": false
     },
     {
-      "id": "85b728c0a92f",
-      "title": "Arsenal bank on continuity after big names elude them late in transfer window",
-      "url": "https://www.theguardian.com/football/2026/sep/03/arsenal-late-and-big-name-targets-elude-them-transfer-window",
-      "source": "The Guardian",
-      "published_at": "2026-09-03T10:51:46+00:00",
-      "summary": "Could the vain pursuit of ‘dream’ signings such as Vinícius Júnior at the expense of all-round strengthening come to haunt the champions? When Mikel Arteta revealed before Arsenal’s win at Aston Villa that he had pleaded with the Premier League to introduce bigger matchday squads",
-      "teams": [
-        "Saudi Arabia"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "a23dc089160d",
       "title": "The WSL returns bigger than ever and with a mouthwatering title race",
       "url": "https://www.theguardian.com/football/2026/sep/03/wsl-womens-super-league-2026-27-season-preview",
@@ -191,18 +228,6 @@
       "is_injury_related": true
     },
     {
-      "id": "f760d7cfa908",
-      "title": "Will Scottish football finally agree on how to fix youth development?",
-      "url": "https://www.bbc.co.uk/news/articles/c1e5zxxegzyo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-03T05:07:12+00:00",
-      "summary": "For more than 15 years, Scottish football has been asking itself what it could be doing better - now it's preparing for a forum on the future of the game.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "2dbf5c5a6b4d",
       "title": "Scottish Premiership: Durán inspires Celtic to convincing victory after Dalglish ovation",
       "url": "https://www.theguardian.com/football/2026/sep/02/scottish-premiership-celtic-aberdeen-kenny-dalglish-rangers-falkirk",
@@ -260,18 +285,6 @@
       "summary": "Diomansy Kamara says players must ‘be heard’ Monaco defend halting Lamine Camara’s Chelsea move Ismaïla Sarr’s agent has claimed some African players are treated like “a commodity” after Crystal Palace turned down Liverpool’s approach for the Senegal forward and Lamine Camara’s m",
       "teams": [
         "Senegal"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "cd58b63d6ee5",
-      "title": "Balogun pulled out of Everton move over handling of his medical, claim Monaco",
-      "url": "https://www.theguardian.com/football/2026/sep/02/folarin-balogun-transfer-deadline-day-collapse-monaco-everton-lamine-camara-chelsea",
-      "source": "The Guardian",
-      "published_at": "2026-09-02T17:46:40+00:00",
-      "summary": "Thiago Scuro suggests Merseyside club responsible Monaco chief executive defends keeping Camara Folarin Balogun pulled out of a £40m move to Everton because of how he was treated over his medical, according to Monaco’s chief executive, Thiago Scuro, who also defended the late dec",
-      "teams": [
-        "USA"
       ],
       "is_injury_related": true
     },
