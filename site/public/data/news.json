@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-09-04T19:31:17.322823+00:00",
+  "generated_at": "2026-09-04T22:19:57.096191+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "bcc6d2cf8a85",
+      "title": "Premier League news: Richarlison refused new contract, Alonso backs James in midfield",
+      "url": "https://www.theguardian.com/football/2026/sep/04/premier-league-news-manchester-united-everton-aston-villa-manchester-city-tottenham",
+      "source": "The Guardian",
+      "published_at": "2026-09-04T21:30:00+00:00",
+      "summary": "Tottenham manager Roberto De Zerbi insists his wantaway Brazilian striker ‘decided everything, not me’ Continue reading...",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "3e9221f04398",
+      "title": "FA to canvass England players in World Cup review",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyr1ly8z4xo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-04T21:28:23+00:00",
+      "summary": "The Football Association's review into England's World Cup campaign will canvass the opinions of players involved in the tournament.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "ca41542828c3",
       "title": "Chelsea hit bullseye with Morgan Rogers as Arsenal rue what might have been",
@@ -67,19 +91,6 @@
       "is_injury_related": false
     },
     {
-      "id": "73a3e7beb065",
-      "title": "Manchester City failed to land Spain pair in scramble for Miedema cover",
-      "url": "https://www.theguardian.com/football/2026/sep/04/manchester-city-fiamma-benitez-ornella-vignola-bid-miedema-womens-champions-league-draw",
-      "source": "The Guardian",
-      "published_at": "2026-09-04T09:09:51+00:00",
-      "summary": "Atlético rejected £500,000-plus bid for Fiamma Benítez Arsenal handed difficult Champions League draw Atlético Madrid rejected a bid of more than £500,000 from Manchester City for the Spain midfielder Fiamma Benítez on the Women’s Super League’s transfer deadline day, the Guardia",
-      "teams": [
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "9b82df1acaac",
       "title": "Pato consortium's Northampton investment approved",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgy7rx799yo",
@@ -104,18 +115,6 @@
       "is_injury_related": true
     },
     {
-      "id": "813125d45a8f",
-      "title": "Celtic to rekindle Gineitis interest in January - gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2q50rrn0mo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-04T06:50:25+00:00",
-      "summary": "Celtic to rekindle midfielder interest in January as Scotland greats weigh in on future of game.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "90c1ddef63c1",
       "title": "Lucas Herrington staying grounded at Hull City despite meteoric rise: ‘It’s pretty crazy’",
       "url": "https://www.theguardian.com/football/2026/sep/04/premier-league-lucas-herrington-hull-city-meteoric-rise-brisbane-roar",
@@ -138,18 +137,6 @@
         "Scotland"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "274a32469e20",
-      "title": "Arsenal's Martinelli joins Al-Hilal in £60m move",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq5xl575q7no",
-      "source": "BBC Sport",
-      "published_at": "2026-09-03T16:30:43+00:00",
-      "summary": "Arsenal winger Gabriel Martinelli has joined Saudi Pro League side Al-Hilal for £60m.",
-      "teams": [
-        "Saudi Arabia"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "946849e8de37",
