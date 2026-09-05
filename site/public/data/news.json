@@ -1,10 +1,36 @@
 {
-  "generated_at": "2026-09-05T05:41:12.756568+00:00",
+  "generated_at": "2026-09-05T10:29:57.989000+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "07b61592be61",
+      "title": "Clarke gave SFA 'a little shove' for new contract",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c790e8dxddro",
+      "source": "BBC Sport",
+      "published_at": "2026-09-05T10:14:28+00:00",
+      "summary": "Steve Clarke says he had to cajole the Scottish FA into handing him a new contract as national head coach shortly before the World Cup finals this summer because he felt the governing body was hedging its bets.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "340a64897b4b",
+      "title": "‘The noise was unbelievable’: the referee’s view of Mexico v England at the World Cup",
+      "url": "https://www.theguardian.com/football/2026/sep/05/world-cup-alireza-faghani-england-mexico-azteca",
+      "source": "The Guardian",
+      "published_at": "2026-09-05T05:00:29+00:00",
+      "summary": "England’s manager Thomas Tuchel called the officiating ‘just not good enough’ in the fiery last-16 tie. Now Alireza Faghani gives his version of events It was 6pm on 5 July in Mexico City, and Alireza Faghani, a 48-year-old Australian-Iranian, was asleep in the locker room, snori",
+      "teams": [
+        "Mexico",
+        "Australia",
+        "England"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "bcc6d2cf8a85",
       "title": "Premier League news: Richarlison refused new contract, Alonso backs James in midfield",
@@ -43,7 +69,7 @@
     },
     {
       "id": "468202196fa0",
-      "title": "SFA propose youth quotas along with financial incentives",
+      "title": "SFA proposes youth quotas along with financial incentives",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjdvx8ed3d4o",
       "source": "BBC Sport",
       "published_at": "2026-09-04T15:41:55+00:00",
@@ -192,6 +218,18 @@
       "is_injury_related": true
     },
     {
+      "id": "4bc8b2e6e68e",
+      "title": "Premier League transfer talking points: three things we learned from the data",
+      "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-talking-points-three-things-we-learned-from-the-data",
+      "source": "The Guardian",
+      "published_at": "2026-09-02T15:29:31+00:00",
+      "summary": "After record spending in the transfer market, England’s top clubs have widened the gap to their European counterparts Premier League clubs have invested more than £3.4bn in players this summer, an increase of 11.9% on last year. There are three aspects of this enormous spending w",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "763fdf3734ba",
       "title": "Transfer window verdict: how every Premier League club fared",
       "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
@@ -201,6 +239,18 @@
       "teams": [
         "Saudi Arabia",
         "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "b3fd647d1e6e",
+      "title": "Football connects communities but can pull them apart if governed carelessly | Cath Bishop",
+      "url": "https://www.theguardian.com/sport/2026/sep/02/football-connects-communities-but-can-pull-them-apart-if-governed-carelessly",
+      "source": "The Guardian",
+      "published_at": "2026-09-02T07:00:26+00:00",
+      "summary": "Sport is a space to help youngsters to develop character, resilience and confidence, but we need stronger leadership and safer environments to make this happen The fight for the soul of football isn’t just happening in the offices of Uefa and Fifa, it’s taking place on pitches mu",
+      "teams": [
+        "Scotland"
       ],
       "is_injury_related": true
     },
@@ -304,18 +354,6 @@
         "Colombia"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "715e0e3958a5",
-      "title": "Cole Palmer is a unicorn in this world inventing moments of pure pleasure | Barney Ronay",
-      "url": "https://www.theguardian.com/football/2026/aug/28/cole-palmer-chelsea-central-cee-england-football",
-      "source": "The Guardian",
-      "published_at": "2026-08-28T16:59:43+00:00",
-      "summary": "Much like Central Cee, the Chelsea attacker is a distinct presence and right now is perhaps the only truly creative English player out there This week Central Cee launched his new Premier League song, called The Team. It owes its existence to a youth-centred, fist-bumping corpora",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
     }
   ]
 }
