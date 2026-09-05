@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-09-05T16:47:52.925031+00:00",
+  "generated_at": "2026-09-05T19:00:39.427901+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "588b90976693",
+      "title": "Who will carry Rangers' goal threat after 'significant' Shankland injury?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8e3640rrp1o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-05T18:49:30+00:00",
+      "summary": "Rangers captain Lawrence Shankland is set for a spell on the sidelines after picking up a \"significant\" hamstring injury in Saturday's Scottish Premiership victory over Motherwell.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "f183255e2b18",
-      "title": "Scottish Premiership: Naderi strikes as Rangers earn third straight win",
+      "title": "Scottish Premiership: Naderi strikes for Rangers win after fresh Shankland injury blow",
       "url": "https://www.theguardian.com/football/2026/sep/05/scottish-premiership-rangers-motherwell-aberdeen-celtic",
       "source": "The Guardian",
-      "published_at": "2026-09-05T16:34:07+00:00",
-      "summary": "Dundee United score late in 1-1 draw with Falkirk Kilmarnock secure first point after Aberdeen stalemate Rangers striker Ryan Naderi accepted a gift to score the only goal against Motherwell at Ibrox. The early substitute dispossessed Alex Paulsen as the Motherwell goalkeeper att",
+      "published_at": "2026-09-05T17:59:53+00:00",
+      "summary": "Dundee United score late in 1-1 draw with Falkirk Kilmarnock secure first point after Aberdeen stalemate Rangers striker Ryan Naderi accepted a gift to score the only goal against Motherwell at Ibrox, but they fear their captain Lawrence Shankland faces a lengthy spell on the sid",
       "teams": [
         "Scotland",
         "Germany"
       ],
-      "is_injury_related": false
+      "is_injury_related": true
     },
     {
       "id": "4d3a36d44c52",
@@ -24,23 +36,11 @@
       "url": "https://www.theguardian.com/football/2026/sep/05/fulham-crystal-palace-premier-league-match-report",
       "source": "The Guardian",
       "published_at": "2026-09-05T16:13:47+00:00",
-      "summary": "The managers may have changed but the result stays the same. For the fourth successive trips to this part of west London, Crystal Palace returned to south London with all three points in the bag as Pierre Sage got his reign off the mark in dramatic style. Their hero was Ben Chilw",
+      "summary": "The managers may have changed but the result stays the same. For the fourth successive trip to this part of west London, Crystal Palace returned over the river with a win as Pierre Sage got his reign off the mark in dramatic style. Their hero was Ben Chilwell, the former England ",
       "teams": [
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "f74b4d22c74a",
-      "title": "Championship roundup: Lincoln earn late draw against Southampton, Stoke rout Charlton",
-      "url": "https://www.theguardian.com/football/2026/sep/05/championship-roundup-southampton-lincoln-burnley-west-ham-wrexham",
-      "source": "The Guardian",
-      "published_at": "2026-09-05T13:51:26+00:00",
-      "summary": "Lincoln 1-1 Southampton, Stoke 4-0 Charlton Preston get first win with victory over Blackburn Mikkel Ladefoged scored his first goal in English football to secure Lincoln a deserved late point against Southampton as they battled to a 1-1 draw with one of the Championship promotio",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "ee9f31f92868",
@@ -130,18 +130,6 @@
       "is_injury_related": false
     },
     {
-      "id": "468202196fa0",
-      "title": "SFA proposes youth quotas along with financial incentives",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjdvx8ed3d4o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-04T15:41:55+00:00",
-      "summary": "The Scottish FA is proposing financial incentives - and penalties - in a bid to get more homegrown talent playing, with clubs to vote on three initiatives aimed at increased game-time for under-21s.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "a6d3d7b7f607",
       "title": "Football Daily | What you won’t see in the Premier League this weekend",
       "url": "https://www.theguardian.com/football/2026/sep/04/football-daily-newsletter-premier-league-weekend",
@@ -177,18 +165,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "c1a3953dea30",
-      "title": "'Humble but ambitious' - the return of fallen giants Schalke",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5ym7g49gr0o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-03T07:48:46+00:00",
-      "summary": "One of Germany's fallen giants, Schalke are back in the Bundesliga after a complicated few years.",
-      "teams": [
-        "Germany"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "4bc8b2e6e68e",
