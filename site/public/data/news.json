@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-09-05T19:00:39.427901+00:00",
+  "generated_at": "2026-09-05T21:10:23.670434+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "b2d549275b75",
+      "title": "Liverpool may make January move for Sarr - Sunday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx0knz81p2o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-05T20:24:26+00:00",
+      "summary": "Liverpool may make another move for Crystal Palace winger Ismaila Sarr in January and Tottenham's Richarlison may look for a Saudi switch.",
+      "teams": [
+        "Saudi Arabia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "e00f96780c50",
+      "title": "European football: Martínez seals thrilling comeback for unbeaten Inter",
+      "url": "https://www.theguardian.com/football/2026/sep/05/european-football-ethan-nwaneri-dortmund-hoffenheim-athletic-bilbao-atletico-madrid-inter-napoli",
+      "source": "The Guardian",
+      "published_at": "2026-09-05T19:50:21+00:00",
+      "summary": "Serie A champions rally to beat Napoli in added time Schalke 0-0 Bayern Munich; Hoffenheim 2-3 Dortmund Lautaro Martínez scored in the 91st minute as Inter rallied from two goals down ⁠to secure a stunning 3-2 home victory over Napoli , continuing their 100% start to their ⁠Serie",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "588b90976693",
       "title": "Who will carry Rangers' goal threat after 'significant' Shankland injury?",
@@ -106,18 +130,6 @@
       "is_injury_related": false
     },
     {
-      "id": "3e9221f04398",
-      "title": "FA to canvass England players in World Cup review",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyr1ly8z4xo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-04T21:28:23+00:00",
-      "summary": "The Football Association's review into England's World Cup campaign will canvass the opinions of players involved in the tournament.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "ca41542828c3",
       "title": "Chelsea hit bullseye with Morgan Rogers as Arsenal rue what might have been",
       "url": "https://www.theguardian.com/football/blog/2026/sep/04/chelsea-morgan-rogers-arsenal-xabi-alonso-mikel-arteta",
@@ -141,18 +153,6 @@
         "Saudi Arabia"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "68e7526ccff9",
-      "title": "No away fans for SPFL Old Firm matches this season",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8x2j8kl3do",
-      "source": "BBC Sport",
-      "published_at": "2026-09-04T12:30:08+00:00",
-      "summary": "There will be no away supporters for Celtic and Rangers derbies in the Scottish Premiership or Premier Sports Cup this season.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "f33d9e6c83eb",
