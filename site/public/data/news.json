@@ -1,13 +1,50 @@
 {
-  "generated_at": "2026-09-05T10:29:57.989000+00:00",
+  "generated_at": "2026-09-05T13:51:54.657078+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "ee9f31f92868",
+      "title": "Modric plans to play for Croatia past 41st birthday",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg0xegkegyo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-05T13:45:21+00:00",
+      "summary": "Luke Modric, 41, is not ready to retire from international football and hopes to play for Croatia in upcoming Nations League games, including against England.",
+      "teams": [
+        "England",
+        "Croatia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ddc3b6e46dee",
+      "title": "Hughes steps down as Liverpool sporting director",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3d7483rv82o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-05T12:52:56+00:00",
+      "summary": "Richard Hughes steps down from his position as sporting director of Liverpool and is set to join Saudi side Al-Hilal.",
+      "teams": [
+        "Saudi Arabia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "685ade4bcc18",
+      "title": "Liverpool look for new sporting director after Richard Hughes formally leaves",
+      "url": "https://www.theguardian.com/football/2026/sep/05/liverpool-new-sporting-director-after-richard-hughes-leaves-fsg",
+      "source": "The Guardian",
+      "published_at": "2026-09-05T11:00:36+00:00",
+      "summary": "Hughes in line for similar role at Saudi club Al-Hilal FSG president Mike Gordon leads search for successor Liverpool are searching for a fourth sporting director in four years after confirming that Richard Hughes has stepped down from the role. Hughes’s departure has been long e",
+      "teams": [
+        "Saudi Arabia"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "07b61592be61",
-      "title": "Clarke gave SFA 'a little shove' for new contract",
+      "title": "Clarke gave SFA 'a little shove' over new contract",
       "url": "https://www.bbc.co.uk/sport/football/articles/c790e8dxddro",
       "source": "BBC Sport",
       "published_at": "2026-09-05T10:14:28+00:00",
@@ -93,18 +130,6 @@
       "is_injury_related": true
     },
     {
-      "id": "c42cb22e9b0b",
-      "title": "Coventry sign winger Gboho - cousin of PSG's Doue",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgypzg4y75o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-04T14:32:38+00:00",
-      "summary": "Coventry City confirm the signing of Toulouse winger Yann Gboho - the cousin of PSG and France forward Desire Doue.",
-      "teams": [
-        "France"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "68e7526ccff9",
       "title": "No away fans for SPFL Old Firm matches this season",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce8x2j8kl3do",
@@ -113,18 +138,6 @@
       "summary": "There will be no away supporters for Celtic and Rangers derbies in the Scottish Premiership or Premier Sports Cup this season.",
       "teams": [
         "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "9b82df1acaac",
-      "title": "Pato consortium's Northampton investment approved",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy7rx799yo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-04T08:42:22+00:00",
-      "summary": "The Independent Football Regulator approves investment into the Cobblers by a Brazilian consortium.",
-      "teams": [
-        "Brazil"
       ],
       "is_injury_related": false
     },
@@ -149,18 +162,6 @@
       "summary": "The 54th Australian to play in the Premier League insists he will continue working hard – and cannot wait to face Erling Haaland On the opening day of the Premier League season, with just over an hour gone in Hull City’s clash with Manchester United, Lucas Herrington got up off t",
       "teams": [
         "Australia"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "f1d0a448c459",
-      "title": "Is Hearts' McPake poised to gatecrash Pocognoli's Scotland squad?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70l5nrrj02o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-03T23:40:13+00:00",
-      "summary": "Josh McPake has made a significant impact since joining Hearts. Could he now do the same for the Scotland national team?",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": true
     },
@@ -342,18 +343,6 @@
         "Belgium"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "946ce4772adc",
-      "title": "‘Now is a good time for players to speak up’: Lucy Bronze on Fifa and helping refugees",
-      "url": "https://www.theguardian.com/football/2026/aug/29/lucy-bronze-chelsea-women-england-fifa-refugees",
-      "source": "The Guardian",
-      "published_at": "2026-08-29T07:00:20+00:00",
-      "summary": "Chelsea defender reflects on spending time with refugees in Colombia this summer and her passion for helping people on and off the pitch Lucy Bronze does not stop. Her brain runs a hundred miles a minute. She does not need traditional entertainment. “I’m not good at watching TV –",
-      "teams": [
-        "Colombia"
-      ],
-      "is_injury_related": false
     }
   ]
 }
