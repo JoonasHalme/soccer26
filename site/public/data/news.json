@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-09-06T19:06:52.236118+00:00",
+  "generated_at": "2026-09-06T21:19:59.836846+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "f183255e2b18",
+      "title": "Scottish Premiership: Celtic’s Yang completes fightback to see off St Mirren",
+      "url": "https://www.theguardian.com/football/2026/sep/05/scottish-premiership-rangers-motherwell-aberdeen-celtic",
+      "source": "The Guardian",
+      "published_at": "2026-09-06T20:25:40+00:00",
+      "summary": "Rangers beat Motherwell 1-0 but lose Shankland to injury Kerjota’s late winner sees Hearts edge past Dundee Yang Hyun-jun scored the winner as Celtic came from behind to beat an impressive St Mirren side 2-1. St Mirren were heading for the top of the Premiership when Nikolas Agra",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "94eaf5b52a15",
       "title": "Last-gasp Maitland-Niles stunner rescues point for Everton",
@@ -18,16 +30,16 @@
       "is_injury_related": true
     },
     {
-      "id": "1bd0944d4245",
-      "title": "Maitland-Niles stunner rescues late point for Everton against Manchester United",
-      "url": "https://www.theguardian.com/football/2026/sep/06/everton-manchester-united-premier-league-match-report",
+      "id": "a367412e66f8",
+      "title": "European football: Lamine Yamal’s double powers Barcelona to rout of Valencia",
+      "url": "https://www.theguardian.com/football/2026/sep/06/european-football-lamine-yamal-double-barcelona-valencia-juventus-milan",
       "source": "The Guardian",
-      "published_at": "2026-09-06T15:22:16+00:00",
-      "summary": "Defiance serves David Moyes’s ­Everton well, especially when laced with a sense of indignation. At the end of a troubled week in the ­transfer market, and at the very end of a game when all seemed lost against ­Manchester United, they showed weaker in number need not translate to",
+      "published_at": "2026-09-06T18:41:21+00:00",
+      "summary": "Fermín, Raphinha and Pedri also score in 5-0 La Liga win Goalkeeper Koeman Jr scores two penalties in Eredivisie Lamine Yamal struck twice for Barcelona as they demolished Valencia 5-0 on Sunday to maintain their 100% start in La Liga. The reigning champions moved three points cl",
       "teams": [
-        "Jordan"
+        "Spain"
       ],
-      "is_injury_related": false
+      "is_injury_related": true
     },
     {
       "id": "3e7075f6a436",
@@ -90,30 +102,6 @@
       "is_injury_related": false
     },
     {
-      "id": "f183255e2b18",
-      "title": "Scottish Premiership: Celtic’s Yang completes fightback to see off St Mirren",
-      "url": "https://www.theguardian.com/football/2026/sep/05/scottish-premiership-rangers-motherwell-aberdeen-celtic",
-      "source": "The Guardian",
-      "published_at": "2026-09-05T21:36:26+00:00",
-      "summary": "Celtic come from behind to win 2-1 at St Mirren Rangers beat Motherwell 1-0 but lose Shankland to injury Yang Hyun-jun scored the winner as Celtic came from behind to beat an impressive St Mirren side 2-1. St Mirren were heading for the top of the Premiership when Nikolas Agrafio",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "b2d549275b75",
-      "title": "Liverpool may make January move for Sarr - Sunday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdx0knz81p2o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-05T20:24:26+00:00",
-      "summary": "Liverpool may make another move for Crystal Palace winger Ismaila Sarr in January and Tottenham's Richarlison may look for a Saudi switch.",
-      "teams": [
-        "Saudi Arabia"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "588b90976693",
       "title": "Who will carry Rangers' goal threat after 'significant' Shankland injury?",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8e3640rrp1o",
@@ -136,6 +124,20 @@
         "England"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "340a64897b4b",
+      "title": "‘The noise was unbelievable’: the referee’s view of Mexico v England at the World Cup",
+      "url": "https://www.theguardian.com/football/2026/sep/05/world-cup-alireza-faghani-england-mexico-azteca",
+      "source": "The Guardian",
+      "published_at": "2026-09-05T05:00:29+00:00",
+      "summary": "England’s manager Thomas Tuchel called the officiating ‘just not good enough’ in the fiery last-16 tie. Now Alireza Faghani gives his version of events It was 6pm on 5 July in Mexico City, and Alireza Faghani, a 48-year-old Australian-Iranian, was asleep in the locker room, snori",
+      "teams": [
+        "Mexico",
+        "Australia",
+        "England"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "ca41542828c3",
