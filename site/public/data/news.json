@@ -1,10 +1,71 @@
 {
-  "generated_at": "2026-09-07T04:29:43.295061+00:00",
+  "generated_at": "2026-09-07T10:11:38.976975+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "03fb43f514a3",
+      "title": "Watch round-up of weekend's SPFL action",
+      "url": "https://www.bbc.co.uk/sport/videos/c8xkvvdx4z4o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-07T09:35:29+00:00",
+      "summary": "Watch the best of the action from the Scottish Championship, Scottish League 1 and Scottish League 2, including wins for Stenhousemuir, Raith Rovers, Partick Thistle and Queen's Park.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8d6401062fd9",
+      "title": "How quiz-show winnings kick-started coach's career - with Old Trafford next",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy8w548yyo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-07T08:04:12+00:00",
+      "summary": "Lithuanian coach Valdas Dambrauskas cut his teeth in English football, and now returns in the Champions League with Sabah.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "35ef2cb1e956",
+      "title": "Kerjota scores 96th-minute winner for Hearts against Dundee",
+      "url": "https://www.bbc.co.uk/sport/videos/c790qe5gr2po",
+      "source": "BBC Sport",
+      "published_at": "2026-09-07T07:40:46+00:00",
+      "summary": "Claudio Braga's penalty and Sabah Kerjota's brilliant low drive earn Hearts a dramatic Scottish Premiership victory over Dundee, extending their unbeaten run in all competitions to eight matches.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8c13727473e2",
+      "title": "Fowler scores twice as St Johnstone beat Hibs",
+      "url": "https://www.bbc.co.uk/sport/videos/cq63m9vnj87o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-07T07:36:31+00:00",
+      "summary": "Watch highlights as Josh Fowler's first-half double makes it back-to-back Scottish Premiership wins for St Johnstone and heaps further pressure on Hibernian head coach David Gray.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "52c2e6bfe258",
+      "title": "Kim Milton Nielsen’s 1998 memories: ‘Hey, you are the man who sent off Beckham’",
+      "url": "https://www.theguardian.com/football/2026/sep/07/david-beckham-kim-milton-nielsen-red-card-1998-world-cup-argentina-diego-simeone",
+      "source": "The Guardian",
+      "published_at": "2026-09-07T07:00:28+00:00",
+      "summary": "In an extract from a new book, the Danish former referee recalls sending off the England midfielder for his infamous kick on Diego Simeone At half-time on 30 June 1998, Kim Milton Nielsen stepped into the changing room at the Geoffroy-Guichard Stadium in Saint-Étienne. The air re",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "a367412e66f8",
       "title": "European football: Lamine Yamal’s double powers Barcelona to rout of Valencia",
