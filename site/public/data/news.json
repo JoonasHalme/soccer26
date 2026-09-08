@@ -1,10 +1,85 @@
 {
-  "generated_at": "2026-09-08T04:27:51.306844+00:00",
+  "generated_at": "2026-09-08T09:35:59.790378+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "0fd2736f4c44",
+      "title": "David Squires on … Lionel Messi enjoying his true passion after Argentina retirement",
+      "url": "https://www.theguardian.com/football/picture/2026/sep/08/david-squires-on-lionel-messi-true-passion-international-football-retirement",
+      "source": "The Guardian",
+      "published_at": "2026-09-08T09:23:21+00:00",
+      "summary": "Our cartoonist imagines how the football great might while away the hours after calling time on his international career Buy a cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading...",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "a5168b5a3562",
+      "title": "Manager ins and outs - 2026-27",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-08T09:20:23+00:00",
+      "summary": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.",
+      "teams": [
+        "Scotland",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8623db43a651",
+      "title": "Man City-bound 16-year-old Cavan Sullivan is MLS’s chaotic revelation",
+      "url": "https://www.theguardian.com/football/2026/sep/08/cavan-sullivan-analyisis-mls-philadelphia-union",
+      "source": "The Guardian",
+      "published_at": "2026-09-08T09:00:53+00:00",
+      "summary": "The Philadelphia Union midfielder has gotten his longest run of game time since turning pro, and the data is tantalizing There’s a video from a United States U-15 camp three years ago that will make your head spin. It’s a routine training session for the boys on the pitch except ",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "64084074c9c2",
+      "title": "Podcast: Martindale returns, Shankland blow and Scotland's new team",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p8hp52",
+      "source": "BBC Sport",
+      "published_at": "2026-09-08T07:00:00+00:00",
+      "summary": "Livingston pull the trigger as Rangers lose their Captain",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "597a57732b8e",
+      "title": "Shankland faces up to three months out - gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cnvlmg4544po",
+      "source": "BBC Sport",
+      "published_at": "2026-09-08T06:24:14+00:00",
+      "summary": "Rangers captain and Dundee forward face spells on the sidelines as Celtic forward set for Colombia call-up.",
+      "teams": [
+        "Colombia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "788d0633d6f7",
+      "title": "No major World Cup regrets, says Tony Popovic, despite shootout heartbreak",
+      "url": "https://www.theguardian.com/football/2026/sep/08/tony-popovic-socceroos-coach-world-cup-no-regrest-penalty-shootout-disappointment",
+      "source": "The Guardian",
+      "published_at": "2026-09-08T06:08:17+00:00",
+      "summary": "In his first appearance in front of the media since the last-32 defeat to Egypt the coach, whose tactics elicited some criticism, insists he would not have done anything different More than two months have passed since Australia’s painful penalty shootout defeat against Egypt end",
+      "teams": [
+        "Australia",
+        "Turkey",
+        "Egypt"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "d8583381d1ed",
       "title": "Maresca eyes rest for busy dad Haaland as Manchester City prepare for Porto",
@@ -105,18 +180,6 @@
       "is_injury_related": true
     },
     {
-      "id": "03fb43f514a3",
-      "title": "Watch round-up of weekend's SPFL action",
-      "url": "https://www.bbc.co.uk/sport/videos/c8xkvvdx4z4o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-07T09:35:29+00:00",
-      "summary": "Watch the best of the action from the Scottish Championship, Scottish League 1 and Scottish League 2, including wins for Stenhousemuir, Raith Rovers, Partick Thistle and Queen's Park.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "8d6401062fd9",
       "title": "How £725 game-show winnings kick-started Champions League coach's career",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgy8w548yyo",
@@ -151,31 +214,6 @@
         "Scotland"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "52c2e6bfe258",
-      "title": "Kim Milton Nielsen’s 1998 memories: ‘Hey, you are the man who sent off Beckham’",
-      "url": "https://www.theguardian.com/football/2026/sep/07/david-beckham-kim-milton-nielsen-red-card-1998-world-cup-argentina-diego-simeone",
-      "source": "The Guardian",
-      "published_at": "2026-09-07T07:00:28+00:00",
-      "summary": "In an extract from a new book, the Danish former referee recalls sending off the England midfielder for his infamous kick on Diego Simeone At half-time on 30 June 1998, Kim Milton Nielsen stepped into the changing room at the Geoffroy-Guichard Stadium in Saint-Étienne. The air re",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "a367412e66f8",
-      "title": "European football: Lamine Yamal’s double powers Barcelona to rout of Valencia",
-      "url": "https://www.theguardian.com/football/2026/sep/06/european-football-lamine-yamal-double-barcelona-valencia-juventus-milan",
-      "source": "The Guardian",
-      "published_at": "2026-09-06T21:25:17+00:00",
-      "summary": "Gatti’s stoppage-time header rescues Juve against Milan Goalkeeper Koeman Jr scores two penalties in Eredivisie Lamine Yamal struck twice for Barcelona as they demolished Valencia 5-0 on Sunday to maintain their 100% start in La Liga. The reigning champions moved three points cle",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "f0f8f86c5105",
@@ -226,6 +264,18 @@
       "is_injury_related": false
     },
     {
+      "id": "d2130d28e63b",
+      "title": "Fans furious with Robinson, but what is going wrong at Aberdeen?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ced7257g7l0o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-06T10:57:44+00:00",
+      "summary": "After a fourth straight Scottish Premiership game without a goal and just one league win this season, what is wrong with Aberdeen?",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "acc066f8e0cb",
       "title": "Is Bain on course to be Scotland's number one?",
       "url": "https://www.bbc.co.uk/sport/football/articles/c62jn6n0rvlo",
@@ -236,18 +286,6 @@
         "Scotland"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "588b90976693",
-      "title": "Who will carry Rangers' goal threat after 'significant' Shankland injury?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8e3640rrp1o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-05T18:49:30+00:00",
-      "summary": "Rangers captain Lawrence Shankland is set for a spell on the sidelines after picking up a \"significant\" hamstring injury in Saturday's Scottish Premiership victory over Motherwell.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "340a64897b4b",
@@ -389,19 +427,6 @@
       "summary": "Today’s rumours are squeezing out every last drop Deadline day live – follow all the news and moves The final day of the men’s transfer window is here , but there is still time for some rumourmongering, before a Supermarket Sweep-style trolley dash for 11th-hour signings. Going w",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "a42d944d5b89",
-      "title": "Elversberg and ‘miracle village’ prove that Bundesliga fairytales still exist | Andy Brassell",
-      "url": "https://www.theguardian.com/football/2026/aug/31/elversberg-miracle-village-prove-bundesliga-fairytales-still-exist",
-      "source": "The Guardian",
-      "published_at": "2026-08-31T11:52:41+00:00",
-      "summary": "German football has long insisted there is more to their elite league than a title race. Now they have a story that shows the world that surprise and wonder does live here too Friday night was no first day fun for VfB Stuttgart as they got first-hand proof of what the rest of the",
-      "teams": [
-        "Germany",
-        "France"
       ],
       "is_injury_related": false
     },
