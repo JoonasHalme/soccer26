@@ -1,17 +1,77 @@
 {
-  "generated_at": "2026-09-08T09:35:59.790378+00:00",
+  "generated_at": "2026-09-08T14:29:43.798026+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "898e13077a7c",
+      "title": "Alexis Mac Allister ‘very sad’ Liverpool did not offer him a new contract",
+      "url": "https://www.theguardian.com/football/2026/sep/08/alexis-mac-allister-sad-liverpool-did-not-offer-new-contract",
+      "source": "The Guardian",
+      "published_at": "2026-09-08T14:04:24+00:00",
+      "summary": "Midfielder rejected chance to leave the club in summer ‘ I will give 100% until my last day’ says 27-year-old Alexis Mac Allister has said he feels “very sad” after Liverpool declined to offer him a new contract and admitted he rejected the chance to leave this summer. Mac Allist",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "597a57732b8e",
+      "title": "Dundee's Westley faces spell on sidelines - gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cnvlmg4544po",
+      "source": "BBC Sport",
+      "published_at": "2026-09-08T13:47:42+00:00",
+      "summary": "Dundee forward face spells on the sidelines as Celtic forward set for Colombia call-up.",
+      "teams": [
+        "Colombia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "0b42eb566710",
+      "title": "Rangers lose Shankland for up to four months",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c74ew227rmpo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-08T13:30:33+00:00",
+      "summary": "Rangers captain Lawrence Shankland will be out for up to four months because of a hamstring tear and the Scotland forward may have surgery.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "bc7d9e70d68e",
+      "title": "McTominay's heart procedure 'a complete success'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd79y308yl9o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-08T12:28:16+00:00",
+      "summary": "Napoli say Scott McTominay's heart surgery \"was a complete success\" and expect the Scotland midfielder to resume training this month.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "a73d3e5c2dde",
+      "title": "‘Girl’s day’ controversy reignites debate over how women are treated in South Korean football",
+      "url": "https://www.theguardian.com/football/2026/sep/08/girls-day-controversy-debate-womens-football-south-korea",
+      "source": "The Guardian",
+      "published_at": "2026-09-08T10:00:01+00:00",
+      "summary": "A referee is alleged to have made a remark referring to menstruation that has revived concerns about treatment of players It was a comment allegedly made by a referee during a WK League match that became one of the biggest controversies in South Korean women’s football. What bega",
+      "teams": [
+        "South Korea"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "0fd2736f4c44",
       "title": "David Squires on … Lionel Messi enjoying his true passion after Argentina retirement",
       "url": "https://www.theguardian.com/football/picture/2026/sep/08/david-squires-on-lionel-messi-true-passion-international-football-retirement",
       "source": "The Guardian",
       "published_at": "2026-09-08T09:23:21+00:00",
-      "summary": "Our cartoonist imagines how the football great might while away the hours after calling time on his international career Buy a cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading...",
+      "summary": "Our cartoonist imagines how the football great might while away the hours after calling time on his international career Buy this cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading...",
       "teams": [
         "Argentina"
       ],
@@ -51,18 +111,6 @@
       "summary": "Livingston pull the trigger as Rangers lose their Captain",
       "teams": [
         "Scotland"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "597a57732b8e",
-      "title": "Shankland faces up to three months out - gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cnvlmg4544po",
-      "source": "BBC Sport",
-      "published_at": "2026-09-08T06:24:14+00:00",
-      "summary": "Rangers captain and Dundee forward face spells on the sidelines as Celtic forward set for Colombia call-up.",
-      "teams": [
-        "Colombia"
       ],
       "is_injury_related": true
     },
@@ -132,18 +180,6 @@
       "is_injury_related": false
     },
     {
-      "id": "2f8d54d05188",
-      "title": "Serie A’s hierarchy takes shape with wild night in Milan and flat draw in Turin | Nicky Bandini",
-      "url": "https://www.theguardian.com/football/2026/sep/07/inter-napoli-juventus-milan-serie-a-hierarchy",
-      "source": "The Guardian",
-      "published_at": "2026-09-07T12:03:40+00:00",
-      "summary": "Inter’s victory over Napoli had the feel of a title race classic, while Juventus and Milan exposed familiar shortcomings despite their summer spending Already as the words were being spoken, Cristian Chivu started to bristle. “ Scontri diretti ” translates to “head-to-head clashe",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "400b19adcba9",
       "title": "Karius keeps Kane at bay as Schalke nullify Bayern on Neuer’s return | Andy Brassell",
       "url": "https://www.theguardian.com/football/2026/sep/07/loris-karius-manuel-neuer-harry-kane-schalke-bayern-munich-bundesliga",
@@ -157,11 +193,11 @@
     },
     {
       "id": "d91a67aacf12",
-      "title": "WSL talking points: Palace result in doubt after substitution nightmare, Arsenal signings shine",
+      "title": "WSL talking points: Palace result in doubt after substitution nightmare, while Arsenal signings shine",
       "url": "https://www.theguardian.com/football/2026/sep/07/wsl-talking-points-palace-result-in-doubt-after-substitution-nightmare-arsenal-signings-shine",
       "source": "The Guardian",
       "published_at": "2026-09-07T11:20:32+00:00",
-      "summary": "Promoted side’s thrilling win may be overturned after they used four substitutions windows while Georgia Stanway show the way for Gunners Kirsty Howat’s 60-second cameo deep into injury time could ruin what was a memorable day for Crystal Palace on their return to the top flight.",
+      "summary": "Promoted side’s thrilling win may be overturned after they used four substitution windows, while Georgia Stanway shows the way for Gunners Kirsty Howat’s 60-second cameo deep into injury time could ruin what was a memorable day for Crystal Palace on their return to the top flight",
       "teams": [
         "England"
       ],
@@ -178,6 +214,18 @@
         "Belgium"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "03fb43f514a3",
+      "title": "Watch round-up of weekend's SPFL action",
+      "url": "https://www.bbc.co.uk/sport/videos/c8xkvvdx4z4o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-07T09:35:29+00:00",
+      "summary": "Watch the best of the action from the Scottish Championship, Scottish League 1 and Scottish League 2, including wins for Stenhousemuir, Raith Rovers, Partick Thistle and Queen's Park.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "8d6401062fd9",
@@ -264,18 +312,6 @@
       "is_injury_related": false
     },
     {
-      "id": "d2130d28e63b",
-      "title": "Fans furious with Robinson, but what is going wrong at Aberdeen?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ced7257g7l0o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-06T10:57:44+00:00",
-      "summary": "After a fourth straight Scottish Premiership game without a goal and just one league win this season, what is wrong with Aberdeen?",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "acc066f8e0cb",
       "title": "Is Bain on course to be Scotland's number one?",
       "url": "https://www.bbc.co.uk/sport/football/articles/c62jn6n0rvlo",
@@ -300,19 +336,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "a6d3d7b7f607",
-      "title": "Football Daily | What you won’t see in the Premier League this weekend",
-      "url": "https://www.theguardian.com/football/2026/sep/04/football-daily-newsletter-premier-league-weekend",
-      "source": "The Guardian",
-      "published_at": "2026-09-04T14:57:19+00:00",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! That icy wind rattling the rafters is the cold reality of what follows the closure of the transfer window, a hungover pall of regret. Despite £3.5bn shelled out in the men’s window, several things will not be happening in the Pr",
-      "teams": [
-        "Brazil",
-        "Saudi Arabia"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "dedf642de316",
@@ -417,31 +440,6 @@
         "Canada"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "0d5817b39ee9",
-      "title": "Football transfer rumours: Manchester United and Liverpool eye Kroupi? Vardy to Wrexham?",
-      "url": "https://www.theguardian.com/football/2026/sep/01/football-transfer-rumours-manchester-united-liverpool-eli-junior-kroupi-jamie-vardy-wrexham",
-      "source": "The Guardian",
-      "published_at": "2026-09-01T08:23:59+00:00",
-      "summary": "Today’s rumours are squeezing out every last drop Deadline day live – follow all the news and moves The final day of the men’s transfer window is here , but there is still time for some rumourmongering, before a Supermarket Sweep-style trolley dash for 11th-hour signings. Going w",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "abba6d2863f0",
-      "title": "Premier League: 10 talking points from the weekend’s action",
-      "url": "https://www.theguardian.com/football/2026/aug/31/premier-league-10-talking-points-from-the-weekend-action",
-      "source": "The Guardian",
-      "published_at": "2026-08-31T07:00:19+00:00",
-      "summary": "Newcastle players look revitalised, Liverpool’s curious transfer strategy and a worrying start for Palace Amid the concerns at Manchester United, one player unquestioned is Senne Lammens. The goalkeeper produced some important first-half saves against Ipswich to keep his side in ",
-      "teams": [
-        "Paraguay",
-        "Belgium"
-      ],
-      "is_injury_related": true
     }
   ]
 }
