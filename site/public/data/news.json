@@ -1,10 +1,72 @@
 {
-  "generated_at": "2026-09-09T19:44:33.005453+00:00",
+  "generated_at": "2026-09-09T22:30:38.383965+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "5a1b9efa33f2",
+      "title": "How Mac Allister 'let his feet do the talking' - Warnock",
+      "url": "https://www.bbc.co.uk/sport/videos/c1mvpvk5jryo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-09T22:21:42+00:00",
+      "summary": "Match of the Day pundit Stephen Warnock praises an \"exceptional\" Alexis Mac Allister as the Argentinian midfielder scores a brilliant winner in Liverpool's 2-1 Champions League win over Atletico Madrid at Anfield.",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "9f485cf76dab",
+      "title": "Champions League roundup: Raphinha shines as Barcelona thrash Feyenoord",
+      "url": "https://www.theguardian.com/football/2026/sep/09/champions-league-roundup-barcelona-paris-saint-germain",
+      "source": "The Guardian",
+      "published_at": "2026-09-09T22:08:45+00:00",
+      "summary": "Brazilian scores twice in 5-1 victory at Camp Nou Torres scores hat-trick as PSG thump Slovan Bratislava Raphinha let his goals do the talking after being omitted from the Ballon d’Or shortlist, striking twice as Barcelona eased to a 5-1 win over Feyenoord in the Champions League",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "2955c5a05ab6",
+      "title": "Scottish roundup: Miovski hits last-gasp Rangers winner and Celtic keep 100% record",
+      "url": "https://www.theguardian.com/football/2026/sep/09/scottish-roundup-miovski-rangers-celtic-st-mirren-st-johnstone",
+      "source": "The Guardian",
+      "published_at": "2026-09-09T21:38:38+00:00",
+      "summary": "Rangers beat St Mirren 1-0 at Ibrox Celtic also narrow winners at St Johnstone A dramatic last-gasp strike from substitute Bojan Miovski gave Rangers a 1-0 Premiership win over St Mirren at Ibrox. Back in the technical area after a two-game touchline suspension, Derek McInnes wat",
+      "teams": [
+        "Scotland",
+        "Australia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "46afb371cf78",
+      "title": "Alexis Mac Allister makes his point as Liverpool fight back to defeat Atlético",
+      "url": "https://www.theguardian.com/football/2026/sep/09/liverpool-atletico-madrid-champions-league-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-09-09T21:04:17+00:00",
+      "summary": "It was the time and place for Alexis Mac Allister to do his talking on the pitch and the disgruntled Liverpool midfielder did not disappoint. “Very sad” over Liverpool’s refusal to offer him a contract extension , while Dominik Szoboszlai and Ryan Gravenberch were getting theirs,",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1a22243bed14",
+      "title": "Aston Villa ignite season in five-goal thriller against Club Brugge",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c36l7y21rr2o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-09T21:00:27+00:00",
+      "summary": "Aston Villa launch their Champions League campaign with a 3-2 victory over Club Brugge in Belgium, ending their early-season goal drought.",
+      "teams": [
+        "Belgium"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "d7a0591e2f3f",
       "title": "Scottish clubs face tougher Europa League route",
@@ -120,6 +182,18 @@
       "is_injury_related": false
     },
     {
+      "id": "ace42126df94",
+      "title": "Cristian Volpato’s Socceroos fate uncertain after second sample confirms positive cocaine test",
+      "url": "https://www.theguardian.com/football/2026/sep/09/cristian-volpato-cocaine-positive-test-socceroos-australia-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "2026-09-09T04:08:35+00:00",
+      "summary": "Football Australia has power to suspend him from national team Striker has maintained his innocence over failed drugs test Cristian Volpato’s immediate availability for the Socceroos rests in the hands of Football Australia after NSW Police confirmed the World Cup star had tested",
+      "teams": [
+        "Australia"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "ad929d6e452a",
       "title": "Championship roundup: West Ham go top after Bowen double sinks Bolton",
       "url": "https://www.theguardian.com/football/2026/sep/08/championship-roundup-west-ham-go-top-after-bowen-double-sinks-bolton",
@@ -128,18 +202,6 @@
       "summary": "England forward scores twice in 3-2 victory Southampton 3-1 Swansea; Watford 2-1 Preston Captain Jarrod Bowen scored twice as West Ham ’s 3-2 win over Bolton took them top of the Championship on goal difference. The England international opened the scoring after 13 minutes and ea",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "5776cd053949",
-      "title": "Liverpool monitoring Thiaw - Wednesday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg0jrdvxnvo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-08T20:45:07+00:00",
-      "summary": "Germany defender Malick Thiaw is being looked at by Liverpool, Manchester United, Fulham want to lock down Calvin Bassey and James Rodriguez is in Serie B talks.",
-      "teams": [
-        "Germany"
       ],
       "is_injury_related": false
     },
@@ -190,18 +252,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "0b42eb566710",
-      "title": "Rangers lose Shankland for up to four months",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74ew227rmpo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-08T13:30:33+00:00",
-      "summary": "Rangers captain Lawrence Shankland will be out for up to four months because of a hamstring tear and the Scotland forward may have surgery.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "bc7d9e70d68e",
@@ -265,16 +315,14 @@
       "is_injury_related": false
     },
     {
-      "id": "788d0633d6f7",
-      "title": "No major World Cup regrets, says Tony Popovic, despite shootout heartbreak",
-      "url": "https://www.theguardian.com/football/2026/sep/08/tony-popovic-socceroos-coach-world-cup-no-regrest-penalty-shootout-disappointment",
+      "id": "2f8d54d05188",
+      "title": "Serie A’s hierarchy takes shape with wild night in Milan and flat draw in Turin | Nicky Bandini",
+      "url": "https://www.theguardian.com/football/2026/sep/07/inter-napoli-juventus-milan-serie-a-hierarchy",
       "source": "The Guardian",
-      "published_at": "2026-09-08T06:08:17+00:00",
-      "summary": "In his first appearance in front of the media since the last-32 defeat to Egypt the coach, whose tactics elicited some criticism, insists he would not have done anything different More than two months have passed since Australia’s painful penalty shootout defeat against Egypt end",
+      "published_at": "2026-09-07T12:03:40+00:00",
+      "summary": "Inter’s victory over Napoli had the feel of a title race classic, while Juventus and Milan exposed familiar shortcomings despite their summer spending Already as the words were being spoken, Cristian Chivu started to bristle. “ Scontri diretti ” translates to “head-to-head clashe",
       "teams": [
-        "Australia",
-        "Turkey",
-        "Egypt"
+        "England"
       ],
       "is_injury_related": true
     },
@@ -285,6 +333,18 @@
       "source": "The Guardian",
       "published_at": "2026-09-07T11:20:32+00:00",
       "summary": "Promoted side’s thrilling win may be overturned after they used four substitution windows, while Georgia Stanway shows the way for Gunners Kirsty Howat’s 60-second cameo deep into injury time could ruin what was a memorable day for Crystal Palace on their return to the top flight",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "8d6401062fd9",
+      "title": "How £725 game-show winnings kick-started Champions League coach's career",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy8w548yyo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-07T08:04:12+00:00",
+      "summary": "Lithuanian coach Valdas Dambrauskas cut his teeth in English football, and now returns in the Champions League with Sabah.",
       "teams": [
         "England"
       ],
@@ -303,28 +363,17 @@
       "is_injury_related": false
     },
     {
-      "id": "8c13727473e2",
-      "title": "Fowler scores twice as St Johnstone beat Hibs",
-      "url": "https://www.bbc.co.uk/sport/videos/cq63m9vnj87o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-07T07:36:31+00:00",
-      "summary": "Watch highlights as Josh Fowler's first-half double makes it back-to-back Scottish Premiership wins for St Johnstone and heaps further pressure on Hibernian head coach David Gray.",
+      "id": "52c2e6bfe258",
+      "title": "Kim Milton Nielsen’s 1998 memories: ‘Hey, you are the man who sent off Beckham’",
+      "url": "https://www.theguardian.com/football/2026/sep/07/david-beckham-kim-milton-nielsen-red-card-1998-world-cup-argentina-diego-simeone",
+      "source": "The Guardian",
+      "published_at": "2026-09-07T07:00:28+00:00",
+      "summary": "In an extract from a new book, the Danish former referee recalls sending off the England midfielder for his infamous kick on Diego Simeone At half-time on 30 June 1998, Kim Milton Nielsen stepped into the changing room at the Geoffroy-Guichard Stadium in Saint-Étienne. The air re",
       "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "94eaf5b52a15",
-      "title": "Last-gasp Maitland-Niles stunner rescues point for Everton",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq63715m0reo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-06T18:58:33+00:00",
-      "summary": "Ainsley Maitland-Niles marked his return to English football by scoring a stunning stoppage-time equaliser as a resilient Everton came from behind twice to draw with Manchester United in the Premier League.",
-      "teams": [
+        "Argentina",
         "England"
       ],
-      "is_injury_related": true
+      "is_injury_related": false
     },
     {
       "id": "340a64897b4b",
@@ -337,23 +386,6 @@
         "Mexico",
         "Australia",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "946849e8de37",
-      "title": "World Cup wishlists, early movers, big clearouts: 2026 summer transfer window trends",
-      "url": "https://www.theguardian.com/football/2026/sep/03/summer-transfer-window-2026-trends-premier-league-la-liga-serie-a-bundesliga-ligue-1",
-      "source": "The Guardian",
-      "published_at": "2026-09-03T16:00:42+00:00",
-      "summary": "At the end of a busy transfer window which spanned the World Cup, here are some of the subplots of the summer The World Cup is always a good shop window. Yan Diomande was already a rising star at RB Leipzig but shining for Côte d’Ivoire in the US helped push up his price tag befo",
-      "teams": [
-        "Bosnia & Herzegovina",
-        "Switzerland",
-        "Morocco",
-        "Ivory Coast",
-        "Cape Verde",
-        "Ghana"
       ],
       "is_injury_related": false
     },
@@ -404,18 +436,6 @@
       "teams": [
         "France",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f2cb633ed609",
-      "title": "Janine Sonis: ‘63,000 fans in Denver proves a women’s team was way overdue’",
-      "url": "https://www.theguardian.com/football/2026/sep/01/janine-sonis-interview-denver-summit-moving-the-goalposts",
-      "source": "The Guardian",
-      "published_at": "2026-09-01T11:29:56+00:00",
-      "summary": "The Canada and Denver Summit full-back on playing at a packed Mile High Stadium and the impact of Lindsey Heaps In the 13th minute of a 6-1 win against Chicago, Janine Sonis ran into the penalty area and stealthily positioned herself behind a line of defenders, before striking a ",
-      "teams": [
-        "Canada"
       ],
       "is_injury_related": false
     }
