@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-09-10T19:37:19.544002+00:00",
+  "generated_at": "2026-09-10T22:31:17.612755+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "c9d5fe7bd2a5",
+      "title": "Champions League: Bayern break down Bodø/Glimt, Como put four past Leipzig",
+      "url": "https://www.theguardian.com/football/2026/sep/10/champions-league-bayern-bodo-como-leipzig",
+      "source": "The Guardian",
+      "published_at": "2026-09-10T21:57:25+00:00",
+      "summary": "Bayern Munich 5-0 Bodø/Glimt, Como 4-1 Leipzig Lens win 3-2 at Slavia Prague with last-gasp double Bayern Munich opened their Champions League campaign with a 5-0 thrashing of Norway’s Bodo/Glimt . The six-times winners were frustrated before half-time by Bodo/Glimt but cruised o",
+      "teams": [
+        "Norway"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "7aadc4b0e021",
+      "title": "Olise scores twice as Bayern thrash Bodo/Glimt",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c1mvzgmdje5o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-10T21:50:13+00:00",
+      "summary": "England captain Harry Kane scores his 55th Champions League goal and Michael Olise strikes twice as Bayern Munich begin their campaign by comfortably beating Bodo/Glimt.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "5bc7c34dce0e",
       "title": "French FA accuses Infantino of ‘seriously damaging’ football as it withdraws support",
@@ -16,19 +40,6 @@
         "France"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "83de90479bca",
-      "title": "Why David Beckham will have my vote for the US Soccer Hall of Fame | Pablo Iglesias Maurer",
-      "url": "https://www.theguardian.com/football/2026/sep/10/david-beckham-us-soccer",
-      "source": "The Guardian",
-      "published_at": "2026-09-10T14:54:07+00:00",
-      "summary": "The Englishman has gotten no shortage of recognition, but his contributions to the American game deserve an official title Sign up for our free newsletter here Next spring, when the US Soccer Hall of Fame welcomes its newest class, there will be pomp and circumstance. The hall, w",
-      "teams": [
-        "USA",
-        "England"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "25b98c03b9d5",
@@ -63,6 +74,18 @@
       "summary": "French football leaders have proposed to seek ways to transform how Fifa is run after the country's football body became the latest to withdraw support for Gianni Infantino's presidency.",
       "teams": [
         "France"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "8cd5780c4e16",
+      "title": "Declan Rice shrugs off Arsenal concerns and says 60 games a season is sustainable",
+      "url": "https://www.theguardian.com/football/2026/sep/10/declan-rice-arsenal-workload-concerns-sustainable",
+      "source": "The Guardian",
+      "published_at": "2026-09-10T11:00:22+00:00",
+      "summary": "Arsenal are monitoring midfielder’s workload Rice received painkilling injections last season Declan Rice has insisted his body can sustain more than 60 appearances again this season, despite Arsenal’s concerns after he played through pain at the World Cup. Rice racked up 69 appe",
+      "teams": [
+        "England"
       ],
       "is_injury_related": true
     },
@@ -128,19 +151,6 @@
         "Australia"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "46afb371cf78",
-      "title": "Alexis Mac Allister makes his point as Liverpool fight back to defeat Atlético",
-      "url": "https://www.theguardian.com/football/2026/sep/09/liverpool-atletico-madrid-champions-league-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-09-09T21:04:17+00:00",
-      "summary": "It was the time and place for Alexis Mac Allister to do his talking on the pitch and the disgruntled Liverpool midfielder delivered on cue. “Very sad” over Liverpool’s refusal to offer him a new contract, while Dominik Szoboszlai and Ryan Gravenberch were getting theirs, Mac Alli",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "1a22243bed14",
@@ -242,18 +252,6 @@
         "Argentina"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "31a2aba88cda",
-      "title": "First-half treble powers Aston Villa to Champions League win at Club Brugge",
-      "url": "https://www.theguardian.com/football/2026/sep/08/club-brugge-aston-villa-champions-league-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-09-08T18:54:02+00:00",
-      "summary": "Aston Villa were 3-1 up after 43 minutes but were made to sweat for their first win of the season, emerging victorious from an entertaining Champions League opener with Club Brugge. John McGinn, who struck the only goal when Villa belatedly got their season up and running last Se",
-      "teams": [
-        "Belgium"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "dedf642de316",
