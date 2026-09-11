@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-09-11T05:55:03.223994+00:00",
+  "generated_at": "2026-09-11T11:12:40.986167+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "7876e78203c9",
+      "title": "Pochettino’s ‘different’ vow to the US invites unwelcome speculation",
+      "url": "https://www.theguardian.com/football/2026/sep/11/mauricio-pochettino-usmnt-tottenham-europe",
+      "source": "The Guardian",
+      "published_at": "2026-09-11T09:00:02+00:00",
+      "summary": "The US manager’s relationship with the international job has changed with a full World Cup cycle beginning I hope, in this lifetime, you find someone who loves you the way Mauricio Pochettino loves Tottenham Hotspur. The grip Spurs have on his heart seems the stuff of a literary ",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "799a2e823b41",
+      "title": "West Ham's Alvarez denies kidnapping accusation",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62kzljxy3yo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-11T08:42:22+00:00",
+      "summary": "West Ham and Mexico midfielder Edson Alvarez posts a statement on social media denying the allegation made by film producer Juan Jose Lopez Ordonez.",
+      "teams": [
+        "Mexico"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "32b457ba9b06",
       "title": "Saint-Maximin on speaking out after his children were racially abused",
@@ -35,7 +59,7 @@
       "url": "https://www.bbc.co.uk/sounds/play/p0p9273l",
       "source": "BBC Sport",
       "published_at": "2026-09-10T22:25:00+00:00",
-      "summary": "The Ballon D'or shortlist, the dominance of Spanish coaches and a shock resignation",
+      "summary": "The Ballon D'or shortlist, the dominance of Spanish coaches and a shock resignation.",
       "teams": [
         "Spain"
       ],
@@ -47,7 +71,7 @@
       "url": "https://www.theguardian.com/football/2026/sep/10/champions-league-bayern-bodo-como-leipzig",
       "source": "The Guardian",
       "published_at": "2026-09-10T21:57:25+00:00",
-      "summary": "Bayern Munich 5-0 Bodø/Glimt, Como 4-1 Leipzig Lens win 3-2 at Slavia Prague with last-gasp double Bayern Munich opened their Champions League campaign with a 5-0 thrashing of Norway’s Bodo/Glimt . The six-times winners were frustrated before half-time by Bodo/Glimt but cruised o",
+      "summary": "Bayern Munich 5-0 Bodø/Glimt, Como 4-1 Leipzig Lens win 3-2 at Slavia Prague with last-gasp double Bayern Munich opened their Champions League campaign with a 5-0 thrashing of Norway’s Bodø/Glimt . The six-times winners were frustrated before half-time by Bodø/Glimt but cruised o",
       "teams": [
         "Norway"
       ],
@@ -223,30 +247,6 @@
       "summary": "Aston Villa launch their Champions League campaign with a 3-2 victory over Club Brugge in Belgium, ending their early-season goal drought.",
       "teams": [
         "Belgium"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "d7a0591e2f3f",
-      "title": "Scottish clubs face tougher Europa League route",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c99dm80e2r0o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-09T19:30:57+00:00",
-      "summary": "Uefa have made changes to the qualifying rounds of the Europa League from next season.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "b7ebb084b7f7",
-      "title": "Irvine stays as Pocognoli refreshes Scotland staff",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cyvzn5d97y3o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-09T14:39:26+00:00",
-      "summary": "Everton assistant Alan Irvine will continue as part of a refreshed Scotland coaching staff under new boss Sebastien Pocognoli.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
