@@ -1,17 +1,66 @@
 {
-  "generated_at": "2026-09-11T16:24:15.781094+00:00",
+  "generated_at": "2026-09-11T19:38:18.704176+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "bf1519a8313e",
+      "title": "Ballon d’Or shortlist shows up Premier League’s attacking failings – but tide could be turning",
+      "url": "https://www.theguardian.com/football/2026/sep/11/ballon-dor-shortlist-shows-up-premier-leagues-attacking-failings-but-tide-could-be-turning",
+      "source": "The Guardian",
+      "published_at": "2026-09-11T19:00:13+00:00",
+      "summary": "English top flight’s forwards are not well represented on the list, reflecting a season of set-piece grapple, but 2026-27 already looks brighter Premier League representation is low when it comes to the 16 attacking players on this year’s Ballon d’Or shortlist . Manchester United",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "1b22c4fe44db",
+      "title": "Kobbie Mainoo moves from outsider to main man after summer of hurt",
+      "url": "https://www.theguardian.com/football/2026/sep/11/kobbie-mainoo-outsider-main-man-summer-of-hurt-derby",
+      "source": "The Guardian",
+      "published_at": "2026-09-11T19:00:12+00:00",
+      "summary": "England reached World Cup semis yet midfielder did not play a minute. But he is key to Manchester United in derby It was a sight the England press pack became increasingly used to seeing after the team’s&nbsp;World Cup matches over the summer. Kobbie&nbsp;Mainoo was invariably th",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "498f398cfb99",
+      "title": "Moroccan official told to stop making 2030 final promise",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gv7n50lnwo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-11T18:58:10+00:00",
+      "summary": "Morocco's prime minister tells the head of the country's football federation to stop making promises about the 2030 World Cup final, while the head of the Spanish federation says the showpiece should be played in Spain.",
+      "teams": [
+        "Morocco",
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1b9c8e1f01fa",
+      "title": "Athletic Club forward Williams retires from Ghana duty",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7v41ype378o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-11T16:18:27+00:00",
+      "summary": "Inaki Williams says the time has come to bring his journey with the Black Stars to an end four years after making his international debut.",
+      "teams": [
+        "Ghana"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "4ca23c3260ce",
       "title": "Kiernan Dewsbury-Hall: ‘I’ve seen all of the meltdowns and it annoyed me’",
       "url": "https://www.theguardian.com/football/2026/sep/11/kiernan-dewsbury-hall-ive-seen-all-of-the-meltdowns-and-it-annoyed-me",
       "source": "The Guardian",
       "published_at": "2026-09-11T16:00:09+00:00",
-      "summary": "Midfielder on rising above the negativity after Everton’s struggles in the transfer window, becoming a leader in the dressing room and a possible England call-up Transfer deadline day may be “exciting for everyone,” as Kiernan Dewsbury-Hall puts it, but his experience of that tra",
+      "summary": "Midfielder on rising above the negativity after Everton’s struggles in the transfer window, becoming a leader in the dressing room and a possible England call-up Transfer deadline day may be “exciting for everyone”, as Kiernan Dewsbury-Hall puts it, but his experience of that tra",
       "teams": [
         "England"
       ],
@@ -171,30 +220,6 @@
       "teams": [
         "USA",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "25b98c03b9d5",
-      "title": "'Real bond' can drive Rangers to success, says McInnes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2dwn425r16o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-10T14:50:50+00:00",
-      "summary": "Derek McInnes is encouraged by the growing spirit at Rangers before a double-header with Celtic in the League Cup and Scottish Premiership.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "c22b02aec802",
-      "title": "Leeds' Okafor says he won't play for Swiss again under Yakin",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74e0kvm03ro",
-      "source": "BBC Sport",
-      "published_at": "2026-09-10T14:35:31+00:00",
-      "summary": "Leeds United forward Noah Okafor says he will not play for Switzerland again while Murat Yakin remains as head coach.",
-      "teams": [
-        "Switzerland"
       ],
       "is_injury_related": false
     },
