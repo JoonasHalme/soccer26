@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T01:04:26.266193+00:00",
+  "generated_at": "2026-09-12T05:44:49.171494+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -103,6 +103,18 @@
       "is_injury_related": false
     },
     {
+      "id": "22c2da10856a",
+      "title": "Champions League opening data shows English dominance and too few shocks",
+      "url": "https://www.theguardian.com/football/2026/sep/11/champions-league-opening-data-shows-english-dominance-and-too-few-shocks",
+      "source": "The Guardian",
+      "published_at": "2026-09-11T13:29:16+00:00",
+      "summary": "The numbers from the first round of the league phase point to Italian teams struggling even if Inter impressed in defeat at Real Madrid The 2026-27 Champions League is under way. There are still 126 matches to play until we know which 24 teams will feature in the knockout phase b",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "c58081655d67",
       "title": "Chelsea hand Pedro Neto new deal in wake of his rejecting Manchester City",
       "url": "https://www.theguardian.com/football/2026/sep/11/chelsea-pedro-neto-new-contract-xabi-alonso",
@@ -195,18 +207,6 @@
       "summary": "Bayern Munich 5-0 Bodø/Glimt, Como 4-1 Leipzig Lens win 3-2 at Slavia Prague with last-gasp double Bayern Munich opened their Champions League campaign with a 5-0 thrashing of Norway’s Bodø/Glimt . The six-times winners were frustrated before half-time by Bodø/Glimt but cruised o",
       "teams": [
         "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "7aadc4b0e021",
-      "title": "Olise scores twice as Bayern thrash Bodo/Glimt",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c1mvzgmdje5o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-10T21:50:13+00:00",
-      "summary": "England captain Harry Kane scores his 55th Champions League goal and Michael Olise strikes twice as Bayern Munich begin their campaign by comfortably beating Bodo/Glimt.",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
@@ -322,6 +322,31 @@
       "is_injury_related": false
     },
     {
+      "id": "6bedcaf3626d",
+      "title": "Men’s Ballon d’Or 2026 power rankings: will there be an English winner for the first time in 25 years?",
+      "url": "https://www.theguardian.com/football/2026/sep/09/mens-ballon-d-or-2026-winner-harry-kane-rodri-kylian-mbappe",
+      "source": "The Guardian",
+      "published_at": "2026-09-09T13:04:35+00:00",
+      "summary": "We assess the standing of the players on the shortlist for the award before the winner is announced in October 1) Harry Kane (England/Bayern Munich) Even adjusting for the goal-drunken Bundesliga, his 61 goals in 51 matches for Bayern last season undersells his all-around impact,",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "3aad111d90aa",
+      "title": "Dani Olmo: ‘Winning the World Cup changes you, it changes your life’",
+      "url": "https://www.theguardian.com/football/2026/sep/09/dani-olmo-spain-world-cup-barcelona-champions-league",
+      "source": "The Guardian",
+      "published_at": "2026-09-09T07:00:02+00:00",
+      "summary": "One of Barcelona’s eight World Cup winners reflects on how Spain’s triumph is inspiring them in the Champions League Dani Olmo nods towards his right arm. “Look: goosebumps,” he says. The Spain midfielder is sitting in a back room at Barcelona’s Joan Gamper training ground trying",
+      "teams": [
+        "Spain",
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "0ff89baf2ee5",
       "title": "Russo and Greenwood nominated for Ballon d'Or",
       "url": "https://www.bbc.co.uk/sport/football/articles/cpd01d9je5zo",
@@ -395,19 +420,6 @@
       "is_injury_related": true
     },
     {
-      "id": "52c2e6bfe258",
-      "title": "Kim Milton Nielsen’s 1998 memories: ‘Hey, you are the man who sent off Beckham’",
-      "url": "https://www.theguardian.com/football/2026/sep/07/david-beckham-kim-milton-nielsen-red-card-1998-world-cup-argentina-diego-simeone",
-      "source": "The Guardian",
-      "published_at": "2026-09-07T07:00:28+00:00",
-      "summary": "In an extract from a new book, the Danish former referee recalls sending off the England midfielder for his infamous kick on Diego Simeone At half-time on 30 June 1998, Kim Milton Nielsen stepped into the changing room at the Geoffroy-Guichard Stadium in Saint-Étienne. The air re",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "340a64897b4b",
       "title": "‘The noise was unbelievable’: the referee’s view of Mexico v England at the World Cup",
       "url": "https://www.theguardian.com/football/2026/sep/05/world-cup-alireza-faghani-england-mexico-azteca",
@@ -445,19 +457,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "c7aa6560a32d",
-      "title": "Which footballer has had the most glittering club career? | The Knowledge",
-      "url": "https://www.theguardian.com/football/2026/sep/02/which-footballer-has-had-the-most-trophy-laden-club-career",
-      "source": "The Guardian",
-      "published_at": "2026-09-02T07:00:26+00:00",
-      "summary": "Plus: brothers playing in England’s top four tiers, shirt-hogging sponsors, and goalkeepers sent off upfield Mail us with your all of your questions and answers “Marquinhos won his 40th trophy in club football when Paris Saint-Germain beat Aston Villa in the Super Cup,” notes Pau",
-      "teams": [
-        "France",
-        "England"
-      ],
-      "is_injury_related": false
     }
   ]
 }
