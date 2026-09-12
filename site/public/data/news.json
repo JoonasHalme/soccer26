@@ -1,10 +1,46 @@
 {
-  "generated_at": "2026-09-12T19:18:20.328330+00:00",
+  "generated_at": "2026-09-12T22:13:22.809937+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "9219dee8a429",
+      "title": "No away fans, Euro calamities & derby debuts - why Old Firm tie is crucial",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zpjpwz0wo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-12T20:36:14+00:00",
+      "summary": "BBC Scotland previews the first meeting of Rangers and Celtic this season as the Old Firm rivals prepare to face off in the Premier Sports Cup quarter-finals.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "a383baeb6179",
+      "title": "Sportsound: Reaction as 10-man Dons heap misery on Killie",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p9c7s4",
+      "source": "BBC Sport",
+      "published_at": "2026-09-12T19:50:00+00:00",
+      "summary": "Reaction to Saturday’s Scottish League Cup action as Aberdeen and Hibs make it through.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b5a682371e8c",
+      "title": "Farke’s blueprint for revitalised Leeds continues upward trajectory",
+      "url": "https://www.theguardian.com/football/2026/sep/12/daniel-farke-blueprint-for-revitalised-leeds",
+      "source": "The Guardian",
+      "published_at": "2026-09-12T19:00:41+00:00",
+      "summary": "Leeds manager embraces bravery and is encouraging ambition after leading a remarkable turnaround in fortunes Eleven years have passed since Daniel Farke mounted a magnificent palomino horse and rode round the perimeter of the pitch at Lippstadt, waving farewell to a capacity crow",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "fd52d5a78cee",
       "title": "Frustrated Liverpool lack any spark as Fulham claim deserved first point",
@@ -30,18 +66,6 @@
       "is_injury_related": false
     },
     {
-      "id": "780623705750",
-      "title": "Celtic's Nygren reveals summer transfer interest",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c770z8dmemzo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-12T07:47:25+00:00",
-      "summary": "Celtic's Benjamin Nygren reveals summer transfer interest as Rangers rule out a move to Saudi Arabia for Nico Raskin...",
-      "teams": [
-        "Saudi Arabia"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "4566f2f35d31",
       "title": "Signed instead of Rashford, Gordon is proving worth at Barca",
       "url": "https://www.bbc.co.uk/sport/football/articles/cgk5n3xpkv2o",
@@ -51,18 +75,6 @@
       "teams": [
         "Spain",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "c2fafd74fe65",
-      "title": "Richarlison's move to Vasco da Gama falls through",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr50q58vqggo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-11T20:49:46+00:00",
-      "summary": "Tottenham forward Richarlison's proposed move to Vasco da Gama falls through amid ongoing uncertainty over the Brazilian's future.",
-      "teams": [
-        "Brazil"
       ],
       "is_injury_related": false
     },
@@ -140,6 +152,18 @@
       "is_injury_related": true
     },
     {
+      "id": "c58081655d67",
+      "title": "Chelsea hand Pedro Neto new deal in wake of his rejecting Manchester City",
+      "url": "https://www.theguardian.com/football/2026/sep/11/chelsea-pedro-neto-new-contract-xabi-alonso",
+      "source": "The Guardian",
+      "published_at": "2026-09-11T12:55:05+00:00",
+      "summary": "Winger shining after summer pursuit by several clubs Chelsea felt selling Fernández to City was right move Chelsea have rewarded Pedro Neto’s strong start to the season and commitment to the club by handing the winger a new contract. The Portugal international had summer interest",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "08a0c8c58687",
       "title": "Champions League review: Irish heroics, rejected resignations and Mourinho’s return",
       "url": "https://www.theguardian.com/football/2026/sep/11/champions-league-review-troy-parrott-jose-mourinho-michael-olise",
@@ -174,6 +198,18 @@
         "Mexico"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "5bc7c34dce0e",
+      "title": "French FA accuses Infantino of ‘seriously damaging’ football as it withdraws support",
+      "url": "https://www.theguardian.com/football/2026/sep/10/gianni-infantino-accused-seriously-damaging-football-french-fa-withdraws-support-fifa",
+      "source": "The Guardian",
+      "published_at": "2026-09-10T17:03:47+00:00",
+      "summary": "‘Image and unity’ of game affected, FFF president says It will consult sacked former Fifa official Kevin Lamour The French Football Federation’s president, Philippe Diallo, said Gianni Infantino had “seriously damaged the image and the unity of football” as he announced the end o",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "83de90479bca",
