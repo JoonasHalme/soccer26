@@ -1,10 +1,23 @@
 {
-  "generated_at": "2026-09-12T22:13:22.809937+00:00",
+  "generated_at": "2026-09-13T00:56:04.712876+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "ef5098993e4c",
+      "title": "De Zerbi says Spurs have ‘mental block’ after wait for league win continues",
+      "url": "https://www.theguardian.com/football/2026/sep/12/roberto-de-zerbi-tottenham-everton-premier-league",
+      "source": "The Guardian",
+      "published_at": "2026-09-12T20:36:15+00:00",
+      "summary": "‘No wins, no goals scored … it is tough for the players’ Spurs in 17th place after 0-0 draw against Everton Roberto De Zerbi says his Tottenham players continue to lack physical fitness and must “unblock” themselves in psychological terms after they drew their latest Premier Leag",
+      "teams": [
+        "Australia",
+        "New Zealand"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "9219dee8a429",
       "title": "No away fans, Euro calamities & derby debuts - why Old Firm tie is crucial",
@@ -75,6 +88,18 @@
       "teams": [
         "Spain",
         "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "c2fafd74fe65",
+      "title": "Richarlison's move to Vasco da Gama falls through",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr50q58vqggo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-11T20:49:46+00:00",
+      "summary": "Tottenham forward Richarlison's proposed move to Vasco da Gama falls through amid ongoing uncertainty over the Brazilian's future.",
+      "teams": [
+        "Brazil"
       ],
       "is_injury_related": false
     },
