@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-09-13T22:22:36.381388+00:00",
+  "generated_at": "2026-09-14T00:59:45.450967+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "1831a8a4524a",
+      "title": "European football: Kane helps Bayern edge Elversberg, Sassuolo stun Juventus",
+      "url": "https://www.theguardian.com/football/2026/sep/13/european-football-barcelona-bayern-munich-napoli-juventus",
+      "source": "The Guardian",
+      "published_at": "2026-09-13T22:47:47+00:00",
+      "summary": "Elversberg 1-2 Bayern; Sassuolo 3-2 Juventus Barcelona see off Levante, PSG end winless run Harry Kane scored his first Bundesliga goal of the season to help Bayern Munich edge to a 2-1 win at promoted Elversberg on Sunday. Handed the captain’s armband with skipper Manuel Neuer r",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "622869b5ae19",
       "title": "Bayern monitoring Wirtz - Monday's gossip",
@@ -166,6 +178,18 @@
       "is_injury_related": true
     },
     {
+      "id": "4ca23c3260ce",
+      "title": "Kiernan Dewsbury-Hall: ‘I’ve seen all of the meltdowns and it annoyed me’",
+      "url": "https://www.theguardian.com/football/2026/sep/11/kiernan-dewsbury-hall-ive-seen-all-of-the-meltdowns-and-it-annoyed-me",
+      "source": "The Guardian",
+      "published_at": "2026-09-11T16:00:09+00:00",
+      "summary": "Midfielder on rising above the negativity after Everton’s struggles in the transfer window, becoming a leader in the dressing room and a possible England call-up Transfer deadline day may be “exciting for everyone”, as Kiernan Dewsbury-Hall puts it, but his experience of that tra",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "dedf642de316",
       "title": "All done deals in September 2026",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo",
@@ -261,19 +285,6 @@
       "summary": "Brazilian scores twice in 5-1 victory at Camp Nou Torres scores hat-trick as PSG thump Slovan Bratislava Raphinha let his goals do the talking after being omitted from the Ballon d’Or shortlist, striking twice as Barcelona eased to a 5-1 win over Feyenoord in the Champions League",
       "teams": [
         "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "3aad111d90aa",
-      "title": "Dani Olmo: ‘Winning the World Cup changes you, it changes your life’",
-      "url": "https://www.theguardian.com/football/2026/sep/09/dani-olmo-spain-world-cup-barcelona-champions-league",
-      "source": "The Guardian",
-      "published_at": "2026-09-09T07:00:02+00:00",
-      "summary": "One of Barcelona’s eight World Cup winners reflects on how Spain’s triumph is inspiring them in the Champions League Dani Olmo nods towards his right arm. “Look: goosebumps,” he says. The Spain midfielder is sitting in a back room at Barcelona’s Joan Gamper training ground trying",
-      "teams": [
-        "Spain",
-        "Argentina"
       ],
       "is_injury_related": false
     },
