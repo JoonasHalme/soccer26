@@ -1,17 +1,105 @@
 {
-  "generated_at": "2026-09-14T06:11:31.098513+00:00",
+  "generated_at": "2026-09-14T13:58:12.985369+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "854e34b73e4b",
+      "title": "Top of the table, empty in the stands: inside the revolt against Lazio’s owner | Nicky Bandini",
+      "url": "https://www.theguardian.com/football/2026/sep/14/lazio-claudio-lotito-gennaro-gattuso-milan",
+      "source": "The Guardian",
+      "published_at": "2026-09-14T12:42:00+00:00",
+      "summary": "Despite an impressive start under Gennaro Gattuso, supporters are boycotting the Stadio Olimpico to wage war against Claudio Lotito Gennaro Gattuso has given some memorable post-game interviews down the years. Who could forget his “sometimes maybe good, sometimes maybe shit” rant",
+      "teams": [
+        "Croatia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "7b9efb5e54c1",
+      "title": "PSG have finally won a game in Ligue 1 – but they were far from convincing",
+      "url": "https://www.theguardian.com/football/2026/sep/14/psg-won-game-ligue-1-convincing-ferran-torres",
+      "source": "The Guardian",
+      "published_at": "2026-09-14T11:35:28+00:00",
+      "summary": "Ferran Torres has been brilliant for his new club but most of his teammates still seem to be on the beach By Get French Football News It was just a flicker. Ferran Torres picks the ball up and passes it to João Neves. The Portuguese midfielder plays it into Ousmane Dembélé, who h",
+      "teams": [
+        "Spain",
+        "France",
+        "Norway",
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1f01264302e4",
+      "title": "WSL talking points: Olid must weather United storm, Arsenal wasteful again",
+      "url": "https://www.theguardian.com/football/2026/sep/14/wsl-talking-points-eva-olid-manchester-united-arsenal",
+      "source": "The Guardian",
+      "published_at": "2026-09-14T11:17:59+00:00",
+      "summary": "Manchester United need to regroup after a heavy home loss to Chelsea while Crystal Palace frustrated the Gunners The frustration among Manchester United fans at full-time was evident at Leigh Sports Village after they had watched their team being thrashed 5-0 by a rampant Chelsea",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6a8c7e7185a8",
+      "title": "Time for Pocognoli to pick - who could be named in new-look Scotland squad?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdr76rvylv1o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-14T09:21:02+00:00",
+      "summary": "Sebastien Pocognoli will name his first Scotland squad on Tuesday, but what can we expect? Will the new head coach use this clean slate as time to call upon new names? BBC Sport Scotland takes a look at the potential candidates...",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "4f7ad31fac4b",
+      "title": "The Hotspot | South Korea pushes for football season to make winter switch after unbearable summer",
+      "url": "https://www.theguardian.com/sport/2026/sep/14/south-korea-football-season-heat-summer-the-hotspot",
+      "source": "The Guardian",
+      "published_at": "2026-09-14T08:30:27+00:00",
+      "summary": "Why fainting fans and perspiring players are a worry for the Asian league seeking to follow Japan and align with Europe South Korean football is trying to find the goldilocks time to play the K-League. Winters have long been too cold and, increasingly, summers are too hot. This m",
+      "teams": [
+        "South Korea",
+        "Japan"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "5740006328e6",
+      "title": "Ludek Miklosko, former West Ham and QPR goalkeeper, dies aged 64",
+      "url": "https://www.theguardian.com/football/2026/sep/14/ludek-miklosko-west-ham-qpr-goalkeeper-dies",
+      "source": "The Guardian",
+      "published_at": "2026-09-14T08:08:45+00:00",
+      "summary": "Miklosko played 373 times for West Ham from 1990 He won 42 international caps from 1982 The former West Ham and QPR goalkeeper Ludek Miklosko has died at the age of 64. Miklosko, who won caps for Czechoslovakia and Czechia, had cancer. Miklosko joined West Ham from Baník Ostrava ",
+      "teams": [
+        "Czech Republic"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "df86eb051049",
+      "title": "Watch: Raith & Montrose make moves as Edinburgh City win big",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cly5032837eo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-14T07:00:21+00:00",
+      "summary": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "1831a8a4524a",
       "title": "European football: Kane helps Bayern edge Elversberg, Sassuolo stun Juventus",
       "url": "https://www.theguardian.com/football/2026/sep/13/european-football-barcelona-bayern-munich-napoli-juventus",
       "source": "The Guardian",
       "published_at": "2026-09-13T22:47:47+00:00",
-      "summary": "Elversberg 1-2 Bayern; Sassuolo 3-2 Juventus Barcelona see off Levante, PSG end winless run Harry Kane scored his first Bundesliga goal of the season to help Bayern Munich edge to a 2-1 win at promoted Elversberg on Sunday. Handed the captain’s armband with skipper Manuel Neuer r",
+      "summary": "Elversberg 1-2 Bayern; Sassuolo 3-2 Juventus Barcelona see off Levante, PSG end winless start Harry Kane scored his first Bundesliga goal of the season to help Bayern Munich edge to a 2-1 win at promoted Elversberg on Sunday. Handed the captain’s armband with Manuel Neuer rested,",
       "teams": [
         "Germany"
       ],
@@ -125,18 +213,6 @@
       "summary": "Leeds manager embraces bravery and is encouraging ambition after leading a remarkable turnaround in fortunes Eleven years have passed since Daniel Farke mounted a magnificent palomino horse and rode round the perimeter of the pitch at Lippstadt, waving farewell to a capacity crow",
       "teams": [
         "Germany"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "fd52d5a78cee",
-      "title": "Frustrated Liverpool lack any spark as Fulham claim deserved first point",
-      "url": "https://www.theguardian.com/football/2026/sep/12/liverpool-fulham-premier-league-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-09-12T16:06:00+00:00",
-      "summary": "Álvaro Arbeloa was often the obstacle to Andoni Iraola’s international ambitions back in the days when both were vying for a right-back role with Spain. On his return to Anfield, and under the watchful eye of former manager Rafael Benítez, Arbeloa thwarted Iraola once again to cl",
-      "teams": [
-        "Spain"
       ],
       "is_injury_related": true
     },
