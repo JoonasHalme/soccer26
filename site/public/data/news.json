@@ -1,31 +1,116 @@
 {
-  "generated_at": "2026-09-15T07:39:44.855710+00:00",
+  "generated_at": "2026-09-15T13:29:19.960068+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "d5030f19df7b",
-      "title": "Podcast: Scotland's new era begins - who will make Pocognoli's first squad?",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p9nxwr",
+      "id": "164a888f0c9d",
+      "title": "Sterling admits dangerous driving after motorway crash",
+      "url": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo",
       "source": "BBC Sport",
-      "published_at": "2026-09-15T07:00:00+00:00",
-      "summary": "Who will make Pocognoli's first Scotland squad and who misses out?",
+      "published_at": "2026-09-15T13:22:42+00:00",
+      "summary": "The former England winger crashed his Lamborghini into motorway barriers in May.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "7be38720a843",
+      "title": "Craig Bellamy rejected Burnley manager’s job to stay in ‘right place’ with Wales",
+      "url": "https://www.theguardian.com/football/2026/sep/15/craig-bellamy-rejected-burnley-manager-job-stay-wales-football",
+      "source": "The Guardian",
+      "published_at": "2026-09-15T12:25:46+00:00",
+      "summary": "‘I’ve never done anything for money,’ Bellamy says He was in intensive care last year after appendix rupture Craig Bellamy said he rejected the chance to take charge of Burnley in the summer after deciding the Wales job is “the right place for me”. The 47-year-old was among the m",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "2f3a83e1a29b",
+      "title": "From Segura to Maltby: six breakout stars from the Women’s Under-20 World Cup",
+      "url": "https://www.theguardian.com/football/2026/sep/15/six-breakout-stars-from-the-womens-under-20-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-09-15T12:00:42+00:00",
+      "summary": "With an incredible array of talent on show we select half a dozen players who could make the step up to the senior World Cup next year The 2026 Under-20 Women’s World Cup is entering the knockout stage in Poland and, after an intriguing group stage, we pick some of the young star",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "f4d68e8979ad",
+      "title": "USMNT roster prediction: a big chance for Cavan Sullivan and other young prospects",
+      "url": "https://www.theguardian.com/football/2026/sep/15/usmnt-roster-prediction",
+      "source": "The Guardian",
+      "published_at": "2026-09-15T11:30:42+00:00",
+      "summary": "The United States’ next World Cup cycle gets underway with this week’s squad selection – here’s who we think will make the cut Pablo: Matt Turner (New England Revolution), Brian Schwake (Nashville SC), Chris Brady (Chicago Fire), Diego Kochen (Lyngby) Continue reading...",
+      "teams": [
+        "USA",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "0e8bfbbccebc",
+      "title": "McBurnie & seven uncapped players in Scotland squad",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq770klrzmvyo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-15T11:23:30+00:00",
+      "summary": "Hull City forward Oli McBurnie is called up to the Scotland squad for the first time in five years while seven uncapped make new head coach Sebastien Pocognoli's first selection.",
       "teams": [
         "Scotland"
       ],
       "is_injury_related": true
     },
     {
+      "id": "a7fec15a9a36",
+      "title": "Scotland fans allowed to buy alcohol at upcoming games",
+      "url": "https://www.bbc.co.uk/news/articles/cjn5d6zgk1r6o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-15T11:18:03+00:00",
+      "summary": "Trial alcohol sales took place earlier in the year for the national team's friendly games.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "eb6dab232781",
       "title": "Aris still chasing Souttar amid contract dispute - gossip",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqm2mv23grkmo",
       "source": "BBC Sport",
-      "published_at": "2026-09-15T06:20:49+00:00",
+      "published_at": "2026-09-15T10:53:19+00:00",
       "summary": "Aris Thessaloniki reportedly still hope to sign John Souttar despite a contract dispute with Rangers as Colby Donovan and Oli McBurnie are tipped for Scotland call-ups.",
       "teams": [
         "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "b1025ce11e6a",
+      "title": "David Squires on … a big weekend for controversial calls in the Premier League",
+      "url": "https://www.theguardian.com/football/picture/2026/sep/15/david-squires-on-a-big-weekend-for-controversial-calls-in-the-premier-league",
+      "source": "The Guardian",
+      "published_at": "2026-09-15T10:31:47+00:00",
+      "summary": "Our cartoonist on the English top-flight leading the way for debatable decisions and performative sadness Buy a cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading...",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f9786e4cba03",
+      "title": "How Promise David emerged from Maltese shadows into the Premier League",
+      "url": "https://www.theguardian.com/football/2026/sep/15/promise-david-brighton-have-albion-canada-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-09-15T09:00:31+00:00",
+      "summary": "Former teammates and coaches rave about Brighton’s summer signing, who impressed with Canada at the World Cup Promise David had a five-year plan. He would score bags of goals, earn a transfer to a top European league and play for Canada at the 2026 World Cup. There was just one p",
+      "teams": [
+        "Canada"
       ],
       "is_injury_related": true
     },
@@ -47,35 +132,11 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cv1j49220j93o",
       "source": "BBC Sport",
       "published_at": "2026-09-14T22:56:28+00:00",
-      "summary": "Dominic Calvert-Lewin has now scored in Leeds' past five league matches. Is he ready for an England recall?",
+      "summary": "Dominic Calvert-Lewin has now scored in Leeds' past five home league matches. Is he ready for an England recall?",
       "teams": [
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "6a8c7e7185a8",
-      "title": "Time for Pocognoli to pick - who could be named in new-look Scotland squad?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdr76rvylv1o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-14T21:17:46+00:00",
-      "summary": "Sebastien Pocognoli will name his first Scotland squad on Tuesday, but what can we expect? Will the new head coach use this clean slate as time to call upon new names? BBC Sport Scotland takes a look at the potential candidates...",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "ac28b0a2e451",
-      "title": "Graham & Ure make Pocognoli's first Scotland squad",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw94zzyx1o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-14T21:00:42+00:00",
-      "summary": "Stoke City centre-half Luke Graham and Sevilla striker Robbie Ure will receive their first full Scotland call-ups on Tuesday when Sebastien Pocognoli names his first squad as head coach.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "2370d86119ff",
@@ -216,18 +277,6 @@
       "is_injury_related": true
     },
     {
-      "id": "a5a71a2394eb",
-      "title": "Ronaldo demands lifetime bans over Jota chants",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgjqd3n9ppeo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-13T13:46:21+00:00",
-      "summary": "Footage on social media appears to show Al-Hilal's Ruben Neves reacting to Al-Taawoun fans chanting Diogo Jota's name at him during their Saudi Pro League match.",
-      "teams": [
-        "Saudi Arabia"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "c2c246c9065c",
       "title": "Rangers lay down Old Firm marker to send Celtic packing from Scottish League Cup",
       "url": "https://www.theguardian.com/football/2026/sep/13/rangers-celtic-scottish-league-cup-match-report",
@@ -277,18 +326,6 @@
       "is_injury_related": true
     },
     {
-      "id": "4ca23c3260ce",
-      "title": "Kiernan Dewsbury-Hall: ‘I’ve seen all of the meltdowns and it annoyed me’",
-      "url": "https://www.theguardian.com/football/2026/sep/11/kiernan-dewsbury-hall-ive-seen-all-of-the-meltdowns-and-it-annoyed-me",
-      "source": "The Guardian",
-      "published_at": "2026-09-11T16:00:09+00:00",
-      "summary": "Midfielder on rising above the negativity after Everton’s struggles in the transfer window, becoming a leader in the dressing room and a possible England call-up Transfer deadline day may be “exciting for everyone”, as Kiernan Dewsbury-Hall puts it, but his experience of that tra",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "dedf642de316",
       "title": "All done deals in September 2026",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo",
@@ -299,30 +336,6 @@
         "Scotland"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "22c2da10856a",
-      "title": "Champions League opening data shows English dominance and too few shocks",
-      "url": "https://www.theguardian.com/football/2026/sep/11/champions-league-opening-data-shows-english-dominance-and-too-few-shocks",
-      "source": "The Guardian",
-      "published_at": "2026-09-11T13:29:16+00:00",
-      "summary": "The numbers from the first round of the league phase point to Italian teams struggling even if Inter impressed in defeat at Real Madrid The 2026-27 Champions League is under way. There are still 126 matches to play until we know which 24 teams will feature in the knockout phase b",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "08a0c8c58687",
-      "title": "Champions League review: Irish heroics, rejected resignations and Mourinho’s return",
-      "url": "https://www.theguardian.com/football/2026/sep/11/champions-league-review-troy-parrott-jose-mourinho-michael-olise",
-      "source": "The Guardian",
-      "published_at": "2026-09-11T12:30:04+00:00",
-      "summary": "The league phase has begun. From Olise’s brilliance to Sabah’s pub cleaner turned quiz contestant turned manager, there was plenty to talk about The league phase has been previewed as Barcelona’s first step toward reclaiming a crown last lifted in 2015, with disappointments aplen",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "5bc7c34dce0e",
@@ -374,18 +387,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "a73d3e5c2dde",
-      "title": "‘Girl’s day’ controversy reignites debate over how women are treated in South Korean football",
-      "url": "https://www.theguardian.com/football/2026/sep/08/girls-day-controversy-debate-womens-football-south-korea",
-      "source": "The Guardian",
-      "published_at": "2026-09-08T10:00:01+00:00",
-      "summary": "A referee is alleged to have made a remark referring to menstruation that has revived concerns about treatment of players It was a comment allegedly made by a referee during a WK League match that became one of the biggest controversies in South Korean women’s football. What bega",
-      "teams": [
-        "South Korea"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "0fd2736f4c44",
