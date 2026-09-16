@@ -1,16 +1,28 @@
 {
-  "generated_at": "2026-09-16T07:38:21.720397+00:00",
+  "generated_at": "2026-09-16T13:28:03.104746+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "9aed84e7a069",
+      "title": "Glasgow, 16, makes Docherty's Scotland U21 squad",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn452vgll31o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-16T09:36:20+00:00",
+      "summary": "Sixteen-year-old Kyle Glasgow has been included in Tony Docherty's first Scotland Under-21 squad.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "dedf642de316",
       "title": "All done deals in September 2026",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo",
       "source": "BBC Sport",
-      "published_at": "2026-09-16T07:14:07+00:00",
+      "published_at": "2026-09-16T08:19:40+00:00",
       "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "teams": [
         "Scotland"
@@ -26,6 +38,20 @@
       "summary": "Captain looking forward to intimidating atmosphere when Wearsiders host AZ, after 53 years away When Sunderland last played European football, club directors viewed it as a useful means of raising the cash necessary to fund floodlight upgrades at Roker Park necessitated by Englan",
       "teams": [
         "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "7de975888165",
+      "title": "Iranian football returns in the shadow of war and with row over last league title",
+      "url": "https://www.theguardian.com/football/2026/sep/16/iran-football-esteghlal-tractor-sc-afc-champions-league-elite-asia",
+      "source": "The Guardian",
+      "published_at": "2026-09-16T07:00:13+00:00",
+      "summary": "Prolonged league suspension due to war and falling behind Saudi spending power are weakening the sport in Iran Just three months ago, Iran was one of the biggest stories in football as Team Melli arrived at the World Cup to try to play in the US, a country that had been bombing a",
+      "teams": [
+        "Egypt",
+        "Iran",
+        "Saudi Arabia"
       ],
       "is_injury_related": true
     },
@@ -212,19 +238,6 @@
       "is_injury_related": true
     },
     {
-      "id": "f4d68e8979ad",
-      "title": "USMNT roster prediction: a big chance for Cavan Sullivan and other young prospects",
-      "url": "https://www.theguardian.com/football/2026/sep/15/usmnt-roster-prediction",
-      "source": "The Guardian",
-      "published_at": "2026-09-15T11:30:42+00:00",
-      "summary": "The United States’ next World Cup cycle gets underway with this week’s squad selection – here’s who we think will make the cut Pablo: Matt Turner (New England Revolution), Brian Schwake (Nashville SC), Chris Brady (Chicago Fire), Diego Kochen (Lyngby) Continue reading...",
-      "teams": [
-        "USA",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "0e8bfbbccebc",
       "title": "McBurnie & seven uncapped players in Scotland squad",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq770klrzmvyo",
@@ -243,30 +256,6 @@
       "source": "The Guardian",
       "published_at": "2026-09-15T10:31:47+00:00",
       "summary": "Our cartoonist on the English top-flight leading the way for debatable decisions and performative sadness Buy a cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading...",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "da09402846bc",
-      "title": "Coutinho joins Neymar at Santos for rest of season",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckd79411vynlo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-15T06:15:29+00:00",
-      "summary": "The former Liverpool and Barcelona midfielder joins Brazilian side Santos from his boyhood club Vasco da Gama.",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "c2c3a93a4a9b",
-      "title": "'Unplayable' & 'almost perfect' - Calvert-Lewin set for England recall?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cv1j49220j93o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-14T22:56:28+00:00",
-      "summary": "Dominic Calvert-Lewin has now scored in Leeds' past five home league matches. Is he ready for an England recall?",
       "teams": [
         "England"
       ],
@@ -335,18 +324,6 @@
         "Japan"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "5740006328e6",
-      "title": "Ludek Miklosko, former West Ham and QPR goalkeeper, dies aged 64",
-      "url": "https://www.theguardian.com/football/2026/sep/14/ludek-miklosko-west-ham-qpr-goalkeeper-dies",
-      "source": "The Guardian",
-      "published_at": "2026-09-14T08:08:45+00:00",
-      "summary": "Miklosko played 373 times for West Ham from 1990 He won 42 international caps from 1982 The former West Ham and QPR goalkeeper Ludek Miklosko has died at the age of 64. Miklosko, who won caps for Czechoslovakia and Czechia, had cancer. Miklosko joined West Ham from Baník Ostrava ",
-      "teams": [
-        "Czech Republic"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "df86eb051049",
@@ -487,18 +464,6 @@
       "is_injury_related": true
     },
     {
-      "id": "0fd2736f4c44",
-      "title": "David Squires on … Lionel Messi enjoying his true passion after Argentina retirement",
-      "url": "https://www.theguardian.com/football/picture/2026/sep/08/david-squires-on-lionel-messi-true-passion-international-football-retirement",
-      "source": "The Guardian",
-      "published_at": "2026-09-08T09:23:21+00:00",
-      "summary": "Our cartoonist imagines how the football great might while away the hours after calling time on his international career Buy this cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading...",
-      "teams": [
-        "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "a5168b5a3562",
       "title": "Manager ins and outs - 2026-27",
       "url": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo",
@@ -510,19 +475,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "763fdf3734ba",
-      "title": "Transfer window verdict: how every Premier League club fared",
-      "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
-      "source": "The Guardian",
-      "published_at": "2026-09-02T08:30:27+00:00",
-      "summary": "The British transfer record was equalled and one club signed no fewer than 18 players in another hectic summer Bringing in Christos Tzolis, Bruno Guimarães and Ezri Konsa was a strong start to the window but could Arsenal’s failure to sign a marquee attacker cost them in the long",
-      "teams": [
-        "Saudi Arabia",
-        "England"
-      ],
-      "is_injury_related": true
     }
   ]
 }
