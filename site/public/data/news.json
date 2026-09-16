@@ -1,10 +1,59 @@
 {
-  "generated_at": "2026-09-16T13:28:03.104746+00:00",
+  "generated_at": "2026-09-16T18:10:07.138552+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "1d7034694423",
+      "title": "USA exits U-20 World Cup on penalties as tournament’s timing draws criticism",
+      "url": "https://www.theguardian.com/football/2026/sep/16/usa-brazil-u20-womens-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-09-16T17:14:43+00:00",
+      "summary": "Brazil advances to quarter-finals in Poland Americans have not won tournament since 2012 US youth teams have struggled in recent showings The United States were eliminated from the U-20 Women’s World Cup in the last 16 on Wednesday, falling to Brazil on penalties after playing to",
+      "teams": [
+        "Brazil",
+        "USA"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "f37cab2b6715",
+      "title": "Gray sacked by Hibs after six league games",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c52e01ln0jj8o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-16T16:34:00+00:00",
+      "summary": "Hibernian sack head coach David Gray six games into the Scottish Premiership season, ending the former captain's 12-year stay at Easter Road.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "a6265a1862a2",
+      "title": "‘They are very similar’: Arsenal’s Dowman reminds Merino of Lamine Yamal",
+      "url": "https://www.theguardian.com/football/2026/sep/16/they-are-very-similar-arsenals-dowman-reminds-merino-of-lamine-yamal",
+      "source": "The Guardian",
+      "published_at": "2026-09-16T16:00:23+00:00",
+      "summary": "Teenager continues development with two goals at Ipswich Merino: ‘He is a big talent and we have to take care of him’ Mikel Merino says Max Dowman reminds him of Lamine Yamal after the Arsenal prodigy continued his development by scoring twice in his side’s 4-2 win against Ipswic",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8ada9f9168ca",
+      "title": "Football Daily | Madrid endure an awkward night after T-shirt trouble and Elche scare",
+      "url": "https://www.theguardian.com/football/2026/sep/16/real-madrid-elche-t-shirts-football-daily-newsletter",
+      "source": "The Guardian",
+      "published_at": "2026-09-16T14:39:54+00:00",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Anxious to sample some traditional Spanish culture while taking in a La Liga match years ago, Football Daily and some friends decamped to Gran Alicant. As we prepared to leave a quaint bodega (the Dick Turpin), where we’d been s",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "9aed84e7a069",
       "title": "Glasgow, 16, makes Docherty's Scotland U21 squad",
@@ -28,56 +77,6 @@
         "Scotland"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "834d061a32b0",
-      "title": "Xhaka promises ‘fire’ from Sunderland on long-awaited return to Europe",
-      "url": "https://www.theguardian.com/football/2026/sep/16/xhaka-sunderland-european-riches-alkmaar",
-      "source": "The Guardian",
-      "published_at": "2026-09-16T07:00:13+00:00",
-      "summary": "Captain looking forward to intimidating atmosphere when Wearsiders host AZ, after 53 years away When Sunderland last played European football, club directors viewed it as a useful means of raising the cash necessary to fund floodlight upgrades at Roker Park necessitated by Englan",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "7de975888165",
-      "title": "Iranian football returns in the shadow of war and with row over last league title",
-      "url": "https://www.theguardian.com/football/2026/sep/16/iran-football-esteghlal-tractor-sc-afc-champions-league-elite-asia",
-      "source": "The Guardian",
-      "published_at": "2026-09-16T07:00:13+00:00",
-      "summary": "Prolonged league suspension due to war and falling behind Saudi spending power are weakening the sport in Iran Just three months ago, Iran was one of the biggest stories in football as Team Melli arrived at the World Cup to try to play in the US, a country that had been bombing a",
-      "teams": [
-        "Egypt",
-        "Iran",
-        "Saudi Arabia"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "91c5cec6ab35",
-      "title": "Podcast: Pocognoli's first squad and a night of SPFL coupon busters",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p9trnv",
-      "source": "BBC Sport",
-      "published_at": "2026-09-16T07:00:00+00:00",
-      "summary": "Scotland's new-look squad announced as Aberdeen hammer Motherwell.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "fe13abf6e55c",
-      "title": "McBurnie's Scotland return can be 'new experience' - gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwj3dv0ydxj1o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-16T06:38:59+00:00",
-      "summary": "Scotland squad announcement reaction, former Celtic captain has high hopes for midfielder and Hearts boss laments loss.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "14ce19f53b58",
@@ -171,18 +170,6 @@
       "source": "The Guardian",
       "published_at": "2026-09-15T16:59:16+00:00",
       "summary": "Webb wants to stop ‘ridiculous situations’ Says VAR officials in United v City had ‘tunnel vision’ Howard Webb has described the law around accidental handball as “a bit of a nonsense” and called for its reform to stop referees being drawn into “ridiculous situations”. The chief ",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "164a888f0c9d",
-      "title": "Sterling admits dangerous driving after motorway crash",
-      "url": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-15T16:24:00+00:00",
-      "summary": "The former England winger crashed a Lamborghini into motorway barriers in May.",
       "teams": [
         "England"
       ],
@@ -359,19 +346,6 @@
       "teams": [
         "Spain",
         "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "2b39245a7368",
-      "title": "McInnes delivers togetherness & intensity in Old Firm gobsmacker",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj06e0mg40qo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-13T16:08:09+00:00",
-      "summary": "BBC Scotland's chief sportswriter Tom English analyses Rangers' convincing Old Firm victory over Celtic at Ibrox.",
-      "teams": [
-        "Scotland",
-        "England"
       ],
       "is_injury_related": false
     },
