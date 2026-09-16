@@ -1,17 +1,95 @@
 {
-  "generated_at": "2026-09-16T18:10:07.138552+00:00",
+  "generated_at": "2026-09-16T22:06:05.001141+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "885093519915",
+      "title": "De la Fuente extends Spain contract to 2032",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6eq8z9wjjqlo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-16T22:02:44+00:00",
+      "summary": "World Cup-winning head coach Luis de la Fuente agrees a contract extension with Spain until 2032.",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "46015cbe82be",
+      "title": "Saudi Pro League club Al-Taawoun handed stadium ban over Diogo Jota chants",
+      "url": "https://www.theguardian.com/football/2026/sep/16/saudi-pro-league-club-al-taawoun-handed-stadium-ban-over-diogo-jota-chants",
+      "source": "The Guardian",
+      "published_at": "2026-09-16T21:13:14+00:00",
+      "summary": "Fans heard shouting chants of ‘Jota’ against Al-Hilal Ronaldo had called for lifetime bans for those supporters The Saudi Pro League club Al-Taawoun have been fined nearly £20,000 and given a two-game stadium ban after fans chanted about the late Liverpool and Portugal forward Di",
+      "teams": [
+        "Saudi Arabia",
+        "Portugal"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "137bb24085a8",
+      "title": "‘My scar, not your scar’: Tuchel stands by England semi-final subs but admits wrong timing",
+      "url": "https://www.theguardian.com/football/2026/sep/16/tuchel-stands-england-semi-final-subs-wrong-timing-argentina-world-cup-2026",
+      "source": "The Guardian",
+      "published_at": "2026-09-16T21:05:50+00:00",
+      "summary": "Coach says Argentina’s gung-ho approach forced hand ‘No one is more hurt than me, no one wanted it more’ Thomas Tuchel stands by his heavily criticised defensive substitutions in the World Cup semi-final defeat against Argentina this summer, but the England head coach accepts he ",
+      "teams": [
+        "Mexico",
+        "Norway",
+        "Argentina",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "cba4230b6ed3",
+      "title": "Painful endgame for Gray as stale Hibs slump",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3qjk2nev7r8o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-16T20:53:10+00:00",
+      "summary": "A club hero, David Gray ends his time as Hibs head coach not to the sound of euphoria from fans, but to the sound of a support collectively exhaling in relief, writes Tom English.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "e80868d15e99",
+      "title": "USMNT to call up 16-year-old Cavan Sullivan for upcoming friendlies",
+      "url": "https://www.theguardian.com/football/2026/sep/16/cavan-sullivan-usmnt",
+      "source": "The Guardian",
+      "published_at": "2026-09-16T19:25:09+00:00",
+      "summary": "Sullivan has six goals and eight assists post-World Cup US play four games in upcoming window Philadelphia Union midfielder Cavan Sullivan is set to earn his first international call-up with the United States men’s national team later this month, a source with knowledge of the ro",
+      "teams": [
+        "Mexico",
+        "Canada",
+        "USA"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "1a15f054c8e5",
+      "title": "Saudi club given stadium ban over Jota chants towards Neves",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwp842plmyymo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-16T18:32:11+00:00",
+      "summary": "Saudi Pro League side Al-Taawoun are ordered to play two matches behind closed doors after supporters taunted Ruben Neves over the death of friend Diogo Jota.",
+      "teams": [
+        "Saudi Arabia"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "1d7034694423",
-      "title": "USA exits U-20 World Cup on penalties as tournament’s timing draws criticism",
+      "title": "USA exit U-20 World Cup on penalties as tournament’s timing draws criticism",
       "url": "https://www.theguardian.com/football/2026/sep/16/usa-brazil-u20-womens-world-cup",
       "source": "The Guardian",
       "published_at": "2026-09-16T17:14:43+00:00",
-      "summary": "Brazil advances to quarter-finals in Poland Americans have not won tournament since 2012 US youth teams have struggled in recent showings The United States were eliminated from the U-20 Women’s World Cup in the last 16 on Wednesday, falling to Brazil on penalties after playing to",
+      "summary": "Brazil advance to quarter-finals in Poland Americans have not won tournament since 2012 US youth teams have struggled in recent showings The United States were eliminated from the U-20 Women’s World Cup in the last 16 on Wednesday, falling to Brazil on penalties after playing to ",
       "teams": [
         "Brazil",
         "USA"
@@ -79,24 +157,26 @@
       "is_injury_related": false
     },
     {
+      "id": "7de975888165",
+      "title": "Iranian football returns in the shadow of war and with row over last league title",
+      "url": "https://www.theguardian.com/football/2026/sep/16/iran-football-esteghlal-tractor-sc-afc-champions-league-elite-asia",
+      "source": "The Guardian",
+      "published_at": "2026-09-16T07:00:13+00:00",
+      "summary": "Prolonged league suspension due to war and falling behind Saudi spending power are weakening the sport in Iran Three months ago, Iran was one of the biggest stories in football as Team Melli arrived at the World Cup to try to play in the US, a country that had been bombing and fi",
+      "teams": [
+        "Egypt",
+        "Iran",
+        "Saudi Arabia"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "14ce19f53b58",
       "title": "Meet the Scottish teenagers poised to represent Uganda",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6wyz1ll1g3xo",
       "source": "BBC Sport",
       "published_at": "2026-09-16T06:12:11+00:00",
       "summary": "Teenage brothers Olly and Seb Fisher are closing in on their dream of international recognition - but it won't come from their homeland of Scotland.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e5b760f550ab",
-      "title": "Gray 'will continue until told otherwise' - but has Hibs boss lost the fans?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvwyzwr5g76go",
-      "source": "BBC Sport",
-      "published_at": "2026-09-15T22:58:27+00:00",
-      "summary": "Head coach David Gray says he will continue to try and find solutions to Hibernian's poor form \"until someone was to say something different\" after his side suffered a sixth consecutive home defeat in the Scottish Premiership.",
       "teams": [
         "Scotland"
       ],
@@ -113,18 +193,6 @@
         "Argentina"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "525dcce09034",
-      "title": "Watch: All of Tuesday's Scottish Premiership goals on Sportscene",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0031sgg",
-      "source": "BBC Sport",
-      "published_at": "2026-09-15T22:28:55+00:00",
-      "summary": "With Falkirk v Hearts, Motherwell v Aberdeen and Hibs v Kilmarnock",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "d4872fc4bd04",
@@ -159,18 +227,6 @@
       "summary": "Thomas Tuchel regrets not eating any of the grass at the Azteca Stadium after England's epic World Cup win against Mexico.",
       "teams": [
         "Mexico",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "22302876016c",
-      "title": "Howard Webb says accidental handball law ‘a nonsense’ and calls for reform",
-      "url": "https://www.theguardian.com/football/2026/sep/15/howard-webb-says-accidental-handball-law-a-nonsense-and-calls-for-reform",
-      "source": "The Guardian",
-      "published_at": "2026-09-15T16:59:16+00:00",
-      "summary": "Webb wants to stop ‘ridiculous situations’ Says VAR officials in United v City had ‘tunnel vision’ Howard Webb has described the law around accidental handball as “a bit of a nonsense” and called for its reform to stop referees being drawn into “ridiculous situations”. The chief ",
-      "teams": [
         "England"
       ],
       "is_injury_related": false
