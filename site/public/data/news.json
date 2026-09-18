@@ -1,10 +1,46 @@
 {
-  "generated_at": "2026-09-18T04:36:09.779434+00:00",
+  "generated_at": "2026-09-18T09:40:14.835389+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "935f38286ff3",
+      "title": "Alexander-Arnold and Palmer back in England squad as Ngumoha gets nod: football news – live",
+      "url": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
+      "source": "The Guardian",
+      "published_at": "2026-09-18T09:21:07+00:00",
+      "summary": "⚽ Friday’s team news, press conferences and analysis ⚽ The Knowledge: when were the first replica kits? ⚽ Get in touch! Email Dominic with any thoughts Trent Alexander-Arnold, Alex Scott, Cole Palmer and Rio Ngumoha are in. There is no place for Phil Foden. Full squad to come bel",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "a635db626aaa",
+      "title": "Todd Boehly exits Chelsea diminished after having his fingers burned",
+      "url": "https://www.theguardian.com/football/2026/sep/18/todd-boehly-leaves-chelsea-clearlake-capital-premier-league",
+      "source": "The Guardian",
+      "published_at": "2026-09-18T07:00:12+00:00",
+      "summary": "The billionaire’s departure will change little day-to-day but could be significant for club’s stadium plans Not since a doomed foray into the thorny world of the transfer market has Todd Boehly had any real influence over the day-to-day at Chelsea. The American exits football as ",
+      "teams": [
+        "Switzerland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b10fe28c97aa",
+      "title": "Spiders still climbing - watch Queen's Park v Ayr on BBC",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmlyexny15q2o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-18T06:02:37+00:00",
+      "summary": "Sportscene's Jonathan Sutherland previews Friday's live BBC Scotland TV match as Queen's Park host Ayr United.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "bdafd815b677",
       "title": "Socceroos captain Maty Ryan axed for Brazil friendlies",
@@ -75,18 +111,6 @@
       "summary": "The US manager’s first squad of the 2030 World Cup cycle leans heavily on youth, injecting intrigue into the four-game window. Sign up for our free newsletter here In the moments after the USMNT’s 4-1 crash-out in the last 16 at this summer’s World Cup, Mauricio Pochettino took t",
       "teams": [
         "USA"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "92b31a2ca22f",
-      "title": "The big questions for Tuchel's first England squad since World Cup",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq804jkle8j3o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-17T16:47:18+00:00",
-      "summary": "Before Thomas Tuchel names his first squad since the World Cup on Friday, BBC Sport looks at the big questions facing the England boss.",
-      "teams": [
-        "England"
       ],
       "is_injury_related": true
     },
@@ -167,18 +191,6 @@
       "is_injury_related": true
     },
     {
-      "id": "a50261e32e63",
-      "title": "'Rangers agree £800,000 potential fee for Penrice' - gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwzdz84346g8o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-17T07:28:42+00:00",
-      "summary": "Rangers will reportedly pay less than £1m for James Penrice should he sign permanently next summer, while Yang Hyun-jun says he is staking his career by missing Celtic games to play for South Korea.",
-      "teams": [
-        "South Korea"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "19880815cbda",
       "title": "USA midfielder sues doctors after on-pitch cardiac arrest",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6j4jlqgeejvo",
@@ -191,49 +203,12 @@
       "is_injury_related": false
     },
     {
-      "id": "cba4230b6ed3",
-      "title": "Painful endgame for Gray as stale Hibs slump",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3qjk2nev7r8o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-16T20:53:10+00:00",
-      "summary": "A club hero, David Gray ends his time as Hibs head coach not to the sound of euphoria from fans, but to the sound of a support collectively exhaling in relief, writes Tom English.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "dedf642de316",
       "title": "All done deals in September 2026",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo",
       "source": "BBC Sport",
       "published_at": "2026-09-16T08:19:40+00:00",
       "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "319b2b6aec63",
-      "title": "The key talking points from Pocognoli's bold Scotland squad",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c51kxlek7471o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-15T15:12:03+00:00",
-      "summary": "The Sebastien Pocognoli Scotland era is already creating serious intrigue - and the Belgian's squad are yet to assemble for a training-ground rondo, never mind play a game.",
-      "teams": [
-        "Scotland",
-        "Belgium"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "6a3b2fffe82c",
-      "title": "Celtic & Scotland legend McGrain diagnosed with Alzheimer's",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmew98xy54pjo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-15T13:49:55+00:00",
-      "summary": "Danny McGrain, described by Celtic as \"Scotland's greatest-ever full-back\", has been diagnosed with Alzheimer's disease, his family confirms.",
       "teams": [
         "Scotland"
       ],
