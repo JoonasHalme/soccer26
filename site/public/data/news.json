@@ -1,10 +1,35 @@
 {
-  "generated_at": "2026-09-19T05:48:07.812405+00:00",
+  "generated_at": "2026-09-19T10:51:42.574174+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "5c08287c9fd3",
+      "title": "Police on high alert before Millwall v West Ham, Inter legend Mazzola dies – matchday live",
+      "url": "https://www.theguardian.com/football/live/2026/sep/19/police-on-high-alert-before-millwall-v-west-ham-spurs-and-villa-face-crunch-clash-matchday-live",
+      "source": "The Guardian",
+      "published_at": "2026-09-19T10:33:46+00:00",
+      "summary": "News, discussion and updates before Saturday’s games This weekend’s fixtures | Tables | Mail us your thoughts Regarding Trent Alexander-Arnold’s England recall , here’s what Tuchel had to say … … and here is Sid Lowe’s analysis , the view from Spain: Thomas Tuchel said Trent Alex",
+      "teams": [
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "9152eff87939",
+      "title": "'Former Ivory Coast boss Fae eyes Hibs job' - gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6j9x4379emwo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-19T08:17:18+00:00",
+      "summary": "Former Ivory Coast head coach Emerse Fae is reportedly interested in the Hibernian job as speculation abounds over Martin O'Neill's future with Celtic.",
+      "teams": [
+        "Ivory Coast"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "af7b25ba1292",
       "title": "Harry Kane smashes record for fastest to 100 Bundesliga goals in 98th game",
@@ -31,17 +56,29 @@
       "is_injury_related": false
     },
     {
-      "id": "a8a0d7d33036",
-      "title": "Trent Alexander-Arnold recalled by England but with a warning from Thomas Tuchel",
-      "url": "https://www.theguardian.com/football/2026/sep/18/trent-alexander-arnold-returns-england-squad-cole-palmer-rio-ngumoha-alex-scott-thomas-tuchel",
-      "source": "The Guardian",
-      "published_at": "2026-09-18T18:08:19+00:00",
-      "summary": "Real Madrid player must help improve defensive solidity Scott, Hall, Lewis-Skelly and Calvert-Lewin selected Thomas Tuchel has told Trent Alexander-Arnold he must bring defensive solidity to the England squad after giving him a surprise recall for the upcoming Nations League matc",
+      "id": "fbd64fedaa3a",
+      "title": "Inspired Wales seal stunning win over South Africa",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cme3rg39xe7do",
+      "source": "BBC Sport",
+      "published_at": "2026-09-18T20:27:03+00:00",
+      "summary": "Wales return to winning ways in emphatic fashion with an eight-try victory over South Africa at Cardiff Arms Park.",
       "teams": [
-        "Senegal",
-        "England"
+        "South Africa"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "b3f65efe0679",
+      "title": "‘Embrace the chaos’: Tuchel aims to harness England’s football culture",
+      "url": "https://www.theguardian.com/football/2026/sep/18/embrace-chaos-thomas-tuchel-england-football-culture",
+      "source": "The Guardian",
+      "published_at": "2026-09-18T18:00:24+00:00",
+      "summary": "Head coach says he must accept lack of control in games ‘Deep down, English players … they go for it’ Thomas Tuchel has admitted there are times when he craves greater control in matches. But the England head coach feels the more chaotic, adrenaline-fuelled nature of the Premier ",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "c0f34ed653de",
@@ -220,18 +257,6 @@
       "is_injury_related": false
     },
     {
-      "id": "e2267c08744b",
-      "title": "FA chair Hewitt demands Infantino release records of failed World Cup plan",
-      "url": "https://www.theguardian.com/football/2026/sep/17/fa-chair-hewitt-demands-infantino-releases-records-of-failed-world-cup-plan",
-      "source": "The Guardian",
-      "published_at": "2026-09-17T18:00:45+00:00",
-      "summary": "Letter sent before Fifa council meeting on 15 October Infantino under pressure before presidential election The Football Association’s chair, Debbie Hewitt, has written to Gianni Infantino demanding that Fifa releases all documents relating to his abandoned World Cup sell-off pla",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "89e3fb28e9e7",
       "title": "Thomas Tuchel’s shot at redemption begins with England’s tricky Nations League tests",
       "url": "https://www.theguardian.com/football/2026/sep/17/thomas-tuchels-shot-at-redemption-begins-with-englands-tricky-nations-league-tests",
@@ -258,18 +283,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "3b55d357bcb4",
-      "title": "Jürgen Klopp wants his Germany team to reclaim national pride from ‘the wrong people’",
-      "url": "https://www.theguardian.com/football/2026/sep/17/jurgen-klopp-germany-reclaim-national-pride-wrong-people-afd",
-      "source": "The Guardian",
-      "published_at": "2026-09-17T10:42:03+00:00",
-      "summary": "Comments follow far-right election win in Saxony-Anhalt ‘I’d like to reclaim the flag for myself and for us,’ he says Jürgen Klopp has said Germany’s football team can help ensure “national pride is not entrusted to the wrong people” after a recent far-right AfD election victory ",
-      "teams": [
-        "Germany"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "19880815cbda",
