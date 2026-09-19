@@ -1,33 +1,57 @@
 {
-  "generated_at": "2026-09-19T14:21:26.219177+00:00",
+  "generated_at": "2026-09-19T17:58:34.072751+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "782c72533e50",
+      "title": "European football: Frankfurt clip high-flying Freiburg’s wings",
+      "url": "https://www.theguardian.com/football/2026/sep/19/roma-inter-lazio-dortmund-sevilla-barcelona",
+      "source": "The Guardian",
+      "published_at": "2026-09-19T16:35:46+00:00",
+      "summary": "Bundesliga pacesetters miss chance to go top West Ham loanee Füllkrug continues to shine Freiburg missed a chance to return to the top of the Bundesliga after being held to a 2-2 draw at Eintracht Frankfurt . Bayern Munich’s ruthless 7-0 win over Union Berlin on Friday put the Ba",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "302af9b795a6",
+      "title": "Learning English, finding connections - Putellas settles at London City",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwyvz180lmq9o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-19T15:21:33+00:00",
+      "summary": "BBC Sport's Alex Scott, Fara Williams and Anita Asante speak to London City Lionesses star Alexia Putellas, to discuss the 4-1 win at Charlton and how she is settling at her new club.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "c4ae32e9ac82",
+      "title": "Was Wrexham’s trailblazing black footballer also the first Indigenous Australian to play overseas?",
+      "url": "https://www.theguardian.com/football/2026/sep/19/wrexhams-trailblazing-black-footballer-peter-baines-first-indigenous-australian-to-play-overseas",
+      "source": "The Guardian",
+      "published_at": "2026-09-19T15:00:49+00:00",
+      "summary": "Mystery surrounds the origin of Peter Baines, the trailblazing black footballer who played for the Welsh club, among others, during the 1940s Warning: Aboriginal and Torres Strait Islander readers are advised that this article may contain the image and name of an Indigenous Austr",
+      "teams": [
+        "Australia"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "2e9b57e71100",
       "title": "Aston Villa grab victory despite late Spurs goals as De Zerbi’s side are booed off",
       "url": "https://www.theguardian.com/football/2026/sep/19/tottenham-aston-villa-premier-league-match-report",
       "source": "The Guardian",
       "published_at": "2026-09-19T13:57:04+00:00",
-      "summary": "Spurs have a remarkable ability to find new ways of inflicting pain on their fanbase and they did it again here, petering out from a strong start into humiliating defeat. On the upside, they did get two goals. They were both late consolations, but beggars can’t be choosers. Aston",
+      "summary": "Spurs have a remarkable ability to find new ways of inflicting pain on their fanbase and they did it again here, petering out from a strong start into humiliating defeat to confirm their worst ever start to a Premier League campaign. On the upside, they did get two goals. They we",
       "teams": [
         "Spain"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "9152eff87939",
-      "title": "'Former Ivory Coast boss Fae eyes Hibs job' - gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6j9x4379emwo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-19T08:17:18+00:00",
-      "summary": "Former Ivory Coast head coach Emerse Fae is reportedly interested in the Hibernian job as speculation abounds over Martin O'Neill's future with Celtic.",
-      "teams": [
-        "Ivory Coast"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "af7b25ba1292",
@@ -38,19 +62,6 @@
       "summary": "Striker’s double helps Bayern Munich beat Union Berlin 7-0 Dieter Müller’s record of 129 games had stood since 1977 Harry Kane broke the 49-year-old record for the fastest player to score 100 Bundesliga goals in Bayern Munich’s 7-0 victory on Friday over Union Berlin, his 98th le",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "fdc1970387fd",
-      "title": "Liverpool watch £51.5m-rated Smit - Saturday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwd083944eeko",
-      "source": "BBC Sport",
-      "published_at": "2026-09-18T20:35:52+00:00",
-      "summary": "Netherlands midfielder Kees Smit is watched by Liverpool, Tottenham lead the race for Brazil defender Arthur Dias and Monaco's Folarin Balogun is expected to leave in January.",
-      "teams": [
-        "Brazil",
-        "Netherlands"
       ],
       "is_injury_related": false
     },
@@ -68,19 +79,6 @@
       "is_injury_related": false
     },
     {
-      "id": "c0f34ed653de",
-      "title": "Senegal job an 'absolute dream' for new boss Vieira",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crlyqgqwq8lyo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-18T17:01:59+00:00",
-      "summary": "Former France international Patrick Vieira, a World Cup winner in 1998, says taking charge of Senegal, the nation of his birth, is an \"honour\".",
-      "teams": [
-        "France",
-        "Senegal"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "16a812db82bf",
       "title": "Case not proven: Trent Alexander-Arnold’s England recall is based on patchy evidence",
       "url": "https://www.theguardian.com/football/2026/sep/18/trent-alexander-arnold-england-recall-patchy-evidence",
@@ -92,18 +90,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "8ad05078780a",
-      "title": "Northampton agree deal with Pato-led consortium",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6qxvd5vv33wo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-18T16:22:38+00:00",
-      "summary": "Northampton reach agreement with a consortium including former Brazil forward Alexandre Pato over a \"proposed shareholding acquisition\".",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "62f1759b82d8",
@@ -159,42 +145,6 @@
       "is_injury_related": true
     },
     {
-      "id": "bbac74f16463",
-      "title": "Tuchel recalls Alexander-Arnold and Palmer with warning",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmly4gpnwk2go",
-      "source": "BBC Sport",
-      "published_at": "2026-09-18T12:55:26+00:00",
-      "summary": "England boss Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer but says players have to \"perform\".",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "4006830fe234",
-      "title": "Tuchel recalls Palmer and Alexander-Arnold for England",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c61wx5x33jyjo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-18T11:49:14+00:00",
-      "summary": "Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer to his first England squad since the 2026 World Cup.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "a635db626aaa",
-      "title": "Todd Boehly exits Chelsea diminished after having his fingers burned",
-      "url": "https://www.theguardian.com/football/2026/sep/18/todd-boehly-leaves-chelsea-clearlake-capital-premier-league",
-      "source": "The Guardian",
-      "published_at": "2026-09-18T07:00:12+00:00",
-      "summary": "The billionaire’s departure will change little day-to-day but could be significant for club’s stadium plans Not since a doomed foray into the thorny world of the transfer market has Todd Boehly had any real influence over the day-to-day at Chelsea. The American exits football as ",
-      "teams": [
-        "Switzerland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "bdafd815b677",
       "title": "Socceroos captain Maty Ryan axed for Brazil friendlies",
       "url": "https://www.theguardian.com/football/2026/sep/18/socceroos-captain-maty-ryan-droppedr-brazil-vs-australia-friendlies",
@@ -220,20 +170,6 @@
       "is_injury_related": false
     },
     {
-      "id": "89e3fb28e9e7",
-      "title": "Thomas Tuchel’s shot at redemption begins with England’s tricky Nations League tests",
-      "url": "https://www.theguardian.com/football/2026/sep/17/thomas-tuchels-shot-at-redemption-begins-with-englands-tricky-nations-league-tests",
-      "source": "The Guardian",
-      "published_at": "2026-09-17T14:15:47+00:00",
-      "summary": "It is hard to know whether haters will ever accept manager’s failed tactical shift against Argentina but positive start to preparation for Euros might help Thomas Tuchel has been back around the Premier League grounds this season and it is worth dwelling on one particular interac",
-      "teams": [
-        "USA",
-        "Argentina",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "b74f6758416d",
       "title": "Laura Kaminski relishing trophy hunt at Brann after Crystal Palace ‘crash course’",
       "url": "https://www.theguardian.com/football/2026/sep/17/laura-kaminski-brann-crystal-palace-moving-the-goalposts",
@@ -244,18 +180,6 @@
         "Norway",
         "Austria",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "19880815cbda",
-      "title": "USA midfielder sues doctors after on-pitch cardiac arrest",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6j4jlqgeejvo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-17T06:15:00+00:00",
-      "summary": "United States women's national team player Savannah DeMelo is suing a hospital and two doctors after she suffered a cardiac arrest on the pitch last year.",
-      "teams": [
-        "USA"
       ],
       "is_injury_related": false
     },
