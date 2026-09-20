@@ -1,19 +1,91 @@
 {
-  "generated_at": "2026-09-20T06:10:09.377468+00:00",
+  "generated_at": "2026-09-20T12:16:15.528359+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "40a39de1ad85",
-      "title": "Celtic win 'changes game' - but can they reverse Rangers' derby dominance?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c607l0xdm8xro",
-      "source": "BBC Sport",
-      "published_at": "2026-09-19T19:19:06+00:00",
-      "summary": "Former Celtic captain Scott Brown believes a win for the Scottish champions against Rangers on Sunday \"changes the game\" after a turbulent week for Martin O'Neill's side.",
+      "id": "f8cda02b8747",
+      "title": "Bournemouth v Liverpool: Premier League – live",
+      "url": "https://www.theguardian.com/football/live/2026/sep/20/bournemouth-v-liverpool-premier-league-live",
+      "source": "The Guardian",
+      "published_at": "2026-09-20T12:14:31+00:00",
+      "summary": "Updates from 2pm (BST) kickoff at the Vitality Stadium Get in touch: contact Daniel via email It’s interesting that, for all the money in the Premier League, many of the best players, especially attackers, are in Spain, Munich and Paris. If you consider Vinicius, Bellingham, Mbap",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "0b3189977926",
+      "title": "Celtic v Rangers: Scottish Premiership – live",
+      "url": "https://www.theguardian.com/football/live/2026/sep/20/celtic-v-rangers-scottish-premiership-live",
+      "source": "The Guardian",
+      "published_at": "2026-09-20T12:14:18+00:00",
+      "summary": "Updates from Old Firm derby, midday kickoff (BST) Get in touch: email John about the game Derek McInnes spoke to the BBC: “I know Celtic have made a load of changes. A lot was made of last week, us having won the battle through the middle of the park, they’ve filled the middle of",
       "teams": [
         "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "30d81457ac98",
+      "title": "Andros Townsend avoids injury after bizarre pitch roller incident in Thailand",
+      "url": "https://www.theguardian.com/football/2026/sep/20/andros-townsend-avoids-injury-after-bizarre-pitch-roller-incident-in-thailand",
+      "source": "The Guardian",
+      "published_at": "2026-09-20T10:47:07+00:00",
+      "summary": "Former England player run over while warming up ‘It turns out Stoke away wasn’t so bad,’ says winger The former England winger Andros Townsend has joked Stoke away “wasn’t so bad after all” following a bizarre incident in Thailand where he was run over by a pitch roller. The ex-T",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "b8a06e081342",
+      "title": "Townsend run over by pitch roller in Thailand",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr93e70xv21ko",
+      "source": "BBC Sport",
+      "published_at": "2026-09-20T09:08:43+00:00",
+      "summary": "Former England winger Andros Townsend jokes that playing Stoke away \"wasn't so bad after all\" following a bizarre incident before a game in Thailand.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "c496bbb2418a",
+      "title": "‘We miss her the same every day’: Olivia Cusack on her late footballer sister Maddy",
+      "url": "https://www.theguardian.com/football/2026/sep/20/olivia-cusack-maddy-cusack-late-footballer-legacy-sheffield-united",
+      "source": "The Guardian",
+      "published_at": "2026-09-20T07:00:10+00:00",
+      "summary": "Family is determined to ensure her ‘legacy lives on’ three years after the Sheffield United player’s death Olivia Cusack says her sister, the late Maddy Cusack, is on her mind every single day and she is determined to ensure her “legacy lives on” three years after the former Engl",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "b2b1685caf4f",
+      "title": "Mourinho and Simeone renew rivalry in Madrid derby after more than a decade",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmly4x3l5kzlo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-20T06:55:30+00:00",
+      "summary": "Jose Mourinho and Diego Simeone renew their rivalry after a 12-year wait as Real Madrid visit Atletico Madrid in Sunday's Spanish capital derby.",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "782c72533e50",
+      "title": "European football: Rosenior taunts Strasbourg fans who ‘insulted family’",
+      "url": "https://www.theguardian.com/football/2026/sep/19/roma-inter-lazio-dortmund-sevilla-barcelona",
+      "source": "The Guardian",
+      "published_at": "2026-09-19T21:12:00+00:00",
+      "summary": "English manager responds after Paris FC’s win Martínez rescues Inter; Salah hits hat-trick Paris FC extended their unbeaten start to the Ligue 1 campaign, beating Liam Rosenior’s old charges Strasbourg 2-1 in a match marred by abusive chants towards the Englishman from visiting f",
+      "teams": [
+        "England"
       ],
       "is_injury_related": false
     },
@@ -81,19 +153,6 @@
       "is_injury_related": true
     },
     {
-      "id": "62f1759b82d8",
-      "title": "Kylian Mbappé leaves Nike after 20 years to sign boot deal with Swiss brand On",
-      "url": "https://www.theguardian.com/football/2026/sep/18/kylian-mbappe-leaves-nike-20-years-boot-deal-swiss-brand-on",
-      "source": "The Guardian",
-      "published_at": "2026-09-18T15:48:52+00:00",
-      "summary": "France captain also becomes a shareholder in company ‘We have a shared dream, and this is only the beginning’ Kylian Mbappé has ended a 20-year association with Nike to sign a boot deal with the Swiss challenger company On. The sports and leisure brand, which has previously focus",
-      "teams": [
-        "Switzerland",
-        "France"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "fd662f3025dd",
       "title": "Tuchel should listen to ‘the 0.1%’ and learn from England’s World Cup mistakes | Jacob Steinberg",
       "url": "https://www.theguardian.com/football/2026/sep/18/thomas-tuchel-england-squad-world-cup-mistakes-nations-league",
@@ -132,18 +191,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "e3e780be6fbc",
-      "title": "Premier League the goal in Just's unlikely journey",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6grvzxqwwrpo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-18T11:04:16+00:00",
-      "summary": "Having lived out one dream already this year, Swansea City's New Zealand star Elijah Just hopes his unusual journey will lead all the way to the Premier League.",
-      "teams": [
-        "New Zealand"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "3e89e72b7f71",
