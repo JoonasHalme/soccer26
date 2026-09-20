@@ -1,31 +1,19 @@
 {
-  "generated_at": "2026-09-20T12:16:15.528359+00:00",
+  "generated_at": "2026-09-20T16:46:31.082986+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "f8cda02b8747",
-      "title": "Bournemouth v Liverpool: Premier League – live",
-      "url": "https://www.theguardian.com/football/live/2026/sep/20/bournemouth-v-liverpool-premier-league-live",
-      "source": "The Guardian",
-      "published_at": "2026-09-20T12:14:31+00:00",
-      "summary": "Updates from 2pm (BST) kickoff at the Vitality Stadium Get in touch: contact Daniel via email It’s interesting that, for all the money in the Premier League, many of the best players, especially attackers, are in Spain, Munich and Paris. If you consider Vinicius, Bellingham, Mbap",
+      "id": "aa18fe31ce29",
+      "title": "Rangers look like they know where they want to go - Celtic just look lost",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c317j2lzg8rdo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-20T16:23:48+00:00",
+      "summary": "Tom English reflects on the first Old Firm league game of the season, in which Rangers repeated their League Cup win over Celtic.",
       "teams": [
-        "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "0b3189977926",
-      "title": "Celtic v Rangers: Scottish Premiership – live",
-      "url": "https://www.theguardian.com/football/live/2026/sep/20/celtic-v-rangers-scottish-premiership-live",
-      "source": "The Guardian",
-      "published_at": "2026-09-20T12:14:18+00:00",
-      "summary": "Updates from Old Firm derby, midday kickoff (BST) Get in touch: email John about the game Derek McInnes spoke to the BBC: “I know Celtic have made a load of changes. A lot was made of last week, us having won the battle through the middle of the park, they’ve filled the middle of",
-      "teams": [
-        "Scotland"
+        "England"
       ],
       "is_injury_related": false
     },
@@ -66,18 +54,6 @@
       "is_injury_related": true
     },
     {
-      "id": "b2b1685caf4f",
-      "title": "Mourinho and Simeone renew rivalry in Madrid derby after more than a decade",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmly4x3l5kzlo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-20T06:55:30+00:00",
-      "summary": "Jose Mourinho and Diego Simeone renew their rivalry after a 12-year wait as Real Madrid visit Atletico Madrid in Sunday's Spanish capital derby.",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "782c72533e50",
       "title": "European football: Rosenior taunts Strasbourg fans who ‘insulted family’",
       "url": "https://www.theguardian.com/football/2026/sep/19/roma-inter-lazio-dortmund-sevilla-barcelona",
@@ -115,18 +91,6 @@
       "is_injury_related": false
     },
     {
-      "id": "af7b25ba1292",
-      "title": "Harry Kane smashes record for fastest to 100 Bundesliga goals in 98th game",
-      "url": "https://www.theguardian.com/football/2026/sep/18/harry-kane-smashes-record-for-fastest-to-100-bundesliga-goals-in-98th-game",
-      "source": "The Guardian",
-      "published_at": "2026-09-18T22:04:40+00:00",
-      "summary": "Striker’s double helps Bayern Munich beat Union Berlin 7-0 Dieter Müller’s record of 129 games had stood since 1977 Harry Kane broke the 49-year-old record for the fastest player to score 100 Bundesliga goals in Bayern Munich’s 7-0 victory on Friday over Union Berlin, his 98th le",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "b3f65efe0679",
       "title": "‘Embrace the chaos’: Tuchel aims to harness England’s football culture",
       "url": "https://www.theguardian.com/football/2026/sep/18/embrace-chaos-thomas-tuchel-england-football-culture",
@@ -148,21 +112,6 @@
       "summary": "Thomas Tuchel promises to play the full-back in his natural right-sided position but we have not seen enough of him this term to gauge his form Thomas Tuchel said Trent Alexander Arnold had enjoyed a good start to the season, which came as news to those in England who have not be",
       "teams": [
         "Spain",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "fd662f3025dd",
-      "title": "Tuchel should listen to ‘the 0.1%’ and learn from England’s World Cup mistakes | Jacob Steinberg",
-      "url": "https://www.theguardian.com/football/2026/sep/18/thomas-tuchel-england-squad-world-cup-mistakes-nations-league",
-      "source": "The Guardian",
-      "published_at": "2026-09-18T15:43:17+00:00",
-      "summary": "Head coach is keen to focus on positives but Nations League squad hints at desire for greater tactical options Thomas Tuchel should be listening to the 0.1%. As he unveiled his first England squad since the World Cup, he said 99.9% of supporters he bumped into did not talk about ",
-      "teams": [
-        "Mexico",
-        "Argentina",
-        "DR Congo",
         "England"
       ],
       "is_injury_related": true
@@ -191,6 +140,18 @@
         "England"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "a635db626aaa",
+      "title": "Todd Boehly exits Chelsea diminished after having his fingers burned",
+      "url": "https://www.theguardian.com/football/2026/sep/18/todd-boehly-leaves-chelsea-clearlake-capital-premier-league",
+      "source": "The Guardian",
+      "published_at": "2026-09-18T07:00:12+00:00",
+      "summary": "The billionaire’s departure will change little day-to-day but could be significant for club’s stadium plans Not since a doomed foray into the thorny world of the transfer market has Todd Boehly had any real influence over the day-to-day at Chelsea. The American exits football as ",
+      "teams": [
+        "Switzerland"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "3e89e72b7f71",
@@ -317,19 +278,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "83de90479bca",
-      "title": "Why David Beckham will have my vote for the US Soccer Hall of Fame | Pablo Iglesias Maurer",
-      "url": "https://www.theguardian.com/football/2026/sep/10/david-beckham-us-soccer",
-      "source": "The Guardian",
-      "published_at": "2026-09-10T14:54:07+00:00",
-      "summary": "The Englishman has gotten no shortage of recognition, but his contributions to the American game deserve an official title Sign up for our free newsletter here Next spring, when the US Soccer Hall of Fame welcomes its newest class, there will be pomp and circumstance. The hall, w",
-      "teams": [
-        "USA",
-        "England"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "84aa0be62da4",
