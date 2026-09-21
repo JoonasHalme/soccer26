@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T14:01:43.467035+00:00",
+  "generated_at": "2026-09-21T19:21:40.873744+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -10,8 +10,81 @@
       "title": "How is Scotland squad shaping up for Pocognoli debut?",
       "url": "https://www.bbc.co.uk/sport/football/articles/ck8d38yz4yymo",
       "source": "BBC Sport",
-      "published_at": "2026-09-21T13:49:13+00:00",
-      "summary": "Sebastien Pocognoli's faces his first test as Scotland head coach against Slovenia on Saturday, but how is his squad shaping up for his debut?",
+      "published_at": "2026-09-21T17:38:31+00:00",
+      "summary": "Sebastien Pocognoli's faces his first test as Scotland head coach against Slovenia on Saturday, but how are his squad shaping up for his debut?",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "4ba86281dc7e",
+      "title": "Scotland call for Montgomery as Tierney & McLean drop out",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6wyz22d39ldo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-21T17:32:06+00:00",
+      "summary": "Blackburn Rovers midfielder Kristi Montgomery gets a first call-up for Scotland as Kieran Tierney and Kenny McLean drop out of the Nations League squad.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "dbe38c2ba3c5",
+      "title": "Palmer & Rice among five withdrawals from England squad",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c617j2prweejo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-21T16:06:03+00:00",
+      "summary": "Tino Livramento, Kobbie Mainoo, Cole Palmer, Marcus Rashford and Declan Rice all pull out of England's squad for forthcoming Nations League matches.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "3a2dd701557c",
+      "title": "Wales will have no fear in Portugal - James",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn9wpzrz3g1o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-21T15:36:40+00:00",
+      "summary": "Jordan James insists depleted Wales will not be overawed against \"the best players in the world\" in their Nations League A opener against Portugal on Thursday.",
+      "teams": [
+        "Jordan",
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "a557b6662ef9",
+      "title": "Xhaka under investigation over Covid-19 certificate",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-21T15:24:51+00:00",
+      "summary": "Switzerland captain Granit Xhaka is being investigated over an issue with his Covid-19 vaccination certificate.",
+      "teams": [
+        "Switzerland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "997abcce65a4",
+      "title": "Pierre Sage took Lens to new heights. His replacement left after six games",
+      "url": "https://www.theguardian.com/football/2026/sep/21/pierre-sage-lens-ligue-1-coupe-de-france-success",
+      "source": "The Guardian",
+      "published_at": "2026-09-21T15:16:47+00:00",
+      "summary": "Lens finished second in Ligue 1 last season and won the Coupe de France. Building on that success is proving tricky By Get French Football News It was under cover of darkness that Yannick Cahuzac took his place in the Lens dugout at the Stade Louis II on Friday night. The lights ",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "471bacec7bc8",
+      "title": "Pocognoli Facetime helps Miller over summer of discontent",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6zxz2722jjvo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-21T14:11:27+00:00",
+      "summary": "Lennon Miller was Facetimed by new Scotland head coach Sebastien Pocognoli as he returns to the international fold.",
       "teams": [
         "Scotland"
       ],
@@ -46,7 +119,7 @@
     },
     {
       "id": "1869267ec0f9",
-      "title": "Ghosts of 2023 surface after Dortmund return to the Bundesliga summit | Andy Brassell",
+      "title": "Ghosts of 2023 quelled after Dortmund return to the Bundesliga summit | Andy Brassell",
       "url": "https://www.theguardian.com/football/2026/sep/21/ghosts-2023-surface-borussia-dortmund-bundesliga-summit-stuttgart",
       "source": "The Guardian",
       "published_at": "2026-09-21T13:17:05+00:00",
@@ -65,18 +138,6 @@
       "summary": "Former Birmingham winger Jordan Graham is in hospital after being involved in a \"serious road traffic accident\".",
       "teams": [
         "Jordan"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "a557b6662ef9",
-      "title": "Xhaka under investigation over Covid-19 certificate",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-21T12:21:52+00:00",
-      "summary": "Switzerland captain Granit Xhaka is being investigated over an issue with his Covid-19 vaccination certificate.",
-      "teams": [
-        "Switzerland"
       ],
       "is_injury_related": false
     },
@@ -103,18 +164,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "dbe38c2ba3c5",
-      "title": "Palmer & Rice among five withdrawals from England squad",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c617j2prweejo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-21T09:36:36+00:00",
-      "summary": "Tino Livramento, Kobbie Mainoo, Cole Palmer, Marcus Rashford and Declan Rice all pull out of England's squad for forthcoming Nations League matches.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "c17fbbed5c15",
@@ -178,18 +227,6 @@
       "is_injury_related": false
     },
     {
-      "id": "acc4a9161a5e",
-      "title": "Listen: Reaction as renewed Rangers belief leaves Celtic in turmoil",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pbm3r4",
-      "source": "BBC Sport",
-      "published_at": "2026-09-20T14:17:00+00:00",
-      "summary": "Richard Gordon and the team review Celtic 0-1 Rangers in the Scottish Premiership",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "30d81457ac98",
       "title": "Andros Townsend avoids injury after bizarre pitch roller incident in Thailand",
       "url": "https://www.theguardian.com/football/2026/sep/20/andros-townsend-avoids-injury-after-bizarre-pitch-roller-incident-in-thailand",
@@ -226,6 +263,18 @@
       "is_injury_related": true
     },
     {
+      "id": "782c72533e50",
+      "title": "European football: Rosenior taunts Strasbourg fans who ‘insulted family’",
+      "url": "https://www.theguardian.com/football/2026/sep/19/roma-inter-lazio-dortmund-sevilla-barcelona",
+      "source": "The Guardian",
+      "published_at": "2026-09-19T21:12:00+00:00",
+      "summary": "English manager responds after Paris FC’s win Martínez rescues Inter; Salah hits hat-trick Paris FC extended their unbeaten start to the Ligue 1 campaign, beating Liam Rosenior’s old charges Strasbourg 2-1 in a match marred by abusive chants towards the Englishman from visiting f",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "4469dd7376bf",
       "title": "Zidane’s next move as France coach may reveal the wizard behind the curtain | Jonathan Wilson",
       "url": "https://www.theguardian.com/football/2026/sep/19/zinedine-zidane-france-coach-wizard-behind-curtain",
@@ -247,19 +296,6 @@
       "summary": "Mystery surrounds the origin of Peter Baines, the trailblazing black footballer who played for the Welsh club, among others, during the 1940s Warning: Aboriginal and Torres Strait Islander readers are advised that this article may contain the image and name of an Indigenous Austr",
       "teams": [
         "Australia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "b3f65efe0679",
-      "title": "‘Embrace the chaos’: Tuchel aims to harness England’s football culture",
-      "url": "https://www.theguardian.com/football/2026/sep/18/embrace-chaos-thomas-tuchel-england-football-culture",
-      "source": "The Guardian",
-      "published_at": "2026-09-18T18:00:24+00:00",
-      "summary": "Head coach says he must accept lack of control in games ‘Deep down, English players … they go for it’ Thomas Tuchel has admitted there are times when he craves greater control in matches. But the England head coach feels the more chaotic, adrenaline-fuelled nature of the Premier ",
-      "teams": [
-        "Argentina",
-        "England"
       ],
       "is_injury_related": false
     },
@@ -315,18 +351,6 @@
       "is_injury_related": true
     },
     {
-      "id": "a635db626aaa",
-      "title": "Todd Boehly exits Chelsea diminished after having his fingers burned",
-      "url": "https://www.theguardian.com/football/2026/sep/18/todd-boehly-leaves-chelsea-clearlake-capital-premier-league",
-      "source": "The Guardian",
-      "published_at": "2026-09-18T07:00:12+00:00",
-      "summary": "The billionaire’s departure will change little day-to-day but could be significant for club’s stadium plans Not since a doomed foray into the thorny world of the transfer market has Todd Boehly had any real influence over the day-to-day at Chelsea. The American exits football as ",
-      "teams": [
-        "Switzerland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "3e89e72b7f71",
       "title": "Two years and one World Cup down, Mauricio Pochettino is still assessing",
       "url": "https://www.theguardian.com/football/2026/sep/17/mauricio-pochettino-calls-the-kids",
@@ -365,18 +389,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "3b55d357bcb4",
-      "title": "Jürgen Klopp wants his Germany team to reclaim national pride from ‘the wrong people’",
-      "url": "https://www.theguardian.com/football/2026/sep/17/jurgen-klopp-germany-reclaim-national-pride-wrong-people-afd",
-      "source": "The Guardian",
-      "published_at": "2026-09-17T10:42:03+00:00",
-      "summary": "Comments follow far-right election win in Saxony-Anhalt ‘I’d like to reclaim the flag for myself and for us,’ he says Jürgen Klopp has said Germany’s football team can help ensure “national pride is not entrusted to the wrong people” after a recent far-right AfD election victory ",
-      "teams": [
-        "Germany"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "dedf642de316",
