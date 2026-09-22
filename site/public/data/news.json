@@ -1,10 +1,96 @@
 {
-  "generated_at": "2026-09-22T04:47:15.813215+00:00",
+  "generated_at": "2026-09-22T09:53:43.685403+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "a066e59b1e07",
+      "title": "How do players withdraw from an international squad?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crz6z2y31pvlo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-22T09:06:04+00:00",
+      "summary": "BBC Sport looks at how players withdraw from international squads, after five players dropped out of the England line-up",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "81bc3d01d3d0",
+      "title": "‘Have some humanity’: Diogo Jota chants at Rúben Neves a wake-up call for Saudi Arabia",
+      "url": "https://www.theguardian.com/football/2026/sep/22/cristiano-ronaldo-humanity-diogo-jota-chants-neves-saudi-pro-league",
+      "source": "The Guardian",
+      "published_at": "2026-09-22T09:05:53+00:00",
+      "summary": "With added coverage comes added scrutiny and there is a feeling that the league was too lenient when punishing chants about the late Portugal forward The good thing about Cristiano Ronaldo playing in your league is that he is one of the most famous footballers ever and when he sc",
+      "teams": [
+        "Saudi Arabia",
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "5fef2944c68f",
+      "title": "Women’s Champions League: will OL Lyonnes or English trio topple a weakened Barcelona?",
+      "url": "https://www.theguardian.com/football/2026/sep/22/womens-champions-league-preview-ol-lyonnes-arsenal-chelsea-manchester-city-barcelona",
+      "source": "The Guardian",
+      "published_at": "2026-09-22T07:00:38+00:00",
+      "summary": "The league phase kicks off this week, with several sides optimistic of unseating the European champions This competition is wide open. “But, wait, you say that every year!” No, honestly, this time it is wide open. The league phase of a new Women’s Champions League campaign begins",
+      "teams": [
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "eef4fda54675",
+      "title": "Ferry puts Dundee United contract talks on hold - gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqlylxz65608o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-22T06:50:58+00:00",
+      "summary": "Dundee United's Republic of Ireland international not willing to decide future in September as Scottish defender helps Turkish side excel.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1261202ce53b",
+      "title": "'Alarming' - does WSL have a homegrown problem?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cew9nqnz9lno",
+      "source": "BBC Sport",
+      "published_at": "2026-09-22T06:40:41+00:00",
+      "summary": "The London City Lionesses raised eyebrows with no English players in their starting line-up against Manchester United, but is there a wider trend?",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "e1d6af9667f7",
+      "title": "McPake's 'colourful' journey from club-less to Scotland call-up in three years",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmx2z1jldpnzo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-22T06:32:26+00:00",
+      "summary": "Three years ago, Josh McPake was without a club. Twenty months ago, he was in the shop window but \"no-one wanted him\". This week, he's involved in his first Scotland camp. Here, BBC Sport Scotland charts the fall and rise of the winger who's got everyone in the country talking.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "187fff4921c3",
+      "title": "Being run over by pitch roller was terrifying - Townsend",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqp8dpd5d27yo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-21T22:13:16+00:00",
+      "summary": "Former England winger Andros Townsend says he was lucky to escape from under a pitch roller with just a few \"bumps and bruises\".",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "652a25e60418",
       "title": "Come back soon Premier League, the endlessly moreish mega-product | Barney Ronay",
@@ -251,18 +337,6 @@
       "is_injury_related": true
     },
     {
-      "id": "c496bbb2418a",
-      "title": "‘We miss her the same every day’: Olivia Cusack on her late footballer sister Maddy",
-      "url": "https://www.theguardian.com/football/2026/sep/20/olivia-cusack-maddy-cusack-late-footballer-legacy-sheffield-united",
-      "source": "The Guardian",
-      "published_at": "2026-09-20T07:00:10+00:00",
-      "summary": "Family is determined to ensure her ‘legacy lives on’ three years after the Sheffield United player’s death Olivia Cusack says her sister, the late Maddy Cusack, is on her mind every single day and she is determined to ensure her “legacy lives on” three years after the former Engl",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "782c72533e50",
       "title": "European football: Rosenior taunts Strasbourg fans who ‘insulted family’",
       "url": "https://www.theguardian.com/football/2026/sep/19/roma-inter-lazio-dortmund-sevilla-barcelona",
@@ -275,19 +349,6 @@
       "is_injury_related": false
     },
     {
-      "id": "4469dd7376bf",
-      "title": "Zidane’s next move as France coach may reveal the wizard behind the curtain | Jonathan Wilson",
-      "url": "https://www.theguardian.com/football/2026/sep/19/zinedine-zidane-france-coach-wizard-behind-curtain",
-      "source": "The Guardian",
-      "published_at": "2026-09-19T19:00:54+00:00",
-      "summary": "It is apt that the most perplexing football country will now be guided by the most enigmatic of leaders Even in his playing days, Zinedine Zidane seemed unknowable. As a manager, the sense of distance has only grown. He won three Champions Leagues with Real Madrid without ever gi",
-      "teams": [
-        "Spain",
-        "France"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "16a812db82bf",
       "title": "Case not proven: Trent Alexander-Arnold’s England recall is based on patchy evidence",
       "url": "https://www.theguardian.com/football/2026/sep/18/trent-alexander-arnold-england-recall-patchy-evidence",
@@ -297,19 +358,6 @@
       "teams": [
         "Spain",
         "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "d8e82e21c9fb",
-      "title": "Football Daily | Spying some tasty match-ups, from Wrexham v Saints to desperation derbies",
-      "url": "https://www.theguardian.com/football/2026/sep/18/weekend-derbies-football-daily-newsletter",
-      "source": "The Guardian",
-      "published_at": "2026-09-18T14:42:58+00:00",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Before an engorged international break we have a gala weekend of derby games. Some of them are familiar, others rather longer in the waiting, others spurious in their definition but shoehorned in for tea-timely email purposes. T",
-      "teams": [
-        "Scotland",
-        "Spain"
       ],
       "is_injury_related": true
     },
@@ -403,18 +451,6 @@
       "is_injury_related": false
     },
     {
-      "id": "1f01264302e4",
-      "title": "WSL talking points: Olid must weather United storm, Arsenal wasteful again",
-      "url": "https://www.theguardian.com/football/2026/sep/14/wsl-talking-points-eva-olid-manchester-united-arsenal",
-      "source": "The Guardian",
-      "published_at": "2026-09-14T11:17:59+00:00",
-      "summary": "Manchester United need to regroup after a heavy home loss to Chelsea while Crystal Palace frustrated the Gunners The frustration among Manchester United fans at full-time was evident at Leigh Sports Village after they had watched their team being thrashed 5-0 by a rampant Chelsea",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "4f7ad31fac4b",
       "title": "The Hotspot | South Korea pushes for football season to make winter switch after unbearable summer",
       "url": "https://www.theguardian.com/sport/2026/sep/14/south-korea-football-season-heat-summer-the-hotspot",
@@ -451,19 +487,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "a5168b5a3562",
-      "title": "Manager ins and outs - 2026-27",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-08T09:20:23+00:00",
-      "summary": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.",
-      "teams": [
-        "Scotland",
-        "England"
-      ],
-      "is_injury_related": false
     }
   ]
 }
