@@ -1,10 +1,60 @@
 {
-  "generated_at": "2026-09-23T05:55:07.193049+00:00",
+  "generated_at": "2026-09-23T11:27:40.855689+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "cf8cebb924bd",
+      "title": "Scots recall Kerr & Thomas for World Cup play-offs",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c63d7ypd11ydo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-23T10:00:26+00:00",
+      "summary": "Sam Kerr and Martha Thomas are named in their first Scotland squad in almost a year for next month's World Cup round one play-offs against the Czech Republic.",
+      "teams": [
+        "Czech Republic",
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "3c9ba4dc8869",
+      "title": "Germany's saviour? How Klopp is looking to turn fortunes around",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmx2z3n88z77o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-23T07:00:26+00:00",
+      "summary": "As Jurgen Klopp prepares for his first game as Germany manager, BBC Sport looks at how is trying to turn their fortunes around.",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "7594590c9df1",
+      "title": "Podcast: Who can stop Stenny? It's the lower league round-up",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pc02wk",
+      "source": "BBC Sport",
+      "published_at": "2026-09-23T07:00:00+00:00",
+      "summary": "A deep dive into the murky depths of Scottish football beyond the Premiership",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6840498f4d17",
+      "title": "From leaving Rangers to La Liga - Scotland is next step for Ure",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c617jyexnnd5o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-23T06:20:56+00:00",
+      "summary": "Robbie Ure has made it all the way to Sevilla since failing to break through at Rangers and now a first Scotland cap awaits the striker, writes Tom English.",
+      "teams": [
+        "Scotland",
+        "England"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "234a5904084b",
       "title": "Name Wales' Euro 2016 semi-final XI against Ronaldo's Portugal",
@@ -323,18 +373,6 @@
       "is_injury_related": true
     },
     {
-      "id": "471bacec7bc8",
-      "title": "Pocognoli Facetime helps Miller over summer of discontent",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6zxz2722jjvo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-21T14:11:27+00:00",
-      "summary": "Lennon Miller was Facetimed by new Scotland head coach Sebastien Pocognoli as he returns to the international fold.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "17e0b5d12652",
       "title": "Thomas Tuchel rocked by five key withdrawals from England squad",
       "url": "https://www.theguardian.com/football/2026/sep/21/cole-palmer-injury-england-nations-league-rashford-kobbie-mainoo-spain-tuchel",
@@ -360,18 +398,6 @@
         "Germany"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "bf151047036d",
-      "title": "Ex-Birmingham winger Graham in hospital after serious accident",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c83v427kkknwo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-21T12:31:00+00:00",
-      "summary": "Former Birmingham winger Jordan Graham is in hospital after being involved in a \"serious road traffic accident\".",
-      "teams": [
-        "Jordan"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "45f44f83c772",
