@@ -1,22 +1,112 @@
 {
-  "generated_at": "2026-09-23T11:27:40.855689+00:00",
+  "generated_at": "2026-09-23T16:51:07.557003+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "cd1cbf835812",
+      "title": "Cristiano Ronaldo vows to play on for Portugal and targets 1,000 career goals",
+      "url": "https://www.theguardian.com/football/2026/sep/23/cristiano-ronaldo-portugal-wales-nations-league",
+      "source": "The Guardian",
+      "published_at": "2026-09-23T16:02:57+00:00",
+      "summary": "Player reflects on critics, says ‘they’ve tried to kill me’ Jorge Jesus launches passionate defence of 41-year-old Cristiano Ronaldo said he considered quitting international football after the World Cup, but confirmed he plans to play on for Portugal and hopes to reach 1,000 goa",
+      "teams": [
+        "Spain",
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "c6a7ba4f373b",
+      "title": "Football Daily | Madrid, Mourinho and the fight for neutrality in row with Javier Tebas",
+      "url": "https://www.theguardian.com/football/2026/sep/23/madrid-mourinho-javier-tebas-football-daily-newsletter",
+      "source": "The Guardian",
+      "published_at": "2026-09-23T14:23:53+00:00",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! While football managers moaning about referees to deflect from their own teams’ shortcomings is nothing new, few do performative, wounded, righteous indignation with quite the same brooding intensity and petulance as José Mourin",
+      "teams": [
+        "Sweden",
+        "Spain",
+        "Argentina",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "a9960d541768",
+      "title": "England players carrying World Cup scar - Saka",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvde0jw2l6g4o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-23T14:03:42+00:00",
+      "summary": "England winger Bukayo Saka says the team are still carrying the \"scar\" of their heartbreaking World Cup semi-final exit to Argentina.",
+      "teams": [
+        "Argentina",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "a9bd9d7a7495",
+      "title": "Florian Wirtz does not look like a £116m player but it is early to write him off",
+      "url": "https://www.theguardian.com/football/2026/sep/23/florian-wirtz-liverpool-playmaker-opta",
+      "source": "The Guardian",
+      "published_at": "2026-09-23T13:33:48+00:00",
+      "summary": "The 23-year-old playmaker has been disappointing for Liverpool but has he really been that bad? By Opta Analyst When Florian Wirtz signed for Liverpool in the summer of 2025, there was only one logical assumption. The Premier League champions at the time had recruited one of the ",
+      "teams": [
+        "Germany",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "cf8cebb924bd",
-      "title": "Scots recall Kerr & Thomas for World Cup play-offs",
+      "title": "Scots recall 'versatile' Kerr & Thomas for World Cup play-offs",
       "url": "https://www.bbc.co.uk/sport/football/articles/c63d7ypd11ydo",
       "source": "BBC Sport",
-      "published_at": "2026-09-23T10:00:26+00:00",
+      "published_at": "2026-09-23T12:34:52+00:00",
       "summary": "Sam Kerr and Martha Thomas are named in their first Scotland squad in almost a year for next month's World Cup round one play-offs against the Czech Republic.",
       "teams": [
         "Czech Republic",
         "Scotland"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "a548e86bd1b4",
+      "title": "Fight for each other & defend like brothers - Pocognoli's Scotland blueprint",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pc16gr",
+      "source": "BBC Sport",
+      "published_at": "2026-09-23T12:00:00+00:00",
+      "summary": "Pocognoli reveals the principles behind his new-look Scotland side",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "028eefccb07d",
+      "title": "James had options - but Wrexham not among them",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6p3kxxv1kl5o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-23T11:38:51+00:00",
+      "summary": "Jordan James says he turned down possible Premier League moves to join Wolverhampton Wanderers last month – and that talk of signing for Wrexham ended in the summer of 2025.",
+      "teams": [
+        "Jordan"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "eaf13cbaa5bf",
+      "title": "Pocognoli has 'positive nervousness' for Scotland debut",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw1mvy20202eo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-23T11:28:58+00:00",
+      "summary": "Scotland head coach Sebastien Pocognoli admits to feeling a \"positive nervousness\" before his first game in charge of the country, a Nations League tie against Slovenia in Ljubljana on Saturday.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "3c9ba4dc8869",
@@ -27,18 +117,6 @@
       "summary": "As Jurgen Klopp prepares for his first game as Germany manager, BBC Sport looks at how is trying to turn their fortunes around.",
       "teams": [
         "Germany"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "7594590c9df1",
-      "title": "Podcast: Who can stop Stenny? It's the lower league round-up",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pc02wk",
-      "source": "BBC Sport",
-      "published_at": "2026-09-23T07:00:00+00:00",
-      "summary": "A deep dive into the murky depths of Scottish football beyond the Premiership",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -226,32 +304,6 @@
       "is_injury_related": true
     },
     {
-      "id": "81bc3d01d3d0",
-      "title": "‘Have some humanity’: Diogo Jota chants at Rúben Neves a wake-up call for Saudi Arabia",
-      "url": "https://www.theguardian.com/football/2026/sep/22/cristiano-ronaldo-humanity-diogo-jota-chants-neves-saudi-pro-league",
-      "source": "The Guardian",
-      "published_at": "2026-09-22T09:05:53+00:00",
-      "summary": "With added coverage comes added scrutiny and there is a feeling that the league was too lenient when punishing chants about the late Portugal forward The good thing about Cristiano Ronaldo playing in your league is that he is one of the most famous footballers ever and when he sc",
-      "teams": [
-        "Saudi Arabia",
-        "Portugal"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "5fef2944c68f",
-      "title": "Women’s Champions League: will OL Lyonnes or English trio topple a weakened Barcelona?",
-      "url": "https://www.theguardian.com/football/2026/sep/22/womens-champions-league-preview-ol-lyonnes-arsenal-chelsea-manchester-city-barcelona",
-      "source": "The Guardian",
-      "published_at": "2026-09-22T07:00:38+00:00",
-      "summary": "The league phase kicks off this week, with several sides optimistic of unseating the European champions This competition is wide open. “But, wait, you say that every year!” No, honestly, this time it is wide open. The league phase of a new Women’s Champions League campaign begins",
-      "teams": [
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "1261202ce53b",
       "title": "'Alarming' - does WSL have a homegrown problem?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cew9nqnz9lno",
@@ -274,18 +326,6 @@
         "Scotland"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "187fff4921c3",
-      "title": "Being run over by pitch roller was terrifying - Townsend",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqp8dpd5d27yo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-21T22:13:16+00:00",
-      "summary": "Former England winger Andros Townsend says he was lucky to escape from under a pitch roller with just a few \"bumps and bruises\".",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "652a25e60418",
@@ -312,43 +352,6 @@
       "is_injury_related": true
     },
     {
-      "id": "4ba86281dc7e",
-      "title": "Scotland call for Montgomery as Tierney & McLean drop out",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6wyz22d39ldo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-21T17:32:06+00:00",
-      "summary": "Blackburn Rovers midfielder Kristi Montgomery gets a first call-up for Scotland as Kieran Tierney and Kenny McLean drop out of the Nations League squad.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "dbe38c2ba3c5",
-      "title": "Palmer & Rice among five withdrawals from England squad",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c617j2prweejo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-21T16:06:03+00:00",
-      "summary": "Tino Livramento, Kobbie Mainoo, Cole Palmer, Marcus Rashford and Declan Rice all pull out of England's squad for forthcoming Nations League matches.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "3a2dd701557c",
-      "title": "Wales will have no fear in Portugal - James",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmn9wpzrz3g1o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-21T15:36:40+00:00",
-      "summary": "Jordan James insists depleted Wales will not be overawed against \"the best players in the world\" in their Nations League A opener against Portugal on Thursday.",
-      "teams": [
-        "Jordan",
-        "Portugal"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "a557b6662ef9",
       "title": "Xhaka under investigation over Covid-19 certificate",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o",
@@ -373,21 +376,6 @@
       "is_injury_related": true
     },
     {
-      "id": "17e0b5d12652",
-      "title": "Thomas Tuchel rocked by five key withdrawals from England squad",
-      "url": "https://www.theguardian.com/football/2026/sep/21/cole-palmer-injury-england-nations-league-rashford-kobbie-mainoo-spain-tuchel",
-      "source": "The Guardian",
-      "published_at": "2026-09-21T13:39:28+00:00",
-      "summary": "Palmer, Rice, Mainoo, Rashford and Livramento injured James Garner and Morgan Gibbs-White called-up as cover Thomas Tuchel has been rocked by a host of withdrawals from his England squad, with Cole Palmer, Declan Rice, Kobbie Mainoo, Marcus Rashford and Tino Livramento all out be",
-      "teams": [
-        "Czech Republic",
-        "Spain",
-        "England",
-        "Croatia"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "1869267ec0f9",
       "title": "Ghosts of 2023 quelled after Dortmund return to the Bundesliga summit | Andy Brassell",
       "url": "https://www.theguardian.com/football/2026/sep/21/ghosts-2023-surface-borussia-dortmund-bundesliga-summit-stuttgart",
@@ -396,18 +384,6 @@
       "summary": "It is probably a stretch to call BVB title contenders but Niko Kovac’s side maintained their 100% start against Stuttgart Borussia Dortmund would probably rather not think about the last time that they topped the Bundesliga. It was in May 2023, just before all their dreams implod",
       "teams": [
         "Germany"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "45f44f83c772",
-      "title": "Granit Xhaka admits to receiving fake Covid vaccination certificate in 2022",
-      "url": "https://www.theguardian.com/football/2026/sep/21/granit-xhaka-admits-receiving-fake-covid-vaccination-certificate",
-      "source": "The Guardian",
-      "published_at": "2026-09-21T11:46:02+00:00",
-      "summary": "Sunderland captain withdrawn from Switzerland squad He will be questioned by prosecutor’s office in Lucerne Granit Xhaka has been withdrawn from Switzerland’s squad after he admitted receiving a fake Covid vaccination certificate in 2022. The Sunderland and Switzerland captain – ",
-      "teams": [
-        "Switzerland"
       ],
       "is_injury_related": true
     },
@@ -519,18 +495,6 @@
         "Australia"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "8d2ff3acf9cb",
-      "title": "Will England boss Tuchel 'embrace the chaos'?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvrl64y9rdn9o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-18T14:14:23+00:00",
-      "summary": "After the World Cup, England boss Thomas Tuchel wanted greater control. Two months on, he is keen to \"embrace the chaos\" after naming his squad for the upcoming Nations League fixtures.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "dedf642de316",
