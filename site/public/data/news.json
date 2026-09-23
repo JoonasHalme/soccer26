@@ -1,10 +1,85 @@
 {
-  "generated_at": "2026-09-23T16:51:07.557003+00:00",
+  "generated_at": "2026-09-23T20:17:04.209364+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "5f72c4b28071",
+      "title": "Chelsea v Austria Vienna: Women’s Champions League – live",
+      "url": "https://www.theguardian.com/football/live/2026/sep/23/chelsea-v-austria-vienna-womens-champions-league-live-score-updates",
+      "source": "The Guardian",
+      "published_at": "2026-09-23T20:03:40+00:00",
+      "summary": "Champions League updates from the 8pm BST kick-off Live scoreboard | Disney+ criticised | And Email Daniel Leuven 0-0 Roma Servette 0-8 Lyon Continue reading...",
+      "teams": [
+        "Austria"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "a05016ad73fc",
+      "title": "Christian Eriksen leaves Wolfsburg by mutual consent after on-pitch collapse in June",
+      "url": "https://www.theguardian.com/football/2026/sep/23/christian-eriksen-leaves-wolfsburg-mutual-consent-denmark",
+      "source": "The Guardian",
+      "published_at": "2026-09-23T19:46:10+00:00",
+      "summary": "Danish midfielder has been recuperating in homeland Eriksen: ‘I’m pleased we were able to find a solution’ Christian Eriksen and German side VfL Wolfsburg have agreed to terminate ⁠his contract by mutual consent, the club announced on Wednesday. The 34-year-old collapsed during a",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "1a114600082a",
+      "title": "Harry Kane says England’s World Cup exit ‘hurt more than any other’",
+      "url": "https://www.theguardian.com/football/2026/sep/23/harry-kane-england-world-cup-argentina-nations-league-spain",
+      "source": "The Guardian",
+      "published_at": "2026-09-23T18:00:55+00:00",
+      "summary": "‘It wasn’t the team that we wanted and said we’d be’ England host Spain in Nations League on Saturday Harry Kane has described England’s World Cup semi-final defeat against Argentina as his most painful tournament exit because of how the team lost sight of who they were. The capt",
+      "teams": [
+        "Spain",
+        "Argentina",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "76905fc054cd",
+      "title": "Netherlands v Germany: Klopp and Xavi begin revival projects with derby",
+      "url": "https://www.theguardian.com/football/2026/sep/23/special-klopp-and-xavi-take-first-steps-on-international-stage-with-revival-in-mind",
+      "source": "The Guardian",
+      "published_at": "2026-09-23T17:50:43+00:00",
+      "summary": "Klopp, with Germany, and Xavi, with the Netherlands, face each other in Nations League after disappointing World Cup for both countries Before the latest instalment of a time-honoured international rivalry gearing up for two distinct new beginnings, Jürgen Klopp could not resist ",
+      "teams": [
+        "Germany",
+        "Netherlands"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "4d55791cfc92",
+      "title": "The footballer who had a heart transplant - then became a World Cup winner",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmgjqx96nxdeo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-23T17:45:20+00:00",
+      "summary": "Martyn Jackson never thought he'd play football again when he had a heart transplant in 2024. Less than two years later, he was a World Cup winner with England.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "140dbf93430c",
+      "title": "Ronaldo spurred on by 1,000-goal target and Portugal glory",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck4glyl0nwd6o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-23T16:26:38+00:00",
+      "summary": "Cristiano Ronaldo contemplated retirement after the World Cup but wants to reach 1,000 career goals and help a new-look Portugal thrive before hanging up his boots.",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "cd1cbf835812",
       "title": "Cristiano Ronaldo vows to play on for Portugal and targets 1,000 career goals",
@@ -146,18 +221,6 @@
       "is_injury_related": false
     },
     {
-      "id": "b3e9973b7630",
-      "title": "Will anyone topple Infantino? How Fifa president is trying to cling on after World Cup sell-off debacle",
-      "url": "https://www.theguardian.com/football/2026/sep/22/gianni-infantino-fifa-president-election-world-cup-sell-off-debacle",
-      "source": "The Guardian",
-      "published_at": "2026-09-22T19:00:03+00:00",
-      "summary": "Fifa president continues to lobby for re-election despite no other candidates coming forward to challenge him For Gianni Infantino there is no international break. The Fifa president is widely expected to make an appearance at the United Nations general assembly this week in New ",
-      "teams": [
-        "Qatar"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "662aacf0f919",
       "title": "Mikel Arteta agrees contract extension expected to keep him at Arsenal until 2030",
       "url": "https://www.theguardian.com/football/2026/sep/22/mikel-arteta-agrees-contract-extension-arsenal-2030",
@@ -179,18 +242,6 @@
       "teams": [
         "Scotland",
         "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "78d8c478c406",
-      "title": "Mexican soccer banned promotion and relegation. Senators may bring it back",
-      "url": "https://www.theguardian.com/football/2026/sep/22/liga-mx-promoption-relegation-senate",
-      "source": "The Guardian",
-      "published_at": "2026-09-22T15:22:13+00:00",
-      "summary": "Mexican leagues stopped pro/rel in 2020 due to Covid-19 Promised return in 2025 has not materialized The debate over the absence of promotion and relegation in Mexican soccer has reached the floor of the country’s Senate, where officials announced that a legislative reform to res",
-      "teams": [
-        "Mexico"
       ],
       "is_injury_related": true
     },
@@ -350,18 +401,6 @@
         "Scotland"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "a557b6662ef9",
-      "title": "Xhaka under investigation over Covid-19 certificate",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-21T15:24:51+00:00",
-      "summary": "Switzerland captain Granit Xhaka is being investigated over an issue with his Covid-19 vaccination certificate.",
-      "teams": [
-        "Switzerland"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "997abcce65a4",
