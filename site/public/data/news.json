@@ -1,10 +1,74 @@
 {
-  "generated_at": "2026-09-24T04:39:56.252498+00:00",
+  "generated_at": "2026-09-24T09:56:15.844097+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "afc68e6538a3",
+      "title": "Podcast: Hibs' manager hunt & Scotland start afresh",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pc61p8",
+      "source": "BBC Sport",
+      "published_at": "2026-09-24T07:48:00+00:00",
+      "summary": "Scotland's new era starts, Hibs search for a boss and Celtic's finances.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "a85b17c74ad3",
+      "title": "'Eternally grateful' McBurnie ready to show what Scotland have missed",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6qjk1122e9jo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-24T07:05:06+00:00",
+      "summary": "Overlooked by Steve Clarke and dismissed by some Scotland fans, but Oli McBurnie returns with a point to prove, writes Tom English.",
+      "teams": [
+        "Scotland",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "722b7794c4c1",
+      "title": "Anger at Tuchel over World Cup exit exposes biggest obstacle to England success | Barney Ronay",
+      "url": "https://www.theguardian.com/football/2026/sep/24/the-system-not-tuchel-led-to-world-cup-failure-but-euro-2028-offers-new-hope",
+      "source": "The Guardian",
+      "published_at": "2026-09-24T07:00:11+00:00",
+      "summary": "Manager is not responsible for underlying weaknesses but there are reasons for optimism in the buildup to Euro 2028 In the end, Steve, Brian, Gaz or similar, he’s just not done the job he was hired to do. The job? The one he was hired to do? He’s not done it. How can I put this? ",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "3078be24f826",
+      "title": "England should stop trying to replicate Spain - Gordon",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c90kly6kelk1o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-24T05:05:26+00:00",
+      "summary": "Anthony Gordon says that controlling games is not in the \"English DNA\" but the Three Lions could still win major tournaments if they stop \"trying to replicate Spain\".",
+      "teams": [
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "79f05900b433",
+      "title": "‘It’s not in us’: Anthony Gordon backs Tuchel over England’s possession problem",
+      "url": "https://www.theguardian.com/football/2026/sep/24/anthony-gordon-backs-tuchel-over-england-possession-problem-world-cup-nations-league",
+      "source": "The Guardian",
+      "published_at": "2026-09-24T05:00:09+00:00",
+      "summary": "Barcelona winger says England cannot play like Spain Gordon: players ‘could have done more’ in semi-final Anthony Gordon has sided with Thomas Tuchel’s assertion that controlling games through possession is not part of English football’s DNA. Although Gordon revealed surprise at ",
+      "teams": [
+        "Spain",
+        "Argentina",
+        "England"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "dedbaa55c6c0",
       "title": "Barcelona rule out Alvarez deal - Thursday's gossip",
@@ -293,19 +357,6 @@
       "is_injury_related": false
     },
     {
-      "id": "5e21a5407a47",
-      "title": "Pizza with Henry, captaining Brondby, and now a Scotland chance",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm70dyzjwg91o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-22T16:10:20+00:00",
-      "summary": "From searching for pizza with Thierry Henry to leading a Danish Superliga side, Luis Binks has taken an unconventional route to the Scotland squad, writes Tom English.",
-      "teams": [
-        "Scotland",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "78d8c478c406",
       "title": "Mexican soccer banned promotion and relegation. Senators may bring it back",
       "url": "https://www.theguardian.com/football/2026/sep/22/liga-mx-promoption-relegation-senate",
@@ -339,22 +390,6 @@
       "summary": "Max Rushden &nbsp;is joined by&nbsp;Barry Glendenning, George Elek and Sanny Rudravajhala for an update across the EFL and the latest from the England camp.&nbsp; Continue reading...",
       "teams": [
         "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "e974993ee097",
-      "title": "Branthwaite reveals brain study helped him conquer injuries and earn England call",
-      "url": "https://www.theguardian.com/football/2026/sep/22/jarrad-branthwaite-england-nations-league-everton",
-      "source": "The Guardian",
-      "published_at": "2026-09-22T11:45:31+00:00",
-      "summary": "Defender has battled hamstring and groin problems Everton player credits Munich clinic for turning point Jarrad Branthwaite has credited a “complex” rehabilitation programme in Germany, which analysed links between his injuries and his brain and movement, with his return to the E",
-      "teams": [
-        "Czech Republic",
-        "Germany",
-        "Spain",
-        "England",
-        "Croatia"
       ],
       "is_injury_related": true
     },
