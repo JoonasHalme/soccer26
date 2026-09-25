@@ -1,21 +1,34 @@
 {
-  "generated_at": "2026-09-25T18:32:02.247570+00:00",
+  "generated_at": "2026-09-25T22:15:32.795648+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "7acf0398195c",
-      "title": "Turkey v France, Italy v Belgium, and more: Nations League clockwatch – live",
-      "url": "https://www.theguardian.com/football/live/2026/sep/25/turkey-v-france-italy-v-belgium-and-more-nations-league-clockwatch-live",
+      "id": "e0f9d60f22b9",
+      "title": "Nations League: Kylian Mbappé injured after scoring France winner in Turkey",
+      "url": "https://www.theguardian.com/football/2026/sep/25/nations-league-roundup-turkey-france-kylian-mbappe-italy-belgium",
       "source": "The Guardian",
-      "published_at": "2026-09-25T18:10:01+00:00",
-      "summary": "⚽ Updates from Friday evening’s Nations League games ⚽ Live scoreboard | Read Football Daily | Mail Michael Let’s unpack those teams a little . Turkey are missing one of their star players, Kenan Yildiz, who is sidelined with a long-term injury. Yildiz normally operates on the le",
+      "published_at": "2026-09-25T21:35:43+00:00",
+      "summary": "France beat 10-man Turkey 1-0 to start Zidane era Italy 0-2 Belgium, Georgia 0-1 Northern Ireland Kylian Mbappé limped off with an apparent knee injury, moments after scoring France’s winner against Turkey in the Nations League on Friday. The Real Madrid striker rifled in a low s",
       "teams": [
         "Turkey",
         "Belgium",
         "France"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "2fd47a88f215",
+      "title": "Andy Robertson says players are ‘not to blame’ for Manchester City’s actions",
+      "url": "https://www.theguardian.com/football/2026/sep/25/andy-robertson-says-players-are-not-to-blame-for-manchester-citys-actions",
+      "source": "The Guardian",
+      "published_at": "2026-09-25T20:16:41+00:00",
+      "summary": "City found guilty of breaching Premier League rules Liverpool finished second to City in 2019 and 2022 The former Liverpool defender Andy Robertson believes trophy-winning Manchester City players should not have their achievements diminished or removed because of the actions of t",
+      "teams": [
+        "Scotland",
+        "Spain"
       ],
       "is_injury_related": true
     },
@@ -64,7 +77,7 @@
       "url": "https://www.theguardian.com/football/2026/sep/25/liverpool-cody-gakpo-tough-summer-manchester-city",
       "source": "The Guardian",
       "published_at": "2026-09-25T16:00:11+00:00",
-      "summary": "Dutchman’s second son died during pregnancy in June ‘If I have no control over the situation, I will not worry’ Cody Gakpo has reflected on a “very tough” summer that ended with the collapse of a transfer to Manchester City, revealing Liverpool changed their minds about letting h",
+      "summary": "Dutchman reflects on struggles in ‘football and life’ Gakpo’s second son died during pregnancy in June Cody Gakpo has reflected on a “very tough” summer that ended with the collapse of a transfer to Manchester City, revealing Liverpool changed their minds about letting him join t",
       "teams": [
         "Germany",
         "Netherlands"
@@ -114,7 +127,7 @@
       "url": "https://www.theguardian.com/football/2026/sep/25/manchester-city-found-guilty-of-breaking-premier-leagues-financial-fair-play-rules",
       "source": "The Guardian",
       "published_at": "2026-09-25T15:35:49+00:00",
-      "summary": "City face sanctions after more than 100 rule breaches Club insists it is innocent and is expected to appeal Manchester City have been found guilty of the vast majority of more than a hundred charges related to breaches of the Premier League’s financial rules, throwing English foo",
+      "summary": "City face sanctions after more than 100 rule breaches Club insist on innocence and are expected to appeal Manchester City have been found guilty of the vast majority of more than a hundred charges related to breaches of the Premier League’s financial rules, throwing English footb",
       "teams": [
         "England"
       ],
@@ -195,18 +208,6 @@
       "is_injury_related": true
     },
     {
-      "id": "c7823f85a5b1",
-      "title": "Pocognoli deserves time but Scottish FA must also prove its credentials",
-      "url": "https://www.theguardian.com/football/2026/sep/25/sebastien-pocognoli-scotland-scottish-fa-slovenia",
-      "source": "The Guardian",
-      "published_at": "2026-09-25T13:13:04+00:00",
-      "summary": "Scotland’s unproven head coach represents a gamble made by an organisation that could do without another embarrassing episode If time is the commodity most cherished by a manager, Sébastien Pocognoli’s decision to lead Scotland is no surprise. Host nation status for Euro 2028 mea",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "8a4213243d82",
       "title": "'Workhorse' Koumas growing with Wales",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmed7jqjnz66o",
@@ -240,18 +241,6 @@
       "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "teams": [
         "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "056ec54208fe",
-      "title": "How Carsley aims to lead England to U21 glory - for third time in row",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmqjk1k254dlo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-25T07:44:23+00:00",
-      "summary": "Lee Carsley is aware of the challenge ahead, but also the lasting impact more success with England Under-21s could have.",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
@@ -494,19 +483,6 @@
       "is_injury_related": false
     },
     {
-      "id": "a85b17c74ad3",
-      "title": "'Eternally grateful' McBurnie ready to show what Scotland have missed",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6qjk1122e9jo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-24T07:05:06+00:00",
-      "summary": "Overlooked by Steve Clarke and dismissed by some Scotland fans, but Oli McBurnie returns with a point to prove, writes Tom English.",
-      "teams": [
-        "Scotland",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "722b7794c4c1",
       "title": "Anger at Tuchel over World Cup exit exposes biggest obstacle to England success | Barney Ronay",
       "url": "https://www.theguardian.com/football/2026/sep/24/the-system-not-tuchel-led-to-world-cup-failure-but-euro-2028-offers-new-hope",
@@ -514,19 +490,6 @@
       "published_at": "2026-09-24T07:00:11+00:00",
       "summary": "Manager is not responsible for underlying weaknesses but there are reasons for optimism in the buildup to Euro 2028 In the end, Steve, Brian, Gaz or similar, he’s just not done the job he was hired to do. The job? The one he was hired to do? He’s not done it. How can I put this? ",
       "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "3078be24f826",
-      "title": "England should stop trying to replicate Spain - Gordon",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c90kly6kelk1o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-24T05:05:26+00:00",
-      "summary": "Anthony Gordon says that controlling games is not in the \"English DNA\" but the Three Lions could still win major tournaments if they stop \"trying to replicate Spain\".",
-      "teams": [
-        "Spain",
         "England"
       ],
       "is_injury_related": false
