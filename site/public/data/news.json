@@ -1,10 +1,98 @@
 {
-  "generated_at": "2026-09-25T01:26:02.954663+00:00",
+  "generated_at": "2026-09-25T07:42:36.290558+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "414cebbc2f4a",
+      "title": "You are the new Scotland boss - what would you do?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cje3reed6dx4o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-25T07:04:36+00:00",
+      "summary": "Put yourself in the shoes of the new Scotland head coach Sebastien Pocognoli as he picks his first XI.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "c3d20efc0ddb",
+      "title": "Scottish Premiership crowds break four million mark",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy5zdrp54wlo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-25T07:00:45+00:00",
+      "summary": "Scottish Premiership crowds topped four million for the first time last season as the league continues to attract the highest per capita attendances in Europe.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f2017b1731b0",
+      "title": "De la Fuente brings insatiable Spain to England knowing World Cup is not enough",
+      "url": "https://www.theguardian.com/football/2026/sep/25/luis-de-la-fuente-spain-world-keep-us-winning",
+      "source": "The Guardian",
+      "published_at": "2026-09-25T07:00:44+00:00",
+      "summary": "Spain have won back-to-back major tournaments, but there is still one more to go to draw equal with feted team of 2008-2012 “I’m going to tell you a story,” Luis de la Fuente said. “As soon as the game finished on 19 July, before anyone had cooled down at all, just two or three m",
+      "teams": [
+        "Czech Republic",
+        "Spain",
+        "England",
+        "Croatia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "ff5d37ca47ce",
+      "title": "Celtic step up plans for Jota return - gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6x2zrp30kxko",
+      "source": "BBC Sport",
+      "published_at": "2026-09-25T06:36:12+00:00",
+      "summary": "Celtic winger closing in on return from long-term injury as Scotland star begins training after heart operation...",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "a690813fa0c1",
+      "title": "Why teenagers have become a huge part of football's transfer market",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckeq8vq7rwe7o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-25T06:32:33+00:00",
+      "summary": "BBC Sport explores why clubs at the top of English football are increasingly trading academy players and what the impact is on the youngsters themselves.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b6cffb688f0c",
+      "title": "Education, Barcelona & Basque culture - why Spain are dominating football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1e5d2n273zo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-25T06:20:57+00:00",
+      "summary": "Spain go into Saturday's Nations League match against England on a 38-match unbeaten run - and with a host of honours to their name. Why are they so good?",
+      "teams": [
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f8b243f5774a",
+      "title": "Zidane waited for France - now can he harness their star power?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20dxgpjng3o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-25T05:51:22+00:00",
+      "summary": "Zinedine Zidane says he waited for the France job, but what will he bring to the role after five years out of management?",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "f54b3e965322",
       "title": "Gakpo denies Klopp perfect start as Xavi’s Netherlands rescue draw against Germany",
@@ -269,18 +357,6 @@
       "is_injury_related": true
     },
     {
-      "id": "0ee11e38ba6f",
-      "title": "Send us your Scotland World Cup memories of Boston",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c04k6nqgxdpo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-24T09:13:20+00:00",
-      "summary": "BBC Scotland is looking for Scotland supporters to send us their videos, audio and memories of that magical week or so in Boston at the World Cup.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "c6df5af0ec87",
       "title": "Kaptein scores stunning long-range goal in Chelsea win",
       "url": "https://www.bbc.co.uk/sport/football/videos/cq783g70drkgo",
@@ -378,21 +454,6 @@
         "Portugal"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "c6a7ba4f373b",
-      "title": "Football Daily | Madrid, Mourinho and the fight for neutrality in row with Javier Tebas",
-      "url": "https://www.theguardian.com/football/2026/sep/23/madrid-mourinho-javier-tebas-football-daily-newsletter",
-      "source": "The Guardian",
-      "published_at": "2026-09-23T14:23:53+00:00",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! While football managers moaning about referees to deflect from their own teams’ shortcomings is nothing new, few do performative, wounded, righteous indignation with quite the same brooding intensity and petulance as José Mourin",
-      "teams": [
-        "Sweden",
-        "Spain",
-        "Argentina",
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "a9bd9d7a7495",
@@ -495,6 +556,18 @@
       "is_injury_related": true
     },
     {
+      "id": "bb56f57d8ef7",
+      "title": "Liverpool’s Aurélie Csillag on making women’s football more diverse: ‘Visibility starts at the top’",
+      "url": "https://www.theguardian.com/football/2026/sep/22/liverpool-aurelie-csillag-womens-football-more-diverse-moving-the-goalposts",
+      "source": "The Guardian",
+      "published_at": "2026-09-22T10:33:52+00:00",
+      "summary": "The Swiss international explains why she became involved in the club’s Beyond the Goalposts initiative “When I was young I never had a role model. I only watched men’s football, but when women’s football got bigger there were no really good black players. I also want to be a role",
+      "teams": [
+        "Switzerland"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "81bc3d01d3d0",
       "title": "‘Have some humanity’: Diogo Jota chants at Rúben Neves a wake-up call for Saudi Arabia",
       "url": "https://www.theguardian.com/football/2026/sep/22/cristiano-ronaldo-humanity-diogo-jota-chants-neves-saudi-pro-league",
@@ -528,18 +601,6 @@
       "summary": "Brighton have impressed in a goal-laden start to the season, in a league that remains a brutally strong attraction Get ready for the dopamine crash. And this one really is a proper autumn nosedive. The past 17 days up to and including Sunday’s cut-off gave us 30 Premier League ga",
       "teams": [
         "Turkey"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "04ed60b2e524",
-      "title": "How is Scotland squad shaping up for Pocognoli debut?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck8d38yz4yymo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-21T17:38:31+00:00",
-      "summary": "Sebastien Pocognoli's faces his first test as Scotland head coach against Slovenia on Saturday, but how are his squad shaping up for his debut?",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": true
     },
