@@ -1,13 +1,38 @@
 {
-  "generated_at": "2026-09-26T13:01:05.453525+00:00",
+  "generated_at": "2026-09-26T17:06:32.918934+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "f0756c603c1a",
+      "title": "Scotland rue missed chances in Slovenia draw",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6y9zzy79ewyo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-26T15:19:39+00:00",
+      "summary": "Sebastien Pocognoli's first match in charge of Scotland ends in a goalless draw against Slovenia as they are made to rue several missed chances in Ljubljana.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "87bfb2edd306",
+      "title": "Pocognoli’s reign as Scotland coach begins with stalemate in Slovenia",
+      "url": "https://www.theguardian.com/football/2026/sep/26/slovenia-scotland-nations-league-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-09-26T15:19:01+00:00",
+      "summary": "Sébastien Pocognoli grimaced on Friday when recalling his debut as an international player for Belgium. Alessandro del Piero and Italy discovered favourable opposition when preparing for the 2006 World Cup. Pocognoli will also look back, in time, at his first game as the manager ",
+      "teams": [
+        "Scotland",
+        "Belgium"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "175302af3ebc",
-      "title": "Salah to miss Egypt game because of artificial pitch",
+      "title": "Salah out of Egypt game because of artificial turf",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm1dllzgrdkro",
       "source": "BBC Sport",
       "published_at": "2026-09-26T12:57:14+00:00",
@@ -16,18 +41,6 @@
         "Egypt"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "efca593b175e",
-      "title": "Slovenia v Scotland: Nations League – live",
-      "url": "https://www.theguardian.com/football/live/2026/sep/26/slovenia-v-scotland-nations-league-live",
-      "source": "The Guardian",
-      "published_at": "2026-09-26T12:38:49+00:00",
-      "summary": "⚽ Updates from the Group B1 game; kick-off 2pm BST ⚽ Live scoreboard | Read Football Daily | Mail Barry Sebastien Pocognoli: “We had a good camp, we reached all the aspects that we wanted to reach on the pitch but also off the pitch,” said Scotland’s head coach during his press c",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "950fded450e7",
@@ -55,24 +68,24 @@
       "is_injury_related": true
     },
     {
-      "id": "7ea2ad235437",
-      "title": "Pocognoli may require patience to deliver on Scotland shake-up",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvkgw6g1kdg8o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-26T08:28:58+00:00",
-      "summary": "A new era begins for Scotland, with Sebastien Pocognoli leading a refreshed squad into the Nations League campaign.",
+      "id": "623d4e5cffa2",
+      "title": "Liverpool rehire Julian Ward as sporting director to replace Richard Hughes",
+      "url": "https://www.theguardian.com/football/2026/sep/26/liverpool-rehire-julian-ward-sporting-director-replace-richard-hughes",
+      "source": "The Guardian",
+      "published_at": "2026-09-26T08:20:40+00:00",
+      "summary": "Club’s owners FSG move swiftly to fill key post Move comes amid upheaval in Anfield hierarchy Liverpool have appointed Julian Ward as their sporting director for a second time after the departure of Richard Hughes to Al-Hilal. Ward, who was Liverpool’s sporting director for the 2",
       "teams": [
-        "Scotland"
+        "Saudi Arabia"
       ],
-      "is_injury_related": true
+      "is_injury_related": false
     },
     {
       "id": "5eb306a5b6e8",
-      "title": "‘Island girl’ Malard aims to ‘become a legend’ in Réunion with Bompastor",
+      "title": "‘Island girl’ Malard aims to become a legend with Bompastor at Chelsea",
       "url": "https://www.theguardian.com/football/2026/sep/26/womens-super-league-chelsea-girl-from-island-melvine-malard-sees-reunion-sonia-bompastor-way-become-legend",
       "source": "The Guardian",
       "published_at": "2026-09-26T07:00:30+00:00",
-      "summary": "She left her Indian Ocean island home at the urging of Chelsea’s now-manager – now they’re working together again in pursuit of a Stamford Bridge legacy It is rare to see Melvine Malard without a grin and she has a mountain of reasons to keep it that way. A wedding in June, a big",
+      "summary": "She left her Indian Ocean island home at the urging of her current manager and now they are working together again in pursuit of trophies at Stamford Bridge It is rare to see Melvine Malard without a grin and she has a mountain of reasons to keep it that way. A wedding in June, a",
       "teams": [
         "France"
       ],
@@ -217,19 +230,6 @@
       "is_injury_related": false
     },
     {
-      "id": "c203c37319f1",
-      "title": "Football Daily",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pcj8w1",
-      "source": "BBC Sport",
-      "published_at": "2026-09-25T15:36:00+00:00",
-      "summary": "Thomas Tuchel & Harry Kane speak ahead of England v Spain.",
-      "teams": [
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "5316f7ed96a8",
       "title": "Meet the USMNT’s next generation: a cheat sheet for 12 new players in camp",
       "url": "https://www.theguardian.com/football/2026/sep/25/usmnt-next-generation-guide",
@@ -254,18 +254,6 @@
       "is_injury_related": false
     },
     {
-      "id": "5f091bb927fb",
-      "title": "Wycombe sign ex-England striker Ings",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmj6436g4w03o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-25T14:17:37+00:00",
-      "summary": "Wycombe Wanderers sign former Burnley, Liverpool and England striker Danny Ings.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "c1e643c133a0",
       "title": "Football Daily | Will Spain bring more pain for Tuchel’s tired England?",
       "url": "https://www.theguardian.com/football/2026/sep/25/england-spain-football-daily-newsletter",
@@ -277,18 +265,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "fd6b91d1d33c",
-      "title": "New-look squad, but how will Pocognoli's Scotland line-up?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5zjzlr41m2vo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-25T13:21:22+00:00",
-      "summary": "Former Scotland forwards James McFadden and Pat Nevin try to guess who new head coach Sebastien Pocognoli will pick to start in Slovenia on Saturday.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "8a4213243d82",
@@ -328,33 +304,6 @@
       "is_injury_related": false
     },
     {
-      "id": "414cebbc2f4a",
-      "title": "You are the new Scotland boss - what would you do?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cje3reed6dx4o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-25T07:04:36+00:00",
-      "summary": "Put yourself in the shoes of the new Scotland head coach Sebastien Pocognoli as he picks his first XI.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f2017b1731b0",
-      "title": "De la Fuente brings insatiable Spain to England knowing World Cup is not enough",
-      "url": "https://www.theguardian.com/football/2026/sep/25/luis-de-la-fuente-spain-world-keep-us-winning",
-      "source": "The Guardian",
-      "published_at": "2026-09-25T07:00:44+00:00",
-      "summary": "Spain have won back-to-back major tournaments, but there is still one more to go to draw equal with feted team of 2008-2012 “I’m going to tell you a story,” Luis de la Fuente said. “As soon as the game finished on 19 July, before anyone had cooled down at all, just two or three m",
-      "teams": [
-        "Czech Republic",
-        "Spain",
-        "England",
-        "Croatia"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "a690813fa0c1",
       "title": "JJ Gabriel and why schoolboys are now a huge part of transfer market",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckeq8vq7rwe7o",
@@ -362,19 +311,6 @@
       "published_at": "2026-09-25T06:32:33+00:00",
       "summary": "BBC Sport explores why clubs at the top of English football are increasingly trading academy players and what the impact is on the youngsters themselves.",
       "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "b6cffb688f0c",
-      "title": "Education, Barcelona & Basque culture - why Spain are dominating football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1e5d2n273zo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-25T06:20:57+00:00",
-      "summary": "Spain go into Saturday's Nations League match against England on a 38-match unbeaten run - and with a host of honours to their name. Why are they so good?",
-      "teams": [
-        "Spain",
         "England"
       ],
       "is_injury_related": false
@@ -609,18 +545,6 @@
       "source": "BBC Sport",
       "published_at": "2026-09-21T09:00:55+00:00",
       "summary": "Watch highlights as Ryan Naderi's first-half goal earns Rangers a deserved Scottish Premiership victory at rivals Celtic.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "5c6cfc55ff1d",
-      "title": "SPFL highlights: Ayr & Stenhousemuir win as Stranraer make gains",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm4gj92n5qz8o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-21T08:07:31+00:00",
-      "summary": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2.",
       "teams": [
         "Scotland"
       ],
