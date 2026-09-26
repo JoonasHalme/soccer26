@@ -1,10 +1,60 @@
 {
-  "generated_at": "2026-09-26T17:06:32.918934+00:00",
+  "generated_at": "2026-09-26T19:50:55.875608+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "e3d40a676d54",
+      "title": "England v Spain: Nations League football – live",
+      "url": "https://www.theguardian.com/football/live/2026/sep/26/england-v-spain-nations-league-football-live-score-updates",
+      "source": "The Guardian",
+      "published_at": "2026-09-26T19:33:11+00:00",
+      "summary": "Nations League updates from the 7.45pm BST kick-off Live scoreboard | Follow us on Instagram and TikTok England are about to face the hardest challenge in international football , maybe at any level of the game. They are going to try to score against Spain. Spain conceded one goa",
+      "teams": [
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1fb8036a6a91",
+      "title": "USMNT v Peru live – analysis and updates from international friendly in Orlando",
+      "url": "https://www.theguardian.com/football/live/2026/sep/26/usmnt-peru-live-analysis-updates",
+      "source": "The Guardian",
+      "published_at": "2026-09-26T19:30:13+00:00",
+      "summary": "USA v Peru kicks off at 4.30 ET Cavan Sullivan, other young players could make debuts Sign up for our free newsletter for US readers Email Jeff with thoughts, questions and jokes This week, Mauricio Pochettino lamented not being “more involved” with the federation’s controversial",
+      "teams": [
+        "USA",
+        "Germany"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "bf76fee4e35e",
+      "title": "Messi’s exit leaves Argentina with impossible task of replacing their superhero | Jonathan Wilson",
+      "url": "https://www.theguardian.com/football/2026/sep/26/lionel-messi-exit-argentina-impossible-task-superhero",
+      "source": "The Guardian",
+      "published_at": "2026-09-26T19:00:43+00:00",
+      "summary": "When things are going awry, the Albiceleste will no longer be able to rely on their ultimate get-out clause It isn’t quite over yet. Lionel Messi will return a week on Wednesday for his formal farewell in a friendly against Benin, but, before that, Argentina face two games when t",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "8f9e5c67d8c3",
+      "title": "Gilmour catalyst, impressive Welsh, but same issue for Scotland?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqevwwnw10w9o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-26T17:05:53+00:00",
+      "summary": "BBC Sport Scotland picks out what we learned from Sebastien Pocognoli's first game in charge as Scotland drew with Slovenia.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "f0756c603c1a",
       "title": "Scotland rue missed chances in Slovenia draw",
@@ -92,31 +142,6 @@
       "is_injury_related": false
     },
     {
-      "id": "739d67c34de8",
-      "title": "How do England beat Spain, or even score against them? The data suggests crosses",
-      "url": "https://www.theguardian.com/football/2026/sep/26/how-do-england-beat-spain-or-even-score-against-them-the-data-suggests-crosses",
-      "source": "The Guardian",
-      "published_at": "2026-09-26T07:00:30+00:00",
-      "summary": "Thomas Tuchel wishes his team could play more like the world champions, but, as he put it, they may have to ‘embrace the chaos’ instead England are about to face the hardest challenge in international football, maybe at any level of the game. They are going to try to score agains",
-      "teams": [
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "3e68a83dca84",
-      "title": "Lamine Yamal: ‘Football is mechanised but players like me have that special spark’",
-      "url": "https://www.theguardian.com/football/2026/sep/26/lamine-yamal-football-special-spark-spain-world-cup-barcelona",
-      "source": "The Guardian",
-      "published_at": "2026-09-26T07:00:30+00:00",
-      "summary": "Spain and Barcelona wonderkid has won World Cup and European Championship but says there are no limits for his career Like the kid he is, Lamine Yamal just wanted to keep playing. This wasn’t Plaça Joan XXIII, wasn’t El Parque de Rocafonda either; it wasn’t the Mataró neighbourho",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "d32eaafca728",
       "title": "Do England have a problem against top-10 teams?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmr4v77zyr64o",
@@ -152,19 +177,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "2fd47a88f215",
-      "title": "Andy Robertson says players are ‘not to blame’ for Manchester City’s actions",
-      "url": "https://www.theguardian.com/football/2026/sep/25/andy-robertson-says-players-are-not-to-blame-for-manchester-citys-actions",
-      "source": "The Guardian",
-      "published_at": "2026-09-25T20:16:41+00:00",
-      "summary": "City found guilty of breaching Premier League rules Liverpool finished second to City in 2019 and 2022 The former Liverpool defender Andy Robertson believes trophy-winning Manchester City players should not have their achievements diminished or removed because of the actions of t",
-      "teams": [
-        "Scotland",
-        "Spain"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "b69536dd762e",
@@ -250,6 +262,18 @@
       "summary": "BBC Scotland charts the first tumultuous 100 days of Derek McInnes' tenure as Rangers manager.",
       "teams": [
         "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "5f091bb927fb",
+      "title": "Wycombe sign ex-England striker Ings",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmj6436g4w03o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-25T14:17:37+00:00",
+      "summary": "Wycombe Wanderers sign former Burnley, Liverpool and England striker Danny Ings.",
+      "teams": [
+        "England"
       ],
       "is_injury_related": false
     },
