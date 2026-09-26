@@ -1,35 +1,70 @@
 {
-  "generated_at": "2026-09-26T07:35:38.492438+00:00",
+  "generated_at": "2026-09-26T13:01:05.453525+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "afacf4d6ef87",
-      "title": "Manchester City verdict latest, England v Spain buildup, WSL and more – live",
-      "url": "https://www.theguardian.com/football/live/2026/sep/26/manchester-city-verdict-latest-england-v-spain-buildup-wsl-and-more-live",
-      "source": "The Guardian",
-      "published_at": "2026-09-26T07:30:16+00:00",
-      "summary": "Manchester City news and Nations League buildup Today’s games | Read Football Daily | Mail Emillia “This is not over of course. We still work on the principle of innocent until repeatedly proven guilty, pending mega-bucks final appeals. There could yet be a dramatic reversal at t",
+      "id": "175302af3ebc",
+      "title": "Salah to miss Egypt game because of artificial pitch",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm1dllzgrdkro",
+      "source": "BBC Sport",
+      "published_at": "2026-09-26T12:57:14+00:00",
+      "summary": "Egypt forward Mohamed Salah is left out of his nation's forthcoming match against South Sudan because it will be played on artificial turf.",
       "teams": [
-        "Spain",
-        "England"
+        "Egypt"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "efca593b175e",
+      "title": "Slovenia v Scotland: Nations League – live",
+      "url": "https://www.theguardian.com/football/live/2026/sep/26/slovenia-v-scotland-nations-league-live",
+      "source": "The Guardian",
+      "published_at": "2026-09-26T12:38:49+00:00",
+      "summary": "⚽ Updates from the Group B1 game; kick-off 2pm BST ⚽ Live scoreboard | Read Football Daily | Mail Barry Sebastien Pocognoli: “We had a good camp, we reached all the aspects that we wanted to reach on the pitch but also off the pitch,” said Scotland’s head coach during his press c",
+      "teams": [
+        "Scotland"
       ],
       "is_injury_related": false
     },
     {
-      "id": "739d67c34de8",
-      "title": "How do England beat Spain, or even score against them? The data suggests crosses",
-      "url": "https://www.theguardian.com/football/2026/sep/26/how-do-england-beat-spain-or-even-score-against-them-the-data-suggests-crosses",
+      "id": "950fded450e7",
+      "title": "‘I’m pretty sure I didn’t imagine it’: the little-known trio of high schoolers who made USMNT history",
+      "url": "https://www.theguardian.com/football/2026/sep/26/usmnt-teenagers-history-mike-slivinski-mark-jonas-nelson-vargas",
       "source": "The Guardian",
-      "published_at": "2026-09-26T07:00:30+00:00",
-      "summary": "Thomas Tuchel wishes his team could play more like the world champions, but he may have to, as he himself put it, ‘embrace the chaos’ instead England are about to face the hardest challenge in international football, maybe at any level of the game. They are going to try to score ",
+      "published_at": "2026-09-26T11:00:36+00:00",
+      "summary": "The idea of 16-year-olds like Cavan Sullivan playing for the USMNT was once unfathomable – until Mike Slivinski, Mark Jonas and Nelson Vargas appeared in a 1991 friendly If 16-year-old Cavan Sullivan takes the field for the US men’s national team in the coming days, he will join ",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "819b45cda24e",
+      "title": "Ngumoha not in England squad to face Spain",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqn744el41d8o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-26T10:27:29+00:00",
+      "summary": "Liverpool teenager Rio Ngumoha is not named in England's matchday squad for Saturday's Nations League opener against Spain.",
       "teams": [
         "Spain",
         "England"
       ],
-      "is_injury_related": false
+      "is_injury_related": true
+    },
+    {
+      "id": "7ea2ad235437",
+      "title": "Pocognoli may require patience to deliver on Scotland shake-up",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvkgw6g1kdg8o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-26T08:28:58+00:00",
+      "summary": "A new era begins for Scotland, with Sebastien Pocognoli leading a refreshed squad into the Nations League campaign.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "5eb306a5b6e8",
@@ -40,6 +75,19 @@
       "summary": "She left her Indian Ocean island home at the urging of Chelsea’s now-manager – now they’re working together again in pursuit of a Stamford Bridge legacy It is rare to see Melvine Malard without a grin and she has a mountain of reasons to keep it that way. A wedding in June, a big",
       "teams": [
         "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "739d67c34de8",
+      "title": "How do England beat Spain, or even score against them? The data suggests crosses",
+      "url": "https://www.theguardian.com/football/2026/sep/26/how-do-england-beat-spain-or-even-score-against-them-the-data-suggests-crosses",
+      "source": "The Guardian",
+      "published_at": "2026-09-26T07:00:30+00:00",
+      "summary": "Thomas Tuchel wishes his team could play more like the world champions, but, as he put it, they may have to ‘embrace the chaos’ instead England are about to face the hardest challenge in international football, maybe at any level of the game. They are going to try to score agains",
+      "teams": [
+        "Spain",
+        "England"
       ],
       "is_injury_related": false
     },
@@ -93,16 +141,15 @@
       "is_injury_related": false
     },
     {
-      "id": "e0f9d60f22b9",
-      "title": "Nations League: Kylian Mbappé injured after scoring France winner in Turkey",
-      "url": "https://www.theguardian.com/football/2026/sep/25/nations-league-roundup-turkey-france-kylian-mbappe-italy-belgium",
+      "id": "2fd47a88f215",
+      "title": "Andy Robertson says players are ‘not to blame’ for Manchester City’s actions",
+      "url": "https://www.theguardian.com/football/2026/sep/25/andy-robertson-says-players-are-not-to-blame-for-manchester-citys-actions",
       "source": "The Guardian",
-      "published_at": "2026-09-25T21:35:43+00:00",
-      "summary": "France beat 10-man Turkey 1-0 to start Zidane era Italy 0-2 Belgium, Georgia 0-1 Northern Ireland Kylian Mbappé limped off with an apparent knee injury, moments after scoring France’s winner against Turkey in the Nations League on Friday. The Real Madrid striker rifled in a low s",
+      "published_at": "2026-09-25T20:16:41+00:00",
+      "summary": "City found guilty of breaching Premier League rules Liverpool finished second to City in 2019 and 2022 The former Liverpool defender Andy Robertson believes trophy-winning Manchester City players should not have their achievements diminished or removed because of the actions of t",
       "teams": [
-        "Turkey",
-        "Belgium",
-        "France"
+        "Scotland",
+        "Spain"
       ],
       "is_injury_related": true
     },
@@ -195,20 +242,6 @@
       "is_injury_related": false
     },
     {
-      "id": "4cf67d2c0aae",
-      "title": "Mauricio Pochettino regrets not being ‘more involved’ with Balogun decision",
-      "url": "https://www.theguardian.com/football/2026/sep/25/pochettino-balogun-comments",
-      "source": "The Guardian",
-      "published_at": "2026-09-25T15:02:48+00:00",
-      "summary": "US striker had red card ban suspended for Belgium game Trump said he called Infantino asking for review Coach says ‘energy of everything’ changed in moment US men’s national team head coach Mauricio Pochettino has said he regrets not being “more involved” in the situation surroun",
-      "teams": [
-        "Bosnia & Herzegovina",
-        "USA",
-        "Belgium"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "5b7c2870aea1",
       "title": "From shaky start to statement wins - 100 days of McInnes at Rangers",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqd08xkm22reo",
@@ -258,18 +291,6 @@
       "is_injury_related": true
     },
     {
-      "id": "c7823f85a5b1",
-      "title": "Pocognoli deserves time but Scottish FA must also prove its credentials",
-      "url": "https://www.theguardian.com/football/2026/sep/25/sebastien-pocognoli-scotland-scottish-fa-slovenia",
-      "source": "The Guardian",
-      "published_at": "2026-09-25T13:13:04+00:00",
-      "summary": "Scotland’s unproven head coach represents a gamble made by an organisation that could do without another embarrassing episode If time is the commodity most cherished by a manager, Sébastien Pocognoli’s decision to lead Scotland is no surprise. Host nation status for Euro 2028 mea",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "8a4213243d82",
       "title": "'Workhorse' Koumas growing with Wales",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmed7jqjnz66o",
@@ -313,18 +334,6 @@
       "source": "BBC Sport",
       "published_at": "2026-09-25T07:04:36+00:00",
       "summary": "Put yourself in the shoes of the new Scotland head coach Sebastien Pocognoli as he picks his first XI.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "c3d20efc0ddb",
-      "title": "Scottish Premiership crowds break four million mark",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmy5zdrp54wlo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-25T07:00:45+00:00",
-      "summary": "Scottish Premiership crowds topped four million for the first time last season as the league continues to attract the highest per capita attendances in Europe.",
       "teams": [
         "Scotland"
       ],
@@ -381,18 +390,6 @@
         "France"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "1fad8337473f",
-      "title": "Bellamy wants more from Wales after loss to Portugal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c63eqkdnvkq8o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-24T22:28:33+00:00",
-      "summary": "Craig Bellamy believes there is \"more to come\" from his Wales side in the Nations League following their opening-match loss in Lisbon.",
-      "teams": [
-        "Portugal"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "15a41d127eb8",
@@ -470,18 +467,6 @@
       "is_injury_related": false
     },
     {
-      "id": "c84e62633ac3",
-      "title": "Carroll reveals he was sexually assaulted in 2021",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6grv7x544qro",
-      "source": "BBC Sport",
-      "published_at": "2026-09-24T12:18:04+00:00",
-      "summary": "Former England striker Andy Carroll reveals he was sexually assaulted in 2021, by a man who has subsequently been jailed for three years.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "c6df5af0ec87",
       "title": "Kaptein scores stunning long-range goal in Chelsea win",
       "url": "https://www.bbc.co.uk/sport/football/videos/cq783g70drkgo",
@@ -517,19 +502,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "cf8cebb924bd",
-      "title": "Scots recall 'versatile' Kerr & Thomas for World Cup play-offs",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c63d7ypd11ydo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-23T12:34:52+00:00",
-      "summary": "Sam Kerr and Martha Thomas are named in their first Scotland squad in almost a year for next month's World Cup round one play-offs against the Czech Republic.",
-      "teams": [
-        "Czech Republic",
-        "Scotland"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "b3e9973b7630",
