@@ -1,34 +1,76 @@
 {
-  "generated_at": "2026-09-27T13:54:08.536991+00:00",
+  "generated_at": "2026-09-27T18:18:57.710767+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "3308f211d779",
-      "title": "Listen: Sportsound with Callum Davidson, Willie Miller & Michael Stewart",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm",
-      "source": "BBC Sport",
-      "published_at": "2026-09-27T16:00:00+00:00",
-      "summary": "Comprehensive coverage of Scottish sport, including live and exclusive commentary.",
+      "id": "9f913076d91c",
+      "title": "Israel v Republic of Ireland, Norway v Portugal, Germany v Greece: Nations League – live",
+      "url": "https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-norway-portugal-germany-greece-nations-league-live",
+      "source": "The Guardian",
+      "published_at": "2026-09-27T18:10:52+00:00",
+      "summary": "Updates from 7.45pm BST kick-offs in Nations League Live scores | Email John | And follow us over on TikTok Germany v Greece starting lineups: Germany: Nübel - Vagnoman, Tah, Bisseck, Brown - Kimmich ©, Nmecha, Conté - Schade, Ebnoutalib, Adeyemi Continue reading...",
       "teams": [
+        "Germany",
+        "Norway",
+        "Portugal"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "1621675646b4",
+      "title": "Thomas Tuchel says it would be ‘madness’ to rest England players despite longer window",
+      "url": "https://www.theguardian.com/football/2026/sep/27/thomas-tuchel-england-players-longer-international-window-nations-league",
+      "source": "The Guardian",
+      "published_at": "2026-09-27T18:00:11+00:00",
+      "summary": "I don’t take calls from Premier League managers, he says England play Czechia in Prague on Tuesday Thomas Tuchel says it would be “madness” to allow his England players or the clubs to pick and choose their matches during the elongated Nations League window as he promised to go f",
+      "teams": [
+        "Czech Republic",
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "5ad80d952c9f",
+      "title": "James Trafford’s England dream burns with No 1 spot finally up for grabs again",
+      "url": "https://www.theguardian.com/football/2026/sep/27/james-trafford-england-no-1-nations-league",
+      "source": "The Guardian",
+      "published_at": "2026-09-27T18:00:11+00:00",
+      "summary": "The Leeds player was surprise starter against Spain but, after his solid display, Jordan Pickford’s grip may be loosening James Trafford looks genuinely affronted. The Leeds goalkeeper’s reaction borders on incredulity. Was it a season of frustration for him at Manchester City la",
+      "teams": [
+        "Spain",
+        "Jordan",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "a448b3d0de5b",
+      "title": "Podcast: What challenges will Swiss pose Scots in Nations League?",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pcrfj2",
+      "source": "BBC Sport",
+      "published_at": "2026-09-27T15:45:00+00:00",
+      "summary": "Richard Gordon and the team look ahead to Tuesday night's Nations League clash",
+      "teams": [
+        "Switzerland",
         "Scotland"
       ],
       "is_injury_related": false
     },
     {
-      "id": "a26a58a3c7ed",
-      "title": "Israel game goes ahead after Ireland players’ vote, WSL action and Isak returns to Liverpool – matchday live",
-      "url": "https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-england-spain-matchday-live",
-      "source": "The Guardian",
-      "published_at": "2026-09-27T13:39:16+00:00",
-      "summary": "The latest football news, reaction and discussion Today’s fixtures | And you can mail matchday live Scotland: Sebastien Pocognoli’s reign began with a 0-0 draw with Slovenia yesterday afternoon. It’s a decent first result for Steve Clarke’s successor and gives Scotland a platform",
+      "id": "25504183c6b5",
+      "title": "Tartan Army give Pocognoli cautious welcome",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9vgyrxmyjj0o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-27T15:25:35+00:00",
+      "summary": "Scotland fans appear to have mainly emerged positive from Sebastien Pocognoli's debut as head coach.",
       "teams": [
-        "Switzerland",
         "Scotland"
       ],
-      "is_injury_related": true
+      "is_injury_related": false
     },
     {
       "id": "cda498e19d3c",
@@ -182,18 +224,6 @@
       "is_injury_related": false
     },
     {
-      "id": "623d4e5cffa2",
-      "title": "Liverpool rehire Julian Ward as sporting director to replace Richard Hughes",
-      "url": "https://www.theguardian.com/football/2026/sep/26/liverpool-rehire-julian-ward-sporting-director-replace-richard-hughes",
-      "source": "The Guardian",
-      "published_at": "2026-09-26T22:08:31+00:00",
-      "summary": "Club’s owners FSG move swiftly to fill key post Move comes amid upheaval in Anfield hierarchy Liverpool have appointed Julian Ward as their sporting director for a second time after the departure of Richard Hughes to Al-Hilal. Ward, who was Liverpool’s sporting director for the 2",
-      "teams": [
-        "Saudi Arabia"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "270036fdbe37",
       "title": "Oyarzabal earns Spain Nations League win as England pay for Kane penalty miss",
       "url": "https://www.theguardian.com/football/2026/sep/26/england-spain-nations-league-match-report",
@@ -330,43 +360,6 @@
       "is_injury_related": false
     },
     {
-      "id": "b3ce0fbc3f50",
-      "title": "Celtic and Rangers contest closed doors sanctions",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw9800568e15o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-25T15:38:40+00:00",
-      "summary": "Celtic and Rangers appeal against the Scottish FA decision forcing both clubs to play their next home Scottish Cup ties behind closed doors.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "5b7c2870aea1",
-      "title": "From shaky start to statement wins - 100 days of McInnes at Rangers",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqd08xkm22reo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-25T14:29:57+00:00",
-      "summary": "BBC Scotland charts the first tumultuous 100 days of Derek McInnes' tenure as Rangers manager.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "c1e643c133a0",
-      "title": "Football Daily | Will Spain bring more pain for Tuchel’s tired England?",
-      "url": "https://www.theguardian.com/football/2026/sep/25/england-spain-football-daily-newsletter",
-      "source": "The Guardian",
-      "published_at": "2026-09-25T14:01:11+00:00",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Come Saturday, it will be 73 days since the pain and shame of Atlanta, when England, from a winning position in a World Cup semi-final, decided to do an England, and sit on their lead. What followed resembled a slow-motion crash",
-      "teams": [
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "481a4156625f",
       "title": "Kieron Dyer making waves at Southend after leaving ‘hooligan’ days and ‘deathbed’ behind",
       "url": "https://www.theguardian.com/football/2026/sep/25/kieron-dyer-southend-manager-interview",
@@ -430,18 +423,6 @@
       "is_injury_related": true
     },
     {
-      "id": "bc1fae74f9f6",
-      "title": "Unanswered questions for English teams after Women's Champions League returns",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm1e516z2y8qo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-24T13:19:53+00:00",
-      "summary": "Arsenal, Chelsea and Manchester City start bids for European glory in unconvincing fashion.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "4a7c81ac842f",
       "title": "England face world champions Spain as international break commences | Football Weekly – video",
       "url": "https://www.theguardian.com/football/video/2026/sep/24/england-face-world-champions-spain-as-international-break-commences-football-weekly",
@@ -451,18 +432,6 @@
       "teams": [
         "Spain",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "c6df5af0ec87",
-      "title": "Kaptein scores stunning long-range goal in Chelsea win",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq783g70drkgo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-24T08:38:27+00:00",
-      "summary": "Chelsea's Wieke Kaptein scores a \"glorious\" long-range goal in their 1-0 win against Austria Vienna in the Women's Champions League.",
-      "teams": [
-        "Austria"
       ],
       "is_injury_related": false
     },
@@ -565,18 +534,6 @@
         "Portugal"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "1261202ce53b",
-      "title": "'Alarming' - does WSL have a homegrown problem?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cew9nqnz9lno",
-      "source": "BBC Sport",
-      "published_at": "2026-09-22T06:40:41+00:00",
-      "summary": "The London City Lionesses raised eyebrows with no English players in their starting line-up against Manchester United, but is there a wider trend?",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "02c8dca34111",
