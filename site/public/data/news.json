@@ -1,13 +1,51 @@
 {
-  "generated_at": "2026-09-27T01:22:20.910748+00:00",
+  "generated_at": "2026-09-27T08:03:20.540281+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "a26a58a3c7ed",
+      "title": "Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live",
+      "url": "https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-england-spain-matchday-live",
+      "source": "The Guardian",
+      "published_at": "2026-09-27T07:44:44+00:00",
+      "summary": "The latest football news, reaction and discussion Today’s fixtures | And you can mail matchday live Republic of Ireland: Today’s Nations League fixture against Israel will go ahead after a “significant majority” of Ireland’s players voted to play. The game – an away fixture for I",
+      "teams": [
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d0b94d234198",
+      "title": "From turgid to thrusting - mixed start for new Scotland",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c67833k8dn0eo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-27T07:14:55+00:00",
+      "summary": "BBC Sport Scotland's Tom English reviews a mixed start to life as Scotland head coach for Sebastien Pocognoli as his side open their Nations League campaign with a goalless draw in Slovenia.",
+      "teams": [
+        "Scotland",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "03c4565d185b",
+      "title": "Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson",
+      "url": "https://www.theguardian.com/football/2026/sep/27/ever-feel-youve-been-cheated-consequences-could-be-profound-after-manchester-city-guilty-verdict",
+      "source": "The Guardian",
+      "published_at": "2026-09-27T07:00:57+00:00",
+      "summary": "Premier League could be hit hard by aftermath, while Manchester City fans may know they took 30 years to recover from a guilty verdict in 1906 So it turns out none of that was real. Nothing that happened in English football between 2009-10 and 2017-18 that involved Manchester Cit",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "5c4ed3ccec38",
-      "title": "Meet the new 55 minute England collapse, not the same as the old 55 minute England collapse | Barney Ronay",
+      "title": "Meet the new minute 55 England collapse, not the same as the old minute 55 England collapse | Barney Ronay",
       "url": "https://www.theguardian.com/football/2026/sep/27/england-spain-nations-league-meet-new-55-minute-collapse-not-same-as-old",
       "source": "The Guardian",
       "published_at": "2026-09-26T23:19:00+00:00",
@@ -182,19 +220,6 @@
       "is_injury_related": false
     },
     {
-      "id": "819b45cda24e",
-      "title": "Ngumoha not in England squad to face Spain",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqn744el41d8o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-26T10:27:29+00:00",
-      "summary": "Liverpool teenager Rio Ngumoha is not named in England's matchday squad for Saturday's Nations League opener against Spain.",
-      "teams": [
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "5eb306a5b6e8",
       "title": "‘Island girl’ Malard aims to become a legend with Bompastor at Chelsea",
       "url": "https://www.theguardian.com/football/2026/sep/26/womens-super-league-chelsea-girl-from-island-melvine-malard-sees-reunion-sonia-bompastor-way-become-legend",
@@ -255,32 +280,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "8ad78a447de4",
-      "title": "England v Spain, Azerbaijan GP and county cricket finale – follow with us",
-      "url": "https://www.theguardian.com/sport/2026/sep/25/england-v-spain-azerbaijan-gp-and-county-cricket-finale-follow-with-us",
-      "source": "The Guardian",
-      "published_at": "2026-09-25T16:27:53+00:00",
-      "summary": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports Continue reading...",
-      "teams": [
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "72588ddf824c",
-      "title": "Liverpool’s Cody Gakpo reflects on ‘tough summer … in football and life’",
-      "url": "https://www.theguardian.com/football/2026/sep/25/liverpool-cody-gakpo-tough-summer-manchester-city",
-      "source": "The Guardian",
-      "published_at": "2026-09-25T16:00:11+00:00",
-      "summary": "Gakpo’s second son died during pregnancy in June Dutch winger almost left Anfield for Manchester City Cody Gakpo has reflected on a “very tough” summer that ended with the collapse of a transfer to Manchester City, revealing Liverpool changed their minds about letting him join th",
-      "teams": [
-        "Germany",
-        "Netherlands"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "b3ce0fbc3f50",
