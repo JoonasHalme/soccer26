@@ -1,10 +1,50 @@
 {
-  "generated_at": "2026-09-27T22:04:21.196723+00:00",
+  "generated_at": "2026-09-28T00:41:08.571983+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "9715c1936ead",
+      "title": "Seventeen titles in five years - why Spain are a dominant force",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c39elvrye40o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-27T22:13:19+00:00",
+      "summary": "We look at what's behind Spain's dominance of football with 17 titles in five years across all age groups and in the men's and women's game.",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "140690335b8d",
+      "title": "Nations League: Greece stun Klopp’s Germany, Netherlands sink Serbia but Gakpo hurt",
+      "url": "https://www.theguardian.com/football/2026/sep/27/nations-league-germany-greece-serbia-netherlands-norway-portugal",
+      "source": "The Guardian",
+      "published_at": "2026-09-27T22:03:36+00:00",
+      "summary": "Jürgen Klopp ‘unbothered’ despite 1-0 home defeat Gakpo goes off in 2-1 win, Portugal edge past Norway Greece stunned Germany 1-0 in Augsburg to go top of their Nations League group and spoil Jürgen Klopp’s debut in the home dugout. Dimitrios Kourbelis scored the only goal in the",
+      "teams": [
+        "Germany",
+        "Netherlands",
+        "Norway",
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "90a6244bace2",
+      "title": "McTominay’s role a poser for Pocognoli as Scotland offer positives in Slovenia",
+      "url": "https://www.theguardian.com/football/2026/sep/27/scott-mctominay-sebastien-pocognoli-scotland-switzerland-nations-league",
+      "source": "The Guardian",
+      "published_at": "2026-09-27T21:30:15+00:00",
+      "summary": "New coach still learning about his squad as they prepare to face Switzerland with the Napoli midfielder expected to return in November An elongated international window does not prevent Sébastien Pocognoli from glancing towards the next one. Scott McTominay’s absence from Scotlan",
+      "teams": [
+        "Switzerland",
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "892cadaf07ca",
       "title": "Swedish duo help Liverpool to derby win over Everton",
@@ -332,19 +372,6 @@
       "is_injury_related": false
     },
     {
-      "id": "481a4156625f",
-      "title": "Kieron Dyer making waves at Southend after leaving ‘hooligan’ days and ‘deathbed’ behind",
-      "url": "https://www.theguardian.com/football/2026/sep/25/kieron-dyer-southend-manager-interview",
-      "source": "The Guardian",
-      "published_at": "2026-09-25T11:42:08+00:00",
-      "summary": "Day in former England midfielder’s company reveals a chess fan and hands-on manager who will not tolerate tardiness Kieron Dyer is recounting a tale from his time in Japan at the 2002 World Cup. “You have a lot of time on your hands,” he begins from behind his desk at Southend Un",
-      "teams": [
-        "Japan",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "dedf642de316",
       "title": "All done deals in September 2026",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo",
@@ -408,19 +435,6 @@
       "is_injury_related": true
     },
     {
-      "id": "a9bd9d7a7495",
-      "title": "Florian Wirtz does not look like a £116m player but it’s too early to write him off",
-      "url": "https://www.theguardian.com/football/2026/sep/23/florian-wirtz-liverpool-playmaker-opta",
-      "source": "The Guardian",
-      "published_at": "2026-09-23T13:33:48+00:00",
-      "summary": "The 23-year-old playmaker has been disappointing for Liverpool but has he really been that bad? By Opta Analyst When Florian Wirtz signed for Liverpool in the summer of 2025, there was only one logical assumption. The Premier League champions at the time had recruited one of the ",
-      "teams": [
-        "Germany",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "b3e9973b7630",
       "title": "Will anyone topple Infantino? How Fifa president is trying to cling on after World Cup sell-off debacle",
       "url": "https://www.theguardian.com/football/2026/sep/22/gianni-infantino-fifa-president-election-world-cup-sell-off-debacle",
@@ -458,19 +472,6 @@
       "is_injury_related": true
     },
     {
-      "id": "7db53dbb2353",
-      "title": "Édouard Mendy: ‘Winning Afcon was 10 times better than the Champions League’",
-      "url": "https://www.theguardian.com/football/2026/sep/22/edouard-mendy-winning-afcon-was-10-times-better-than-the-champions-league",
-      "source": "The Guardian",
-      "published_at": "2026-09-22T11:00:53+00:00",
-      "summary": "After retiring from international football, the former Chelsea keeper reflects on a Senegal career that – according to him – included two African titles “I had to stay patient and try to have a cool head because everywhere else there was fire,” Édouard Mendy remembers. In the cau",
-      "teams": [
-        "Morocco",
-        "Senegal"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "bb56f57d8ef7",
       "title": "Liverpool’s Aurélie Csillag on making women’s football more diverse: ‘Visibility starts at the top’",
       "url": "https://www.theguardian.com/football/2026/sep/22/liverpool-aurelie-csillag-womens-football-more-diverse-moving-the-goalposts",
@@ -479,19 +480,6 @@
       "summary": "The Swiss international explains why she became involved in the club’s Beyond the Goalposts initiative “When I was young I never had a role model. I only watched men’s football, but when women’s football got bigger there were no really good black players. I also want to be a role",
       "teams": [
         "Switzerland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "81bc3d01d3d0",
-      "title": "‘Have some humanity’: Diogo Jota chants at Rúben Neves a wake-up call for Saudi Arabia",
-      "url": "https://www.theguardian.com/football/2026/sep/22/cristiano-ronaldo-humanity-diogo-jota-chants-neves-saudi-pro-league",
-      "source": "The Guardian",
-      "published_at": "2026-09-22T09:05:53+00:00",
-      "summary": "With added coverage comes added scrutiny and there is a feeling that the league was too lenient when punishing chants about the late Portugal forward The good thing about Cristiano Ronaldo playing in your league is that he is one of the most famous footballers ever and when he sc",
-      "teams": [
-        "Saudi Arabia",
-        "Portugal"
       ],
       "is_injury_related": false
     },
