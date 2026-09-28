@@ -1,10 +1,150 @@
 {
-  "generated_at": "2026-09-28T06:46:29.223165+00:00",
+  "generated_at": "2026-09-28T15:21:45.488102+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "efb912ae6524",
+      "title": "Could Potter be England's next breakthrough star?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cry8z31pl534o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-28T13:33:23+00:00",
+      "summary": "With Sarina Wiegman set to name her latest England squad on Tuesday, there is one name everyone is talking about - Lexi Potter. Here is why.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "26cd376b34d1",
+      "title": "Konsa and O'Reilly doubts to face Czech Republic",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj62eyx9grzxo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-28T13:20:44+00:00",
+      "summary": "Ezri Konsa and Nico O'Reilly are both doubts to play in England's Nations League match against the Czech Republic on Tuesday night.",
+      "teams": [
+        "Czech Republic",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "099f913edb57",
+      "title": "The Manchester City verdict and England run world champions close – Football Weekly",
+      "url": "https://www.theguardian.com/football/video/2026/sep/28/the-manchester-city-verdict-and-england-run-world-champions-close-football-weekly",
+      "source": "The Guardian",
+      "published_at": "2026-09-28T13:00:13+00:00",
+      "summary": "Max Rushden is joined by Barry Glendenning, Barney Ronay, John Brewin and Kieran Maguire as Manchester City are found guilty of the vast majority of the disciplinary charges brought against them by the Premier League. Continue reading...",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "4faa49c71327",
+      "title": "Cape Verde hero Vozinha on newfound fame",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw4gr1vj845vo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-28T12:59:30+00:00",
+      "summary": "Cape Verde's World Cup hero Vozinha says he craves the \"peace and tranquillity\" of the life he led before he shot to fame.",
+      "teams": [
+        "Cape Verde"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "0490814c898e",
+      "title": "Bellamy sure Wales belong as Haaland threat looms",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6vgy934nvq4o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-28T12:08:16+00:00",
+      "summary": "Craig Bellamy expects Norway to be a force for years, but insists Wales have earned the right to be in Nations League A.",
+      "teams": [
+        "Norway"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d5cd737be7f1",
+      "title": "'Special feeling' as ex-Scotland defender Alexander returns to Preston",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c60m33n3nxgko",
+      "source": "BBC Sport",
+      "published_at": "2026-09-28T10:31:06+00:00",
+      "summary": "Preston North End appoint Bradford City boss Graham Alexander as their new manager.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "99a2f51cc31c",
+      "title": "Award-winner to fourth choice - what has gone wrong for Ramsdale?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy802y2n9o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-28T08:10:08+00:00",
+      "summary": "From challenging for the Premier League with Arsenal and playing for England, Aaron Ramsdale is now Southampton's fourth-choice goalkeeper.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "c6c0fe398922",
+      "title": "You are the Scotland boss - what would you change for Switzerland?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr9dwwn5zdyzo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-28T07:46:12+00:00",
+      "summary": "Put yourself in the shoes of the new Scotland head coach Sebastien Pocognoli as he picks his first home XI to face Switzerland.",
+      "teams": [
+        "Switzerland",
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b34114ec004d",
+      "title": "Arsène Wenger and Arsenal: 30 years on from appointment that changed English football",
+      "url": "https://www.theguardian.com/football/2026/sep/28/arsene-wenger-arsenal-30-years-on-from-transformation-english-football",
+      "source": "The Guardian",
+      "published_at": "2026-09-28T07:00:27+00:00",
+      "summary": "David Dein’s decision to hire the Frenchman ushered in an irreversible era of multiculturalism, giving birth to the Premier League we know today As feedback goes, even a character as relentlessly optimistic as David Dein might have considered the reaction to his bold managerial a",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "c6eb6588e5fd",
+      "title": "Data shows England made inroads against Spain but they must be more clinical | Andrew Beasley",
+      "url": "https://www.theguardian.com/football/2026/sep/28/england-spain-penalty-box-touches-nations-league",
+      "source": "The Guardian",
+      "published_at": "2026-09-28T07:00:27+00:00",
+      "summary": "Thomas Tuchel’s side had 36 touches in the Spain penalty area at Wembley but were given a lesson in taking chances England dominated Spain to an extent very few teams have in recent years. Sadly for them, not in terms of goals . Nor possession. But ownership of the ball is less i",
+      "teams": [
+        "Germany",
+        "Belgium",
+        "Spain",
+        "France",
+        "Argentina",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "e2a63f3aa6d0",
+      "title": "Podcast: Pocognoli v Clarke - what has changed for Scotland?",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pctbqh",
+      "source": "BBC Sport",
+      "published_at": "2026-09-28T07:00:00+00:00",
+      "summary": "The Pocognoli blueprint: progress, promise and Switzerland",
+      "teams": [
+        "Switzerland",
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "9715c1936ead",
       "title": "Seventeen titles in five years - why Spain are a dominant force",
@@ -58,20 +198,6 @@
       "is_injury_related": false
     },
     {
-      "id": "1621675646b4",
-      "title": "Thomas Tuchel resists ‘madness’ of calls to rest England players despite longer window",
-      "url": "https://www.theguardian.com/football/2026/sep/27/thomas-tuchel-england-players-longer-international-window-nations-league",
-      "source": "The Guardian",
-      "published_at": "2026-09-27T18:00:11+00:00",
-      "summary": "I don’t take calls from Premier League managers, he says England play Czechia in Prague on Tuesday Thomas Tuchel says it would be “madness” to allow his England players or the clubs to pick and choose their matches during the elongated Nations League window as he promised to go f",
-      "teams": [
-        "Czech Republic",
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "5ad80d952c9f",
       "title": "James Trafford’s England dream burns with No 1 spot finally up for grabs again",
       "url": "https://www.theguardian.com/football/2026/sep/27/james-trafford-england-no-1-nations-league",
@@ -86,17 +212,18 @@
       "is_injury_related": true
     },
     {
-      "id": "a448b3d0de5b",
-      "title": "Podcast: What challenges will Swiss pose Scots in Nations League?",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pcrfj2",
-      "source": "BBC Sport",
-      "published_at": "2026-09-27T15:45:00+00:00",
-      "summary": "Richard Gordon and the team look ahead to Tuesday night's Nations League clash",
+      "id": "1621675646b4",
+      "title": "Thomas Tuchel resists ‘madness’ of calls to rest England players despite longer window",
+      "url": "https://www.theguardian.com/football/2026/sep/27/thomas-tuchel-england-players-longer-international-window-nations-league",
+      "source": "The Guardian",
+      "published_at": "2026-09-27T18:00:11+00:00",
+      "summary": "I don’t take calls from Premier League managers, he says England play Czechia in Prague on Tuesday Thomas Tuchel says it would be “madness” to allow his England players or the clubs to pick and choose their matches during the elongated Nations League window as he promised to go f",
       "teams": [
-        "Switzerland",
-        "Scotland"
+        "Czech Republic",
+        "Spain",
+        "England"
       ],
-      "is_injury_related": false
+      "is_injury_related": true
     },
     {
       "id": "cda498e19d3c",
@@ -122,18 +249,6 @@
         "Scotland"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "dba5dfbc803c",
-      "title": "Injured Isak returns to Liverpool from Sweden duty",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxyvzryd6ne5o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-27T11:26:42+00:00",
-      "summary": "Liverpool striker Alexander Isak returns to his club after picking up a minor injury while on international duty with Sweden.",
-      "teams": [
-        "Sweden"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "5030a64ab720",
@@ -249,19 +364,6 @@
       "is_injury_related": true
     },
     {
-      "id": "ab8dd2042767",
-      "title": "Who made an uncharacteristic error? England player ratings v Spain",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmy0zz2ylr5no",
-      "source": "BBC Sport",
-      "published_at": "2026-09-26T20:42:33+00:00",
-      "summary": "England were beaten 3-2 in an entertaining game by world champions Spain in the Nations League - here's how BBC Sport rated the Three Lions' players.",
-      "teams": [
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "bf76fee4e35e",
       "title": "Messi’s exit leaves Argentina with impossible task of replacing their superhero | Jonathan Wilson",
       "url": "https://www.theguardian.com/football/2026/sep/26/lionel-messi-exit-argentina-impossible-task-superhero",
@@ -311,41 +413,16 @@
       "is_injury_related": true
     },
     {
-      "id": "175302af3ebc",
-      "title": "Salah out of Egypt game because of artificial turf",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm1dllzgrdkro",
-      "source": "BBC Sport",
-      "published_at": "2026-09-26T12:57:14+00:00",
-      "summary": "Egypt forward Mohamed Salah is left out of his nation's forthcoming match against South Sudan because it will be played on artificial turf.",
-      "teams": [
-        "Egypt"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "5eb306a5b6e8",
-      "title": "‘Island girl’ Malard aims to become a legend with Bompastor at Chelsea",
-      "url": "https://www.theguardian.com/football/2026/sep/26/womens-super-league-chelsea-girl-from-island-melvine-malard-sees-reunion-sonia-bompastor-way-become-legend",
+      "id": "3e68a83dca84",
+      "title": "Lamine Yamal: ‘Football is mechanised but players like me have that special spark’",
+      "url": "https://www.theguardian.com/football/2026/sep/26/lamine-yamal-football-special-spark-spain-world-cup-barcelona",
       "source": "The Guardian",
       "published_at": "2026-09-26T07:00:30+00:00",
-      "summary": "She left her Indian Ocean island home at the urging of her current manager and now they are working together again in pursuit of trophies at Stamford Bridge It is rare to see Melvine Malard without a grin and she has a mountain of reasons to keep it that way. A wedding in June, a",
+      "summary": "Spain and Barcelona wonderkid has won World Cup and European Championship but says there are no limits for his career Like the kid he is, Lamine Yamal just wanted to keep playing. This wasn’t Plaça Joan XXIII, wasn’t El Parque de Rocafonda either; it wasn’t the Mataró neighbourho",
       "teams": [
-        "France"
+        "Spain"
       ],
-      "is_injury_related": false
-    },
-    {
-      "id": "d32eaafca728",
-      "title": "Do England have a problem against top-10 teams?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmr4v77zyr64o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-26T06:41:39+00:00",
-      "summary": "As England prepare to take on Spain in their opening Nations League match, BBC Sport takes a look at whether they have a problem when faced with teams in the world top 10.",
-      "teams": [
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": false
+      "is_injury_related": true
     },
     {
       "id": "1add419318e0",
@@ -410,19 +487,6 @@
       "is_injury_related": true
     },
     {
-      "id": "4a7c81ac842f",
-      "title": "England face world champions Spain as international break commences | Football Weekly – video",
-      "url": "https://www.theguardian.com/football/video/2026/sep/24/england-face-world-champions-spain-as-international-break-commences-football-weekly",
-      "source": "The Guardian",
-      "published_at": "2026-09-24T13:17:49+00:00",
-      "summary": "Max Rushden is joined by Barry Glendenning, Seb Hutchinson and Paul Watson as the international break begins Continue reading...",
-      "teams": [
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "a05016ad73fc",
       "title": "Christian Eriksen leaves Wolfsburg by mutual consent after on-pitch collapse in June",
       "url": "https://www.theguardian.com/football/2026/sep/23/christian-eriksen-leaves-wolfsburg-mutual-consent-denmark",
@@ -480,18 +544,6 @@
       "summary": "The Swiss international explains why she became involved in the club’s Beyond the Goalposts initiative “When I was young I never had a role model. I only watched men’s football, but when women’s football got bigger there were no really good black players. I also want to be a role",
       "teams": [
         "Switzerland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "02c8dca34111",
-      "title": "WSL talking points: Arsenal’s attacking woes and Goodwin makes England case",
-      "url": "https://www.theguardian.com/football/2026/sep/21/wsl-talking-points-arsenal-isobel-goodwin-england",
-      "source": "The Guardian",
-      "published_at": "2026-09-21T11:00:18+00:00",
-      "summary": "Gunners are held to second home draw in two weeks, while Spurs smash Palace 7-0 to maintain strong start After being unable to find a way through Crystal Palace’s backline last time out, Arsenal were again frustrated at home in a draw with Manchester United on Saturday and Renée ",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
