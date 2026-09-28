@@ -1,18 +1,34 @@
 {
-  "generated_at": "2026-09-28T15:21:45.488102+00:00",
+  "generated_at": "2026-09-28T21:55:10.088478+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "efb912ae6524",
-      "title": "Could Potter be England's next breakthrough star?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cry8z31pl534o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-28T13:33:23+00:00",
-      "summary": "With Sarina Wiegman set to name her latest England squad on Tuesday, there is one name everyone is talking about - Lexi Potter. Here is why.",
+      "id": "3f684c04ad36",
+      "title": "Belgium 0-1 France, Turkey 1-4 Italy and more: Nations League – as it happened",
+      "url": "https://www.theguardian.com/football/live/2026/sep/28/belgium-v-france-northern-ireland-v-hungary-and-more-nations-league-live",
+      "source": "The Guardian",
+      "published_at": "2026-09-28T21:12:59+00:00",
+      "summary": "Michael Olise earned France victory in Brussels and Italy bounced back with a big win over Turkey The teams are out! We’ll have the anthems now. There really is nothing that holds a candle to Il Canto degli Italiani , in my book. There is some sort of delay in Brussels, where nei",
       "teams": [
+        "Turkey",
+        "Belgium",
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "4e8e872b71f7",
+      "title": "Thomas Tuchel resists change against Czechia despite England defensive errors",
+      "url": "https://www.theguardian.com/football/2026/sep/28/thomas-tuchel-czechia-england-nations-league-spain",
+      "source": "The Guardian",
+      "published_at": "2026-09-28T20:00:43+00:00",
+      "summary": "‘We defended well [v Spain] but had individual mistakes’ Nico O’Reilly and Ezri Konsa are injury doubts for match Thomas Tuchel will resist making drastic changes to his defence despite England going six games without a clean sheet before facing Czechia in the Nations League on T",
+      "teams": [
+        "Czech Republic",
+        "Spain",
         "England"
       ],
       "is_injury_related": true
@@ -22,10 +38,62 @@
       "title": "Konsa and O'Reilly doubts to face Czech Republic",
       "url": "https://www.bbc.co.uk/sport/football/articles/cj62eyx9grzxo",
       "source": "BBC Sport",
-      "published_at": "2026-09-28T13:20:44+00:00",
+      "published_at": "2026-09-28T19:36:32+00:00",
       "summary": "Ezri Konsa and Nico O'Reilly are both doubts to play in England's Nations League match against the Czech Republic on Tuesday night.",
       "teams": [
         "Czech Republic",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "76afbd825562",
+      "title": "Defensive flux gives Tuchel headache but Alexander-Arnold could be remedy | Jacob Steinberg",
+      "url": "https://www.theguardian.com/football/2026/sep/28/thomas-tuchel-england-trent-alexander-arnold-nations-league",
+      "source": "The Guardian",
+      "published_at": "2026-09-28T16:45:04+00:00",
+      "summary": "Chopping and changing the back four has been a big feature for England this year and the Real Madrid man could be a solution England ended 2025 protected by a shield of deceptive strength. They went through qualifying for the World&nbsp;Cup without conceding a goal and secured a ",
+      "teams": [
+        "Spain",
+        "Argentina",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "331304e8e231",
+      "title": "Football Daily | Manchester City come out swinging haymakers after charges galore",
+      "url": "https://www.theguardian.com/football/2026/sep/28/manchester-city-charges-football-daily",
+      "source": "The Guardian",
+      "published_at": "2026-09-28T16:12:28+00:00",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Football Daily wasn’t alone in spending the weekend wondering if we might have a legal case against Manchester City, while pondering what fiscal value we’d put on the mild disappointment of seeing our team lose the 2014 Fizzy (n",
+      "teams": [
+        "Belgium"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "edfdc1e6fd31",
+      "title": "The Nations League is a welcome example of soccer done well",
+      "url": "https://www.theguardian.com/football/2026/sep/28/nations-league-uefa-england-spain",
+      "source": "The Guardian",
+      "published_at": "2026-09-28T15:15:37+00:00",
+      "summary": "The tournament was treated with skepticism when it was introduced in 2018, but it shows that sometimes administrators get things right Sign up for our free newsletter here England’s first game after the 2022 World Cup was a 2-1 win away over Italy. Their first game after the 2018",
+      "teams": [
+        "Spain",
+        "Norway",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "efb912ae6524",
+      "title": "Could Potter be England's next breakthrough star?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cry8z31pl534o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-28T13:33:23+00:00",
+      "summary": "With Sarina Wiegman set to name her latest England squad on Tuesday, there is one name everyone is talking about - Lexi Potter. Here is why.",
+      "teams": [
         "England"
       ],
       "is_injury_related": true
@@ -44,7 +112,7 @@
     },
     {
       "id": "4faa49c71327",
-      "title": "Cape Verde hero Vozinha on newfound fame",
+      "title": "'I've lost my peace' - Cape Verde hero Vozinha on newfound fame",
       "url": "https://www.bbc.co.uk/sport/football/articles/cw4gr1vj845vo",
       "source": "BBC Sport",
       "published_at": "2026-09-28T12:59:30+00:00",
@@ -68,7 +136,7 @@
     },
     {
       "id": "d5cd737be7f1",
-      "title": "'Special feeling' as ex-Scotland defender Alexander returns to Preston",
+      "title": "Preston appoint former Scotland player Alexander",
       "url": "https://www.bbc.co.uk/sport/football/articles/c60m33n3nxgko",
       "source": "BBC Sport",
       "published_at": "2026-09-28T10:31:06+00:00",
@@ -76,11 +144,11 @@
       "teams": [
         "Scotland"
       ],
-      "is_injury_related": true
+      "is_injury_related": false
     },
     {
       "id": "99a2f51cc31c",
-      "title": "Award-winner to fourth choice - what has gone wrong for Ramsdale?",
+      "title": "Award winner to fourth choice - what has gone wrong for Ramsdale?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgy802y2n9o",
       "source": "BBC Sport",
       "published_at": "2026-09-28T08:10:08+00:00",
@@ -133,19 +201,6 @@
       "is_injury_related": false
     },
     {
-      "id": "e2a63f3aa6d0",
-      "title": "Podcast: Pocognoli v Clarke - what has changed for Scotland?",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pctbqh",
-      "source": "BBC Sport",
-      "published_at": "2026-09-28T07:00:00+00:00",
-      "summary": "The Pocognoli blueprint: progress, promise and Switzerland",
-      "teams": [
-        "Switzerland",
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "9715c1936ead",
       "title": "Seventeen titles in five years - why Spain are a dominant force",
       "url": "https://www.bbc.co.uk/sport/football/articles/c39elvrye40o",
@@ -173,19 +228,6 @@
       "is_injury_related": false
     },
     {
-      "id": "90a6244bace2",
-      "title": "McTominay’s role a poser for Pocognoli as Scotland offer positives in Slovenia",
-      "url": "https://www.theguardian.com/football/2026/sep/27/scott-mctominay-sebastien-pocognoli-scotland-switzerland-nations-league",
-      "source": "The Guardian",
-      "published_at": "2026-09-27T21:30:15+00:00",
-      "summary": "New coach still learning about his squad as they prepare to face Switzerland with the Napoli midfielder expected to return in November An elongated international window does not prevent Sébastien Pocognoli from glancing towards the next one. Scott McTominay’s absence from Scotlan",
-      "teams": [
-        "Switzerland",
-        "Scotland"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "892cadaf07ca",
       "title": "Swedish duo help Liverpool to derby win over Everton",
       "url": "https://www.bbc.co.uk/sport/football/videos/c65ywngpw59yo",
@@ -198,20 +240,6 @@
       "is_injury_related": false
     },
     {
-      "id": "5ad80d952c9f",
-      "title": "James Trafford’s England dream burns with No 1 spot finally up for grabs again",
-      "url": "https://www.theguardian.com/football/2026/sep/27/james-trafford-england-no-1-nations-league",
-      "source": "The Guardian",
-      "published_at": "2026-09-27T18:00:11+00:00",
-      "summary": "The Leeds player was surprise starter against Spain but, after his solid display, Jordan Pickford’s grip may be loosening James Trafford looks genuinely affronted. The Leeds goalkeeper’s reaction borders on incredulity. Was it a season of frustration for him at Manchester City la",
-      "teams": [
-        "Spain",
-        "Jordan",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "1621675646b4",
       "title": "Thomas Tuchel resists ‘madness’ of calls to rest England players despite longer window",
       "url": "https://www.theguardian.com/football/2026/sep/27/thomas-tuchel-england-players-longer-international-window-nations-league",
@@ -221,6 +249,20 @@
       "teams": [
         "Czech Republic",
         "Spain",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "5ad80d952c9f",
+      "title": "James Trafford’s England dream burns with No 1 spot finally up for grabs again",
+      "url": "https://www.theguardian.com/football/2026/sep/27/james-trafford-england-no-1-nations-league",
+      "source": "The Guardian",
+      "published_at": "2026-09-27T18:00:11+00:00",
+      "summary": "The Leeds player was surprise starter against Spain but, after his solid display, Jordan Pickford’s grip may be loosening James Trafford looks genuinely affronted. The Leeds goalkeeper’s reaction borders on incredulity. Was it a season of frustration for him at Manchester City la",
+      "teams": [
+        "Spain",
+        "Jordan",
         "England"
       ],
       "is_injury_related": true
@@ -261,18 +303,6 @@
         "USA"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "2780485b554e",
-      "title": "In playful moments, the USMNT’s new youth movement is already paying off",
-      "url": "https://www.theguardian.com/football/2026/sep/27/usa-peru-soccer-justin-ellis-cavan-sullivan-julian-hall",
-      "source": "The Guardian",
-      "published_at": "2026-09-27T09:00:01+00:00",
-      "summary": "After a crushing World Cup exit, 11 debutants and two teenage scorers are giving the program renewed verve Subscribe to our free newsletter for US soccer fans Follow Guardian Soccer on Instagram and TikTok The fans who witnessed the United States’ 4-1 thrashing of Peru in Orlando",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "d0b94d234198",
@@ -326,18 +356,6 @@
       "is_injury_related": false
     },
     {
-      "id": "21da8eebc3f5",
-      "title": "USA thrash Peru as teenage newcomers shine in first step toward 2030",
-      "url": "https://www.theguardian.com/football/2026/sep/26/usmnt-peru-cavan-sullivan-2030-world-cup-cycle",
-      "source": "The Guardian",
-      "published_at": "2026-09-26T22:42:32+00:00",
-      "summary": "Eleven players make US debuts in Orlando Sullivan, 16, starts in youngest US appearance in years Ellis and Hall score as Pochettino’s new faces impress Playing in their first match of the 2030 World Cup cycle, the US men’s national team crushed Peru 4-1 in at Orlando’s Inter&amp;",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "4d103a0f4433",
       "title": "England embrace the chaos - but control also needed to win big prizes",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqx2zz6d5716o",
@@ -376,18 +394,6 @@
       "is_injury_related": true
     },
     {
-      "id": "8f9e5c67d8c3",
-      "title": "Gilmour catalyst, impressive Welsh, but same issue for Scotland?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqevwwnw10w9o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-26T17:05:53+00:00",
-      "summary": "BBC Sport Scotland picks out what we learned from Sebastien Pocognoli's first game in charge as Scotland drew with Slovenia.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "f0756c603c1a",
       "title": "Scotland rue missed chances in Slovenia draw",
       "url": "https://www.bbc.co.uk/sport/football/videos/c6y9zzy79ewyo",
@@ -398,19 +404,6 @@
         "Scotland"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "87bfb2edd306",
-      "title": "Pocognoli’s reign as Scotland coach begins with stalemate in Slovenia",
-      "url": "https://www.theguardian.com/football/2026/sep/26/slovenia-scotland-nations-league-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-09-26T15:19:01+00:00",
-      "summary": "Sébastien Pocognoli grimaced on Friday when recalling his debut as an international player for Belgium. Alessandro del Piero and Italy discovered favourable opposition when preparing for the 2006 World Cup. Pocognoli will also look back, in time, at his first game as the manager ",
-      "teams": [
-        "Scotland",
-        "Belgium"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "3e68a83dca84",
@@ -449,6 +442,19 @@
       "is_injury_related": false
     },
     {
+      "id": "481a4156625f",
+      "title": "Kieron Dyer making waves at Southend after leaving ‘hooligan’ days and ‘deathbed’ behind",
+      "url": "https://www.theguardian.com/football/2026/sep/25/kieron-dyer-southend-manager-interview",
+      "source": "The Guardian",
+      "published_at": "2026-09-25T11:42:08+00:00",
+      "summary": "Day in former England midfielder’s company reveals a chess fan and hands-on manager who will not tolerate tardiness Kieron Dyer is recounting a tale from his time in Japan at the 2002 World Cup. “You have a lot of time on your hands,” he begins from behind his desk at Southend Un",
+      "teams": [
+        "Japan",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "dedf642de316",
       "title": "All done deals in September 2026",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo",
@@ -459,32 +465,6 @@
         "Scotland"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "cd4db0231ca0",
-      "title": "Raphinha: ‘In my head I was leaving Barça, but a few small words can change you’",
-      "url": "https://www.theguardian.com/football/2026/sep/24/raphinha-barcelona-interview-la-liga-no9",
-      "source": "The Guardian",
-      "published_at": "2026-09-24T17:00:25+00:00",
-      "summary": "Two years ago the Brazilian thought his time at Barcelona was ending but, two La Liga titles later, he is now captain and the most potent No 9 in Europe For once, Raphael Dias Belloli puts the brakes on. The man who seems to be in perpetual motion, a footballer forever on fast fo",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "fcbdedcd1ca0",
-      "title": "Football Daily | Pints and points: the arguments for and against booze at football matches",
-      "url": "https://www.theguardian.com/football/2026/sep/24/pints-points-arguments-for-against-booze-football-daily",
-      "source": "The Guardian",
-      "published_at": "2026-09-24T15:08:57+00:00",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Considering he is a lifelong Everton fan, it’s no surprise that Andy Burnham seems to be in favour of allowing fans to drink Tin at football matches . Bouts of boardroom turmoil, points deductions and assorted relegation battles",
-      "teams": [
-        "Argentina",
-        "DR Congo",
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "a05016ad73fc",
@@ -534,18 +514,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "bb56f57d8ef7",
-      "title": "Liverpool’s Aurélie Csillag on making women’s football more diverse: ‘Visibility starts at the top’",
-      "url": "https://www.theguardian.com/football/2026/sep/22/liverpool-aurelie-csillag-womens-football-more-diverse-moving-the-goalposts",
-      "source": "The Guardian",
-      "published_at": "2026-09-22T10:33:52+00:00",
-      "summary": "The Swiss international explains why she became involved in the club’s Beyond the Goalposts initiative “When I was young I never had a role model. I only watched men’s football, but when women’s football got bigger there were no really good black players. I also want to be a role",
-      "teams": [
-        "Switzerland"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "c496bbb2418a",
