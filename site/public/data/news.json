@@ -1,10 +1,67 @@
 {
-  "generated_at": "2026-09-29T15:43:58.616628+00:00",
+  "generated_at": "2026-09-29T20:42:45.039535+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "ab1b3314b8de",
+      "title": "Who continues to show how important they are? - England player ratings",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6g7kldr9378o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-29T20:39:46+00:00",
+      "summary": "How the England players rated following their Nations League match.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f801a598f3da",
+      "title": "Czechia v England: Nations League football – live",
+      "url": "https://www.theguardian.com/football/live/2026/sep/29/czechia-v-england-nations-league-football-live-score-updates",
+      "source": "The Guardian",
+      "published_at": "2026-09-29T20:34:16+00:00",
+      "summary": "⚽️ Nations League updates, 7.45pm BST kick-off in Prague ⚽️ Live scores | Follow us over on TikTok and Instagram James Trafford looks genuinely affronted. The Leeds goalkeeper’s reaction borders on incredulity. Was it a season of frustration for him at Manchester City last time o",
+      "teams": [
+        "Czech Republic",
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "f4c23d736b05",
+      "title": "Scotland v Switzerland, Spain v Croatia, and more: Nations League – live",
+      "url": "https://www.theguardian.com/football/live/2026/sep/29/scotland-v-switzerland-spain-v-croatia-and-more-nations-league-live",
+      "source": "The Guardian",
+      "published_at": "2026-09-29T20:33:40+00:00",
+      "summary": "⚽️ Nations League updates from the 7.45pm BST kick-offs ⚽️ Live scores | Follow Czechia v England | And mail Taha It takes the golden boy just seconds. Spain work it from left to right, the ball finding Lamine Yamal by the edge of the area, and he drifts in from the wing to sweep",
+      "teams": [
+        "Czech Republic",
+        "Switzerland",
+        "Scotland",
+        "Spain",
+        "England",
+        "Croatia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "13120e091767",
+      "title": "USWNT roster: Ashley Sanchez earns the call for friendlies v Spain",
+      "url": "https://www.theguardian.com/football/2026/sep/29/uswnt-roster-spain-ashley-sanchez-mallory-swanson-naomi-girma",
+      "source": "The Guardian",
+      "published_at": "2026-09-29T17:00:16+00:00",
+      "summary": "Sanchez, NWSL’s top scorer, returns after years away Naomi Girma called up despite injury absence for Chelsea Mallory Swanson earns recall after Olympic heroics Naomi Girma and Sam Coffey are returning to the United States women’s national team, with their pair of WSL standouts n",
+      "teams": [
+        "USA",
+        "Spain",
+        "Argentina"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "edf8ab15fc23",
       "title": "England's Palmer a 'victim' of 'sick' schedule, says PFA chief",
@@ -16,6 +73,18 @@
         "England"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "9adbb6efa129",
+      "title": "Football Daily | Oh Jürgen! Mixed fortunes for the Nations League’s fab four",
+      "url": "https://www.theguardian.com/football/2026/sep/29/football-daily-newsletter-nations-league-germany-netherlands-france-italy",
+      "source": "The Guardian",
+      "published_at": "2026-09-29T15:12:36+00:00",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! This time last week, Football Daily romanticised a continental renaissance of sorts. The arrival of Jürgen Klopp, Zinedine Zidane and Xavi Hernández on the international management scene piqued our interest . We were also impres",
+      "teams": [
+        "Saudi Arabia"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "fe2ba814e358",
@@ -108,7 +177,7 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/ck1l63y88e3vo",
       "source": "BBC Sport",
       "published_at": "2026-09-29T09:00:03+00:00",
-      "summary": "Ceri Holland is one of seven players who will miss out through injury when a depleted Wales squad take on Albania in their Women's World Cup play-off semi-final next month.",
+      "summary": "Ceri Holland is among seven players ruled out when a depleted Wales face Albania in their World Cup play-off semi-final next month.",
       "teams": [
         "Netherlands"
       ],
@@ -139,32 +208,6 @@
       "is_injury_related": true
     },
     {
-      "id": "1fa096e47c8d",
-      "title": "Listen: Will Scotland shock the Swiss at Hampden?",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pczd8v",
-      "source": "BBC Sport",
-      "published_at": "2026-09-29T07:00:00+00:00",
-      "summary": "Can Pocognoli's Scotland upset World Cup quarter-finalists Switzerland?",
-      "teams": [
-        "Switzerland",
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "26cd376b34d1",
-      "title": "O'Reilly to miss Czech Republic game but Konsa in squad",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj62eyx9grzxo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-29T06:58:53+00:00",
-      "summary": "Nico O'Reilly is ruled out of England's Nations League match against the Czech Republic on Tuesday night bu Ezri Konsa is set to be in the squad.",
-      "teams": [
-        "Czech Republic",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "4705427854c1",
       "title": "Czech Republic ready for Wembley 30 years after Euro '96",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yeqj0g4ygo",
@@ -174,19 +217,6 @@
       "teams": [
         "Czech Republic",
         "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "d66c7ba303da",
-      "title": "‘Football with a smile’: Pocognoli wants happy Gilmour to tee up Scotland success",
-      "url": "https://www.theguardian.com/football/2026/sep/28/billy-gilmour-sebastien-pocognoli-scotland-nations-league",
-      "source": "The Guardian",
-      "published_at": "2026-09-28T22:54:38+00:00",
-      "summary": "New Scotland manager says midfielder ‘has to take risks’ Players warned they need consistent game time for clubs Sébastien Pocognoli hopes a “smiling” Billy Gilmour will be central to Scotland’s hopes of improvement following a bruising World Cup. Gilmour excelled in the second h",
-      "teams": [
-        "Switzerland",
-        "Scotland"
       ],
       "is_injury_related": true
     },
@@ -202,20 +232,6 @@
         "Sweden",
         "Belgium",
         "France"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "4e8e872b71f7",
-      "title": "Thomas Tuchel resists change against Czechia despite England defensive errors",
-      "url": "https://www.theguardian.com/football/2026/sep/28/thomas-tuchel-czechia-england-nations-league-spain",
-      "source": "The Guardian",
-      "published_at": "2026-09-28T20:00:43+00:00",
-      "summary": "‘We defended well [v Spain] but had individual mistakes’ Nico O’Reilly and Ezri Konsa are injury doubts for match Thomas Tuchel will resist making drastic changes to his defence despite England going six games without a clean sheet before facing Czechia in the Nations League on T",
-      "teams": [
-        "Czech Republic",
-        "Spain",
-        "England"
       ],
       "is_injury_related": true
     },
@@ -344,18 +360,16 @@
       "is_injury_related": false
     },
     {
-      "id": "5ad80d952c9f",
-      "title": "James Trafford’s England dream burns with No 1 spot finally up for grabs again",
-      "url": "https://www.theguardian.com/football/2026/sep/27/james-trafford-england-no-1-nations-league",
-      "source": "The Guardian",
-      "published_at": "2026-09-27T18:00:11+00:00",
-      "summary": "The Leeds player was surprise starter against Spain but, after his solid display, Jordan Pickford’s grip may be loosening James Trafford looks genuinely affronted. The Leeds goalkeeper’s reaction borders on incredulity. Was it a season of frustration for him at Manchester City la",
+      "id": "eee416c87cd6",
+      "title": "Why does Robbie Ure have Robbie Ure on his Scotland shirt?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5gmrrl0dvrdo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-27T11:35:25+00:00",
+      "summary": "Robbie Ure explains why the back of his shirt read 'Robbie Ure' rather than simply 'Ure' against Slovenia.",
       "teams": [
-        "Spain",
-        "Jordan",
-        "England"
+        "Scotland"
       ],
-      "is_injury_related": true
+      "is_injury_related": false
     },
     {
       "id": "5030a64ab720",
@@ -370,19 +384,6 @@
       "is_injury_related": false
     },
     {
-      "id": "15386eb159d0",
-      "title": "Pickford or Trafford? The battle to be England's number one is now on",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckm2qqpjv7nro",
-      "source": "BBC Sport",
-      "published_at": "2026-09-26T23:06:07+00:00",
-      "summary": "Jordan Pickford has been England's number one for a long time. But does he now have a rival in James Trafford?",
-      "teams": [
-        "Jordan",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "bf76fee4e35e",
       "title": "Messi’s exit leaves Argentina with impossible task of replacing their superhero | Jonathan Wilson",
       "url": "https://www.theguardian.com/football/2026/sep/26/lionel-messi-exit-argentina-impossible-task-superhero",
@@ -393,6 +394,18 @@
         "Argentina"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "8f9e5c67d8c3",
+      "title": "Gilmour catalyst, impressive Welsh, but same issue for Scotland?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqevwwnw10w9o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-26T17:05:53+00:00",
+      "summary": "BBC Sport Scotland picks out what we learned from Sebastien Pocognoli's first game in charge as Scotland drew with Slovenia.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "f0756c603c1a",
