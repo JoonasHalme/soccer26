@@ -1,23 +1,49 @@
 {
-  "generated_at": "2026-09-28T21:55:10.088478+00:00",
+  "generated_at": "2026-09-29T01:52:35.870377+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "3f684c04ad36",
-      "title": "Belgium 0-1 France, Turkey 1-4 Italy and more: Nations League – as it happened",
-      "url": "https://www.theguardian.com/football/live/2026/sep/28/belgium-v-france-northern-ireland-v-hungary-and-more-nations-league-live",
+      "id": "d66c7ba303da",
+      "title": "‘Football with a smile’: Pocognoli wants happy Gilmour to tee up Scotland success",
+      "url": "https://www.theguardian.com/football/2026/sep/28/billy-gilmour-sebastien-pocognoli-scotland-nations-league",
       "source": "The Guardian",
-      "published_at": "2026-09-28T21:12:59+00:00",
-      "summary": "Michael Olise earned France victory in Brussels and Italy bounced back with a big win over Turkey The teams are out! We’ll have the anthems now. There really is nothing that holds a candle to Il Canto degli Italiani , in my book. There is some sort of delay in Brussels, where nei",
+      "published_at": "2026-09-28T22:54:38+00:00",
+      "summary": "New Scotland manager says midfielder ‘has to take risks’ Players warned they need consistent game time for clubs Sébastien Pocognoli hopes a “smiling” Billy Gilmour will be central to Scotland’s hopes of improvement following a bruising World Cup. Gilmour excelled in the second h",
+      "teams": [
+        "Switzerland",
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "fd2c978a66c2",
+      "title": "Pochettino: Manchester City verdicts show fans ‘lived through an era of deception’",
+      "url": "https://www.theguardian.com/football/2026/sep/28/pochettino-manchester-city-verdict-tottenham-chelsea-southampton-usmnt",
+      "source": "The Guardian",
+      "published_at": "2026-09-28T22:29:09+00:00",
+      "summary": "US manager says finding right punishment is ‘really hard’ Man City found guilty of majority of 100-plus charges Sign up for our free newsletter here US men’s national team head coach Mauricio Pochettino expressed dismay at news of Manchester City being found guilty of widespread ",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "a1712ca6131f",
+      "title": "Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey",
+      "url": "https://www.theguardian.com/football/2026/sep/28/nations-league-belgium-france-turkey-italy-northern-ireland-hungary",
+      "source": "The Guardian",
+      "published_at": "2026-09-28T21:45:36+00:00",
+      "summary": "Belgium 0-1 France, Turkey 1-4 Italy, Sweden 3-1 Poland Northern Ireland left frustrated by Hungary stalemate Michael Olise’s magnificent late strike gave France a 1-0 Nations League victory over Belgium in Brussels, as Zinedine Zidane made it two wins out of two since being name",
       "teams": [
         "Turkey",
+        "Sweden",
         "Belgium",
         "France"
       ],
-      "is_injury_related": false
+      "is_injury_related": true
     },
     {
       "id": "4e8e872b71f7",
@@ -343,19 +369,6 @@
       "is_injury_related": false
     },
     {
-      "id": "1dfe502358ed",
-      "title": "Tuchel rues 'big mistakes' - did Man City charges have impact?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6j4jjg5qxero",
-      "source": "BBC Sport",
-      "published_at": "2026-09-26T22:47:10+00:00",
-      "summary": "England's loss to Spain was decided by uncharacteristic mistakes, with two Man City players making errors - so did club news affect performances for country?",
-      "teams": [
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "4d103a0f4433",
       "title": "England embrace the chaos - but control also needed to win big prizes",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqx2zz6d5716o",
@@ -367,19 +380,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "270036fdbe37",
-      "title": "Oyarzabal earns Spain Nations League win as England pay for Kane penalty miss",
-      "url": "https://www.theguardian.com/football/2026/sep/26/england-spain-nations-league-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-09-26T21:05:35+00:00",
-      "summary": "It was another high-profile game when Thomas Tuchel’s England let a lead slip in the second half and went on to lose. But unlike the last time, it was not one for recriminations. The England support can accept losing when their team plays with cut and thrust. More to the point, t",
-      "teams": [
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "bf76fee4e35e",
@@ -465,18 +465,6 @@
         "Scotland"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "a05016ad73fc",
-      "title": "Christian Eriksen leaves Wolfsburg by mutual consent after on-pitch collapse in June",
-      "url": "https://www.theguardian.com/football/2026/sep/23/christian-eriksen-leaves-wolfsburg-mutual-consent-denmark",
-      "source": "The Guardian",
-      "published_at": "2026-09-23T19:46:10+00:00",
-      "summary": "Danish midfielder has been recuperating in homeland Eriksen: ‘I’m pleased we were able to find a solution’ Christian Eriksen and the German side VfL Wolfsburg have agreed to terminate ⁠his contract by mutual consent, the club announced on Wednesday. The 34-year-old collapsed duri",
-      "teams": [
-        "Germany"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "b3e9973b7630",
