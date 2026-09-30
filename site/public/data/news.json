@@ -1,31 +1,130 @@
 {
-  "generated_at": "2026-09-30T06:38:38.672184+00:00",
+  "generated_at": "2026-09-30T13:37:53.877296+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "760ee338778e",
+      "title": "Consortium involving ex-Brazil forward Pato seals Northampton takeover",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmqxvqyy125lo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-30T12:29:34+00:00",
+      "summary": "The takeover of Northampton Town by a consortium including former AC Milan and Brazil forward Alexandre Pato has been completed.",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8e89c1a19025",
+      "title": "Turkish referees' chief arrested in corruption investigation",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmzxzvny8xwdo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-30T12:15:46+00:00",
+      "summary": "The head of Turkey's referees' committee is detained along with six others as part of an investigation into corruption. head of Turkey’s referees committee, is among seven people detained in an investigation into alleged mobbing and document forgery",
+      "teams": [
+        "Turkey"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8931ce8fbdd6",
+      "title": "The Premier League v Manchester City and England beat Czechia – Football Weekly",
+      "url": "https://www.theguardian.com/football/video/2026/sep/30/the-premier-league-v-manchester-city-and-england-beat-czechia-football-weekly",
+      "source": "The Guardian",
+      "published_at": "2026-09-30T11:58:40+00:00",
+      "summary": "Max Rushden is joined by Barry Glendenning, George Elek and Dan Bardell as the Premier League release their verdict on Manchester City and England win 2-0 in Prague Continue reading...",
+      "teams": [
+        "Czech Republic",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f734f463d2d3",
+      "title": "Drawing of lots sends Oman through to Gulf Cup semis",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck3reg044xzwo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-30T11:22:23+00:00",
+      "summary": "Oman edge into the semi-finals of the Gulf Cup but they do so in extraordinary fashion after they are picked ahead of Iraq in the drawing of lots.",
+      "teams": [
+        "Iraq"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "bca8bd929927",
+      "title": "Next Generation 2021: why slow and steady sometimes wins the race",
+      "url": "https://www.theguardian.com/football/2026/sep/30/next-generation-2021-why-slow-and-steady-sometimes-wins-the-race",
+      "source": "The Guardian",
+      "published_at": "2026-09-30T10:00:24+00:00",
+      "summary": "Our NextGen picks from five years ago show that breaking through early does not guarantee longevity or future success Read the full updates on our class of 2021 here and here In 2021, as every year, we picked 80 players from around the world who had a chance of making it in world",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "996661341c8d",
+      "title": "Will Pocognoli change keeper after loss to Switzerland?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c58jd4wvrz4jo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-30T09:39:21+00:00",
+      "summary": "Andy Burke ponders whether Scotland head coach Sebastien Pocognoli will change goalkeeper after Angus Gunn's performance in the 3-0 defeat by Switzerland.",
+      "teams": [
+        "Switzerland",
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "43ee4c8cde9d",
+      "title": "Elmore and Grant named in Northern Ireland squad",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj3v4gy5ek7qo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-30T08:54:26+00:00",
+      "summary": "Sparta Prague forward Kess Elmore is a surprise first call-up for Northern Ireland's 2027 Women's World Cup play-off with Portugal.",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "23cc9592f8b2",
+      "title": "Have any footballers ever scored with the first touch of their careers? | The Knowledge",
+      "url": "https://www.theguardian.com/football/2026/sep/30/footballers-scoring-first-touch-of-careers-the-knowledge",
+      "source": "The Guardian",
+      "published_at": "2026-09-30T07:00:14+00:00",
+      "summary": "Plus: European stadiums with low Google ratings, losing hat-tricks and the last time Spain had less than 50% possession Mail us with your all of your questions and answers “Jamie Spencer, 17, made his first first-team appearance in a competitive match, for Huddersfield at Doncast",
+      "teams": [
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "60331d1cb7af",
+      "title": "Dropping Kelly and Toone could prove a World Cup masterstroke by Wiegman | Tom Garry",
+      "url": "https://www.theguardian.com/football/2026/sep/30/dropping-toone-and-kelly-world-cup-masterstroke-wiegman",
+      "source": "The Guardian",
+      "published_at": "2026-09-30T07:00:12+00:00",
+      "summary": "England’s coach has given a wake-up call to her whole squad by leaving out two heroes of 2022 and 2025 Sarina Wiegman sent a clear message to two of England’s biggest names on Tuesday and – in doing so, irrespective of reputations – fired the same warning to every player: perform",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "23d7b93c4e37",
-      "title": "£1.2bn on transfers with £830m inflated in accounts - Man City's 'asterisk era'",
+      "title": "£1.2bn on transfers with £830m inflated in sponsorships - Man City's 'asterisk era'",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo",
       "source": "BBC Sport",
       "published_at": "2026-09-30T06:26:34+00:00",
       "summary": "BBC Sport analyses Manchester City's dominance of English football during the period in which they were breaching financial rules.",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "ec4c6b7d2b92",
-      "title": "A-Leagues launch clouded by Manchester City cheating scandal as APL vows to review findings",
-      "url": "https://www.theguardian.com/football/2026/sep/30/a-league-launch-clouded-by-manchester-city-cheating-scandal-apl",
-      "source": "The Guardian",
-      "published_at": "2026-09-30T05:15:26+00:00",
-      "summary": "Australia’s football season to begin under a pall as Melbourne City shares owners with the Premier League giant found guilty of unprecedented breaches The Premier League’s finding that Manchester City is guilty of breaching financial rules is already rippling across the football ",
-      "teams": [
-        "Australia"
       ],
       "is_injury_related": false
     },
@@ -41,6 +140,20 @@
         "England"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "b1c94a39b31a",
+      "title": "Tuchel praises Alexander-Arnold for ‘decisive’ display on England return",
+      "url": "https://www.theguardian.com/football/2026/sep/29/thomas-tuchel-trent-alexander-arnold-czechia-england-nations-league-match",
+      "source": "The Guardian",
+      "published_at": "2026-09-29T22:26:28+00:00",
+      "summary": "‘We need to keep focused, and Trent was a big help in this’ Alexander-Arnold set up opener in 2-0 win over Czechia Thomas Tuchel praised Trent ­Alexander-Arnold after the right-back impressed on his first England appearance since June 2025. Alexander-Arnold, who has a point to pr",
+      "teams": [
+        "Czech Republic",
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "20c136951907",
@@ -79,20 +192,6 @@
         "Spain",
         "England",
         "Croatia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "8357a50cd73d",
-      "title": "Gordon and Kane fire England to Nations League victory against 10-man Czechia",
-      "url": "https://www.theguardian.com/football/2026/sep/29/czechia-england-nations-league-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-09-29T20:58:59+00:00",
-      "summary": "Anybody can lose to Spain. But when England did so at Wembley on Saturday , it served to turn up the temperature for this trip to Czechia. England have form for finding it difficult at this compact stadium. Remember the European Championship qualifier here in 2019 when they lost ",
-      "teams": [
-        "Czech Republic",
-        "Spain",
-        "England"
       ],
       "is_injury_related": false
     },
@@ -173,18 +272,6 @@
       "is_injury_related": true
     },
     {
-      "id": "8e89c1a19025",
-      "title": "Turkish referees' chief arrested in corruption investigation",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmzxzvny8xwdo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-29T12:04:34+00:00",
-      "summary": "The head of Turkey's referees' committee is detained along with six others as part of an investigation into corruption. head of Turkey’s referees committee, is among seven people detained in an investigation into alleged mobbing and document forgery",
-      "teams": [
-        "Turkey"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "a44c3e887aa8",
       "title": "Toone and Kelly miss out on Lionesses squad",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6y9z7dlq199o",
@@ -257,18 +344,6 @@
       "is_injury_related": true
     },
     {
-      "id": "e84dd89bbc71",
-      "title": "Fifa accuses Uefa of ‘harassment’ and ‘misinformation’ in push against Infantino",
-      "url": "https://www.theguardian.com/football/2026/sep/29/fifa-accuses-uefa-misinformation-campaign-gianni-infantino-influence-election",
-      "source": "The Guardian",
-      "published_at": "2026-09-29T07:15:43+00:00",
-      "summary": "Uefa accused of trying to influence presidential election Fifa court filing denies claim of FFE undervaluation Fifa accused Uefa of waging a “misinformation campaign” and trying to influence the race for its presidency as world football’s governing body urged a US ⁠court to rejec",
-      "teams": [
-        "Switzerland"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "ca67cc64afa5",
       "title": "Every saint has a past: how man at heart of City’s first scandal became a United hero | Sean Ingle",
       "url": "https://www.theguardian.com/football/2026/sep/29/every-saint-has-a-past-lessons-from-citys-first-scandal-in-1906",
@@ -303,18 +378,6 @@
       "summary": "Max Rushden is joined by Barry Glendenning, Barney Ronay, John Brewin and Kieran Maguire as Manchester City are found guilty of the vast majority of the disciplinary charges brought against them by the Premier League. Continue reading...",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "0490814c898e",
-      "title": "Bellamy sure Wales belong as Haaland threat looms",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6vgy934nvq4o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-28T12:08:16+00:00",
-      "summary": "Craig Bellamy expects Norway to be a force for years, but insists Wales have earned the right to be in Nations League A.",
-      "teams": [
-        "Norway"
       ],
       "is_injury_related": false
     },
