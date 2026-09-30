@@ -1,13 +1,106 @@
 {
-  "generated_at": "2026-09-29T20:42:45.039535+00:00",
+  "generated_at": "2026-09-30T00:22:34.502696+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "24c55b36931a",
+      "title": "New coach, new players, but same old failings hamper Scotland",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmrl6g9nw5lyo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-29T22:30:20+00:00",
+      "summary": "Self-inflicted wounds cost Scotland on Sebastien Pocognoli's Hampden debut, writes Tom English.",
+      "teams": [
+        "Scotland",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "20c136951907",
+      "title": "Alexander-Arnold proves his worth to England with trademark assist against Czechia | Jacob Steinberg",
+      "url": "https://www.theguardian.com/football/2026/sep/29/trent-alexander-arnold-england-czechia-thomas-tuchel-nations-league",
+      "source": "The Guardian",
+      "published_at": "2026-09-29T22:22:18+00:00",
+      "summary": "The full-back is one of the best passers England has produced: Thomas Tuchel must find a place for him It was the question nobody was asking: could Trent Alexander-Arnold do it against 10 game but limited Czechs on a mild Tuesday night in Prague? The answer was a resounding yes. ",
+      "teams": [
+        "Czech Republic",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "e0bedf4be35e",
+      "title": "Hampden debut to forget but Pocognoli looks at bigger picture",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw80483z2522o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-29T22:12:20+00:00",
+      "summary": "Scotland head coach Sebastien Pocognoli hopes \"we will remember this night differently later on\" as his Hampden bow ends with a 3-0 defeat by Switzerland.",
+      "teams": [
+        "Switzerland",
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "4fd5c84e6bdf",
+      "title": "Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming",
+      "url": "https://www.theguardian.com/football/2026/sep/29/nations-league-roundup-lamine-yamal-sinks-croatia-in-spains-world-cup-homecoming",
+      "source": "The Guardian",
+      "published_at": "2026-09-29T21:50:22+00:00",
+      "summary": "Teenager scores twice in 4-1 win to boost Ballon d’Or case Slovenia beat North Macedonia; Faroe Islands hold Moldova Lamine Yamal scored two goals and set up another as Spain hammered Croatia 4-1 on Tuesday in the Nations League in their first home game since lifting the World Cu",
+      "teams": [
+        "Spain",
+        "England",
+        "Croatia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8357a50cd73d",
+      "title": "Gordon and Kane fire England to Nations League victory against 10-man Czechia",
+      "url": "https://www.theguardian.com/football/2026/sep/29/czechia-england-nations-league-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-09-29T20:58:59+00:00",
+      "summary": "Anybody can lose to Spain. But when England did so at Wembley on Saturday , it served to turn up the temperature for this trip to Czechia. England have form for finding it difficult at this compact stadium. Remember the European Championship qualifier here in 2019 when they lost ",
+      "teams": [
+        "Czech Republic",
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ee1b7711b773",
+      "title": "Who 'battled impressively' for Scots? And how did you rate players?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj046wdz0gd4o",
+      "source": "BBC Sport",
+      "published_at": "2026-09-29T20:53:06+00:00",
+      "summary": "How Scotland's players rated in their Nations League defeat by Switzerland.",
+      "teams": [
+        "Switzerland",
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "35cdb2ae9728",
+      "title": "Switzerland’s Rodríguez and Elvedi punish Scotland after Hendry’s early red card",
+      "url": "https://www.theguardian.com/football/2026/sep/29/scotland-switzerland-nations-league-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-09-29T20:51:47+00:00",
+      "summary": "Switzerland have responded exceptionally well after allegations of capers involving vaccination certificates that threatened to overshadow this international window. Make that six points out of six for Murat Yakin’s stylish team. Switzerland look comfortably capable of breezing o",
+      "teams": [
+        "Switzerland",
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "ab1b3314b8de",
-      "title": "Who continues to show how important they are? - England player ratings",
+      "title": "Who continues to show how important they are? England player ratings",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6g7kldr9378o",
       "source": "BBC Sport",
       "published_at": "2026-09-29T20:39:46+00:00",
@@ -16,37 +109,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "f801a598f3da",
-      "title": "Czechia v England: Nations League football – live",
-      "url": "https://www.theguardian.com/football/live/2026/sep/29/czechia-v-england-nations-league-football-live-score-updates",
-      "source": "The Guardian",
-      "published_at": "2026-09-29T20:34:16+00:00",
-      "summary": "⚽️ Nations League updates, 7.45pm BST kick-off in Prague ⚽️ Live scores | Follow us over on TikTok and Instagram James Trafford looks genuinely affronted. The Leeds goalkeeper’s reaction borders on incredulity. Was it a season of frustration for him at Manchester City last time o",
-      "teams": [
-        "Czech Republic",
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "f4c23d736b05",
-      "title": "Scotland v Switzerland, Spain v Croatia, and more: Nations League – live",
-      "url": "https://www.theguardian.com/football/live/2026/sep/29/scotland-v-switzerland-spain-v-croatia-and-more-nations-league-live",
-      "source": "The Guardian",
-      "published_at": "2026-09-29T20:33:40+00:00",
-      "summary": "⚽️ Nations League updates from the 7.45pm BST kick-offs ⚽️ Live scores | Follow Czechia v England | And mail Taha It takes the golden boy just seconds. Spain work it from left to right, the ball finding Lamine Yamal by the edge of the area, and he drifts in from the wing to sweep",
-      "teams": [
-        "Czech Republic",
-        "Switzerland",
-        "Scotland",
-        "Spain",
-        "England",
-        "Croatia"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "13120e091767",
@@ -92,7 +154,7 @@
       "url": "https://www.theguardian.com/football/2026/sep/29/australia-go-down-fighting-to-brazil-in-fiery-4-2-friendly-defeat",
       "source": "The Guardian",
       "published_at": "2026-09-29T12:31:50+00:00",
-      "summary": "Socceroos led 2-1 with goals from Metcalfe and Circati Two late goals sealed win for five-time world champions SUNCORP STADIUM, Brisbane – His first touch taking the ball goalward, Vanderson felt the pressure from Australian defenders closing in and laced a shot goalward, burying",
+      "summary": "Socceroos led 2-1 with goals from Metcalfe and Circati Two late goals sealed win for five-time world champions His first touch taking the ball goalward, Vanderson felt the pressure from Australian defenders closing in and laced a shot goalward, burying it in the top corner of Pat",
       "teams": [
         "Brazil",
         "Australia"
@@ -208,60 +270,6 @@
       "is_injury_related": true
     },
     {
-      "id": "4705427854c1",
-      "title": "Czech Republic ready for Wembley 30 years after Euro '96",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yeqj0g4ygo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-29T05:10:25+00:00",
-      "summary": "The Czech Republic are returning to Wembley for a Nations League game with England, just over 30 years after their Euro '96 heartbreak there.",
-      "teams": [
-        "Czech Republic",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "a1712ca6131f",
-      "title": "Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey",
-      "url": "https://www.theguardian.com/football/2026/sep/28/nations-league-belgium-france-turkey-italy-northern-ireland-hungary",
-      "source": "The Guardian",
-      "published_at": "2026-09-28T21:45:36+00:00",
-      "summary": "Belgium 0-1 France, Turkey 1-4 Italy, Sweden 3-1 Poland Northern Ireland left frustrated by Hungary stalemate Michael Olise’s magnificent late strike gave France a 1-0 Nations League victory over Belgium in Brussels, as Zinedine Zidane made it two wins out of two since being name",
-      "teams": [
-        "Turkey",
-        "Sweden",
-        "Belgium",
-        "France"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "76afbd825562",
-      "title": "Defensive flux gives Tuchel headache but Alexander-Arnold could be remedy | Jacob Steinberg",
-      "url": "https://www.theguardian.com/football/2026/sep/28/thomas-tuchel-england-trent-alexander-arnold-nations-league",
-      "source": "The Guardian",
-      "published_at": "2026-09-28T16:45:04+00:00",
-      "summary": "Chopping and changing the back four has been a big feature for England this year and the Real Madrid man could be a solution England ended 2025 protected by a shield of deceptive strength. They went through qualifying for the World&nbsp;Cup without conceding a goal and secured a ",
-      "teams": [
-        "Spain",
-        "Argentina",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "331304e8e231",
-      "title": "Football Daily | Manchester City come out swinging haymakers after charges galore",
-      "url": "https://www.theguardian.com/football/2026/sep/28/manchester-city-charges-football-daily",
-      "source": "The Guardian",
-      "published_at": "2026-09-28T16:12:28+00:00",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Football Daily wasn’t alone in spending the weekend wondering if we might have a legal case against Manchester City, while pondering what fiscal value we’d put on the mild disappointment of seeing our team lose the 2014 Fizzy (n",
-      "teams": [
-        "Belgium"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "edfdc1e6fd31",
       "title": "The Nations League is a welcome example of soccer done well",
       "url": "https://www.theguardian.com/football/2026/sep/28/nations-league-uefa-england-spain",
@@ -284,18 +292,6 @@
       "summary": "Max Rushden is joined by Barry Glendenning, Barney Ronay, John Brewin and Kieran Maguire as Manchester City are found guilty of the vast majority of the disciplinary charges brought against them by the Premier League. Continue reading...",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "4faa49c71327",
-      "title": "'I've lost my peace' - Cape Verde hero Vozinha on newfound fame",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw4gr1vj845vo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-28T12:59:30+00:00",
-      "summary": "Cape Verde's World Cup hero Vozinha says he craves the \"peace and tranquillity\" of the life he led before he shot to fame.",
-      "teams": [
-        "Cape Verde"
       ],
       "is_injury_related": false
     },
@@ -360,18 +356,6 @@
       "is_injury_related": false
     },
     {
-      "id": "eee416c87cd6",
-      "title": "Why does Robbie Ure have Robbie Ure on his Scotland shirt?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5gmrrl0dvrdo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-27T11:35:25+00:00",
-      "summary": "Robbie Ure explains why the back of his shirt read 'Robbie Ure' rather than simply 'Ure' against Slovenia.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "5030a64ab720",
       "title": "USA's new breakout star? Sullivan living up to Premier League promise",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6vgyy4v938no",
@@ -394,18 +378,6 @@
         "Argentina"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "8f9e5c67d8c3",
-      "title": "Gilmour catalyst, impressive Welsh, but same issue for Scotland?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqevwwnw10w9o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-26T17:05:53+00:00",
-      "summary": "BBC Sport Scotland picks out what we learned from Sebastien Pocognoli's first game in charge as Scotland drew with Slovenia.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "f0756c603c1a",
