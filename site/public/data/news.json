@@ -1,10 +1,84 @@
 {
-  "generated_at": "2026-09-30T19:12:53.663121+00:00",
+  "generated_at": "2026-09-30T23:43:53.068050+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "72539909c1a4",
+      "title": "Meet the only Scot managing a national team in world football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck3reye2vnypo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-30T21:01:32+00:00",
+      "summary": "More than 4,000 miles from his native Dundee, Kurt Herd is flying the flag for Scotland in international football - as manager of Dominica's national side.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8c2977d02d74",
+      "title": "Liverpool contenders for Schade - Thursday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3ew9vv7444xo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-30T20:16:03+00:00",
+      "summary": "Germany forward Kevin Schade is wanted by Liverpool, Erling Haaland and Phil Foden are among the Manchester City players drawing interest from Europe's top clubs, plus more.",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f4be89c7badb",
+      "title": "Cristiano Ronaldo walks out on Portugal after being dropped from starting lineup",
+      "url": "https://www.theguardian.com/football/2026/sep/30/cristiano-ronaldo-misses-portugal-training-jorge-jesus-denmark",
+      "source": "The Guardian",
+      "published_at": "2026-09-30T19:55:55+00:00",
+      "summary": "Jorge Jesus earlier said captain would again be a sub The 41-year-old has trained alone in gym since weekend The Portugal captain, Cristiano Ronaldo, announced on Wednesday that he had left the team’s training camp in Denmark after head coach Jorge Jesus told reporters that the i",
+      "teams": [
+        "Norway",
+        "Portugal"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "41f414817f97",
+      "title": "Manchester City whistleblower Rui Pinto no longer a protected witness in Portugal",
+      "url": "https://www.theguardian.com/football/2026/sep/30/manchester-city-whistleblower-rui-pinto-no-longer-protected-witness-premier-league-portuguese-police",
+      "source": "The Guardian",
+      "published_at": "2026-09-30T19:40:04+00:00",
+      "summary": "Work provided information concerning City’s finances He called City decision ‘historic for English football’ Rui Pinto, whose leaks of private documents helped to trigger the Premier League’s investigation into Manchester City’s financial affairs, will no longer be protected as a",
+      "teams": [
+        "Portugal",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "e0987429dd9f",
+      "title": "Ronaldo leaves Portugal camp after coach denies rift",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-30T19:33:07+00:00",
+      "summary": "Cristiano Ronaldo says he has left Portugal's international camp and will explain why \"in time\", hours after head coach Jorge Jesus denied any rift with the player.",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "5904d84310b8",
+      "title": "Impossible for England to find another Kane - Tuchel",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr1e5ep101wdo",
+      "source": "BBC Sport",
+      "published_at": "2026-09-30T19:25:34+00:00",
+      "summary": "England boss Thomas Tuchel says it will be impossible to find \"another Harry Kane\" as his free-scoring captain continues to break new ground.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "1c17e3caf9b9",
       "title": "Arsenal let two-goal lead slip to draw with Paris FC",
@@ -14,42 +88,6 @@
       "summary": "A miscommunication between Arsenal goalkeeper Misa Rodriguez and England captain Leah Williamson gifts Paris FC a late equaliser as the sides draw 2-2 in the Women's Champions League.",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "00b1ce246cc0",
-      "title": "Paris FC 2-2 Arsenal: Women’s Champions League – live",
-      "url": "https://www.theguardian.com/football/live/2026/sep/30/paris-fc-v-arsenal-womens-champions-league-live",
-      "source": "The Guardian",
-      "published_at": "2026-09-30T18:53:40+00:00",
-      "summary": "⚽ Updates from the 5.45pm BST kick-off in France ⚽ Live scores | Read Moving the Goalposts | Mail Niall 7 mins: Arsenal win another corner and play it short, before Cooney Cross’ ball into the middle bobbles through the penalty area. 5 mins: Lisa Baum lifts a useful cross towards",
-      "teams": [
-        "France"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "acb90dd62fd7",
-      "title": "Andy Burnham admits to ‘concern’ if Manchester City lose their owners after guilty verdicts",
-      "url": "https://www.theguardian.com/football/2026/sep/30/andy-burnham-manchester-city-premier-league",
-      "source": "The Guardian",
-      "published_at": "2026-09-30T18:31:05+00:00",
-      "summary": "Club ‘a huge partner in building modern Manchester’ Independent Football Regulator monitoring case Andy Burnham has said he would be “really concerned” to lose Manchester City’s owners as a result of the club being found guilty of more than 100 breaches of Premier League rules. O",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e0987429dd9f",
-      "title": "No rift with Ronaldo, says Portugal coach Jesus",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-30T18:28:26+00:00",
-      "summary": "Portugal head coach Jorge Jesus says there is no rift with captain Cristiano Ronaldo following claims the five-time Ballon d'Or winner had refused to train.",
-      "teams": [
-        "Portugal"
       ],
       "is_injury_related": false
     },
@@ -65,6 +103,21 @@
         "England"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "5905b453e028",
+      "title": "‘A lot more to my game’: Gordon rises to a new level after Barcelona rebirth",
+      "url": "https://www.theguardian.com/football/2026/sep/30/anthony-gordon-england-nations-league-world-cup-barcelona",
+      "source": "The Guardian",
+      "published_at": "2026-09-30T18:00:14+00:00",
+      "summary": "Impressive against Spain, England’s best player against Czechia, the move to La Liga has transformed the winger The way that Anthony Gordon sees it, he is still the same player, the same guy – on a journey, striving for self-improvement, a thinker, immensely driven. The way that ",
+      "teams": [
+        "Czech Republic",
+        "Spain",
+        "Argentina",
+        "England"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "2ae820ea1b16",
@@ -154,19 +207,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "f4be89c7badb",
-      "title": "Cristiano Ronaldo misses Portugal training amid reports of rift with coach Jesus",
-      "url": "https://www.theguardian.com/football/2026/sep/30/cristiano-ronaldo-misses-portugal-training-jorge-jesus-denmark",
-      "source": "The Guardian",
-      "published_at": "2026-09-30T14:01:38+00:00",
-      "summary": "Veteran left on bench by Jorge Jesus for win in Norway The 41-year-old has trained alone in gym since weekend Cristiano Ronaldo’s continued absence from Portugal team training has led to speculation that the 41-year-old might miss his country’s match in Denmark on Thursday due to",
-      "teams": [
-        "Norway",
-        "Portugal"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "0cfdfbd0759f",
@@ -319,19 +359,6 @@
       "is_injury_related": false
     },
     {
-      "id": "e0bedf4be35e",
-      "title": "Hampden debut to forget, but Pocognoli looks at bigger picture",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw80483z2522o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-29T22:12:20+00:00",
-      "summary": "Scotland head coach Sebastien Pocognoli hopes \"we will remember this night differently later on\" as his Hampden bow ends with a 3-0 defeat by Switzerland.",
-      "teams": [
-        "Switzerland",
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "4fd5c84e6bdf",
       "title": "Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming",
       "url": "https://www.theguardian.com/football/2026/sep/29/nations-league-roundup-lamine-yamal-sinks-croatia-in-spains-world-cup-homecoming",
@@ -432,42 +459,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "1cdf5b818c47",
-      "title": "Chloe Kelly and Ella Toone dropped by England after not hitting ‘expected’ level",
-      "url": "https://www.theguardian.com/football/2026/sep/29/england-women-squad-lexi-potter-chloe-kelly-ella-toone-sarina-wiegman-world-cup-playoff-greece",
-      "source": "The Guardian",
-      "published_at": "2026-09-29T10:00:45+00:00",
-      "summary": "Chelsea’s Lexi Potter gets first call-up to face Greece Leah Williamson back after injury for World Cup playoff Ella Toone and Chloe Kelly have been dropped from England’s squad because of their performance levels by Sarina Wiegman, who has given a first call-up to the 20-year-ol",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "c2ba73a199df",
-      "title": "Life bright for Gilmour after baseball and World Cup heartache",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm046wnwkvnvo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-29T09:42:29+00:00",
-      "summary": "Scotland midfielder Billy Gilmour opens up on the pain of missing out of this summer's World Cup.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "45106a74d29c",
-      "title": "Wales without seven players for World Cup play-off",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck1l63y88e3vo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-29T09:00:03+00:00",
-      "summary": "Ceri Holland is among seven players ruled out when a depleted Wales face Albania in their World Cup play-off semi-final next month.",
-      "teams": [
-        "Netherlands"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "ca67cc64afa5",
