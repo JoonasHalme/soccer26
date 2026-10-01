@@ -1,33 +1,93 @@
 {
-  "generated_at": "2026-10-01T18:51:02.712655+00:00",
+  "generated_at": "2026-10-01T23:08:17.433645+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "e9489905aec1",
-      "title": "Manchester City v Real Madrid: Women’s Champions League – live",
-      "url": "https://www.theguardian.com/football/live/2026/oct/01/manchester-city-v-real-madrid-womens-champions-league-live",
+      "id": "59534f5bfe34",
+      "title": "Nations League: Ronaldo-less Portugal prosper while Klopp gets first win as Germany coach",
+      "url": "https://www.theguardian.com/football/2026/oct/01/nations-league-portugal-denmark-germany-serbia",
       "source": "The Guardian",
-      "published_at": "2026-10-01T18:43:01+00:00",
-      "summary": "⚽ Champions League updates from the 8pm BST kick-off ⚽ Live scores | Ballon d’Or power rankings | Email Daniel We’re playing injury time in the two early games, in which it’s Austria Wien 1-0 inter and Køgø 5-1 Servette. Also going on: Continue reading...",
+      "published_at": "2026-10-01T22:00:50+00:00",
+      "summary": "Portugal pull away to 4-2 win in Denmark Jürgen Klopp’s Germany beat Serbia 2-0 Portugal maintained their perfect start to Nations League Group A4 as Jorge Jesus’s squad showed little signs of missing Cristiano Ronaldo with a 4-2 victory over Denmark in Copenhagen. The 41-year-ol",
       "teams": [
-        "Austria"
+        "Germany",
+        "Norway",
+        "Portugal"
       ],
       "is_injury_related": true
     },
     {
-      "id": "6740ee374513",
-      "title": "Wales v Norway, Denmark v Portugal, Germany v Serbia: Nations League – live",
-      "url": "https://www.theguardian.com/football/live/2026/oct/01/wales-norway-denmark-portugal-germany-serbia-nations-league-live",
-      "source": "The Guardian",
-      "published_at": "2026-10-01T18:27:39+00:00",
-      "summary": "All the latest news from the 7.45pm BST kick-offs Live scores | Nations League tables | Email Michael Republic of Ireland (3-4-2-1): Kelleher, Scales, O’Shea, Egan, Manning, Coventry, Azaz, Abankwah, Moylan, Idah, Parrott. Austria (4-2-3-1): Wiegele, Mwene, Lienhart, Affengruber,",
+      "id": "3acd0f33a3ca",
+      "title": "Real submit 'substantial' dossier in Barca payments case",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwddvdq3pzego",
+      "source": "BBC Sport",
+      "published_at": "2026-10-01T22:00:42+00:00",
+      "summary": "Real Madrid have sent Uefa \"evidence of extraordinary gravity\" relating to payments made by Barcelona to a former vice-president of Spain's referees' committee.",
       "teams": [
-        "Germany",
-        "Norway",
-        "Austria",
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "30793cdfcb9e",
+      "title": "Pro-Palestine protests interrupt game as Ireland pass up 2-0 lead in draw against Austria",
+      "url": "https://www.theguardian.com/football/2026/oct/01/pro-palestine-protests-interrupt-game-ireland-draw-austria-nations-league",
+      "source": "The Guardian",
+      "published_at": "2026-10-01T21:59:55+00:00",
+      "summary": "Protests halted events in Dublin twice before the Republic of Ireland were forced to settle for a 2-2 draw after Austria came back in the second half of their Nations League encounter at the Aviva Stadium. Despite a significant security presence, the contest was twice interrupted",
+      "teams": [
+        "Austria"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "9d77abd34b0f",
+      "title": "Highlights: Wales 2-1 Norway",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckwyzyx5qd49o",
+      "source": "BBC Sport",
+      "published_at": "2026-10-01T21:26:07+00:00",
+      "summary": "Watch the best of the action as Wales come from behind to beat Norway 2-1 in the Nations League.",
+      "teams": [
+        "Norway"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "796b534deffe",
+      "title": "Neco Williams fires revitalised Wales to fightback win against 10-man Norway",
+      "url": "https://www.theguardian.com/football/2026/oct/01/wales-norway-nations-league-league-a-group-4-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-10-01T20:58:07+00:00",
+      "summary": "On a night when Erling Haaland moped around the pitch, dragging his hulking frame across the Cardiff turf, Wales registered a welcome victory over 10-man Norway and their first this year. Was this just one of those games where the game’s deadliest finisher was stuck on the fringe",
+      "teams": [
+        "Norway"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6a384ee6d9c6",
+      "title": "Messi completes purchase of second Spanish club",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c82070lr6xrro",
+      "source": "BBC Sport",
+      "published_at": "2026-10-01T19:26:49+00:00",
+      "summary": "Argentine football great Lionel Messi becomes the owner of Spanish second division club CD Eldense.",
+      "teams": [
+        "Spain",
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "7ac48f022c98",
+      "title": "Criminal or saviour? Rui Pinto abandoned by Portuguese authorities after Manchester City leaks",
+      "url": "https://www.theguardian.com/football/2026/oct/01/fears-manchester-city-whistleblower-rui-pinto-loses-protected-witness-status",
+      "source": "The Guardian",
+      "published_at": "2026-10-01T18:40:17+00:00",
+      "summary": "Man whose leaks of private documents prompted the investigation into City has been advised not to return home, contact family members or visit crowded places More than a decade after Rui Pinto set up the Football Leaks website in a crusade triggered by the Fifa scandal in 2015, h",
+      "teams": [
         "Portugal"
       ],
       "is_injury_related": true
@@ -273,31 +333,6 @@
       "is_injury_related": false
     },
     {
-      "id": "8c2977d02d74",
-      "title": "Liverpool contenders for Schade - Thursday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3ew9vv7444xo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-30T20:16:03+00:00",
-      "summary": "Germany forward Kevin Schade is wanted by Liverpool, Erling Haaland and Phil Foden are among the Manchester City players drawing interest from Europe's top clubs, plus more.",
-      "teams": [
-        "Germany"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f4be89c7badb",
-      "title": "Cristiano Ronaldo walks out on Portugal after being dropped from starting lineup",
-      "url": "https://www.theguardian.com/football/2026/sep/30/cristiano-ronaldo-misses-portugal-training-jorge-jesus-denmark",
-      "source": "The Guardian",
-      "published_at": "2026-09-30T19:55:55+00:00",
-      "summary": "Jorge Jesus earlier said captain would again be a sub The 41-year-old has trained alone in gym since weekend The Portugal captain, Cristiano Ronaldo, announced on Wednesday that he had left the team’s training camp in Denmark after head coach Jorge Jesus told reporters that the i",
-      "teams": [
-        "Norway",
-        "Portugal"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "41f414817f97",
       "title": "Manchester City whistleblower Rui Pinto no longer a protected witness in Portugal",
       "url": "https://www.theguardian.com/football/2026/sep/30/manchester-city-whistleblower-rui-pinto-no-longer-protected-witness-premier-league-portuguese-police",
@@ -307,18 +342,6 @@
       "teams": [
         "Portugal",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e0987429dd9f",
-      "title": "Ronaldo leaves Portugal camp after coach denies rift",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-30T19:33:07+00:00",
-      "summary": "Cristiano Ronaldo says he has left Portugal's international camp and will explain why \"in time\", hours after head coach Jorge Jesus denied any rift with the player.",
-      "teams": [
-        "Portugal"
       ],
       "is_injury_related": false
     },
@@ -347,19 +370,6 @@
       "is_injury_related": false
     },
     {
-      "id": "71841f332bb7",
-      "title": "‘I like him as a No 9’: Bellingham a striking alternative for England, says Tuchel",
-      "url": "https://www.theguardian.com/football/2026/sep/30/thomas-tuchel-harry-kane-jude-bellingham-trent-alexander-arnold-england-nations-league",
-      "source": "The Guardian",
-      "published_at": "2026-09-30T18:00:15+00:00",
-      "summary": "Head coach sees Real Madrid man as an option up front Kane praises Alexander-Arnold’s impact and work rate Thomas Tuchel’s hunt for alternatives to Harry Kane has led to him identifying Jude Bellingham as an option at No 9 for England. Kane continued his remarkable scoring record",
-      "teams": [
-        "Czech Republic",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "5905b453e028",
       "title": "‘A lot more to my game’: Gordon rises to a new level after Barcelona rebirth",
       "url": "https://www.theguardian.com/football/2026/sep/30/anthony-gordon-england-nations-league-world-cup-barcelona",
@@ -371,6 +381,18 @@
         "Spain",
         "Argentina",
         "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "11ff119d1624",
+      "title": "Wales wary of surging Norway as City factor played down for Haaland",
+      "url": "https://www.theguardian.com/football/2026/sep/30/craig-bellamy-wales-norway-nations-league-erling-haaland-manchester-city",
+      "source": "The Guardian",
+      "published_at": "2026-09-30T17:11:37+00:00",
+      "summary": "Bellamy: we were unrecognisable in defeat by Denmark Haaland ‘exactly the same’ after Manchester City verdict Craig Bellamy has said Wales must improve against Norway on Thursday after appearing unrecognisable in their defeat against Denmark , and highlighted their next opponents",
+      "teams": [
+        "Norway"
       ],
       "is_injury_related": true
     },
@@ -395,30 +417,6 @@
       "summary": "The takeover of Northampton Town by a consortium including former AC Milan and Brazil forward Alexandre Pato has been completed.",
       "teams": [
         "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f734f463d2d3",
-      "title": "Drawing of lots sends Oman through to Gulf Cup semis",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck3reg044xzwo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-30T11:22:23+00:00",
-      "summary": "Oman edge into the semi-finals of the Gulf Cup but they do so in extraordinary fashion after they are picked ahead of Iraq in the drawing of lots.",
-      "teams": [
-        "Iraq"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "bca8bd929927",
-      "title": "Next Generation 2021: why slow and steady sometimes wins the race",
-      "url": "https://www.theguardian.com/football/2026/sep/30/next-generation-2021-why-slow-and-steady-sometimes-wins-the-race",
-      "source": "The Guardian",
-      "published_at": "2026-09-30T10:00:24+00:00",
-      "summary": "Our NextGen picks from five years ago show that breaking through early does not guarantee longevity or future success Read the full updates on our class of 2021 here and here In 2021, as every year, we picked 80 players from around the world who had a chance of making it in world",
-      "teams": [
-        "Germany"
       ],
       "is_injury_related": false
     },
@@ -496,18 +494,6 @@
       "summary": "Max Rushden is joined by Barry Glendenning, Barney Ronay, John Brewin and Kieran Maguire as Manchester City are found guilty of the vast majority of the disciplinary charges brought against them by the Premier League. Continue reading...",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "9715c1936ead",
-      "title": "Seventeen titles in five years - why Spain are a dominant force",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c39elvrye40o",
-      "source": "BBC Sport",
-      "published_at": "2026-09-27T22:13:19+00:00",
-      "summary": "We look at what's behind Spain's dominance of football with 17 titles in five years across all age groups and in the men's and women's game.",
-      "teams": [
-        "Spain"
       ],
       "is_injury_related": false
     },
