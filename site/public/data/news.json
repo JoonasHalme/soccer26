@@ -1,19 +1,57 @@
 {
-  "generated_at": "2026-10-02T18:22:08.606448+00:00",
+  "generated_at": "2026-10-02T22:56:36.437819+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "5f6794a58a02",
-      "title": "France v Italy: Nations League football – live",
-      "url": "https://www.theguardian.com/football/live/2026/oct/02/france-v-italy-nations-league-football-live-score-updates",
+      "id": "377df9de91cb",
+      "title": "Nations League: Italy earn draw against 10-man France, Northern Ireland stun Ukraine",
+      "url": "https://www.theguardian.com/football/2026/oct/02/nations-league-roundup-france-italy-northern-ireland-ukraine-belgium",
       "source": "The Guardian",
-      "published_at": "2026-10-02T18:07:04+00:00",
-      "summary": "⚽ Nations League updates from the 7.45pm BST kick-off ⚽ Live scores | Nations League tables | Read Football Daily “Is Marco Materazzi in the house?” asks Peter Oh. “Given the primacy of gestures in today’s world, a symbolic handshake to bury the headbutt, I mean hatchet would be ",
+      "published_at": "2026-10-02T21:11:15+00:00",
+      "summary": "League A: France 1-1 Italy, Belgium 3-0 Turkey Northern Ireland boost promotion bid with 3-0 win Zinedine Zidane’s first home game in charge of France ended with a 1-1 draw against Italy in the Nations League on Friday. Visiting keeper Gianluigi Donnarumma produced a string of sa",
       "teams": [
+        "Turkey",
+        "Belgium",
         "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "0ebe404a2eeb",
+      "title": "Why Aston Villa played Sevilla for a trophy you haven't heard of",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crvg6xd6p9n5o",
+      "source": "BBC Sport",
+      "published_at": "2026-10-02T21:02:23+00:00",
+      "summary": "Aston Villa beat Sevilla in the Antonio Puerta Trophy, named in memory of one of the Spanish club's former players.",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "565432c512ea",
+      "title": "Manchester City whistleblower Rui Pinto to leave Portugal over safety fears",
+      "url": "https://www.theguardian.com/football/2026/oct/02/manchester-city-whistleblower-rui-pinto-leave-portugal-over-safety-fears",
+      "source": "The Guardian",
+      "published_at": "2026-10-02T19:43:59+00:00",
+      "summary": "Pinto has witness protection status removed His lawyers will appeal and say his situation is ‘critical’ Rui Pinto has revealed he is preparing to leave Portugal because he fears for his safety after being informed that his participation in the country’s witness protection program",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "c73911c982bb",
+      "title": "Man City whistleblower set to lose protection amid fears for life",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxyvrp78ddvqo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-02T19:26:13+00:00",
+      "summary": "Portuguese computer hacker who released documents which helped trigger the Premier League investigation into Manchester City set to lose his witness protection despite fears for his life.",
+      "teams": [
+        "Portugal"
       ],
       "is_injury_related": false
     },
@@ -23,12 +61,25 @@
       "url": "https://www.theguardian.com/football/2026/oct/02/manchester-citys-england-players-are-worried-about-their-futures-admits-tuchel",
       "source": "The Guardian",
       "published_at": "2026-10-02T18:06:11+00:00",
-      "summary": "‘It is of course a topic and we speak about it at dinner’ Head coach preparing for Nations League match in Croatia Thomas Tuchel has suggested Manchester City’s England contingent are worried about the club being found guilty of breaching the Premier League’s financial rules. Tuc",
+      "summary": "‘It is of course a topic and we speak about it at dinner’ Head coach has right-back dilemma for game in Croatia Thomas Tuchel has suggested Manchester City’s England contingent are worried about the club being found guilty of breaching the Premier League’s financial rules. Tuchel",
       "teams": [
         "England",
         "Croatia"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "37aa8632f696",
+      "title": "Pickford in spotlight against Croatia with England position under threat from Trafford",
+      "url": "https://www.theguardian.com/football/2026/oct/02/jordan-pickford-england-croatia-nations-league-james-trafford",
+      "source": "The Guardian",
+      "published_at": "2026-10-02T18:00:36+00:00",
+      "summary": "Goalkeeper returns for Saturday’s Nations League match but is under pressure to respond with strength of competition growing For England’s first meeting with Luka Modric you have to go back 20 years. Croatia were managed by Slaven Bilic, who has returned for a second spell in cha",
+      "teams": [
+        "England",
+        "Croatia"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "bc6b0dd72dd2",
@@ -42,18 +93,6 @@
         "USA"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "0ebe404a2eeb",
-      "title": "Why Aston Villa are playing Sevilla for a trophy you haven't heard of",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crvg6xd6p9n5o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-02T15:06:58+00:00",
-      "summary": "Aston Villa are set to take on Sevilla in the Antonio Puerta Trophy, named in memory of one of the Spanish club's former players.",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "45b6bcda4c45",
@@ -151,20 +190,6 @@
       "teams": [
         "Scotland",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "08a8593fbf3b",
-      "title": "Bilic is back: bravery and belief underpin second coming as Croatia manager",
-      "url": "https://www.theguardian.com/football/2026/oct/02/slaven-bilic-croatia-manager-second-coming-england-nations-league",
-      "source": "The Guardian",
-      "published_at": "2026-10-02T10:20:54+00:00",
-      "summary": "Match against England is welcome test for former West Ham coach as he replaces history-making Zlatko Dalic “I don’t believe in comebacks.” Slaven Bilic sat in the lobby of a hotel in Canary Wharf wearing a black Soundgarden T-shirt and dark denim, confidently discussing a wide va",
-      "teams": [
-        "Argentina",
-        "England",
-        "Croatia"
       ],
       "is_injury_related": false
     },
@@ -356,20 +381,6 @@
       "is_injury_related": true
     },
     {
-      "id": "95aa223530fa",
-      "title": "Football Daily | An impressive new entry for the Cristiano Ronaldo catalogue of petulance",
-      "url": "https://www.theguardian.com/football/2026/oct/01/football-daily-newsletter-cristiano-ronaldo-portugal",
-      "source": "The Guardian",
-      "published_at": "2026-10-01T13:54:52+00:00",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! When Jorge Jesus replaced Roberto Martínez, the reverse-alchemist of golden generations, as head coach of the Portugal national team, it was thought his appointment could spell the end of Cristiano Ronaldo’s international career",
-      "teams": [
-        "Norway",
-        "Portugal",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "a1ae2866202c",
       "title": "Start Gannon-Doak and Bowie, but not McGinn? Key Scotland questions",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6x2ze5zm93go",
@@ -494,6 +505,19 @@
       "is_injury_related": false
     },
     {
+      "id": "20c136951907",
+      "title": "Alexander-Arnold proves his worth to England with trademark assist against Czechia | Jacob Steinberg",
+      "url": "https://www.theguardian.com/football/2026/sep/29/trent-alexander-arnold-england-czechia-thomas-tuchel-nations-league",
+      "source": "The Guardian",
+      "published_at": "2026-09-29T22:22:18+00:00",
+      "summary": "The full-back is one of the best passers England has produced: Thomas Tuchel must find a place for him It was the question nobody was asking: could Trent Alexander-Arnold do it against 10 game but limited Czechs on a mild Tuesday night in Prague? The answer was a resounding yes. ",
+      "teams": [
+        "Czech Republic",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "13120e091767",
       "title": "USWNT roster: Ashley Sanchez earns the call for friendlies v Spain",
       "url": "https://www.theguardian.com/football/2026/sep/29/uswnt-roster-spain-ashley-sanchez-mallory-swanson-naomi-girma",
@@ -518,6 +542,18 @@
         "England"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "ca67cc64afa5",
+      "title": "Every saint has a past: how man at heart of City’s first scandal became a United hero | Sean Ingle",
+      "url": "https://www.theguardian.com/football/2026/sep/29/every-saint-has-a-past-lessons-from-citys-first-scandal-in-1906",
+      "source": "The Guardian",
+      "published_at": "2026-09-29T07:00:57+00:00",
+      "summary": "Billy Meredith helped win City their first major honours more than a hundred years ago, was banned by the FA – then went and repeated the trick on the red side of Manchester When the Manchester City decision finally dropped, the Guardian’s verdict was damning. “FOOTBALL SENSATION",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "edfdc1e6fd31",
@@ -546,6 +582,18 @@
       "is_injury_related": false
     },
     {
+      "id": "b34114ec004d",
+      "title": "Arsène Wenger and Arsenal: 30 years on from appointment that changed English football",
+      "url": "https://www.theguardian.com/football/2026/sep/28/arsene-wenger-arsenal-30-years-on-from-transformation-english-football",
+      "source": "The Guardian",
+      "published_at": "2026-09-28T07:00:27+00:00",
+      "summary": "David Dein’s decision to hire the Frenchman ushered in an irreversible era of multiculturalism, giving birth to the Premier League we know today As feedback goes, even a character as relentlessly optimistic as David Dein might have considered the reaction to his bold managerial a",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "bf76fee4e35e",
       "title": "Messi’s exit leaves Argentina with impossible task of replacing their superhero | Jonathan Wilson",
       "url": "https://www.theguardian.com/football/2026/sep/26/lionel-messi-exit-argentina-impossible-task-superhero",
@@ -554,18 +602,6 @@
       "summary": "When things are going awry, the Albiceleste will no longer be able to rely on their ultimate get-out clause It isn’t quite over yet. Lionel Messi will return a week on Wednesday for his formal farewell in a friendly against Benin, but, before that, Argentina face two games when t",
       "teams": [
         "Argentina"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "3e68a83dca84",
-      "title": "Lamine Yamal: ‘Football is mechanised but players like me have that special spark’",
-      "url": "https://www.theguardian.com/football/2026/sep/26/lamine-yamal-football-special-spark-spain-world-cup-barcelona",
-      "source": "The Guardian",
-      "published_at": "2026-09-26T07:00:30+00:00",
-      "summary": "Spain and Barcelona wonderkid has won World Cup and European Championship but says there are no limits for his career Like the kid he is, Lamine Yamal just wanted to keep playing. This wasn’t Plaça Joan XXIII, wasn’t El Parque de Rocafonda either; it wasn’t the Mataró neighbourho",
-      "teams": [
-        "Spain"
       ],
       "is_injury_related": true
     },
@@ -582,19 +618,6 @@
       "is_injury_related": false
     },
     {
-      "id": "481a4156625f",
-      "title": "Kieron Dyer making waves at Southend after leaving ‘hooligan’ days and ‘deathbed’ behind",
-      "url": "https://www.theguardian.com/football/2026/sep/25/kieron-dyer-southend-manager-interview",
-      "source": "The Guardian",
-      "published_at": "2026-09-25T11:42:08+00:00",
-      "summary": "Day in former England midfielder’s company reveals a chess fan and hands-on manager who will not tolerate tardiness Kieron Dyer is recounting a tale from his time in Japan at the 2002 World Cup. “You have a lot of time on your hands,” he begins from behind his desk at Southend Un",
-      "teams": [
-        "Japan",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "dedf642de316",
       "title": "All done deals in September & October 2026",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo",
@@ -605,18 +628,6 @@
         "Scotland"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "b3e9973b7630",
-      "title": "Will anyone topple Infantino? How Fifa president is trying to cling on after World Cup sell-off debacle",
-      "url": "https://www.theguardian.com/football/2026/sep/22/gianni-infantino-fifa-president-election-world-cup-sell-off-debacle",
-      "source": "The Guardian",
-      "published_at": "2026-09-22T19:00:03+00:00",
-      "summary": "Fifa president continues to lobby for re-election despite no other candidates coming forward to challenge him For Gianni Infantino there is no international break. The Fifa president is widely expected to make an appearance at the United Nations general assembly this week in New ",
-      "teams": [
-        "Qatar"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "c496bbb2418a",
