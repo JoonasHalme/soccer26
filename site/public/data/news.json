@@ -1,10 +1,75 @@
 {
-  "generated_at": "2026-10-03T01:53:23.526978+00:00",
+  "generated_at": "2026-10-03T08:01:13.942899+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "ccca94214d00",
+      "title": "England and Scotland back in Nations League action; Manchester City latest – matchday live",
+      "url": "https://www.theguardian.com/football/live/2026/oct/03/england-scotland-nations-league-action-manchester-city-latest-matchday-live",
+      "source": "The Guardian",
+      "published_at": "2026-10-03T07:48:35+00:00",
+      "summary": "All the latest before Saturday’s Nations League action Today’s fixtures | Latest tables | And you can mail us Ukraine 0-3 Northern Ireland! Okay, it wasn’t quite up there with John Motson screaming “Armstrong!” after the striker’s goal against Spain in the 1982 World Cup finals (",
+      "teams": [
+        "Scotland",
+        "Belgium",
+        "Spain",
+        "France",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "de2963d66cf2",
+      "title": "Lewandowski, 38, hits hat-trick in 6-0 Poland win",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6vgxe0yxpn8o",
+      "source": "BBC Sport",
+      "published_at": "2026-10-03T07:37:38+00:00",
+      "summary": "Robert Lewandowski, 38, scores a hat-trick in the Nations League and Edin Dzeko plays his final game for Bosnia-Herzegovina.",
+      "teams": [
+        "Bosnia & Herzegovina"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "273dce655ab6",
+      "title": "Too quiet for too long, can McGinn recapture best for Scotland?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5398kvl77xno",
+      "source": "BBC Sport",
+      "published_at": "2026-10-03T07:05:17+00:00",
+      "summary": "Fifth in the all-time scoring chart for Scotland and closing in on 100 caps, John McGinn could do with finding his best stuff again, writes Tom English.",
+      "teams": [
+        "Scotland",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "58ade321626a",
+      "title": "Thrown in with Giggs and Beckham: how Manchester United tried to get Billy Kenny",
+      "url": "https://www.theguardian.com/football/2026/oct/03/billy-kenny-ryan-giggs-david-beckham-manchester-united-autobiography",
+      "source": "The Guardian",
+      "published_at": "2026-10-03T07:00:53+00:00",
+      "summary": "Former Everton midfielder, known as the ‘Goodison Gazza’, recalls being made to feel special by Alex Ferguson in this autobiography extract “So this is the scouser ya been goin’ on aboot then …” My face turned Manchester United red. Scanning the room full of smiles and staring ey",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "be38498aa0f8",
+      "title": "Decline and fall: who will believe in Raheem Sterling now?",
+      "url": "https://www.theguardian.com/football/2026/oct/03/decline-and-fall-who-will-believe-in-raheem-sterling-now",
+      "source": "The Guardian",
+      "published_at": "2026-10-03T05:00:51+00:00",
+      "summary": "Former England winger could face a prison term next month and his career collapse raises many questions In another world, where careers broke in different directions, Raheem Sterling would be in this England squad now, playing for the manager, Thomas Tuchel, who made him the No 1",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "377df9de91cb",
       "title": "Nations League: Italy earn draw against 10-man France, Northern Ireland stun Ukraine",
@@ -52,19 +117,6 @@
       "summary": "Portuguese computer hacker who released documents which helped trigger the Premier League investigation into Manchester City set to lose his witness protection despite fears for his life.",
       "teams": [
         "Portugal"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "25091917f855",
-      "title": "Manchester City’s England players are worried about their futures, admits Tuchel",
-      "url": "https://www.theguardian.com/football/2026/oct/02/manchester-citys-england-players-are-worried-about-their-futures-admits-tuchel",
-      "source": "The Guardian",
-      "published_at": "2026-10-02T18:06:11+00:00",
-      "summary": "‘It is of course a topic and we speak about it at dinner’ Head coach has right-back dilemma for game in Croatia Thomas Tuchel has suggested Manchester City’s England contingent are worried about the club being found guilty of breaching the Premier League’s financial rules. Tuchel",
-      "teams": [
-        "England",
-        "Croatia"
       ],
       "is_injury_related": false
     },
@@ -407,18 +459,6 @@
       "is_injury_related": true
     },
     {
-      "id": "c7f2a1b90b9c",
-      "title": "US lined up instead of Qatar to host inaugural Women’s Club World Cup",
-      "url": "https://www.theguardian.com/football/2026/oct/01/united-states-host-first-womens-club-world-cup-football",
-      "source": "The Guardian",
-      "published_at": "2026-10-01T12:05:22+00:00",
-      "summary": "LA and San Diego are among favoured host cities January 2028 tournament would include 19 teams The US is poised to host the first Women’s Club World Cup in January 2028, becoming the latest in a series of major Fifa tournaments staged in North America. Discussions to take the com",
-      "teams": [
-        "Qatar"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "0e6e33bbdd1b",
       "title": "Moving the Goalposts | Women’s Ballon d’Or 2026 power rankings: will a new winner be crowned?",
       "url": "https://www.theguardian.com/football/2026/oct/01/womens-ballon-dor-2026-power-rankings-will-a-new-winner-be-crowned",
@@ -488,18 +528,6 @@
       "summary": "Plus: European stadiums with low Google ratings, losing hat-tricks and the last time Spain had less than 50% possession Mail us with your all of your questions and answers “Jamie Spencer, 17, made his first first-team appearance in a competitive match, for Huddersfield at Doncast",
       "teams": [
         "Spain",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "23d7b93c4e37",
-      "title": "£1.2bn on transfers with £830m inflated in sponsorships - Man City's 'asterisk era'",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-30T06:26:34+00:00",
-      "summary": "BBC Sport analyses Manchester City's dominance of English football during the period in which they were breaching financial rules.",
-      "teams": [
         "England"
       ],
       "is_injury_related": false
