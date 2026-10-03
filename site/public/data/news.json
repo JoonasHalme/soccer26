@@ -1,19 +1,117 @@
 {
-  "generated_at": "2026-10-03T17:54:34.988687+00:00",
+  "generated_at": "2026-10-03T21:10:05.807317+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "b5c92798368d",
-      "title": "Croatia v England: Nations League football – live",
-      "url": "https://www.theguardian.com/football/live/2026/oct/03/croatia-v-england-nations-league-football-live-score-updates",
+      "id": "a8ae6d5418b8",
+      "title": "North Macedonia 0-2 Scotland, Spain 3-1 Czechia and more: Nations League – live reaction",
+      "url": "https://www.theguardian.com/football/live/2026/oct/03/north-macedonia-v-scotland-spain-v-czechia-and-more-nations-league-live",
       "source": "The Guardian",
-      "published_at": "2026-10-03T17:44:51+00:00",
-      "summary": "Nations League updates, 5pm BST kick-off (6pm local) Live scores | Get the Football Daily newsletter | Mail Scott Thomas Tuchel speaks to ITV. “[Being in Rijeka on the sunny Adriatic coast] has helped us to unwind and recharge our batteries …. now we need to switch on … the atmos",
+      "published_at": "2026-10-03T21:03:10+00:00",
+      "summary": "Nations League updates from the 7.45pm BST kick-offs Live scores | Get the Football Daily newsletter | Mail Luke Spain: Raya; Fresneda, Le Normand, Laporte, García; Rodri, Pedri; Lamine Yamal, Olmo, Baena; Fernández. Czechia: Kinsky; Sacek, Chaloupek, Krejci, Slama; Ambros, Macek",
       "teams": [
-        "Jordan",
+        "Czech Republic",
+        "Scotland",
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "642115e0f15c",
+      "title": "Man Utd & Arsenal eye Croatia striker - Sunday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw62y457008lo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-03T20:32:45+00:00",
+      "summary": "Three Premier League clubs are interested in Freiburg striker Igor Matanovic, Juventus want Liverpool centre-back Giovanni Leoni, Newcastle willing to let Joe Willock leave in January, plus more.",
+      "teams": [
+        "Croatia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "7f813549612a",
+      "title": "Bellingham stands out for high-grade England but Uefa sends out wrong message on racism | Barney Ronay",
+      "url": "https://www.theguardian.com/football/2026/oct/03/bellingham-stands-out-for-high-grade-england-but-uefa-sends-wrong-message-on-racism",
+      "source": "The Guardian",
+      "published_at": "2026-10-03T20:06:45+00:00",
+      "summary": "Allowing children in after a ban on adult fans was wrong in the extreme but on the pitch England showed genuine class So … can we play another World Cup, then? Can we just undo and rewind? Forget whatever it was you thought you saw in Atlanta . We’re actually ready now. Although ",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "02af3a6b40fc",
+      "title": "Robertson hits 100 Scotland caps - but who else makes top 10?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck3reg92815ro",
+      "source": "BBC Sport",
+      "published_at": "2026-10-03T19:24:04+00:00",
+      "summary": "We want you to name the 10 most capped Scotland men's players of all time, after current captain Andy Robertson makes his 100th national team appearance against North Macedonia on Saturday.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ec63fc0cfb3c",
+      "title": "Robertson's Scotland career in numbers as he wins 100th cap",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crgjqjg1l740o",
+      "source": "BBC Sport",
+      "published_at": "2026-10-03T19:22:45+00:00",
+      "summary": "Andy Robertson has become only the second man ever to play 100 times for Scotland. BBC Sport Scotland charts his international career in numbers.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "4338afcdd44f",
+      "title": "‘Portugal’s greatest symbol’: Bruno Fernandes backs Cristiano Ronaldo despite walkout",
+      "url": "https://www.theguardian.com/football/2026/oct/03/cristiano-ronaldo-portugal-bruno-fernandes-jorge-jesus-nations-league",
+      "source": "The Guardian",
+      "published_at": "2026-10-03T19:02:26+00:00",
+      "summary": "Fernandes: ‘there are no divisions in the national team’ Ronaldo left team camp last week in selection row Bruno Fernandes has said Cristiano Ronaldo remains “the greatest symbol” of the Portugal team, despite his decision to walk out on the squad this week. Ronaldo said on Wedne",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "70640a55ca64",
+      "title": "Ronaldo still 'greatest symbol' of Portugal - Fernandes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckq5nd1g14v4o",
+      "source": "BBC Sport",
+      "published_at": "2026-10-03T18:57:50+00:00",
+      "summary": "Portugal midfielder Bruno Fernandes says Cristiano Ronaldo remains the country's greatest footballing figure despite leaving the squad this week after finding out he would not start a match.",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "2511425fe2b2",
+      "title": "Kane and Saka double up as England school Croatia in historic Nations League rout",
+      "url": "https://www.theguardian.com/football/2026/oct/03/croatia-england-nations-league-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-10-03T18:04:02+00:00",
+      "summary": "It had all the edge of a pop concert in the stands but England looked ready to steal candy from a baby. The 6,200 Croatian under-14s allowed inside Stadion HNK Rijeka were invited free of charge and this was a priceless footballing experience. England ripped Croatia to shreds to ",
+      "teams": [
+        "England",
+        "Croatia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f85e4820adc8",
+      "title": "Who was the best player on the pitch? - England player ratings",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq4g1x8znyd0o",
+      "source": "BBC Sport",
+      "published_at": "2026-10-03T17:58:13+00:00",
+      "summary": "England produce one of their best performances in recent times as they thump Croatia 6-0 in Rijeka. How did our report rate the players' performances?",
+      "teams": [
         "England",
         "Croatia"
       ],
@@ -105,20 +203,6 @@
       "is_injury_related": true
     },
     {
-      "id": "377df9de91cb",
-      "title": "Nations League: Italy earn draw against 10-man France, Northern Ireland stun Ukraine",
-      "url": "https://www.theguardian.com/football/2026/oct/02/nations-league-roundup-france-italy-northern-ireland-ukraine-belgium",
-      "source": "The Guardian",
-      "published_at": "2026-10-02T21:11:15+00:00",
-      "summary": "League A: France 1-1 Italy, Belgium 3-0 Turkey Northern Ireland boost promotion bid with 3-0 win Zinedine Zidane’s first home game in charge of France ended with a 1-1 draw against Italy in the Nations League on Friday. Visiting keeper Gianluigi Donnarumma produced a string of sa",
-      "teams": [
-        "Turkey",
-        "Belgium",
-        "France"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "0ebe404a2eeb",
       "title": "Why Aston Villa played Sevilla for a trophy you haven't heard of",
       "url": "https://www.bbc.co.uk/sport/football/articles/crvg6xd6p9n5o",
@@ -139,32 +223,6 @@
       "summary": "Portuguese computer hacker who released documents which helped trigger the Premier League investigation into Manchester City set to lose his witness protection despite fears for his life.",
       "teams": [
         "Portugal"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "37aa8632f696",
-      "title": "Pickford in spotlight against Croatia with England position under threat from Trafford",
-      "url": "https://www.theguardian.com/football/2026/oct/02/jordan-pickford-england-croatia-nations-league-james-trafford",
-      "source": "The Guardian",
-      "published_at": "2026-10-02T18:00:36+00:00",
-      "summary": "Goalkeeper returns for Saturday’s Nations League match but is under pressure to respond with strength of competition growing For England’s first meeting with Luka Modric you have to go back 20 years. Croatia were managed by Slaven Bilic, who has returned for a second spell in cha",
-      "teams": [
-        "England",
-        "Croatia"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "bc6b0dd72dd2",
-      "title": "USA v Mexico, Nations League, F1 in Malaysia and NFL – follow with us",
-      "url": "https://www.theguardian.com/sport/2026/oct/02/usa-v-mexico-nations-league-f1-in-malaysia-and-nfl-follow-with-us",
-      "source": "The Guardian",
-      "published_at": "2026-10-02T15:50:06+00:00",
-      "summary": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports Continue reading...",
-      "teams": [
-        "Mexico",
-        "USA"
       ],
       "is_injury_related": false
     },
@@ -195,6 +253,18 @@
       "is_injury_related": true
     },
     {
+      "id": "c45aab6b57bc",
+      "title": "Tankards, Clough & 'creaky joints' - Tennent's Sixes returns",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv8e3eyx5y8eo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-02T14:07:42+00:00",
+      "summary": "More than three decades since its last staging, Scottish football's cult indoor event makes a comeback with the \"creaky joints\" of former players taking to an ice rink.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "99734e393dfd",
       "title": "Giant Dzeko shirt unveiled in Sarajevo to mark retirement",
       "url": "https://www.bbc.co.uk/sport/football/videos/cx8dzpj896edo",
@@ -217,18 +287,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "ec63fc0cfb3c",
-      "title": "Robertson's Scotland career in numbers as 100th cap looms",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crgjqjg1l740o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-02T11:43:12+00:00",
-      "summary": "Andy Robertson is poised to become only the second man ever to play 100 times for Scotland. BBC Sport Scotland charts his international career in numbers.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "6f536a9c06a0",
@@ -264,18 +322,6 @@
       "summary": "Has the impressive 2-1 victory over Norway changed the mood music for Wales and restored fans confidence in head coach Craig Bellamy?",
       "teams": [
         "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "9ef9cc2891c5",
-      "title": "Hallgrimsson marvels at 'magical' Parrott's solo goal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx4gqg6840d4o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-02T06:44:31+00:00",
-      "summary": "Republic of Ireland boss Heimir Hallgrimsson praises Troy Parrott after his fine solo goal in their 2-2 Uefa Nations League draw against Austria on Thursday.",
-      "teams": [
-        "Austria"
       ],
       "is_injury_related": false
     },
@@ -338,18 +384,6 @@
         "Norway"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "7ac48f022c98",
-      "title": "Criminal or saviour? Rui Pinto abandoned by Portuguese authorities after Manchester City leaks",
-      "url": "https://www.theguardian.com/football/2026/oct/01/fears-manchester-city-whistleblower-rui-pinto-loses-protected-witness-status",
-      "source": "The Guardian",
-      "published_at": "2026-10-01T18:40:17+00:00",
-      "summary": "Man whose leaks of private documents prompted the investigation into City has been advised not to return home, contact family members or visit crowded places More than a decade after Rui Pinto set up the Football Leaks website in a crusade triggered by the Fifa scandal in 2015, h",
-      "teams": [
-        "Portugal"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "6d5c222192df",
@@ -431,18 +465,6 @@
         "France"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "72539909c1a4",
-      "title": "Meet the only Scot managing a national team in world football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck3reye2vnypo",
-      "source": "BBC Sport",
-      "published_at": "2026-09-30T21:01:32+00:00",
-      "summary": "More than 4,000 miles from his native Dundee, Kurt Herd is flying the flag for Scotland in international football - as manager of Dominica's national side.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "1c17e3caf9b9",
