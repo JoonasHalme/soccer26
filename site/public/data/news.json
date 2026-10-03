@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T08:01:13.942899+00:00",
+  "generated_at": "2026-10-03T13:19:45.145275+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -7,17 +7,38 @@
   "items": [
     {
       "id": "ccca94214d00",
-      "title": "England and Scotland back in Nations League action; Manchester City latest – matchday live",
+      "title": "Croatia v England buildup; tempers flare at Ireland v Israel press conference – matchday live",
       "url": "https://www.theguardian.com/football/live/2026/oct/03/england-scotland-nations-league-action-manchester-city-latest-matchday-live",
       "source": "The Guardian",
-      "published_at": "2026-10-03T07:48:35+00:00",
-      "summary": "All the latest before Saturday’s Nations League action Today’s fixtures | Latest tables | And you can mail us Ukraine 0-3 Northern Ireland! Okay, it wasn’t quite up there with John Motson screaming “Armstrong!” after the striker’s goal against Spain in the 1982 World Cup finals (",
+      "published_at": "2026-10-03T12:45:26+00:00",
+      "summary": "All the latest before Saturday’s Nations League action Today’s fixtures | Latest tables | And you can mail us A morning quiz question: which Spurs player has the most goals this season? The answer is Oliver Irow, on loan at Plymouth: four goals across seven appearances v Tottenha",
       "teams": [
-        "Scotland",
-        "Belgium",
-        "Spain",
-        "France",
-        "England"
+        "England",
+        "Croatia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "403235372de0",
+      "title": "Manchester City whistleblower ready to help UK authorities in return for protection",
+      "url": "https://www.theguardian.com/football/2026/oct/03/manchester-city-whistleblower-rui-pinto-ready-to-help-uk-authorities-in-return-for-protection",
+      "source": "The Guardian",
+      "published_at": "2026-10-03T11:12:48+00:00",
+      "summary": "Rui Pinto faces loss of witness safeguarding in Portugal More documents over City affairs may be made available Rui Pinto, whose leaks helped to trigger the Premier League’s investigation into Manchester City’s financial affairs, is prepared to help authorities in the UK with the",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "9a307600cb94",
+      "title": "Why beating Denmark matters to Wales' Euro 2028 hopes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck1wv77v9y3wo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-03T09:09:04+00:00",
+      "summary": "Avoiding finishing bottom of their Nations League group is a major aim for Wales following a win over Erling Haaland's Norway.",
+      "teams": [
+        "Norway"
       ],
       "is_injury_related": false
     },
@@ -95,18 +116,6 @@
         "Spain"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "565432c512ea",
-      "title": "Manchester City whistleblower Rui Pinto to leave Portugal over safety fears",
-      "url": "https://www.theguardian.com/football/2026/oct/02/manchester-city-whistleblower-rui-pinto-leave-portugal-over-safety-fears",
-      "source": "The Guardian",
-      "published_at": "2026-10-02T19:43:59+00:00",
-      "summary": "Pinto has witness protection status removed His lawyers will appeal and say his situation is ‘critical’ Rui Pinto has revealed he is preparing to leave Portugal because he fears for his safety after being informed that his participation in the country’s witness protection program",
-      "teams": [
-        "Portugal"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "c73911c982bb",
@@ -294,18 +303,6 @@
       "is_injury_related": false
     },
     {
-      "id": "0f3d6d6e15ff",
-      "title": "Bellamy says Wales 'stick' hurt as Norway win lifts mood",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6zxzx1d484zo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-01T22:56:09+00:00",
-      "summary": "Head coach Craig Bellamy says he has been through a \"really difficult\" spell because of criticism he has faced during Wales' winless run.",
-      "teams": [
-        "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "3acd0f33a3ca",
       "title": "Real submit 'substantial' dossier in Barca payments case",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwddvdq3pzego",
@@ -350,19 +347,6 @@
       "summary": "On a night when Erling Haaland moped around the pitch, dragging his hulking frame across the Cardiff turf, Wales registered a welcome victory over 10-man Norway and their first this year. Was this just one of those games where the game’s deadliest finisher was stuck on the fringe",
       "teams": [
         "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "6a384ee6d9c6",
-      "title": "Messi completes purchase of second Spanish club",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c82070lr6xrro",
-      "source": "BBC Sport",
-      "published_at": "2026-10-01T19:26:49+00:00",
-      "summary": "Argentine football great Lionel Messi becomes the owner of Spanish second division club CD Eldense.",
-      "teams": [
-        "Spain",
-        "Argentina"
       ],
       "is_injury_related": false
     },
@@ -421,18 +405,6 @@
       "is_injury_related": true
     },
     {
-      "id": "3059bcd1e023",
-      "title": "Injured O'Reilly withdraws from England squad",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6kg0gkjngzmo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-01T14:36:12+00:00",
-      "summary": "Nico O'Reilly withdraws from the England squad for their final two Nations League games of the international break because of injury.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "a1ae2866202c",
       "title": "Start Gannon-Doak and Bowie, but not McGinn? Key Scotland questions",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6x2ze5zm93go",
@@ -470,30 +442,6 @@
         "France"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "85551398da08",
-      "title": "Ivan Toney denies Soho nightclub assault",
-      "url": "https://www.bbc.co.uk/news/articles/crkgwglz4dd5o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-01T09:44:09+00:00",
-      "summary": "England striker Ivan Toney pleads not guilty to assaulting a man at a Soho nightclub last year.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "4b04863f67a1",
-      "title": "Why one Irish team is set to face Salah's Trabzonspor",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3kg80vp00z4o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-01T08:26:55+00:00",
-      "summary": "Drogheda United will travel to Turkey to face Trabzonspor at the 40,000-seat Papara Park as part of a special relationship between the two clubs.",
-      "teams": [
-        "Turkey"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "72539909c1a4",
