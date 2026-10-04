@@ -1,24 +1,34 @@
 {
-  "generated_at": "2026-10-04T18:07:23.883219+00:00",
+  "generated_at": "2026-10-04T21:23:36.386795+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "873346599157",
-      "title": "Wales v Denmark, Republic of Ireland v Israel and more: Nations League – live",
-      "url": "https://www.theguardian.com/football/live/2026/oct/04/wales-v-denmark-republic-of-ireland-v-israel-and-more-nations-league-live",
-      "source": "The Guardian",
-      "published_at": "2026-10-04T17:50:34+00:00",
-      "summary": "⚽️ Nations League updates from 7.45pm kick-offs ⚽️ Live scoreboard | And mail Daniel In a normal world, a jumped-up friendly – sorry Nations League diehards - between the teams placed 54th and 77th on Fifa’s rankings wouldn’t be worth a fuss. But in this world, where bombs fall o",
+      "id": "45f6403648e7",
+      "title": "You are the Scotland boss - what would you do?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr4g1q2w1g6zo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-04T21:06:47+00:00",
+      "summary": "Put yourself in the shoes of the new Scotland head coach Sebastien Pocognoli as he picks his XI to face Slovenia on Tuesday.",
       "teams": [
-        "Germany",
-        "Netherlands",
-        "Norway",
-        "Portugal"
+        "Scotland"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "e3bd334d883e",
+      "title": "Tuchel says Alex Scott’s emergence gives England – and Rice – ‘high level’ competition",
+      "url": "https://www.theguardian.com/football/2026/oct/04/alex-scott-declan-rice-thomas-tuchel-midfield-england-croatia-nations-league",
+      "source": "The Guardian",
+      "published_at": "2026-10-04T18:00:34+00:00",
+      "summary": "Tuchel praises Scott’s all-round display in Croatia win ‘We will not survive on two midfielders. More the better’ Thomas Tuchel warned that there is competition for Declan Rice’s place in England’s midfield after Alex Scott marked his first international start with an outstanding",
+      "teams": [
+        "England",
+        "Croatia"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "8f1fd45e038a",
@@ -145,18 +155,6 @@
       "is_injury_related": false
     },
     {
-      "id": "642115e0f15c",
-      "title": "Man Utd & Arsenal eye Croatia striker - Sunday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw62y457008lo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-03T20:32:45+00:00",
-      "summary": "Three Premier League clubs are interested in Freiburg striker Igor Matanovic, Juventus want Liverpool centre-back Giovanni Leoni, Newcastle willing to let Joe Willock leave in January, plus more.",
-      "teams": [
-        "Croatia"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "7f813549612a",
       "title": "Bellingham stands out for high-grade England but Uefa sends out wrong message on racism | Barney Ronay",
       "url": "https://www.theguardian.com/football/2026/oct/03/bellingham-stands-out-for-high-grade-england-but-uefa-sends-wrong-message-on-racism",
@@ -190,18 +188,6 @@
       "teams": [
         "England",
         "Croatia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "cb2631207b4e",
-      "title": "Group has 'exploded' after Wales win - Bellamy",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgewx77521o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-03T16:11:50+00:00",
-      "summary": "Craig Bellamy says Wales' win over Norway has \"thrown a hand grenade\" into their Nations League group as they go in search of another victory against Denmark in Cardiff on Sunday.",
-      "teams": [
-        "Norway"
       ],
       "is_injury_related": false
     },
@@ -293,18 +279,6 @@
       "is_injury_related": false
     },
     {
-      "id": "3ecd47774adf",
-      "title": "The Unpromotables: Germany's league champions who can't go up",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmj4jr2vgx0ko",
-      "source": "BBC Sport",
-      "published_at": "2026-10-02T06:37:49+00:00",
-      "summary": "German football is grappling with a sum that doesn't add up - four promotion spots for five league champions.",
-      "teams": [
-        "Germany"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "9d77abd34b0f",
       "title": "Wales come from behind to beat 10-man Norway",
       "url": "https://www.bbc.co.uk/sport/football/videos/ckwyzyx5qd49o",
@@ -355,20 +329,6 @@
         "New Zealand",
         "Saudi Arabia",
         "Austria"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "3ff3eb72a086",
-      "title": "Yemen and football in the face of civil war: ‘It would be very nice to give the world a different headline’",
-      "url": "https://www.theguardian.com/football/2026/oct/01/yemen-football-civil-war-gulf-cup",
-      "source": "The Guardian",
-      "published_at": "2026-10-01T13:23:17+00:00",
-      "summary": "Coach Noureddine Ould Ali is staying positive despite a difficult situation at home and tough opponents at the Gulf Cup The Yemen national coach, Noureddine Ould Ali, chose not to reach for a good old-fashioned football excuse after his team’s 1-0 loss to Qatar in the Gulf Cup on",
-      "teams": [
-        "Qatar",
-        "Spain",
-        "Saudi Arabia"
       ],
       "is_injury_related": true
     },
