@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T00:33:30.483322+00:00",
+  "generated_at": "2026-10-04T06:48:20.501689+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -65,6 +65,19 @@
       "teams": [
         "Scotland",
         "Belgium"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "57d5f45a68e3",
+      "title": "Seventh heaven for England in Croatia",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pdvwxg",
+      "source": "BBC Sport",
+      "published_at": "2026-10-03T20:38:00+00:00",
+      "summary": "John Murray presents reaction in Croatia to England's 7-0 Nations League win.",
+      "teams": [
+        "England",
+        "Croatia"
       ],
       "is_injury_related": false
     },
@@ -240,18 +253,6 @@
       "is_injury_related": false
     },
     {
-      "id": "45b6bcda4c45",
-      "title": "Tuchel would never rule out players not in top flight",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqd095z49gjvo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-02T15:05:31+00:00",
-      "summary": "England boss Thomas Tuchel says he would \"never rule out\" selecting someone who is not playing in the top flight, should Manchester City be relegated.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "288d713a1bd3",
       "title": "Football Daily | Manchester City lace up their gloves ready for another round. Bring your dinner",
       "url": "https://www.theguardian.com/football/2026/oct/02/manchester-city-football-daily-newsletter",
@@ -415,18 +416,6 @@
         "Austria"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "a1ae2866202c",
-      "title": "Start Gannon-Doak and Bowie, but not McGinn? Key Scotland questions",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6x2ze5zm93go",
-      "source": "BBC Sport",
-      "published_at": "2026-10-01T13:38:59+00:00",
-      "summary": "Scotland head coach Sebastien Pocognoli has decisions to make as he searches for his first win in North Macedonia on Saturday.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "3ff3eb72a086",
