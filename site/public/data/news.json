@@ -1,21 +1,70 @@
 {
-  "generated_at": "2026-10-03T21:10:05.807317+00:00",
+  "generated_at": "2026-10-04T00:33:30.483322+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "a8ae6d5418b8",
-      "title": "North Macedonia 0-2 Scotland, Spain 3-1 Czechia and more: Nations League – live reaction",
-      "url": "https://www.theguardian.com/football/live/2026/oct/03/north-macedonia-v-scotland-spain-v-czechia-and-more-nations-league-live",
+      "id": "1b8662fa3652",
+      "title": "Two going on four, five or six on good night for new Scotland era",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx7vp540g75mo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-03T22:22:18+00:00",
+      "summary": "Scotland scored twice in North Macedonia but the scoreline does not reflect their dominance in Skopje, writes Tom English.",
+      "teams": [
+        "Scotland",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ec63fc0cfb3c",
+      "title": "'It means everything' - numbers behind Robertson's 100-cap Scotland career",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crgjqjg1l740o",
+      "source": "BBC Sport",
+      "published_at": "2026-10-03T21:27:29+00:00",
+      "summary": "Andy Robertson has become only the second man ever to play 100 times for Scotland. BBC Sport Scotland charts his international career in numbers.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "55ac39ddcde4",
+      "title": "Lamine Yamal stars again as Spain see off Czechia and maintain perfect start",
+      "url": "https://www.theguardian.com/football/2026/oct/03/lamine-yamal-stars-again-as-spain-see-off-czechia-and-maintain-perfect-start",
       "source": "The Guardian",
-      "published_at": "2026-10-03T21:03:10+00:00",
-      "summary": "Nations League updates from the 7.45pm BST kick-offs Live scores | Get the Football Daily newsletter | Mail Luke Spain: Raya; Fresneda, Le Normand, Laporte, García; Rodri, Pedri; Lamine Yamal, Olmo, Baena; Fernández. Czechia: Kinsky; Sacek, Chaloupek, Krejci, Slama; Ambros, Macek",
+      "published_at": "2026-10-03T21:13:00+00:00",
+      "summary": "Lamine Yamal says he feels like Superman or Spider-Man sometimes, and Spain’s fans are starting to wonder if he just might be. There is something comic book hero about what the teenager is doing right now, some unexplained super power swelling inside him. For the third consecutiv",
       "teams": [
         "Czech Republic",
-        "Scotland",
         "Spain"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "4f3a918680cc",
+      "title": "Bellingham unlocks new level and potential to be 'one of the greatest'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro",
+      "source": "BBC Sport",
+      "published_at": "2026-10-03T21:07:59+00:00",
+      "summary": "Jude Bellingham's international future was being called into question a year ago, but now he is regarded as potentially one of England's \"greatest of all time\".",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "4e049017c6dd",
+      "title": "Bowie gets Pocognoli off mark with Scotland victory in North Macedonia",
+      "url": "https://www.theguardian.com/football/2026/oct/03/north-macedonia-scotland-nations-league-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-10-03T21:01:49+00:00",
+      "summary": "This was an occasion on which Scotland dare not stumble. By the time Kieron Bowie smashed home a seventh minute opener against a North Macedonia side not without its troubles to seek, it was already clear they would not. Bowie afforded Sébastien Pocognoli his first goal as the Sc",
+      "teams": [
+        "Scotland",
+        "Belgium"
       ],
       "is_injury_related": false
     },
@@ -44,26 +93,15 @@
       "is_injury_related": true
     },
     {
-      "id": "02af3a6b40fc",
-      "title": "Robertson hits 100 Scotland caps - but who else makes top 10?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck3reg92815ro",
-      "source": "BBC Sport",
-      "published_at": "2026-10-03T19:24:04+00:00",
-      "summary": "We want you to name the 10 most capped Scotland men's players of all time, after current captain Andy Robertson makes his 100th national team appearance against North Macedonia on Saturday.",
+      "id": "dec6162e6b2c",
+      "title": "Tuchel convinced England have buried World Cup woes with Croatia thrashing",
+      "url": "https://www.theguardian.com/football/2026/oct/03/tuchel-convinced-england-have-buried-world-cup-woes-with-croatia-thrashing",
+      "source": "The Guardian",
+      "published_at": "2026-10-03T19:50:01+00:00",
+      "summary": "‘We’ll always have a scar, but this is how we move forward’ Manager praises ‘complete package’ Scott on full debut Thomas Tuchel said England have moved on from their World Cup pain after seeing his side deliver a statement performance in Rijeka and hand Croatia their biggest eve",
       "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "ec63fc0cfb3c",
-      "title": "Robertson's Scotland career in numbers as he wins 100th cap",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crgjqjg1l740o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-03T19:22:45+00:00",
-      "summary": "Andy Robertson has become only the second man ever to play 100 times for Scotland. BBC Sport Scotland charts his international career in numbers.",
-      "teams": [
-        "Scotland"
+        "England",
+        "Croatia"
       ],
       "is_injury_related": false
     },
@@ -73,7 +111,7 @@
       "url": "https://www.theguardian.com/football/2026/oct/03/cristiano-ronaldo-portugal-bruno-fernandes-jorge-jesus-nations-league",
       "source": "The Guardian",
       "published_at": "2026-10-03T19:02:26+00:00",
-      "summary": "Fernandes: ‘there are no divisions in the national team’ Ronaldo left team camp last week in selection row Bruno Fernandes has said Cristiano Ronaldo remains “the greatest symbol” of the Portugal team, despite his decision to walk out on the squad this week. Ronaldo said on Wedne",
+      "summary": "Fernandes: ‘There are no divisions in the national team’ Ronaldo left team camp this week in selection row Bruno Fernandes has said Cristiano Ronaldo remains “the greatest symbol” of the Portugal team, despite his decision to walk out on the squad this week. Ronaldo said on Wedne",
       "teams": [
         "Portugal"
       ],
@@ -92,21 +130,8 @@
       "is_injury_related": true
     },
     {
-      "id": "2511425fe2b2",
-      "title": "Kane and Saka double up as England school Croatia in historic Nations League rout",
-      "url": "https://www.theguardian.com/football/2026/oct/03/croatia-england-nations-league-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-10-03T18:04:02+00:00",
-      "summary": "It had all the edge of a pop concert in the stands but England looked ready to steal candy from a baby. The 6,200 Croatian under-14s allowed inside Stadion HNK Rijeka were invited free of charge and this was a priceless footballing experience. England ripped Croatia to shreds to ",
-      "teams": [
-        "England",
-        "Croatia"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "f85e4820adc8",
-      "title": "Who was the best player on the pitch? - England player ratings",
+      "title": "Who was best player on the pitch? Who looks a great addition? England ratings",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq4g1x8znyd0o",
       "source": "BBC Sport",
       "published_at": "2026-10-03T17:58:13+00:00",
@@ -128,18 +153,6 @@
         "Norway"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "403235372de0",
-      "title": "Manchester City whistleblower ready to help UK authorities in return for protection",
-      "url": "https://www.theguardian.com/football/2026/oct/03/manchester-city-whistleblower-rui-pinto-ready-to-help-uk-authorities-in-return-for-protection",
-      "source": "The Guardian",
-      "published_at": "2026-10-03T11:12:48+00:00",
-      "summary": "Rui Pinto faces loss of witness safeguarding in Portugal More documents over City affairs may be made available Rui Pinto, whose leaks helped to trigger the Premier League’s investigation into Manchester City’s financial affairs, is prepared to help authorities in the UK with the",
-      "teams": [
-        "Portugal"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "9a307600cb94",
@@ -338,30 +351,6 @@
       "is_injury_related": false
     },
     {
-      "id": "3acd0f33a3ca",
-      "title": "Real submit 'substantial' dossier in Barca payments case",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwddvdq3pzego",
-      "source": "BBC Sport",
-      "published_at": "2026-10-01T22:00:42+00:00",
-      "summary": "Real Madrid have sent Uefa \"evidence of extraordinary gravity\" relating to payments made by Barcelona to a former vice-president of Spain's referees' committee.",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "30793cdfcb9e",
-      "title": "Pro-Palestine protests interrupt game as Ireland pass up 2-0 lead in draw against Austria",
-      "url": "https://www.theguardian.com/football/2026/oct/01/pro-palestine-protests-interrupt-game-ireland-draw-austria-nations-league",
-      "source": "The Guardian",
-      "published_at": "2026-10-01T21:59:55+00:00",
-      "summary": "Protests halted events in Dublin twice before the Republic of Ireland were forced to settle for a 2-2 draw after Austria came back in the second half of their Nations League encounter at the Aviva Stadium. Despite a significant security presence, the contest was twice interrupted",
-      "teams": [
-        "Austria"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "9d77abd34b0f",
       "title": "Wales come from behind to beat 10-man Norway",
       "url": "https://www.bbc.co.uk/sport/football/videos/ckwyzyx5qd49o",
@@ -467,6 +456,18 @@
       "is_injury_related": true
     },
     {
+      "id": "0222c7b19441",
+      "title": "Jürgen Klopp disgusted by claims his Germany team are ‘not white enough’",
+      "url": "https://www.theguardian.com/football/2026/oct/01/jurgen-klopp-germany-team-not-white-enough-disgusted-claims",
+      "source": "The Guardian",
+      "published_at": "2026-10-01T10:06:14+00:00",
+      "summary": "Says social media claims are ‘nonsense’ and ‘idiocy’ Coach sees ‘no reason to pay attention to these people’ Jürgen Klopp has reacted with disgust to a social media debate questioning whether the Germany team he is in the process of forming are “white enough”. Klopp said he belie",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "1c17e3caf9b9",
       "title": "Unusual Williamson handball sees Arsenal slip to draw with Paris FC",
       "url": "https://www.bbc.co.uk/sport/football/videos/cwzdz9mzd3mvo",
@@ -477,6 +478,33 @@
         "England"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "5905b453e028",
+      "title": "‘A lot more to my game’: Gordon rises to a new level after Barcelona rebirth",
+      "url": "https://www.theguardian.com/football/2026/sep/30/anthony-gordon-england-nations-league-world-cup-barcelona",
+      "source": "The Guardian",
+      "published_at": "2026-09-30T18:00:14+00:00",
+      "summary": "Impressive against Spain, England’s best player against Czechia, the move to La Liga has transformed the winger The way that Anthony Gordon sees it, he is still the same player, the same guy – on a journey, striving for self-improvement, a thinker, immensely driven. The way that ",
+      "teams": [
+        "Czech Republic",
+        "Spain",
+        "Argentina",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "f37f1bc2f6f7",
+      "title": "Swiss FA ‘cannot justify’ its support for Infantino’s re-election as Fifa president",
+      "url": "https://www.theguardian.com/football/2026/sep/30/gianni-infantino-fifa-swiss-football-association-withdrawn-support-president-election-bid",
+      "source": "The Guardian",
+      "published_at": "2026-09-30T17:19:40+00:00",
+      "summary": "SFV withdraws support after endorsing candidacy in June Swiss-born Infantino has faced calls for his resignation The Swiss Football Association (SFV) has withdrawn its support for Gianni Infantino’s bid for another term as Fifa president, the organisation confirmed on Wednesday. ",
+      "teams": [
+        "Switzerland"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "23cc9592f8b2",
@@ -581,30 +609,6 @@
       "is_injury_related": false
     },
     {
-      "id": "bf76fee4e35e",
-      "title": "Messi’s exit leaves Argentina with impossible task of replacing their superhero | Jonathan Wilson",
-      "url": "https://www.theguardian.com/football/2026/sep/26/lionel-messi-exit-argentina-impossible-task-superhero",
-      "source": "The Guardian",
-      "published_at": "2026-09-26T19:00:43+00:00",
-      "summary": "When things are going awry, the Albiceleste will no longer be able to rely on their ultimate get-out clause It isn’t quite over yet. Lionel Messi will return a week on Wednesday for his formal farewell in a friendly against Benin, but, before that, Argentina face two games when t",
-      "teams": [
-        "Argentina"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "76f2aa1f6b70",
-      "title": "How drawn-out saga of Manchester City’s alleged cheating came to this",
-      "url": "https://www.theguardian.com/football/2026/sep/26/manchester-city-financial-charges-premier-league-uefa-abu-dhabi",
-      "source": "The Guardian",
-      "published_at": "2026-09-26T05:00:27+00:00",
-      "summary": "Club’s ruthless approach was always at odds with their public image and this inglorious story has further to run There is no episode in English football’s history that even resembles a precedent for the epic Manchester City disciplinary drama, which encapsulates the modern game a",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "dedf642de316",
       "title": "All done deals in September & October 2026",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo",
@@ -615,18 +619,6 @@
         "Scotland"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "c496bbb2418a",
-      "title": "‘We miss her the same every day’: Olivia Cusack on her late footballer sister Maddy",
-      "url": "https://www.theguardian.com/football/2026/sep/20/olivia-cusack-maddy-cusack-late-footballer-legacy-sheffield-united",
-      "source": "The Guardian",
-      "published_at": "2026-09-20T07:00:10+00:00",
-      "summary": "Family is determined to ensure her ‘legacy lives on’ three years after the Sheffield United player’s death Olivia Cusack says her sister, the late Maddy Cusack, is on her mind every single day and she is determined to ensure her “legacy lives on” three years after the former Engl",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
     }
   ]
 }
