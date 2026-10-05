@@ -1,10 +1,60 @@
 {
-  "generated_at": "2026-10-04T21:23:36.386795+00:00",
+  "generated_at": "2026-10-05T00:52:12.897901+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "627d3d30e773",
+      "title": "Clàudia Pina hits four as Barcelona score seven goals to demolish Real Madrid",
+      "url": "https://www.theguardian.com/football/2026/oct/04/claudia-pina-hits-four-as-barcelona-demolish-real-madrid",
+      "source": "The Guardian",
+      "published_at": "2026-10-04T22:28:38+00:00",
+      "summary": "Barcelona 7-0 Real Madrid Lead at the top stretched to five points Clàudia Pina smashed in four goals as Barcelona demolished Real Madrid 7-0 to earn a five point lead at the top of Liga F on Sunday over their rivals. The 25-year-old Spain international was in lethal form in fron",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "140bc0ea9b0a",
+      "title": "Portugal boss says door open for Ronaldo return",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3dxwry8vydvo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-04T22:10:59+00:00",
+      "summary": "Cristiano Ronaldo could still return for Portugal, according to boss Jorge Jesus.",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "b10c98b3832a",
+      "title": "Nations League roundup: Haaland limps off in Norway’s loss to Portugal",
+      "url": "https://www.theguardian.com/football/2026/oct/04/nations-league-roundup-haaland-limps-off-in-norways-loss-to-portugal",
+      "source": "The Guardian",
+      "published_at": "2026-10-04T21:42:23+00:00",
+      "summary": "Portugal victory seals place in quarter-finals Greece hold Germany to goalless draw Title-holders Portugal maintained their 100% record in the Nations League with a 2-1 home win over Norway on Sunday to seal a place in ⁠the March quarter-finals, while Manchester City’s problems m",
+      "teams": [
+        "Germany",
+        "Norway",
+        "Portugal"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "a7d6836e53ef",
+      "title": "Fans group questions Desmond's priorities amid Celtic protest row",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c60qke217knjo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-04T21:28:34+00:00",
+      "summary": "The Celtic Fans Collective has criticised Dermot Desmond's \"priorities\" after the Scottish champions withdrew recognition of the group following a protest against the major shareholder at the Alfred Dunhill Links golf tournament in St Andrews.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "45f6403648e7",
       "title": "You are the Scotland boss - what would you do?",
@@ -18,15 +68,28 @@
       "is_injury_related": false
     },
     {
-      "id": "e3bd334d883e",
-      "title": "Tuchel says Alex Scott’s emergence gives England – and Rice – ‘high level’ competition",
-      "url": "https://www.theguardian.com/football/2026/oct/04/alex-scott-declan-rice-thomas-tuchel-midfield-england-croatia-nations-league",
+      "id": "8dadf9fa7643",
+      "title": "Let’s stop doubting Thomas Tuchel: England are impressive and Euro 2028 is the target",
+      "url": "https://www.theguardian.com/football/2026/oct/04/thomas-tuchel-england-croatia-nations-league-euro-2028",
       "source": "The Guardian",
-      "published_at": "2026-10-04T18:00:34+00:00",
-      "summary": "Tuchel praises Scott’s all-round display in Croatia win ‘We will not survive on two midfielders. More the better’ Thomas Tuchel warned that there is competition for Declan Rice’s place in England’s midfield after Alex Scott marked his first international start with an outstanding",
+      "published_at": "2026-10-04T21:00:37+00:00",
+      "summary": "Coming third in the World Cup was really not a disaster, and Saturday’s rout of Croatia and building the team around Jude Bellingham are good signs Move fast and fix things. It has been a fine week so far for Thomas Tuchel as he attempts the cyclical task of soldering together no",
       "teams": [
         "England",
         "Croatia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "c766a0fd6483",
+      "title": "Denmark sink Wales as Rasmus Højlund makes Danny Ward pay for blunder",
+      "url": "https://www.theguardian.com/football/2026/oct/04/wales-denmark-nations-league-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-10-04T20:52:23+00:00",
+      "summary": "Wales crave momentum but, a few days after surely the sweetest high of Craig Bellamy’s two-year reign, a sapping international window ended on a bum note. At least until Bellamy was informed Portugal’s comeback victory over Norway means Wales will spend the next six weeks in thir",
+      "teams": [
+        "Norway",
+        "Portugal"
       ],
       "is_injury_related": true
     },
@@ -167,18 +230,6 @@
       "is_injury_related": true
     },
     {
-      "id": "70640a55ca64",
-      "title": "Ronaldo still 'greatest symbol' of Portugal - Fernandes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckq5nd1g14v4o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-03T18:57:50+00:00",
-      "summary": "Portugal midfielder Bruno Fernandes says Cristiano Ronaldo remains the country's greatest footballing figure despite leaving the squad this week after finding out he would not start a match.",
-      "teams": [
-        "Portugal"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "f85e4820adc8",
       "title": "Who was best player on the pitch? Who looks a great addition? England ratings",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq4g1x8znyd0o",
@@ -188,18 +239,6 @@
       "teams": [
         "England",
         "Croatia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "9a307600cb94",
-      "title": "Why beating Denmark matters to Wales' Euro 2028 hopes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck1wv77v9y3wo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-03T09:09:04+00:00",
-      "summary": "Avoiding finishing bottom of their Nations League group is a major aim for Wales following a win over Erling Haaland's Norway.",
-      "teams": [
-        "Norway"
       ],
       "is_injury_related": false
     },

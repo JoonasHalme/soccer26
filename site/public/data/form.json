@@ -3,8 +3,8 @@
   "updated": "2026-10-04",
   "since": "2026-05-01",
   "record": {
-    "correct": 54,
-    "total": 82
+    "correct": 53,
+    "total": 81
   },
   "recent": [
     {
@@ -225,26 +225,6 @@
         "pick": "H",
         "correct": false,
         "p_actual": 0.296
-      }
-    },
-    {
-      "date": "2026-10-01",
-      "home": "Uzbekistan",
-      "away": "Syria",
-      "hs": 4,
-      "as": 1,
-      "comp": "Friendly",
-      "friendly": true,
-      "tournament": false,
-      "weight": 0.5,
-      "neutral": false,
-      "model": {
-        "ph": 0.558,
-        "pd": 0.264,
-        "pa": 0.178,
-        "pick": "H",
-        "correct": true,
-        "p_actual": 0.558
       }
     },
     {
@@ -1851,26 +1831,6 @@
     },
     {
       "date": "2026-07-06",
-      "home": "Portugal",
-      "away": "Spain",
-      "hs": 0,
-      "as": 1,
-      "comp": "FIFA World Cup",
-      "friendly": false,
-      "tournament": true,
-      "weight": 1.75,
-      "neutral": true,
-      "model": {
-        "ph": 0.2,
-        "pd": 0.269,
-        "pa": 0.531,
-        "pick": "A",
-        "correct": true,
-        "p_actual": 0.531
-      }
-    },
-    {
-      "date": "2026-07-06",
       "home": "USA",
       "away": "Belgium",
       "hs": 1,
@@ -1887,6 +1847,26 @@
         "pick": "H",
         "correct": false,
         "p_actual": 0.312
+      }
+    },
+    {
+      "date": "2026-07-06",
+      "home": "Portugal",
+      "away": "Spain",
+      "hs": 0,
+      "as": 1,
+      "comp": "FIFA World Cup",
+      "friendly": false,
+      "tournament": true,
+      "weight": 1.75,
+      "neutral": true,
+      "model": {
+        "ph": 0.2,
+        "pd": 0.269,
+        "pa": 0.531,
+        "pick": "A",
+        "correct": true,
+        "p_actual": 0.531
       }
     },
     {
@@ -2022,11 +2002,11 @@
       "neutral": true,
       "model": {
         "ph": 0.382,
-        "pd": 0.301,
+        "pd": 0.3,
         "pa": 0.318,
         "pick": "H",
         "correct": false,
-        "p_actual": 0.301
+        "p_actual": 0.3
       }
     },
     {
@@ -7016,11 +6996,11 @@
           "neutral": true,
           "model": {
             "pw": 0.318,
-            "pd": 0.301,
+            "pd": 0.3,
             "pl": 0.382,
             "pick": "L",
             "correct": false,
-            "p_actual": 0.301
+            "p_actual": 0.3
           }
         },
         {
@@ -7879,11 +7859,11 @@
           "neutral": true,
           "model": {
             "pw": 0.382,
-            "pd": 0.301,
+            "pd": 0.3,
             "pl": 0.318,
             "pick": "W",
             "correct": false,
-            "p_actual": 0.301
+            "p_actual": 0.3
           }
         },
         {
@@ -8896,28 +8876,8 @@
       }
     },
     "Uzbekistan": {
-      "form": "LLLLW",
+      "form": "LLLLL",
       "matches": [
-        {
-          "date": "2026-10-01",
-          "opp": "Syria",
-          "gf": 4,
-          "ga": 1,
-          "res": "W",
-          "comp": "Friendly",
-          "friendly": true,
-          "weight": 0.5,
-          "home": true,
-          "neutral": false,
-          "model": {
-            "pw": 0.558,
-            "pd": 0.264,
-            "pl": 0.178,
-            "pick": "W",
-            "correct": true,
-            "p_actual": 0.558
-          }
-        },
         {
           "date": "2026-06-27",
           "opp": "DR Congo",
@@ -9017,10 +8977,30 @@
             "correct": true,
             "p_actual": 0.548
           }
+        },
+        {
+          "date": "2026-03-30",
+          "opp": "Venezuela",
+          "gf": 0,
+          "ga": 0,
+          "res": "D",
+          "comp": "FIFA Series",
+          "friendly": false,
+          "weight": 0.85,
+          "home": true,
+          "neutral": false,
+          "model": {
+            "pw": 0.522,
+            "pd": 0.277,
+            "pl": 0.201,
+            "pick": "W",
+            "correct": false,
+            "p_actual": 0.277
+          }
         }
       ],
       "record": {
-        "correct": 6,
+        "correct": 5,
         "total": 6
       }
     },
