@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-10-05T22:35:19.088079+00:00",
+  "generated_at": "2026-10-06T02:55:15.989469+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "27e73efa8742",
+      "title": "Mary Fowler ruled out of Matildas friendlies due to ‘personal circumstances’",
+      "url": "https://www.theguardian.com/football/2026/oct/06/mary-fowler-personal-circumstances-ruled-out-matildas-friendlies",
+      "source": "The Guardian",
+      "published_at": "2026-10-06T00:23:00+00:00",
+      "summary": "Manchester City attacker to miss Germany and Haiti games Charlton midfielder Leah Davidson called into Australia squad Matildas star Mary Fowler has been ruled out of upcoming friendly matches against Germany and Haiti due to personal circumstances. Football Australia confirmed o",
+      "teams": [
+        "Haiti",
+        "Australia",
+        "Germany"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "094c71282636",
       "title": "Nations League roundup: Olise leads late charge as France bowl over Belgium",
@@ -80,6 +94,18 @@
         "Croatia"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "e6b255e6b4ab",
+      "title": "Ex-England player Carroll names attacker as TV dance coach",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yn9np73xeo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-05T17:33:38+00:00",
+      "summary": "The former England striker tells the Sun he was sexually assaulted by former Fame Academy dance instructor Kevin Adams in 2021.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "882c21c92bdd",
@@ -379,18 +405,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "99734e393dfd",
-      "title": "Giant Dzeko shirt unveiled in Sarajevo to mark retirement",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx8dzpj896edo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-02T14:00:18+00:00",
-      "summary": "A giant Edin Dzeko shirt is unveiled in Sarajevo to mark the Bosnia striker's retirement from international football.",
-      "teams": [
-        "Bosnia & Herzegovina"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "9d77abd34b0f",
