@@ -1,12 +1,52 @@
 {
   "_note": "Recent international form + pre-match model calls for each WC2026 team (model/build_form.py). Display-only; 'weight' is the model's match-importance weight, model calls are walk-forward (no hindsight).",
-  "updated": "2026-10-05",
+  "updated": "2026-10-06",
   "since": "2026-05-01",
   "record": {
-    "correct": 53,
-    "total": 79
+    "correct": 55,
+    "total": 81
   },
   "recent": [
+    {
+      "date": "2026-10-06",
+      "home": "India",
+      "away": "Uruguay",
+      "hs": 1,
+      "as": 6,
+      "comp": "Friendly",
+      "friendly": true,
+      "tournament": false,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.006,
+        "pd": 0.055,
+        "pa": 0.94,
+        "pick": "A",
+        "correct": true,
+        "p_actual": 0.94
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "home": "South Korea",
+      "away": "Uzbekistan",
+      "hs": 2,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "tournament": false,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.611,
+        "pd": 0.245,
+        "pa": 0.143,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.611
+      }
+    },
     {
       "date": "2026-10-05",
       "home": "Uganda",
@@ -1962,11 +2002,11 @@
       "neutral": true,
       "model": {
         "ph": 0.382,
-        "pd": 0.3,
+        "pd": 0.301,
         "pa": 0.318,
         "pick": "H",
         "correct": false,
-        "p_actual": 0.3
+        "p_actual": 0.301
       }
     },
     {
@@ -6385,8 +6425,28 @@
       }
     },
     "Uruguay": {
-      "form": "DDDDL",
+      "form": "DDDLW",
       "matches": [
+        {
+          "date": "2026-10-06",
+          "opp": "India",
+          "gf": 6,
+          "ga": 1,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false,
+          "model": {
+            "pw": 0.94,
+            "pd": 0.055,
+            "pl": 0.006,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.94
+          }
+        },
         {
           "date": "2026-06-26",
           "opp": "Spain",
@@ -6486,30 +6546,10 @@
             "correct": false,
             "p_actual": 0.188
           }
-        },
-        {
-          "date": "2025-11-18",
-          "opp": "USA",
-          "gf": 1,
-          "ga": 5,
-          "res": "L",
-          "comp": "Friendly",
-          "friendly": true,
-          "weight": 0.5,
-          "home": false,
-          "neutral": false,
-          "model": {
-            "pw": 0.428,
-            "pd": 0.285,
-            "pl": 0.287,
-            "pick": "W",
-            "correct": false,
-            "p_actual": 0.287
-          }
         }
       ],
       "record": {
-        "correct": 1,
+        "correct": 2,
         "total": 6
       }
     },
@@ -6956,11 +6996,11 @@
           "neutral": true,
           "model": {
             "pw": 0.318,
-            "pd": 0.3,
+            "pd": 0.301,
             "pl": 0.382,
             "pick": "L",
             "correct": false,
-            "p_actual": 0.3
+            "p_actual": 0.301
           }
         },
         {
@@ -7819,11 +7859,11 @@
           "neutral": true,
           "model": {
             "pw": 0.382,
-            "pd": 0.3,
+            "pd": 0.301,
             "pl": 0.318,
             "pick": "W",
             "correct": false,
-            "p_actual": 0.3
+            "p_actual": 0.301
           }
         },
         {
@@ -8707,8 +8747,28 @@
       }
     },
     "South Korea": {
-      "form": "WWWLL",
+      "form": "WWLLW",
       "matches": [
+        {
+          "date": "2026-10-06",
+          "opp": "Uzbekistan",
+          "gf": 2,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false,
+          "model": {
+            "pw": 0.611,
+            "pd": 0.245,
+            "pl": 0.143,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.611
+          }
+        },
         {
           "date": "2026-06-24",
           "opp": "South Africa",
@@ -8808,26 +8868,6 @@
             "correct": true,
             "p_actual": 0.748
           }
-        },
-        {
-          "date": "2026-03-31",
-          "opp": "Austria",
-          "gf": 0,
-          "ga": 1,
-          "res": "L",
-          "comp": "Friendly",
-          "friendly": true,
-          "weight": 0.5,
-          "home": false,
-          "neutral": false,
-          "model": {
-            "pw": 0.216,
-            "pd": 0.284,
-            "pl": 0.5,
-            "pick": "L",
-            "correct": true,
-            "p_actual": 0.5
-          }
         }
       ],
       "record": {
@@ -8838,6 +8878,26 @@
     "Uzbekistan": {
       "form": "LLLLL",
       "matches": [
+        {
+          "date": "2026-10-06",
+          "opp": "South Korea",
+          "gf": 0,
+          "ga": 2,
+          "res": "L",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": false,
+          "neutral": false,
+          "model": {
+            "pw": 0.143,
+            "pd": 0.245,
+            "pl": 0.611,
+            "pick": "L",
+            "correct": true,
+            "p_actual": 0.611
+          }
+        },
         {
           "date": "2026-06-27",
           "opp": "DR Congo",
@@ -8937,30 +8997,10 @@
             "correct": true,
             "p_actual": 0.548
           }
-        },
-        {
-          "date": "2026-03-30",
-          "opp": "Venezuela",
-          "gf": 0,
-          "ga": 0,
-          "res": "D",
-          "comp": "FIFA Series",
-          "friendly": false,
-          "weight": 0.85,
-          "home": true,
-          "neutral": false,
-          "model": {
-            "pw": 0.522,
-            "pd": 0.277,
-            "pl": 0.201,
-            "pick": "W",
-            "correct": false,
-            "p_actual": 0.277
-          }
         }
       ],
       "record": {
-        "correct": 5,
+        "correct": 6,
         "total": 6
       }
     },
