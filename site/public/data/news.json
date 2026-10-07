@@ -1,10 +1,61 @@
 {
-  "generated_at": "2026-10-06T22:37:30.377530+00:00",
+  "generated_at": "2026-10-07T02:18:53.888433+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "52fe29f0b5fe",
+      "title": "USMNT v Canada live – updates, analysis and more from international friendly",
+      "url": "https://www.theguardian.com/football/live/2026/oct/06/usmnt-v-canada-live-updates-analysis",
+      "source": "The Guardian",
+      "published_at": "2026-10-07T02:06:22+00:00",
+      "summary": "Game at Allianz Field in Saint Paul kicks off at 8pm ET Last time out: USA beats Mexico 3-0 in romp Email Beau your questions, thoughts and jokes Jeff is at the game. Meanwhile, Pablo Maurer is following the Messi farewell: Goalkeeper feels like a re-opened competition after shak",
+      "teams": [
+        "Mexico",
+        "Canada",
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "4929cc189b29",
+      "title": "Lionel Messi bids Argentina adieu with goal and two assists in 3-0 win over Benin – as it happened",
+      "url": "https://www.theguardian.com/football/live/2026/oct/06/lionel-messi-farewell-match-live-updates-analysis-argentina-benin",
+      "source": "The Guardian",
+      "published_at": "2026-10-07T01:41:52+00:00",
+      "summary": "The 2022 World Cup champion was given a raucous sendoff with plenty of pomp and circumstance. Read Pablo Iglesias Maurer’s minute-by-minute report. Guardian reader Paul reached out via email and is apparently deep in the comments section of a 20-year-old Messi article we publishe",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "5951e63bf5ab",
+      "title": "Total Midweek Kane: England’s icon delivers a classic on his way to footballing ultimacy | Barney Ronay",
+      "url": "https://www.theguardian.com/football/2026/oct/06/total-midweek-kane-englands-icon-delivers-a-classic-on-his-way-to-footballing-ultimacy",
+      "source": "The Guardian",
+      "published_at": "2026-10-06T22:56:09+00:00",
+      "summary": "On a night where he equalled Peter Shilton’s England appearance record, Harry Kane did what he always does It is a very Harry Kane kind of thing to equal a record. Respectful, no ego, all about the collective. On a room temperature night at Wembley Stadium Kane duly did this, dra",
+      "teams": [
+        "Czech Republic",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "991e2f52e649",
+      "title": "Midfield options and a fab front four - what we've learned about England",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq62y431dj8vo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-06T22:34:46+00:00",
+      "summary": "From Trent Alexander-Arnold's return to Alex Scott's debut, Phil McNulty assesses what England have learned during this international window.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "4d63fc41aeb9",
       "title": "Honeymoon over as Pocognoli's Scotland suffer domestic disharmony",
@@ -15,18 +66,6 @@
       "teams": [
         "Scotland",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "4929cc189b29",
-      "title": "Lionel Messi farewell match live – updates and analysis from Argentina v Benin",
-      "url": "https://www.theguardian.com/football/live/2026/oct/06/lionel-messi-farewell-match-live-updates-analysis-argentina-benin",
-      "source": "The Guardian",
-      "published_at": "2026-10-06T22:27:48+00:00",
-      "summary": "Farewell match kicks off at 7pm ET Messi has completed football Email Pablo your analysis, jokes and more Argentina’s starting XI is out and Messi, unsurprisingly, is in it, as are many of the players who helped guide Argentina to the 2026 World Cup final. Goalkeeper: Emiliano Ma",
-      "teams": [
-        "Argentina"
       ],
       "is_injury_related": false
     },
@@ -206,18 +245,6 @@
       "is_injury_related": false
     },
     {
-      "id": "a9376719f520",
-      "title": "Lionel Messi has completed football and can bid Argentina farewell with pride",
-      "url": "https://www.theguardian.com/football/2026/oct/06/lionel-messi-completed-football-argentina-farewell-world-cup-glory",
-      "source": "The Guardian",
-      "published_at": "2026-10-06T11:07:41+00:00",
-      "summary": "Messi says goodbye with 208 caps and a World Cup but there were times he thought his glory would never come By Opta Analyst Not for the first time, Lionel Messi is returning to the Argentina national team. This occasion, however, will be accompanied by a sense of completion and c",
-      "teams": [
-        "Argentina"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "94342988e670",
       "title": "The small African nation ready for Messi's big night",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqly0lx461m8o",
@@ -266,19 +293,6 @@
       "is_injury_related": false
     },
     {
-      "id": "c1029add1345",
-      "title": "Born into Celtic, made at Motherwell, Welsh comes of age with Scotland",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crd938wj2n14o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-06T06:18:52+00:00",
-      "summary": "It takes talent, resilience and good fortune in finding managers who believe in you, but dreams can come true. Stephen Welsh is living proof of it, writes Tom English.",
-      "teams": [
-        "Scotland",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "760e7778044d",
       "title": "Owner, businessman & player: Messi has big plans as a golden era ends",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwly3lpmyye9o",
@@ -315,18 +329,6 @@
         "Turkey",
         "Belgium",
         "France"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "a3a9cf0d4307",
-      "title": "Humble Gilmour happy with new role as 50th cap beckons",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmly05el6gz2o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-05T21:28:25+00:00",
-      "summary": "Billy Gilmour is excited by the prospect of earning a 50th Scotland cap after a key role in Sebastien Pocognoli's first win as national head coach.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -433,19 +435,6 @@
       "is_injury_related": false
     },
     {
-      "id": "fb7fe8670a23",
-      "title": "A nation divided as Ronaldo left with big decision on Portugal future",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crwyd31nw2w4o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-05T10:22:57+00:00",
-      "summary": "BBC Sport looks at what could be the end of Cristiano Ronaldo's international career just days before the expected fanfare of Lionel Messi's Argentina goodbye.",
-      "teams": [
-        "Argentina",
-        "Portugal"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "a5168b5a3562",
       "title": "Manager ins and outs - 2026-27",
       "url": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo",
@@ -469,20 +458,6 @@
         "Scotland"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "dc16366899aa",
-      "title": "Czechia’s Santi Denia: ‘Anthony Gordon? What a player! He’s at the same level as Lamine Yamal’",
-      "url": "https://www.theguardian.com/football/2026/oct/05/santi-denia-anthony-gordon-lamine-yamal-england-czechia",
-      "source": "The Guardian",
-      "published_at": "2026-10-05T07:00:51+00:00",
-      "summary": "After working with nearly all of Spain’s World Cup-winning squad in their formative years, the coach is also a huge fan of English football. He’s now pitting his wits against both At the end of a 2-0 defeat by England in Prague, the Czechia coach turned left, walked along the tou",
-      "teams": [
-        "Czech Republic",
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "0827aeeae718",
