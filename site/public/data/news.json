@@ -1,10 +1,35 @@
 {
-  "generated_at": "2026-10-08T17:51:08.466510+00:00",
+  "generated_at": "2026-10-08T23:17:25.750392+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "bbc6f5ed53be",
+      "title": "Premier League: 10 things to look out for this weekend",
+      "url": "https://www.theguardian.com/football/2026/oct/09/premier-league-10-things-to-look-out-for-this-weekend",
+      "source": "The Guardian",
+      "published_at": "2026-10-08T23:01:31+00:00",
+      "summary": "Michael Carrick is wary of ‘Dr Tottenham’, Oliver Glasner returns to Selhurst Park and will Manchester City summon a siege mentality at Anfield? Premier League top scorers | View the league table Declan Rice’s future role in England’s midfield was questioned by Gary Lineker after",
+      "teams": [
+        "England",
+        "Croatia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "243c3e9a72fb",
+      "title": "Real seek McTominay move - Friday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crgj96ww6x4eo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-08T21:10:23+00:00",
+      "summary": "Real Madrid are interested in former Manchester United midfielder Scott McTominay and France forward Michael Olise, while Chelsea are keen on Frenkie de Jong.",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "0cde012223b2",
       "title": "Suspended fine for Xhaka over Covid-19 certificate",
@@ -35,7 +60,7 @@
       "url": "https://www.theguardian.com/football/2026/oct/08/sarina-wiegman-praises-ella-toone-attitude-late-england-lionesses-recall-greece-playoff",
       "source": "The Guardian",
       "published_at": "2026-10-08T16:33:25+00:00",
-      "summary": "Manchester United midfielder was left out of initial squad First leg of World Cup playoff is on Friday in Crete Sarina Wiegman heaped praise on Ella Toone for her positive reaction to being left out of England’s initial squad for their Women’s World Cup playoff against Greece, af",
+      "summary": "Manchester United midfielder left out of initial squad First leg of World Cup playoff is on Friday in Crete Sarina Wiegman heaped praise on Ella Toone for her positive reaction to being left out of England’s initial squad for their Women’s World Cup playoff against Greece, after ",
       "teams": [
         "Spain",
         "England"
@@ -141,6 +166,18 @@
       "is_injury_related": true
     },
     {
+      "id": "ccf08ad5e15a",
+      "title": "Women’s Super League faces wait until 2029 for full-time referees despite funding boost",
+      "url": "https://www.theguardian.com/football/2026/oct/08/womens-super-league-wait-2029-full-time-referees-funding-boost-football",
+      "source": "The Guardian",
+      "published_at": "2026-10-08T09:34:05+00:00",
+      "summary": "Extra investment agreed at latest WSL board meeting Calls for fully professional match officials have grown Women’s Super League clubs have agreed to a major funding increase for match officials but the wait for full-time referees in the English top tier is set to continue until ",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "f22e8265cc2d",
       "title": "Toone comes into England squad as Bronze withdraws",
       "url": "https://www.bbc.co.uk/sport/football/articles/c962yzlgln8po",
@@ -240,30 +277,6 @@
       "is_injury_related": false
     },
     {
-      "id": "2207336000d4",
-      "title": "McTominay resumes Napoli training after surgery",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwly3x2y95emo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-07T19:31:04+00:00",
-      "summary": "Scotland midfielder Scott McTominay returns to training at Napoli following his recent heart surgery.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "b175738d68be",
-      "title": "Southampton manager Tonda Eckert given six-week suspended ban for Spygate scandal",
-      "url": "https://www.theguardian.com/football/2026/oct/07/southampton-manager-tonda-eckert-six-week-suspended-ban-spygate-fa",
-      "source": "The Guardian",
-      "published_at": "2026-10-07T18:53:31+00:00",
-      "summary": "Independent commission cites ‘genuine contrition’ But FA wanted three-month ban and may appeal The Southampton head coach, Tonda Eckert, has escaped a ban from the Football Association for his part in the Spygate scandal that led to the club being expelled from last season’s Cham",
-      "teams": [
-        "Germany"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "031d59882e41",
       "title": "All aboard the Tuchel train? England camp has clear winners and losers",
       "url": "https://www.theguardian.com/football/2026/oct/07/england-winners-and-losers-thomas-tuchel-tactics-squad-selection",
@@ -314,18 +327,6 @@
       "is_injury_related": false
     },
     {
-      "id": "364b06331c7f",
-      "title": "Football Daily | Tears, drone ads and a 1,740-word manifesto: Messi v Ronaldo gets one more chapter",
-      "url": "https://www.theguardian.com/football/2026/oct/07/lionel-messi-cristiano-ronaldo-football-daily-newsletter",
-      "source": "The Guardian",
-      "published_at": "2026-10-07T14:37:55+00:00",
-      "summary": "Nothing compares to sport’s contrasts, and few are as stark as the exits of two defining icons of the modern football era. As one continues to negotiate his grand departure from the international stage in a swirl of petulant rancour, bitterness and posturing, the other’s farewell",
-      "teams": [
-        "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "8a4f6160c735",
       "title": "Are SPFL away ticket prices too expensive? And is price cap on agenda?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cr89j9194kx3o",
@@ -336,18 +337,6 @@
         "Scotland"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "f603cb319ed7",
-      "title": "Why are so many British footballers playing in Serie A?",
-      "url": "https://www.theguardian.com/football/2026/oct/07/many-british-footballers-playing-serie-a-italian-top-flight",
-      "source": "The Guardian",
-      "published_at": "2026-10-07T12:00:09+00:00",
-      "summary": "The 1990s felt like a golden age, but there are 21 British players in Serie A this season – more than ever before By The Football Mine What do Jimmy Greaves, Ray Wilkins, David Beckham, Paul Gascoigne and Kyle Walker have in common? They all made more than 50 appearances for Engl",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "e41eb9a074a3",
@@ -443,6 +432,19 @@
       "summary": "Our cartoonist on the 25th anniversary of the England midfielder’s one-man rescue act at Old Trafford Buy this cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading...",
       "teams": [
         "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "882c21c92bdd",
+      "title": "Ronaldo’s break with Portugal is sad, fitting, and long overdue | Jonathan Wilson",
+      "url": "https://www.theguardian.com/football/2026/oct/05/cristiano-ronaldo-portugal-rift",
+      "source": "The Guardian",
+      "published_at": "2026-10-05T15:30:46+00:00",
+      "summary": "The star’s rift with Jorge Jesus is an unfortunate affair. But the forward has been holding his national team back for years Sign up for our free newsletter here If this is to be the end for Cristiano Ronaldo at international level, at least it can be said that he left the stage ",
+      "teams": [
+        "Norway",
+        "Portugal"
       ],
       "is_injury_related": false
     },
