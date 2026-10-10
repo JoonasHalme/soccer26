@@ -1,17 +1,102 @@
 {
-  "generated_at": "2026-10-09T19:30:39.342177+00:00",
+  "generated_at": "2026-10-10T00:00:02.868039+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "18798fe212f1",
+      "title": "Man City whistleblower to remain in witness protection",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq4g1xerk398o",
+      "source": "BBC Sport",
+      "published_at": "2026-10-09T22:59:32+00:00",
+      "summary": "The computer hacker who released documents which helped trigger the Premier League investigation into Manchester City will remain under witness protection after authorities in Portugal suspend the decision to end it.",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "4e967f5a24ba",
+      "title": "Chelsea manager Alonso insists Cole Palmer is committed to playing for England",
+      "url": "https://www.theguardian.com/football/2026/oct/09/chelsea-xabi-alonso-cole-palmer-england-thomas-tuchel",
+      "source": "The Guardian",
+      "published_at": "2026-10-09T21:30:38+00:00",
+      "summary": "Palmer pulled out of England squad due to injury Attacker available for Chelsea’s game with Bournemouth Xabi Alonso has said Cole Palmer is committed to playing for England and revealed Chelsea’s No 10 missed this international break with a problem related to the groin injury tha",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "c4d674a50369",
+      "title": "NI World Cup hopes gone from 'improbable to impossible'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6gqw03lxxnno",
+      "source": "BBC Sport",
+      "published_at": "2026-10-09T21:24:28+00:00",
+      "summary": "Michael McArdle admits Northern Ireland's chances of beating Portugal in a Women's World Cup play-off have \"gone from improbable to impossible\" after a 4-0 first leg defeat.",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6755faf497df",
+      "title": "Arsenal eye deal for teenager Mora - Saturday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxr5y36yml21o",
+      "source": "BBC Sport",
+      "published_at": "2026-10-09T21:19:35+00:00",
+      "summary": "Arsenal eye deal for Mexico teenager Gilberto Mora, AC Milan in pole position for Endrick, Nottingham Forest braced for Murillo interest",
+      "teams": [
+        "Mexico"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1006a89764bb",
+      "title": "Greek takeaways: What did we learn from Lionesses' win?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwp8g1ry6rjlo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-09T21:15:24+00:00",
+      "summary": "England come away from Greece with a valuable first-leg lead in their Women's World Cup qualifying play-off - but who impressed in the 3-1 victory?",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "932dccd35d9a",
+      "title": "Sam Kerr on target but Matildas outclassed by youthful Germany in European friendly",
+      "url": "https://www.theguardian.com/football/2026/oct/10/matildas-australia-germany-sam-kerr-friendly-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-10-09T20:52:54+00:00",
+      "summary": "Australia fall 4-2 to world No 3 side in Karlsruhe Holly McNamara joins Kerr on scoresheet for Matildas For a moment, it felt like the Matildas were back. Ellie Carpenter took off down the right wing, eating up the metres with the ball at her feet, bouncing a pass off Hayley Raso",
+      "teams": [
+        "Australia",
+        "Germany"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "620de93df148",
+      "title": "Russo’s return to form is vital but Lionesses still lack bite against low blocks | Suzanne Wrack",
+      "url": "https://www.theguardian.com/football/2026/oct/09/lionesses-alessia-russo-england-greece-womens-world-cup-qualification-playoff",
+      "source": "The Guardian",
+      "published_at": "2026-10-09T20:05:40+00:00",
+      "summary": "England have the edge over Greece after the first leg of their World Cup playoff but remain a team in transition It took a labyrinthine move from Sarina Wiegman’s team to find a way through deep-lying Greece. On the outskirts of Heraklion, the ancient city of Knossos, which is as",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "5300be5842ee",
       "title": "Lionesses take control of World Cup playoff tie but unfancied Greece still in fight",
       "url": "https://www.theguardian.com/football/2026/oct/09/greece-england-womens-world-cup-qualifying-playoff",
       "source": "The Guardian",
       "published_at": "2026-10-09T18:46:37+00:00",
-      "summary": "World Cup qualifying playoff: Greece 1-3 England Stanway, Le Tissier and Russo on target England secured a 3-1 first-leg victory over Greece in their Women’s World Cup playoff tie but were unable to produce the convincing performance they would have hoped for, against a hugely un",
+      "summary": "World Cup qualifying playoff: Greece 1-3 England Stanway, Le Tissier and Russo on target Sarina Wiegman said she wanted to see a bit more from her side after their fairly underwhelming performance against a hugely unfancied Greek side, despite securing a valuable first-leg victor",
       "teams": [
         "England"
       ],
@@ -66,18 +151,6 @@
       "is_injury_related": false
     },
     {
-      "id": "50403ee0a8ea",
-      "title": "How do Spanish clubs become 'Real' or 'royal'?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwdd865ym7n7o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-09T08:41:18+00:00",
-      "summary": "The title of 'Real' is bestowed upon Spanish clubs by the country's monarchy but it has little to do with achievements on the field.",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "ec002f6ac5fb",
       "title": "Oliver Glasner: ‘There was no plan for me to be Nottingham Forest manager’",
       "url": "https://www.theguardian.com/football/2026/oct/09/oliver-glasner-there-was-no-plan-for-me-to-be-nottingham-forest-manager",
@@ -91,26 +164,15 @@
       "is_injury_related": true
     },
     {
-      "id": "243c3e9a72fb",
-      "title": "Real seek McTominay move - Friday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crgj96ww6x4eo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-08T21:10:23+00:00",
-      "summary": "Real Madrid are interested in former Manchester United midfielder Scott McTominay and France forward Michael Olise, while Chelsea are keen on Frenkie de Jong.",
-      "teams": [
-        "France"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "2471b7b6fffb",
-      "title": "‘Is the greatness of the Premier League a myth?’: Ed Aarons answered your football questions",
-      "url": "https://www.theguardian.com/sport/live/2026/oct/08/football-qa-ask-ed-aarons-your-questions-as-the-premier-league-returns",
+      "id": "bbc6f5ed53be",
+      "title": "Premier League: 10 things to look out for this weekend",
+      "url": "https://www.theguardian.com/football/2026/oct/09/premier-league-10-things-to-look-out-for-this-weekend",
       "source": "The Guardian",
-      "published_at": "2026-10-08T15:48:01+00:00",
-      "summary": "With the Premier League back on Saturday, football writer Ed Aarons answered your questions on what the Man City verdict means, whether referees will be stricter, and whether Don’t Look Back In Anger was prophetic Fearandloathingpart2 asks : Given the political pressure that is i",
+      "published_at": "2026-10-08T23:01:31+00:00",
+      "summary": "Michael Carrick is wary of ‘Dr Tottenham’, Oliver Glasner returns to Selhurst Park and will Manchester City summon a siege mentality at Anfield? Premier League top scorers | View the league table Declan Rice’s future role in England’s midfield was questioned by Gary Lineker after",
       "teams": [
-        "England"
+        "England",
+        "Croatia"
       ],
       "is_injury_related": true
     },
@@ -136,18 +198,6 @@
       "teams": [
         "Brazil",
         "Portugal"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "c25ea55d8484",
-      "title": "‘¡Qué Horror!’: Mexico’s World Cup honeymoon is over but is Rafa Márquez really to blame?",
-      "url": "https://www.theguardian.com/football/2026/oct/08/mexico-soccer-team-rafael-marquez",
-      "source": "The Guardian",
-      "published_at": "2026-10-08T11:22:24+00:00",
-      "summary": "A series of dispiriting friendly results have El Tri reeling. But the problems run much deeper than the team’s new coach When a new coach ascends to lead Mexico’s national team, fans say he is sitting in “la silla mas caliente” – the hottest seat in town; one that can also burn. ",
-      "teams": [
-        "Mexico"
       ],
       "is_injury_related": false
     },
@@ -188,18 +238,6 @@
       "is_injury_related": true
     },
     {
-      "id": "ccf08ad5e15a",
-      "title": "Women’s Super League faces wait until 2029 for full-time referees despite funding boost",
-      "url": "https://www.theguardian.com/football/2026/oct/08/womens-super-league-wait-2029-full-time-referees-funding-boost-football",
-      "source": "The Guardian",
-      "published_at": "2026-10-08T09:34:05+00:00",
-      "summary": "Extra investment agreed at latest WSL board meeting Calls for fully professional match officials have grown Women’s Super League clubs have agreed to a major funding increase for match officials but the wait for full-time referees in the English top tier is set to continue until ",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "bf4f49a6388c",
       "title": "Havertz, Isak, Dorgu … spate of injuries with national teams leaves sour taste for top clubs",
       "url": "https://www.theguardian.com/football/2026/oct/08/premier-league-injuries-kai-havertz-alexander-isak-patrick-dorgu",
@@ -212,19 +250,6 @@
         "Croatia"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "71c5d490dbe1",
-      "title": "How can home nations reach Women's World Cup?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqzrdmjp5162o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-08T07:01:10+00:00",
-      "summary": "England, Wales, Northern Ireland, Scotland and the Republic of Ireland are among those hoping to qualify for next year's Women's World Cup. What awaits them in the play-offs?",
-      "teams": [
-        "Scotland",
-        "England"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "f989f99cd2ba",
