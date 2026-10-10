@@ -1,19 +1,118 @@
 {
-  "generated_at": "2026-10-10T17:48:37.341313+00:00",
+  "generated_at": "2026-10-10T21:36:23.485077+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "3308f211d779",
-      "title": "Listen: Sportsound fan zone",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm",
+      "id": "bee738ee0b7b",
+      "title": "USWNT exposed by ruthless Spain as early goals settle heavyweight friendly",
+      "url": "https://www.theguardian.com/football/2026/oct/10/uswnt-spain-match-report-washington-dc",
+      "source": "The Guardian",
+      "published_at": "2026-10-10T20:53:53+00:00",
+      "summary": "Guijarro and Navarro score in opening 14 minutes US midfield and defensive lapses exposed by Spain Yohannes misses penalty as US fightback falls short In less than a year’s time, the United States and Spain will almost certainly arrive in Brazil as the top two contenders to win t",
+      "teams": [
+        "Brazil",
+        "USA",
+        "Spain"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "635fd9985b1e",
+      "title": "Portugal suspend Cristiano Ronaldo after walking out on national team",
+      "url": "https://www.theguardian.com/football/2026/oct/10/portugal-suspend-cristiano-ronaldo",
+      "source": "The Guardian",
+      "published_at": "2026-10-10T20:48:18+00:00",
+      "summary": "Federation opens disciplinary proceedings Veteran has been critical of coach Jorge Jesus Cristiano Ronaldo has been provisionally suspended as the Portuguese football federation (FPF) opened disciplinary proceedings against the 41-year-old after his decision to walk out on the na",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "6d599aa99c50",
+      "title": "European football: Gordon boosts Barcelona and Bayern battle back",
+      "url": "https://www.theguardian.com/football/2026/oct/10/european-football-bayern-concede-fastest-goal-bundeliga-history",
+      "source": "The Guardian",
+      "published_at": "2026-10-10T19:05:20+00:00",
+      "summary": "Gordon scores first goal for club as Getafe are beaten 3-0 Bayern draw despite conceding fastest Bundesliga goal Anthony Gordon scored his first goal for Barcelona as the Spanish champions extended their perfect start in La Liga with a 3-0 home win over Getafe . The England inter",
+      "teams": [
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "187c8a0e56f0",
+      "title": "Henderson scores twice as five-star Chelsea thrash Bournemouth",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cjy5zxv9qq1po",
       "source": "BBC Sport",
-      "published_at": "2026-10-10T18:00:00+00:00",
-      "summary": "Reaction to Saturday's Scottish football as the fans get their say.",
+      "published_at": "2026-10-10T19:00:12+00:00",
+      "summary": "Jordan Henderson has a home debut to remember as he scores twice for Chelsea as his side thrash Bournemouth 5-1 at Stamford Bridge, leaving the away side still searching for their first Premier League win this season.",
+      "teams": [
+        "Jordan"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "0481a649943e",
+      "title": "Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson",
+      "url": "https://www.theguardian.com/football/2026/oct/10/why-premier-league-in-clutches-of-global-mega-rich",
+      "source": "The Guardian",
+      "published_at": "2026-10-10T19:00:05+00:00",
+      "summary": "There’s little prospect of the model changing in a country that welcomes wealthy international owners with open arms Football, the world’s most popular sport, played by laws drawn up in London in 1863. The Premier League is the UK’s greatest soft power export. Premier League club",
+      "teams": [
+        "Saudi Arabia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "935eaa370634",
+      "title": "Solanke strikes late as 10-man Spurs salvage point at Manchester United",
+      "url": "https://www.theguardian.com/football/2026/oct/10/manchester-united-tottenham-premier-league-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-10-10T18:50:45+00:00",
+      "summary": "Manchester United are on six points – their poorest start since 1986 – and Tottenham have three less and remain stuck in the relegation zone: testing times for Michael Carrick and Roberto De Zerbi, who must somehow revive their teams following a contest that was lit up by a momen",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6bc880b56c8b",
+      "title": "Scottish Premiership: Naderi puts Rangers top and Hearts rout St Mirren",
+      "url": "https://www.theguardian.com/football/2026/oct/10/scottish-premiership-rangers-hearts-celtic",
+      "source": "The Guardian",
+      "published_at": "2026-10-10T18:17:03+00:00",
+      "summary": "Gers beat Kilmarnock 3-1 to go ahead of Celtic overnight Calvin Miller scores two penalties in Hearts 5-0 St Mirren Derek McInnes praised his Rangers players as they moved to the top of the league and blamed the extended international break for some disjointed play in a 3-1 win o",
       "teams": [
         "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "9ae65698998d",
+      "title": "Bayern strike late to avoid shock defeat at Augsburg",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c674peklk5kno",
+      "source": "BBC Sport",
+      "published_at": "2026-10-10T18:15:25+00:00",
+      "summary": "Harry Kane provides two assists to help Bayern Munich salvage a late draw at Augsburg but the draw means the German champions miss the chance to move top of the Bundesliga.",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "5a551114e2ba",
+      "title": "The rock behind Chelsea's entertainers: Midfield duo key for Blues",
+      "url": "https://www.bbc.co.uk/sport/articles/cw3dj5yx4ej2o",
+      "source": "BBC Sport",
+      "published_at": "2026-10-10T18:09:37+00:00",
+      "summary": "The performances of Jordan Henderson and Moises Caicedo underpinned Chelsea's 5-1 victory at home to Bournemouth on Saturday afternoon.",
+      "teams": [
+        "Jordan"
       ],
       "is_injury_related": false
     },
@@ -30,37 +129,12 @@
       "is_injury_related": true
     },
     {
-      "id": "6d599aa99c50",
-      "title": "European football: Bayern fight back after conceding fastest goal in Bundesliga history",
-      "url": "https://www.theguardian.com/football/2026/oct/10/european-football-bayern-concede-fastest-goal-bundeliga-history",
-      "source": "The Guardian",
-      "published_at": "2026-10-10T16:56:40+00:00",
-      "summary": "Augsburg’s Robin Fellhauer scored after eight ⁠seconds Rayo Vallecano match abandoned as fans protest Augsburg ’s Robin Fellhauer scored after eight ⁠seconds against Bayern Munich on Saturday to record the fastest ⁠goal in Bundesliga ⁠history, ​but the visiting German champions t",
-      "teams": [
-        "Germany"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "6bc880b56c8b",
-      "title": "Scottish Premiership: Naderi puts Rangers top and Hearts rout St Mirren",
-      "url": "https://www.theguardian.com/football/2026/oct/10/scottish-premiership-rangers-hearts-celtic",
-      "source": "The Guardian",
-      "published_at": "2026-10-10T16:55:37+00:00",
-      "summary": "Gers beat Kilmarnock 3-1 to go ahead of Celtic overnight Calvin Miller scores two penalties in Hearts 5-0 St Mirren Ryan Naderi scored twice as Rangers moved top of the Premiership with a 3-1 win over Kilmarnock . The German-born striker twice headed home in the first half to tak",
-      "teams": [
-        "Scotland",
-        "Germany"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "6253a0ade406",
       "title": "Henderson and João Pedro lead Chelsea charge against Bournemouth",
       "url": "https://www.theguardian.com/football/2026/oct/10/chelsea-bournemouth-premier-league-match-report",
       "source": "The Guardian",
       "published_at": "2026-10-10T16:18:07+00:00",
-      "summary": "Watch and learn, kids. The day began with one for the youth audience, Cole Palmer appearing on a live stream to explain the thinking behind his latest contract extension, and it finished with the oldest player to join Chelsea during the BlueCo era stealing the show with an all-ac",
+      "summary": "Watch and learn, kids. The day began with one for the youth audience, Cole Palmer appearing on a live stream to explain the thinking behind his latest contract extension. It finished with the oldest player to join Chelsea during the BlueCo era stealing the show with an all-action",
       "teams": [
         "Jordan"
       ],
@@ -79,18 +153,6 @@
       "is_injury_related": false
     },
     {
-      "id": "5df4365ac6be",
-      "title": "Ipswich’s O’Shea and Ouattara stun Fulham with last-gasp comeback win",
-      "url": "https://www.theguardian.com/football/2026/oct/10/ipswich-fulham-premier-league-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-10-10T16:07:05+00:00",
-      "summary": "Ipswich produced a dramatic turnaround to beat Fulham 2-1 after late goals by Abdoul Ouattara and Dara O’Shea extended Álvaro Arbeloa’s winless start to six Premier League matches. The former Real Madrid manager had been on course to toast a maiden league victory in charge of the",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "a5168b5a3562",
       "title": "Manager ins and outs - 2026-27",
       "url": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo",
@@ -102,18 +164,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "635fd9985b1e",
-      "title": "Portugal suspend Cristiano Ronaldo after walking out on national team",
-      "url": "https://www.theguardian.com/football/2026/oct/10/portugal-suspend-cristiano-ronaldo",
-      "source": "The Guardian",
-      "published_at": "2026-10-10T13:30:04+00:00",
-      "summary": "Federation opens disciplinary proceedings Veteran has been critical of coach Jorge Jesus Cristiano Ronaldo has been provisionally suspended as the Portuguese football federation opened disciplinary proceedings against the 41-year-old after his decision to walk out on the national",
-      "teams": [
-        "Portugal"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "6ac43e7b23d6",
@@ -141,7 +191,7 @@
     },
     {
       "id": "8d86e4401e8b",
-      "title": "Delight for Cuthbert with Scotland after 'long summer' of recovery",
+      "title": "Delight for Scotland's Cuthbert after long summer of recovery",
       "url": "https://www.bbc.co.uk/sport/football/articles/cxj0l2d4dp2vo",
       "source": "BBC Sport",
       "published_at": "2026-10-10T08:28:17+00:00",
@@ -189,18 +239,6 @@
       "is_injury_related": false
     },
     {
-      "id": "6755faf497df",
-      "title": "Arsenal eye deal for teenager Mora - Saturday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxr5y36yml21o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-09T21:19:35+00:00",
-      "summary": "Arsenal eye deal for Mexico teenager Gilberto Mora, AC Milan in pole position for Endrick, Nottingham Forest braced for Murillo interest",
-      "teams": [
-        "Mexico"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "1006a89764bb",
       "title": "Greek takeaways: What did we learn from Lionesses' win?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwp8g1ry6rjlo",
@@ -233,18 +271,6 @@
       "summary": "South Melbourne and Melbourne Victory clash on what promises to be a ‘special and historic night’ and in a triumph of the competition’s concept Sign up for Football Desk Australia: our free newsletter from Jonathan Wilson One club represents new football, a keystone entity in the",
       "teams": [
         "Australia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "6ef224386809",
-      "title": "What impact has break had & how will Reedijk fare? Premiership questions",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crje53gx34qeo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-09T13:07:09+00:00",
-      "summary": "After an extended international break, the Scottish Premiership's usual suspects - and one newcomer - limber up for a full weekend card of fixtures.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -419,18 +445,6 @@
         "Portugal"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "c624f145a08e",
-      "title": "Jesus fires back over Ronaldo question",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckn8wjezz462o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-05T15:24:54+00:00",
-      "summary": "Portugal manager Jorge Jesus fires back at a question from the media over his handling of Cristiano Ronaldo after the veteran forward left the squad in a row over playing time.",
-      "teams": [
-        "Portugal"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "cc10772e2e60",
