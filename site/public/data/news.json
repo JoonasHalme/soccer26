@@ -1,34 +1,55 @@
 {
-  "generated_at": "2026-10-11T14:02:14.863020+00:00",
+  "generated_at": "2026-10-11T18:49:18.993382+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "f309824295b0",
-      "title": "Liverpool v Manchester City: Premier League – live",
-      "url": "https://www.theguardian.com/football/live/2026/oct/11/liverpool-v-manchester-city-premier-league-live-score-updates",
-      "source": "The Guardian",
-      "published_at": "2026-10-11T13:43:42+00:00",
-      "summary": "⚽ Premier League updates from the 4.30pm BST kick-off ⚽ Live scores | Table | Top scorers | And you can mail us A four-match international break has presented a stress test. “The intensity of the squad, the athleticism of it, really, I think it’s designed for the elite,” said the",
+      "id": "546fcb942175",
+      "title": "Reaction as Celtic bounce back and Aberdeen flounder",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pg5m3j",
+      "source": "BBC Sport",
+      "published_at": "2026-10-11T16:45:00+00:00",
+      "summary": "Reaction to wins for Celtic and St Johnstone in the Scottish Premiership",
       "teams": [
-        "Netherlands",
-        "Sweden",
-        "France",
-        "England"
+        "Scotland"
       ],
-      "is_injury_related": true
+      "is_injury_related": false
     },
     {
       "id": "6bc880b56c8b",
       "title": "Scottish Premiership: Celtic end losing skid and take top spot back from Rangers",
       "url": "https://www.theguardian.com/football/2026/oct/10/scottish-premiership-rangers-hearts-celtic",
       "source": "The Guardian",
-      "published_at": "2026-10-11T13:16:47+00:00",
+      "published_at": "2026-10-11T16:20:59+00:00",
       "summary": "Bhoys on top of table, while Rangers beat Kilmarnock 3-1 Calvin Miller scores two penalties in Hearts 5-0 St Mirren Jota made his long-awaited return to action as Celtic claimed a much-needed 2-0 victory at Motherwell to move top of the Premiership again and ease the sense of glo",
       "teams": [
         "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "fd4070901292",
+      "title": "Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return",
+      "url": "https://www.theguardian.com/football/2026/oct/11/crystal-palace-nottingham-forest-premier-league-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-10-11T15:28:49+00:00",
+      "summary": "It is fair to say Oliver Glasner has had more enjoyable afternoons. The Nottingham Forest head coach arrived in south London dressed like a bouncer from All Bar One in a black bomber jacket, as if he was anticipating trouble, but was instead given a rapturous reception by the hom",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "d4085ff7c6e0",
+      "title": "Joy for Eckert as 10-man Southampton edge out Portsmouth in feisty derby",
+      "url": "https://www.theguardian.com/football/2026/oct/11/southampton-portsmouth-championship-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-10-11T13:18:33+00:00",
+      "summary": "At the full-time whistle in the south coast derby, Tonda Eckert thrust his arms out wide and roared into the sky with the rest of the Southampton supporters. It had been a tense 90 minutes after a tense few months, but finally the young German coach could let it all out. At the e",
+      "teams": [
+        "Germany"
       ],
       "is_injury_related": true
     },
@@ -67,18 +88,6 @@
         "Brazil",
         "USA",
         "Spain"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "635fd9985b1e",
-      "title": "Portugal suspend Cristiano Ronaldo after walking out on national team",
-      "url": "https://www.theguardian.com/football/2026/oct/10/portugal-suspend-cristiano-ronaldo",
-      "source": "The Guardian",
-      "published_at": "2026-10-10T20:48:18+00:00",
-      "summary": "Federation opens disciplinary proceedings Veteran has been critical of coach Jorge Jesus Cristiano Ronaldo has been provisionally suspended as the Portuguese football federation (FPF) opened disciplinary proceedings against the 41-year-old after his decision to walk out on the na",
-      "teams": [
-        "Portugal"
       ],
       "is_injury_related": true
     },
@@ -167,6 +176,18 @@
       "is_injury_related": false
     },
     {
+      "id": "5a0fb016b4a1",
+      "title": "Aston Villa’s wait for home win goes on after Ajer hits back for Brentford",
+      "url": "https://www.theguardian.com/football/2026/oct/10/aston-villa-brentford-premier-league-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-10-10T16:09:59+00:00",
+      "summary": "Kristoffer Ajer spent a chunk of the extended international window fielding questions about the state of mind of his Norway teammate Erling Haaland and perhaps in recent weeks he also picked up some finishing tips. Two minutes after John McGinn’s shot cannoned in via Ajer’s calf,",
+      "teams": [
+        "Norway"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "a5168b5a3562",
       "title": "Manager ins and outs - 2026-27",
       "url": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo",
@@ -217,30 +238,6 @@
       "is_injury_related": true
     },
     {
-      "id": "18798fe212f1",
-      "title": "Man City whistleblower to remain in witness protection",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq4g1xerk398o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-09T22:59:32+00:00",
-      "summary": "The computer hacker who released documents which helped trigger the Premier League investigation into Manchester City will remain under witness protection after authorities in Portugal suspend the decision to end it.",
-      "teams": [
-        "Portugal"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "c4d674a50369",
-      "title": "NI World Cup hopes gone from 'improbable to impossible'",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6gqw03lxxnno",
-      "source": "BBC Sport",
-      "published_at": "2026-10-09T21:24:28+00:00",
-      "summary": "Michael McArdle admits Northern Ireland's chances of beating Portugal in a Women's World Cup play-off have \"gone from improbable to impossible\" after a 4-0 first leg defeat.",
-      "teams": [
-        "Portugal"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "1006a89764bb",
       "title": "Greek takeaways: What did we learn from Lionesses' win?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwp8g1ry6rjlo",
@@ -265,18 +262,6 @@
       "is_injury_related": true
     },
     {
-      "id": "5300be5842ee",
-      "title": "Lionesses take control of World Cup playoff tie but unfancied Greece still in fight",
-      "url": "https://www.theguardian.com/football/2026/oct/09/greece-england-womens-world-cup-qualifying-playoff",
-      "source": "The Guardian",
-      "published_at": "2026-10-09T18:46:37+00:00",
-      "summary": "World Cup qualifying playoff: Greece 1-3 England Stanway, Le Tissier and Russo on target Sarina Wiegman said she wanted to see a bit more from her side after their fairly underwhelming performance against a hugely unfancied Greek side, despite securing a valuable first-leg victor",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "76e9207bb075",
       "title": "What could Rangers' 2012 case tell us about Man City's uncertain future?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx240n2p57y5o",
@@ -287,19 +272,6 @@
         "Scotland"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "ec002f6ac5fb",
-      "title": "Oliver Glasner: ‘There was no plan for me to be Nottingham Forest manager’",
-      "url": "https://www.theguardian.com/football/2026/oct/09/oliver-glasner-there-was-no-plan-for-me-to-be-nottingham-forest-manager",
-      "source": "The Guardian",
-      "published_at": "2026-10-09T07:00:41+00:00",
-      "summary": "On Sunday, Austrian returns to Crystal Palace, the club he left in the summer after leading them to unprecedented success, but accepts there could be ‘booing’ Oliver Glasner puffs his cheeks and starts the search for the right words to explain his emotions as he prepares to retur",
-      "teams": [
-        "Germany",
-        "Austria"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "3092aae9731f",
@@ -349,18 +321,6 @@
         "Spain"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "f989f99cd2ba",
-      "title": "'Amazing' Kane targets 100 international goals",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm75pwl3w2x7o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-07T20:31:17+00:00",
-      "summary": "Striker Harry Kane says he could reach 100 goals for England after equalling his country's appearance record of 125, drawing praise from team-mates Morgan Rogers and Jude Bellingham.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "dedf642de316",
@@ -413,6 +373,18 @@
       "is_injury_related": false
     },
     {
+      "id": "f603cb319ed7",
+      "title": "Why are so many British footballers playing in Serie A?",
+      "url": "https://www.theguardian.com/football/2026/oct/07/many-british-footballers-playing-serie-a-italian-top-flight",
+      "source": "The Guardian",
+      "published_at": "2026-10-07T12:00:09+00:00",
+      "summary": "The 1990s felt like a golden age, but there are 21 British players in Serie A this season – more than ever before By The Football Mine What do Jimmy Greaves, Ray Wilkins, David Beckham, Paul Gascoigne and Kyle Walker have in common? They all made more than 50 appearances for Engl",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "c2b34b729374",
       "title": "Which footballers have ended scoring droughts with a goal off their backside? | The Knowledge",
       "url": "https://www.theguardian.com/football/2026/oct/07/which-footballers-have-ended-scoring-droughts-with-a-goal-off-their-backside",
@@ -433,18 +405,6 @@
       "summary": "Watch every World Cup goal scored by Lionel Messi, as the Argentina forward retires from international football.",
       "teams": [
         "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "5f5ea5f9aa00",
-      "title": "Scotland let lead slip in abject defeat by Slovenia",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckpqgdyyg2wgo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-06T21:23:34+00:00",
-      "summary": "Watch the best of the action as Slovenia come from behind to beat Scotland 2-1 in the Nations League at Hampden.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
