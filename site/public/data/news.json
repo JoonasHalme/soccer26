@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T21:36:23.485077+00:00",
+  "generated_at": "2026-10-11T00:56:42.515223+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -33,13 +33,12 @@
     },
     {
       "id": "6d599aa99c50",
-      "title": "European football: Gordon boosts Barcelona and Bayern battle back",
+      "title": "European football: Gordon boosts Barcelona, Neuer errors cost Bayern in draw",
       "url": "https://www.theguardian.com/football/2026/oct/10/european-football-bayern-concede-fastest-goal-bundeliga-history",
       "source": "The Guardian",
       "published_at": "2026-10-10T19:05:20+00:00",
-      "summary": "Gordon scores first goal for club as Getafe are beaten 3-0 Bayern draw despite conceding fastest Bundesliga goal Anthony Gordon scored his first goal for Barcelona as the Spanish champions extended their perfect start in La Liga with a 3-0 home win over Getafe . The England inter",
+      "summary": "Barcelona 3-0 Getafe, Inter 3-0 Parma, PSG 3-1 Le Mans Bayern concede fastest Bundesliga goal in Augsburg draw Anthony Gordon scored his first goal for Barcelona as they extended their perfect start in La Liga with a 3-0 home win over Getafe . The England international opened the",
       "teams": [
-        "Spain",
         "England"
       ],
       "is_injury_related": false
@@ -65,18 +64,6 @@
       "summary": "There’s little prospect of the model changing in a country that welcomes wealthy international owners with open arms Football, the world’s most popular sport, played by laws drawn up in London in 1863. The Premier League is the UK’s greatest soft power export. Premier League club",
       "teams": [
         "Saudi Arabia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "935eaa370634",
-      "title": "Solanke strikes late as 10-man Spurs salvage point at Manchester United",
-      "url": "https://www.theguardian.com/football/2026/oct/10/manchester-united-tottenham-premier-league-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-10-10T18:50:45+00:00",
-      "summary": "Manchester United are on six points – their poorest start since 1986 – and Tottenham have three less and remain stuck in the relegation zone: testing times for Michael Carrick and Roberto De Zerbi, who must somehow revive their teams following a contest that was lit up by a momen",
-      "teams": [
-        "Brazil"
       ],
       "is_injury_related": false
     },
@@ -215,18 +202,6 @@
       "is_injury_related": true
     },
     {
-      "id": "4e967f5a24ba",
-      "title": "Chelsea manager Alonso insists Cole Palmer is committed to playing for England",
-      "url": "https://www.theguardian.com/football/2026/oct/09/chelsea-xabi-alonso-cole-palmer-england-thomas-tuchel",
-      "source": "The Guardian",
-      "published_at": "2026-10-09T21:30:38+00:00",
-      "summary": "Palmer pulled out of England squad due to injury Attacker available for Chelsea’s game with Bournemouth Xabi Alonso has said Cole Palmer is committed to playing for England and revealed Chelsea’s No 10 missed this international break with a problem related to the groin injury tha",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "c4d674a50369",
       "title": "NI World Cup hopes gone from 'improbable to impossible'",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6gqw03lxxnno",
@@ -263,14 +238,14 @@
       "is_injury_related": true
     },
     {
-      "id": "3c567abbd127",
-      "title": "Old soccer meets new football: Australia Cup final heaves with significance | Jack Snape",
-      "url": "https://www.theguardian.com/football/2026/oct/10/australia-cup-final-south-melbourne-victory-old-soccer-new-football",
+      "id": "5300be5842ee",
+      "title": "Lionesses take control of World Cup playoff tie but unfancied Greece still in fight",
+      "url": "https://www.theguardian.com/football/2026/oct/09/greece-england-womens-world-cup-qualifying-playoff",
       "source": "The Guardian",
-      "published_at": "2026-10-09T14:00:30+00:00",
-      "summary": "South Melbourne and Melbourne Victory clash on what promises to be a ‘special and historic night’ and in a triumph of the competition’s concept Sign up for Football Desk Australia: our free newsletter from Jonathan Wilson One club represents new football, a keystone entity in the",
+      "published_at": "2026-10-09T18:46:37+00:00",
+      "summary": "World Cup qualifying playoff: Greece 1-3 England Stanway, Le Tissier and Russo on target Sarina Wiegman said she wanted to see a bit more from her side after their fairly underwhelming performance against a hugely unfancied Greek side, despite securing a valuable first-leg victor",
       "teams": [
-        "Australia"
+        "England"
       ],
       "is_injury_related": false
     },
@@ -300,18 +275,6 @@
       "is_injury_related": true
     },
     {
-      "id": "7404b3cf8b65",
-      "title": "With no Pulisic and good results, have the USMNT moved on from their savior complex? | Leander Schaerlaeckens",
-      "url": "https://www.theguardian.com/football/2026/oct/08/usmnt-christian-pulisic-youth-movement-mauricio-pochettino",
-      "source": "The Guardian",
-      "published_at": "2026-10-08T15:45:19+00:00",
-      "summary": "The US have been defined for so long by the next singular player. This past perfect window shows that era may be over Sign up for our free newsletter here In 1990, then-United States men’s national team manager Bob Gansler made a critical and somewhat controversial choice. He lef",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "3092aae9731f",
       "title": "‘Like a movie script’: Michael McArdle backs Northern Ireland to make history",
       "url": "https://www.theguardian.com/football/2026/oct/08/michael-mcardle-northern-ireland-women-moving-the-goalposts",
@@ -321,6 +284,18 @@
       "teams": [
         "Brazil",
         "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "c25ea55d8484",
+      "title": "‘¡Qué Horror!’: Mexico’s World Cup honeymoon is over but is Rafa Márquez really to blame?",
+      "url": "https://www.theguardian.com/football/2026/oct/08/mexico-soccer-team-rafael-marquez",
+      "source": "The Guardian",
+      "published_at": "2026-10-08T11:22:24+00:00",
+      "summary": "A series of dispiriting friendly results have El Tri reeling. But the problems run much deeper than the team’s new coach When a new coach ascends to lead Mexico’s national team, fans say he is sitting in “la silla mas caliente” – the hottest seat in town; one that can also burn. ",
+      "teams": [
+        "Mexico"
       ],
       "is_injury_related": false
     },
@@ -337,6 +312,18 @@
       "is_injury_related": true
     },
     {
+      "id": "fae1eb993524",
+      "title": "Mikel Arteta’s new contract reflects where the power now lies at Arsenal | Ed Aarons",
+      "url": "https://www.theguardian.com/football/2026/oct/08/mikel-arteta-arsenal-contract",
+      "source": "The Guardian",
+      "published_at": "2026-10-08T09:49:56+00:00",
+      "summary": "From transfers to stadium works and even the training-ground dog, there is no doubting the Spaniard’s influence at the club If anyone doubts Mikel Arteta’s status as No 1 at Arsenal in the week he committed his future to the club until 2030 , just ask Win the dog. The chocolate l",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "f989f99cd2ba",
       "title": "'Amazing' Kane targets 100 international goals",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm75pwl3w2x7o",
@@ -349,6 +336,18 @@
       "is_injury_related": false
     },
     {
+      "id": "3fc6a1fde144",
+      "title": "Eckert’s Spygate ban may be lenient, but no sane manager will try the same trick again",
+      "url": "https://www.theguardian.com/football/2026/oct/07/southampton-spygate-tonda-eckert-suspended-ban",
+      "source": "The Guardian",
+      "published_at": "2026-10-07T20:00:04+00:00",
+      "summary": "Verdict has been a long time coming and the Southampton head coach has recaptured hearts and minds at St Mary’s “Hi Tonda, are you a cheat?” That simple, succinct, question cut to the heart of a matter that has vexed the Football Association all summer. It was posed by the Northe",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "dedf642de316",
       "title": "All done deals in September & October 2026",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo",
@@ -357,6 +356,19 @@
       "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "teams": [
         "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "2368e59ce215",
+      "title": "Lionel Messi’s Argentina career turned football into a sacred mystery",
+      "url": "https://www.theguardian.com/football/2026/oct/07/lionel-messi-argentina-retirement-final-match",
+      "source": "The Guardian",
+      "published_at": "2026-10-07T17:02:22+00:00",
+      "summary": "Jorge Messi wanted his country to fall in love with his son. That ambition was fulfilled during a brilliant international career that ended this week “What Argentina is doing in this World Cup is of a sacred order,” Brazilian writer Milly Lacombe posted at the height of the tide ",
+      "teams": [
+        "Brazil",
+        "Argentina"
       ],
       "is_injury_related": false
     },
@@ -397,31 +409,6 @@
       "is_injury_related": false
     },
     {
-      "id": "ed9fc3265b66",
-      "title": "Marsch calls USA politics 'big talk' as Pochettino praises Canada coach",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwdr8d6kr8mlo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-06T15:54:22+00:00",
-      "summary": "Canada manager Jesse Marsch calls USA politics \"big talk\" while US coach Mauricio Pochettino praises his opposite number before Tuesday's game.",
-      "teams": [
-        "Canada",
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "251258406b3c",
-      "title": "Schooled for success: how English lessons power Midtjylland’s talent factory",
-      "url": "https://www.theguardian.com/football/2026/oct/06/english-lessons-midtjylland-talent-factory-transfer-window",
-      "source": "The Guardian",
-      "published_at": "2026-10-06T07:00:06+00:00",
-      "summary": "In a squad with 17 nationalities from five continents, communication is key – and the Danish club enjoyed a bumper summer transfer window If there is a secret to Midtjylland’s success in the transfer market then it starts in the classroom. Before this summer the Danish club renow",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "356d6ccf397d",
       "title": "David Squires on … David Beckham’s heroics for England v Greece, 25 years on",
       "url": "https://www.theguardian.com/football/picture/2026/oct/06/david-squires-on-david-beckham-heroics-england-greece-25-years-on",
@@ -443,19 +430,6 @@
       "teams": [
         "Norway",
         "Portugal"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "cc10772e2e60",
-      "title": "The USMNT’s kids are thriving, and ‘they have a bit of swag to them’",
-      "url": "https://www.theguardian.com/football/2026/oct/05/usmnt-new-generation-cavan-sullivan-julian-hall-diego-kochen",
-      "source": "The Guardian",
-      "published_at": "2026-10-05T12:00:24+00:00",
-      "summary": "The post-World Cup youth movement has paid off with historic plays that, for the moment, feel natural, sustainable and needed From the outside, a moment like the one Cavan Sullivan produced Saturday seemed to be pulled directly from dreamland. Turns out, it pretty much was. “I wa",
-      "teams": [
-        "Mexico",
-        "USA"
       ],
       "is_injury_related": false
     },
