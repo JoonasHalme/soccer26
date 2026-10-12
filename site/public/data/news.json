@@ -1,21 +1,60 @@
 {
-  "generated_at": "2026-10-12T02:19:04.321352+00:00",
+  "generated_at": "2026-10-12T10:39:26.368727+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "546fcb942175",
-      "title": "Reaction as Celtic bounce back and Aberdeen flounder",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pg5m3j",
+      "id": "71c5d490dbe1",
+      "title": "How do Women's World Cup hopes look for home nations?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqzrdmjp5162o",
       "source": "BBC Sport",
-      "published_at": "2026-10-11T16:45:00+00:00",
-      "summary": "Reaction to wins for Celtic and St Johnstone in the Scottish Premiership",
+      "published_at": "2026-10-12T09:27:17+00:00",
+      "summary": "England, Wales, Northern Ireland, Scotland and the Republic of Ireland are under way in their Women's World Cup play-offs. How are their prospects looking?",
+      "teams": [
+        "Scotland",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6f4ce56d5a15",
+      "title": "Seedorf back in football as Corinthians head coach",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw62y514kpgeo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-12T07:42:53+00:00",
+      "summary": "Brazilian club Corinthians appoint Clarence Seedorf as their head coach, with the former Netherlands midfielder taking on his first coaching role since 2019.",
+      "teams": [
+        "Brazil",
+        "Netherlands"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8fb7fc70c5f9",
+      "title": "SPFL round-up: Big wins for Ross County & Stranraer",
+      "url": "https://www.bbc.co.uk/sport/videos/cq3dj8yv23eeo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-12T07:02:42+00:00",
+      "summary": "All the weekend goals from the Scottish Championship, League One and League Two.",
       "teams": [
         "Scotland"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "bb0063c072e2",
+      "title": "‘So, so grateful’: Nathan Cleary confirms reason behind Mary Fowler’s Matildas absence",
+      "url": "https://www.theguardian.com/football/2026/oct/12/nathan-cleary-mary-fowler-matildas-absence-sport",
+      "source": "The Guardian",
+      "published_at": "2026-10-11T23:38:20+00:00",
+      "summary": "Fowler pulled out of Australia squad for ‘personal reasons’ Attacker is now back in Australia with injured NRL star post-surgery Injured rugby league player Nathan Cleary has expressed deep appreciation to Matildas forward Mary Fowler, his partner who flew to Australia to spend t",
+      "teams": [
+        "Australia",
+        "Germany"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "6bc880b56c8b",
@@ -90,18 +129,6 @@
         "Spain"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "6d599aa99c50",
-      "title": "European football: Gordon boosts Barcelona, Neuer errors cost Bayern in draw",
-      "url": "https://www.theguardian.com/football/2026/oct/10/european-football-bayern-concede-fastest-goal-bundeliga-history",
-      "source": "The Guardian",
-      "published_at": "2026-10-10T19:05:20+00:00",
-      "summary": "Barcelona 3-0 Getafe, Inter 3-0 Parma, PSG 3-1 Le Mans Bayern concede fastest Bundesliga goal in Augsburg draw Anthony Gordon scored his first goal for Barcelona as they extended their perfect start in La Liga with a 3-0 home win over Getafe . The England international opened the",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "0481a649943e",
@@ -189,18 +216,6 @@
       "is_injury_related": false
     },
     {
-      "id": "ea86a5f02e50",
-      "title": "NI debut 'something I thought had passed' - Elmore",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck7vpdz0lnmvo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-10T09:19:45+00:00",
-      "summary": "Northern Ireland's World Cup hopes may have all but come to an end against Portugal, but for Kess Elmore, the 4-0 defeat marks the start of a long-awaited first foray into senior international football.",
-      "teams": [
-        "Portugal"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "8d86e4401e8b",
       "title": "Delight for Scotland's Cuthbert after long summer of recovery",
       "url": "https://www.bbc.co.uk/sport/football/articles/cxj0l2d4dp2vo",
@@ -214,14 +229,14 @@
       "is_injury_related": true
     },
     {
-      "id": "1006a89764bb",
-      "title": "Greek takeaways: What did we learn from Lionesses' win?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwp8g1ry6rjlo",
+      "id": "c4d674a50369",
+      "title": "NI World Cup hopes gone from 'improbable to impossible'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6gqw03lxxnno",
       "source": "BBC Sport",
-      "published_at": "2026-10-09T21:15:24+00:00",
-      "summary": "England come away from Greece with a valuable first-leg lead in their Women's World Cup qualifying play-off - but who impressed in the 3-1 victory?",
+      "published_at": "2026-10-09T21:24:28+00:00",
+      "summary": "Michael McArdle admits Northern Ireland's chances of beating Portugal in a Women's World Cup play-off have \"gone from improbable to impossible\" after a 4-0 first leg defeat.",
       "teams": [
-        "England"
+        "Portugal"
       ],
       "is_injury_related": false
     },
