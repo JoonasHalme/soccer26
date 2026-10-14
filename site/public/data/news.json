@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-10-14T15:07:16.523663+00:00",
+  "generated_at": "2026-10-14T19:22:30.860860+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "1027a2863dc1",
+      "title": "Bradley Barcola’s clinical hat-trick inspires Liverpool to 6-3 rout of Lask",
+      "url": "https://www.theguardian.com/football/2026/oct/14/lask-liverpool-champions-league-league-stage-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-10-14T18:51:39+00:00",
+      "summary": "Liverpool cleansed themselves from the stains of defeat by Manchester City at the earliest opportunity. A rampant performance in Austria, where Bradley Barcola opened his account for Andoni Iraola’s side with a hat-trick, maintained Liverpool’s 100% start to the Champions League ",
+      "teams": [
+        "Austria"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "1c24d7807c8f",
+      "title": "MLS’s political speech policy is untenable – just ask Austin FC fans",
+      "url": "https://www.theguardian.com/football/2026/oct/14/austin-fc-ice-banner-mls-political-speech-policy",
+      "source": "The Guardian",
+      "published_at": "2026-10-14T16:58:53+00:00",
+      "summary": "The protests around an anti-ICE T-shirt show that politics can never be separated from sports, especially now On 26 September, Daniela Silva was expelled from Austin FC’s match with San Diego FC for wearing a T-shirt reading “Abolish ICE”. She says she was banned from Q2 Stadium ",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "7e7027ddb7cf",
       "title": "Big scorelines, one-sided games - are Women's World Cup play-offs working?",
@@ -23,7 +47,7 @@
       "url": "https://www.theguardian.com/football/2026/oct/14/sunderland-53-years-away-europa-league-torreense",
       "source": "The Guardian",
       "published_at": "2026-10-14T11:00:00+00:00",
-      "summary": "Black Cats can reboot season against Torreense in Europa League in break from tough start to the Premier League There is a pleasing symmetry about Sunderland’s Europa League trip to Portugal to face Torreense on Thursday night. The club’s last competitive venture on European soil",
+      "summary": "Black Cats can reboot season against Torreense in Europa League in a break from tough start to domestic campaign There is a pleasing symmetry about Sunderland’s Europa League trip to Portugal to face Torreense on Thursday night. The club’s last competitive venture on European soi",
       "teams": [
         "Norway",
         "Portugal"
@@ -61,7 +85,7 @@
       "url": "https://www.theguardian.com/football/2026/oct/14/tottenham-richarlison-under-21s-cheltenham-efl-trophy",
       "source": "The Guardian",
       "published_at": "2026-10-14T09:07:48+00:00",
-      "summary": "Brazilian in limbo after being left out of first team Cheltenham’s Cotterill: ‘His attitude was great’ Tottenham’s forgotten man Richarlison has been hailed for his attitude after he scored for under-21s on Tuesday. Richarlison has not played for the first team since an opening-d",
+      "summary": "Brazilian in limbo after being left out of first team Cheltenham’s Cotterill: ‘His attitude was great’ Tottenham’s forgotten man Richarlison has been hailed for his attitude after he scored for the under-21s on Tuesday. Richarlison has not played for the first team since an openi",
       "teams": [
         "Brazil",
         "England"
@@ -80,18 +104,6 @@
         "Sweden"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "83e3fccf972a",
-      "title": "Makhanya being tracked - Wednesday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmvg9nkyzll1o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-14T06:57:49+00:00",
-      "summary": "Rangers are under no pressure to sell Olwethu Makhanya - but the 22-year-old South Africa defender is attracting plenty of interest.",
-      "teams": [
-        "South Africa"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "71c8cc095101",
@@ -173,18 +185,6 @@
       "is_injury_related": false
     },
     {
-      "id": "1ba1569f82b6",
-      "title": "Porro eyes La Liga return - Wednesday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm62yxegwy41o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-13T20:06:30+00:00",
-      "summary": "Tottenham's Pedro Porro wants Barcelona move, multiple Premier League clubs chase Croatia striker Dion Beljo, Chelsea eye January swoop for Frenkie de Jong.",
-      "teams": [
-        "Croatia"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "fd09a12eeca1",
       "title": "Iraola has ‘100% trust’ in Wirtz and Barcola but tells others to step up",
       "url": "https://www.theguardian.com/football/2026/oct/13/andoni-iraola-trust-florian-wirtz-bradley-barcola-others-to-step-up-liverpool",
@@ -243,18 +243,6 @@
         "Scotland"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "dc7f684a94fe",
-      "title": "Bloom repeats faith in title ambition for Hearts",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw5yng2kjg8po",
-      "source": "BBC Sport",
-      "published_at": "2026-10-13T10:49:38+00:00",
-      "summary": "Investor Tony Bloom says he would be \"really disappointed\" if Hearts fail to win the Scottish Premiership by 2035.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "aeef1ba353db",
