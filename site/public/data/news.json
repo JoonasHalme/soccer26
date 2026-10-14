@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-10-13T23:15:34.049183+00:00",
+  "generated_at": "2026-10-14T04:46:05.474294+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "866fc87f7180",
+      "title": "‘I expect more’: Lisandro Martínez hits out at Manchester United hierarchy",
+      "url": "https://www.theguardian.com/football/2026/oct/13/lisandro-martinez-hits-out-at-united-hierarchy-after-defeat-at-atletico-madrid",
+      "source": "The Guardian",
+      "published_at": "2026-10-13T22:48:22+00:00",
+      "summary": "Defeat to Atlético Madrid ‘reflects how our club is’ Argentinian says club has not invested enough in players Lisandro Martínez has hit out at the Manchester United hierarchy, blaming the lack of investment as their dismal start to the season continued. Goals from Pablo Barrios a",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "71c8cc095101",
       "title": "McArdle 'really encouraged' despite Portugal loss",
@@ -217,6 +229,19 @@
       "is_injury_related": false
     },
     {
+      "id": "a4f50e2cfd46",
+      "title": "The Ballon d’Or doesn’t capture football’s wonder – Michael Olise is proof | Zito Madu",
+      "url": "https://www.theguardian.com/football/2026/oct/13/michael-olise-ballon-dor-france-belgium",
+      "source": "The Guardian",
+      "published_at": "2026-10-13T09:00:20+00:00",
+      "summary": "France’s always-cool winger has crowds hanging on his every move – adulation that means more than any title could When I was younger, I wanted to be the captain on my football team because back then, I assumed that the armband was given to the best player. It was a goal of mine f",
+      "teams": [
+        "Belgium",
+        "France"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "7b698505b0e2",
       "title": "Christian Pulisic is no longer a focal point for the US or Milan – and that’s OK",
       "url": "https://www.theguardian.com/football/2026/oct/13/christian-pulisic-focal-point-milan-usmnt",
@@ -280,6 +305,30 @@
       "is_injury_related": false
     },
     {
+      "id": "74a593f0c9dc",
+      "title": "PSG invested heavily in the summer but are still relying on the A team",
+      "url": "https://www.theguardian.com/football/2026/oct/12/psg-invested-summer-team-champions-league-ligue-1",
+      "source": "The Guardian",
+      "published_at": "2026-10-12T13:48:06+00:00",
+      "summary": "Luis Enrique wants to rest his stars for the Champions League but they keep having to dig out the team in Ligue 1 By Get French Football News Luis Enrique said it was “typical” that Paris Saint-Germain only managed to see off promoted Le Mans after his four changes around the hou",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b5c38f98ee57",
+      "title": "Robbie Savage the panto villain puts scepticism aside to leave Leicester reeling",
+      "url": "https://www.theguardian.com/football/2026/oct/11/robbie-savage-peterborough-manager-leicester",
+      "source": "The Guardian",
+      "published_at": "2026-10-11T07:00:20+00:00",
+      "summary": "Peterborough’s new boss has long been a divisive figure but a stunning 3-1 win at struggling former club offered a glimpse of his fearless philosophy It felt as though the stars had aligned when Robbie Savage’s first League One match in charge of Peterborough – his first EFL mana",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "a5168b5a3562",
       "title": "Manager ins and outs - 2026-27",
       "url": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo",
@@ -289,43 +338,6 @@
       "teams": [
         "Scotland",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "6ac43e7b23d6",
-      "title": "South Melbourne make history with Australia Cup win that could change the future too | Joey Lynch",
-      "url": "https://www.theguardian.com/football/2026/oct/11/south-melbourne-vs-victory-australia-cup-final",
-      "source": "The Guardian",
-      "published_at": "2026-10-10T13:15:17+00:00",
-      "summary": "South Melbourne defeat Melbourne Victory 4-3 on penalties (1-1 aet) to cap night of celebration and become first non-A-League club to win the cup Sign up for Football Desk Australia: our newsletter from Jonathan Wilson It was remarkable. It was incredible. It featured the type of",
-      "teams": [
-        "Australia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "3092aae9731f",
-      "title": "‘Like a movie script’: Michael McArdle backs Northern Ireland to make history",
-      "url": "https://www.theguardian.com/football/2026/oct/08/michael-mcardle-northern-ireland-women-moving-the-goalposts",
-      "source": "The Guardian",
-      "published_at": "2026-10-08T12:12:02+00:00",
-      "summary": "Manager says he has made team ‘playoff ready’ since taking over in March. They now face Portugal in their quest to reach World Cup For seven and a half years, Michael McArdle worked in the construction industry while playing semi-professional football, studying for a degree in bu",
-      "teams": [
-        "Brazil",
-        "Portugal"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "c25ea55d8484",
-      "title": "‘¡Qué Horror!’: Mexico’s World Cup honeymoon is over but is Rafa Márquez really to blame?",
-      "url": "https://www.theguardian.com/football/2026/oct/08/mexico-soccer-team-rafael-marquez",
-      "source": "The Guardian",
-      "published_at": "2026-10-08T11:22:24+00:00",
-      "summary": "A series of dispiriting friendly results have El Tri reeling. But the problems run much deeper than the team’s new coach When a new coach ascends to lead Mexico’s national team, fans say he is sitting in “la silla mas caliente” – the hottest seat in town; one that can also burn. ",
-      "teams": [
-        "Mexico"
       ],
       "is_injury_related": false
     },
@@ -367,18 +379,6 @@
       "is_injury_related": false
     },
     {
-      "id": "65a73ba44cb8",
-      "title": "Robertson rant and the wrong system? Pocognoli’s Scotland start raises questions",
-      "url": "https://www.theguardian.com/football/2026/oct/07/robertson-system-pocognoli-scotland-start-questions",
-      "source": "The Guardian",
-      "published_at": "2026-10-07T12:01:23+00:00",
-      "summary": "There has been no new manager bounce, Ben Gannon-Doak is playing in an odd position and the wider plan looks flawed Scotland are staring at a third-place finish in Group B1 of the Nations League , which will have repercussions for their seeding in Euro 2028 qualifying. More strik",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "c2b34b729374",
       "title": "Which footballers have ended scoring droughts with a goal off their backside? | The Knowledge",
       "url": "https://www.theguardian.com/football/2026/oct/07/which-footballers-have-ended-scoring-droughts-with-a-goal-off-their-backside",
@@ -389,6 +389,19 @@
         "Scotland"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "882c21c92bdd",
+      "title": "Ronaldo’s break with Portugal is sad, fitting, and long overdue | Jonathan Wilson",
+      "url": "https://www.theguardian.com/football/2026/oct/05/cristiano-ronaldo-portugal-rift",
+      "source": "The Guardian",
+      "published_at": "2026-10-05T15:30:46+00:00",
+      "summary": "The star’s rift with Jorge Jesus is an unfortunate affair. But the forward has been holding his national team back for years Sign up for our free newsletter here If this is to be the end for Cristiano Ronaldo at international level, at least it can be said that he left the stage ",
+      "teams": [
+        "Norway",
+        "Portugal"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "affadc3da0d8",
@@ -403,18 +416,6 @@
         "Croatia"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "be38498aa0f8",
-      "title": "Decline and fall: who will believe in Raheem Sterling now?",
-      "url": "https://www.theguardian.com/football/2026/oct/03/decline-and-fall-who-will-believe-in-raheem-sterling-now",
-      "source": "The Guardian",
-      "published_at": "2026-10-03T05:00:51+00:00",
-      "summary": "Former England winger could face a prison term next month and his career collapse raises many questions In another world, where careers broke in different directions, Raheem Sterling would be in this England squad now, playing for the manager, Thomas Tuchel, who made him the No 1",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "bca8bd929927",
