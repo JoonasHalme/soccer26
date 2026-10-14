@@ -1,31 +1,115 @@
 {
-  "generated_at": "2026-10-14T19:22:30.860860+00:00",
+  "generated_at": "2026-10-14T23:10:02.771821+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "84b9b51c94d5",
+      "title": "Champions League: Mourinho’s Real Madrid stage wild comeback on Roma return",
+      "url": "https://www.theguardian.com/football/2026/oct/14/champions-league-mourinhos-real-madrid-stage-crazy-comeback-on-roma-return",
+      "source": "The Guardian",
+      "published_at": "2026-10-14T21:43:26+00:00",
+      "summary": "Mourinho’s side score three late goals from 3-1 deficit Dortmund latest team beaten in Norway by Bodø/Glimt José Mourinho enjoyed a Roma reunion to remember as Real Madrid completed an astonishing comeback by scoring three late goals to claim a 4-3 away win in the Champions Leagu",
+      "teams": [
+        "Norway"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "98e654351b90",
+      "title": "Jackson and Barkley doubles sink feeble Fenerbahce in record Aston Villa win",
+      "url": "https://www.theguardian.com/football/2026/oct/14/aston-villa-fenerbahce-champions-league-league-stage-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-10-14T21:02:51+00:00",
+      "summary": "It may be a bit early for the pantomime season but the Holte End enjoyed acclaiming their heroes and villains as Aston Villa won at home for the first time this season with their biggest victory in European competition. Every touch for Mason Greenwood, playing his first game in E",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "f09cbe9bbd3c",
+      "title": "Tresoldi hat-trick fires Club Brugge to victory over Inter in seven-goal thriller",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqly0gnk4xkgo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-14T21:00:52+00:00",
+      "summary": "Club Brugge's Nicolo Tresoldi scores a hat-trick as the Belgian side edge Inter Milan 4-3, extending Inter's Champions League losing run to four matches for the first time in their history.",
+      "teams": [
+        "Belgium"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6644902363c0",
+      "title": "Gordon scores as 'brilliant Barcelona' thrash Galatasaray",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9gk5lve2enjo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-14T21:00:43+00:00",
+      "summary": "Anthony Gordon scores his first Champions League goal for Barcelona as the Spanish side come from behind to thrash Galatasaray 4-1 in Istanbul, and make it two wins from two in this season's Champions League.",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "dc5ceb60decc",
+      "title": "Viking snatch draw against Bayern Munich in six-goal thriller",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cw1m408z3yj5o",
+      "source": "BBC Sport",
+      "published_at": "2026-10-14T21:00:40+00:00",
+      "summary": "Norwegian champions Viking score a 90th minute equaliser to snatch a 3-3 draw against six-time European champions Bayern Munich in the Champions League, securing one of the biggest results in the club's history.",
+      "teams": [
+        "Norway"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "0fbc32b64880",
+      "title": "Brilliant Barcola scores first hat-trick to get lift-off at Liverpool",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmx237q7nl21o",
+      "source": "BBC Sport",
+      "published_at": "2026-10-14T21:00:28+00:00",
+      "summary": "Liverpool's summer signing Bradley Barcola scores his first senior hat-trick, and his first goals for Liverpool, as he helps his side beat LASK 6-3 in Austria to make it two wins from two in this season's Champions League.",
+      "teams": [
+        "Austria"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "87d6fd399746",
+      "title": "Barcola shines as Liverpool score six to beat LASK",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c68jzlwpk01zo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-14T21:00:24+00:00",
+      "summary": "Bradley Barcola scores a hat-trick as Liverpool beat LASK 6-3 in Austria to make it two wins from two in the league phase of this season's Champions League.",
+      "teams": [
+        "Austria"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "054bcbf11aa8",
+      "title": "On night of mayhem for Liverpool, Barcola arrives in style",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c39wzg59x1yxo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-14T20:46:35+00:00",
+      "summary": "Bradley Barcola's form was the subject of pre-match questions before Liverpool faced LASK - but the France forward's Champions League hat-trick was the perfect answer.",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "1027a2863dc1",
       "title": "Bradley Barcola’s clinical hat-trick inspires Liverpool to 6-3 rout of Lask",
       "url": "https://www.theguardian.com/football/2026/oct/14/lask-liverpool-champions-league-league-stage-match-report",
       "source": "The Guardian",
       "published_at": "2026-10-14T18:51:39+00:00",
-      "summary": "Liverpool cleansed themselves from the stains of defeat by Manchester City at the earliest opportunity. A rampant performance in Austria, where Bradley Barcola opened his account for Andoni Iraola’s side with a hat-trick, maintained Liverpool’s 100% start to the Champions League ",
+      "summary": "Liverpool cleansed themselves from the stains of defeat by Manchester City at the earliest opportunity. A rampant display in Austria saw Bradley Barcola ignite his Liverpool account with the first hat-trick of his professional career and Andoni Iraola’s team devastate Lask’s big ",
       "teams": [
         "Austria"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "1c24d7807c8f",
-      "title": "MLS’s political speech policy is untenable – just ask Austin FC fans",
-      "url": "https://www.theguardian.com/football/2026/oct/14/austin-fc-ice-banner-mls-political-speech-policy",
-      "source": "The Guardian",
-      "published_at": "2026-10-14T16:58:53+00:00",
-      "summary": "The protests around an anti-ICE T-shirt show that politics can never be separated from sports, especially now On 26 September, Daniela Silva was expelled from Austin FC’s match with San Diego FC for wearing a T-shirt reading “Abolish ICE”. She says she was banned from Q2 Stadium ",
-      "teams": [
-        "USA"
       ],
       "is_injury_related": true
     },
@@ -80,19 +164,6 @@
       "is_injury_related": false
     },
     {
-      "id": "eae452328d4b",
-      "title": "Tottenham’s forgotten man Richarlison scores for under-21s: ‘I was missing it’",
-      "url": "https://www.theguardian.com/football/2026/oct/14/tottenham-richarlison-under-21s-cheltenham-efl-trophy",
-      "source": "The Guardian",
-      "published_at": "2026-10-14T09:07:48+00:00",
-      "summary": "Brazilian in limbo after being left out of first team Cheltenham’s Cotterill: ‘His attitude was great’ Tottenham’s forgotten man Richarlison has been hailed for his attitude after he scored for the under-21s on Tuesday. Richarlison has not played for the first team since an openi",
-      "teams": [
-        "Brazil",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "2705bb06b41d",
       "title": "'Possessed' Davidson fills Weir gap as Scots set up glamour Sweden tie",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq5ynlez508no",
@@ -104,18 +175,6 @@
         "Sweden"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "71c8cc095101",
-      "title": "McArdle 'really encouraged' despite NI's Portugal loss",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmglwxd0d25xo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-13T22:20:39+00:00",
-      "summary": "Northern Ireland manager Michael McArdle says their play-off defeat by Portugal is \"the start of a new identity\" despite their heavy 7-1 aggregate loss.",
-      "teams": [
-        "Portugal"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "46f30fd2afce",
@@ -197,36 +256,12 @@
       "is_injury_related": true
     },
     {
-      "id": "4ef11041fba7",
-      "title": "Bournemouth open to selling Scott for £100m in January",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqzjxn010r49o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-13T17:00:31+00:00",
-      "summary": "Bournemouth are open to selling England midfielder Alex Scott in January under certain conditions.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "d8a1bf78c191",
       "title": "Football regulator says he would quit over Man City political interference",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo",
       "source": "BBC Sport",
       "published_at": "2026-10-13T16:00:18+00:00",
       "summary": "The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "c9d2c0389f74",
-      "title": "Majority of clubs on edge of 'financial disaster' - regulator",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6vgx70pzq1jo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-13T16:00:11+00:00",
-      "summary": "English football's finances are \"dangerously exposed, with the majority of clubs living on the edge of financial disaster\", a new report says.",
       "teams": [
         "England"
       ],
@@ -368,18 +403,6 @@
         "Argentina"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "c2b34b729374",
-      "title": "Which footballers have ended scoring droughts with a goal off their backside? | The Knowledge",
-      "url": "https://www.theguardian.com/football/2026/oct/07/which-footballers-have-ended-scoring-droughts-with-a-goal-off-their-backside",
-      "source": "The Guardian",
-      "published_at": "2026-10-07T07:00:36+00:00",
-      "summary": "Plus: two political leaders at the same club game, a very long-term suspension and extremely quick equalisers Mail us with all of your questions and answers “Oli McBurnie is back in the Scotland squad,” noted John Cant last week. “With his record of 16 appearances [now 20] and ze",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "882c21c92bdd",
