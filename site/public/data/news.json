@@ -1,17 +1,67 @@
 {
-  "generated_at": "2026-10-14T10:06:48.000968+00:00",
+  "generated_at": "2026-10-14T15:07:16.523663+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "7e7027ddb7cf",
+      "title": "Big scorelines, one-sided games - are Women's World Cup play-offs working?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-14T13:25:56+00:00",
+      "summary": "The ease in which England saw off Greece in round one of the Women's World Cup qualifying play-offs showed just how inefficient the structure currently is.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "0f62abcb3ff3",
+      "title": "Sunderland hope to enjoy warmth in Portugal after 53 years away",
+      "url": "https://www.theguardian.com/football/2026/oct/14/sunderland-53-years-away-europa-league-torreense",
+      "source": "The Guardian",
+      "published_at": "2026-10-14T11:00:00+00:00",
+      "summary": "Black Cats can reboot season against Torreense in Europa League in break from tough start to the Premier League There is a pleasing symmetry about Sunderland’s Europa League trip to Portugal to face Torreense on Thursday night. The club’s last competitive venture on European soil",
+      "teams": [
+        "Norway",
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "421d5ceadcbb",
+      "title": "Why play-off win may not send Wales to World Cup",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c90k0x61ej7mo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-14T10:49:27+00:00",
+      "summary": "Wales face Norway in the Women's World Cup play-off final knowing even a famous victory may not be enough to send them to Brazil in 2027.",
+      "teams": [
+        "Brazil",
+        "Norway"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "7061deabb9bd",
+      "title": "Could Danish model help Scotland solve talent crisis?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8y5639gdz75o",
+      "source": "BBC Sport",
+      "published_at": "2026-10-14T10:35:26+00:00",
+      "summary": "How Nordsjaelland have become a powerhouse of youth football development - and what Scottish clubs could learn from them.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "eae452328d4b",
       "title": "Tottenham’s forgotten man Richarlison scores for under-21s: ‘I was missing it’",
       "url": "https://www.theguardian.com/football/2026/oct/14/tottenham-richarlison-under-21s-cheltenham-efl-trophy",
       "source": "The Guardian",
       "published_at": "2026-10-14T09:07:48+00:00",
-      "summary": "Brazilian in limbo after being left out of first team Cheltenham’s Cotterill: ‘His attitude was great’ Tottenham’s forgotten man Richarlison has been hailed for his “immaculate” attitude after he scored for the club’s under-21s on Tuesday night. Richarlison has not played for Spu",
+      "summary": "Brazilian in limbo after being left out of first team Cheltenham’s Cotterill: ‘His attitude was great’ Tottenham’s forgotten man Richarlison has been hailed for his attitude after he scored for under-21s on Tuesday. Richarlison has not played for the first team since an opening-d",
       "teams": [
         "Brazil",
         "England"
@@ -91,18 +141,6 @@
       "teams": [
         "Germany",
         "Belgium"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "601b8e265887",
-      "title": "Pressure on Norway in play-off final - Wales boss Wilkinson",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck4g17rrz1j5o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-13T21:32:09+00:00",
-      "summary": "Rhian Wilkinson says the pressure will be on Gemma Grainger's Norway in their Women's World Cup play-off final against Wales in December.",
-      "teams": [
-        "Norway"
       ],
       "is_injury_related": false
     },
@@ -207,18 +245,6 @@
       "is_injury_related": true
     },
     {
-      "id": "0a942f1f34cd",
-      "title": "Netflix secures 2030 World Cup TV rights in Spain",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3zxj4k7kz9eo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-13T14:54:31+00:00",
-      "summary": "Netflix will broadcast World Cup games for the first time in 2030 as it secures the rights to show World Cup games in co-host Spain and Andorra.",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "dc7f684a94fe",
       "title": "Bloom repeats faith in title ambition for Hearts",
       "url": "https://www.bbc.co.uk/sport/football/articles/cw5yng2kjg8po",
@@ -278,18 +304,6 @@
       "summary": "Norway’s champions, who host Bayern Munich on Tuesday, have excelled under Bjarte Lunde Aarsheim and Morten Jensen. We paid them a visit “When we recruit players, we say something bold.” The morning’s training session at Lyse Arena has finished and, over lunch, Morten Jensen is e",
       "teams": [
         "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "4d3254daddc1",
-      "title": "Football regulator to recommend cost controls in landmark report with 94% of clubs making loss",
-      "url": "https://www.theguardian.com/football/2026/oct/12/football-regulator-cost-controls-report-state-of-the-game",
-      "source": "The Guardian",
-      "published_at": "2026-10-12T14:28:31+00:00",
-      "summary": "Report published on Tuesday before consultation period It will have recommendations to improve sustainability The Independent Football Regulator (IFR) is to recommend clubs introduce greater cost controls in its long-awaited State of the Game report, to be published on Tuesday. T",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
