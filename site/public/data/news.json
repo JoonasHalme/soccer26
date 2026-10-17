@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-10-17T13:41:30.972604+00:00",
+  "generated_at": "2026-10-17T17:05:36.723349+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "db79c40aeaab",
+      "title": "Isak completes Liverpool’s comeback win as Brentford finish with nine",
+      "url": "https://www.theguardian.com/football/2026/oct/17/brentford-liverpool-premier-league-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-10-17T16:21:40+00:00",
+      "summary": "If this truly was the turning point for Liverpool’s spluttering forwards then they will owe a big debt of gratitude to Yehor Yarmolyuk. Brentford were 1-0 up when their midfielder saw red for a butt on Jérémy Jacquet just before half-time. While Andoni Iraola will hope surviving ",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6a3be3705951",
+      "title": "Neto double at Everton leads Chelsea to victory marred by Martínez head injury",
+      "url": "https://www.theguardian.com/football/2026/oct/17/everton-chelsea-premier-league-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-10-17T13:53:13+00:00",
+      "summary": "Chelsea have returned from the international break with a spirit, authority and resilience that augurs well for Xabi Alonso. Their troubles at Everton, not a happy hunting ground in recent years, were confined to the seven minutes Emi Martínez needed treatment for a head injury a",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "dedf642de316",
       "title": "All done deals in September & October 2026",
@@ -18,16 +42,16 @@
       "is_injury_related": false
     },
     {
-      "id": "e2cfa7274882",
-      "title": "'Ferguson poised to become Glentoran manager' - gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq70pr5270p7o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-17T09:01:01+00:00",
-      "summary": "Glentoran appear poised to appoint Duncan Ferguson as manager as Dinamo Bucharest winger Danny Armstrong eyes a Scotland call-up.",
+      "id": "87249d53f28b",
+      "title": "Houthi conflict casts shadow as Saudi Arabia scales back sporting pipe dreams",
+      "url": "https://www.theguardian.com/sport/2026/oct/17/houthi-conflict-casts-shadow-as-saudi-arabia-scales-back-sporting-pipe-dreams",
+      "source": "The Guardian",
+      "published_at": "2026-10-17T07:00:24+00:00",
+      "summary": "A match delayed by missile attack warnings is not what Cristiano Ronaldo and co signed up for but it’s the new reality; the Saudi sporting juggernaut is stalling Cristiano Ronaldo grabbed the scarf in the colours of the Saudi Arabian flag and waved it at the sparse but enthusiast",
       "teams": [
-        "Scotland"
+        "Saudi Arabia"
       ],
-      "is_injury_related": true
+      "is_injury_related": false
     },
     {
       "id": "e22b86177528",
@@ -90,80 +114,6 @@
       "is_injury_related": true
     },
     {
-      "id": "f3d5f88f64d2",
-      "title": "Celtic-Hearts showdown tops weekend's Premiership bill",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6jrwn993y0lo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-16T13:52:39+00:00",
-      "summary": "Celtic face Heart of Midlothian in the big game of the Scottish Premiership weekend on Sunday, but there is plenty of interest in Saturday's five games too.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "01f0d364bdcd",
-      "title": "Spain handed partial stadium closure after discriminatory chants v Egypt",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr86zg3w2lg2o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-16T11:48:33+00:00",
-      "summary": "Spain must play their next international friendly with a partial stadium closure after supporters sang a discriminatory chant about Muslims multiple times during a game against Egypt on 31 March.",
-      "teams": [
-        "Egypt",
-        "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "ece6092d7794",
-      "title": "Álvaro Arbeloa’s push to make Fulham free-flowing is floundering already",
-      "url": "https://www.theguardian.com/football/2026/oct/16/alvaro-arbeloas-push-to-make-fulham-free-flowing-is-floundering-already",
-      "source": "The Guardian",
-      "published_at": "2026-10-16T10:00:03+00:00",
-      "summary": "Spanish head coach will be under huge pressure if he comes unstuck again at home to Hull on Saturday Fulham fans fretting about life under Álvaro Arbeloa will not feel any better when they remember how things were under Marco Silva, who was one of the most effective managers in t",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "3922721074a9",
-      "title": "'I'm fortunate to be alive' - Merino relives bus attack",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8dx3l9r5lqlo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-16T09:16:31+00:00",
-      "summary": "Arsenal and Spain midfielder Mikel Merino reflects on the attack on Dortmund's team bus in 2017, when he was 20 years old.",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "4749f36f728b",
-      "title": "The England keeper set to face his dad at a World Cup",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw98z1v08vg4o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-16T09:14:05+00:00",
-      "summary": "Colin Gordon will be coaching Argentina at the World Cup, while son Chris will be playing for England.",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "6503911b0600",
-      "title": "Listen: Scottish Premiership weekend preview after European blows",
-      "url": "https://www.bbc.co.uk/sounds/play/p0ph0g51",
-      "source": "BBC Sport",
-      "published_at": "2026-10-16T07:00:00+00:00",
-      "summary": "Full Scottish premiership preview with Craig Telfer, Scott Allan and Conor Sammon.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "c68283049cdd",
       "title": "The rapid rise of a former art dealer to Europe's hottest young manager",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmde8l07569no",
@@ -184,18 +134,6 @@
       "summary": "Henderson back on Merseyside, Farke threatens more misery for Carrick and Forest are a threat to Arsenal Premier League top scorers | Follow us on TikTok A lively reception awaits the former Liverpool midfielders Jordan Henderson and Xabi Alonso at Everton and, in the case of the",
       "teams": [
         "Jordan"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "a0e929bc6182",
-      "title": "Alex Scott quits Disney+ role as Women’s Champions League presenter",
-      "url": "https://www.theguardian.com/football/2026/oct/15/alex-scott-quits-disney-womens-champions-league-presenter",
-      "source": "The Guardian",
-      "published_at": "2026-10-15T14:58:55+00:00",
-      "summary": "Scott walking away to focus on other projects Disney+ was criticised after opening round this season Alex Scott, the former Football Focus host, has left her role as a presenter of the Women’s Champions League coverage on Disney+. It is understood it was Scott’s decision to walk ",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
@@ -221,18 +159,6 @@
       "teams": [
         "Germany",
         "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "d3a687dc7bcd",
-      "title": "My old teammate Miroslav Klose is bucking a trend in German coaching | Philipp Lahm",
-      "url": "https://www.theguardian.com/football/2026/oct/15/my-old-teammate-miroslav-klose-is-bucking-a-trend-in-german-coaching",
-      "source": "The Guardian",
-      "published_at": "2026-10-15T07:00:24+00:00",
-      "summary": "‘Miro’, now in charge at Nürnberg, knows the value of consistency and identity in an era of tinkering coaches who did not play professionally You learn the most from the best. The Champions League winners are Paris Saint-Germain, and they could achieve a historic hat-trick this s",
-      "teams": [
-        "Germany"
       ],
       "is_injury_related": true
     },
