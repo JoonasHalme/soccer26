@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-10-18T20:35:28.573946+00:00",
+  "generated_at": "2026-10-18T23:04:59.699863+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "6e4bf5a61215",
+      "title": "European football: 10-man Lyon hold off Nice to move top of Ligue 1",
+      "url": "https://www.theguardian.com/football/2026/oct/18/european-football-monaco-rennes-ligue-1-bayer-leverkusen-freiburg-bundesliga-como-fiorentina-seria-a-real-madrid-sevilla-la-liga",
+      "source": "The Guardian",
+      "published_at": "2026-10-18T18:36:15+00:00",
+      "summary": "Five teams level on points after Monaco lose to Lorient Real Madrid ease past Sevilla with Mbappé double Ten-man Lyon held on for a 2-1 comeback victory over Nice to move top of Ligue 1 on Sunday, as previous pacesetters Monaco lost for the first time this season. Five teams are ",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "6ad9154f5d39",
       "title": "Hearts roll out red carpet ... and Celtic walk all over it",
@@ -50,18 +62,6 @@
       "summary": "All the latest on Sunday as there was positive news for Chelsea’s goalkeeper after surgery and bad news for Liverpool In the MLS , Lionel Messi scored twice to help Inter Miami to a 3-1 win at Atlanta United. Messi and Luis Suarez had combined to set up the first goal, scored by ",
       "teams": [
         "Mexico"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "500577777d38",
-      "title": "Watch: Saturday Premiership highlights on Sportscene",
-      "url": "https://www.bbc.co.uk/sport/videos/cmed3vy75pe4o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-18T09:09:34+00:00",
-      "summary": "Watch highlights and analysis of Saturday's five games in the Scottish Premiership.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -160,6 +160,18 @@
         "England"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "d3ea956dcb6a",
+      "title": "The Florian Wirtz mystery: why has he not found Leverkusen form at Liverpool?",
+      "url": "https://www.theguardian.com/football/2026/oct/16/florian-wirtz-mystery-found-bayer-leverkusen-form-liverpool",
+      "source": "The Guardian",
+      "published_at": "2026-10-16T16:40:30+00:00",
+      "summary": "Two of our writers pick over the German’s contribution to Liverpool and what the £116m forward could yet produce Some criticism has been OTT and a fee rising to £116m heightens demands but, yes, compared with his performances in Germany and for Germany Wirtz has underwhelmed at L",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "5c1eff32e81a",
