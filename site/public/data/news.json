@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-10-18T18:02:46.379267+00:00",
+  "generated_at": "2026-10-18T20:35:28.573946+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "6ad9154f5d39",
+      "title": "Hearts roll out red carpet ... and Celtic walk all over it",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62kezneyq8vo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-18T18:22:50+00:00",
+      "summary": "Hearts thought attack was the best form of defence at Celtic Park. They were badly wrong, writes Tom English.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "7d92320c68f6",
       "title": "Scottish Premiership: Osmand and Nygren at the double as Celtic thrash Hearts 7-1",
@@ -148,18 +160,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "d3ea956dcb6a",
-      "title": "The Florian Wirtz mystery: why has he not found Leverkusen form at Liverpool?",
-      "url": "https://www.theguardian.com/football/2026/oct/16/florian-wirtz-mystery-found-bayer-leverkusen-form-liverpool",
-      "source": "The Guardian",
-      "published_at": "2026-10-16T16:40:30+00:00",
-      "summary": "Two of our writers pick over the German’s contribution to Liverpool and what the £116m forward could yet produce Some criticism has been OTT and a fee rising to £116m heightens demands but, yes, compared with his performances in Germany and for Germany Wirtz has underwhelmed at L",
-      "teams": [
-        "Germany"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "5c1eff32e81a",
