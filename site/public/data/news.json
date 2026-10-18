@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-10-18T14:32:07.232764+00:00",
+  "generated_at": "2026-10-18T18:02:46.379267+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "7d92320c68f6",
+      "title": "Scottish Premiership: Osmand and Nygren at the double as Celtic thrash Hearts 7-1",
+      "url": "https://www.theguardian.com/football/2026/oct/17/scottish-premiership-kilmarnock-rangers-dundee-celtic-hearts",
+      "source": "The Guardian",
+      "published_at": "2026-10-18T16:15:36+00:00",
+      "summary": "Celtic move four points clear of Rangers after win Rangers held to pulsating 2-2 draw against Dundee Callum Osmand was on target again as Celtic inflicted more misery on Hearts with a 7-1 thrashing at Parkhead. Osmand netted twice in three first-half minutes in the first meeting ",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "d92fda17d7fe",
       "title": "What awaits Everton hero Ferguson in shock Glens role?",
@@ -59,11 +71,11 @@
       "url": "https://www.theguardian.com/football/2026/oct/18/wigan-pine-for-fa-cup-glory-as-not-even-victory-can-lift-them-off-foot-of-league-one",
       "source": "The Guardian",
       "published_at": "2026-10-18T07:00:54+00:00",
-      "summary": "Gary Caldwell, club captain in 2013 and now manager, needs much more than Saturday’s win over Reading to disperse the clouds If the 2013 FA Cup final represented a blip for the Sheikh Mansour-era Manchester City in their quest for total domination of English football, it was a hi",
+      "summary": "Gary Caldwell, club captain in 2013 and now manager, needs much more than the weekend win against Reading to disperse the clouds If the 2013 FA Cup final represented a blip for the Sheikh Mansour-era Manchester City in their quest for total domination of English football, it was ",
       "teams": [
         "England"
       ],
-      "is_injury_related": true
+      "is_injury_related": false
     },
     {
       "id": "d5e19b5f3ae2",
@@ -78,16 +90,16 @@
       "is_injury_related": false
     },
     {
-      "id": "7d92320c68f6",
-      "title": "Scottish Premiership: Rangers miss chance to go top after pulsating draw with Dundee",
-      "url": "https://www.theguardian.com/football/2026/oct/17/scottish-premiership-kilmarnock-rangers-dundee-celtic-hearts",
+      "id": "9b1d5a292411",
+      "title": "Manzambi maintains Aston Villa progress with win to seal dismal week for Newcastle",
+      "url": "https://www.theguardian.com/football/2026/oct/17/newcastle-aston-villa-premier-league-match-report",
       "source": "The Guardian",
-      "published_at": "2026-10-17T21:33:58+00:00",
-      "summary": "Jones equaliser denies Rangers victory Kilmarnock beat Motherwell 3-2 to move off bottom Rangers passed up the chance to go top of the Premiership in a pulsating 2-2 draw against Dundee at Dens Park. The home side took a deserved lead in the 38th minute through the striker Bradle",
+      "published_at": "2026-10-17T18:38:58+00:00",
+      "summary": "There is a reason why Aston Villa were so desperate to hijack Johan Manzambi’s proposed summer move from Freiburg to Newcastle. The tall, quick, tricky, clever and perfectly balanced 21-year-old Switzerland attacking midfielder looked worth every penny of the record £50m plus fee",
       "teams": [
-        "Scotland"
+        "Switzerland"
       ],
-      "is_injury_related": true
+      "is_injury_related": false
     },
     {
       "id": "dedf642de316",
@@ -148,18 +160,6 @@
         "Germany"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "11a253e296b9",
-      "title": "Real Madrid demand La Liga president resign over Goebbels comparison",
-      "url": "https://www.theguardian.com/football/2026/oct/16/real-madrid-demand-resignation-la-liga-president-javier-tebas-goebbels-comparison",
-      "source": "The Guardian",
-      "published_at": "2026-10-16T15:55:46+00:00",
-      "summary": "Javier Tebas accuses Madrid of ‘propaganda techniques’ Club want ‘immediate resignation’ for ‘constant attacks’ Real Madrid have again demanded the resignation of the president of La Liga after he compared the club’s efforts to discredit referees with the propaganda techniques of",
-      "teams": [
-        "Germany"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "5c1eff32e81a",
