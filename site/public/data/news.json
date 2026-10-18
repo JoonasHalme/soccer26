@@ -1,10 +1,70 @@
 {
-  "generated_at": "2026-10-18T05:49:29.899736+00:00",
+  "generated_at": "2026-10-18T10:56:59.590136+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "de27faf6df84",
+      "title": "Manchester United feel heat as they travel to Leeds; Emi Martínez thanks fans after jaw surgery – matchday live",
+      "url": "https://www.theguardian.com/football/live/2026/oct/18/manchester-united-feeling-the-heat-as-they-travel-to-leeds-matchday-live",
+      "source": "The Guardian",
+      "published_at": "2026-10-18T10:39:27+00:00",
+      "summary": "News, discussion and buildup to Sunday’s action Premier League table | Top scorers | Mail us In the MLS , Lionel Messi scored twice to help Inter Miami to a 3-1 win at Atlanta United. Messi and Luis Suarez had combined to set up the first goal, scored by the Mexico forward Germán",
+      "teams": [
+        "Mexico"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "500577777d38",
+      "title": "Watch: Saturday Premiership highlights on Sportscene",
+      "url": "https://www.bbc.co.uk/sport/videos/cmed3vy75pe4o",
+      "source": "BBC Sport",
+      "published_at": "2026-10-18T09:09:34+00:00",
+      "summary": "Watch highlights and analysis of Saturday's five games in the Scottish Premiership.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "afd544c8ecb7",
+      "title": "Film star Law to play Shankly in TV series - gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckz7x1v7rqv1o",
+      "source": "BBC Sport",
+      "published_at": "2026-10-18T08:27:41+00:00",
+      "summary": "Film star Jude Law is to play Bill Shankly in a television series about the Scottish football legend, while Rangers edge out Celtic in the list of most valuable British squads.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "1b882ab608e4",
+      "title": "Wigan pine for FA Cup glory as not even victory can lift them off foot of League One",
+      "url": "https://www.theguardian.com/football/2026/oct/18/wigan-pine-for-fa-cup-glory-as-not-even-victory-can-lift-them-off-foot-of-league-one",
+      "source": "The Guardian",
+      "published_at": "2026-10-18T07:00:54+00:00",
+      "summary": "Gary Caldwell, club captain in 2013 and now manager, needs much more than Saturday’s win over Reading to disperse the clouds If the 2013 FA Cup final represented a blip for the Sheikh Mansour-era Manchester City in their quest for total domination of English football, it was a hi",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "d5e19b5f3ae2",
+      "title": "Kirby 'stressed' by abrupt Vidosic exit from Brighton",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjly05yn12w5o",
+      "source": "BBC Sport",
+      "published_at": "2026-10-18T05:49:25+00:00",
+      "summary": "Former England striker Fran Kirby says the departure of Brighton head coach Dario Vidosic on the eve of the season left her feeling \"stressed\" and \"disappointed\".",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "7d92320c68f6",
       "title": "Scottish Premiership: Rangers miss chance to go top after pulsating draw with Dundee",
@@ -14,30 +74,6 @@
       "summary": "Jones equaliser denies Rangers victory Kilmarnock beat Motherwell 3-2 to move off bottom Rangers passed up the chance to go top of the Premiership in a pulsating 2-2 draw against Dundee at Dens Park. The home side took a deserved lead in the 38th minute through the striker Bradle",
       "teams": [
         "Scotland"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "9b1d5a292411",
-      "title": "Manzambi maintains Aston Villa progress with win to seal dismal week for Newcastle",
-      "url": "https://www.theguardian.com/football/2026/oct/17/newcastle-aston-villa-premier-league-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-10-17T18:38:58+00:00",
-      "summary": "There is a reason why Aston Villa were so desperate to hijack Johan Manzambi’s proposed summer move from Freiburg to Newcastle. The tall, quick, tricky, clever and perfectly balanced 21-year-old Switzerland attacking midfielder looked worth every penny of the record £50m plus fee",
-      "teams": [
-        "Switzerland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "6a3be3705951",
-      "title": "Neto double at Everton leads Chelsea to victory marred by Martínez head injury",
-      "url": "https://www.theguardian.com/football/2026/oct/17/everton-chelsea-premier-league-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-10-17T13:53:13+00:00",
-      "summary": "Chelsea have returned from the international break with a spirit, authority and resilience that augurs well for Xabi Alonso. Their troubles at Everton, not a happy hunting ground in recent years, were confined to the seven minutes Emi Martínez needed treatment for a head injury a",
-      "teams": [
-        "Argentina"
       ],
       "is_injury_related": true
     },
@@ -138,18 +174,6 @@
       "is_injury_related": false
     },
     {
-      "id": "1a1835d054f7",
-      "title": "Premier League: 10 things to look out for this weekend",
-      "url": "https://www.theguardian.com/football/2026/oct/16/premier-league-10-things-to-look-out-for-this-weekend",
-      "source": "The Guardian",
-      "published_at": "2026-10-15T23:01:44+00:00",
-      "summary": "Henderson back on Merseyside, Farke threatens more misery for Carrick and Forest are a threat to Arsenal Premier League top scorers | Follow us on TikTok A lively reception awaits the former Liverpool midfielders Jordan Henderson and Xabi Alonso at Everton and, in the case of the",
-      "teams": [
-        "Jordan"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "e53bf4d4c729",
       "title": "Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG",
       "url": "https://www.theguardian.com/football/2026/oct/15/guardiola-returns-to-manchester-as-city-spin-into-dizzy-mess-against-psg",
@@ -171,6 +195,18 @@
       "teams": [
         "Germany",
         "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "d3a687dc7bcd",
+      "title": "My old teammate Miroslav Klose is bucking a trend in German coaching | Philipp Lahm",
+      "url": "https://www.theguardian.com/football/2026/oct/15/my-old-teammate-miroslav-klose-is-bucking-a-trend-in-german-coaching",
+      "source": "The Guardian",
+      "published_at": "2026-10-15T07:00:24+00:00",
+      "summary": "‘Miro’, now in charge at Nürnberg, knows the value of consistency and identity in an era of tinkering coaches who did not play professionally You learn the most from the best. The Champions League winners are Paris Saint-Germain, and they could achieve a historic hat-trick this s",
+      "teams": [
+        "Germany"
       ],
       "is_injury_related": true
     },
@@ -213,18 +249,6 @@
       "is_injury_related": false
     },
     {
-      "id": "46f30fd2afce",
-      "title": "'Unplayable' Stanway a free-scoring warrior for Lionesses",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2kev8w934do",
-      "source": "BBC Sport",
-      "published_at": "2026-10-13T22:15:44+00:00",
-      "summary": "Whatever the game, whatever the result, Georgia Stanway always seems to score for England.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "7b698505b0e2",
       "title": "Christian Pulisic is no longer a focal point for the US or Milan – and that’s OK",
       "url": "https://www.theguardian.com/football/2026/oct/13/christian-pulisic-focal-point-milan-usmnt",
@@ -259,19 +283,6 @@
       "summary": "There’s little prospect of the model changing in a country that welcomes wealthy international owners with open arms Football, the world’s most popular sport, played by laws drawn up in London in 1863. The Premier League is the UK’s greatest soft power export. Premier League club",
       "teams": [
         "Saudi Arabia"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "a5168b5a3562",
-      "title": "Manager ins and outs - 2026-27",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-10T15:42:13+00:00",
-      "summary": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.",
-      "teams": [
-        "Scotland",
-        "England"
       ],
       "is_injury_related": false
     },
