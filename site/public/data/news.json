@@ -1,17 +1,55 @@
 {
-  "generated_at": "2026-10-19T15:32:44.560690+00:00",
+  "generated_at": "2026-10-19T21:00:54.363747+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "91b51457a230",
+      "title": "Ronaldo given 30-day suspension and £215 fine by Portuguese FA",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck9qznlywy8no",
+      "source": "BBC Sport",
+      "published_at": "2026-10-19T20:35:44+00:00",
+      "summary": "Cristiano Ronaldo is given a 30-day suspension by the Portuguese Football Federation after leaving his country's international camp last month.",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "c3205cc82c67",
+      "title": "Cristiano Ronaldo receives 30-day suspension and £215 fine over Portugal walkout",
+      "url": "https://www.theguardian.com/football/2026/oct/19/cristiano-ronaldo-30-day-suspension-and-215-fine-portugal-walkout",
+      "source": "The Guardian",
+      "published_at": "2026-10-19T20:34:05+00:00",
+      "summary": "Disciplinary council upholds charge against 41-year-old Fifa suspends Egypt’s Hossam Hassan and Mostafa Ziko Cristiano Ronaldo has been suspended for 30 days by the Portuguese ⁠FA after leaving the national team camp following a rift with the coach, ⁠Jorge Jesus, over ⁠his role i",
+      "teams": [
+        "Egypt",
+        "Norway",
+        "Portugal"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "47110d653af1",
+      "title": "Building Lionesses 2.0 - Wiegman's new challenge awaits",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvze4w57746yo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-19T20:15:48+00:00",
+      "summary": "England head coach Sarina Wiegman has changed women's football in the country, so what does she face after signing a contract extension?",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "c28e28fc14e6",
       "title": "‘Leaving England is scary but I’m here to win’: Charlie Cresswell on Ligue 1 life and his international dream",
       "url": "https://www.theguardian.com/football/2026/oct/19/england-charlie-cresswell-ligue-1-england-france-leeds-juventus-europa-league",
       "source": "The Guardian",
       "published_at": "2026-10-19T14:30:55+00:00",
-      "summary": "The centre-back could not see a way forward at Leeds so moved to France. Now he’s preparing for the biggest game of his life against Juventus By Get French Football News “Leaving England is such a scary, scary decision,” says Charlie Cresswell. It is a decision that he never thou",
+      "summary": "Young centre-back could not see a way forward at Leeds so moved to France. Now he’s preparing for the biggest game of his life against Juventus By Get French Football News “Leaving England is such a scary, scary decision,” says Charlie Cresswell. It is a decision that he never th",
       "teams": [
         "France",
         "England"
@@ -24,7 +62,7 @@
       "url": "https://www.theguardian.com/football/2026/oct/19/antoine-semenyo-eight-week-knee-injury-absence-manchester-city-short-cover-erling-haaland",
       "source": "The Guardian",
       "published_at": "2026-10-19T13:03:00+00:00",
-      "summary": "Ghana forward suffered knee injury against Ipswich Maresca to ring changes against AEK Athens on Tuesday Antoine Semenyo has been ruled out for eight weeks with a knee injury, leaving Enzo Maresca short of alternatives to Erling Haaland, who is a doubt for Manchester City’s Champ",
+      "summary": "Ghana forward sustained knee injury against Ipswich Maresca to ring changes against AEK Athens on Tuesday Antoine Semenyo has been ruled out for eight weeks with a knee injury, leaving Enzo Maresca short of alternatives to Erling Haaland, who is a doubt for Manchester City’s Cham",
       "teams": [
         "Ghana"
       ],
@@ -60,7 +98,7 @@
       "url": "https://www.theguardian.com/football/2026/oct/19/sarina-wiegman-signs-contract-extension-england-women-euro-2029",
       "source": "The Guardian",
       "published_at": "2026-10-19T10:00:04+00:00",
-      "summary": "Wiegman says she ‘cannot think of a better job in football’ She can target three Euros wins in a row with Lionesses Sarina Wiegman has extended her contract to continue as the head coach of England women for Euro 2029. Her deal was due to expire after next summer’s World Cup and ",
+      "summary": "Wiegman says she ‘cannot think of a better job in football’ She can target three European titles in row with Lionesses Sarina Wiegman has extended her contract to continue as the head coach of England women for Euro 2029. Her deal was due to expire after the World Cup next summer",
       "teams": [
         "Netherlands",
         "England"
@@ -146,18 +184,6 @@
       "source": "The Guardian",
       "published_at": "2026-10-18T07:00:54+00:00",
       "summary": "Gary Caldwell, club captain in 2013 and now manager, needs much more than the weekend win against Reading to disperse the clouds If the 2013 FA Cup final represented a blip for the Sheikh Mansour-era Manchester City in their quest for total domination of English football, it was ",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "d5e19b5f3ae2",
-      "title": "Kirby 'stressed' by abrupt Vidosic exit from Brighton",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjly05yn12w5o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-18T05:49:25+00:00",
-      "summary": "Former England striker Fran Kirby says the departure of Brighton head coach Dario Vidosic on the eve of the season left her feeling \"stressed\" and \"disappointed\".",
       "teams": [
         "England"
       ],
