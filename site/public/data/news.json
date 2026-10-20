@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T21:00:54.363747+00:00",
+  "generated_at": "2026-10-20T00:17:23.365553+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
@@ -10,10 +10,22 @@
       "title": "Ronaldo given 30-day suspension and £215 fine by Portuguese FA",
       "url": "https://www.bbc.co.uk/sport/football/articles/ck9qznlywy8no",
       "source": "BBC Sport",
-      "published_at": "2026-10-19T20:35:44+00:00",
+      "published_at": "2026-10-19T21:34:06+00:00",
       "summary": "Cristiano Ronaldo is given a 30-day suspension by the Portuguese Football Federation after leaving his country's international camp last month.",
       "teams": [
         "Portugal"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "e1efa91463e5",
+      "title": "Davies ensures Spurs off the bottom after first win of season against Coventry",
+      "url": "https://www.theguardian.com/football/2026/oct/19/tottenham-coventry-premier-league-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-10-19T21:05:46+00:00",
+      "summary": "Tottenham are level with Beyoncé at last. Progress is represented in Roberto De Zerbi’s side earning only their sixth home win in the Premier League since November 2024. Cynics will point out that this spectacular stadium has hosted as many Beyoncé gigs during that time, but Spur",
+      "teams": [
+        "Egypt"
       ],
       "is_injury_related": true
     },
@@ -118,18 +130,6 @@
       "is_injury_related": false
     },
     {
-      "id": "ff69eb31cd94",
-      "title": "Premier League: 10 talking points from the weekend’s action",
-      "url": "https://www.theguardian.com/football/2026/oct/19/premier-league-10-talking-points-from-the-weekends-action",
-      "source": "The Guardian",
-      "published_at": "2026-10-19T07:00:22+00:00",
-      "summary": "Florian Wirtz takes on more responsibility in Liverpool’s attack while Pierre Sage is under pressure at Crystal Palace Dominic Calvert-Lewin’s physicality overpowering Bryan Mbeumo in Manchester United’s area at a corner grabbed him a fifth goal in 10 outings for Leeds: a pretty ",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "929c21963714",
       "title": "Beer & Blackpool beach was how British players bonded - Pulis",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjr4yndrz1kro",
@@ -198,18 +198,6 @@
       "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "teams": [
         "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "87249d53f28b",
-      "title": "Houthi conflict casts shadow as Saudi Arabia scales back sporting pipe dreams",
-      "url": "https://www.theguardian.com/sport/2026/oct/17/houthi-conflict-casts-shadow-as-saudi-arabia-scales-back-sporting-pipe-dreams",
-      "source": "The Guardian",
-      "published_at": "2026-10-17T07:00:24+00:00",
-      "summary": "A match delayed by missile attack warnings is not what Cristiano Ronaldo and co signed up for but it’s the new reality; the Saudi sporting juggernaut is stalling Cristiano Ronaldo grabbed the scarf in the colours of the Saudi Arabian flag and waved it at the sparse but enthusiast",
-      "teams": [
-        "Saudi Arabia"
       ],
       "is_injury_related": false
     },
