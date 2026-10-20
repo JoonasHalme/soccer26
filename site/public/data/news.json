@@ -1,10 +1,35 @@
 {
-  "generated_at": "2026-10-20T05:58:19.243469+00:00",
+  "generated_at": "2026-10-20T11:27:40.984940+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "888535ff782d",
+      "title": "SPFL invites bids for new Scottish Premiership TV deal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm93z0x939leo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-20T10:44:11+00:00",
+      "summary": "The SPFL expects \"strong interest\" after inviting broadcasters to bid for the UK rights to show Scottish Premiership matches from the 2029-30 campaign.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "69439a1ad870",
+      "title": "Dwight Yorke: ‘I’m not a kid trying to get into management – I’m a manager’",
+      "url": "https://www.theguardian.com/football/2026/oct/20/dwight-yorke-interview-manager-ghana-trinidad-and-tobago",
+      "source": "The Guardian",
+      "published_at": "2026-10-20T07:00:19+00:00",
+      "summary": "Ghana may soon come calling for Trinidad and Tobago’s former captain and manager, who is proud of his CV since his days as a Premier League striker Dwight Yorke wants you to stop calling him a former player. “I’m not a kid trying to get into management for the first time,” he say",
+      "teams": [
+        "Morocco",
+        "Ghana"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "bf89fd3266be",
       "title": "Football Australia chair Anter Isaac dismisses recent Fifa ructions as ‘growing pains’",
@@ -25,32 +50,6 @@
       "published_at": "2026-10-19T21:34:06+00:00",
       "summary": "Cristiano Ronaldo is given a 30-day suspension by the Portuguese Football Federation after leaving his country's international camp last month.",
       "teams": [
-        "Portugal"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "e1efa91463e5",
-      "title": "Davies ensures Spurs off the bottom after first win of season against Coventry",
-      "url": "https://www.theguardian.com/football/2026/oct/19/tottenham-coventry-premier-league-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-10-19T21:05:46+00:00",
-      "summary": "Tottenham are level with Beyoncé at last. Progress is represented in Roberto De Zerbi’s side earning only their sixth home win in the Premier League since November 2024. Cynics will point out that this spectacular stadium has hosted as many Beyoncé gigs during that time, but Spur",
-      "teams": [
-        "Egypt"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "c3205cc82c67",
-      "title": "Cristiano Ronaldo receives 30-day suspension and £215 fine over Portugal walkout",
-      "url": "https://www.theguardian.com/football/2026/oct/19/cristiano-ronaldo-30-day-suspension-and-215-fine-portugal-walkout",
-      "source": "The Guardian",
-      "published_at": "2026-10-19T20:34:05+00:00",
-      "summary": "Disciplinary council upholds charge against 41-year-old Fifa suspends Egypt’s Hossam Hassan and Mostafa Ziko Cristiano Ronaldo has been suspended for 30 days by the Portuguese ⁠FA after leaving the national team camp following a rift with the coach, ⁠Jorge Jesus, over ⁠his role i",
-      "teams": [
-        "Egypt",
-        "Norway",
         "Portugal"
       ],
       "is_injury_related": true
@@ -93,18 +92,6 @@
       "is_injury_related": true
     },
     {
-      "id": "838dc25475b8",
-      "title": "Bayern and Luis Díaz warm up for Arsenal revenge mission with furious rout of Leipzig | Andy Brassell",
-      "url": "https://www.theguardian.com/football/2026/oct/19/bayern-munich-luis-diaz-arsenal-revenge-mission-leipzig-bundesliga",
-      "source": "The Guardian",
-      "published_at": "2026-10-19T11:49:33+00:00",
-      "summary": "Bruised Bundesliga champions hit a supposed rival for six and their flying winger is peaking at a perfect moment When Bayern Munich fail to win for two games in a row, you know what is coming next. Particularly on a Saturday night showcase, against the sort of good domestic oppos",
-      "teams": [
-        "Belgium"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "cd5d459fff31",
       "title": "England manager Wiegman signs contract extension",
       "url": "https://www.bbc.co.uk/sport/football/articles/c679plpvellgo",
@@ -112,19 +99,6 @@
       "published_at": "2026-10-19T10:08:01+00:00",
       "summary": "Sarina Wiegman says she \"cannot think of a better job in football\" as she commits to staying on as manager of the Lionesses until after Euro 2029.",
       "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "40e50bee250a",
-      "title": "Sarina Wiegman signs contract extension to stay as England women head coach until 2029",
-      "url": "https://www.theguardian.com/football/2026/oct/19/sarina-wiegman-signs-contract-extension-england-women-euro-2029",
-      "source": "The Guardian",
-      "published_at": "2026-10-19T10:00:04+00:00",
-      "summary": "Wiegman says she ‘cannot think of a better job in football’ She can target three European titles in row with Lionesses Sarina Wiegman has extended her contract to continue as the head coach of England women for Euro 2029. Her deal was due to expire after the World Cup next summer",
-      "teams": [
-        "Netherlands",
         "England"
       ],
       "is_injury_related": false
