@@ -1,33 +1,69 @@
 {
-  "generated_at": "2026-10-21T20:05:49.997414+00:00",
+  "generated_at": "2026-10-21T23:16:32.966451+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "577482169ca5",
-      "title": "Ex-England defender Bertrand eyes £87m AFC Wimbledon deal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwdr8zxp884mo",
+      "id": "aee1d32d9304",
+      "title": "Goal, assist... goal-kick - Kane underlines Ballon d'Or credentials",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro",
       "source": "BBC Sport",
-      "published_at": "2026-10-21T20:02:23+00:00",
-      "summary": "Ryan Bertrand leading a consortium that has proposed an £87m minority investment into League One side AFC Wimbledon.",
+      "published_at": "2026-10-21T23:11:06+00:00",
+      "summary": "Why Declan Rice backs his England team-mate Harry Kane to win the Ballon d'Or after Arsenal's draw with Bayern Munich in the Champions League.",
       "teams": [
         "England"
       ],
       "is_injury_related": false
     },
     {
-      "id": "85c4a60108e4",
-      "title": "Bayern Munich v Arsenal: Champions League – live",
-      "url": "https://www.theguardian.com/football/live/2026/oct/21/bayern-munich-v-arsenal-champions-league-live",
-      "source": "The Guardian",
-      "published_at": "2026-10-21T19:57:06+00:00",
-      "summary": "⚽️ Champions League updates | Como 4-1 Man Utd ⚽️ Clockwatch | Live scores | Table | Email Scott The teams are out! Bayern are in one of their all-red phases, while Arsenal are harking back to the early 90s with a blue version of the famous bruised banana. Vincent Kompany is in t",
+      "id": "ef5eaef0b956",
+      "title": "Is it 'phenomenal' Kane's year to lift the Ballon d'Or?",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crpdg21y070jo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-21T22:41:53+00:00",
+      "summary": "Stephen Warnock, Nedum Onuoha and Lars Sivertsen look at whether England captain and Bayern Munich forward Harry Kane should lift the Ballon d'Or following a \"phenomenal\" season.",
       "teams": [
-        "Germany"
+        "England"
       ],
-      "is_injury_related": true
+      "is_injury_related": false
+    },
+    {
+      "id": "3258b00f4203",
+      "title": "Villa maintain perfect Champions League start with Viking victory",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmj47yxry4k9o",
+      "source": "BBC Sport",
+      "published_at": "2026-10-21T21:19:00+00:00",
+      "summary": "Aston Villa win their third game from three in the Champions League by defeating Norwegian side Viking - the dominant display taking them up to second in the league phase.",
+      "teams": [
+        "Norway"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "7e13e44bd22a",
+      "title": "Paris Saint-Germain sparkle on the pitch while the city of light burns around them | Barney Ronay",
+      "url": "https://www.theguardian.com/football/2026/oct/21/paris-saint-germain-psg-barcelona-champions-league-violence-in-city",
+      "source": "The Guardian",
+      "published_at": "2026-10-21T21:00:00+00:00",
+      "summary": "PSG, pet project of the state of Qatar, expresses the dualism of the city, a place of deprivation where the centre is perfect PASSION! GOOOOAL! Continue reading...",
+      "teams": [
+        "Qatar"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "577482169ca5",
+      "title": "Ex-England defender Bertrand eyes £87m AFC Wimbledon deal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwdr8zxp884mo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-21T20:02:23+00:00",
+      "summary": "Ryan Bertrand is leading a consortium that has proposed an £87m minority investment into League One side AFC Wimbledon.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "8058b42829de",
@@ -103,30 +139,6 @@
       "is_injury_related": false
     },
     {
-      "id": "8ba069743040",
-      "title": "Midfielder ready to consider Ibrox exit - gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3lyl09pr84vo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-21T06:22:12+00:00",
-      "summary": "Midfielders at both Rangers and Celtic could be on their way out, while a Dundee United striker weighs up his international future in Wednesday's Scottish gossip.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "0ec0f21b1279",
-      "title": "'I've waited 34 years for this' - Viking's 'special' story",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cv0ldne84eeyo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-21T05:49:26+00:00",
-      "summary": "When Viking FK ended a 34-year Norwegian title drought last year, it was days like these they were dreaming of - preparing to visit Aston Villa in the Champions League.",
-      "teams": [
-        "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "0e008e221e54",
       "title": "Champions League roundup: McTominay double leads Napoli past Bodø/Glimt",
       "url": "https://www.theguardian.com/football/2026/oct/20/champions-league-roundup-mctominay-scores-twice-on-return-from-heart-surgery",
@@ -160,18 +172,6 @@
       "summary": "Female players including Carlinha and Tayla Carolina have spoken out against the far right, who they fear will harm the women’s game as well as wider society The day before the first round of Brazilian elections, the Estádio do Morumbi hosted the second leg of the Brazilian Women",
       "teams": [
         "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "888535ff782d",
-      "title": "SPFL invites bids for new Scottish Premiership TV deal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm93z0x939leo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-20T10:44:11+00:00",
-      "summary": "The SPFL expects \"strong interest\" after inviting broadcasters to bid for the UK rights to show Scottish Premiership matches from the 2029-30 campaign.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -213,18 +213,6 @@
       "is_injury_related": false
     },
     {
-      "id": "ce397f1b82b7",
-      "title": "Watch: Best of the weekend's SPFL action",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cw77p6z7enlko",
-      "source": "BBC Sport",
-      "published_at": "2026-10-19T09:10:36+00:00",
-      "summary": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "929c21963714",
       "title": "Beer & Blackpool beach was how British players bonded - Pulis",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjr4yndrz1kro",
@@ -243,6 +231,18 @@
       "source": "BBC Sport",
       "published_at": "2026-10-19T05:38:47+00:00",
       "summary": "Changes have been implemented by the FA from this season with under-7s dropping from playing 5v5 to 3v3 in England - could it help to change the DNA of English football?",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1b882ab608e4",
+      "title": "Wigan pine for FA Cup glory as not even victory can lift them off foot of League One",
+      "url": "https://www.theguardian.com/football/2026/oct/18/wigan-pine-for-fa-cup-glory-as-not-even-victory-can-lift-them-off-foot-of-league-one",
+      "source": "The Guardian",
+      "published_at": "2026-10-18T07:00:54+00:00",
+      "summary": "Gary Caldwell, club captain in 2013 and now manager, needs much more than the weekend win against Reading to disperse the clouds If the 2013 FA Cup final represented a blip for the Sheikh Mansour-era Manchester City in their quest for total domination of English football, it was ",
       "teams": [
         "England"
       ],
@@ -355,18 +355,6 @@
       "teams": [
         "Scotland",
         "Portugal",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "b5c38f98ee57",
-      "title": "Robbie Savage the panto villain puts scepticism aside to leave Leicester reeling",
-      "url": "https://www.theguardian.com/football/2026/oct/11/robbie-savage-peterborough-manager-leicester",
-      "source": "The Guardian",
-      "published_at": "2026-10-11T07:00:20+00:00",
-      "summary": "Peterborough’s new boss has long been a divisive figure but a stunning 3-1 win at struggling former club offered a glimpse of his fearless philosophy It felt as though the stars had aligned when Robbie Savage’s first League One match in charge of Peterborough – his first EFL mana",
-      "teams": [
         "England"
       ],
       "is_injury_related": false
