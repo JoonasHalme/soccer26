@@ -1,17 +1,41 @@
 {
-  "generated_at": "2026-10-21T15:11:20.837256+00:00",
+  "generated_at": "2026-10-21T20:05:49.997414+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "577482169ca5",
+      "title": "Ex-England defender Bertrand eyes £87m AFC Wimbledon deal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwdr8zxp884mo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-21T20:02:23+00:00",
+      "summary": "Ryan Bertrand leading a consortium that has proposed an £87m minority investment into League One side AFC Wimbledon.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "85c4a60108e4",
+      "title": "Bayern Munich v Arsenal: Champions League – live",
+      "url": "https://www.theguardian.com/football/live/2026/oct/21/bayern-munich-v-arsenal-champions-league-live",
+      "source": "The Guardian",
+      "published_at": "2026-10-21T19:57:06+00:00",
+      "summary": "⚽️ Champions League updates | Como 4-1 Man Utd ⚽️ Clockwatch | Live scores | Table | Email Scott The teams are out! Bayern are in one of their all-red phases, while Arsenal are harking back to the early 90s with a blue version of the famous bruised banana. Vincent Kompany is in t",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "8058b42829de",
       "title": "Cristiano Ronaldo asked for punishment ‘without mitigation’, then fought to cut it",
       "url": "https://www.theguardian.com/football/2026/oct/21/cristiano-ronaldo-punishment-portugal-walkout-without-mitigation-fought-to-cut-it",
       "source": "The Guardian",
       "published_at": "2026-10-21T12:40:41+00:00",
-      "summary": "He presented several arguments after Portugal walkout Inquiry chose to halve, then halve again his punishment Cristiano Ronaldo successfully fought to reduce his punishment for walking out on a Portugal training camp, after publicly saying his sanction should be imposed “without ",
+      "summary": "He presented several arguments after Portugal walkout Inquiry chose to halve, then halve again his punishment Cristiano Ronaldo successfully fought to reduce his punishment for walking out on a Portugal training camp, after saying publicly that his sanction should be imposed “wit",
       "teams": [
         "Portugal"
       ],
@@ -140,18 +164,6 @@
       "is_injury_related": false
     },
     {
-      "id": "85380e9dd072",
-      "title": "What does Celtic's demolition of Hearts mean for Hogh?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmx23n4qvnzeo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-20T11:23:57+00:00",
-      "summary": "BBC Scotland examines whether Celtic’s 7-1 win over Hearts proved they are better without their record signing.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "888535ff782d",
       "title": "SPFL invites bids for new Scottish Premiership TV deal",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm93z0x939leo",
@@ -177,18 +189,6 @@
       "is_injury_related": false
     },
     {
-      "id": "91b51457a230",
-      "title": "Ronaldo given 30-day suspension and £215 fine by Portuguese FA",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck9qznlywy8no",
-      "source": "BBC Sport",
-      "published_at": "2026-10-19T21:34:06+00:00",
-      "summary": "Cristiano Ronaldo is given a 30-day suspension by the Portuguese Football Federation after leaving his country's international camp last month.",
-      "teams": [
-        "Portugal"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "47110d653af1",
       "title": "Building Lionesses 2.0 - Wiegman's new challenge awaits",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvze4w57746yo",
@@ -196,19 +196,6 @@
       "published_at": "2026-10-19T20:15:48+00:00",
       "summary": "England head coach Sarina Wiegman has changed women's football in the country, so what does she face after signing a contract extension?",
       "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "c28e28fc14e6",
-      "title": "‘Leaving England is scary but I’m here to win’: Charlie Cresswell on Ligue 1 life and his international dream",
-      "url": "https://www.theguardian.com/football/2026/oct/19/england-charlie-cresswell-ligue-1-england-france-leeds-juventus-europa-league",
-      "source": "The Guardian",
-      "published_at": "2026-10-19T14:30:55+00:00",
-      "summary": "Young centre-back could not see a way forward at Leeds so moved to France. Now he’s preparing for the biggest game of his life against Juventus By Get French Football News “Leaving England is such a scary, scary decision,” says Charlie Cresswell. It is a decision that he never th",
-      "teams": [
-        "France",
         "England"
       ],
       "is_injury_related": false
@@ -298,6 +285,18 @@
       "is_injury_related": false
     },
     {
+      "id": "dba0dba5bdbe",
+      "title": "James McClean: ‘Wearing the poppy was just never going to happen’",
+      "url": "https://www.theguardian.com/football/2026/oct/17/james-mcclean-wearing-the-poppy-was-just-never-going-to-happen",
+      "source": "The Guardian",
+      "published_at": "2026-10-17T05:00:24+00:00",
+      "summary": "The former Republic of Ireland international on growing up in a community still reeling from the Troubles and the controversy that scarred his career “The perception of me is that, basically, I am a madman,” James McClean says calmly. “I’m outspoken. I’m a loudmouth. I’m very opi",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "5c1eff32e81a",
       "title": "Football Daily | Watford, a ‘fake news’ sacking and an apology to Elton John",
       "url": "https://www.theguardian.com/football/2026/oct/16/watford-football-daily-newsletter",
@@ -322,18 +321,6 @@
       "is_injury_related": false
     },
     {
-      "id": "e53bf4d4c729",
-      "title": "Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG",
-      "url": "https://www.theguardian.com/football/2026/oct/15/guardiola-returns-to-manchester-as-city-spin-into-dizzy-mess-against-psg",
-      "source": "The Guardian",
-      "published_at": "2026-10-15T14:33:34+00:00",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! It is quite funny that PSG felt like the good guys at the Etihad Stadium but if we briefly detach ourselves from the notion that the European champions’ own sportswashing and cashsplashing has also done immeasurable damage to th",
-      "teams": [
-        "France"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "4a2f7ca40a15",
       "title": "Champions League review: PSG’s benchmark, Viking uprising and an Italian-German dilemma",
       "url": "https://www.theguardian.com/football/2026/oct/15/champions-league-review-psg-man-city-viking-stavanger",
@@ -355,18 +342,6 @@
       "summary": "‘Miro’, now in charge at Nürnberg, knows the value of consistency and identity in an era of tinkering coaches who did not play professionally You learn the most from the best. The Champions League winners are Paris Saint-Germain, and they could achieve a historic hat-trick this s",
       "teams": [
         "Germany"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "f2252132f31b",
-      "title": "Manchester City are suddenly box-office in age of charge-rage and mega defiance | Barney Ronay",
-      "url": "https://www.theguardian.com/football/2026/oct/15/manchester-city-paris-saint-germain-psg-champions-league",
-      "source": "The Guardian",
-      "published_at": "2026-10-14T23:00:51+00:00",
-      "summary": "This is by far the most interesting this club have ever been and they faced PSG, a kind of twin entity in all this as oil state glove puppets Another day, another note of unreality; another vivid and brilliant spectacle that feels as though it has been whipped together out of mer",
-      "teams": [
-        "England"
       ],
       "is_injury_related": true
     },
@@ -395,18 +370,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "fae1eb993524",
-      "title": "Mikel Arteta’s new contract reflects where the power now lies at Arsenal | Ed Aarons",
-      "url": "https://www.theguardian.com/football/2026/oct/08/mikel-arteta-arsenal-contract",
-      "source": "The Guardian",
-      "published_at": "2026-10-08T09:49:56+00:00",
-      "summary": "From transfers to stadium works and even the training-ground dog, there is no doubting the Spaniard’s influence at the club If anyone doubts Mikel Arteta’s status as No 1 at Arsenal in the week he committed his future to the club until 2030 , just ask Win the dog. The chocolate l",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": true
     }
   ]
 }
