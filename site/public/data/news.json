@@ -1,10 +1,35 @@
 {
-  "generated_at": "2026-10-22T20:01:17.824795+00:00",
+  "generated_at": "2026-10-22T23:17:51.616279+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "05efe040db22",
+      "title": "'Celtic are just not good enough at this level'",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pj515n",
+      "source": "BBC Sport",
+      "published_at": "2026-10-22T22:22:00+00:00",
+      "summary": "Kenny Macintyre and the team reflect on a difficult night for Scottish clubs in Europe",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "4e5a3321991e",
+      "title": "Europa League: Celtic lose to Celta after leading, Mateta returns in Palace draw",
+      "url": "https://www.theguardian.com/football/2026/oct/22/europa-league-sunderland-held-in-poznan-as-juventus-denied-comeback-win",
+      "source": "The Guardian",
+      "published_at": "2026-10-22T21:41:11+00:00",
+      "summary": "Sunderland drop points in 1-1 draw but stay unbeaten VAR rules out Juventus winner in draw with Rennes Celtic suffered more Europa League pain as Spanish side Celta Vigo came from behind to win 2-1 at Parkhead. After defeats by Ferencvaros and Benfica in their first two league ph",
+      "teams": [
+        "Germany",
+        "Spain"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "b9f789c14e1e",
       "title": "Next in line? Main contenders for the Manchester United hot seat",
@@ -155,30 +180,6 @@
       "is_injury_related": false
     },
     {
-      "id": "ef5eaef0b956",
-      "title": "Is it 'phenomenal' Kane's year to lift the Ballon d'Or?",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crpdg21y070jo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-21T22:41:53+00:00",
-      "summary": "Stephen Warnock, Nedum Onuoha and Lars Sivertsen look at whether England captain and Bayern Munich forward Harry Kane should lift the Ballon d'Or following a \"phenomenal\" season.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "3258b00f4203",
-      "title": "Villa maintain perfect Champions League start with Viking victory",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmj47yxry4k9o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-21T21:19:00+00:00",
-      "summary": "Aston Villa win their third game from three in the Champions League by defeating Norwegian side Viking - the dominant display taking them up to second in the league phase.",
-      "teams": [
-        "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "7e13e44bd22a",
       "title": "Paris Saint-Germain sparkle on the pitch while the city of light burns around them | Barney Ronay",
       "url": "https://www.theguardian.com/football/2026/oct/21/paris-saint-germain-psg-barcelona-champions-league-violence-in-city",
@@ -239,6 +240,19 @@
       "is_injury_related": false
     },
     {
+      "id": "69439a1ad870",
+      "title": "Dwight Yorke: ‘I’m not a kid trying to get into management – I’m a manager’",
+      "url": "https://www.theguardian.com/football/2026/oct/20/dwight-yorke-interview-manager-ghana-trinidad-and-tobago",
+      "source": "The Guardian",
+      "published_at": "2026-10-20T07:00:19+00:00",
+      "summary": "Ghana may soon come calling for Trinidad and Tobago’s former captain and manager, who is proud of his CV since his days as a Premier League striker Dwight Yorke wants you to stop calling him a former player. “I’m not a kid trying to get into management for the first time,” he say",
+      "teams": [
+        "Morocco",
+        "Ghana"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "47110d653af1",
       "title": "Building Lionesses 2.0 - Wiegman's new challenge awaits",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvze4w57746yo",
@@ -247,6 +261,18 @@
       "summary": "England head coach Sarina Wiegman has changed women's football in the country, so what does she face after signing a contract extension?",
       "teams": [
         "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ce397f1b82b7",
+      "title": "Watch: Best of the weekend's SPFL action",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cw77p6z7enlko",
+      "source": "BBC Sport",
+      "published_at": "2026-10-19T09:10:36+00:00",
+      "summary": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2.",
+      "teams": [
+        "Scotland"
       ],
       "is_injury_related": false
     },
