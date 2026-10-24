@@ -1,10 +1,61 @@
 {
-  "generated_at": "2026-10-24T07:13:52.109734+00:00",
+  "generated_at": "2026-10-24T12:38:24.892575+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "1b9bd3359678",
+      "title": "Vincent Kompany to miss ‘weeks, not days’ with virus treatment, say Bayern Munich",
+      "url": "https://www.theguardian.com/football/2026/oct/24/vincent-kompany-recovery-virus-bayern-munich-bundesliga-football",
+      "source": "The Guardian",
+      "published_at": "2026-10-24T09:40:45+00:00",
+      "summary": "Head coach in hospital after collapsing in training Assistant coach Aaron Danks to take charge against Freiburg Bayern Munich expect Vincent Kompany to miss an extended period as their head coach continues his hospital treatment for a virus after collapsing on the training pitch ",
+      "teams": [
+        "Belgium",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "a777c7a4f91f",
+      "title": "How a fan's dying wish led a Dutch football team to a tartan kit",
+      "url": "https://www.bbc.co.uk/news/articles/c60735zx137no",
+      "source": "BBC Sport",
+      "published_at": "2026-10-24T08:28:27+00:00",
+      "summary": "FC Twente fans have made regular pilgrimages to Stranraer after a friendship formed by a terminally-ill supporter and two visiting Scots.",
+      "teams": [
+        "Scotland",
+        "Netherlands"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1e5c68bc1cd7",
+      "title": "Latte Lath's journey from street games and Carrick to new start in Germany",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqrkyl1gp4leo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-24T07:51:35+00:00",
+      "summary": "Emmanuel Latte Lath's journey took him from Ivory Coast to Italy as a child, now he is making another new start in Germany.",
+      "teams": [
+        "Germany",
+        "Ivory Coast"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8036ef8b1e9a",
+      "title": "Carter-Vickers could make Premier League switch - gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqwy7x19gw1ro",
+      "source": "BBC Sport",
+      "published_at": "2026-10-24T07:16:59+00:00",
+      "summary": "Star Celtic defender is linked with a Premier League switch, while Rangers are eyeing up a January move for Swedish winger Oskar Fallenius.",
+      "teams": [
+        "Sweden"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "7fd8326f8acd",
       "title": "NWSL drops controversial criteria around ‘Rodman Rule’ in settlement with NWSLPA",
@@ -28,18 +79,6 @@
         "Portugal"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "dca01d69264a",
-      "title": "Vincent Kompany taken to hospital after collapsing at Bayern training",
-      "url": "https://www.theguardian.com/football/2026/oct/23/vincent-kompany-hospital-collapsing-bayern-munich-training",
-      "source": "The Guardian",
-      "published_at": "2026-10-23T16:50:53+00:00",
-      "summary": "Bayern Munich head coach had been nursing a virus Coach ‘undergoing thorough examinations’, club say Vincent Kompany has been ⁠taken ⁠to ​hospital after the Bayern Munich coach felt unwell during training ⁠on Friday. The Belgian, ​who ‌had been ‌nursing a virus in ‌recent days, w",
-      "teams": [
-        "Belgium"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "43dab6b25f1e",
@@ -163,18 +202,6 @@
       "is_injury_related": true
     },
     {
-      "id": "eb7c7180de58",
-      "title": "Podcast: Euro review & Scottish Premiership preview",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pj6hvg",
-      "source": "BBC Sport",
-      "published_at": "2026-10-23T07:00:00+00:00",
-      "summary": "Andy Burke, Scott Allan and Ewan Murray look ahead to the weekend's SPFL fixtures",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "2a127701b0ef",
       "title": "Flat-track bullies Celtic continue descent into European irrelevance",
       "url": "https://www.bbc.co.uk/sport/football/articles/crp3gde84j4zo",
@@ -257,18 +284,6 @@
       "summary": "Why Declan Rice backs his England team-mate Harry Kane to win the Ballon d'Or after Arsenal's draw with Bayern Munich in the Champions League.",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "7e13e44bd22a",
-      "title": "Paris Saint-Germain sparkle on the pitch while the city of light burns around them | Barney Ronay",
-      "url": "https://www.theguardian.com/football/2026/oct/21/paris-saint-germain-psg-barcelona-champions-league-violence-in-city",
-      "source": "The Guardian",
-      "published_at": "2026-10-21T21:00:00+00:00",
-      "summary": "PSG, pet project of the state of Qatar, expresses the dualism of the city, a place of deprivation where the centre is perfect PASSION! GOOOOAL! Continue reading...",
-      "teams": [
-        "Qatar"
       ],
       "is_injury_related": false
     },
