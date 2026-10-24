@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-10-24T19:27:46.102815+00:00",
+  "generated_at": "2026-10-24T22:26:07.748264+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "7e5a6af12c9d",
+      "title": "Watch: Sportscene - Saturday's Scottish Premiership highlights",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0033m71",
+      "source": "BBC Sport",
+      "published_at": "2026-10-24T19:15:08+00:00",
+      "summary": "With Rangers v St Johnstone, St Mirren v Dundee and Dundee Utd v Aberdeen",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "d3d62d764f45",
       "title": "Why Stanley Matthews’ Ballon d’Or triumph echoes down the years for Harry Kane | Jonathan Wilson",
@@ -16,18 +28,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "606831bf3b3e",
-      "title": "Tottenham stun Chelsea for second league win in a week as Cole Palmer is sent off",
-      "url": "https://www.theguardian.com/football/2026/oct/24/chelsea-tottenham-premier-league-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-10-24T18:32:03+00:00",
-      "summary": "There were times when Roberto De Zerbi’s frustration threatened to boil over. The Tottenham manager cut a tense figure in his technical area. He bounced around for 90 minutes and let out blasts of fury whenever he saw something that displeased him, but in the end he was able to c",
-      "teams": [
-        "Belgium"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "740f83fb741c",
@@ -91,18 +91,6 @@
       "is_injury_related": false
     },
     {
-      "id": "adc2fba50add",
-      "title": "Nicolas Jackson double sees Aston Villa end Manchester City’s perfect start",
-      "url": "https://www.theguardian.com/football/2026/oct/24/aston-villa-manchester-city-premier-league-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-10-24T13:33:01+00:00",
-      "summary": "Manchester City added a loss in the Premier League to one to the Premier League, as their perfect record this season vanished without an independent commission in sight. Two of the most in-form strikers in England did battle and it was Nicolas Jackson’s double that meant his side",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "1b9bd3359678",
       "title": "Vincent Kompany to miss ‘weeks, not days’ with virus treatment, say Bayern Munich",
       "url": "https://www.theguardian.com/football/2026/oct/24/vincent-kompany-recovery-virus-bayern-munich-bundesliga-football",
@@ -114,30 +102,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "8036ef8b1e9a",
-      "title": "Carter-Vickers could make Premier League switch - gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqwy7x19gw1ro",
-      "source": "BBC Sport",
-      "published_at": "2026-10-24T07:16:59+00:00",
-      "summary": "Star Celtic defender is linked with a Premier League switch, while Rangers are eyeing up a January move for Swedish winger Oskar Fallenius.",
-      "teams": [
-        "Sweden"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "7fd8326f8acd",
-      "title": "NWSL drops controversial criteria around ‘Rodman Rule’ in settlement with NWSLPA",
-      "url": "https://www.theguardian.com/football/2026/oct/23/nwsl-rodman-rule-hip-rule-changes",
-      "source": "The Guardian",
-      "published_at": "2026-10-23T19:25:20+00:00",
-      "summary": "Any player will be eligible for High Impact Player status Requirements had included top 100, marketability lists Sides also resolve grievance on Rodman contract refusal The NWSL and the NWSL Players Association have reached a settlement to drop the restrictive criteria around the",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "6e9fd6f9ef18",
@@ -162,31 +126,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "450f62b25eea",
-      "title": "Raskin 'very happy' at Rangers but unsure about January",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6n8dezr0345o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-23T14:11:42+00:00",
-      "summary": "Belgium midfielder Nicolas Raskin is \"really happy\" at Rangers but is unsure what might happen in January.",
-      "teams": [
-        "Belgium"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "3f159b2422bc",
-      "title": "A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby",
-      "url": "https://www.theguardian.com/football/2026/oct/24/a-leagues-showpiece-melbourne-derby",
-      "source": "The Guardian",
-      "published_at": "2026-10-23T14:00:29+00:00",
-      "summary": "The Premier League scandal may have gripped English football but the A-League club is ‘critical’ to football’s presence and new strategy in Australia Sign up for Football Desk Australia: our newsletter from Jonathan Wilson In Australia’s most populous city, the A-Leagues derby be",
-      "teams": [
-        "Australia",
-        "England"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "bf6de7399488",
