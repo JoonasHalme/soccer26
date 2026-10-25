@@ -1,10 +1,46 @@
 {
-  "generated_at": "2026-10-25T19:02:12.738078+00:00",
+  "generated_at": "2026-10-25T21:42:26.433130+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "5f22e572c0c5",
+      "title": "Watch: Sportscene - Sunday's Scottish Premiership highlights",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0033m7c",
+      "source": "BBC Sport",
+      "published_at": "2026-10-25T20:00:04+00:00",
+      "summary": "With Hibs v Celtic and Motherwell v Hearts, plus action and reaction from Saturday",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "fb58d07f9ed7",
+      "title": "Weir would swap Ballon d'Or nominations for World Cup",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjvgx1xw7z9xo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-25T19:34:15+00:00",
+      "summary": "Caroline Weir reflects on her Ballon d'Or nomination while eyeing a World Cup spot with Scotland.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "51b55f6dc23c",
+      "title": "Dunfermline meet Queen of the South in Scottish Cup",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr5ynv4pyw95o",
+      "source": "BBC Sport",
+      "published_at": "2026-10-25T19:24:20+00:00",
+      "summary": "Last season's finalists Dunfermline Athletic will visit Queen of the South in the third round of the Scottish Cup.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "fddef79e52cb",
       "title": "Chaos or concern - Hanley's striker cameo poses questions for Hibs",
@@ -14,6 +50,18 @@
       "summary": "Grant Hanley was called upon to be a makeshift striker for Hibs against Celtic, but what does it signal for the Scottish Premiership's bottom side?",
       "teams": [
         "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "e743461be115",
+      "title": "Fernandes gamble leaves Carrick to carry the can for United’s institutional failures | Will Unwin",
+      "url": "https://www.theguardian.com/football/2026/oct/25/manchester-united-michael-carrick-bruno-fernandes-jim-ratcliffe-institutional-failures",
+      "source": "The Guardian",
+      "published_at": "2026-10-25T17:56:06+00:00",
+      "summary": "Leaving out his captain was doomed to fail but so are the club under the current leadership and the fans at Old Trafford know that all too well Dropping your captain, who has held the team together for most of the past five years, is a bold move from a man whose job is on the lin",
+      "teams": [
+        "Portugal"
       ],
       "is_injury_related": false
     },
@@ -102,19 +150,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "1b9bd3359678",
-      "title": "Vincent Kompany to miss ‘weeks, not days’ with virus treatment, say Bayern Munich",
-      "url": "https://www.theguardian.com/football/2026/oct/24/vincent-kompany-recovery-virus-bayern-munich-bundesliga-football",
-      "source": "The Guardian",
-      "published_at": "2026-10-24T09:40:45+00:00",
-      "summary": "Head coach in hospital after collapsing in training Assistant coach Aaron Danks to take charge against Freiburg Bayern Munich expect Vincent Kompany to miss an extended period as their head coach continues his hospital treatment for a virus after collapsing on the training pitch ",
-      "teams": [
-        "Belgium",
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "6e9fd6f9ef18",
