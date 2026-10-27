@@ -1,10 +1,82 @@
 {
-  "generated_at": "2026-10-27T10:28:28.666211+00:00",
+  "generated_at": "2026-10-27T16:31:17.549368+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "fe53c9073c32",
+      "title": "How have 'best team north or south of border' last season lost six in a row?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6lylnkzp772o",
+      "source": "BBC Sport",
+      "published_at": "2026-10-27T15:12:57+00:00",
+      "summary": "BBC Scotland analyses Motherwell's plight to find out what's not clicking at Fir Park.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b20624c245b8",
+      "title": "Harry Kane wins the Ballon d’Or and an EFL round-up | Football Weekly – video",
+      "url": "https://www.theguardian.com/football/video/2026/oct/27/harry-kane-wins-the-ballon-dor-and-an-efl-round-up-football-weekly-video",
+      "source": "The Guardian",
+      "published_at": "2026-10-27T14:59:44+00:00",
+      "summary": "Max Rushden is joined by Barry Glendenning , Ali Maxwell and George Elek to reflect on the England captain’s Ballon d’Or award and to discuss the weekend’s EFL action Continue reading...",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f47d3f837838",
+      "title": "Arise, Sir Harry? Downing Street hints at Kane knighthood after Ballon d’Or win",
+      "url": "https://www.theguardian.com/football/2026/oct/27/harry-kane-andy-burnham-knighthood-ballon-dor-win",
+      "source": "The Guardian",
+      "published_at": "2026-10-27T14:25:29+00:00",
+      "summary": "Andy Burnham sends congratulations to England captain Bayern player is first Englishman to win award since 2001 Downing Street has hinted that Harry Kane deserves a knighthood, praising the footballer’s “extraordinary achievement” as the first English winner of the Ballon d’Or in",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "eddb2d17af23",
+      "title": "How Kane's Ballon d'Or win could boost the Bundesliga",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crgqwge88z84o",
+      "source": "BBC Sport",
+      "published_at": "2026-10-27T14:24:23+00:00",
+      "summary": "Harry Kane's Ballon d'Or win not only ended a 25-year wait for an English winner of the award but also saw a Bundesliga player win it for the first time since 1996.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "9a1796ce18eb",
+      "title": "Chinese brands drop Mbappe as backlash grows over Mao joke",
+      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-27T13:25:54+00:00",
+      "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "aa85febc678d",
+      "title": "Alexia Putellas a worthy Ballon d’Or winner but the limited shortlist illustrates flaws",
+      "url": "https://www.theguardian.com/football/2026/oct/27/alexia-putellas-ballon-dor-winner-awards-long-way-before-being-equal-moving-the-goalposts",
+      "source": "The Guardian",
+      "published_at": "2026-10-27T12:32:38+00:00",
+      "summary": "Neglect of African football and a third win for the Spanish great does little to challenge narrative that the prize is reserved only for top nations’ players After a four-year wait, Alexia Putellas is the queen of women’s football once again. Receiving the Ballon d’Or for a recor",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "44b00cf20f68",
       "title": "McBurnie coughs up blood during Hull draw - gossip",
@@ -42,18 +114,6 @@
       "is_injury_related": false
     },
     {
-      "id": "dea65faa2c9c",
-      "title": "Kylian Mbappé dropped by Chinese brands for ‘offending national sentiments’",
-      "url": "https://www.theguardian.com/football/2026/oct/27/kylian-mbappe-dropped-by-chinese-brands-for-offensive-mao-jokes",
-      "source": "The Guardian",
-      "published_at": "2026-10-27T06:24:28+00:00",
-      "summary": "Video appears to show Mao Zedong called a ‘dictator’ Dongpeng and Mengniu end deals with player Kylian Mbappé has been dropped by two major brands in China after a video circulated online in which the France striker apparently joked about the former leader Mao Zedong. In China jo",
-      "teams": [
-        "France"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "4dfd30b6d49a",
       "title": "Ranking England's Ballon d'Or winners - how does Kane compare?",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckx2qdxgzzz7o",
@@ -74,18 +134,6 @@
       "summary": "Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third time.",
       "teams": [
         "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "58a743825a8c",
-      "title": "Hearts chairman calls for greater transparency on key decisions",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr15jxvll00yo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-26T23:11:28+00:00",
-      "summary": "Reflecting on last season's final-day title disappointment, Hearts chairman Calum Paterson calls for \"greater transparency and consistency around key decisions in Scottish football\".",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -186,18 +234,6 @@
       "is_injury_related": false
     },
     {
-      "id": "a056345664d4",
-      "title": "Fans assist Penicuik clear-up for Clyde cup tie",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crq8ngxp5e88o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-26T14:09:24+00:00",
-      "summary": "Penicuik Athletic are sure Tuesday's Scottish Cup tie with Clyde will go ahead in as the community rallies to clear storm debris from the pitch at Montgomery Park.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "d7e4383c6a9a",
       "title": "Davide Ancelotti wants to make a name for himself – will he do it at Lille?",
       "url": "https://www.theguardian.com/football/2026/oct/26/davide-ancelotti-lille-champions-league-ligue-1",
@@ -223,60 +259,12 @@
       "is_injury_related": true
     },
     {
-      "id": "8297db396ec9",
-      "title": "Three roles and a goal: USMNT’s ‘super player’ Alex Freeman is breaking out for Villarreal",
-      "url": "https://www.theguardian.com/football/2026/oct/26/villarreal-alex-freeman-goal-usmnt",
-      "source": "The Guardian",
-      "published_at": "2026-10-26T11:00:39+00:00",
-      "summary": "The Orlando City product scored his first goal in La Liga, playing three positions in a comeback win over Valencia While most of La Liga’s oxygen was consumed by the first el clásico since José Mourinho’s return to Real Madrid this weekend, another rivalry put Alex Freeman in the",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "73edc9f60262",
       "title": "Watch: Best of Scottish Championship & League 1 action",
       "url": "https://www.bbc.co.uk/sport/football/videos/cqgm04mjkgzwo",
       "source": "BBC Sport",
       "published_at": "2026-10-26T09:26:06+00:00",
       "summary": "Watch the best of the action from the weekend's action in the Scottish Championship and League 1.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "fb58d07f9ed7",
-      "title": "Weir would swap Ballon d'Or nominations for World Cup",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjvgx1xw7z9xo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-25T19:34:15+00:00",
-      "summary": "Caroline Weir reflects on her Ballon d'Or nomination while eyeing a World Cup spot with Scotland.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e743461be115",
-      "title": "Fernandes gamble leaves Carrick to carry the can for United’s institutional failures | Will Unwin",
-      "url": "https://www.theguardian.com/football/2026/oct/25/manchester-united-michael-carrick-bruno-fernandes-jim-ratcliffe-institutional-failures",
-      "source": "The Guardian",
-      "published_at": "2026-10-25T17:56:06+00:00",
-      "summary": "Leaving out his captain was doomed to fail but so are the club under the current leadership and the fans at Old Trafford know that all too well Dropping your captain, who has held the team together for most of the past five years, is a bold move from a man whose job is on the lin",
-      "teams": [
-        "Portugal"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "cb134b5a8b10",
-      "title": "Scottish Premiership: Durán caps Celtic’s comeback win over Hibernian",
-      "url": "https://www.theguardian.com/football/2026/oct/24/scottish-premiership-rangers-dundee-celtic-hearts",
-      "source": "The Guardian",
-      "published_at": "2026-10-25T17:53:36+00:00",
-      "summary": "Hibernian 1-2 Celtic; Rangers 4-0 St Johnstone Braga and Miller give Hearts 2-0 win at Motherwell Camilo Durán moved into double figures for the season as Celtic reasserted themselves at the top of the Premiership by coming from behind to defeat beleaguered Hibernian 2-1 at windy",
       "teams": [
         "Scotland"
       ],
@@ -308,6 +296,18 @@
       "is_injury_related": true
     },
     {
+      "id": "28c6c4d91ea5",
+      "title": "Bruno’s betrayal? ‘Toxic’ Fernandes is symptom of United’s culture of entitlement | Jamie Jackson",
+      "url": "https://www.theguardian.com/football/2026/oct/22/bruno-fernandes-betrayal-manchester-united-michael-carrick-culture-of-entitlement",
+      "source": "The Guardian",
+      "published_at": "2026-10-22T17:15:50+00:00",
+      "summary": "Michael Carrick must now deal with more dressing-room unrest after Lisandro Martínez’s attack on the board “Toxic”: this is the damning characterisation of Bruno Fernandes from one highly placed Manchester United source after the captain’s incendiary betrayal of Michael Carrick. ",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "cd61dcfc1400",
       "title": "Cathinka Tandberg: ‘Spurs fans hate Arsenal. That’s how it is’",
       "url": "https://www.theguardian.com/football/2026/oct/22/cathinka-tandberg-interview-tottenham-arsenal-rivalry-moving-the-goalposts-you-now",
@@ -328,6 +328,18 @@
       "summary": "Why Declan Rice backs his England team-mate Harry Kane to win the Ballon d'Or after Arsenal's draw with Bayern Munich in the Champions League.",
       "teams": [
         "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "7e13e44bd22a",
+      "title": "Paris Saint-Germain sparkle on the pitch while the city of light burns around them | Barney Ronay",
+      "url": "https://www.theguardian.com/football/2026/oct/21/paris-saint-germain-psg-barcelona-champions-league-violence-in-city",
+      "source": "The Guardian",
+      "published_at": "2026-10-21T21:00:00+00:00",
+      "summary": "PSG, pet project of the state of Qatar, expresses the dualism of the city, a place of deprivation where the centre is perfect PASSION! GOOOOAL! Continue reading...",
+      "teams": [
+        "Qatar"
       ],
       "is_injury_related": false
     },
@@ -389,18 +401,6 @@
       "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "teams": [
         "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e22b86177528",
-      "title": "Savaged by Simon Jordan – and thanks to the algorithm I want to be savaged again | Barney Ronay",
-      "url": "https://www.theguardian.com/football/2026/oct/17/savaged-by-simon-jordan-and-thanks-to-the-algorithm-i-want-to-be-savaged-again",
-      "source": "The Guardian",
-      "published_at": "2026-10-17T07:00:23+00:00",
-      "summary": "The former Palace chair seeming very angry indeed about others’ opinions is just par for the course as football’s age of rage ramps up another level Yet again the mainstream wokealorium is preachifying from its pulpitrex. It’s egregious. It’s sanctiforial. It’s a wangitude of com",
-      "teams": [
-        "Jordan"
       ],
       "is_injury_related": false
     },
