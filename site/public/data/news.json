@@ -1,10 +1,46 @@
 {
-  "generated_at": "2026-10-27T16:31:17.549368+00:00",
+  "generated_at": "2026-10-27T21:15:53.079935+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "d3c47f4affad",
+      "title": "Watch: Serie A - Scotland's Adams scores as Torino lead Como",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcalba",
+      "source": "BBC Sport",
+      "published_at": "2026-10-27T21:45:30+00:00",
+      "summary": "We head to Turin for live Italian football as Torino face Como in Serie A.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8c2732117798",
+      "title": "Liverpool keen on Stuttgart defender Jeltsch - Wednesday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck7vpjqyd4pmo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-27T21:10:47+00:00",
+      "summary": "Liverpool are keen on Stuttgart's promising defender Finn Jeltsch, Chelsea still want to sign Bournemouth's Alex Scott; Arsenal, Tottenham and Newcastle are among the clubs keeping tabs on Germany striker Nicolo Tresoldi, plus more.",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d492ed89816c",
+      "title": "Captain Xhaka allowed to play for Switzerland again",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck3wvl2ygd77o",
+      "source": "BBC Sport",
+      "published_at": "2026-10-27T17:00:58+00:00",
+      "summary": "Granit Xhaka and Breel Embolo will be allowed to return to action for Switzerland next month following an investigation into forged Covid-19 vaccination certificates.",
+      "teams": [
+        "Switzerland"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "fe53c9073c32",
       "title": "How have 'best team north or south of border' last season lost six in a row?",
@@ -35,7 +71,7 @@
       "url": "https://www.theguardian.com/football/2026/oct/27/harry-kane-andy-burnham-knighthood-ballon-dor-win",
       "source": "The Guardian",
       "published_at": "2026-10-27T14:25:29+00:00",
-      "summary": "Andy Burnham sends congratulations to England captain Bayern player is first Englishman to win award since 2001 Downing Street has hinted that Harry Kane deserves a knighthood, praising the footballer’s “extraordinary achievement” as the first English winner of the Ballon d’Or in",
+      "summary": "Andy Burnham sends congratulations to England captain Bayern player is first Englishman to win award since 2001 Downing Street has hinted that Harry Kane deserves a knighthood, ­praising the England captain’s “extraordinary achievement” as the first English winner of the Ballon d",
       "teams": [
         "England"
       ],
@@ -78,38 +114,14 @@
       "is_injury_related": true
     },
     {
-      "id": "44b00cf20f68",
-      "title": "McBurnie coughs up blood during Hull draw - gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c620rzelp0peo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-27T08:05:20+00:00",
-      "summary": "Scotland striker Oli McBurnie coughs up blood during Hull City's draw with Brentford as Heart of Midlothian fear further injury woe.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "19ce71920e91",
       "title": "Kane’s Ballon d’Or triumph a glorious riposte to celebrity fawning of ceremony | Barney Ronay",
       "url": "https://www.theguardian.com/football/2026/oct/27/harry-kane-ballon-dor-triumph-ceremony-barney-ronay",
       "source": "The Guardian",
       "published_at": "2026-10-27T08:00:06+00:00",
-      "summary": "The England captain spoke movingly on night of deserving winners and unintentional hilarity in London Well, there’s something new. Football: now available in new, genuinely heartwarming flavour. There was a lovely moment at London’s Palladium theatre, with the clock creeping towa",
+      "summary": "The England captain spoke movingly on a night of deserving winners and unintentional hilarity in London Well, there’s something new. Football: now available in new, genuinely heartwarming flavour. There was a lovely moment at London’s Palladium theatre on Monday, with the clock c",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "66d33b726657",
-      "title": "‘The wind goes in all directions’: Fleetwood prepare wet welcome for Arsenal at Highbury",
-      "url": "https://www.theguardian.com/football/2026/oct/27/the-wind-goes-in-all-directions-fleetwood-prepare-wet-welcome-for-arsenal-at-highbury",
-      "source": "The Guardian",
-      "published_at": "2026-10-27T08:00:05+00:00",
-      "summary": "The Premier League champions may have bigger fish to fry but can expect a feisty reception from League Two strugglers in the Carabao Cup The headlines around Fleetwood Town are rarely about what happens on the pitch. Noteworthy elements include Jamie&nbsp;Vardy’s celebrated statu",
-      "teams": [
-        "Uzbekistan"
       ],
       "is_injury_related": false
     },
@@ -138,6 +150,18 @@
       "is_injury_related": false
     },
     {
+      "id": "157cddf697d3",
+      "title": "Harry Kane claims men’s Ballon d’Or to end England’s 25-year wait for winner",
+      "url": "https://www.theguardian.com/football/2026/oct/26/harry-kane-ends-englands-25-year-wait-for-a-mens-ballon-dor",
+      "source": "The Guardian",
+      "published_at": "2026-10-26T23:11:22+00:00",
+      "summary": "Alexia Putellas picks up women’s award for third time England captain acclaimed in London ceremony Harry Kane is the Ballon d’Or winner for 2026, the first Englishman to win football’s most prestigious individual trophy in 25 years. Two hours into a lavishly excitable ceremony at",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "9e593cbe4d28",
       "title": "Kane ends England's 25-year Ballon d'Or wait - how he bucked the trend",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo",
@@ -146,18 +170,6 @@
       "summary": "Harry Kane becomes the first English player to win the Ballon d'Or since Michael Owen in 2001 after being crowned the world's best player at a ceremony in London.",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "8352d0e6bc56",
-      "title": "Arsenal eye Monza striker Varela - Tuesday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj3vq7l22yk9o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-26T21:38:42+00:00",
-      "summary": "Portuguese striker Gustavo Varela is on Arsenal's radar, Crystal Palace want to keep winger Ismaila Sarr, Brighton defender Luka Vuskovic receives admiring glances from some of Europe's biggest clubs, plus more.",
-      "teams": [
-        "Portugal"
       ],
       "is_injury_related": false
     },
@@ -198,18 +210,6 @@
       "is_injury_related": true
     },
     {
-      "id": "57e35011d4d3",
-      "title": "Celtic & Rangers wait for stadium closures ruling",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9y7ljknj2p5o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-26T17:16:14+00:00",
-      "summary": "Rangers and Celtic submit appeals against a ruling that they must play their next home Scottish Cup ties behind closed doors following scenes of disorder in last season's competition.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "20f3f3c69978",
       "title": "Weir 25th in Ballon d'Or and joins Olid & Cuthbert in award shortlist",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckd6dzv7w85go",
@@ -218,18 +218,6 @@
       "summary": "Caroline Weir is ranked the 25th best women footballer in the world on the day she also joined fellow Scotland midfielder Erin Cuthbert and Manchester United head coach Eva Olid on the shortlist for the Scottish Women's Football Awards 2026.",
       "teams": [
         "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "3b6a9ba52068",
-      "title": "The horse that ushered in Manchester United’s tragic arc | Jonathan Wilson",
-      "url": "https://www.theguardian.com/football/2026/oct/26/the-horse-that-brought-down-manchester-united",
-      "source": "The Guardian",
-      "published_at": "2026-10-26T14:43:51+00:00",
-      "summary": "There’s plenty of blame to go around at Old Trafford. Like all downfalls it started with a seemingly small, unconnected moment Sign up for our free newsletter here And so here we are again, at that point as the nights draw in and Manchester United prepare to sack a manager . Autu",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
