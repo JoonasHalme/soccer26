@@ -1,10 +1,70 @@
 {
-  "generated_at": "2026-10-27T04:56:04.416524+00:00",
+  "generated_at": "2026-10-27T10:28:28.666211+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "44b00cf20f68",
+      "title": "McBurnie coughs up blood during Hull draw - gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c620rzelp0peo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-27T08:05:20+00:00",
+      "summary": "Scotland striker Oli McBurnie coughs up blood during Hull City's draw with Brentford as Heart of Midlothian fear further injury woe.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "19ce71920e91",
+      "title": "Kane’s Ballon d’Or triumph a glorious riposte to celebrity fawning of ceremony | Barney Ronay",
+      "url": "https://www.theguardian.com/football/2026/oct/27/harry-kane-ballon-dor-triumph-ceremony-barney-ronay",
+      "source": "The Guardian",
+      "published_at": "2026-10-27T08:00:06+00:00",
+      "summary": "The England captain spoke movingly on night of deserving winners and unintentional hilarity in London Well, there’s something new. Football: now available in new, genuinely heartwarming flavour. There was a lovely moment at London’s Palladium theatre, with the clock creeping towa",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "66d33b726657",
+      "title": "‘The wind goes in all directions’: Fleetwood prepare wet welcome for Arsenal at Highbury",
+      "url": "https://www.theguardian.com/football/2026/oct/27/the-wind-goes-in-all-directions-fleetwood-prepare-wet-welcome-for-arsenal-at-highbury",
+      "source": "The Guardian",
+      "published_at": "2026-10-27T08:00:05+00:00",
+      "summary": "The Premier League champions may have bigger fish to fry but can expect a feisty reception from League Two strugglers in the Carabao Cup The headlines around Fleetwood Town are rarely about what happens on the pitch. Noteworthy elements include Jamie&nbsp;Vardy’s celebrated statu",
+      "teams": [
+        "Uzbekistan"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "dea65faa2c9c",
+      "title": "Kylian Mbappé dropped by Chinese brands for ‘offending national sentiments’",
+      "url": "https://www.theguardian.com/football/2026/oct/27/kylian-mbappe-dropped-by-chinese-brands-for-offensive-mao-jokes",
+      "source": "The Guardian",
+      "published_at": "2026-10-27T06:24:28+00:00",
+      "summary": "Video appears to show Mao Zedong called a ‘dictator’ Dongpeng and Mengniu end deals with player Kylian Mbappé has been dropped by two major brands in China after a video circulated online in which the France striker apparently joked about the former leader Mao Zedong. In China jo",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "4dfd30b6d49a",
+      "title": "Ranking England's Ballon d'Or winners - how does Kane compare?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckx2qdxgzzz7o",
+      "source": "BBC Sport",
+      "published_at": "2026-10-27T06:20:58+00:00",
+      "summary": "From Stanley Matthews to Harry Kane, how do England's Ballon d'Or winners rank?",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "b82abd92fac1",
       "title": "Putellas wins record-equalling third Ballon d'Or to extend Spanish dominance",
@@ -26,18 +86,6 @@
       "summary": "Reflecting on last season's final-day title disappointment, Hearts chairman Calum Paterson calls for \"greater transparency and consistency around key decisions in Scottish football\".",
       "teams": [
         "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "157cddf697d3",
-      "title": "Harry Kane claims men’s Ballon d’Or to end England’s 25-year wait for winner",
-      "url": "https://www.theguardian.com/football/2026/oct/26/harry-kane-ends-englands-25-year-wait-for-a-mens-ballon-dor",
-      "source": "The Guardian",
-      "published_at": "2026-10-26T23:11:22+00:00",
-      "summary": "Alexia Putellas picks up women’s award for third time England captain acclaimed in London ceremony Harry Kane is the Ballon d’Or winner for 2026, the first Englishman to win football’s most prestigious individual trophy in 25 years. Two hours into a lavishly excitable ceremony at",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
@@ -199,48 +247,12 @@
       "is_injury_related": false
     },
     {
-      "id": "98586d00adec",
-      "title": "Will anyone end Spain's domination of women's Ballon d'Or?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq5ynp680jm1o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-26T09:21:17+00:00",
-      "summary": "Spanish players have dominated the Women's Ballon d'Or for the past five years, so will they be celebrating again on Monday?",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "fb58d07f9ed7",
       "title": "Weir would swap Ballon d'Or nominations for World Cup",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjvgx1xw7z9xo",
       "source": "BBC Sport",
       "published_at": "2026-10-25T19:34:15+00:00",
       "summary": "Caroline Weir reflects on her Ballon d'Or nomination while eyeing a World Cup spot with Scotland.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "51b55f6dc23c",
-      "title": "Dunfermline meet Queen of the South in Scottish Cup",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr5ynv4pyw95o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-25T19:24:20+00:00",
-      "summary": "Last season's finalists Dunfermline Athletic will visit Queen of the South in the third round of the Scottish Cup.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "fddef79e52cb",
-      "title": "Chaos or concern - Hanley's striker cameo poses questions for Hibs",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6d93eeq27gqo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-25T18:14:53+00:00",
-      "summary": "Grant Hanley was called upon to be a makeshift striker for Hibs against Celtic, but what does it signal for the Scottish Premiership's bottom side?",
       "teams": [
         "Scotland"
       ],
@@ -271,18 +283,6 @@
       "is_injury_related": false
     },
     {
-      "id": "5006f69e7ddd",
-      "title": "Burnley sack Nicky Hayen after Lincoln rout leaves them in bottom three",
-      "url": "https://www.theguardian.com/football/2026/oct/24/burnley-sack-nicky-hayen-lincoln-rout-championship",
-      "source": "The Guardian",
-      "published_at": "2026-10-24T18:05:08+00:00",
-      "summary": "Belgian won only one of his 14 games in charge Relegated Burnley expected to challenge for promotion Burnley have sacked Nicky Hayen after only 14 games in charge, in the wake of a 4-1 defeat at Lincoln that left the Clarets in the Championship’s relegation zone. The Belgian was ",
-      "teams": [
-        "Belgium"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "a5168b5a3562",
       "title": "Manager ins and outs - 2026-27",
       "url": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo",
@@ -296,18 +296,6 @@
       "is_injury_related": false
     },
     {
-      "id": "6e9fd6f9ef18",
-      "title": "Change captain? Play the kids? How to solve the problems at Manchester United",
-      "url": "https://www.theguardian.com/football/2026/oct/23/change-captain-play-the-kids-how-to-solve-the-problems-at-manchester-united",
-      "source": "The Guardian",
-      "published_at": "2026-10-23T19:00:11+00:00",
-      "summary": "The beleaguered Michael Carrick’s job is on the line, but there are steps he can take to revive the stricken club The big question as Bournemouth arrive for Sunday’s 2pm kick-off at Old Trafford is whether Michael Carrick will show his authority by stripping the captaincy from Br",
-      "teams": [
-        "Portugal"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "fe5dcc343670",
       "title": "Mamdani loves Arsenal. He should challenge them to cut ties with the UAE over Sudan | Sasha Lezhnev and John Prendergast",
       "url": "https://www.theguardian.com/football/2026/oct/23/zohran-mamdani-arsenal-emirates-uae-sudan-sponsorship",
@@ -316,18 +304,6 @@
       "summary": "The New York mayor’s passion for the Gunners and human rights presents an opportunity to push back on the club’s lucrative UAE sponsorship Like him or not, there is no doubt that New York mayor Zohran Mamdani’s passion for certain issues is electric, and that passion played a lar",
       "teams": [
         "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "bf6de7399488",
-      "title": "Pascal Gross: the obsessive runner keeping Brighton ‘one step ahead’ after fast start",
-      "url": "https://www.theguardian.com/football/2026/oct/23/fabian-gross-obsessive-runner-brighton-one-step-ahead",
-      "source": "The Guardian",
-      "published_at": "2026-10-23T11:11:11+00:00",
-      "summary": "Midfielder ‘who can never stand still’ has brought renewed energy to Seagulls since return to the club in January Most footballers like to spend their summers unwinding after a long season but not Pascal Gross. Having been part of the Germany squad eliminated in the quarter-final",
-      "teams": [
-        "Germany"
       ],
       "is_injury_related": true
     },
