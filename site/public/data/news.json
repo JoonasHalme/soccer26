@@ -1,10 +1,70 @@
 {
-  "generated_at": "2026-10-28T08:21:45.220915+00:00",
+  "generated_at": "2026-10-28T15:57:43.814601+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "0d7863e456b4",
+      "title": "Two cup ties half an hour apart for Johnstone Burgh",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cky831qxdzydo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-28T15:34:02+00:00",
+      "summary": "Scottish fifth-tier club Johnstone Burgh are forced to play two cup ties on the same day, with the kick-offs only half an hour apart.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "9936dee29208",
+      "title": "All Spanish cup matches suspended after Madrid train collision",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crgj902p68gno",
+      "source": "BBC Sport",
+      "published_at": "2026-10-28T13:25:48+00:00",
+      "summary": "All 24 matches in the Spanish Copa del Rey due to take place on Wednesday are suspended as a mark of respect after more than 30 people were killed in a train crash near Madrid.",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "c9209c67184d",
+      "title": "West Ham’s Viviane Asseyi: ‘When I was four I said I wanted to be like Zidane’",
+      "url": "https://www.theguardian.com/football/2026/oct/28/west-ham-women-viviane-asseyi-zidane-wsl",
+      "source": "The Guardian",
+      "published_at": "2026-10-28T12:26:55+00:00",
+      "summary": "French forward on how the 1998 World Cup inspired her football dream, her Gabonese background and finding a new family in east London On Saturday, once West Ham’s Viviane Asseyi was home from the match, she picked up her phone and called her mum. It has become almost ritualistic ",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ffc88da06d97",
+      "title": "Kylian Mbappé’s China crisis shows how sensitive Mao’s legacy remains",
+      "url": "https://www.theguardian.com/football/2026/oct/28/kylian-mbappe-china-crisis-shows-how-sensitive-maos-legacy-remains",
+      "source": "The Guardian",
+      "published_at": "2026-10-28T10:00:04+00:00",
+      "summary": "Real Madrid forward was dropped by brands for comments Chinese media generally steered clear of outlining It’s been a bad start to the week for the France forward Kylian Mbappé. He missed out on joining the elite roster of Ballon d’Or winners, and instead became the latest high-p",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ed327e52478b",
+      "title": "Kuyt named Fenerbahce interim boss before Liverpool tie",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5398300x0nyo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-28T09:41:34+00:00",
+      "summary": "Former Netherlands forward Dirk Kuyt is appointed Fenerbahce’s interim coach a week before they face his former club Liverpool in the Champions League.",
+      "teams": [
+        "Netherlands"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "6d4878cf8c79",
       "title": "Lise Klaveness: ‘Certainly there are people that can challenge Infantino’",
@@ -32,7 +92,7 @@
     },
     {
       "id": "db22332e2933",
-      "title": "McInnes' Tynecastle return, Goodwin's entertainers & Reedijk eyes first win",
+      "title": "McInnes set for frosty Tynecastle return - and will Goodwin's entertainers shock Celtic?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm9qz52e32v8o",
       "source": "BBC Sport",
       "published_at": "2026-10-28T07:10:28+00:00",
@@ -44,11 +104,11 @@
     },
     {
       "id": "fe90b879ff91",
-      "title": "Barcelona fined £503 over their approach for Atlético Madrid star Álvarez",
+      "title": "Barcelona fined £503 over their approach for Atlético Madrid star Alvarez",
       "url": "https://www.theguardian.com/football/2026/oct/27/barcelona-fined-503-over-their-approach-for-atletico-madrid-star-alvarez",
       "source": "The Guardian",
       "published_at": "2026-10-27T23:18:47+00:00",
-      "summary": "Atlético accused Barcelona during summer chase Striker now rebuilding his reputation with fans Barcelona’s pursuit of Julián Álvarez came at a modest cost ⁠on Tuesday after the Spanish FA fined the club €602 (£503) following a complaint by Atlético Madrid over contact ⁠with ​the ",
+      "summary": "Atlético accused Barcelona during summer chase Striker now rebuilding his reputation with fans Barcelona’s pursuit of Julián Alvarez came at a modest cost ⁠on Tuesday after the Spanish FA fined the club €602 (£503) following a complaint by Atlético Madrid over contact ⁠with ​the ",
       "teams": [
         "Spain",
         "Argentina"
@@ -76,6 +136,18 @@
       "summary": "Granit Xhaka and Breel Embolo will be allowed to return to action for Switzerland next month following an investigation into forged Covid-19 vaccination certificates.",
       "teams": [
         "Switzerland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "2b02c9c7d515",
+      "title": "Football Daily | Harry Kane completes his arc from Orient loanee to Ballon d’Or winner",
+      "url": "https://www.theguardian.com/football/2026/oct/27/harry-kane-ballon-dor-football-daily-newsletter",
+      "source": "The Guardian",
+      "published_at": "2026-10-27T16:02:35+00:00",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Perusing the records we could find of Leyton Orient’s 4-0 shellacking of Sheffield Wednesday on a cold January afternoon in 2011 at Brisbane Road, Football Daily could find little or no indication that the young tyro who scored ",
+      "teams": [
+        "England"
       ],
       "is_injury_related": true
     },
@@ -248,6 +320,18 @@
       "is_injury_related": false
     },
     {
+      "id": "3b6a9ba52068",
+      "title": "The horse that ushered in Manchester United’s tragic arc | Jonathan Wilson",
+      "url": "https://www.theguardian.com/football/2026/oct/26/the-horse-that-brought-down-manchester-united",
+      "source": "The Guardian",
+      "published_at": "2026-10-26T14:43:51+00:00",
+      "summary": "There’s plenty of blame to go around at Old Trafford. Like all downfalls it started with a seemingly small, unconnected moment Sign up for our free newsletter here And so here we are again, at that point as the nights draw in and Manchester United prepare to sack a manager . Autu",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "d7e4383c6a9a",
       "title": "Davide Ancelotti wants to make a name for himself – will he do it at Lille?",
       "url": "https://www.theguardian.com/football/2026/oct/26/davide-ancelotti-lille-champions-league-ligue-1",
@@ -330,18 +414,6 @@
       "summary": "Norwegian forward might look to Harry Kane for inspiration on the pitch, but when north London derby comes around, she needs no lessons on what the rivalry means “It means more than just three points. It’s for the whole club. It’s for the whole place. It’s for the whole of Totten",
       "teams": [
         "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "aee1d32d9304",
-      "title": "Goal, assist... goal-kick - Kane underlines Ballon d'Or credentials",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro",
-      "source": "BBC Sport",
-      "published_at": "2026-10-21T23:11:06+00:00",
-      "summary": "Why Declan Rice backs his England team-mate Harry Kane to win the Ballon d'Or after Arsenal's draw with Bayern Munich in the Champions League.",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
