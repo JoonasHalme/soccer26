@@ -1,10 +1,46 @@
 {
-  "generated_at": "2026-10-28T20:59:54.687272+00:00",
+  "generated_at": "2026-10-29T00:51:10.986369+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "50fa69f9bf2e",
+      "title": "Scottish Premiership: McInnes booed in Rangers draw at Hearts, Celtic held at home",
+      "url": "https://www.theguardian.com/football/2026/oct/28/scottish-premiership-makhanya-late-header-rangers-point-at-hearts-celtic-draw",
+      "source": "The Guardian",
+      "published_at": "2026-10-28T23:25:10+00:00",
+      "summary": "Derek McInnes returns to Tynecastle for 2-2 draw Martin O’Neill ‘disappointed’ by Dundee United result Olwethu Makhanya scored a late equaliser as Rangers earned a 2-2 draw with Hearts on the much-hyped Tynecastle return for Derek McInnes. The Rangers manager was booed loudly by ",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "03517e934fac",
+      "title": "Arsenal’s Slegers hails ‘role model’ Russo after historic hat-trick sinks Benfica",
+      "url": "https://www.theguardian.com/football/2026/oct/28/arsenal-v-benfica-womens-champions-league-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-10-28T22:21:52+00:00",
+      "summary": "Alessia Russo wrote herself into the history books once more as she became the highest English goalscorer in the Women’s Champions League. Her hat-trick gave Arsenal a vital 3-0 win against Benfica to send the Gunners up to second in the league phase table. “I’m so happy. I think",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "23e170c42bc3",
+      "title": "Russo scores hat-trick as Arsenal beat Benfica",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crd6dzxwlqjlo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-28T22:19:57+00:00",
+      "summary": "Alessia Russo becomes England's all-time leading goalscorer in the Women's Champions League with a hat-trick in Arsenal's 3-0 win over Benfica.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "ab195d49dc10",
       "title": "Burnley turn to former CSKA Moscow manager Fabio Celestini as new head coach",
@@ -28,6 +64,18 @@
         "England"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "2e8a6c3c8c88",
+      "title": "‘This isn’t supposed to happen’: giant-slaying Fleetwood revels in fairytale Arsenal win",
+      "url": "https://www.theguardian.com/football/2026/oct/28/this-isnt-supposed-to-happen-giant-slaying-fleetwood-revels-in-fairytale-win",
+      "source": "The Guardian",
+      "published_at": "2026-10-28T16:52:23+00:00",
+      "summary": "Fishing town in disbelief the morning after its footballing minnows beat mighty Arsenal on penalties On a wet and windy night on the north-west coast of England, a League Two side sensationally knocked the Premier League champions out of the Carabao Cup. But this is not just a fa",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "a525dca9aeb4",
@@ -127,18 +175,6 @@
       "is_injury_related": false
     },
     {
-      "id": "db22332e2933",
-      "title": "McInnes set for frosty Tynecastle return - and will Goodwin's entertainers shock Celtic?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm9qz52e32v8o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-28T07:10:28+00:00",
-      "summary": "BBC Scotland picks out three things to watch in an intriguing midweek Scottish Premiership card.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "fe90b879ff91",
       "title": "Barcelona fined £503 over their approach for Atlético Madrid star Alvarez",
       "url": "https://www.theguardian.com/football/2026/oct/27/barcelona-fined-503-over-their-approach-for-atletico-madrid-star-alvarez",
@@ -148,42 +184,6 @@
       "teams": [
         "Spain",
         "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "8c2732117798",
-      "title": "Liverpool keen on Stuttgart defender Jeltsch - Wednesday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck7vpjqyd4pmo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-27T21:10:47+00:00",
-      "summary": "Liverpool are keen on Stuttgart's promising defender Finn Jeltsch, Chelsea still want to sign Bournemouth's Alex Scott; Arsenal, Tottenham and Newcastle are among the clubs keeping tabs on Germany striker Nicolo Tresoldi, plus more.",
-      "teams": [
-        "Germany"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "d492ed89816c",
-      "title": "Captain Xhaka allowed to play for Switzerland again",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck3wvl2ygd77o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-27T17:00:58+00:00",
-      "summary": "Granit Xhaka and Breel Embolo will be allowed to return to action for Switzerland next month following an investigation into forged Covid-19 vaccination certificates.",
-      "teams": [
-        "Switzerland"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "fe53c9073c32",
-      "title": "How have 'best team north or south of border' last season lost six in a row?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6lylnkzp772o",
-      "source": "BBC Sport",
-      "published_at": "2026-10-27T15:12:57+00:00",
-      "summary": "BBC Scotland analyses Motherwell's plight to find out what's not clicking at Fir Park.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -208,18 +208,6 @@
       "summary": "Andy Burnham sends congratulations to England captain Bayern player is first Englishman to win award since 2001 Downing Street has hinted that Harry Kane deserves a knighthood, ­praising the England captain’s “extraordinary achievement” as the first English winner of the Ballon d",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "9a1796ce18eb",
-      "title": "Chinese brands drop Mbappe as backlash grows over Mao joke",
-      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-27T13:25:54+00:00",
-      "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
-      "teams": [
-        "France"
       ],
       "is_injury_related": false
     },
@@ -261,7 +249,7 @@
     },
     {
       "id": "b82abd92fac1",
-      "title": "Putellas wins record-equalling third Ballon d'Or to extend Spanish dominance",
+      "title": "Putellas wins record-equalling third Ballon d'Or",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o",
       "source": "BBC Sport",
       "published_at": "2026-10-26T23:14:39+00:00",
@@ -380,18 +368,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "fe5dcc343670",
-      "title": "Mamdani loves Arsenal. He should challenge them to cut ties with the UAE over Sudan | Sasha Lezhnev and John Prendergast",
-      "url": "https://www.theguardian.com/football/2026/oct/23/zohran-mamdani-arsenal-emirates-uae-sudan-sponsorship",
-      "source": "The Guardian",
-      "published_at": "2026-10-23T14:30:09+00:00",
-      "summary": "The New York mayor’s passion for the Gunners and human rights presents an opportunity to push back on the club’s lucrative UAE sponsorship Like him or not, there is no doubt that New York mayor Zohran Mamdani’s passion for certain issues is electric, and that passion played a lar",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "cd61dcfc1400",
