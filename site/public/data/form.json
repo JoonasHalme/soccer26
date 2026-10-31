@@ -460,11 +460,11 @@
       "neutral": false,
       "model": {
         "ph": 0.836,
-        "pd": 0.132,
+        "pd": 0.131,
         "pa": 0.032,
         "pick": "H",
         "correct": false,
-        "p_actual": 0.132
+        "p_actual": 0.131
       }
     },
     {
@@ -2061,7 +2061,7 @@
       "model": {
         "ph": 0.633,
         "pd": 0.237,
-        "pa": 0.13,
+        "pa": 0.131,
         "pick": "H",
         "correct": true,
         "p_actual": 0.633
@@ -2261,7 +2261,7 @@
       "model": {
         "ph": 0.408,
         "pd": 0.296,
-        "pa": 0.296,
+        "pa": 0.297,
         "pick": "H",
         "correct": true,
         "p_actual": 0.408
@@ -3820,11 +3820,11 @@
       "neutral": false,
       "model": {
         "ph": 0.661,
-        "pd": 0.223,
+        "pd": 0.224,
         "pa": 0.115,
         "pick": "H",
         "correct": false,
-        "p_actual": 0.223
+        "p_actual": 0.224
       }
     },
     {
@@ -4302,7 +4302,7 @@
       "neutral": true,
       "model": {
         "ph": 0.759,
-        "pd": 0.173,
+        "pd": 0.172,
         "pa": 0.068,
         "pick": "H",
         "correct": true,
@@ -4723,7 +4723,7 @@
       "model": {
         "ph": 0.436,
         "pd": 0.29,
-        "pa": 0.273,
+        "pa": 0.274,
         "pick": "H",
         "correct": true,
         "p_actual": 0.436
@@ -5002,7 +5002,7 @@
       "neutral": false,
       "model": {
         "ph": 0.779,
-        "pd": 0.166,
+        "pd": 0.165,
         "pa": 0.055,
         "pick": "H",
         "correct": true,
@@ -5262,11 +5262,11 @@
       "neutral": true,
       "model": {
         "ph": 0.603,
-        "pd": 0.243,
+        "pd": 0.242,
         "pa": 0.154,
         "pick": "H",
         "correct": false,
-        "p_actual": 0.243
+        "p_actual": 0.242
       }
     },
     {
@@ -5563,7 +5563,7 @@
       "model": {
         "ph": 0.534,
         "pd": 0.265,
-        "pa": 0.201,
+        "pa": 0.2,
         "pick": "H",
         "correct": false,
         "p_actual": 0.265
@@ -5903,7 +5903,7 @@
       "model": {
         "ph": 0.392,
         "pd": 0.3,
-        "pa": 0.308,
+        "pa": 0.307,
         "pick": "H",
         "correct": false,
         "p_actual": 0.3
@@ -6667,7 +6667,7 @@
           "neutral": false,
           "model": {
             "pw": 0.055,
-            "pd": 0.166,
+            "pd": 0.165,
             "pl": 0.779,
             "pick": "L",
             "correct": true,
@@ -6688,7 +6688,7 @@
           "model": {
             "pw": 0.534,
             "pd": 0.265,
-            "pl": 0.201,
+            "pl": 0.2,
             "pick": "W",
             "correct": false,
             "p_actual": 0.265
@@ -7809,7 +7809,7 @@
           "model": {
             "pw": 0.633,
             "pd": 0.237,
-            "pl": 0.13,
+            "pl": 0.131,
             "pick": "W",
             "correct": true,
             "p_actual": 0.633
@@ -8473,7 +8473,7 @@
           "neutral": true,
           "model": {
             "pw": 0.759,
-            "pd": 0.173,
+            "pd": 0.172,
             "pl": 0.068,
             "pick": "W",
             "correct": true,
@@ -8840,11 +8840,11 @@
           "neutral": true,
           "model": {
             "pw": 0.603,
-            "pd": 0.243,
+            "pd": 0.242,
             "pl": 0.154,
             "pick": "W",
             "correct": false,
-            "p_actual": 0.243
+            "p_actual": 0.242
           }
         },
         {
@@ -9057,7 +9057,7 @@
           "home": false,
           "neutral": false,
           "model": {
-            "pw": 0.296,
+            "pw": 0.297,
             "pd": 0.296,
             "pl": 0.408,
             "pick": "L",
@@ -9118,11 +9118,11 @@
           "neutral": true,
           "model": {
             "pw": 0.154,
-            "pd": 0.243,
+            "pd": 0.242,
             "pl": 0.603,
             "pick": "L",
             "correct": false,
-            "p_actual": 0.243
+            "p_actual": 0.242
           }
         },
         {
@@ -9268,7 +9268,7 @@
           "model": {
             "pw": 0.436,
             "pd": 0.29,
-            "pl": 0.273,
+            "pl": 0.274,
             "pick": "W",
             "correct": true,
             "p_actual": 0.436
@@ -9465,7 +9465,7 @@
           "neutral": true,
           "model": {
             "pw": 0.068,
-            "pd": 0.173,
+            "pd": 0.172,
             "pl": 0.759,
             "pick": "L",
             "correct": true,
@@ -9683,11 +9683,11 @@
           "neutral": false,
           "model": {
             "pw": 0.836,
-            "pd": 0.132,
+            "pd": 0.131,
             "pl": 0.032,
             "pick": "W",
             "correct": false,
-            "p_actual": 0.132
+            "p_actual": 0.131
           }
         },
         {
@@ -10040,7 +10040,7 @@
           "home": false,
           "neutral": true,
           "model": {
-            "pw": 0.201,
+            "pw": 0.2,
             "pd": 0.265,
             "pl": 0.534,
             "pick": "L",
@@ -11290,7 +11290,7 @@
           "home": false,
           "neutral": true,
           "model": {
-            "pw": 0.273,
+            "pw": 0.274,
             "pd": 0.29,
             "pl": 0.436,
             "pick": "L",
