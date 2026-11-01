@@ -1,10 +1,35 @@
 {
-  "generated_at": "2026-11-01T07:28:28.303801+00:00",
+  "generated_at": "2026-11-01T15:01:01.258344+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "a5168b5a3562",
+      "title": "Manager ins and outs - 2026-27",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-01T11:11:40+00:00",
+      "summary": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.",
+      "teams": [
+        "Scotland",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "3257348d2f77",
+      "title": "O'Neill insists frozen-out midfielder can still have Celtic future - gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm20vy1kwynko",
+      "source": "BBC Sport",
+      "published_at": "2026-11-01T10:22:22+00:00",
+      "summary": "Martin O'Neill insists frozen-out midfielder can still have a Celtic future, plus more Scottish football gossip.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "2e119072ed49",
       "title": "Has Martinez become a liability for Man Utd?",
@@ -16,18 +41,6 @@
         "Argentina"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "2436b6aa6615",
-      "title": "European football: Kane misses penalty as Dortmund share spoils in Der Klassiker",
-      "url": "https://www.theguardian.com/football/2026/oct/31/european-football-harry-kane-bayern-munich-borussia-dortmund-milan-inter-barcelona",
-      "source": "The Guardian",
-      "published_at": "2026-10-31T22:41:08+00:00",
-      "summary": "Bayern Munich held to 2-2 draw after Silva equaliser Barcelona on top of La Liga after thrashng Alaves The Ballon d’Or winner Harry Kane missed a penalty and hit the post for ⁠ Bayern Munich as Borussia Dortmund snatched a last-gasp equaliser through Fabio Silva for a 2-2 draw ⁠i",
-      "teams": [
-        "Germany"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "ecfe651f6308",
@@ -185,19 +198,6 @@
       "teams": [
         "Brazil",
         "France"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "a5168b5a3562",
-      "title": "Manager ins and outs - 2026-27",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-24T17:54:05+00:00",
-      "summary": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.",
-      "teams": [
-        "Scotland",
-        "England"
       ],
       "is_injury_related": false
     }
