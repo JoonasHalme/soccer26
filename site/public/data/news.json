@@ -1,17 +1,29 @@
 {
-  "generated_at": "2026-10-31T21:27:42.339227+00:00",
+  "generated_at": "2026-11-01T01:03:56.549737+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "2e119072ed49",
+      "title": "Has Martinez become a liability for Man Utd?",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9vgrjej28dvo",
+      "source": "BBC Sport",
+      "published_at": "2026-10-31T23:59:22+00:00",
+      "summary": "Match of the Day pundits Danny Murphy and Stephan Warnock analyse Lisandro Martinez's performance in Manchester United's 2-0 defeat to Chelsea, where the Argentinian defender was sent off.",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "2436b6aa6615",
       "title": "European football: Kane misses penalty as Dortmund share spoils in Der Klassiker",
       "url": "https://www.theguardian.com/football/2026/oct/31/european-football-harry-kane-bayern-munich-borussia-dortmund-milan-inter-barcelona",
       "source": "The Guardian",
-      "published_at": "2026-10-31T20:06:46+00:00",
-      "summary": "Bayern Munich held to 2-2 draw after Silva equaliser Atlético Madrid go top of La Liga after win over Levante The Ballon d’Or winner Harry Kane missed a penalty and hit the post for ⁠ Bayern Munich as Borussia Dortmund snatched a last-gasp equaliser through Fabio Silva for a 2-2 ",
+      "published_at": "2026-10-31T22:41:08+00:00",
+      "summary": "Bayern Munich held to 2-2 draw after Silva equaliser Barcelona on top of La Liga after thrashng Alaves The Ballon d’Or winner Harry Kane missed a penalty and hit the post for ⁠ Bayern Munich as Borussia Dortmund snatched a last-gasp equaliser through Fabio Silva for a 2-2 draw ⁠i",
       "teams": [
         "Germany"
       ],
@@ -30,6 +42,18 @@
       "is_injury_related": false
     },
     {
+      "id": "50d5f7cbd902",
+      "title": "Evanilson profits from costly Trafford blunder as Bournemouth punish Leeds",
+      "url": "https://www.theguardian.com/football/2026/oct/31/bournemouth-leeds-premier-league-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-10-31T17:16:21+00:00",
+      "summary": "Accidents will happen. They also have consequences. Leeds were playing well, certainly better than Bournemouth for the first 30 minutes until James Trafford committed his grievous error. The goalkeeper made a horrible mess of a pass to an unwitting Ao Tanaka. In stole Justin Klui",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "cbe3bff92349",
       "title": "No big deal: how Mac Allister shook off contract doubts to fire Liverpool’s revival",
       "url": "https://www.theguardian.com/football/2026/oct/31/how-alexis-mac-allister-shook-off-contract-doubts-liverpool-revival",
@@ -38,18 +62,6 @@
       "summary": "Iraola’s midfield has rediscovered its aggression and intensity just in time for Sunday’s visit of Arsenal to Anfield Alexis Mac Allister found himself in a strong position to apply pressure on Liverpool over a new contract before Atlético Madrid’s visit to Anfield last month , a",
       "teams": [
         "Argentina"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "5d534108c0d3",
-      "title": "Suspicious bets returning £149,000 for predicting Ballon d’Or under investigation",
-      "url": "https://www.theguardian.com/football/2026/oct/30/ballon-dor-betting-suspicious-cryptocurrency-investigation",
-      "source": "The Guardian",
-      "published_at": "2026-10-30T21:12:33+00:00",
-      "summary": "Bets predicted exact top-five men’s finishing order Organiser France Football has contacted police A series of suspicious bets that correctly predicted the exact top-five finishing order of this year’s Ballon d’Or and generated almost $200,000 (£149,000) in winnings is being inve",
-      "teams": [
-        "France"
       ],
       "is_injury_related": true
     },
@@ -79,18 +91,6 @@
       "is_injury_related": true
     },
     {
-      "id": "3f6b028394ac",
-      "title": "What have we learned from first round of Premiership?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwvgd4yegyepo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-29T20:53:07+00:00",
-      "summary": "With every team having now faced one another in the Scottish Premiership, BBC Sport Scotland assesses the key things we have learned so far.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "baf58826de6b",
       "title": "Is double drop from the Premier League becoming more common?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o",
@@ -111,18 +111,6 @@
       "summary": "Is there anything you would like to ask the former Celtic, Arsenal and Scotland forward? Ever wanted to ask Charlie Nicholas a question? Well, this is your chance. Whether you want to know about the season he scored 50 goals for Celtic, or the day he scored both goals as Arsenal ",
       "teams": [
         "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "23e170c42bc3",
-      "title": "Russo scores hat-trick as Arsenal beat Benfica",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crd6dzxwlqjlo",
-      "source": "BBC Sport",
-      "published_at": "2026-10-28T22:19:57+00:00",
-      "summary": "Alessia Russo becomes England's all-time leading goalscorer in the Women's Champions League with a hat-trick in Arsenal's 3-0 win over Benfica.",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
