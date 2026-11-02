@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-11-01T23:32:07.806031+00:00",
+  "generated_at": "2026-11-02T05:54:05.346396+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "cee7de943194",
+      "title": "European football: Mbappé penalty helps Real Madrid stroll to sixth straight win",
+      "url": "https://www.theguardian.com/football/2026/nov/01/european-football-real-madrid-lazio-juventus-napoli-kylian-mbappe",
+      "source": "The Guardian",
+      "published_at": "2026-11-01T23:46:31+00:00",
+      "summary": "Bellingham and Diomandé complete 3-0 win over Racing Lazio top Serie A after fighting back to beat Cagliari Kylian Mbappé moved on from a tumultuous week by scoring a penalty to help Real Madrid win 3-0 at Racing Santander on Sunday. The French forward narrowly lost out on the Ba",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "9263396a5370",
       "title": "‘We have to tell them to go down’: Iraola responds to Isak penalty denial for Liverpool",
@@ -38,18 +50,6 @@
       "summary": "Hibernian, for once, avoid late heartbreak to set up League Cup final with Rangers, writes Tom English.",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "cee7de943194",
-      "title": "European football: Mbappé penalty helps Real Madrid stroll to sixth straight win",
-      "url": "https://www.theguardian.com/football/2026/nov/01/european-football-real-madrid-lazio-juventus-napoli-kylian-mbappe",
-      "source": "The Guardian",
-      "published_at": "2026-11-01T17:55:23+00:00",
-      "summary": "Bellingham and Diomandé complete 3-0 win over Racing Lazio top Serie A after fighting back to beat Cagliari Kylian Mbappé moved on from a tumultuous week by scoring a penalty to help Real Madrid win 3-0 at Racing Santander on Sunday. The French forward narrowly lost out on the Ba",
-      "teams": [
-        "France"
       ],
       "is_injury_related": false
     },
