@@ -1,10 +1,86 @@
 {
-  "generated_at": "2026-11-03T15:01:54.528199+00:00",
+  "generated_at": "2026-11-03T20:56:47.760966+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "b5542dbc9191",
+      "title": "Arteta backs Saliba’s readiness to return for Arsenal at Slavia Prague",
+      "url": "https://www.theguardian.com/football/2026/nov/03/arteta-backs-salibas-readiness-to-return-for-arsenal-at-slavia-prague",
+      "source": "The Guardian",
+      "published_at": "2026-11-03T20:31:58+00:00",
+      "summary": "Defender travelled with squad after long injury absence ‘I have clips’: Arteta hits back after Liverpool complaints Mikel Arteta is confident that William Saliba is ready to make his first appearance of the season for Arsenal after he played 45 minutes of a match behind closed do",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "9a544e237481",
+      "title": "Phil Foden sets sights on England recall and says he has had no contact with Tuchel",
+      "url": "https://www.theguardian.com/football/2026/nov/03/phil-foden-sets-sights-on-england-recall-and-says-hes-had-no-contact-with-tuchel",
+      "source": "The Guardian",
+      "published_at": "2026-11-03T20:08:27+00:00",
+      "summary": "Foden: ‘You have to keep putting on performances’ Enzo Maresca: ‘We cannot rely on Erling for every game’ Phil Foden is aiming for an England recall after the Manchester City attacker was left out of the squad for last summer’s World Cup and the Nations League games this season b",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "673c9e308068",
+      "title": "Tenerife footballer Jesús de Miguel dies aged 30 after on-pitch collision",
+      "url": "https://www.theguardian.com/football/2026/nov/03/tenerife-footballer-jesus-de-miguel-hospital-collision",
+      "source": "The Guardian",
+      "published_at": "2026-11-03T17:17:29+00:00",
+      "summary": "Police homicide division opens judicial proceedings He was struck in the chest when challenging for ball Spanish football was in shock on Tuesday after the Tenerife striker Jesús de Miguel died after a collision with the Andorra goalkeeper Jesús Owono during a match in the second",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "fc3239de0a07",
+      "title": "Pocognoli focus on Scotland tidy-up as Euros loom",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po",
+      "source": "BBC Sport",
+      "published_at": "2026-11-03T16:54:35+00:00",
+      "summary": "The Scotland head coach insists radical change is not required to improve his team after a mixed maiden camp.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "37acd8220b28",
+      "title": "How sporting events are being impacted by Middle East conflict",
+      "url": "https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-03T16:01:24+00:00",
+      "summary": "BBC Sport takes a look at how the ongoing conflict in the Middle East has affected sporting events in Saudi Arabia, Qatar, Bahrain and the wider area.",
+      "teams": [
+        "Qatar",
+        "Saudi Arabia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "05b97240c0d3",
+      "title": "Lionesses to face France and Portugal in Nations League",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qxge7zo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-03T15:39:21+00:00",
+      "summary": "England have been drawn to face France, Austria and Portugal in next year's Women's Nations League.",
+      "teams": [
+        "France",
+        "Austria",
+        "Portugal",
+        "England"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "97213966159b",
       "title": "Scotland draw Germany, Netherlands & Sweden in Nations League",
@@ -47,18 +123,6 @@
       "is_injury_related": true
     },
     {
-      "id": "673c9e308068",
-      "title": "Tenerife footballer Jesús de Miguel dies aged 30 after on-pitch collision",
-      "url": "https://www.theguardian.com/football/2026/nov/03/tenerife-footballer-jesus-de-miguel-hospital-collision",
-      "source": "The Guardian",
-      "published_at": "2026-11-03T09:13:33+00:00",
-      "summary": "Forward had cardiac arrest and was taken to hospital He was struck in the chest when challenging for ball The Tenerife striker Jesús de Miguel has died following a collision with the Andorra goalkeeper Jesús Owono during a match in Spain’s second division. Tenerife announced that",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "aad821ded2b0",
       "title": "Tenerife striker De Miguel dies after on-field collision",
       "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo",
@@ -80,18 +144,6 @@
       "teams": [
         "Ivory Coast",
         "Sweden"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "c2bcbdf2cfd9",
-      "title": "Emery looks to show Villa can compete with elite",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5ev3m9ddzgmo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-03T07:33:17+00:00",
-      "summary": "Aston Villa are looking to become the first English team to win at the Nou Camp in almost 20 years.",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
@@ -248,18 +300,6 @@
       "summary": "Athletic’s win over Real Sociedad was culmination of six unique days for the Spain keeper after night at the Palladium For the third time in six days everyone got to their feet to hand a standing ovation to Unai Simón, dressed in all black, before the world. Named the best men’s ",
       "teams": [
         "Spain"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "df79c901c786",
-      "title": "Falkirk brick wall Bain boosts Scotland chances",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c65ynz5ve125o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-02T08:22:20+00:00",
-      "summary": "Scott Bain proved unbeatable as he helped Falkirk defeat his former club, Celtic, just in time for the goalkeeper to push his case for inclusion in the latest Scotland squad.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": true
     },
