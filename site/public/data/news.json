@@ -1,10 +1,58 @@
 {
-  "generated_at": "2026-11-04T01:17:17.068621+00:00",
+  "generated_at": "2026-11-04T09:03:17.735617+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "68c149a03900",
+      "title": "From Derby to Champions League - Brown's journey to face Reds",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwp8g7gjy6mro",
+      "source": "BBC Sport",
+      "published_at": "2026-11-04T08:58:24+00:00",
+      "summary": "Fenerbahce's Archie Brown on his unorthodox journey to Istanbul, the moment of madness against Galatasaray and what Liverpool can expect in Turkey on Wednesday evening.",
+      "teams": [
+        "Turkey"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "410d936b2cfd",
+      "title": "Recovering Murray hopes to earn Dundee deal - gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwj0l628dvmeo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-04T08:14:53+00:00",
+      "summary": "Veteran Scottish Premiership striker targets new contract on long road back to fitness as former Celtic player has advice on how to get the best out of record signing...",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "867f8862e673",
+      "title": "Scottish Football Podcast",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pl78bz",
+      "source": "BBC Sport",
+      "published_at": "2026-11-04T08:00:00+00:00",
+      "summary": "Leaky defences, the enigma of Kasper Høgh and can Pogcognoli get his system to work?",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "91c87c1c708c",
+      "title": "New strategy launched to transform Scottish women's football over 10 years",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly05y2jwzdo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-04T07:03:05+00:00",
+      "summary": "The strategy aims to double the number of registered female players in Scotland, while also quadrupling attendances and audiences for matches.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "b96ab43f4024",
       "title": "Asian Cup postponement leaves Socceroos, FA and coach Tony Popovic at crossroads | Joey Lynch",
@@ -160,18 +208,6 @@
       "is_injury_related": true
     },
     {
-      "id": "62361f9eae1c",
-      "title": "West Ham turn to Scott Parker after sacking Nuno Espírito Santo as head coach",
-      "url": "https://www.theguardian.com/football/2026/nov/03/west-ham-sack-nuno-espirito-santo-as-head-coach",
-      "source": "The Guardian",
-      "published_at": "2026-11-03T09:43:49+00:00",
-      "summary": "West Ham intent on instant return to Premier League Nuno took over from Graham Potter in September 2025 West Ham are poised to appoint Scott Parker as manager after sacking Nuno Espírito Santo. The club have acted after a disappointing start to the Championship season and have mo",
-      "teams": [
-        "Portugal"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "aad821ded2b0",
       "title": "Tenerife striker De Miguel dies after on-field collision",
       "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo",
@@ -180,19 +216,6 @@
       "summary": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
       "teams": [
         "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "bcb531658f86",
-      "title": "Celtic track teenager Doumbia - gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmjwexlyn611o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-03T08:04:45+00:00",
-      "summary": "Celtic monitor Ivory Coast teenager playing in Sweden as one of their Europa League opponents seek a new manager.",
-      "teams": [
-        "Ivory Coast",
-        "Sweden"
       ],
       "is_injury_related": false
     },
@@ -269,18 +292,6 @@
       "is_injury_related": true
     },
     {
-      "id": "51a555310d2a",
-      "title": "Dazn secures exclusive deal on global streaming rights for 2029 Club World Cup",
-      "url": "https://www.theguardian.com/football/2026/nov/02/dazn-world-cup-2029-exclusive-deal-global-streaming-rights",
-      "source": "The Guardian",
-      "published_at": "2026-11-02T13:00:40+00:00",
-      "summary": "Deal deepens company’s relationship with Fifa Dazn paid $1bn for global rights for the 2025 tournament Dazn has secured an exclusive option for global streaming rights for the next men’s Club World Cup in 2029 in a development that deepens its partnership with Fifa. The Saudi Ara",
-      "teams": [
-        "Saudi Arabia"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "7c271faba6f7",
       "title": "Harry Kane’s Ballon d’Or party gives way to anxiety-filled hangover for Bayern Munich | Andy Brassell",
       "url": "https://www.theguardian.com/football/2026/nov/02/harry-kane-ballon-dor-bayern-munich-hangover-borussia-dortmund-bundesliga",
@@ -303,18 +314,6 @@
         "Spain"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "f31d4ed3d18f",
-      "title": "Why Scottish football is struggling to produce young talent",
-      "url": "https://www.bbc.co.uk/news/articles/crx23ejgz7j8o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-02T06:05:57+00:00",
-      "summary": "Scottish football is wrestling with a growing concern over the number of homegrown players who are making to the top of the game.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "a5168b5a3562",
