@@ -1,10 +1,58 @@
 {
-  "generated_at": "2026-11-05T15:24:36.144813+00:00",
+  "generated_at": "2026-11-05T21:57:20.261008+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "645b98c847a4",
+      "title": "England check on Palmer - what are Tuchel's other big choices?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o",
+      "source": "BBC Sport",
+      "published_at": "2026-11-05T19:00:04+00:00",
+      "summary": "It is the last international break of the year and England have some important Nations League games. Thomas Tuchel has big decisions to make in selecting his squad.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "4b50e1bd9b6e",
+      "title": "'A void that is impossible to fill' - tributes paid at De Miguel funeral",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-05T16:12:37+00:00",
+      "summary": "Jesus de Miguel's family say \"the mark he has left on so many people\" is something they will always remember as the footballer's funeral takes place in Spain.",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ba238137498a",
+      "title": "Scotland's Welsh avoids serious knee injury",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx29zzrl17no",
+      "source": "BBC Sport",
+      "published_at": "2026-11-05T16:00:44+00:00",
+      "summary": "Swansea City receive major fitness boost as influential centre-back Stephen Welsh is cleared of serious injury.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "99c51dc22b93",
+      "title": "Football Daily | Como turn on the style and hammer nine past out-of-focus Lens",
+      "url": "https://www.theguardian.com/football/2026/nov/05/football-daily-email-como-lens",
+      "source": "The Guardian",
+      "published_at": "2026-11-05T15:55:25+00:00",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! A consistent criticism levelled at Como is that they are simply not “Italian” enough to be a bona fide Serie A club. Bankrolled by an Indonesian ciggy manufacturer, their president has helpfully likened their multi-hubbed busine",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "691bd07c33dc",
       "title": "What new Kane deal means for England and the Premier League record",
@@ -14,18 +62,6 @@
       "summary": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "4b50e1bd9b6e",
-      "title": "Family thankful for support as De Miguel funeral held",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-05T14:36:32+00:00",
-      "summary": "Jesus de Miguel's family say \"the mark he has left on so many people\" is something they will always remember as the footballer's funeral takes place in Spain.",
-      "teams": [
-        "Spain"
       ],
       "is_injury_related": false
     },
@@ -59,21 +95,9 @@
       "url": "https://www.theguardian.com/football/2026/nov/05/cristiano-ronaldo-retires-international-football-career-portugal",
       "source": "The Guardian",
       "published_at": "2026-11-05T13:32:02+00:00",
-      "summary": "There is no doubt his international career was an incredible one, but it would have been greater still if he had not lingered on the stage so long Nothing, perhaps, is quite so difficult for an elite sportsman as timing their exit. It’s not easy for any person in any job to weigh",
+      "summary": "There is no doubt his international career was an incredible one, but it would have been greater still if he had not lingered on the stage so long Nothing, perhaps, is quite so difficult for an elite sportsperson as timing their exit. It’s not easy for any person in any job to we",
       "teams": [
         "Portugal"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "645b98c847a4",
-      "title": "Who could be the next England debutant and who are the potential recalls?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-05T13:13:41+00:00",
-      "summary": "It's the last international break of the year and England have some big games in the Nations League coming up. Thomas Tuchel has big decisions to make on his next squad selection.",
-      "teams": [
-        "England"
       ],
       "is_injury_related": true
     },
@@ -144,7 +168,7 @@
       "url": "https://www.theguardian.com/football/2026/nov/05/japan-fa-head-kozo-tashima-stand-against-gianni-infantino-for-fifa-president",
       "source": "The Guardian",
       "published_at": "2026-11-05T10:48:42+00:00",
-      "summary": "Tashima says he brings ‘honest, sound, upright attitude’ He is understood to have acted with the blessing of Uefa The Japan Football Association’s honorary president, Kozo Tashima, ⁠has announced his intention to stand against Gianni Infantino in March’s Fifa presidential electio",
+      "summary": "Tashima says he brings ‘honest, sound, upright attitude’ He is understood to have acted with the blessing of Uefa The Japan Football Association’s honorary president, Kozo Tashima, has announced his intention to stand against Gianni Infantino in March’s Fifa presidential election",
       "teams": [
         "Japan"
       ],
@@ -176,18 +200,6 @@
       "is_injury_related": false
     },
     {
-      "id": "f87fdaa8894f",
-      "title": "Podcast: Celtic under pressure & injury-hit Hearts head for Europe",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pld9qb",
-      "source": "BBC Sport",
-      "published_at": "2026-11-05T08:00:00+00:00",
-      "summary": "Can Celtic stop their European slide and can injury-hit Hearts deliver in Switzerland?",
-      "teams": [
-        "Switzerland"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "4c47a568b776",
       "title": "World record 53 red cards shown in Brazilian youth game",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo",
@@ -208,18 +220,6 @@
       "summary": "Will Thomas Tuchel pick Cole Palmer for his next England squad as the competition to be England's number 10 continues.",
       "teams": [
         "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "df15abff146d",
-      "title": "Scotland U21 boss hails Donovan, Miller and Wilson attitude",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-04T23:18:03+00:00",
-      "summary": "Under-21s head coach Tony Docherty is delighted with the buy-in from the three players who have dropped down from Scotland's senior squad.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": true
     },
@@ -295,44 +295,6 @@
       "summary": "Owono says he feels ‘huge pain’ over tragedy Investigation into medical attention De Miguel received The FC Andorra goalkeeper Jesús Owono said he was enduring the “hardest days of my life” after he was involved in the collision that led to the death of the Tenerife striker Jesús",
       "teams": [
         "Spain"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "88e83951d1ca",
-      "title": "Nadal set to join Real Madrid board of directors",
-      "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-04T13:21:01+00:00",
-      "summary": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e672c86151b0",
-      "title": "‘She can do what Beckham did’: Océane Hurtré making waves at Birmingham",
-      "url": "https://www.theguardian.com/football/2026/nov/04/oceane-hurtre-birmingham-womens-super-league-france",
-      "source": "The Guardian",
-      "published_at": "2026-11-04T13:00:11+00:00",
-      "summary": "WSL’s second-highest goalscorer is likened to England legend for her crossing and has earned France call-up At the conclusion of Birmingham’s warm-up, the players quietly and carefully placed their footballs into a draw-string bag. All except one, Océane Hurtré, who nonchalantly ",
-      "teams": [
-        "France",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "c3313958f93c",
-      "title": "Wilson returns as Wales call up uncapped Duncan",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwly4ee53mgyo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-04T10:30:19+00:00",
-      "summary": "Harry Wilson is back in Wales' squad for their Nations League matches against Norway and Portugal, while goalkeeper Joe Duncan earns his first call.",
-      "teams": [
-        "Norway",
-        "Portugal"
       ],
       "is_injury_related": true
     },
@@ -462,18 +424,6 @@
         "Norway"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "02e550c35d86",
-      "title": "Which footballers have scored in the same minute as their surname? | The Knowledge",
-      "url": "https://www.theguardian.com/football/2026/oct/28/which-footballers-have-scored-in-the-same-minute-as-their-surname-knowledge",
-      "source": "The Guardian",
-      "published_at": "2026-10-28T08:00:02+00:00",
-      "summary": "Plus: the longest home droughts, pre-Christmas goal centuries and the first official club websites Mail us with all of your questions and answers “Justin Seven-Seven came on in the 75th minute and then scored in the 77th minute for West Brom Under-21s against Sutton United in the",
-      "teams": [
-        "France"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "19ce71920e91",
