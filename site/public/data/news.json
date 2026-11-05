@@ -1,21 +1,215 @@
 {
-  "generated_at": "2026-11-05T06:35:39.663164+00:00",
+  "generated_at": "2026-11-05T15:24:36.144813+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "4c47a568b776",
-      "title": "World record 51 red cards shown in Brazilian youth game",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo",
+      "id": "691bd07c33dc",
+      "title": "What new Kane deal means for England and the Premier League record",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo",
       "source": "BBC Sport",
-      "published_at": "2026-11-04T23:22:27+00:00",
-      "summary": "A world record of 43 players and eight members of staff were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.",
+      "published_at": "2026-11-05T14:44:34+00:00",
+      "summary": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "4b50e1bd9b6e",
+      "title": "Family thankful for support as De Miguel funeral held",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-05T14:36:32+00:00",
+      "summary": "Jesus de Miguel's family say \"the mark he has left on so many people\" is something they will always remember as the footballer's funeral takes place in Spain.",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1266b87d0f75",
+      "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-05T14:29:40+00:00",
+      "summary": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "9f0d0b0d2990",
+      "title": "Fenerbahce thwart Liverpool and Arsenal pushed in Prague: Football Weekly – podcast",
+      "url": "https://www.theguardian.com/football/audio/2026/nov/05/fenerbahce-thwart-liverpool-and-arsenal-pushed-in-prague-football-weekly",
+      "source": "The Guardian",
+      "published_at": "2026-11-05T13:40:36+00:00",
+      "summary": "Max Rushden is joined by Barry Glendenning , Lars Sivertsen and Jonathan Liew as Liverpool lose for the first time in the Champions League this season and Manchester City and Arsenal escape with narrow wins Rate, review, share on Apple Podcasts and join the conversation on email ",
+      "teams": [
+        "Turkey"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "641c64823f1f",
+      "title": "Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson",
+      "url": "https://www.theguardian.com/football/2026/nov/05/cristiano-ronaldo-retires-international-football-career-portugal",
+      "source": "The Guardian",
+      "published_at": "2026-11-05T13:32:02+00:00",
+      "summary": "There is no doubt his international career was an incredible one, but it would have been greater still if he had not lingered on the stage so long Nothing, perhaps, is quite so difficult for an elite sportsman as timing their exit. It’s not easy for any person in any job to weigh",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "645b98c847a4",
+      "title": "Who could be the next England debutant and who are the potential recalls?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o",
+      "source": "BBC Sport",
+      "published_at": "2026-11-05T13:13:41+00:00",
+      "summary": "It's the last international break of the year and England have some big games in the Nations League coming up. Thomas Tuchel has big decisions to make on his next squad selection.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "ee0317bcd6d7",
+      "title": "Coleman in 'hybrid role' with Republic of Ireland",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o",
+      "source": "BBC Sport",
+      "published_at": "2026-11-05T13:03:43+00:00",
+      "summary": "Republic of Ireland manager Heimir Hallgrimsson says it was \"tempting\" to include Seamus Coleman in his squad for this month's Nations League matches against Austria and Kosovo despite the defender having not played since June.",
+      "teams": [
+        "Austria"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "8c0937af70f3",
+      "title": "Japan's Tashima to stand against Infantino for Fifa presidency",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwvgdyd80g9do",
+      "source": "BBC Sport",
+      "published_at": "2026-11-05T12:55:13+00:00",
+      "summary": "Japan's Kozo Tashima has announced his candidacy for Fifa's upcoming presidential election.",
+      "teams": [
+        "Japan"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "9dcc399f9a03",
+      "title": "English female coach Kaminski reaping rewards in Norway",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o",
+      "source": "BBC Sport",
+      "published_at": "2026-11-05T12:38:34+00:00",
+      "summary": "English manager Laura Kaminski has won the Norwegian league and cup double - so will that open doors in her coaching career?",
+      "teams": [
+        "Norway",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "e3b6f3acb88b",
+      "title": "Ronaldo retires from Portugal duty",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o",
+      "source": "BBC Sport",
+      "published_at": "2026-11-05T12:28:01+00:00",
+      "summary": "Portugal legend Cristiano Ronaldo says \"the day has come for me to hand back the number seven shirt\".",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "fc7f6901b52c",
+      "title": "Referee hands out record 53 red cards after chaos at under-20s game in Brazil",
+      "url": "https://www.theguardian.com/football/2026/nov/05/record-53-red-cards-brazil-referee",
+      "source": "The Guardian",
+      "published_at": "2026-11-05T11:03:25+00:00",
+      "summary": "Sendings-off include 43 players and two board members Goal celebration is said to have sparked brawl An under-20s match in the Brazilian state of Minas Gerais descended into chaos, with the referee handing out a record 53 red cards after a brawl. The incident took place during th",
       "teams": [
         "Brazil"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "b580fa174f83",
+      "title": "Japan FA’s Kozo Tashima to stand against Infantino for Fifa presidency",
+      "url": "https://www.theguardian.com/football/2026/nov/05/japan-fa-head-kozo-tashima-stand-against-gianni-infantino-for-fifa-president",
+      "source": "The Guardian",
+      "published_at": "2026-11-05T10:48:42+00:00",
+      "summary": "Tashima says he brings ‘honest, sound, upright attitude’ He is understood to have acted with the blessing of Uefa The Japan Football Association’s honorary president, Kozo Tashima, ⁠has announced his intention to stand against Gianni Infantino in March’s Fifa presidential electio",
+      "teams": [
+        "Japan"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d9dc27cbe9f4",
+      "title": "‘In our veins’: Arsenal pushed by pain of Champions League final defeat, says Raya",
+      "url": "https://www.theguardian.com/football/2026/nov/05/arsenal-pain-champions-league-final-defeat-david-raya",
+      "source": "The Guardian",
+      "published_at": "2026-11-05T10:08:43+00:00",
+      "summary": "‘On us to make it better this year,’ goalkeeper admits He credits self-belief as key to making decisive saves David Raya has said Arsenal are using the pain of losing on penalties against Paris Saint-Germain in last year’s Champions League final to “make it better this year”. The",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "a678e02b78f4",
+      "title": "Ballon d’Or winner Harry Kane signs new contract with Bayern through to 2029",
+      "url": "https://www.theguardian.com/football/2026/nov/05/ballon-dor-winner-harry-kane-signs-new-contract-with-bayern-munich-2029",
+      "source": "The Guardian",
+      "published_at": "2026-11-05T08:43:01+00:00",
+      "summary": "‘I love the club, fans and the city of Munich,’ says striker Kane has 156 goals in 161 Bayern games since 2023 England captain and Ballon d’Or winner Harry Kane has signed a new deal with Bayern Munich through to 2029, the German club have announced. Kane moved to Bayern from Tot",
+      "teams": [
+        "Germany",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f87fdaa8894f",
+      "title": "Podcast: Celtic under pressure & injury-hit Hearts head for Europe",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pld9qb",
+      "source": "BBC Sport",
+      "published_at": "2026-11-05T08:00:00+00:00",
+      "summary": "Can Celtic stop their European slide and can injury-hit Hearts deliver in Switzerland?",
+      "teams": [
+        "Switzerland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "4c47a568b776",
+      "title": "World record 53 red cards shown in Brazilian youth game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-05T07:23:08+00:00",
+      "summary": "A world record of 43 players, eight members of staff and two board members were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "2d0135ff496d",
+      "title": "A must pick or unreliable? Tuchel's Palmer dilemma",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-05T07:17:20+00:00",
+      "summary": "Will Thomas Tuchel pick Cole Palmer for his next England squad as the competition to be England's number 10 continues.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "df15abff146d",
@@ -82,7 +276,7 @@
     },
     {
       "id": "e704c4a80132",
-      "title": "Rangers' McInnes eager for Penrice deal",
+      "title": "Upward path for Penrice has McInnes eager for Rangers deal",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwly45r47917o",
       "source": "BBC Sport",
       "published_at": "2026-11-04T16:38:41+00:00",
@@ -101,22 +295,6 @@
       "summary": "Owono says he feels ‘huge pain’ over tragedy Investigation into medical attention De Miguel received The FC Andorra goalkeeper Jesús Owono said he was enduring the “hardest days of my life” after he was involved in the collision that led to the death of the Tenerife striker Jesús",
       "teams": [
         "Spain"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "7969f5d56abe",
-      "title": "Christian Pulisic, Folarin Balogun return to USMNT roster for Nations League",
-      "url": "https://www.theguardian.com/football/2026/nov/04/usmnt-roster-nations-league-christian-pulisic",
-      "source": "The Guardian",
-      "published_at": "2026-11-04T15:10:43+00:00",
-      "summary": "Mauricio Pochettino names 25-man roster to face Haiti McKennie and Sullivan among notable inclusions Quarter-final matches set for Miami, Cincinnati Mauricio Pochettino has selected his 25-man roster for the United States’ Concacaf Nations League quarter-final matches against Hai",
-      "teams": [
-        "Mexico",
-        "Canada",
-        "Haiti",
-        "USA",
-        "Belgium"
       ],
       "is_injury_related": true
     },
@@ -159,18 +337,6 @@
       "is_injury_related": true
     },
     {
-      "id": "91c87c1c708c",
-      "title": "New strategy launched to transform Scottish women's football over 10 years",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly05y2jwzdo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-04T07:03:05+00:00",
-      "summary": "The strategy aims to double the number of registered female players in Scotland, while also quadrupling attendances and audiences for matches.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "b96ab43f4024",
       "title": "Asian Cup postponement leaves Socceroos, FA and coach Tony Popovic at crossroads | Joey Lynch",
       "url": "https://www.theguardian.com/football/blog/2026/nov/04/asian-cup-afc-postponed-socceroos-football-australia-tony-popovich",
@@ -182,30 +348,6 @@
         "Saudi Arabia"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "2edf1c76a4c3",
-      "title": "Lennart Karl steals in behind Atlético Madrid to inspire Bayern Munich win",
-      "url": "https://www.theguardian.com/football/2026/nov/03/atletico-madrid-bayern-munich-champions-league-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-11-03T22:28:08+00:00",
-      "summary": "“This stadium brings back bad memories but I hope to be able to replace them with good ones,” Harry Kane had said on Monday night, and 24 hours later this was a start. A small step, perhaps, towards coming back on 5 June and having a second go at winning the Champions League in t",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "b5542dbc9191",
-      "title": "Arteta backs Saliba’s readiness to return for Arsenal at Slavia Prague",
-      "url": "https://www.theguardian.com/football/2026/nov/03/arteta-backs-salibas-readiness-to-return-for-arsenal-at-slavia-prague",
-      "source": "The Guardian",
-      "published_at": "2026-11-03T20:31:58+00:00",
-      "summary": "Defender travelled with squad after long injury absence ‘I have clips’: Arteta hits back after Liverpool complaints Mikel Arteta is confident that William Saliba is ready to make his first appearance of the season for Arsenal after he played 45 minutes of a match behind closed do",
-      "teams": [
-        "France"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "05b97240c0d3",
@@ -244,18 +386,6 @@
       "summary": "Attending Boca v River in the week I turned 60 made me recall a lifetime of experiences at the fixture Ever since the Observer Sport Monthly published a list of 50 sporting things you must do before you die with Watch Boca Juniors Play River Plate in Buenos Aires at No 1 in 2004,",
       "teams": [
         "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "714928c402c4",
-      "title": "Led by Liam Rosenior and backed by billionaires, Paris FC are now a force in Ligue 1 | Luke Entwistle",
-      "url": "https://www.theguardian.com/football/2026/nov/02/paris-fc-ligue-1-liam-rosenior-billionaires",
-      "source": "The Guardian",
-      "published_at": "2026-11-02T15:45:35+00:00",
-      "summary": "After a huge summer and with PSG’s other rivals falling away, their city rivals are aiming to ‘be one of the biggest clubs in Europe’ By Get French Football News It is hard to know what Pierre&nbsp;Ferracci found stranger: the fact that he was fully suited among a set of bare-che",
-      "teams": [
-        "France"
       ],
       "is_injury_related": false
     },
