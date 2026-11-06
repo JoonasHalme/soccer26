@@ -1,13 +1,64 @@
 {
-  "generated_at": "2026-11-06T02:21:03.806225+00:00",
+  "generated_at": "2026-11-06T10:45:18.451433+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "baca0c8fefc5",
+      "title": "Jobe Bellingham called up by England, Sunderland face jeers and the FA Cup first round: football news – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/06/england-squad-announced-sunderland-face-jeers-and-fa-cup-first-round-football-news-live",
+      "source": "The Guardian",
+      "published_at": "2026-11-06T10:23:35+00:00",
+      "summary": "⚽ All the latest heading into a busy weekend of football ⚽ Premier League: 10 things to look out for | Mail David What do we make of that then? Josh King a better player than Cole Palmer? Looks like this goes beyond just playing ability. Tuchel’s press conference is set for 11am ",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "e1ce07e1c610",
+      "title": "'Putting his doubters in their place' - Rooney lands pundit of year award",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-06T06:22:00+00:00",
+      "summary": "Former Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "b78e97ab8043",
+      "title": "Cape Verde captain Ryan Mendes cleared of rape allegation as woman charged with false statement",
+      "url": "https://www.theguardian.com/football/2026/nov/06/cape-verde-football-ryan-mendes-sexual-assault-allegation-dismissed-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "2026-11-06T03:37:32+00:00",
+      "summary": "New Zealand police dismiss claim of sexual assault at Auckland hotel Incident alleged to have occurred after football friendly in March New Zealand police have dismissed a rape allegation against Cape Verde football captain Ryan Mendes and have charged the accuser with making a f",
+      "teams": [
+        "New Zealand",
+        "Cape Verde"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "749cdb534bd5",
+      "title": "Socceroos urge FA to move Jordan friendly in Middle East due to safety concerns",
+      "url": "https://www.theguardian.com/football/2026/nov/06/socceroos-football-australia-jordan-friendly-middle-east-safety-concerns",
+      "source": "The Guardian",
+      "published_at": "2026-11-06T03:10:55+00:00",
+      "summary": "Australia to face Qatar in Doha before football match in Amman Some players reluctant to travel to region where Asian Cup postponed Socceroos players, via their union, have urged Football Australia to reschedule or relocate their upcoming friendly against Jordan in Amman due to s",
+      "teams": [
+        "Qatar",
+        "Australia",
+        "Jordan"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "e61e27d374ae",
-      "title": "Euro Leagues",
+      "title": "What legacy does Ronaldo leave on international stage?",
       "url": "https://www.bbc.co.uk/sounds/play/p0pljnrs",
       "source": "BBC Sport",
       "published_at": "2026-11-05T22:18:00+00:00",
@@ -163,7 +214,7 @@
     },
     {
       "id": "9dcc399f9a03",
-      "title": "English female coach Kaminski reaping rewards in Norway",
+      "title": "More than 60 flights in 11 months and away games in the Arctic Circle",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o",
       "source": "BBC Sport",
       "published_at": "2026-11-05T12:38:34+00:00",
@@ -171,18 +222,6 @@
       "teams": [
         "Norway",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e3b6f3acb88b",
-      "title": "Portugal great Ronaldo retires from international duty",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-05T12:28:01+00:00",
-      "summary": "Portugal legend Cristiano Ronaldo says \"the day has come for me to hand back the number seven shirt\".",
-      "teams": [
-        "Portugal"
       ],
       "is_injury_related": false
     },
@@ -223,19 +262,6 @@
       "is_injury_related": false
     },
     {
-      "id": "a678e02b78f4",
-      "title": "Ballon d’Or winner Harry Kane signs new contract with Bayern through to 2029",
-      "url": "https://www.theguardian.com/football/2026/nov/05/ballon-dor-winner-harry-kane-signs-new-contract-with-bayern-munich-2029",
-      "source": "The Guardian",
-      "published_at": "2026-11-05T08:43:01+00:00",
-      "summary": "‘I love the club, fans and the city of Munich,’ says striker Kane has 156 goals in 161 Bayern games since 2023 England captain and Ballon d’Or winner Harry Kane has signed a new deal with Bayern Munich through to 2029, the German club have announced. Kane moved to Bayern from Tot",
-      "teams": [
-        "Germany",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "4c47a568b776",
       "title": "World record 53 red cards shown in Brazilian youth game",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo",
@@ -248,18 +274,6 @@
       "is_injury_related": false
     },
     {
-      "id": "2d0135ff496d",
-      "title": "A must pick or unreliable? Tuchel's Palmer dilemma",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-05T07:17:20+00:00",
-      "summary": "Will Thomas Tuchel pick Cole Palmer for his next England squad as the competition to be England's number 10 continues.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "e704c4a80132",
       "title": "Upward path for Penrice has McInnes eager for Rangers deal",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwly45r47917o",
@@ -270,18 +284,6 @@
         "Scotland"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "4238c4ce36bb",
-      "title": "Goalkeeper Jesús Owono experiencing ‘hardest days of my life’ after De Miguel’s death",
-      "url": "https://www.theguardian.com/football/2026/nov/04/goalkeeper-jesus-owono-jesus-de-miguel-death-tenerife-deeply-affected-andorra",
-      "source": "The Guardian",
-      "published_at": "2026-11-04T16:23:02+00:00",
-      "summary": "Owono says he feels ‘huge pain’ over tragedy Investigation into medical attention De Miguel received The FC Andorra goalkeeper Jesús Owono said he was enduring the “hardest days of my life” after he was involved in the collision that led to the death of the Tenerife striker Jesús",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "e672c86151b0",
