@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-11-05T21:57:20.261008+00:00",
+  "generated_at": "2026-11-06T02:21:03.806225+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "e61e27d374ae",
+      "title": "Euro Leagues",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pljnrs",
+      "source": "BBC Sport",
+      "published_at": "2026-11-05T22:18:00+00:00",
+      "summary": "Reaction to Cristiano Ronaldo’s retirement from Portugal.",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "77cc7aabf5ba",
+      "title": "‘In moments of pain, football comes together’: Spain says goodbye to Jesús de Miguel",
+      "url": "https://www.theguardian.com/football/2026/nov/05/jesus-de-miguel-death-tenerife-funeral-football-spain",
+      "source": "The Guardian",
+      "published_at": "2026-11-05T22:03:49+00:00",
+      "summary": "Only 3,587 people live in his family’s village but the streets of Navahermosa were fuller yet quieter to mourn the Tenerife striker at his funeral The narrow streets of Navahermosa in La Mancha were fuller than they have ever been on Thursday afternoon and quieter too. Silence ac",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "645b98c847a4",
       "title": "England check on Palmer - what are Tuchel's other big choices?",
@@ -102,6 +126,18 @@
       "is_injury_related": true
     },
     {
+      "id": "7138c18ba909",
+      "title": "Six tournaments, 11 goals - Ronaldo's World Cup legacy",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwr5y0yj716do",
+      "source": "BBC Sport",
+      "published_at": "2026-11-05T13:15:21+00:00",
+      "summary": "Portugal legend Cristiano Ronaldo retires from international football having scored 146 goals and 234 caps for his country. Here's a look back at his 11 World Cup goals, across six tournaments since 2006.",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "ee0317bcd6d7",
       "title": "Coleman in 'hybrid role' with Republic of Ireland",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o",
@@ -140,7 +176,7 @@
     },
     {
       "id": "e3b6f3acb88b",
-      "title": "Ronaldo retires from Portugal duty",
+      "title": "Portugal great Ronaldo retires from international duty",
       "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o",
       "source": "BBC Sport",
       "published_at": "2026-11-05T12:28:01+00:00",
@@ -224,57 +260,6 @@
       "is_injury_related": true
     },
     {
-      "id": "7b7aaab36c1e",
-      "title": "Dortmund take narrow win over Real Betis",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c699zjkd7yrvo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-04T22:31:57+00:00",
-      "summary": "Borussia Dortmund gain a home victory over Real Betis to end the Spanish side's winning run in the Champions League.",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "7f2668255345",
-      "title": "Emphatic Porto thrash Napoli in second-half romp",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cr1ex9vx3y50o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-04T22:17:34+00:00",
-      "summary": "Porto score three goals in the final 20 minutes of the game to pull away and seal a comfortable victory against Napoli, who are unable to match their Portuguese opponents in the second half.",
-      "teams": [
-        "Portugal"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "dfaf6eb61abe",
-      "title": "Spence stars as Inter Milan cruise to win at Feyenoord",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ck4g1ev58yw7o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-04T22:03:51+00:00",
-      "summary": "England full-back Djed Spence staring as Inter Milan bounc back from their derby defeat with a comfortable Champions League victory over Feyenoord.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e1161a197a1d",
-      "title": "Billions in revenue proves Fifa right on the World Cup – but only on things it cares about",
-      "url": "https://www.theguardian.com/football/2026/nov/04/fifa-world-cup-billions-revenue",
-      "source": "The Guardian",
-      "published_at": "2026-11-04T19:02:48+00:00",
-      "summary": "The 2026 edition of the tournament brought in untold amounts of money to Gianni Infantino’s governing body The total hasn’t entirely stopped rising yet, still clicking away towards a final tally. Still, Fifa has already announced that it surpassed its own lofty revenue projection",
-      "teams": [
-        "Mexico",
-        "Canada",
-        "Qatar",
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "e704c4a80132",
       "title": "Upward path for Penrice has McInnes eager for Rangers deal",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwly45r47917o",
@@ -299,17 +284,29 @@
       "is_injury_related": true
     },
     {
-      "id": "b96ab43f4024",
-      "title": "Asian Cup postponement leaves Socceroos, FA and coach Tony Popovic at crossroads | Joey Lynch",
-      "url": "https://www.theguardian.com/football/blog/2026/nov/04/asian-cup-afc-postponed-socceroos-football-australia-tony-popovich",
+      "id": "e672c86151b0",
+      "title": "‘She can do what Beckham did’: Océane Hurtré making waves at Birmingham",
+      "url": "https://www.theguardian.com/football/2026/nov/04/oceane-hurtre-birmingham-womens-super-league-france",
       "source": "The Guardian",
-      "published_at": "2026-11-03T23:54:13+00:00",
-      "summary": "The most immediate question thrown up by the delay of the tournament in Saudi Arabia is what it now means for Popovic Confirmation that the Asian Cup has been postponed until December 2027 would have caught few by surprise. But the timing of Tuesday’s announcement might have, giv",
+      "published_at": "2026-11-04T13:00:11+00:00",
+      "summary": "WSL’s second-highest goalscorer is likened to England legend for her crossing and has earned France call-up At the conclusion of Birmingham’s warm-up, the players quietly and carefully placed their footballs into a draw-string bag. All except one, Océane Hurtré, who nonchalantly ",
       "teams": [
-        "Australia",
-        "Saudi Arabia"
+        "France",
+        "England"
       ],
-      "is_injury_related": false
+      "is_injury_related": true
+    },
+    {
+      "id": "9cfe73d24eab",
+      "title": "Fans pay respects to Tenerife's De Miguel",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c862yezg92qqo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-04T11:05:16+00:00",
+      "summary": "Fans gathered to pay their respects to Tenerife striker Jesus de Miguel who died after suffered a serious injury during a Spanish second-division match.",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "05b97240c0d3",
@@ -336,18 +333,6 @@
       "teams": [
         "South Africa",
         "Morocco"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "2efafaa0a56a",
-      "title": "Revisiting the Superclásico: a story of death, violence, colour and family",
-      "url": "https://www.theguardian.com/football/2026/nov/02/revisiting-superclasico-boca-juniors-river-plate",
-      "source": "The Guardian",
-      "published_at": "2026-11-02T20:00:27+00:00",
-      "summary": "Attending Boca v River in the week I turned 60 made me recall a lifetime of experiences at the fixture Ever since the Observer Sport Monthly published a list of 50 sporting things you must do before you die with Watch Boca Juniors Play River Plate in Buenos Aires at No 1 in 2004,",
-      "teams": [
-        "Argentina"
       ],
       "is_injury_related": false
     },
