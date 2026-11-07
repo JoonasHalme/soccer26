@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-11-06T23:03:13.572292+00:00",
+  "generated_at": "2026-11-07T02:44:41.695989+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "1e7af97ae7a9",
+      "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go",
+      "source": "BBC Sport",
+      "published_at": "2026-11-06T23:53:06+00:00",
+      "summary": "Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "d601c669c83a",
       "title": "Raith Rovers go top with Dunfermline draw",
@@ -14,6 +26,19 @@
       "summary": "Watch highlights as Raith Rovers take over at the top of the Scottish Championship from Partick Thistle on goal difference, with visitors Dunfermline Athletic third on the same points as the Fife derby ends goalless.",
       "teams": [
         "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "7c08f49ec055",
+      "title": "Thierno Barry double fires Everton to comeback win against Coventry",
+      "url": "https://www.theguardian.com/football/2026/nov/06/everton-coventry-premier-league-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-11-06T22:03:48+00:00",
+      "summary": "The wildly optimistic Evertonian – if such a being exists – could not have envisaged David Moyes’ side fifth in the Premier League with Thierno Barry just behind Erling Haaland in the goalscoring chart when their transfer window closed in calamitous fashion. Yet there they sit, t",
+      "teams": [
+        "France",
+        "England"
       ],
       "is_injury_related": false
     },
