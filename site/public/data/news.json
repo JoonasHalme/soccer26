@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-11-07T20:50:38.522823+00:00",
+  "generated_at": "2026-11-08T00:30:17.862242+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "de9490f468e2",
+      "title": "Scottish roundup: Naderi fires Rangers past St Mirren to keep pressure on Celtic",
+      "url": "https://www.theguardian.com/football/2026/nov/07/scottish-premiership-roundup-rangers-st-mirren-aberdeen-hibernian-dundee-united-motherwell-st-johnstone",
+      "source": "The Guardian",
+      "published_at": "2026-11-07T22:08:26+00:00",
+      "summary": "Rangers win 2-0 to go one point off top spot Aberdeen slump to 4-0 defeat against Hibernian Rangers banished their recent away day blues with a solid 2-0 win at St Mirren . Draws against Dundee and Hearts in their last two Scottish Premiership games away from Ibrox had blemished ",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "e96ddc669f55",
       "title": "There are very few reasons for Unai Emery to leave Aston Villa for Manchester United | Jonathan Wilson",
@@ -26,18 +38,6 @@
       "summary": "The Argentina Football Association says it is planning to go to the Court of Arbitration for Sport over Fifa rejecting its appeals against World Cup punishments.",
       "teams": [
         "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "d80d5afc5e50",
-      "title": "Seventh-tier Guiseley stun Sutton with stoppage-time penalty",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm4g1nx3xgdjo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-07T18:32:30+00:00",
-      "summary": "Jordan Thewlis scores a stoppage-time penalty to give seventh-tier Guiseley a dramatic 1-0 win over Sutton United in their FA Cup first round tie at Nethermoor Park.",
-      "teams": [
-        "Jordan"
       ],
       "is_injury_related": false
     },
@@ -141,6 +141,19 @@
       "is_injury_related": false
     },
     {
+      "id": "b78e97ab8043",
+      "title": "Cape Verde captain Ryan Mendes cleared of rape allegation as woman charged with false statement",
+      "url": "https://www.theguardian.com/football/2026/nov/06/cape-verde-football-ryan-mendes-sexual-assault-allegation-dismissed-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "2026-11-06T03:37:32+00:00",
+      "summary": "New Zealand police dismiss claim of sexual assault at Auckland hotel Incident alleged to have occurred after football friendly in March New Zealand police have dismissed a rape allegation against Cape Verde football captain Ryan Mendes and have charged the accuser with making a f",
+      "teams": [
+        "New Zealand",
+        "Cape Verde"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "77cc7aabf5ba",
       "title": "‘In moments of pain, football comes together’: Spain says goodbye to Jesús de Miguel",
       "url": "https://www.theguardian.com/football/2026/nov/05/jesus-de-miguel-death-tenerife-funeral-football-spain",
@@ -202,6 +215,19 @@
       "is_injury_related": false
     },
     {
+      "id": "e672c86151b0",
+      "title": "‘She can do what Beckham did’: Océane Hurtré making waves at Birmingham",
+      "url": "https://www.theguardian.com/football/2026/nov/04/oceane-hurtre-birmingham-womens-super-league-france",
+      "source": "The Guardian",
+      "published_at": "2026-11-04T13:00:11+00:00",
+      "summary": "WSL’s second-highest goalscorer is likened to England legend for her crossing and has earned France call-up At the conclusion of Birmingham’s warm-up, the players quietly and carefully placed their footballs into a draw-string bag. All except one, Océane Hurtré, who nonchalantly ",
+      "teams": [
+        "France",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "279f3251e441",
       "title": "‘An absolute afterthought’: the story of the Nigeria women’s team’s fall from grace",
       "url": "https://www.theguardian.com/football/2026/nov/03/womens-world-cup-2027-missing-out-nigeria-moving-the-goalposts",
@@ -223,6 +249,18 @@
       "summary": "Sign up now! Sign up now! Sign up now? Sign up now! When Jamie Carragher appeared as a pundit on Sky Sports Super Sunday, Football Daily was surprised he didn’t have a solicitor sitting alongside him, occasionally jotting notes on a pad or leaning over to give whispered instructi",
       "teams": [
         "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "595604d411b0",
+      "title": "From VHS dreams to San Siro glory: Amorim’s Milan surge puts rivals on notice | Nicky Bandini",
+      "url": "https://www.theguardian.com/football/2026/nov/02/milan-inter-ruben-amorim-serie-a",
+      "source": "The Guardian",
+      "published_at": "2026-11-02T13:47:03+00:00",
+      "summary": "Inspired by the legendary Milan sides of his youth, the manager gave his side a lift with a tactical victory over Inter Ruben Amorim had waited a lifetime for his first Milan derby. As a kid growing up in Lisbon, he supported two football teams. There was the local one, Benfica, ",
+      "teams": [
+        "Portugal"
       ],
       "is_injury_related": true
     },
@@ -250,18 +288,6 @@
         "USA"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "a64e24825df6",
-      "title": "Unai Simón caps myth-making week with another extraordinary night | Sid Lowe",
-      "url": "https://www.theguardian.com/football/2026/nov/02/unai-simon-athletic-club-la-liga-myth-making-week-la-liga",
-      "source": "The Guardian",
-      "published_at": "2026-11-02T10:43:13+00:00",
-      "summary": "Athletic’s win over Real Sociedad was culmination of six unique days for the Spain keeper after night at the Palladium For the third time in six days everyone got to their feet to hand a standing ovation to Unai Simón, dressed in all black, before the world. Named the best men’s ",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "a5168b5a3562",
