@@ -1,10 +1,97 @@
 {
-  "generated_at": "2026-11-10T17:44:13.073632+00:00",
+  "generated_at": "2026-11-10T23:13:17.470423+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "2b28ca6636a4",
+      "title": "Arsenal eye Real's Endrick - Wednesday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq8jzjz9x23jo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-10T23:08:35+00:00",
+      "summary": "Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed for the Anfield exit door, Newcastle and Sunderland among the clubs interested in Croatian striker Dion Beljo, plus more.",
+      "teams": [
+        "Croatia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "598aabc0430d",
+      "title": "Fujino’s double sparks WCL comeback win for Manchester City against Inter",
+      "url": "https://www.theguardian.com/football/2026/nov/10/inter-manchester-city-womens-champions-league-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-11-10T22:05:43+00:00",
+      "summary": "Manchester City’s European campaign finally came roaring into life as they put four goals past Inter to record their first Women’s Champions League victory of the season and greatly improve their prospects of reaching the knockout stages. The English side had to come from behind ",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "b54a06fbbe4e",
+      "title": "Pocognoli to lean on Scotland's 'captain group of five'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmde8e8wjyzgo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-10T20:49:11+00:00",
+      "summary": "Sebastien Pocognoli is delighted to welcome \"exciting\" Scott McTominay into his squad, saying the Napoli midfielder is one of the \"fantastic leaders\" that helped persuade him to become Scotland head coach.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "5a787f72544a",
+      "title": "McTominay reveals heart treatment two days before Scotland’s World Cup opener",
+      "url": "https://www.theguardian.com/football/2026/nov/10/mctominay-reveals-heart-treatment-two-days-before-scotlands-world-cup-opener",
+      "source": "The Guardian",
+      "published_at": "2026-11-10T19:54:51+00:00",
+      "summary": "Midfielder was in hospital before Haiti match ‘I had to get the shock on my heart,’ says McTominay Scott McTominay has revealed he was in hospital under sedation to have a “shock on my heart” just 48 hours before Scotland began their World Cup campaign against Haiti in June. At t",
+      "teams": [
+        "Haiti",
+        "Scotland"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "9e4fff0a4c0d",
+      "title": "Partick Thistle lose SWPL points for amateur player payments",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cme3x33vz0p0o",
+      "source": "BBC Sport",
+      "published_at": "2026-11-10T19:23:42+00:00",
+      "summary": "Partick Thistle are deducted three points and fined £6,000 by the Scottish Women's Premier League for making payments to players who were registered as amateurs last season.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "19dd1082ed84",
+      "title": "Rio Ngumoha ready to make England splash as he spells out Ballon d’Or ambition",
+      "url": "https://www.theguardian.com/football/2026/nov/10/rio-ngumoha-ready-to-make-england-splash-as-he-spells-out-ballon-dor-ambition",
+      "source": "The Guardian",
+      "published_at": "2026-11-10T19:00:17+00:00",
+      "summary": "Fearless winger has forced his way into Thomas Tuchel’s plans and believes he can become best player in the world Rio Ngumoha is fearless, exciting and ready to make his mark as an England player. The Liverpool winger narrowly missed the cut for the World Cup squad last summer bu",
+      "teams": [
+        "Spain",
+        "England",
+        "Croatia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "aba2377660c2",
+      "title": "Mauricio Pochettino interested in leaving USMNT job for Manchester United",
+      "url": "https://www.theguardian.com/football/2026/nov/10/mauricio-pochettino-interested-manchester-united-usmnt-release-clause",
+      "source": "The Guardian",
+      "published_at": "2026-11-10T17:40:40+00:00",
+      "summary": "Coach’s contract has release clause of about $10m United expected to sack Michael Carrick after awful start US men’s national team head coach Mauricio Pochettino is interested in a move to Manchester United, multiple sources told the Guardian, with those same sources characterizi",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "bd8e17e36980",
       "title": "McTominay reveals heart treatment at World Cup",
@@ -15,18 +102,6 @@
       "teams": [
         "Haiti",
         "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "aba2377660c2",
-      "title": "Mauricio Pochettino interested in leaving USMNT job for Manchester United",
-      "url": "https://www.theguardian.com/football/2026/nov/10/mauricio-pochettino-interested-manchester-united-usmnt-release-clause",
-      "source": "The Guardian",
-      "published_at": "2026-11-10T16:10:38+00:00",
-      "summary": "Coach’s contract has release clause of about $10m United expected to sack Michael Carrick after awful start US men’s national team head coach Mauricio Pochettino is interested in a move to Manchester United, multiple sources told the Guardian, with those same sources characterizi",
-      "teams": [
-        "USA"
       ],
       "is_injury_related": false
     },
@@ -49,7 +124,7 @@
       "url": "https://www.theguardian.com/football/2026/nov/10/pierre-sage-crystal-palace-premier-league-lens",
       "source": "The Guardian",
       "published_at": "2026-11-10T15:08:24+00:00",
-      "summary": "Sage’s exit from Premier League club still not confirmed Manager’s potential return to France could benefit Palace Crystal Palace could avoid having to pay Pierre Sage significant compensation if he is reappointed by his former club Lens, with the Frenchman’s departure from Selhu",
+      "summary": "Sage’s exit from Premier League club still not confirmed Manager’s potential return to France could benefit Palace Crystal Palace could avoid paying Pierre Sage significant compensation if he is reappointed by his former club, Lens, with the manager’s departure from Selhurst Park",
       "teams": [
         "France"
       ],
@@ -68,18 +143,6 @@
       "is_injury_related": false
     },
     {
-      "id": "b5b3da5c696f",
-      "title": "Sisters in Sweat: how a former Spurs player got 20,000 Indian women into sport",
-      "url": "https://www.theguardian.com/football/2026/nov/10/sisters-in-sweat-indian-women-sport-moving-the-goalposts",
-      "source": "The Guardian",
-      "published_at": "2026-11-10T12:00:51+00:00",
-      "summary": "A dinner-party question, a Sunday kickabout and an idea that snowballed. Nine years on, Tanvie Hans and Swetha Subbiah have taken sporting sisterhood to 10 cities On a breezy evening in 2017, as conversations flowed and so did the drinks at a dinner party, Tanvie Hans was asked a",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "7e5d6d598977",
       "title": "From W-M to the No 10, shirt numbers tell a story of football’s tactical evolution",
       "url": "https://www.theguardian.com/football/2026/nov/10/shirt-numbers-tell-story-football-tactical-evolution",
@@ -90,6 +153,18 @@
         "Argentina"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "b5b3da5c696f",
+      "title": "Sisters in Sweat: how a former Spurs player got 20,000 Indian women into sport",
+      "url": "https://www.theguardian.com/football/2026/nov/10/sisters-in-sweat-indian-women-sport-moving-the-goalposts",
+      "source": "The Guardian",
+      "published_at": "2026-11-10T12:00:51+00:00",
+      "summary": "A dinner-party question, a Sunday kickabout and an idea that snowballed. Nine years on, Tanvie Hans and Swetha Subbiah have taken sporting sisterhood to 10 cities On a breezy evening in 2017, as conversations flowed and so did the drinks at a dinner party, Tanvie Hans was asked a",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "7c1a77f17052",
@@ -180,44 +255,6 @@
       "is_injury_related": true
     },
     {
-      "id": "59e6309a8285",
-      "title": "'Aberdeen hunt yet another manager after ill-fated Robinson reign'",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr0qkq8pnx4ko",
-      "source": "BBC Sport",
-      "published_at": "2026-11-09T21:39:37+00:00",
-      "summary": "Stephen Robinson's tenure as head coach panned out as many Aberdeen fans feared it would, writes BBC Scotland's Liam McLeod.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "20867ea72af0",
-      "title": "Football Daily",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pm5xwv",
-      "source": "BBC Sport",
-      "published_at": "2026-11-09T21:33:00+00:00",
-      "summary": "White opens up about his England departure, will Sage get sacked & will Frank come in?",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "2438fb757d92",
-      "title": "Ben White says he has no complaints at boos from England fans over self-imposed exile",
-      "url": "https://www.theguardian.com/football/2026/nov/09/ben-white-england-international-exile-arsenal-thomas-tuchel-squad-nations-league-spain-croatia",
-      "source": "The Guardian",
-      "published_at": "2026-11-09T20:00:17+00:00",
-      "summary": "Arsenal defender was jeered during draw with Uruguay ‘Everyone can do whatever they want,’ says White Ben White has said he has no complaints at being booed by England fans when he ended his international exile during the 1-1 draw with ­Uruguay this year. The Arsenal defender, wh",
-      "teams": [
-        "Qatar",
-        "Uruguay",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "560efa33b1d1",
       "title": "People don't know full story behind England exile - White",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6rmym3p419no",
@@ -243,30 +280,6 @@
       "is_injury_related": false
     },
     {
-      "id": "d6c15584aef2",
-      "title": "Wilson eyeing survival step as Wales tackle Norway",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck3r5rwdpjj7o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-09T17:21:28+00:00",
-      "summary": "Harry Wilson believes Wales can shock Norway again in Oslo on Saturday and move a step closer to survival in Nations League A.",
-      "teams": [
-        "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "5a4cbd418894",
-      "title": "Aberdeen sack Robinson after league slump",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwj34k2z5p00o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-09T16:46:11+00:00",
-      "summary": "Aberdeen sack head coach Stephen Robinson after dropping to second bottom of the Scottish Premiership.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "d26433535b65",
       "title": "Manchester City’s weaknesses under Enzo Maresca are being exposed",
       "url": "https://www.theguardian.com/football/2026/nov/09/manchester-city-enzo-maresca-premier-league",
@@ -279,18 +292,6 @@
       "is_injury_related": false
     },
     {
-      "id": "aca4267a9a40",
-      "title": "Real Madrid legend Raul named Real Oviedo manager",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwnv0v1yj585o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-09T16:16:30+00:00",
-      "summary": "Former Real Madrid striker Raul takes on his first role in senior club management after being appointed as boss of Spanish second division side Real Oviedo.",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "63fd0ead650e",
       "title": "Bronze named in World 11 for record ninth time",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmkgeg2z4dlwo",
@@ -299,20 +300,6 @@
       "summary": "Lucy Bronze is one of five England players named in the Fifpro Women's World 11.",
       "teams": [
         "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "4caeb136fa53",
-      "title": "Burn replaces injured Guehi in England squad",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-09T12:06:19+00:00",
-      "summary": "Newcastle's Dan Burn is added to the England squad to play Croatia and Spain in the Nations League this week after Marc Guehi pulls out with a hip injury.",
-      "teams": [
-        "Spain",
-        "England",
-        "Croatia"
       ],
       "is_injury_related": true
     },
@@ -337,18 +324,6 @@
       "summary": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2.",
       "teams": [
         "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "97ae9dbb4172",
-      "title": "Dutch match postponed after fans block team bus",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqy0r0lw4l5ro",
-      "source": "BBC Sport",
-      "published_at": "2026-11-09T08:00:07+00:00",
-      "summary": "A Dutch second-tier match between Vitesse Arnhem and De Graafschap was called off after away team supporters blocked their own team's bus from departing for the game.",
-      "teams": [
-        "Netherlands"
       ],
       "is_injury_related": false
     },
