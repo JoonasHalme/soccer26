@@ -1,30 +1,50 @@
 {
   "_note": "Recent international form + pre-match model calls for each WC2026 team (model/build_form.py). Display-only; 'weight' is the model's match-importance weight, model calls are walk-forward (no hindsight).",
-  "updated": "2026-10-06",
+  "updated": "2026-11-12",
   "since": "2026-05-01",
   "record": {
-    "correct": 124,
-    "total": 198
+    "correct": 125,
+    "total": 199
   },
   "recent": [
     {
+      "date": "2026-11-12",
+      "home": "New Zealand",
+      "away": "India",
+      "hs": 5,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "tournament": false,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.935,
+        "pd": 0.061,
+        "pa": 0.004,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.935
+      }
+    },
+    {
       "date": "2026-10-06",
-      "home": "Scotland",
-      "away": "Slovenia",
-      "hs": 1,
-      "as": 2,
+      "home": "Switzerland",
+      "away": "North Macedonia",
+      "hs": 3,
+      "as": 0,
       "comp": "UEFA Nations League",
       "friendly": false,
       "tournament": false,
       "weight": 1.0,
       "neutral": false,
       "model": {
-        "ph": 0.552,
-        "pd": 0.267,
-        "pa": 0.18,
+        "ph": 0.943,
+        "pd": 0.055,
+        "pa": 0.002,
         "pick": "H",
-        "correct": false,
-        "p_actual": 0.18
+        "correct": true,
+        "p_actual": 0.943
       }
     },
     {
@@ -149,26 +169,6 @@
     },
     {
       "date": "2026-10-06",
-      "home": "Mexico",
-      "away": "Chile",
-      "hs": 0,
-      "as": 2,
-      "comp": "Friendly",
-      "friendly": true,
-      "tournament": false,
-      "weight": 0.5,
-      "neutral": true,
-      "model": {
-        "ph": 0.603,
-        "pd": 0.243,
-        "pa": 0.154,
-        "pick": "H",
-        "correct": false,
-        "p_actual": 0.154
-      }
-    },
-    {
-      "date": "2026-10-06",
       "home": "USA",
       "away": "Canada",
       "hs": 1,
@@ -229,6 +229,46 @@
     },
     {
       "date": "2026-10-06",
+      "home": "Scotland",
+      "away": "Slovenia",
+      "hs": 1,
+      "as": 2,
+      "comp": "UEFA Nations League",
+      "friendly": false,
+      "tournament": false,
+      "weight": 1.0,
+      "neutral": false,
+      "model": {
+        "ph": 0.552,
+        "pd": 0.267,
+        "pa": 0.18,
+        "pick": "H",
+        "correct": false,
+        "p_actual": 0.18
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "home": "Mexico",
+      "away": "Chile",
+      "hs": 0,
+      "as": 2,
+      "comp": "Friendly",
+      "friendly": true,
+      "tournament": false,
+      "weight": 0.5,
+      "neutral": true,
+      "model": {
+        "ph": 0.603,
+        "pd": 0.243,
+        "pa": 0.154,
+        "pick": "H",
+        "correct": false,
+        "p_actual": 0.154
+      }
+    },
+    {
+      "date": "2026-10-06",
       "home": "Saudi Arabia",
       "away": "United Arab Emirates",
       "hs": 2,
@@ -245,26 +285,6 @@
         "pick": "H",
         "correct": true,
         "p_actual": 0.506
-      }
-    },
-    {
-      "date": "2026-10-06",
-      "home": "Switzerland",
-      "away": "North Macedonia",
-      "hs": 3,
-      "as": 0,
-      "comp": "UEFA Nations League",
-      "friendly": false,
-      "tournament": false,
-      "weight": 1.0,
-      "neutral": false,
-      "model": {
-        "ph": 0.943,
-        "pd": 0.055,
-        "pa": 0.002,
-        "pick": "H",
-        "correct": true,
-        "p_actual": 0.943
       }
     },
     {
@@ -285,26 +305,6 @@
         "pick": "A",
         "correct": true,
         "p_actual": 0.595
-      }
-    },
-    {
-      "date": "2026-10-05",
-      "home": "Ecuador",
-      "away": "Panama",
-      "hs": 1,
-      "as": 1,
-      "comp": "Kirin Cup",
-      "friendly": false,
-      "tournament": false,
-      "weight": 0.85,
-      "neutral": true,
-      "model": {
-        "ph": 0.632,
-        "pd": 0.231,
-        "pa": 0.136,
-        "pick": "H",
-        "correct": false,
-        "p_actual": 0.231
       }
     },
     {
@@ -405,6 +405,46 @@
         "pick": "H",
         "correct": true,
         "p_actual": 0.491
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "home": "Ecuador",
+      "away": "Panama",
+      "hs": 1,
+      "as": 1,
+      "comp": "Kirin Cup",
+      "friendly": false,
+      "tournament": false,
+      "weight": 0.85,
+      "neutral": true,
+      "model": {
+        "ph": 0.632,
+        "pd": 0.231,
+        "pa": 0.136,
+        "pick": "H",
+        "correct": false,
+        "p_actual": 0.231
+      }
+    },
+    {
+      "date": "2026-10-04",
+      "home": "Kosovo",
+      "away": "Austria",
+      "hs": 1,
+      "as": 1,
+      "comp": "UEFA Nations League",
+      "friendly": false,
+      "tournament": false,
+      "weight": 1.0,
+      "neutral": false,
+      "model": {
+        "ph": 0.33,
+        "pd": 0.292,
+        "pa": 0.378,
+        "pick": "A",
+        "correct": false,
+        "p_actual": 0.292
       }
     },
     {
@@ -529,22 +569,22 @@
     },
     {
       "date": "2026-10-04",
-      "home": "Kosovo",
-      "away": "Austria",
+      "home": "Trinidad and Tobago",
+      "away": "Cura\u00e7ao",
       "hs": 1,
       "as": 1,
-      "comp": "UEFA Nations League",
+      "comp": "CONCACAF Nations League",
       "friendly": false,
       "tournament": false,
       "weight": 1.0,
       "neutral": false,
       "model": {
-        "ph": 0.33,
-        "pd": 0.292,
-        "pa": 0.378,
+        "ph": 0.198,
+        "pd": 0.254,
+        "pa": 0.548,
         "pick": "A",
         "correct": false,
-        "p_actual": 0.292
+        "p_actual": 0.254
       }
     },
     {
@@ -565,26 +605,6 @@
         "pick": "A",
         "correct": false,
         "p_actual": 0.318
-      }
-    },
-    {
-      "date": "2026-10-04",
-      "home": "Trinidad and Tobago",
-      "away": "Cura\u00e7ao",
-      "hs": 1,
-      "as": 1,
-      "comp": "CONCACAF Nations League",
-      "friendly": false,
-      "tournament": false,
-      "weight": 1.0,
-      "neutral": false,
-      "model": {
-        "ph": 0.198,
-        "pd": 0.254,
-        "pa": 0.548,
-        "pick": "A",
-        "correct": false,
-        "p_actual": 0.254
       }
     },
     {
@@ -609,66 +629,6 @@
     },
     {
       "date": "2026-10-03",
-      "home": "Argentina",
-      "away": "Burkina Faso",
-      "hs": 7,
-      "as": 0,
-      "comp": "Friendly",
-      "friendly": true,
-      "tournament": false,
-      "weight": 0.5,
-      "neutral": false,
-      "model": {
-        "ph": 0.968,
-        "pd": 0.031,
-        "pa": 0.001,
-        "pick": "H",
-        "correct": true,
-        "p_actual": 0.968
-      }
-    },
-    {
-      "date": "2026-10-03",
-      "home": "Canada",
-      "away": "Peru",
-      "hs": 2,
-      "as": 0,
-      "comp": "Friendly",
-      "friendly": true,
-      "tournament": false,
-      "weight": 0.5,
-      "neutral": false,
-      "model": {
-        "ph": 0.573,
-        "pd": 0.26,
-        "pa": 0.167,
-        "pick": "H",
-        "correct": true,
-        "p_actual": 0.573
-      }
-    },
-    {
-      "date": "2026-10-03",
-      "home": "India",
-      "away": "Brazil",
-      "hs": 0,
-      "as": 4,
-      "comp": "Friendly",
-      "friendly": true,
-      "tournament": false,
-      "weight": 0.5,
-      "neutral": false,
-      "model": {
-        "ph": 0.001,
-        "pd": 0.023,
-        "pa": 0.977,
-        "pick": "A",
-        "correct": true,
-        "p_actual": 0.977
-      }
-    },
-    {
-      "date": "2026-10-03",
       "home": "Ivory Coast",
       "away": "Cameroon",
       "hs": 0,
@@ -689,22 +649,22 @@
     },
     {
       "date": "2026-10-03",
-      "home": "USA",
-      "away": "Mexico",
+      "home": "Spain",
+      "away": "Czech Republic",
       "hs": 3,
-      "as": 0,
-      "comp": "Friendly",
-      "friendly": true,
+      "as": 1,
+      "comp": "UEFA Nations League",
+      "friendly": false,
       "tournament": false,
-      "weight": 0.5,
+      "weight": 1.0,
       "neutral": false,
       "model": {
-        "ph": 0.275,
-        "pd": 0.282,
-        "pa": 0.442,
-        "pick": "A",
-        "correct": false,
-        "p_actual": 0.275
+        "ph": 0.975,
+        "pd": 0.025,
+        "pa": 0.001,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.975
       }
     },
     {
@@ -729,22 +689,82 @@
     },
     {
       "date": "2026-10-03",
-      "home": "Spain",
-      "away": "Czech Republic",
+      "home": "USA",
+      "away": "Mexico",
       "hs": 3,
-      "as": 1,
-      "comp": "UEFA Nations League",
-      "friendly": false,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
       "tournament": false,
-      "weight": 1.0,
+      "weight": 0.5,
       "neutral": false,
       "model": {
-        "ph": 0.975,
-        "pd": 0.025,
+        "ph": 0.275,
+        "pd": 0.282,
+        "pa": 0.442,
+        "pick": "A",
+        "correct": false,
+        "p_actual": 0.275
+      }
+    },
+    {
+      "date": "2026-10-03",
+      "home": "Argentina",
+      "away": "Burkina Faso",
+      "hs": 7,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "tournament": false,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.968,
+        "pd": 0.031,
         "pa": 0.001,
         "pick": "H",
         "correct": true,
-        "p_actual": 0.975
+        "p_actual": 0.968
+      }
+    },
+    {
+      "date": "2026-10-03",
+      "home": "India",
+      "away": "Brazil",
+      "hs": 0,
+      "as": 4,
+      "comp": "Friendly",
+      "friendly": true,
+      "tournament": false,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.001,
+        "pd": 0.023,
+        "pa": 0.977,
+        "pick": "A",
+        "correct": true,
+        "p_actual": 0.977
+      }
+    },
+    {
+      "date": "2026-10-03",
+      "home": "Canada",
+      "away": "Peru",
+      "hs": 2,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "tournament": false,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.573,
+        "pd": 0.26,
+        "pa": 0.167,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.573
       }
     },
     {
@@ -789,22 +809,22 @@
     },
     {
       "date": "2026-10-02",
-      "home": "France",
-      "away": "Italy",
-      "hs": 1,
-      "as": 1,
+      "home": "Belgium",
+      "away": "Turkey",
+      "hs": 3,
+      "as": 0,
       "comp": "UEFA Nations League",
       "friendly": false,
       "tournament": false,
       "weight": 1.0,
       "neutral": false,
       "model": {
-        "ph": 0.724,
-        "pd": 0.196,
-        "pa": 0.08,
+        "ph": 0.786,
+        "pd": 0.162,
+        "pa": 0.052,
         "pick": "H",
-        "correct": false,
-        "p_actual": 0.196
+        "correct": true,
+        "p_actual": 0.786
       }
     },
     {
@@ -825,6 +845,26 @@
         "pick": "H",
         "correct": false,
         "p_actual": 0.295
+      }
+    },
+    {
+      "date": "2026-10-02",
+      "home": "France",
+      "away": "Italy",
+      "hs": 1,
+      "as": 1,
+      "comp": "UEFA Nations League",
+      "friendly": false,
+      "tournament": false,
+      "weight": 1.0,
+      "neutral": false,
+      "model": {
+        "ph": 0.724,
+        "pd": 0.196,
+        "pa": 0.08,
+        "pick": "H",
+        "correct": false,
+        "p_actual": 0.196
       }
     },
     {
@@ -888,26 +928,6 @@
       }
     },
     {
-      "date": "2026-10-02",
-      "home": "Belgium",
-      "away": "Turkey",
-      "hs": 3,
-      "as": 0,
-      "comp": "UEFA Nations League",
-      "friendly": false,
-      "tournament": false,
-      "weight": 1.0,
-      "neutral": false,
-      "model": {
-        "ph": 0.786,
-        "pd": 0.162,
-        "pa": 0.052,
-        "pick": "H",
-        "correct": true,
-        "p_actual": 0.786
-      }
-    },
-    {
       "date": "2026-10-01",
       "home": "Uzbekistan",
       "away": "Syria",
@@ -925,26 +945,6 @@
         "pick": "H",
         "correct": true,
         "p_actual": 0.59
-      }
-    },
-    {
-      "date": "2026-10-01",
-      "home": "Panama",
-      "away": "New Zealand",
-      "hs": 1,
-      "as": 1,
-      "comp": "Kirin Cup",
-      "friendly": false,
-      "tournament": false,
-      "weight": 0.85,
-      "neutral": true,
-      "model": {
-        "ph": 0.392,
-        "pd": 0.297,
-        "pa": 0.311,
-        "pick": "H",
-        "correct": false,
-        "p_actual": 0.297
       }
     },
     {
@@ -1089,6 +1089,26 @@
     },
     {
       "date": "2026-10-01",
+      "home": "Panama",
+      "away": "New Zealand",
+      "hs": 1,
+      "as": 1,
+      "comp": "Kirin Cup",
+      "friendly": false,
+      "tournament": false,
+      "weight": 0.85,
+      "neutral": true,
+      "model": {
+        "ph": 0.392,
+        "pd": 0.297,
+        "pa": 0.311,
+        "pick": "H",
+        "correct": false,
+        "p_actual": 0.297
+      }
+    },
+    {
+      "date": "2026-10-01",
       "home": "Cura\u00e7ao",
       "away": "Trinidad and Tobago",
       "hs": 1,
@@ -1129,26 +1149,6 @@
     },
     {
       "date": "2026-09-30",
-      "home": "Argentina",
-      "away": "Bolivia",
-      "hs": 4,
-      "as": 0,
-      "comp": "Friendly",
-      "friendly": true,
-      "tournament": false,
-      "weight": 0.5,
-      "neutral": false,
-      "model": {
-        "ph": 0.957,
-        "pd": 0.041,
-        "pa": 0.001,
-        "pick": "H",
-        "correct": true,
-        "p_actual": 0.957
-      }
-    },
-    {
-      "date": "2026-09-30",
       "home": "Eritrea",
       "away": "South Africa",
       "hs": 0,
@@ -1165,6 +1165,26 @@
         "pick": "A",
         "correct": true,
         "p_actual": 0.838
+      }
+    },
+    {
+      "date": "2026-09-30",
+      "home": "Argentina",
+      "away": "Bolivia",
+      "hs": 4,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "tournament": false,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.957,
+        "pd": 0.041,
+        "pa": 0.001,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.957
       }
     },
     {
@@ -1189,22 +1209,22 @@
     },
     {
       "date": "2026-09-29",
-      "home": "Lesotho",
-      "away": "Morocco",
-      "hs": 0,
-      "as": 2,
+      "home": "Ghana",
+      "away": "Gambia",
+      "hs": 2,
+      "as": 4,
       "comp": "African Cup of Nations qualification",
       "friendly": false,
       "tournament": false,
       "weight": 1.0,
-      "neutral": true,
+      "neutral": false,
       "model": {
-        "ph": 0.001,
-        "pd": 0.039,
-        "pa": 0.959,
-        "pick": "A",
-        "correct": true,
-        "p_actual": 0.959
+        "ph": 0.665,
+        "pd": 0.222,
+        "pa": 0.113,
+        "pick": "H",
+        "correct": false,
+        "p_actual": 0.113
       }
     },
     {
@@ -1225,6 +1245,26 @@
         "pick": "A",
         "correct": true,
         "p_actual": 0.897
+      }
+    },
+    {
+      "date": "2026-09-29",
+      "home": "Lesotho",
+      "away": "Morocco",
+      "hs": 0,
+      "as": 2,
+      "comp": "African Cup of Nations qualification",
+      "friendly": false,
+      "tournament": false,
+      "weight": 1.0,
+      "neutral": true,
+      "model": {
+        "ph": 0.001,
+        "pd": 0.039,
+        "pa": 0.959,
+        "pick": "A",
+        "correct": true,
+        "p_actual": 0.959
       }
     },
     {
@@ -1389,26 +1429,6 @@
     },
     {
       "date": "2026-09-29",
-      "home": "Ghana",
-      "away": "Gambia",
-      "hs": 2,
-      "as": 4,
-      "comp": "African Cup of Nations qualification",
-      "friendly": false,
-      "tournament": false,
-      "weight": 1.0,
-      "neutral": false,
-      "model": {
-        "ph": 0.665,
-        "pd": 0.222,
-        "pa": 0.113,
-        "pick": "H",
-        "correct": false,
-        "p_actual": 0.113
-      }
-    },
-    {
-      "date": "2026-09-29",
       "home": "Saudi Arabia",
       "away": "Iraq",
       "hs": 2,
@@ -1425,6 +1445,26 @@
         "pick": "H",
         "correct": true,
         "p_actual": 0.591
+      }
+    },
+    {
+      "date": "2026-09-29",
+      "home": "Cape Verde",
+      "away": "Rwanda",
+      "hs": 1,
+      "as": 2,
+      "comp": "African Cup of Nations qualification",
+      "friendly": false,
+      "tournament": false,
+      "weight": 1.0,
+      "neutral": false,
+      "model": {
+        "ph": 0.661,
+        "pd": 0.224,
+        "pa": 0.115,
+        "pick": "H",
+        "correct": false,
+        "p_actual": 0.115
       }
     },
     {
@@ -1465,26 +1505,6 @@
         "pick": "A",
         "correct": false,
         "p_actual": 0.163
-      }
-    },
-    {
-      "date": "2026-09-29",
-      "home": "Cape Verde",
-      "away": "Rwanda",
-      "hs": 1,
-      "as": 2,
-      "comp": "African Cup of Nations qualification",
-      "friendly": false,
-      "tournament": false,
-      "weight": 1.0,
-      "neutral": false,
-      "model": {
-        "ph": 0.661,
-        "pd": 0.224,
-        "pa": 0.115,
-        "pick": "H",
-        "correct": false,
-        "p_actual": 0.115
       }
     },
     {
@@ -1789,26 +1809,6 @@
     },
     {
       "date": "2026-09-27",
-      "home": "Haiti",
-      "away": "Costa Rica",
-      "hs": 2,
-      "as": 0,
-      "comp": "CONCACAF Nations League",
-      "friendly": false,
-      "tournament": false,
-      "weight": 1.0,
-      "neutral": true,
-      "model": {
-        "ph": 0.391,
-        "pd": 0.297,
-        "pa": 0.312,
-        "pick": "H",
-        "correct": true,
-        "p_actual": 0.391
-      }
-    },
-    {
-      "date": "2026-09-27",
       "home": "Yemen",
       "away": "Qatar",
       "hs": 0,
@@ -1848,83 +1848,23 @@
       }
     },
     {
-      "date": "2026-09-26",
-      "home": "Canada",
-      "away": "Chile",
-      "hs": 1,
-      "as": 0,
-      "comp": "Friendly",
-      "friendly": true,
-      "tournament": false,
-      "weight": 0.5,
-      "neutral": false,
-      "model": {
-        "ph": 0.485,
-        "pd": 0.288,
-        "pa": 0.228,
-        "pick": "H",
-        "correct": true,
-        "p_actual": 0.485
-      }
-    },
-    {
-      "date": "2026-09-26",
-      "home": "Colombia",
-      "away": "Mexico",
-      "hs": 1,
-      "as": 1,
-      "comp": "Friendly",
-      "friendly": true,
-      "tournament": false,
-      "weight": 0.5,
-      "neutral": true,
-      "model": {
-        "ph": 0.436,
-        "pd": 0.292,
-        "pa": 0.271,
-        "pick": "H",
-        "correct": false,
-        "p_actual": 0.292
-      }
-    },
-    {
-      "date": "2026-09-26",
-      "home": "USA",
-      "away": "Peru",
-      "hs": 4,
-      "as": 1,
-      "comp": "Friendly",
-      "friendly": true,
-      "tournament": false,
-      "weight": 0.5,
-      "neutral": false,
-      "model": {
-        "ph": 0.562,
-        "pd": 0.264,
-        "pa": 0.174,
-        "pick": "H",
-        "correct": true,
-        "p_actual": 0.562
-      }
-    },
-    {
-      "date": "2026-09-26",
-      "home": "England",
-      "away": "Spain",
+      "date": "2026-09-27",
+      "home": "Haiti",
+      "away": "Costa Rica",
       "hs": 2,
-      "as": 3,
-      "comp": "UEFA Nations League",
+      "as": 0,
+      "comp": "CONCACAF Nations League",
       "friendly": false,
       "tournament": false,
       "weight": 1.0,
-      "neutral": false,
+      "neutral": true,
       "model": {
-        "ph": 0.281,
-        "pd": 0.288,
-        "pa": 0.431,
-        "pick": "A",
+        "ph": 0.391,
+        "pd": 0.297,
+        "pa": 0.312,
+        "pick": "H",
         "correct": true,
-        "p_actual": 0.431
+        "p_actual": 0.391
       }
     },
     {
@@ -1949,26 +1889,6 @@
     },
     {
       "date": "2026-09-26",
-      "home": "Slovenia",
-      "away": "Scotland",
-      "hs": 0,
-      "as": 0,
-      "comp": "UEFA Nations League",
-      "friendly": false,
-      "tournament": false,
-      "weight": 1.0,
-      "neutral": false,
-      "model": {
-        "ph": 0.349,
-        "pd": 0.293,
-        "pa": 0.358,
-        "pick": "A",
-        "correct": false,
-        "p_actual": 0.293
-      }
-    },
-    {
-      "date": "2026-09-26",
       "home": "North Macedonia",
       "away": "Switzerland",
       "hs": 0,
@@ -1985,6 +1905,106 @@
         "pick": "A",
         "correct": true,
         "p_actual": 0.715
+      }
+    },
+    {
+      "date": "2026-09-26",
+      "home": "England",
+      "away": "Spain",
+      "hs": 2,
+      "as": 3,
+      "comp": "UEFA Nations League",
+      "friendly": false,
+      "tournament": false,
+      "weight": 1.0,
+      "neutral": false,
+      "model": {
+        "ph": 0.281,
+        "pd": 0.288,
+        "pa": 0.431,
+        "pick": "A",
+        "correct": true,
+        "p_actual": 0.431
+      }
+    },
+    {
+      "date": "2026-09-26",
+      "home": "USA",
+      "away": "Peru",
+      "hs": 4,
+      "as": 1,
+      "comp": "Friendly",
+      "friendly": true,
+      "tournament": false,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.562,
+        "pd": 0.264,
+        "pa": 0.174,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.562
+      }
+    },
+    {
+      "date": "2026-09-26",
+      "home": "Colombia",
+      "away": "Mexico",
+      "hs": 1,
+      "as": 1,
+      "comp": "Friendly",
+      "friendly": true,
+      "tournament": false,
+      "weight": 0.5,
+      "neutral": true,
+      "model": {
+        "ph": 0.436,
+        "pd": 0.292,
+        "pa": 0.271,
+        "pick": "H",
+        "correct": false,
+        "p_actual": 0.292
+      }
+    },
+    {
+      "date": "2026-09-26",
+      "home": "Canada",
+      "away": "Chile",
+      "hs": 1,
+      "as": 0,
+      "comp": "Friendly",
+      "friendly": true,
+      "tournament": false,
+      "weight": 0.5,
+      "neutral": false,
+      "model": {
+        "ph": 0.485,
+        "pd": 0.288,
+        "pa": 0.228,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.485
+      }
+    },
+    {
+      "date": "2026-09-26",
+      "home": "Slovenia",
+      "away": "Scotland",
+      "hs": 0,
+      "as": 0,
+      "comp": "UEFA Nations League",
+      "friendly": false,
+      "tournament": false,
+      "weight": 1.0,
+      "neutral": false,
+      "model": {
+        "ph": 0.349,
+        "pd": 0.293,
+        "pa": 0.358,
+        "pick": "A",
+        "correct": false,
+        "p_actual": 0.293
       }
     },
     {
@@ -2529,26 +2549,6 @@
     },
     {
       "date": "2026-09-23",
-      "home": "Saudi Arabia",
-      "away": "Kuwait",
-      "hs": 1,
-      "as": 0,
-      "comp": "Gulf Cup",
-      "friendly": false,
-      "tournament": false,
-      "weight": 0.85,
-      "neutral": false,
-      "model": {
-        "ph": 0.73,
-        "pd": 0.191,
-        "pa": 0.079,
-        "pick": "H",
-        "correct": true,
-        "p_actual": 0.73
-      }
-    },
-    {
-      "date": "2026-09-23",
       "home": "Iraq",
       "away": "Oman",
       "hs": 1,
@@ -2565,6 +2565,26 @@
         "pick": "H",
         "correct": false,
         "p_actual": 0.283
+      }
+    },
+    {
+      "date": "2026-09-23",
+      "home": "Saudi Arabia",
+      "away": "Kuwait",
+      "hs": 1,
+      "as": 0,
+      "comp": "Gulf Cup",
+      "friendly": false,
+      "tournament": false,
+      "weight": 0.85,
+      "neutral": false,
+      "model": {
+        "ph": 0.73,
+        "pd": 0.191,
+        "pa": 0.079,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.73
       }
     },
     {
@@ -4051,26 +4071,6 @@
     },
     {
       "date": "2026-07-11",
-      "home": "Norway",
-      "away": "England",
-      "hs": 1,
-      "as": 2,
-      "comp": "FIFA World Cup",
-      "friendly": false,
-      "tournament": true,
-      "weight": 1.75,
-      "neutral": true,
-      "model": {
-        "ph": 0.251,
-        "pd": 0.288,
-        "pa": 0.461,
-        "pick": "A",
-        "correct": true,
-        "p_actual": 0.461
-      }
-    },
-    {
-      "date": "2026-07-11",
       "home": "Argentina",
       "away": "Switzerland",
       "hs": 3,
@@ -4087,6 +4087,26 @@
         "pick": "H",
         "correct": true,
         "p_actual": 0.533
+      }
+    },
+    {
+      "date": "2026-07-11",
+      "home": "Norway",
+      "away": "England",
+      "hs": 1,
+      "as": 2,
+      "comp": "FIFA World Cup",
+      "friendly": false,
+      "tournament": true,
+      "weight": 1.75,
+      "neutral": true,
+      "model": {
+        "ph": 0.251,
+        "pd": 0.288,
+        "pa": 0.461,
+        "pick": "A",
+        "correct": true,
+        "p_actual": 0.461
       }
     },
     {
@@ -4211,26 +4231,6 @@
     },
     {
       "date": "2026-07-05",
-      "home": "Mexico",
-      "away": "England",
-      "hs": 2,
-      "as": 3,
-      "comp": "FIFA World Cup",
-      "friendly": false,
-      "tournament": true,
-      "weight": 1.75,
-      "neutral": false,
-      "model": {
-        "ph": 0.388,
-        "pd": 0.299,
-        "pa": 0.314,
-        "pick": "H",
-        "correct": false,
-        "p_actual": 0.314
-      }
-    },
-    {
-      "date": "2026-07-05",
       "home": "Brazil",
       "away": "Norway",
       "hs": 1,
@@ -4250,23 +4250,23 @@
       }
     },
     {
-      "date": "2026-07-04",
-      "home": "Canada",
-      "away": "Morocco",
-      "hs": 0,
+      "date": "2026-07-05",
+      "home": "Mexico",
+      "away": "England",
+      "hs": 2,
       "as": 3,
       "comp": "FIFA World Cup",
       "friendly": false,
       "tournament": true,
       "weight": 1.75,
-      "neutral": true,
+      "neutral": false,
       "model": {
-        "ph": 0.148,
-        "pd": 0.24,
-        "pa": 0.612,
-        "pick": "A",
-        "correct": true,
-        "p_actual": 0.612
+        "ph": 0.388,
+        "pd": 0.299,
+        "pa": 0.314,
+        "pick": "H",
+        "correct": false,
+        "p_actual": 0.314
       }
     },
     {
@@ -4287,6 +4287,26 @@
         "pick": "A",
         "correct": true,
         "p_actual": 0.765
+      }
+    },
+    {
+      "date": "2026-07-04",
+      "home": "Canada",
+      "away": "Morocco",
+      "hs": 0,
+      "as": 3,
+      "comp": "FIFA World Cup",
+      "friendly": false,
+      "tournament": true,
+      "weight": 1.75,
+      "neutral": true,
+      "model": {
+        "ph": 0.148,
+        "pd": 0.24,
+        "pa": 0.612,
+        "pick": "A",
+        "correct": true,
+        "p_actual": 0.612
       }
     },
     {
@@ -4411,26 +4431,6 @@
     },
     {
       "date": "2026-07-01",
-      "home": "Belgium",
-      "away": "Senegal",
-      "hs": 3,
-      "as": 2,
-      "comp": "FIFA World Cup",
-      "friendly": false,
-      "tournament": true,
-      "weight": 1.75,
-      "neutral": true,
-      "model": {
-        "ph": 0.424,
-        "pd": 0.294,
-        "pa": 0.282,
-        "pick": "H",
-        "correct": true,
-        "p_actual": 0.424
-      }
-    },
-    {
-      "date": "2026-07-01",
       "home": "England",
       "away": "DR Congo",
       "hs": 2,
@@ -4447,6 +4447,26 @@
         "pick": "H",
         "correct": true,
         "p_actual": 0.667
+      }
+    },
+    {
+      "date": "2026-07-01",
+      "home": "Belgium",
+      "away": "Senegal",
+      "hs": 3,
+      "as": 2,
+      "comp": "FIFA World Cup",
+      "friendly": false,
+      "tournament": true,
+      "weight": 1.75,
+      "neutral": true,
+      "model": {
+        "ph": 0.424,
+        "pd": 0.294,
+        "pa": 0.282,
+        "pick": "H",
+        "correct": true,
+        "p_actual": 0.424
       }
     },
     {
@@ -12119,8 +12139,28 @@
       }
     },
     "New Zealand": {
-      "form": "LDWDL",
+      "form": "DWDLW",
       "matches": [
+        {
+          "date": "2026-11-12",
+          "opp": "India",
+          "gf": 5,
+          "ga": 0,
+          "res": "W",
+          "comp": "Friendly",
+          "friendly": true,
+          "weight": 0.5,
+          "home": true,
+          "neutral": false,
+          "model": {
+            "pw": 0.935,
+            "pd": 0.061,
+            "pl": 0.004,
+            "pick": "W",
+            "correct": true,
+            "p_actual": 0.935
+          }
+        },
         {
           "date": "2026-10-05",
           "opp": "Japan",
@@ -12219,26 +12259,6 @@
             "pick": "L",
             "correct": true,
             "p_actual": 0.693
-          }
-        },
-        {
-          "date": "2026-06-21",
-          "opp": "Egypt",
-          "gf": 1,
-          "ga": 3,
-          "res": "L",
-          "comp": "FIFA World Cup",
-          "friendly": false,
-          "weight": 1.75,
-          "home": true,
-          "neutral": true,
-          "model": {
-            "pw": 0.179,
-            "pd": 0.256,
-            "pl": 0.566,
-            "pick": "L",
-            "correct": true,
-            "p_actual": 0.566
           }
         }
       ],

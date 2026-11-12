@@ -1,10 +1,145 @@
 {
-  "generated_at": "2026-11-12T02:55:06.065164+00:00",
+  "generated_at": "2026-11-12T10:57:01.415796+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "70e83b0a5e24",
+      "title": "'Unfinished business' - Tuchel committed to England",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqg7l9x9jnzko",
+      "source": "BBC Sport",
+      "published_at": "2026-11-12T08:42:47+00:00",
+      "summary": "England head coach Thomas Tuchel says he has \"no intention\" of leaving the job before Euro 2028 regardless of any offers from major clubs.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "9a0dc3471432",
+      "title": "Harry Kane’s England caps record: an illustrious career in numbers and charts",
+      "url": "https://www.theguardian.com/football/2026/nov/12/harry-kane-england-caps-record-career-in-numbers-charts",
+      "source": "The Guardian",
+      "published_at": "2026-11-12T08:00:14+00:00",
+      "summary": "Striker to play historic 126th match and that’s far from the only statistic that sets him apart for his country Harry Kane will become the most capped player for England’s men when he features against Croatia at Wembley. Yet in the context of the grand history of international fo",
+      "teams": [
+        "England",
+        "Croatia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "81f5fd7d04a2",
+      "title": "Less drama, more listening, but is Kozo Tashima the candidate to topple Infantino?",
+      "url": "https://www.theguardian.com/football/2026/nov/12/fifa-kozo-tashima-seeks-change-of-tone",
+      "source": "The Guardian",
+      "published_at": "2026-11-12T08:00:13+00:00",
+      "summary": "Japan FA honorary president is hoping a calmer approach that makes fewer unwelcome headlines for Fifa will be welcomed by football Not many remember Japan’s bid for the 2022 World Cup, when the country finished the race with only two of the final 22 votes. Kozo Tashima was involv",
+      "teams": [
+        "Japan"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "15402e9d61d5",
+      "title": "Podcast: What kind of boss do Aberdeen need & have Hibs turned a corner?",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pmk9cf",
+      "source": "BBC Sport",
+      "published_at": "2026-11-12T08:00:00+00:00",
+      "summary": "Scotland face North Macedonia, Aberdeen seek a manager and Hibs find form.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "50f8eb690655",
+      "title": "Aberdeen speak to seven managerial candidates - gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvglr2g04d8ko",
+      "source": "BBC Sport",
+      "published_at": "2026-11-12T07:44:49+00:00",
+      "summary": "Aberdeen speak to managerial candidates and in-form Rangers forward attracts attention from English Championship.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ad6c519ff6cd",
+      "title": "USA withdraw from U17 World Cup",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6y49yz77pppo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-12T07:44:21+00:00",
+      "summary": "The USA pull out of the Under-17 World Cup, which starts in Qatar next week, because of the risk of armed conflict.",
+      "teams": [
+        "Qatar",
+        "USA"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "d91996dd79f9",
+      "title": "Robertson set to make history but his hero Dalglish will always be King",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxe89dq16dp2o",
+      "source": "BBC Sport",
+      "published_at": "2026-11-12T07:19:57+00:00",
+      "summary": "Ties bind Scotland captain Andy Robertson and the man whose caps record he's about to equal, Kenny Dalglish, in more ways than one, writes Tom English.",
+      "teams": [
+        "Scotland",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "429e4831cb74",
+      "title": "England's Blues brothers - how the Bellinghams helped save Birmingham",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm1j3j20r2rzo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-12T07:12:41+00:00",
+      "summary": "Boyhood Birmingham City fans Jude and Jobe Bellingham could become the first brothers to play for England for 19 years.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "68d9f7857d95",
+      "title": "How 'Barca way' continues despite big-name exits",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5vg23nmgp2yo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-12T06:41:09+00:00",
+      "summary": "Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "c23003992779",
+      "title": "Kane's top 10 England moments - which was your favourite?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c64g12w5zpjpo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-12T06:25:26+00:00",
+      "summary": "BBC Sport looks at 10 of Harry Kane's most iconic England moments as he prepares to break his country's caps record.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "c5016a72a315",
+      "title": "Wales' James warns of Norwegian revenge in Oslo",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c623jl1kenvyo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-12T04:32:42+00:00",
+      "summary": "Winger Dan James says Wales proved a point when they beat Norway – but is wary Erling Haaland's team will now want to do the same to them.",
+      "teams": [
+        "Norway"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "c803e0352020",
       "title": "US withdraw from U-17 World Cup in Qatar due to safety concerns",
@@ -17,19 +152,6 @@
         "USA"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "f3e7346359b7",
-      "title": "‘I’ve had to prove people wrong’: Kane still striving before record England cap",
-      "url": "https://www.theguardian.com/football/2026/nov/11/harry-kane-england-most-capped-mens-player-peter-shilton-croatia-nations-league",
-      "source": "The Guardian",
-      "published_at": "2026-11-11T19:00:02+00:00",
-      "summary": "Captain to surpass Shilton with 126th cap against Croatia Kane aims to increase record for younger players to catch Harry Kane says he still feels a pressure to prove his worth, even as he prepares to become England’s most capped men’s player, as he outlined his determination to ",
-      "teams": [
-        "England",
-        "Croatia"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "97e9da5922e6",
@@ -74,7 +196,7 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c60qkdj4lp34o",
       "source": "BBC Sport",
       "published_at": "2026-11-11T16:44:58+00:00",
-      "summary": "From 21-year-old who scored 79 seconds into his debut to being on the brink of breaking his nation's appearance record, BBC Sport looks at Harry Kane's England career.",
+      "summary": "From the 21-year-old who scored 79 seconds into his debut to being on the brink of breaking his nation's appearance record, BBC Sport looks at Harry Kane's England career.",
       "teams": [
         "England"
       ],
@@ -238,56 +360,6 @@
       "is_injury_related": true
     },
     {
-      "id": "b54a06fbbe4e",
-      "title": "Pocognoli to lean on Scotland's 'captain group of five'",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmde8e8wjyzgo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-10T20:49:11+00:00",
-      "summary": "Sebastien Pocognoli is delighted to welcome \"exciting\" Scott McTominay into his squad, saying the Napoli midfielder is one of the \"fantastic leaders\" that helped persuade him to become Scotland head coach.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "5a787f72544a",
-      "title": "McTominay reveals he had heart ‘shocked’ two days before World Cup opener",
-      "url": "https://www.theguardian.com/football/2026/nov/10/mctominay-reveals-heart-treatment-two-days-before-scotlands-world-cup-opener",
-      "source": "The Guardian",
-      "published_at": "2026-11-10T19:54:51+00:00",
-      "summary": "Midfielder was in hospital before Scotland v Haiti ‘I had to get the shock on my heart,’ says McTominay Scott McTominay has revealed he was in hospital under sedation to have a “shock on my heart” just 48 hours before Scotland began their World Cup campaign against Haiti in June.",
-      "teams": [
-        "Haiti",
-        "Scotland"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "9e4fff0a4c0d",
-      "title": "Partick Thistle lose SWPL points for amateur player payments",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cme3x33vz0p0o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-10T19:23:42+00:00",
-      "summary": "Partick Thistle are deducted three points and fined £6,000 by the Scottish Women's Premier League for making payments to players who were registered as amateurs last season.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "bd8e17e36980",
-      "title": "McTominay reveals heart treatment at World Cup",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-10T16:46:31+00:00",
-      "summary": "Scott McTominay reveals he received treatment on his heart two days before Scotland's World Cup win over Haiti in June.",
-      "teams": [
-        "Haiti",
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "8e046fe4f054",
       "title": "Football Daily | ‘Where the hell is Roy Keane!’ Fifty shades of great football debate",
       "url": "https://www.theguardian.com/football/2026/nov/10/ultimate-shirt-numbers-football-daily-newsletter",
@@ -386,18 +458,6 @@
       "is_injury_related": false
     },
     {
-      "id": "63fd0ead650e",
-      "title": "Bronze named in World 11 for record ninth time",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgeg2z4dlwo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-09T14:55:32+00:00",
-      "summary": "Lucy Bronze is one of five England players named in the Fifpro Women's World 11.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "71abbea276c8",
       "title": "Premier League: 10 talking points from the weekend’s action",
       "url": "https://www.theguardian.com/football/2026/nov/09/premier-league-10-talking-points-weekend-action",
@@ -433,18 +493,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "f1f1484fdbb4",
-      "title": "'A beautiful story' as Bellingham brothers called up",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-06T14:16:34+00:00",
-      "summary": "It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "e1161a197a1d",
