@@ -1,10 +1,23 @@
 {
-  "generated_at": "2026-11-11T21:53:09.409312+00:00",
+  "generated_at": "2026-11-12T02:55:06.065164+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "c803e0352020",
+      "title": "US withdraw from U-17 World Cup in Qatar due to safety concerns",
+      "url": "https://www.theguardian.com/football/2026/nov/11/usa-u-17-world-cup-qatar-withdrawal-middle-east-conflict",
+      "source": "The Guardian",
+      "published_at": "2026-11-11T21:54:46+00:00",
+      "summary": "USSF cites state department advisory about Qatar Competition set to kick off in eight days The US men’s national team have pulled out of the Fifa U-17 World Cup, which is due to kick off in Qatar in just over a week. In a letter sent to players explaining the decision, the US Soc",
+      "teams": [
+        "Qatar",
+        "USA"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "f3e7346359b7",
       "title": "‘I’ve had to prove people wrong’: Kane still striving before record England cap",
