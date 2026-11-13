@@ -1,16 +1,115 @@
 {
-  "generated_at": "2026-11-13T16:14:08.114849+00:00",
+  "generated_at": "2026-11-13T22:33:06.013024+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "f62a9e544082",
+      "title": "John McGinn double saves Scotland’s blushes against North Macedonia",
+      "url": "https://www.theguardian.com/football/2026/nov/13/scotland-north-macedonia-nations-league-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-11-13T22:16:31+00:00",
+      "summary": "A special occasion for Andy Robertson saw Scotland flirt with embarrassment. Collection of his 102nd cap moves Robertson level with Kenny Dalglish in the all-time Scottish list. By Monday night, Robertson will be a record holder. This was, however, John McGinn’s night. A double f",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "7f5f2da6ad38",
+      "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po",
+      "source": "BBC Sport",
+      "published_at": "2026-11-13T22:11:27+00:00",
+      "summary": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi.",
+      "teams": [
+        "Egypt"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8cbf788507f7",
+      "title": "Jesús Owono given 12-match ban for tackle that resulted in Jesús de Miguel’s death",
+      "url": "https://www.theguardian.com/football/2026/nov/13/jesus-owono-given-12-match-ban-for-tackle-that-resulted-in-jesus-de-miguels-death",
+      "source": "The Guardian",
+      "published_at": "2026-11-13T22:04:08+00:00",
+      "summary": "FC Andorra goalkeeper collided with De Miguel Owono: ‘I feel immense pain over the loss of Jesús’ The FC Andorra goalkeeper Jesús Owono was suspended for 12 matches by the Spanish football federation’s disciplinary committee on Friday after his challenge on Jesús de Miguel result",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "585900218f44",
+      "title": "'It's a shootout' - Wales out to derail stuttering Norway",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck9871qr76gmo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-13T19:59:40+00:00",
+      "summary": "Norway's golden generation host Wales in a crunch Nations League clash on Saturday, aiming to end a rare losing streak for Erling Haaland and company.",
+      "teams": [
+        "Norway"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "7f2d3b418dcc",
+      "title": "Ronaldinho, 46, to play first game since 2015",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqz0k4e00v0mo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-13T19:12:37+00:00",
+      "summary": "Brazil great Ronaldinho is set to make his first competitive start in more than a decade when Ravenna face local rivals Forli in Italy's third division on Sunday.",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "5e64c319329e",
+      "title": "Tuchel to remind England players of anti-racism protocols before game in Spain",
+      "url": "https://www.theguardian.com/football/2026/nov/13/thotmas-tuchel-england-anti-racism-protocols-spain-nations-league",
+      "source": "The Guardian",
+      "published_at": "2026-11-13T19:00:23+00:00",
+      "summary": "England visit Madrid for first time since fan abuse in 2004 ‘We had the same discussion before the Serbia game’ Thomas Tuchel will remind his ­England players of the anti-racism protocols as they prepare to play Spain in Madrid for the first time since the notorious meeting betwe",
+      "teams": [
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "c036758acc0b",
+      "title": "‘No one is unbeatable’: Tuchel eager for England to impose style on Spain",
+      "url": "https://www.theguardian.com/football/2026/nov/13/no-one-is-unbeatable-tuchel-eager-for-england-to-impose-style-on-spain",
+      "source": "The Guardian",
+      "published_at": "2026-11-13T19:00:23+00:00",
+      "summary": "Manager calls Sunday’s Nations League decider a ‘final’ as preparations for Euro 2028 ratchet up a level Proof of concept. It is Thomas Tuchel’s latest buzz phrase. The England manager has dropped it into the conversation pretty regularly since the Friday of last week when he nam",
+      "teams": [
+        "Spain",
+        "Argentina",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "4faab20fcd77",
+      "title": "EFL warns clubs over social media posts",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmqj5r8edvneo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-13T18:20:17+00:00",
+      "summary": "The English Football League (EFL) warns its members about their usage of posts on social media.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "dedf642de316",
       "title": "All done deals from September-November 2026",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo",
       "source": "BBC Sport",
-      "published_at": "2026-11-13T16:10:30+00:00",
+      "published_at": "2026-11-13T17:21:23+00:00",
       "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "teams": [
         "Scotland"
@@ -18,16 +117,29 @@
       "is_injury_related": false
     },
     {
-      "id": "5d4d34f7dc9b",
-      "title": "Tearful Pochettino says leaving USA for Manchester United ‘most difficult decision’ of career: football – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
+      "id": "9f48714e281e",
+      "title": "Tearful Pochettino says United job was ‘difficult to turn down’ in USMNT farewell",
+      "url": "https://www.theguardian.com/football/2026/nov/13/mauricio-pochettino-usmnt-manchester-united",
       "source": "The Guardian",
-      "published_at": "2026-11-13T16:10:13+00:00",
-      "summary": "Pochettino speaks in emotional press conference Today’s fixtures | Follow us on TikTok | Mail Simon Barney Ronay was at Wembley on Thursday night to celebrate Happy Harry Kane day. “And as the teams lined up there was a surprise appearance from the real star of this stage, the Ba",
+      "published_at": "2026-11-13T16:53:14+00:00",
+      "summary": "Coach was ‘transparent’ in dealings with club, federation Pochettino had signed deal to stay with US through 2030 There were always going to be tears at Mauricio Pochettino’s news conference at US Soccer’s national training center on Friday. It was only a matter of when. Pochetti",
       "teams": [
         "USA"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "c509bc860c5a",
+      "title": "Branding it like Beckham: how Jude Bellingham is future-proofing his fame",
+      "url": "https://www.theguardian.com/football/2026/nov/13/jude-bellingham-branding-it-like-beckham",
+      "source": "The Guardian",
+      "published_at": "2026-11-13T16:03:19+00:00",
+      "summary": "From Calvin Klein to British Vogue, the Real Madrid man is leading the way when it comes to football’s foray into fashion. But is he playing it safe? This Sunday, Jude Bellingham will line up with his England teammates for a match against Spain. But the footballer has been hittin",
+      "teams": [
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "66e81a998246",
@@ -116,18 +228,6 @@
       "is_injury_related": false
     },
     {
-      "id": "be28ba45e6ed",
-      "title": "Podcast: Domination from start to finish required as Scots face North Macedonia",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pmryl6",
-      "source": "BBC Sport",
-      "published_at": "2026-11-13T08:00:00+00:00",
-      "summary": "Scotland v North Macedonia preview",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "91883382fffe",
       "title": "Hayen on shortlist for Aberdeen job - gossip",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmglrknl3j5no",
@@ -164,18 +264,6 @@
       "is_injury_related": false
     },
     {
-      "id": "dfb5899beaff",
-      "title": "It’s Happy Harry Kane day as England’s finest seizes his moment in style | Barney Ronay",
-      "url": "https://www.theguardian.com/football/2026/nov/13/happy-harry-kane-day-englands-finest-seizes-his-moment-croatia-nations-league",
-      "source": "The Guardian",
-      "published_at": "2026-11-13T00:01:56+00:00",
-      "summary": "The Ballon d’Or validated the forward’s career and he extended his incredible record for England with yet another goal on his 126th appearance Happy Harry Kane day! And many happy Harry returns. There is a process in clinical psychology known as semantic satiation. Subjects are a",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "fefba6ec6c38",
       "title": "Football Daily",
       "url": "https://www.bbc.co.uk/sounds/play/p0pmqwrn",
@@ -186,20 +274,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "25cd6fe5b1ee",
-      "title": "Morgan Rogers says ‘it’s a lie’ that Cole Palmer does not want to play for England",
-      "url": "https://www.theguardian.com/football/2026/nov/12/morgan-rogers-says-its-a-lie-that-cole-palmer-does-not-want-to-play-for-england",
-      "source": "The Guardian",
-      "published_at": "2026-11-12T23:17:46+00:00",
-      "summary": "Forward springs to defence of Chelsea teammate ‘He wanted to come and represent his country’ Morgan Rogers has said accusations that his Chelsea teammate Cole Palmer is not committed to playing for England are “a lie”. Palmer, who was left out of the squad for this week’s Nations",
-      "teams": [
-        "Spain",
-        "England",
-        "Croatia"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "4f4e6c37f2e4",
@@ -240,19 +314,6 @@
       "is_injury_related": false
     },
     {
-      "id": "cad60ecb4b77",
-      "title": "Kane scores winner but who else made an impression? England player ratings",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c64gnd7vd912o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-12T21:47:36+00:00",
-      "summary": "How did England's players fare in the Nations League match against Croatia? Senior football correspondent Sami Mokbel gives his verdict.",
-      "teams": [
-        "England",
-        "Croatia"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "30422336e57e",
       "title": "Ghana kick-start Afcon 2027 bid despite Ayew penalty miss",
       "url": "https://www.bbc.co.uk/sport/football/articles/c61md0mldvdgo",
@@ -276,18 +337,6 @@
       "summary": "Discussions take place between Scottish football governing's body and a delegation of state senators to build on bonds forged during the World Cup.",
       "teams": [
         "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "52dabe142668",
-      "title": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c60qkdj4lp34o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-12T19:53:40+00:00",
-      "summary": "From the 21-year-old who scored 79 seconds into his debut to breaking his nation's appearance record, BBC Sport looks at Harry Kane's England career.",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
@@ -316,19 +365,6 @@
       "is_injury_related": false
     },
     {
-      "id": "e30586a6137c",
-      "title": "Robertson pays tribute to Dalglish as he matches Scotland cap record",
-      "url": "https://www.theguardian.com/football/2026/nov/12/robertson-pays-tribute-to-dalglish-as-he-matches-scotland-cap-record",
-      "source": "The Guardian",
-      "published_at": "2026-11-12T18:06:56+00:00",
-      "summary": "Tottenham full-back to make 102nd appearance on Friday ‘It’s another reason to honour one of the greatest players’ Andy Robertson insists his matching of Kenny Dalglish’s Scotland cap record by no means brings reputational parity. Four decades after Dalglish, widely regarded as t",
-      "teams": [
-        "Switzerland",
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "1ac6ef06d9b4",
       "title": "Wilson and Miller score as Scotland U21s thump Ukraine",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmregjjnr1wno",
@@ -340,18 +376,6 @@
         "Spain"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "be6b828d9b2b",
-      "title": "Football Daily | ‘The club would like to thank …’: Manchester United dust off the heartfelt exit message",
-      "url": "https://www.theguardian.com/football/2026/nov/12/football-daily-manchester-united-michael-carrick",
-      "source": "The Guardian",
-      "published_at": "2026-11-12T16:24:51+00:00",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Tuesday 22 April 2014: “Manchester United has announced that David Moyes has left the club. The club would like to place on record its thanks for the hard work, honesty and integrity he brought to the role.” Oh no! Where will th",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "11d0a2468353",
@@ -390,19 +414,6 @@
       "is_injury_related": true
     },
     {
-      "id": "d91996dd79f9",
-      "title": "Robertson set to make history, but hero Dalglish will always be King",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxe89dq16dp2o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-12T07:19:57+00:00",
-      "summary": "Ties bind Scotland captain Andy Robertson and the man whose caps record he's about to equal, Kenny Dalglish, in more ways than one, writes Tom English.",
-      "teams": [
-        "Scotland",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "429e4831cb74",
       "title": "England's Blues brothers - how the Bellinghams helped save Birmingham",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm1j3j20r2rzo",
@@ -423,18 +434,6 @@
       "summary": "Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?",
       "teams": [
         "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "c23003992779",
-      "title": "Kane's top 10 England moments - which was your favourite?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c64g12w5zpjpo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-12T06:25:26+00:00",
-      "summary": "BBC Sport looks at 10 of Harry Kane's most iconic England moments as he prepares to break his country's caps record.",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
@@ -504,31 +503,6 @@
       "is_injury_related": true
     },
     {
-      "id": "8e046fe4f054",
-      "title": "Football Daily | ‘Where the hell is Roy Keane!’ Fifty shades of great football debate",
-      "url": "https://www.theguardian.com/football/2026/nov/10/ultimate-shirt-numbers-football-daily-newsletter",
-      "source": "The Guardian",
-      "published_at": "2026-11-10T15:26:40+00:00",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Forget about Michael Carrick. Don’t dwell on Women’s Bigger Cup. Fret not about Pierre Sage. No, the big football story of the day is Big Website’s Ultimate 1-50 , a rundown of the male footballers best associated with each squa",
-      "teams": [
-        "Brazil",
-        "Argentina"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "7e5d6d598977",
-      "title": "From W-M to the No 10, shirt numbers tell a story of football’s tactical evolution",
-      "url": "https://www.theguardian.com/football/2026/nov/10/shirt-numbers-tell-story-football-tactical-evolution",
-      "source": "The Guardian",
-      "published_at": "2026-11-10T12:00:51+00:00",
-      "summary": "In the days before squad numbers, the number on a shirt was an indicator of position, as well as the attributes a player was supposed to demonstrate Ultimate 1-50: check out our complete list of players Numbers have a fascination. The No 10 is revered almost everywhere, but perha",
-      "teams": [
-        "Argentina"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "b5b3da5c696f",
       "title": "Sisters in Sweat: how a former Spurs player got 20,000 Indian women into sport",
       "url": "https://www.theguardian.com/football/2026/nov/10/sisters-in-sweat-indian-women-sport-moving-the-goalposts",
@@ -563,6 +537,30 @@
         "Germany"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "d26433535b65",
+      "title": "Manchester City’s weaknesses under Enzo Maresca are being exposed",
+      "url": "https://www.theguardian.com/football/2026/nov/09/manchester-city-enzo-maresca-premier-league",
+      "source": "The Guardian",
+      "published_at": "2026-11-09T16:30:13+00:00",
+      "summary": "After three straight defeats, City’s manager says he will use the international break to reassess. Their problems may go beyond tactics Sign up for our free newsletter here Enzo Maresca seemed, if not quite baffled by his side’s Saturday defeat to Nottingham Forest, then at least",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "18217608205d",
+      "title": "Football comes together across Spain to honour Jesús de Miguel: ‘We’ve seen how fragile life is’",
+      "url": "https://www.theguardian.com/football/2026/nov/09/football-comes-together-spain-honour-jesus-de-miguel-tenerife",
+      "source": "The Guardian",
+      "published_at": "2026-11-09T11:00:13+00:00",
+      "summary": "Across La Liga and beyond this weekend, footballers took to the field knowing it could have been them In the final few minutes before stepping into the arena once more, heading out for his 199th Osasuna match on Saturday evening, the man who has scored more first division goals t",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "71abbea276c8",
@@ -612,43 +610,6 @@
         "Mexico",
         "Canada",
         "Qatar",
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "595604d411b0",
-      "title": "From VHS dreams to San Siro glory: Amorim’s Milan surge puts rivals on notice | Nicky Bandini",
-      "url": "https://www.theguardian.com/football/2026/nov/02/milan-inter-ruben-amorim-serie-a",
-      "source": "The Guardian",
-      "published_at": "2026-11-02T13:47:03+00:00",
-      "summary": "Inspired by the legendary Milan sides of his youth, the manager gave his side a lift with a tactical victory over Inter Ruben Amorim had waited a lifetime for his first Milan derby. As a kid growing up in Lisbon, he supported two football teams. There was the local one, Benfica, ",
-      "teams": [
-        "Portugal"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "7c271faba6f7",
-      "title": "Harry Kane’s Ballon d’Or party gives way to anxiety-filled hangover for Bayern Munich | Andy Brassell",
-      "url": "https://www.theguardian.com/football/2026/nov/02/harry-kane-ballon-dor-bayern-munich-hangover-borussia-dortmund-bundesliga",
-      "source": "The Guardian",
-      "published_at": "2026-11-02T12:04:05+00:00",
-      "summary": "Dortmund did not read the script, remaining level on points with the defending champions at the top of the table It was the moment they had all been … not so much waiting for, but planning, pushing and yearning for. In the videos that announce the starting lineup on the giant sco",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "517c8446e842",
-      "title": "Folarin Balogun takes a first, tiny step toward moving on from a calamitous summer",
-      "url": "https://www.theguardian.com/football/2026/nov/02/folarin-balogun-monaco-first-goal",
-      "source": "The Guardian",
-      "published_at": "2026-11-02T11:38:59+00:00",
-      "summary": "The USMNT striker scored his first goal since the World Cup in a losing effort against Paris FC. Could it lead to something more? Before this weekend, the last time Folarin Balogun scored was in the United States’ 2-0 win over Bosnia and Herzegovina at this past summer’s World Cu",
-      "teams": [
-        "Bosnia & Herzegovina",
         "USA"
       ],
       "is_injury_related": false
