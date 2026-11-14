@@ -1,31 +1,108 @@
 {
-  "generated_at": "2026-11-14T17:56:47.414424+00:00",
+  "generated_at": "2026-11-14T22:17:19.589532+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "3308f211d779",
-      "title": "Listen: Sportsound's Fan Zone",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm",
-      "source": "BBC Sport",
-      "published_at": "2026-11-14T19:00:00+00:00",
-      "summary": "Reaction to Saturday's Scottish football as the fans get their say.",
+      "id": "11266bf5edec",
+      "title": "Nations League roundup: Portugal mauled by Denmark as Norway sink Wales",
+      "url": "https://www.theguardian.com/football/2026/nov/14/clinical-norway-dent-wales-nations-league-top-tier-hopes-with-victory-in-oslo",
+      "source": "The Guardian",
+      "published_at": "2026-11-14T22:06:03+00:00",
+      "summary": "Portugal thrashed 4-1 at home to Denmark Wales bottom of Group A4 after 3-1 loss Portugal were hammered 4-1 by Denmark on Saturday, an embarrassing Nations League defeat in their first match without Cristiano Ronaldo following his retirement from international football. Rasmus Hø",
       "teams": [
-        "Scotland"
+        "Norway",
+        "Portugal"
       ],
       "is_injury_related": false
     },
     {
-      "id": "fddf13ae1d68",
-      "title": "Norway v Wales: Nations League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/14/norway-v-wales-nations-league-live",
+      "id": "041715bbbc4c",
+      "title": "'No racism in Spain' – De la Fuente message for Tuchel",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-14T20:43:57+00:00",
+      "summary": "Spain manager Luis de la Fuente says \"there is no racism in Spain\" after Thomas Tuchel issued a warning to his England players before Sunday's Nations League meeting in Madrid.",
+      "teams": [
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "483ff869f869",
+      "title": "Rice close to signing new Arsenal contract",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o",
+      "source": "BBC Sport",
+      "published_at": "2026-11-14T20:40:35+00:00",
+      "summary": "Arsenal and England midfielder Declan Rice says he is close to signing a new contract with his club.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "759fcd2a33cb",
+      "title": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown",
+      "url": "https://www.theguardian.com/football/2026/nov/14/declan-rice-england-spain-nations-league-world-cup-thomas-tuchel",
       "source": "The Guardian",
-      "published_at": "2026-11-14T17:39:20+00:00",
-      "summary": "Updates from 5pm (GMT) kick-off at the Ullevaal Stadion Get in touch: email Scott and follow us on BlueSky Pre-match postbag. “Wow. Just, wow. I almost don’t care what happens in the football. ( Almost , but not quite.) Can’t deny the room got a little dusty as the rugby finished",
+      "published_at": "2026-11-14T20:30:00+00:00",
+      "summary": "Midfielder needed a break ‘to come back stronger’ James Trafford selected to start in goal for England Declan Rice has admitted he had an “average” World Cup at the end of a gruelling season and needed time out during the international window in September and October in order to ",
+      "teams": [
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "dc6004830911",
+      "title": "De la Fuente adamant there is no racism in Spain despite England reminder to players",
+      "url": "https://www.theguardian.com/football/2026/nov/14/luis-de-la-fuente-spain-england-racism-thomas-tuchel-natiions-league",
+      "source": "The Guardian",
+      "published_at": "2026-11-14T20:27:02+00:00",
+      "summary": "England’s first game in Madrid since racist abuse in 2004 De la Fuente tells Tuchel ‘we’re not racists, none of us’ Luis de la Fuente has told Thomas Tuchel there is no racism in Spain after the England coach’s admission that he would remind his players of the anti-racism protoco",
+      "teams": [
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "695a2c3ab2a4",
+      "title": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-14T20:22:00+00:00",
+      "summary": "England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty.",
+      "teams": [
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "89c4e487d8d2",
+      "title": "Haaland helps Norway to win over Wales in Nations League",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cr20vgxv43p8o",
+      "source": "BBC Sport",
+      "published_at": "2026-11-14T19:23:13+00:00",
+      "summary": "Watch the best of the action as Norway beat Wales in the Nations League in Oslo.",
       "teams": [
         "Norway"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "51d25490fd67",
+      "title": "Portugal immortalise Cristiano Ronaldo’s No 7 shirt in tribute to national legend",
+      "url": "https://www.theguardian.com/football/2026/nov/14/portugal-immortalise-cristiano-ronaldos-no-7-shirt-in-tribute-to-national-legend",
+      "source": "The Guardian",
+      "published_at": "2026-11-14T19:13:43+00:00",
+      "summary": "Original No 7 design preserved to honour player Career brought 146 goals and three major titles Portugal have made a permanent change to the No 7 shirt to honour the legacy of Cristiano Ronaldo and ensure the number remains forever associated with their greatest footballing icon.",
+      "teams": [
+        "Portugal"
       ],
       "is_injury_related": false
     },
@@ -59,7 +136,7 @@
       "url": "https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark",
       "source": "The Guardian",
       "published_at": "2026-11-14T13:07:33+00:00",
-      "summary": "Loss in Singapore marred by unruly end to friendly Argentina beaten 2-1 by Uruguay in Buenos Aires Raphinha was sent off as Brazil crashed to a 3-2 defeat to Japan in their international friendly in Singapore. The Barcelona captain had been substituted after 71 minutes, but was s",
+      "summary": "Brazil loss in Singapore marred by unruly end to friendly Argentina beaten 2-1 by Uruguay in Buenos Aires Raphinha was sent off as Brazil crashed to a 3-2 defeat by Japan in their international friendly in Singapore. The Barcelona captain had been substituted after 71 minutes, bu",
       "teams": [
         "Brazil",
         "Japan",
@@ -93,19 +170,6 @@
         "England"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "699f6f05e83b",
-      "title": "De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain",
-      "url": "https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country",
-      "source": "The Guardian",
-      "published_at": "2026-11-14T08:00:40+00:00",
-      "summary": "Head coach hits out at ‘lies’ as suggestions of preferential treatment for young star overshadow preparations for England game in Madrid From the London Palladium to Madrid’s Metropolitano, they’re all here. On Sunday night, the footballers who lifted the game’s biggest awards me",
-      "teams": [
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "f7ca7a2491a6",
@@ -178,18 +242,6 @@
         "Spain"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "585900218f44",
-      "title": "'It's a shootout' - Wales out to derail stuttering Norway",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck9871qr76gmo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-13T19:59:40+00:00",
-      "summary": "Norway's golden generation host Wales in a crunch Nations League clash on Saturday, aiming to end a rare losing streak for Erling Haaland and company.",
-      "teams": [
-        "Norway"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "7f2d3b418dcc",
@@ -267,18 +319,6 @@
       "is_injury_related": false
     },
     {
-      "id": "8b269e6650a5",
-      "title": "How do you stop Haaland? Wales show how it's done",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3y0e0z0r8kzo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-13T08:05:12+00:00",
-      "summary": "Erling Haaland can seem unstoppable - but Wales managed it a month ago. In Norway on Saturday, they hope the plan will work again.",
-      "teams": [
-        "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "de5b2a0133e2",
       "title": "The beautiful game: revived art prize gives football its creative due once more | Emma John",
       "url": "https://www.theguardian.com/football/2026/nov/13/football-association-art-prize",
@@ -325,18 +365,6 @@
       "summary": "Harry Kane is England's all-time top scorer and record appearance maker, but where does he rank among the Three Lions' greatest players?",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e81e0f1ba07b",
-      "title": "SFA in talks with Boston officials over biennial friendly match",
-      "url": "https://www.bbc.co.uk/news/articles/cqdr1jd5mpp5o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-12T21:16:56+00:00",
-      "summary": "Discussions take place between Scottish football governing's body and a delegation of state senators to build on bonds forged during the World Cup.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -399,33 +427,6 @@
         "USA"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "5d99d085956f",
-      "title": "Robinson unfazed by Pochettino departure talk",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm3vgx55kp3ro",
-      "source": "BBC Sport",
-      "published_at": "2026-11-11T09:54:38+00:00",
-      "summary": "Defender Antonee Robinson says speculation over USA manager Mauricio Pochettino's future has not affected the team's preparations for their Concacaf Nations League campaign.",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "9578966e2db3",
-      "title": "Which football club has had most international captains in the same team? | The Knowledge",
-      "url": "https://www.theguardian.com/football/2026/nov/11/football-club-most-international-captains-same-team-the-knowledge",
-      "source": "The Guardian",
-      "published_at": "2026-11-11T08:00:33+00:00",
-      "summary": "Plus: more speedy marathons by footballers, headed goals of the season and chairs acting as managers Mail us with all of your questions and answers “Which club team has had the most international captains playing together at one time?” asks MH Zahid. “Conversely, which internatio",
-      "teams": [
-        "Czech Republic",
-        "Germany",
-        "Ivory Coast",
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "b5b3da5c696f",
