@@ -1,17 +1,54 @@
 {
-  "generated_at": "2026-11-13T22:33:06.013024+00:00",
+  "generated_at": "2026-11-14T03:07:35.128718+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "15243c14ffb3",
+      "title": "Nations League: Germany set up Netherlands clash after beating Serbia",
+      "url": "https://www.theguardian.com/football/2026/nov/13/nations-league-germany-set-up-netherlands-clash-serbia-greece",
+      "source": "The Guardian",
+      "published_at": "2026-11-13T23:14:45+00:00",
+      "summary": "Florian Wirtz on target in Germany’s 3-1 win in Serbia Tijjani Reijnders hat-trick as Netherlands hammer Greece Germany cruised to a 3-1 win against Serbia in Belgrade on Friday, setting up a crunch encounter with the Netherlands in Berlin on Monday to decide who tops Group A2. I",
+      "teams": [
+        "Germany",
+        "Netherlands"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "fcfbd39949b4",
+      "title": "Goalkeeper involved in fatal collision gets 12-game ban",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko",
+      "source": "BBC Sport",
+      "published_at": "2026-11-13T22:37:30+00:00",
+      "summary": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel.",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "20f97eeb9cc2",
+      "title": "'If that penalty is given against you, you're furious'",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c34gn5k2lk9lo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-13T22:34:20+00:00",
+      "summary": "Sportscene pundits Leanne Crichton and Scott Brown discuss the penalty award that led to Scotland beating North Macedonia.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "f62a9e544082",
       "title": "John McGinn double saves Scotland’s blushes against North Macedonia",
       "url": "https://www.theguardian.com/football/2026/nov/13/scotland-north-macedonia-nations-league-match-report",
       "source": "The Guardian",
       "published_at": "2026-11-13T22:16:31+00:00",
-      "summary": "A special occasion for Andy Robertson saw Scotland flirt with embarrassment. Collection of his 102nd cap moves Robertson level with Kenny Dalglish in the all-time Scottish list. By Monday night, Robertson will be a record holder. This was, however, John McGinn’s night. A double f",
+      "summary": "A special occasion for Andy Robertson saw Scotland flirt with embarrassment. Collection of his 102nd cap moves him level with Kenny Dalglish in the all-time Scottish list. Robertson will soon be a record holder. This was, however, John McGinn’s night. A double from McGinn, the se",
       "teams": [
         "Scotland"
       ],
@@ -240,18 +277,6 @@
       "is_injury_related": false
     },
     {
-      "id": "ed44728894b5",
-      "title": "How big a problem is central defence for Pocognoli?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckwy9jyd2wq5o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-13T07:23:18+00:00",
-      "summary": "Amy Canavan assesses Scotland's central defensive dilemmas before Friday evening's must-win match against North Macedonia.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "16cdfdbbccbe",
       "title": "Pochettino’s Chelsea maelstrom the best yardstick for what lies ahead at United",
       "url": "https://www.theguardian.com/football/2026/nov/13/pochettino-chelsea-maelstrom-yardstick-what-lies-ahead-manchester-united",
@@ -341,18 +366,6 @@
       "is_injury_related": false
     },
     {
-      "id": "feb3c9731faf",
-      "title": "Quiz: Name England men's all-time leading appearance makers",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmlylv1xl9qgo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-12T19:47:16+00:00",
-      "summary": "Can you name every England men's player who has at least 60 caps?",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "e23ab6dee8be",
       "title": "How will the USMNT replace Mauricio Pochettino? There’s no clear answer",
       "url": "https://www.theguardian.com/football/2026/nov/12/mauricio-pochettino-replacements-usmnt-manchester-united",
@@ -374,18 +387,6 @@
       "teams": [
         "Scotland",
         "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "11d0a2468353",
-      "title": "Largs get floodlights consent in time for cup tie with Ayr – watch on BBC",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmqlq3llg19go",
-      "source": "BBC Sport",
-      "published_at": "2026-11-12T15:00:57+00:00",
-      "summary": "The Scottish Cup third-round tie between Largs Thistle and Ayr United will be shown live on the BBC Scotland channel, website and iPlayer on Friday, 27 November.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -436,19 +437,6 @@
         "Spain"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "c803e0352020",
-      "title": "US withdraw from U-17 World Cup in Qatar due to safety concerns",
-      "url": "https://www.theguardian.com/football/2026/nov/11/usa-u-17-world-cup-qatar-withdrawal-middle-east-conflict",
-      "source": "The Guardian",
-      "published_at": "2026-11-11T21:54:46+00:00",
-      "summary": "USSF cites state department advisory about Qatar Competition set to kick off in eight days The US men’s national team have pulled out of the Fifa U-17 World Cup, which is due to kick off in Qatar in just over a week. In a letter sent to players explaining the decision, the US Soc",
-      "teams": [
-        "Qatar",
-        "USA"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "97e9da5922e6",
