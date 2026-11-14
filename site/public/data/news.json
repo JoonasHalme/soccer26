@@ -1,10 +1,73 @@
 {
-  "generated_at": "2026-11-14T11:24:08.732594+00:00",
+  "generated_at": "2026-11-14T17:56:47.414424+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "3308f211d779",
+      "title": "Listen: Sportsound's Fan Zone",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm",
+      "source": "BBC Sport",
+      "published_at": "2026-11-14T19:00:00+00:00",
+      "summary": "Reaction to Saturday's Scottish football as the fans get their say.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "fddf13ae1d68",
+      "title": "Norway v Wales: Nations League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/14/norway-v-wales-nations-league-live",
+      "source": "The Guardian",
+      "published_at": "2026-11-14T17:39:20+00:00",
+      "summary": "Updates from 5pm (GMT) kick-off at the Ullevaal Stadion Get in touch: email Scott and follow us on BlueSky Pre-match postbag. “Wow. Just, wow. I almost don’t care what happens in the football. ( Almost , but not quite.) Can’t deny the room got a little dusty as the rugby finished",
+      "teams": [
+        "Norway"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6d457196ae19",
+      "title": "Former Stoke City manager Thordarson dies aged 71",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c98r7l5yrn6go",
+      "source": "BBC Sport",
+      "published_at": "2026-11-14T15:04:59+00:00",
+      "summary": "Gudjon Thordarson, who led Stoke City to promotion from the third tier in 2002 and managed three other English clubs, dies aged 71.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ca7dd4c2a3b0",
+      "title": "Mauricio Pochettino asked the US to believe in his project. Did he believe in it himself?",
+      "url": "https://www.theguardian.com/football/2026/nov/14/mauricio-pochettino-usmnt-legacy-belief",
+      "source": "The Guardian",
+      "published_at": "2026-11-14T14:06:37+00:00",
+      "summary": "The coach’s tenure with the USMNT brought a whiplash of highs and lows. He met some goals but also left many with the impression he never truly bought in It did not take US men’s national team coach Mauricio Pochettino very long to take his first big swing. He’d just taken the re",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1101fde37311",
+      "title": "Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat",
+      "url": "https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark",
+      "source": "The Guardian",
+      "published_at": "2026-11-14T13:07:33+00:00",
+      "summary": "Loss in Singapore marred by unruly end to friendly Argentina beaten 2-1 by Uruguay in Buenos Aires Raphinha was sent off as Brazil crashed to a 3-2 defeat to Japan in their international friendly in Singapore. The Barcelona captain had been substituted after 71 minutes, but was s",
+      "teams": [
+        "Brazil",
+        "Japan",
+        "Uruguay",
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "c8effa137eff",
       "title": "Tuchel to remind England of anti-racism protocols before Spain game",
@@ -67,31 +130,6 @@
         "Portugal"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "15243c14ffb3",
-      "title": "Nations League: Germany set up Netherlands clash after beating Serbia",
-      "url": "https://www.theguardian.com/football/2026/nov/13/nations-league-germany-set-up-netherlands-clash-serbia-greece",
-      "source": "The Guardian",
-      "published_at": "2026-11-13T23:14:45+00:00",
-      "summary": "Florian Wirtz on target in Germany’s 3-1 win in Serbia Tijjani Reijnders hat-trick as Netherlands hammer Greece Germany cruised to a 3-1 win against Serbia in Belgrade on Friday, setting up a crunch encounter with the Netherlands in Berlin on Monday to decide who tops Group A2. I",
-      "teams": [
-        "Germany",
-        "Netherlands"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "fcfbd39949b4",
-      "title": "Goalkeeper involved in fatal collision gets 12-game ban",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko",
-      "source": "BBC Sport",
-      "published_at": "2026-11-13T22:37:30+00:00",
-      "summary": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel.",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "20f97eeb9cc2",
@@ -192,31 +230,6 @@
       "is_injury_related": false
     },
     {
-      "id": "9f48714e281e",
-      "title": "Tearful Pochettino says United job was ‘difficult to turn down’ in USMNT farewell",
-      "url": "https://www.theguardian.com/football/2026/nov/13/mauricio-pochettino-usmnt-manchester-united",
-      "source": "The Guardian",
-      "published_at": "2026-11-13T16:53:14+00:00",
-      "summary": "Coach was ‘transparent’ in dealings with club, federation Pochettino had signed deal to stay with US through 2030 There were always going to be tears at Mauricio Pochettino’s news conference at US Soccer’s national training center on Friday. It was only a matter of when. Pochetti",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "c509bc860c5a",
-      "title": "Branding it like Beckham: how Jude Bellingham is future-proofing his fame",
-      "url": "https://www.theguardian.com/football/2026/nov/13/jude-bellingham-branding-it-like-beckham",
-      "source": "The Guardian",
-      "published_at": "2026-11-13T16:03:19+00:00",
-      "summary": "From Calvin Klein to British Vogue, the Real Madrid man is leading the way when it comes to football’s foray into fashion. But is he playing it safe? This Sunday, Jude Bellingham will line up with his England teammates for a match against Spain. But the footballer has been hittin",
-      "teams": [
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "66e81a998246",
       "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o",
@@ -254,31 +267,6 @@
       "is_injury_related": false
     },
     {
-      "id": "0b01ac388ff1",
-      "title": "Odegaard backing Norway to avenge Wales defeat",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmq8lx38zwn4o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-13T12:43:51+00:00",
-      "summary": "Martin Odegaard backs Norway to brush off snow disruption and avenge their defeat by Wales when they meet again in Oslo on Saturday.",
-      "teams": [
-        "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "bc69d4417b2c",
-      "title": "Beckham to be inducted into US Soccer Hall of Fame",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmx295q05l7eo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-13T08:22:34+00:00",
-      "summary": "Former England captain David Beckham is set to be inducted into the United States' National Soccer Hall of Fame as part of its 2027 class.",
-      "teams": [
-        "USA",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "8b269e6650a5",
       "title": "How do you stop Haaland? Wales show how it's done",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3y0e0z0r8kzo",
@@ -311,18 +299,6 @@
       "summary": "Argentinian oversaw high-scoring games in his one Chelsea season and Opta predicts his Manchester United side will move upfield quicker than that team Among the 20 managers with more than 290 matches in the Premier League, only the five “ big beasts ” of Alex Ferguson, Arsène Wen",
       "teams": [
         "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "4f4e6c37f2e4",
-      "title": "'A lie' & 'nonsense' - Palmer committed to England, says Rogers",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-12T23:09:07+00:00",
-      "summary": "Morgan Rogers says any suggestion Cole Palmer is not committed to England \"is a lie\" and \"nonsense\".",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
@@ -413,18 +389,6 @@
       "is_injury_related": false
     },
     {
-      "id": "68d9f7857d95",
-      "title": "How 'Barca way' continues despite big-name exits",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5vg23nmgp2yo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-12T06:41:09+00:00",
-      "summary": "Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "97e9da5922e6",
       "title": "Complaint filed to IRS in relation to Fifa head Gianni Infantino’s housekeeper",
       "url": "https://www.theguardian.com/football/2026/nov/11/complaint-us-irs-fifa-gianni-infantino-housekeeper",
@@ -435,19 +399,6 @@
         "USA"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "28eceb7dc9a1",
-      "title": "Scotland without captain Weir for World Cup play-off",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c64gnlevgj1zo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-11T11:59:18+00:00",
-      "summary": "Scotland will be without Caroline Weir for the World Cup play-off final with Sweden following a setback in the influential midfielder's recovery from a muscle injury.",
-      "teams": [
-        "Scotland",
-        "Sweden"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "5d99d085956f",
