@@ -1,17 +1,42 @@
 {
-  "generated_at": "2026-11-14T22:17:19.589532+00:00",
+  "generated_at": "2026-11-15T02:35:41.044188+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
+      "id": "d0979ce2d6c0",
+      "title": "Hallgrimsson rues 'painful' defeat for Republic of Ireland",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr15e4w75wxpo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-14T22:40:02+00:00",
+      "summary": "Republic of Ireland boss Heimir Hallgrimsson says their 1-0 defeat against Austria in their penultimate Nations League game was \"painful\".",
+      "teams": [
+        "Austria"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "483ff869f869",
+      "title": "White has 'exciting future' despite boos - Rice",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o",
+      "source": "BBC Sport",
+      "published_at": "2026-11-14T22:26:56+00:00",
+      "summary": "Midfielder Declan Rice has defended his Arsenal team-mate Ben White after he was booed during England's win over Croatia at Wembley.",
+      "teams": [
+        "England",
+        "Croatia"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "11266bf5edec",
       "title": "Nations League roundup: Portugal mauled by Denmark as Norway sink Wales",
       "url": "https://www.theguardian.com/football/2026/nov/14/clinical-norway-dent-wales-nations-league-top-tier-hopes-with-victory-in-oslo",
       "source": "The Guardian",
-      "published_at": "2026-11-14T22:06:03+00:00",
-      "summary": "Portugal thrashed 4-1 at home to Denmark Wales bottom of Group A4 after 3-1 loss Portugal were hammered 4-1 by Denmark on Saturday, an embarrassing Nations League defeat in their first match without Cristiano Ronaldo following his retirement from international football. Rasmus Hø",
+      "published_at": "2026-11-14T22:23:39+00:00",
+      "summary": "Portugal thrashed 4-1 at home by Denmark Wales bottom of Group A4 after 3-1 loss Portugal were hammered 4-1 by Denmark on Saturday, an embarrassing Nations League defeat in their first match without Cristiano Ronaldo after his retirement from international football. Rasmus Højlun",
       "teams": [
         "Norway",
         "Portugal"
@@ -24,21 +49,9 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo",
       "source": "BBC Sport",
       "published_at": "2026-11-14T20:43:57+00:00",
-      "summary": "Spain manager Luis de la Fuente says \"there is no racism in Spain\" after Thomas Tuchel issued a warning to his England players before Sunday's Nations League meeting in Madrid.",
+      "summary": "Spain manager Luis de la Fuente says \"there is no racism in Spain\" and England boss Thomas Tuchel reiterates that he does not believe it will be an issue at Sunday's Nations League meeting in Madrid.",
       "teams": [
         "Spain",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "483ff869f869",
-      "title": "Rice close to signing new Arsenal contract",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-14T20:40:35+00:00",
-      "summary": "Arsenal and England midfielder Declan Rice says he is close to signing a new contract with his club.",
-      "teams": [
         "England"
       ],
       "is_injury_related": false
@@ -62,7 +75,7 @@
       "url": "https://www.theguardian.com/football/2026/nov/14/luis-de-la-fuente-spain-england-racism-thomas-tuchel-natiions-league",
       "source": "The Guardian",
       "published_at": "2026-11-14T20:27:02+00:00",
-      "summary": "England’s first game in Madrid since racist abuse in 2004 De la Fuente tells Tuchel ‘we’re not racists, none of us’ Luis de la Fuente has told Thomas Tuchel there is no racism in Spain after the England coach’s admission that he would remind his players of the anti-racism protoco",
+      "summary": "De la Fuente tells Tuchel ‘we’re not racists, none of us’ Tuchel hits out at media for ‘creating confusion’ Luis de la Fuente has told Thomas Tuchel there is no racism in Spain after the England coach’s admission that he would remind his players of the anti-racism protocol prior ",
       "teams": [
         "Spain",
         "England"
