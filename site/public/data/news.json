@@ -1,21 +1,81 @@
 {
-  "generated_at": "2026-11-15T10:43:28.046034+00:00",
+  "generated_at": "2026-11-15T17:40:34.304036+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "e18b81e4acfe",
-      "title": "Spain v England buildup, reaction to Portugal’s post-Ronaldo thrashing, WSL and more – matchday live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-buildup-wsl-and-more-matchday-live",
-      "source": "The Guardian",
-      "published_at": "2026-11-15T10:32:42+00:00",
-      "summary": "All the latest news from around the footballing world Get in touch: contact our matchday live writers on email We have a huge derby day today. John Brewin will provide you with minute-by-minute coverage of Arsenal v London City Lionesses at 4:30pm. Aston Villa v Brimingham City W",
+      "id": "0dd6226c9b1a",
+      "title": "AS FAR retain Women's African Champions League title",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckdd10v6vqjpo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-15T17:23:45+00:00",
+      "summary": "Imane Touriss scores twice as Moroccan club AS FAR beat Mamelodi Sundowns 3-1 to retain the Women's African Champions League title.",
+      "teams": [
+        "Morocco"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "01f82ca7c6b1",
+      "title": "Chapecoense crash survivor wins promotion in final game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckp8017p1e3go",
+      "source": "BBC Sport",
+      "published_at": "2026-11-15T17:10:24+00:00",
+      "summary": "Alan Ruschel, one of six survivors in the 2016 plane crash that was carrying members of the Chapecoense team, wins promotion to Brazil‘s Serie A in his final match before retiring.",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "6e0a0b830a73",
+      "title": "You are Scotland boss Pocognoli - what would you do?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cklyw2qzzd44o",
+      "source": "BBC Sport",
+      "published_at": "2026-11-15T15:58:56+00:00",
+      "summary": "Put yourself in the shoes of Scotland head coach Sebastien Pocognoli as he picks his starting XI for the visit to Switzerland.",
+      "teams": [
+        "Switzerland",
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d5fa950d877e",
+      "title": "Pitch perimeters under review after Vigar death",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y4jn2zw3yno",
+      "source": "BBC Sport",
+      "published_at": "2026-11-15T13:49:17+00:00",
+      "summary": "The Premier League, English Football League and Women's Super League are reviewing pitch perimeters after the death of Billy Vigar last year.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "c4f9d8ebf60d",
+      "title": "Branthwaite, Garner and King omitted for Spain game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq4gn7014x76o",
+      "source": "BBC Sport",
+      "published_at": "2026-11-15T13:15:15+00:00",
+      "summary": "England manager Thomas Tuchel omits Josh King, James Garner and Jarrad Branthwaite from his squad to face Spain on Sunday night.",
       "teams": [
         "Spain",
-        "Portugal",
         "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "dcf6746aea42",
+      "title": "Record-breaking Andy Robertson is Scotland’s finest captain",
+      "url": "https://www.theguardian.com/football/2026/nov/15/record-breaking-andy-robertson-is-scotlands-finest-captain",
+      "source": "The Guardian",
+      "published_at": "2026-11-15T12:00:16+00:00",
+      "summary": "As he passes Kenny Dalglish’s appearance total, it is important to remember that it is the left-back’s journey that sets him apart Andy Robertson may not be Scotland’s greatest player, but he is indisputably their finest captain. It counts as sacrilege, even to generations who ha",
+      "teams": [
+        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -120,6 +180,19 @@
       "is_injury_related": false
     },
     {
+      "id": "759fcd2a33cb",
+      "title": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown",
+      "url": "https://www.theguardian.com/football/2026/nov/14/declan-rice-england-spain-nations-league-world-cup-thomas-tuchel",
+      "source": "The Guardian",
+      "published_at": "2026-11-14T20:30:00+00:00",
+      "summary": "Midfielder needed a break ‘to come back stronger’ James Trafford selected to start in goal for England Declan Rice has admitted he had an “average” World Cup at the end of a gruelling season and needed time out during the international window in September and October in order to ",
+      "teams": [
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "dc6004830911",
       "title": "De la Fuente adamant there is no racism in Spain despite England reminder to players",
       "url": "https://www.theguardian.com/football/2026/nov/14/luis-de-la-fuente-spain-england-racism-thomas-tuchel-natiions-league",
@@ -209,32 +282,6 @@
       "is_injury_related": false
     },
     {
-      "id": "c8effa137eff",
-      "title": "Tuchel to remind England of anti-racism protocols before Spain game",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c60mdzn2dk1eo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-14T09:13:30+00:00",
-      "summary": "Manager Thomas Tuchel will remind England's players of Uefa's anti-racism protocols before Sunday's Nations League fixture against Spain in Madrid.",
-      "teams": [
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "3b77b7aba8e0",
-      "title": "Who would make your England-Spain combined XI?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw77p0v78exlo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-14T08:57:49+00:00",
-      "summary": "How many England players do you think would make the Spain team?",
-      "teams": [
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "699f6f05e83b",
       "title": "De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain",
       "url": "https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country",
@@ -318,18 +365,6 @@
       "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "teams": [
         "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "66e81a998246",
-      "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-13T15:28:06+00:00",
-      "summary": "An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job.",
-      "teams": [
-        "USA"
       ],
       "is_injury_related": false
     },
@@ -553,19 +588,6 @@
         "Canada",
         "Qatar",
         "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "a5168b5a3562",
-      "title": "Manager ins and outs - 2026-27",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-01T11:11:40+00:00",
-      "summary": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.",
-      "teams": [
-        "Scotland",
-        "England"
       ],
       "is_injury_related": false
     }
