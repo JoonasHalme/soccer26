@@ -1,96 +1,57 @@
 {
-  "generated_at": "2026-11-16T02:41:55.818707+00:00",
+  "generated_at": "2026-11-16T11:01:41.186305+00:00",
   "sources": [
     "BBC Sport",
-    "The Guardian",
-    "ESPN"
+    "The Guardian"
   ],
   "items": [
     {
-      "id": "1e98949ac78a",
-      "title": "England hold off Spain rally to end WC winner's 43-game unbeaten run",
-      "url": "https://www.espn.com/soccer/story/_/id/50493712/england-spain-43-game-unbeaten-run",
-      "source": "ESPN",
-      "published_at": "2026-11-16T01:40:35+00:00",
-      "summary": "England held off a fierce comeback in Madrid on Sunday to end Spain's 43-game unbeaten streak and secure top spot in Nations League Group C with a 3-2 win.",
+      "id": "7dbfbfca1f46",
+      "title": "Watch: Partick Thistle & Ross County stretch leads as Clyde hit six",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cky8699zd79lo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-16T08:02:51+00:00",
+      "summary": "Watch the best of the action from the weekend in the Scottish Professional Football league as Partick Thistle stretch their lead in the Championship, Ross County win their top-of-the table head-to-head in League 1 and Clyde hit six to keep pace with Stranraer in League 2.",
       "teams": [
-        "Spain",
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "fcdaaf3bd789",
+      "title": "Listen: Scotland’s Swiss test and who is Aberdeen’s new boss?",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pn6v34",
+      "source": "BBC Sport",
+      "published_at": "2026-11-16T08:00:00+00:00",
+      "summary": "Can Scotland show progress against Switzerland and what awaits Aberdeen under Frick?",
+      "teams": [
+        "Switzerland",
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "0148efd8f21b",
+      "title": "Homophobia on the rise in football - what is your club doing about it?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c617ked5wn9po",
+      "source": "BBC Sport",
+      "published_at": "2026-11-16T07:26:27+00:00",
+      "summary": "Homophobia and transphobia are on the rise in English football, with new data revealing record numbers of discrimination reports in the game - so what is the Premier League doing about it?",
+      "teams": [
         "England"
       ],
       "is_injury_related": false
     },
     {
-      "id": "44589fb02d8f",
-      "title": "Spain 'overwhelmed' by 'exceptional' England: We also know how to lose",
-      "url": "https://www.espn.com/soccer/story/_/id/50495394/spain-overwhelmed-england-43-game-streak-ends",
-      "source": "ESPN",
-      "published_at": "2026-11-16T01:40:35+00:00",
-      "summary": "Coach Luis de la Fuente said Spain were \"overwhelmed\" in the early stages of Sunday's 3-2 UEFA Nations League defeat to England, but backed his team to return stronger after seeing their three-year unbeaten run come to an end.",
+      "id": "420282023154",
+      "title": "Is Scotland's system limiting Gannon-Doak's threat?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c64gnpvdld40o",
+      "source": "BBC Sport",
+      "published_at": "2026-11-16T07:09:40+00:00",
+      "summary": "As Scotland prepare to conclude their Nations League group campaign in Switzerland, there are concerns about how new head coach Sebastien Pocognoli is utilising one of his most exciting assets.",
       "teams": [
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "dc06f04b42ee",
-      "title": "Tenerife pay tribute to De Miguel in first match since his death",
-      "url": "https://www.espn.com/soccer/story/_/id/50491662/tenerife-tribute-jesus-de-miguel-first-match-death",
-      "source": "ESPN",
-      "published_at": "2026-11-16T01:40:35+00:00",
-      "summary": "Spanish soccer club Tenerife on Sunday paid tribute to Jesús de Miguel in its first game since the striker's death, with midfielder Nacho Gil holding up De Miguel's jersey after scoring his team's opening goal shortly before halftime.",
-      "teams": [
-        "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "d96d14877671",
-      "title": "Mexico on brink of missing Nations League semis after loss to Jamaica",
-      "url": "https://www.espn.com/soccer/story/_/id/50492105/mexico-nations-league-semifinals-loss-jamaica",
-      "source": "ESPN",
-      "published_at": "2026-11-16T01:40:35+00:00",
-      "summary": "Jamaica stunned Mexico 3-2 on Saturday to move within reach of the Concacaf Nations League semifinals and add to Mexico's struggles under new coach Rafael Márquez.",
-      "teams": [
-        "Mexico"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "14a93c61efa3",
-      "title": "Dual-national Julian Hall officially tied to USMNT with appearance vs. Haiti",
-      "url": "https://www.espn.com/soccer/story/_/id/50482590/julian-hall-usa-poland-haiti-fifa-nations-league-concacaf",
-      "source": "ESPN",
-      "published_at": "2026-11-16T01:40:35+00:00",
-      "summary": "Teenage forward Julian Hall is now cap-tied to the U.S. men's national team, after starting Saturday's Concacaf Nations League quarterfinal against Haiti.",
-      "teams": [
-        "Haiti",
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "861d8ab8a621",
-      "title": "Brazil great Ronaldinho, 46, subbed at half in return for Serie C's Ravenna",
-      "url": "https://www.espn.com/soccer/story/_/id/50491487/ronaldinho-comeback-300-goals-ravenna-serie-c",
-      "source": "ESPN",
-      "published_at": "2026-11-16T01:40:35+00:00",
-      "summary": "Ronaldinho failed to secure his elusive 300th career goal after returning to professional football aged 46.",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "6f3bcaebd581",
-      "title": "⌚ USMNT's Folarin Balogun does 'Dame Time' celebration after goal vs. Haiti",
-      "url": "https://www.espn.com/soccer/story/_/id/50487187/usmnt-folarin-balogun-dame-celebration",
-      "source": "ESPN",
-      "published_at": "2026-11-16T01:40:35+00:00",
-      "summary": "After the star forward found the back of the net against Haiti, he had a specific celebration in mind: Damian Lillard's iconic \"Dame Time\" motion.",
-      "teams": [
-        "Haiti",
-        "USA"
+        "Switzerland",
+        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -134,19 +95,6 @@
       "is_injury_related": true
     },
     {
-      "id": "db1009e9b93b",
-      "title": "England's win over Spain is the statement Tuchel's team have been waiting for",
-      "url": "https://www.espn.com/soccer/story/_/id/50494867/england-spain-nations-league-win-tuchel",
-      "source": "ESPN",
-      "published_at": "2026-11-15T23:18:41+00:00",
-      "summary": "England ended Spain's 43-match unbeaten run with a statement win that gives Thomas Tuchel renewed belief his side can finally deliver on the biggest stage.",
-      "teams": [
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "8a3ac4ecc123",
       "title": "Football Daily",
       "url": "https://www.bbc.co.uk/sounds/play/p0pn5rdk",
@@ -160,32 +108,6 @@
       "is_injury_related": false
     },
     {
-      "id": "1363e8c80b17",
-      "title": "USMNT players embody Pochettino's legacy in dominant win over Haiti",
-      "url": "https://www.espn.com/soccer/story/_/id/50481434/usmnt-mauricio-pochettino-legacy-haiti",
-      "source": "ESPN",
-      "published_at": "2026-11-15T22:59:52+00:00",
-      "summary": "Mauricio Pochettino reset the culture within the USMNT. In Saturday's 6-0 win over Haiti, his players demonstrated that they intend to carry on his ideals.",
-      "teams": [
-        "Haiti",
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "401683ce9621",
-      "title": "USMNT player ratings: Pulisic earns 9/10 for brace in win over Haiti",
-      "url": "https://www.espn.com/soccer/story/_/id/50481405/usmnt-player-ratings-pulisic-haiti",
-      "source": "ESPN",
-      "published_at": "2026-11-15T22:59:52+00:00",
-      "summary": "Christian Pulisic scored twice in the Americans' dominant 6-0 win over Haiti on Saturday.",
-      "teams": [
-        "Haiti",
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "8b4c6264d7c4",
       "title": "Who swaggered around like he owned the place? Spain v England ratings",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjg46lrpllrpo",
@@ -194,20 +116,6 @@
       "summary": "Spanish football reporter Elizabeth Conway and senior football correspondent Sami Mokbel give their player ratings for Spain v England.",
       "teams": [
         "Spain",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "2528c6ecab6d",
-      "title": "England fend off fiery Spain fightback after Anderson’s red to top Nations League group",
-      "url": "https://www.theguardian.com/football/2026/nov/15/spain-england-nations-league-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-11-15T21:56:41+00:00",
-      "summary": "It was the game to show Thomas Tuchel where his rebooted England team had got to; surely the ultimate test in international football. Spain in Spain. A world champion team who, in Tuchel’s words, had “forgotten how to lose.” Before this Nations League group decider, they had been",
-      "teams": [
-        "Spain",
-        "Portugal",
         "England"
       ],
       "is_injury_related": false
@@ -235,20 +143,6 @@
         "Brazil"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "054680142fd3",
-      "title": "Sule strikes late as Scotland U21s snatch draw against USA",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6894vj39g33o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-15T18:11:08+00:00",
-      "summary": "St Mirren forward Eseosa Sule came off the bench to score a late penalty as Scotland U21s drew 1-1 with USA U23s in Spain.",
-      "teams": [
-        "Scotland",
-        "USA",
-        "Spain"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "4bfb385fd72f",
@@ -348,19 +242,6 @@
       "is_injury_related": false
     },
     {
-      "id": "e7825203667b",
-      "title": "How Spain's humble superstar Simon became world's best keeper",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg23nv0jw2o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-15T07:29:30+00:00",
-      "summary": "As Spain prepare to host England in the Nations League, BBC Sport columnist Guillem Balague charts the rise of Unai Simon to become the world's best keeper.",
-      "teams": [
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "121a3e9ae010",
       "title": "Respect? Exposure? Why England's star names are going abroad",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckdd17mq2pvmo",
@@ -369,18 +250,6 @@
       "summary": "Harry Kane, Jude Bellingham and Anthony Gordon are three of England's current biggest stars, but all have chosen to play their club football abroad.",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "d0979ce2d6c0",
-      "title": "Hallgrimsson rues 'painful' defeat for Republic of Ireland",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr15e4w75wxpo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-14T22:40:02+00:00",
-      "summary": "Republic of Ireland boss Heimir Hallgrimsson says their 1-0 defeat against Austria in their penultimate Nations League game was \"painful\".",
-      "teams": [
-        "Austria"
       ],
       "is_injury_related": false
     },
@@ -496,20 +365,6 @@
         "Portugal"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "c036758acc0b",
-      "title": "‘No one is unbeatable’: Tuchel eager for England to impose style on Spain",
-      "url": "https://www.theguardian.com/football/2026/nov/13/no-one-is-unbeatable-tuchel-eager-for-england-to-impose-style-on-spain",
-      "source": "The Guardian",
-      "published_at": "2026-11-13T19:00:23+00:00",
-      "summary": "Manager calls Sunday’s Nations League decider a ‘final’ as preparations for Euro 2028 ratchet up a level Proof of concept. It is Thomas Tuchel’s latest buzz phrase. The England manager has dropped it into the conversation pretty regularly since the Friday of last week when he nam",
-      "teams": [
-        "Spain",
-        "Argentina",
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "dedf642de316",
