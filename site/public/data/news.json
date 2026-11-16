@@ -1,10 +1,190 @@
 {
-  "generated_at": "2026-11-15T22:45:26.078041+00:00",
+  "generated_at": "2026-11-16T02:41:55.818707+00:00",
   "sources": [
     "BBC Sport",
-    "The Guardian"
+    "The Guardian",
+    "ESPN"
   ],
   "items": [
+    {
+      "id": "1e98949ac78a",
+      "title": "England hold off Spain rally to end WC winner's 43-game unbeaten run",
+      "url": "https://www.espn.com/soccer/story/_/id/50493712/england-spain-43-game-unbeaten-run",
+      "source": "ESPN",
+      "published_at": "2026-11-16T01:40:35+00:00",
+      "summary": "England held off a fierce comeback in Madrid on Sunday to end Spain's 43-game unbeaten streak and secure top spot in Nations League Group C with a 3-2 win.",
+      "teams": [
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "44589fb02d8f",
+      "title": "Spain 'overwhelmed' by 'exceptional' England: We also know how to lose",
+      "url": "https://www.espn.com/soccer/story/_/id/50495394/spain-overwhelmed-england-43-game-streak-ends",
+      "source": "ESPN",
+      "published_at": "2026-11-16T01:40:35+00:00",
+      "summary": "Coach Luis de la Fuente said Spain were \"overwhelmed\" in the early stages of Sunday's 3-2 UEFA Nations League defeat to England, but backed his team to return stronger after seeing their three-year unbeaten run come to an end.",
+      "teams": [
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "dc06f04b42ee",
+      "title": "Tenerife pay tribute to De Miguel in first match since his death",
+      "url": "https://www.espn.com/soccer/story/_/id/50491662/tenerife-tribute-jesus-de-miguel-first-match-death",
+      "source": "ESPN",
+      "published_at": "2026-11-16T01:40:35+00:00",
+      "summary": "Spanish soccer club Tenerife on Sunday paid tribute to Jesús de Miguel in its first game since the striker's death, with midfielder Nacho Gil holding up De Miguel's jersey after scoring his team's opening goal shortly before halftime.",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d96d14877671",
+      "title": "Mexico on brink of missing Nations League semis after loss to Jamaica",
+      "url": "https://www.espn.com/soccer/story/_/id/50492105/mexico-nations-league-semifinals-loss-jamaica",
+      "source": "ESPN",
+      "published_at": "2026-11-16T01:40:35+00:00",
+      "summary": "Jamaica stunned Mexico 3-2 on Saturday to move within reach of the Concacaf Nations League semifinals and add to Mexico's struggles under new coach Rafael Márquez.",
+      "teams": [
+        "Mexico"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "14a93c61efa3",
+      "title": "Dual-national Julian Hall officially tied to USMNT with appearance vs. Haiti",
+      "url": "https://www.espn.com/soccer/story/_/id/50482590/julian-hall-usa-poland-haiti-fifa-nations-league-concacaf",
+      "source": "ESPN",
+      "published_at": "2026-11-16T01:40:35+00:00",
+      "summary": "Teenage forward Julian Hall is now cap-tied to the U.S. men's national team, after starting Saturday's Concacaf Nations League quarterfinal against Haiti.",
+      "teams": [
+        "Haiti",
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "861d8ab8a621",
+      "title": "Brazil great Ronaldinho, 46, subbed at half in return for Serie C's Ravenna",
+      "url": "https://www.espn.com/soccer/story/_/id/50491487/ronaldinho-comeback-300-goals-ravenna-serie-c",
+      "source": "ESPN",
+      "published_at": "2026-11-16T01:40:35+00:00",
+      "summary": "Ronaldinho failed to secure his elusive 300th career goal after returning to professional football aged 46.",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "6f3bcaebd581",
+      "title": "⌚ USMNT's Folarin Balogun does 'Dame Time' celebration after goal vs. Haiti",
+      "url": "https://www.espn.com/soccer/story/_/id/50487187/usmnt-folarin-balogun-dame-celebration",
+      "source": "ESPN",
+      "published_at": "2026-11-16T01:40:35+00:00",
+      "summary": "After the star forward found the back of the net against Haiti, he had a specific celebration in mind: Damian Lillard's iconic \"Dame Time\" motion.",
+      "teams": [
+        "Haiti",
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ddf9ab660cca",
+      "title": "How did England cling on against Spain and what did Tuchel do differently?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6742l4z91lwo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-16T00:02:22+00:00",
+      "summary": "Trying to protect a lead in the closing stages, England have been here before - so how did they cling on against Spain?",
+      "teams": [
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "963690083af9",
+      "title": "60 minutes of perfection, 30 minutes of chaos - an England win for the ages",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c933ge310n33o",
+      "source": "BBC Sport",
+      "published_at": "2026-11-15T23:52:43+00:00",
+      "summary": "England's stunning win in Spain had everything - and was their best under Thomas Tuchel, writes Phil McNulty.",
+      "teams": [
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d36d2aeea29b",
+      "title": "Three Lions’ win over Spain comes in two acts: the first superb, the second heroic | Sid Lowe",
+      "url": "https://www.theguardian.com/football/2026/nov/15/england-superb-heroic-spain-nations-league",
+      "source": "The Guardian",
+      "published_at": "2026-11-15T23:50:31+00:00",
+      "summary": "Visitors take game to world champions and, though their hold on possession plummets, their rearguard is outstanding In the final, absurdly tense moments before England finally did it and Spain finally fell, when Dan Burn had been sent on to do Dan Burn things, when the board had ",
+      "teams": [
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "db1009e9b93b",
+      "title": "England's win over Spain is the statement Tuchel's team have been waiting for",
+      "url": "https://www.espn.com/soccer/story/_/id/50494867/england-spain-nations-league-win-tuchel",
+      "source": "ESPN",
+      "published_at": "2026-11-15T23:18:41+00:00",
+      "summary": "England ended Spain's 43-match unbeaten run with a statement win that gives Thomas Tuchel renewed belief his side can finally deliver on the biggest stage.",
+      "teams": [
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8a3ac4ecc123",
+      "title": "Football Daily",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pn5rdk",
+      "source": "BBC Sport",
+      "published_at": "2026-11-15T23:16:00+00:00",
+      "summary": "Reaction to England’s 3-2 win over Spain in the Nations League.",
+      "teams": [
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1363e8c80b17",
+      "title": "USMNT players embody Pochettino's legacy in dominant win over Haiti",
+      "url": "https://www.espn.com/soccer/story/_/id/50481434/usmnt-mauricio-pochettino-legacy-haiti",
+      "source": "ESPN",
+      "published_at": "2026-11-15T22:59:52+00:00",
+      "summary": "Mauricio Pochettino reset the culture within the USMNT. In Saturday's 6-0 win over Haiti, his players demonstrated that they intend to carry on his ideals.",
+      "teams": [
+        "Haiti",
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "401683ce9621",
+      "title": "USMNT player ratings: Pulisic earns 9/10 for brace in win over Haiti",
+      "url": "https://www.espn.com/soccer/story/_/id/50481405/usmnt-player-ratings-pulisic-haiti",
+      "source": "ESPN",
+      "published_at": "2026-11-15T22:59:52+00:00",
+      "summary": "Christian Pulisic scored twice in the Americans' dominant 6-0 win over Haiti on Saturday.",
+      "teams": [
+        "Haiti",
+        "USA"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "8b4c6264d7c4",
       "title": "Who swaggered around like he owned the place? Spain v England ratings",
@@ -24,7 +204,7 @@
       "url": "https://www.theguardian.com/football/2026/nov/15/spain-england-nations-league-match-report",
       "source": "The Guardian",
       "published_at": "2026-11-15T21:56:41+00:00",
-      "summary": "It was the game to show Thomas Tuchel where his rebooted England team had got to; surely the ultimate test in international football. Spain in Spain. A world champion team who, in Tuchel’s words, had “forgotten how to lose”. Before this Nations League tie, they had been beaten on",
+      "summary": "It was the game to show Thomas Tuchel where his rebooted England team had got to; surely the ultimate test in international football. Spain in Spain. A world champion team who, in Tuchel’s words, had “forgotten how to lose.” Before this Nations League group decider, they had been",
       "teams": [
         "Spain",
         "Portugal",
@@ -294,19 +474,6 @@
       "is_injury_related": false
     },
     {
-      "id": "699f6f05e83b",
-      "title": "De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain",
-      "url": "https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country",
-      "source": "The Guardian",
-      "published_at": "2026-11-14T08:00:40+00:00",
-      "summary": "Head coach hits out at ‘lies’ as suggestions of preferential treatment for young star overshadow preparations for England game in Madrid From the London Palladium to Madrid’s Metropolitano, they’re all here. On Sunday night, the footballers who lifted the game’s biggest awards me",
-      "teams": [
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "f7ca7a2491a6",
       "title": "Six goals to go - will McGinn catch Dalglish & Law?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cke89156y10zo",
@@ -390,20 +557,6 @@
       "summary": "Argentinian oversaw high-scoring games in his one Chelsea season and Opta predicts his Manchester United side will move upfield quicker than that team Among the 20 managers with more than 290 matches in the Premier League, only the five “ big beasts ” of Alex Ferguson, Arsène Wen",
       "teams": [
         "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "71e9540882f0",
-      "title": "Nations League: Italy roar back to beat France despite Donnarumma’s early howler",
-      "url": "https://www.theguardian.com/football/2026/nov/12/nations-league-italy-france-spain-czechia",
-      "source": "The Guardian",
-      "published_at": "2026-11-12T22:31:35+00:00",
-      "summary": "Loss is Zinedine Zidane’s first as France head coach Spain beat Czechia 2-0 to maintain 100% record Pio Esposito struck twice to inflict a first defeat on Zinedine Zidane as France head coach as Italy stormed back to win 3-1 at San Siro and go top of their Nations League group. M",
-      "teams": [
-        "Czech Republic",
-        "Spain",
-        "France"
       ],
       "is_injury_related": false
     },
