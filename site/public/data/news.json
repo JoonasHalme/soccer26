@@ -1,25 +1,120 @@
 {
-  "generated_at": "2026-11-16T20:57:53.695247+00:00",
+  "generated_at": "2026-11-17T03:45:22.075490+00:00",
   "sources": [
     "BBC Sport",
-    "The Guardian",
-    "ESPN"
+    "The Guardian"
   ],
   "items": [
     {
-      "id": "872733b6e043",
-      "title": "Switzerland v Scotland, Germany v Netherlands, and more: Nations League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/16/switzerland-v-scotland-germany-v-netherlands-and-more-nations-league-live",
+      "id": "e9be59f1580c",
+      "title": "What's the story with Scotland boss Pocognoli - is it time to go?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o",
+      "source": "BBC Sport",
+      "published_at": "2026-11-17T00:19:58+00:00",
+      "summary": "The sense of drift in this Scotland team can't go on much longer. Is it too late for Sebastien Pocognoli to win back players and fans?",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "41202ff6538c",
+      "title": "Swansea braced to lose Vítor Matos as Strasbourg seek to replace Hugo Oliveira",
+      "url": "https://www.theguardian.com/football/2026/nov/16/swansea-city-head-coach-vitor-matos-strasbourg-chelsea-sister-club-ligue-1",
       "source": "The Guardian",
-      "published_at": "2026-11-16T20:49:30+00:00",
-      "summary": "⚽️ Nations League updates from the 7.45pm GMT kick-offs ⚽️ Live scoreboard | Follow us on Bluesky | And mail Will Thomas Tuchel believes winning the Nations League would can provide England with the springboard to Euro 2028 glory. The head coach watched his team close out the cal",
+      "published_at": "2026-11-16T23:32:23+00:00",
+      "summary": "Matos has indicated a desire for move to Ligue 1 Championship club would be due compensation Swansea City are increasingly resigned to their head coach, Vítor Matos, joining Strasbourg after he indicated a desire to join Chelsea’s sister club. The Ligue 1 club have approached Swa",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "fe233e150494",
+      "title": "Pocognoli wants patience but Scotland 'don't have time' says Robertson",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwnv432qy0l1o",
+      "source": "BBC Sport",
+      "published_at": "2026-11-16T22:36:26+00:00",
+      "summary": "Angry captain Andy Robertson says Scotland do not have time to turn things around after a brutal 4-0 defeat by Switzerland consigns them to a third-place finish in their Nations League group.",
       "teams": [
         "Switzerland",
-        "Scotland",
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1dcfdaa97df3",
+      "title": "Nations League: Wirtz doubles up as Germany rout Netherlands to top group",
+      "url": "https://www.theguardian.com/football/2026/nov/16/nations-league-roundup-germany-netherlands-greece-serbia",
+      "source": "The Guardian",
+      "published_at": "2026-11-16T22:33:26+00:00",
+      "summary": "Jürgen Klopp’s side make statement with 5-0 triumph Dutch advance, Greece miss out despite win over Serbia Florian Wirtz scored twice as Germany delivered a 5-0 rout of the Netherlands in Berlin on Monday, reaching the Nations League quarter-finals as group winners. Brajan Gruda ",
+      "teams": [
         "Germany",
-        "Netherlands",
+        "Netherlands"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "6473c21ac9ac",
+      "title": "Watch as Scotland slump to 4-0 defeat in Switzerland",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmp3e19v734wo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-16T22:14:34+00:00",
+      "summary": "Watch the highlights as Scotland lose 4-0 to Switzerland in the Nations League in St Gallen.",
+      "teams": [
+        "Switzerland",
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "fbb3151ebc82",
+      "title": "Switzerland roll over sorry Scotland to increase the pressure on Pocognoli",
+      "url": "https://www.theguardian.com/football/2026/nov/16/switzerland-scotland-nations-league-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-11-16T21:53:32+00:00",
+      "summary": "A match that should have been about 103 was instead about four. Andy Robertson is due acclaim for becoming the most capped player in Scotland’s history but how the full-back will wish the moment had arrived in different circumstances. A second-string Switzerland team pulled Scotl",
+      "teams": [
+        "Switzerland",
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "5cddb7f9893a",
+      "title": "Football Daily",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pnbcy5",
+      "source": "BBC Sport",
+      "published_at": "2026-11-16T21:14:00+00:00",
+      "summary": "Was England 3-2 Spain Tuchel's best win yet? And is Trafford primed to be new number one?",
+      "teams": [
         "Spain",
         "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "2a5d4f27d8a2",
+      "title": "Portugal boss responds to criticism from Ronaldo's mum",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck87984g3x1po",
+      "source": "BBC Sport",
+      "published_at": "2026-11-16T21:08:06+00:00",
+      "summary": "Jorge Jesus responds to claims by Cristiano Ronaldo's mother, Dolores Aveiro, that her son had been \"deceived\" by the Portugal manager.",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "035149dddf46",
+      "title": "Swansea in fight to keep Matos amid Strasbourg interest",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-16T21:01:50+00:00",
+      "summary": "Vitor Matos has emerged as a target for French top-flight club Strasbourg who could soon part ways with Hugo Oliveira.",
+      "teams": [
+        "France"
       ],
       "is_injury_related": false
     },
@@ -51,87 +146,14 @@
       "is_injury_related": false
     },
     {
-      "id": "62d973ec9637",
-      "title": "Pochettino won't be drawn on U.S. players he might bring to Manchester United",
-      "url": "https://www.espn.com/soccer/story/_/id/50502495/pochettino-not-speculate-us-players-man-united",
-      "source": "ESPN",
-      "published_at": "2026-11-16T19:07:11+00:00",
-      "summary": "USMNT coach Mauricio Pochettino declined to be drawn into speculation on whether he would recruit players from the USMNT for his new job with Manchester United.",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "fdbc4e347d4d",
-      "title": "Jorge Jesus under fire as Ronaldo's mom blasts Portugal over tribute",
-      "url": "https://www.espn.com/soccer/story/_/id/50503146/jorge-jesus-controversy-ronaldo-mom-portugal-tribute",
-      "source": "ESPN",
-      "published_at": "2026-11-16T19:07:11+00:00",
-      "summary": "Portugal boss Jorge Jesus defended himself from comments made by Cristiano Ronaldo's mother Dolores Aveiro.",
-      "teams": [
-        "Portugal"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "854faa44c4a1",
-      "title": "Pochettino: I hope new USMNT coach forges same link with players",
-      "url": "https://www.espn.com/soccer/story/_/id/50502461/pochettino-new-usmnt-coach-forges-same-link-players",
-      "source": "ESPN",
-      "published_at": "2026-11-16T19:07:11+00:00",
-      "summary": "Outgoing USMNT coach Mauricio Pochettino said he hopes next USMNT coach will forge the same links with players.",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "7b82772cd9ce",
-      "title": "French Football Federation boss Diallo to challenge Infantino for FIFA presidency",
-      "url": "https://www.espn.com/soccer/story/_/id/50501932/fifa-uefa-gianni-infantino-philippe-diallo-fff",
-      "source": "ESPN",
-      "published_at": "2026-11-16T19:07:11+00:00",
-      "summary": "French Football Federation president Philippe Diallo will challenge Gianni Infantino for the top job at FIFA next year.",
-      "teams": [
-        "France"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "65eeb28ab4f9",
-      "title": "Klopp calls FIFA president Infantino 'worse' than Blatter",
-      "url": "https://www.espn.com/soccer/story/_/id/50500212/jurgen-klopp-fifa-president-gianni-infantino-sepp-blatter",
-      "source": "ESPN",
-      "published_at": "2026-11-16T19:07:11+00:00",
-      "summary": "Germany coach Jürgen Klopp hopes that embattled Giovanni Infantino is replaced as FIFA president.",
-      "teams": [
-        "Germany"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "d9c4fb44f144",
-      "title": "USWNT to play Panama Jan. 12 in first match of World Cup year",
-      "url": "https://www.espn.com/soccer/story/_/id/50501943/uswnt-vs-panama-jan-12-first-match-world-cup-year",
-      "source": "ESPN",
-      "published_at": "2026-11-16T19:07:11+00:00",
-      "summary": "The USWNT will play its first match of a World Cup year against Panama on Jan. 12 at Dignity Healthy Sports Park in Carson, California.",
-      "teams": [
-        "Panama"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "49413e55bc4d",
-      "title": "Mauricio Pochettino sends coaches to Manchester to help prepare for United job",
-      "url": "https://www.theguardian.com/football/2026/nov/16/mauricio-pochettino-assistants-manchester-united-usmnt",
+      "id": "58ce81698129",
+      "title": "‘We want to win it’: Tuchel says Nations League can set up England for Euro 2028 glory",
+      "url": "https://www.theguardian.com/football/2026/nov/16/england-winning-nations-league-euro-2028-thomas-tuchel",
       "source": "The Guardian",
-      "published_at": "2026-11-16T18:29:04+00:00",
-      "summary": "Assistant Jesús Pérez and two others depart US early Pochettino to begin as United head coach on Wednesday Mauricio Pochettino has sent key members of his coaching staff to England in an early move to prepare for his role as Manchester United’s new head coach while he gets set ",
+      "published_at": "2026-11-16T19:00:51+00:00",
+      "summary": "Winning Nations League ‘the best preparation’ for Euros England to be seeded in Friday’s draw after Spain win Thomas Tuchel believes winning the Nations League would provide England with the springboard to Euro&nbsp;2028 glory. The head coach watched his team close out the calend",
       "teams": [
-        "Haiti",
-        "USA",
+        "Spain",
         "England"
       ],
       "is_injury_related": false
@@ -227,57 +249,6 @@
       "is_injury_related": false
     },
     {
-      "id": "db1009e9b93b",
-      "title": "England's win over Spain is the statement Tuchel's team has been waiting for",
-      "url": "https://www.espn.com/soccer/story/_/id/50494867/england-spain-nations-league-win-tuchel",
-      "source": "ESPN",
-      "published_at": "2026-11-16T15:36:31+00:00",
-      "summary": "England ended Spain's 43-match unbeaten run with a statement win that gives Thomas Tuchel renewed belief his side can finally deliver on the biggest stage.",
-      "teams": [
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "6b42ab9ea090",
-      "title": "Transfer rumors, news: Man United eye USMNT's McKennie amid Pochettino arrival",
-      "url": "https://www.espn.com/soccer/story/_/id/50499498/transfer-rumors-news-usmnt-pochettino-mckennie-man-united",
-      "source": "ESPN",
-      "published_at": "2026-11-16T15:36:19+00:00",
-      "summary": "Incoming Manchester United boss Mauricio Pochettino is eyeing a quick reunion with USMNT midfielder Weston McKennie. Transfer Talk has the latest.",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "2e4ea2ab1524",
-      "title": "Who should be the USMNT's coaching candidates to succeed Mauricio Pochettino?",
-      "url": "https://www.espn.com/soccer/story/_/id/50464388/usmnt-coaching-candidates-replace-mauricio-pochettino",
-      "source": "ESPN",
-      "published_at": "2026-11-16T15:36:12+00:00",
-      "summary": "Mauricio Pochettino's USMNT tenure ends after Tuesday's Nations League quarterfinal vs. Haiti, so who should U.S. Soccer be eyeing to replace him?",
-      "teams": [
-        "Haiti",
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "1363e8c80b17",
-      "title": "USMNT players embody Pochettino's legacy in dominant win over Haiti",
-      "url": "https://www.espn.com/soccer/story/_/id/50481434/usmnt-mauricio-pochettino-legacy-haiti",
-      "source": "ESPN",
-      "published_at": "2026-11-16T15:36:11+00:00",
-      "summary": "Pochettino reset the culture within the USMNT. Saturday showed his players intend to carry on his ideals.",
-      "teams": [
-        "Haiti",
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "f08c017668fe",
       "title": "French football head Philippe Diallo to fight Infantino for Fifa presidency",
       "url": "https://www.theguardian.com/football/2026/nov/16/philippe-diallo-fifa-gianni-infantino-president-french-football-federation",
@@ -290,20 +261,8 @@
       "is_injury_related": false
     },
     {
-      "id": "de2ec699169d",
-      "title": "Concacaf W Championship: How USWNT can qualify for World Cup, matchups, format",
-      "url": "https://www.espn.com/soccer/story/_/id/50474392/concacaf-w-championship-uswnt-world-cup-qualification",
-      "source": "ESPN",
-      "published_at": "2026-11-16T14:16:41+00:00",
-      "summary": "The United States can seal its place at the 2027 Women's World Cup at the Concacaf W Championship. Here's everything you need to know.",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "908b2fa60d62",
-      "title": "Familiarity of Doha drives home just how far Socceroos have come in recent years",
+      "title": "Familiarity of Doha drives home just how far Socceroos have come in recent years | Joey Lynch",
       "url": "https://www.theguardian.com/football/blog/2026/nov/16/doha-socceroos-return-stronger-after-asian-cup-heartbreak",
       "source": "The Guardian",
       "published_at": "2026-11-16T14:00:19+00:00",
@@ -388,18 +347,6 @@
       "is_injury_related": false
     },
     {
-      "id": "82e10b205677",
-      "title": "Meet Como's Nico Paz, the heir to Lionel Messi's No. 10 shirt for Argentina",
-      "url": "https://www.espn.com/soccer/story/_/id/50460862/nico-paz-como-argentina-lionel-messi",
-      "source": "ESPN",
-      "published_at": "2026-11-16T09:02:57+00:00",
-      "summary": "Como's Nico Paz has become one of the best young players in Europe, but now he faces the unenviable task of stepping into Lionel Messi's Argentina No. 10 shirt.",
-      "teams": [
-        "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "7dbfbfca1f46",
       "title": "Watch: Partick Thistle & Ross County stretch leads as Clyde hit six",
       "url": "https://www.bbc.co.uk/sport/football/videos/cky8699zd79lo",
@@ -407,19 +354,6 @@
       "published_at": "2026-11-16T08:02:51+00:00",
       "summary": "Watch the best of the action from the weekend in the Scottish Professional Football league as Partick Thistle stretch their lead in the Championship, Ross County win their top-of-the table head-to-head in League 1 and Clyde hit six to keep pace with Stranraer in League 2.",
       "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "fcdaaf3bd789",
-      "title": "Listen: Scotland’s Swiss test and who is Aberdeen’s new boss?",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pn6v34",
-      "source": "BBC Sport",
-      "published_at": "2026-11-16T08:00:00+00:00",
-      "summary": "Can Scotland show progress against Switzerland and what awaits Aberdeen under Frick?",
-      "teams": [
-        "Switzerland",
         "Scotland"
       ],
       "is_injury_related": false
@@ -433,19 +367,6 @@
       "summary": "Homophobia and transphobia are on the rise in English football, with new data revealing record numbers of discrimination reports in the game - so what is the Premier League doing about it?",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "420282023154",
-      "title": "Is Scotland's system limiting Gannon-Doak's threat?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c64gnpvdld40o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-16T07:09:40+00:00",
-      "summary": "As Scotland prepare to conclude their Nations League group campaign in Switzerland, there are concerns about how new head coach Sebastien Pocognoli is utilising one of his most exciting assets.",
-      "teams": [
-        "Switzerland",
-        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -489,19 +410,6 @@
       "is_injury_related": true
     },
     {
-      "id": "8a3ac4ecc123",
-      "title": "Football Daily",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pn5rdk",
-      "source": "BBC Sport",
-      "published_at": "2026-11-15T23:16:00+00:00",
-      "summary": "Reaction to England’s 3-2 win over Spain in the Nations League.",
-      "teams": [
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "5f9fbb9d3c30",
       "title": "Ronaldinho makes comeback in Ravenna win",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo",
@@ -526,18 +434,6 @@
       "is_injury_related": true
     },
     {
-      "id": "4bfb385fd72f",
-      "title": "Why 'inspiring' Van Gaal influences Scotland head coach Pocognoli",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw1mdl14dzx8o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-15T17:56:57+00:00",
-      "summary": "Scotland head coach Sebastien Pocognoli says he draws on the influence of iconic manager Louis van Gaal in his own coaching career.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "01f82ca7c6b1",
       "title": "Chapecoense air crash survivor wins promotion in final game",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckp8017p1e3go",
@@ -550,24 +446,24 @@
       "is_injury_related": false
     },
     {
+      "id": "dcf6746aea42",
+      "title": "Record-breaking Andy Robertson is Scotland’s finest captain",
+      "url": "https://www.theguardian.com/football/2026/nov/15/record-breaking-andy-robertson-is-scotlands-finest-captain",
+      "source": "The Guardian",
+      "published_at": "2026-11-15T12:00:16+00:00",
+      "summary": "As he passes Kenny Dalglish’s appearance total, it is important to remember that it is the left-back’s journey that sets him apart Andy Robertson may not be Scotland’s greatest player, but he is indisputably their finest captain. It counts as sacrilege, even to generations who ha",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "2a04d814d39f",
       "title": "Terry Butcher: ‘I’ve learned to live with the Hand of God goal better’",
       "url": "https://www.theguardian.com/football/2026/nov/15/terry-butcher-ive-learned-to-live-with-the-hand-of-god-goal-better",
       "source": "The Guardian",
       "published_at": "2026-11-15T08:00:09+00:00",
       "summary": "The former England centre-back answers your questions on Diego Maradona, Bobby Robson and on staying in strange places “Have you made up all these on your own?” asks Terry Butcher, sitting in a London office in the week he is presented with his England legacy cap. It turns out do",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "121a3e9ae010",
-      "title": "Respect? Exposure? Why England's star names are going abroad",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckdd17mq2pvmo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-15T06:25:41+00:00",
-      "summary": "Harry Kane, Jude Bellingham and Anthony Gordon are three of England's current biggest stars, but all have chosen to play their club football abroad.",
       "teams": [
         "England"
       ],
@@ -623,17 +519,14 @@
       "is_injury_related": false
     },
     {
-      "id": "1101fde37311",
-      "title": "Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat",
-      "url": "https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark",
+      "id": "edc07cd8e729",
+      "title": "Portugal did the extraordinary with Cristiano Ronaldo. Can they do it without him?",
+      "url": "https://www.theguardian.com/football/2026/nov/14/portugal-cristiano-ronaldo-football-memories-future",
       "source": "The Guardian",
-      "published_at": "2026-11-14T13:07:33+00:00",
-      "summary": "Brazil loss in Singapore marred by unruly end to friendly Argentina beaten 2-1 by Uruguay in Buenos Aires Raphinha was sent off as Brazil crashed to a 3-2 defeat by Japan in their international friendly in Singapore. The Barcelona captain had been substituted after 71 minutes, bu",
+      "published_at": "2026-11-14T06:53:23+00:00",
+      "summary": "The captain, the talisman, the brand: former teammates and experts discuss Portugal entering a new era after 23 years There are days football fans hope will never come. For Portugal, this is one of them. For 23 years, Cristiano Ronaldo has been more than the country’s greatest fo",
       "teams": [
-        "Brazil",
-        "Japan",
-        "Uruguay",
-        "Argentina"
+        "Portugal"
       ],
       "is_injury_related": false
     },
@@ -701,6 +594,19 @@
       "is_injury_related": true
     },
     {
+      "id": "17dbab5c6748",
+      "title": "Bone broth, sweets ban and acupuncture: Harry Kane’s road to record England cap",
+      "url": "https://www.theguardian.com/football/2026/nov/11/harry-kane-record-england-cap-bone-broth-sweets-ban-acupuncture",
+      "source": "The Guardian",
+      "published_at": "2026-11-11T06:00:32+00:00",
+      "summary": "Obsessive attention to detail is helping striker to reach new heights – and a 126th international appearance on Thursday It was Harry Kane’s dirty little secret. Something the England captain got up to after&nbsp;matches. He felt he deserved the indulgence. Yes,&nbsp;it can be re",
+      "teams": [
+        "Czech Republic",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "b5b3da5c696f",
       "title": "Sisters in Sweat: how a former Spurs player got 20,000 Indian women into sport",
       "url": "https://www.theguardian.com/football/2026/nov/10/sisters-in-sweat-indian-women-sport-moving-the-goalposts",
@@ -719,18 +625,6 @@
       "source": "The Guardian",
       "published_at": "2026-11-10T11:24:58+00:00",
       "summary": "Faye Carruthers is joined by Suzanne Wrack , Sophie Downey and Marva Kreel to discuss the weekend’s WSL action On the podcast today: It is a five-star performance from Manchester City as Bunny Shaw shines again, but a frustrating afternoon for Chelsea as they are held to a draw b",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "d26433535b65",
-      "title": "Manchester City’s weaknesses under Enzo Maresca are being exposed",
-      "url": "https://www.theguardian.com/football/2026/nov/09/manchester-city-enzo-maresca-premier-league",
-      "source": "The Guardian",
-      "published_at": "2026-11-09T16:30:13+00:00",
-      "summary": "After three straight defeats, City’s manager says he will use the international break to reassess. Their problems may go beyond tactics Sign up for our free newsletter here Enzo Maresca seemed, if not quite baffled by his side’s Saturday defeat to Nottingham Forest, then at least",
       "teams": [
         "England"
       ],
@@ -769,21 +663,6 @@
       "summary": "Teenage ultras are increasingly causing disorder and communities fear it will not be long before it becomes something more dangerous It is five past three on Saturday afternoon and the teenage ultras of Hednesford Town are running late. They have arrived in Chester for their team",
       "teams": [
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "e1161a197a1d",
-      "title": "Billions in revenue proves Fifa right on the World Cup – but only on things it cares about",
-      "url": "https://www.theguardian.com/football/2026/nov/04/fifa-world-cup-billions-revenue",
-      "source": "The Guardian",
-      "published_at": "2026-11-04T19:02:48+00:00",
-      "summary": "The 2026 edition of the tournament brought in untold amounts of money to Gianni Infantino’s governing body The total hasn’t entirely stopped rising yet, still clicking away towards a final tally. Still, Fifa has already announced that it surpassed its own lofty revenue projection",
-      "teams": [
-        "Mexico",
-        "Canada",
-        "Qatar",
-        "USA"
       ],
       "is_injury_related": false
     }
