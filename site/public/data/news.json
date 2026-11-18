@@ -1,10 +1,62 @@
 {
-  "generated_at": "2026-11-17T22:15:14.856006+00:00",
+  "generated_at": "2026-11-18T04:13:24.915236+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "66ae9a627b55",
+      "title": "Bellamy convinced of Wales credentials despite defeat by Portugal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn507wn6gg3o",
+      "source": "BBC Sport",
+      "published_at": "2026-11-17T23:37:45+00:00",
+      "summary": "Wales finished bottom of their Nations League group, but boss Craig Bellamy believes his team showed they belong in the top flight.",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "fb265c9092fe",
+      "title": "Nations League roundup: Devenny’s divine strike lifts Northern Ireland to top tier",
+      "url": "https://www.theguardian.com/football/2026/nov/17/nations-league-northern-ireland-hungary-norway-denmark",
+      "source": "The Guardian",
+      "published_at": "2026-11-17T23:35:42+00:00",
+      "summary": "Haaland’s late penalty grabs Norway last-eight spot Parrott penalties help Republic of Ireland secure playoff A wonder strike from Justin Devenny earned Northern Ireland top spot in Nations League Group B2 and promotion to the top tier of the competition. The Stoke player fired h",
+      "teams": [
+        "Norway"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "c7e9917dcc0c",
+      "title": "Senegal and Morocco lead Afcon qualifiers but Tunisia protest",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5evrgrvw1ezo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-17T22:54:51+00:00",
+      "summary": "Senegal, Cameroon and Morocco qualify for the 2027 Africa Cup of Nations, but Nigeria are in trouble, and struggling Tunisia fail with an impassioned penalty protest.",
+      "teams": [
+        "Morocco",
+        "Tunisia",
+        "Senegal"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "a06b37663931",
+      "title": "Portugal’s new No 7 Forbs channels Ronaldo for winner as Wales are denied",
+      "url": "https://www.theguardian.com/football/2026/nov/17/wales-portugal-nations-league-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-11-17T22:14:37+00:00",
+      "summary": "One way or another, Portugal’s No 7 shirt has caused quite the commotion in recent weeks and months, if not years. Perhaps it was inevitable, then, that the first win of the post-Cristiano Ronaldo era would come courtesy of the player wearing the updated jersey, one with a cross ",
+      "teams": [
+        "Bosnia & Herzegovina",
+        "Switzerland",
+        "Portugal"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "84d6a28b6d55",
       "title": "Highlights: Ten-man Portugal beat Wales to top group",
@@ -12,18 +64,6 @@
       "source": "BBC Sport",
       "published_at": "2026-11-17T21:56:04+00:00",
       "summary": "Watch the best of the action as Portugal beat Wales in the Nations League in Cardiff.",
-      "teams": [
-        "Portugal"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "a06b37663931",
-      "title": "Portugal’s new No 7 Forbs channels Ronaldo for winner as Wales finish bottom of group",
-      "url": "https://www.theguardian.com/football/2026/nov/17/wales-portugal-nations-league-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-11-17T21:46:16+00:00",
-      "summary": "One way or another, Portugal’s No 7 shirt has caused quite the commotion in recent weeks and months, if not years. Perhaps it was inevitable, then, that the first win of the post-Cristiano Ronaldo era would come courtesy of the player wearing the updated jersey, one with a cross ",
       "teams": [
         "Portugal"
       ],
@@ -54,19 +94,6 @@
         "Jordan"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "c7e9917dcc0c",
-      "title": "Senegal become first side to book Afcon 2027 spot",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5evrgrvw1ezo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-17T18:56:27+00:00",
-      "summary": "Senegal become the first side to qualify for the 2027 Africa Cup of Nations, while Egypt miss the chance to join them and Nigeria suffer another setback.",
-      "teams": [
-        "Egypt",
-        "Senegal"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "3f5694d4eb2b",
@@ -103,6 +130,20 @@
         "England"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "68896b2f0563",
+      "title": "Pocognoli’s aspiration for how Scotland must play is in danger of becoming unworkable",
+      "url": "https://www.theguardian.com/football/2026/nov/17/sebastien-pocognoli-scotland-nations-league-switzerland",
+      "source": "The Guardian",
+      "published_at": "2026-11-17T16:59:54+00:00",
+      "summary": "The 4-0 debacle against Switzerland has added to the tactical concerns about the head coach’s suitability, just six games into the job The Scottish Football Association can only cling to a lesson from the past when assessing a worrying international window. Steve Clarke was belea",
+      "teams": [
+        "Switzerland",
+        "Scotland",
+        "Belgium"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "dfb76cdea8e7",
@@ -378,19 +419,6 @@
       "summary": "Jorge Jesus responds to claims by Cristiano Ronaldo's mother, Dolores Aveiro, that her son had been \"deceived\" by the Portugal manager.",
       "teams": [
         "Portugal"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f9538fabf990",
-      "title": "Robertson eclipses Dalglish to become Scotland's most capped man",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjp3v5r9enp1o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-16T19:43:33+00:00",
-      "summary": "Andy Robertson has taken over from Kenny Dalglish as Scotland's most-capped player, making his 103rd appearance in Monday's Nations League game against Switzerland.",
-      "teams": [
-        "Switzerland",
-        "Scotland"
       ],
       "is_injury_related": false
     },
