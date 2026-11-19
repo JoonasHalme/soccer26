@@ -1,10 +1,86 @@
 {
-  "generated_at": "2026-11-19T12:54:53.570286+00:00",
+  "generated_at": "2026-11-19T21:26:20.669974+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "575c10fd4d4f",
+      "title": "England fined for fans' anti-Catholic chants in Spain",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmlye2n7p7d9o",
+      "source": "BBC Sport",
+      "published_at": "2026-11-19T19:11:03+00:00",
+      "summary": "England are punished by Uefa following anti-Catholic chanting from the away fans during their Nations League victory in Spain.",
+      "teams": [
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d9d8445941d1",
+      "title": "Summer signings join Lionel Messi among MLS’s top earners: Takeaways from the league’s salary release",
+      "url": "https://www.theguardian.com/football/2026/nov/19/mls-salary-release-lionel-messi-spent-per-point",
+      "source": "The Guardian",
+      "published_at": "2026-11-19T18:01:17+00:00",
+      "summary": "How much in player salaries did it take to earn a point in the 2026 MLS regular season? The latest batch of salaries lends some insight Lionel Messi has closer company at the top of MLS’s list of highest-paid players, thanks to another pair of former Barcelona attackers. The Inte",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "dedf642de316",
+      "title": "All done deals from September-November 2026",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-19T17:54:30+00:00",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "a5168b5a3562",
+      "title": "Manager ins and outs - 2026-27",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-19T16:45:46+00:00",
+      "summary": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.",
+      "teams": [
+        "Scotland",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "4ba158fe7607",
+      "title": "Five return for Wales' World Cup play-off final",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c620535y8zpjo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-19T13:40:43+00:00",
+      "summary": "Ceri Holland is in the Wales squad for next month's Women's World Cup play-off final against Norway despite being out since September through injury.",
+      "teams": [
+        "Netherlands",
+        "Norway"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "0992d1362863",
+      "title": "Scotland smashed by the Swiss and Mauricio Pochettino takes charge | Football Weekly – video",
+      "url": "https://www.theguardian.com/football/video/2026/nov/19/scotland-smashed-by-the-swiss-and-mauricio-pochettino-takes-charge-football-weekly-video",
+      "source": "The Guardian",
+      "published_at": "2026-11-19T13:18:36+00:00",
+      "summary": "Max Rushden is joined by Barry Glendenning , Ali Maxwell , Dan Bardell and Ewan Murray to wrap up the latest international break and look ahead to the Premier League this weekend, including Liverpool v Manchester United Continue reading...",
+      "teams": [
+        "Switzerland",
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "5b873e675e53",
       "title": "Mauricio Pochettino calls for Manchester United to show no fear against Liverpool",
@@ -15,7 +91,7 @@
       "teams": [
         "Argentina"
       ],
-      "is_injury_related": false
+      "is_injury_related": true
     },
     {
       "id": "06bda472e4d0",
@@ -39,33 +115,6 @@
       "teams": [
         "Saudi Arabia",
         "Jordan"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "23d15db2b61e",
-      "title": "Race for the Fifa presidency: lineup revealed to challenge Gianni Infantino",
-      "url": "https://www.theguardian.com/football/2026/nov/19/fifa-president-election-philippe-diallo-kozo-tashima-challenge-gianni-infantino",
-      "source": "The Guardian",
-      "published_at": "2026-11-19T10:56:21+00:00",
-      "summary": "Philippe Diallo and Kozo Tashima are both standing But Ramon Vega fails to get the necessary backing Fifa has confirmed that Gianni Infantino will face challenges from Philippe Diallo of France and Japan’s Kozo Tashima in March’s presidential election. The president of the French",
-      "teams": [
-        "Switzerland",
-        "Japan",
-        "France"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "4ba158fe7607",
-      "title": "Five return for Wales' World Cup play-off final",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c620535y8zpjo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-19T10:00:07+00:00",
-      "summary": "Ceri Holland is in the Wales squad for next month's Women's World Cup play-off final against Norway despite being out since September through injury.",
-      "teams": [
-        "Netherlands",
-        "Norway"
       ],
       "is_injury_related": true
     },
@@ -119,42 +168,6 @@
         "Argentina"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "0f5ee0fc279d",
-      "title": "Mauricio Pochettino’s USMNT time will be remembered fondly, but it wasn’t transformational",
-      "url": "https://www.theguardian.com/football/2026/nov/18/pochettino-usmnt-manchester-united",
-      "source": "The Guardian",
-      "published_at": "2026-11-18T18:00:04+00:00",
-      "summary": "The incoming Manchester United manager improved the US team’s culture and competitiveness, but could not bring about sea change in two years In a theater high up in a midtown Manhattan skyscraper built from lots of glass, a highlight reel played to deafening music. And then, on “",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "22dca1fd093c",
-      "title": "Rooney revelations important - Bradford boss Duff",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvrlgke13e9go",
-      "source": "BBC Sport",
-      "published_at": "2026-11-18T17:52:23+00:00",
-      "summary": "Bradford boss Michael Duff praises former England captain Wayne Rooney for speaking out about the mental health struggles he had while playing.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "71c528c68e44",
-      "title": "From Dunfermline to Dubai - McPake on new life in Middle East",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6j9m1ygw427o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-18T17:06:29+00:00",
-      "summary": "James McPake has left Scottish football behind for the time being, plying his trade in coaching in Dubai.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "b5e753bb4d8f",
@@ -258,44 +271,6 @@
       "is_injury_related": false
     },
     {
-      "id": "66ae9a627b55",
-      "title": "Bellamy convinced of Wales credentials despite defeat by Portugal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmn507wn6gg3o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-17T23:37:45+00:00",
-      "summary": "Wales finished bottom of their Nations League group, but boss Craig Bellamy believes his team showed they belong in the top flight.",
-      "teams": [
-        "Portugal"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "fb265c9092fe",
-      "title": "Nations League roundup: Devenny’s divine strike lifts Northern Ireland to top tier",
-      "url": "https://www.theguardian.com/football/2026/nov/17/nations-league-northern-ireland-hungary-norway-denmark",
-      "source": "The Guardian",
-      "published_at": "2026-11-17T23:35:42+00:00",
-      "summary": "Haaland’s late penalty grabs Norway last-eight spot Parrott penalties help Republic of Ireland secure playoff A wonder strike from Justin Devenny earned Northern Ireland top spot in Nations League Group B2 and promotion to the top tier of the competition. The Stoke player fired h",
-      "teams": [
-        "Norway"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "a06b37663931",
-      "title": "Portugal’s new No 7 Forbs channels Ronaldo for winner as Wales are denied",
-      "url": "https://www.theguardian.com/football/2026/nov/17/wales-portugal-nations-league-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-11-17T22:14:37+00:00",
-      "summary": "One way or another, Portugal’s No 7 shirt has caused quite the commotion in recent weeks and months, if not years. Perhaps it was inevitable, then, that the first win of the post-Cristiano Ronaldo era would come courtesy of the player wearing the updated jersey, one with a cross ",
-      "teams": [
-        "Bosnia & Herzegovina",
-        "Switzerland",
-        "Portugal"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "84d6a28b6d55",
       "title": "Highlights: Ten-man Portugal beat Wales to top group",
       "url": "https://www.bbc.co.uk/sport/football/videos/cmwy8p49xp25o",
@@ -304,30 +279,6 @@
       "summary": "Watch the best of the action as Portugal beat Wales in the Nations League in Cardiff.",
       "teams": [
         "Portugal"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "161c6b089be6",
-      "title": "‘The game is in danger’: PFA head Maheta Molango on Fifa, Infantino and football’s future",
-      "url": "https://www.theguardian.com/football/2026/nov/17/pfa-maheta-molango-interview-fifa-gianni-infantino-interview",
-      "source": "The Guardian",
-      "published_at": "2026-11-17T20:00:20+00:00",
-      "summary": "At a potentially critical juncture for football, the PFA’s chief executive talks about the organisation, wider fears in the game and why the Folarin Balogun affair was ‘scandalous’ After five years in charge of the Professional Footballers’ Association, what has Maheta Molango le",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "4d9a81947017",
-      "title": "Wayne Rooney says he contemplated taking own life during playing career",
-      "url": "https://www.theguardian.com/football/2026/nov/17/wayne-rooney-contemplated-taking-own-life-during-playing-career-mental-health",
-      "source": "The Guardian",
-      "published_at": "2026-11-17T17:13:23+00:00",
-      "summary": "Former England footballer opens up on mental health ‘It was probably the lowest point’ at Manchester United Wayne Rooney has revealed there was a period in his Manchester United career where he contemplated taking his own life. The former England striker said that, even as he flo",
-      "teams": [
-        "England"
       ],
       "is_injury_related": false
     },
@@ -353,31 +304,6 @@
       "summary": "BBC Scotland picks its way through the permutations in Scotland's pursuit of Euro 2028 qualification.",
       "teams": [
         "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "0612e06d169e",
-      "title": "London City's Goodwin gets first England call-up",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr9d7pw90x14o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-17T11:06:33+00:00",
-      "summary": "London City Lionesses forward Izzy Goodwin is named in the England squad for the first time for the World Cup qualifying play-off against Ukraine.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "4c339b69e633",
-      "title": "Max Dowman shines in England colours and sends another record tumbling",
-      "url": "https://www.theguardian.com/football/2026/nov/17/max-dowman-england-under-21s-record-jude-bellingham",
-      "source": "The Guardian",
-      "published_at": "2026-11-17T10:13:45+00:00",
-      "summary": "Midfielder’s under-21s winner eclipsed Jude Bellingham’s mark and there was other talent to admire against France There may have been an Mbappé on the pitch – Ethan, the younger brother of Kylian, with whom he shares a near-identical gait – but by the end there was only one preco",
-      "teams": [
-        "France",
-        "England"
       ],
       "is_injury_related": false
     },
@@ -524,19 +450,6 @@
       "is_injury_related": false
     },
     {
-      "id": "963690083af9",
-      "title": "60 minutes of perfection, 30 minutes of chaos - an England win for the ages",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c933ge310n33o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-15T23:52:43+00:00",
-      "summary": "England's stunning win in Spain had everything - and was their best under Thomas Tuchel, writes Phil McNulty.",
-      "teams": [
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "2a04d814d39f",
       "title": "Terry Butcher: ‘I’ve learned to live with the Hand of God goal better’",
       "url": "https://www.theguardian.com/football/2026/nov/15/terry-butcher-ive-learned-to-live-with-the-hand-of-god-goal-better",
@@ -557,18 +470,6 @@
       "summary": "The coach’s tenure with the USMNT brought a whiplash of highs and lows. He met some goals but also left many with the impression he never truly bought in It did not take US men’s national team coach Mauricio Pochettino very long to take his first big swing. He’d just taken the re",
       "teams": [
         "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "dedf642de316",
-      "title": "All done deals from September-November 2026",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-13T17:21:23+00:00",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
