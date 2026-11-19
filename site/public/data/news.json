@@ -1,10 +1,47 @@
 {
-  "generated_at": "2026-11-18T21:53:01.568844+00:00",
+  "generated_at": "2026-11-19T03:17:56.698296+00:00",
   "sources": [
     "BBC Sport",
-    "The Guardian"
+    "The Guardian",
+    "ESPN"
   ],
   "items": [
+    {
+      "id": "52a19bf93adc",
+      "title": "USWNT's Emma Hayes on role in USMNT coach search: 'Through a technical lens'",
+      "url": "https://www.espn.com/soccer/story/_/id/50522474/uswnt-emma-hayes-role-usmnt-coach-search-technical-lens",
+      "source": "ESPN",
+      "published_at": "2026-11-19T01:42:42+00:00",
+      "summary": "USWNT coach Emma Hayes said that she's committed to helping with a thorough search for the next USMNT coach after the recent exit of Mauricio Pochettino.",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "4b89b98ca3f7",
+      "title": "Bay FC signs England defender Jess Carter from Gotham FC",
+      "url": "https://www.espn.com/soccer/story/_/id/50524100/bay-fc-signs-england-defender-jess-carter-gotham-fc",
+      "source": "ESPN",
+      "published_at": "2026-11-19T01:42:42+00:00",
+      "summary": "Jess Carter is trading the east coast for the west after signing a deal with Bay FC, the NWSL side announced Wednesday.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "82e10b205677",
+      "title": "⚽ Meet the heir to Messi's Argentina No. 10 shirt",
+      "url": "https://www.espn.com/soccer/story/_/id/50460862/nico-paz-como-argentina-lionel-messi",
+      "source": "ESPN",
+      "published_at": "2026-11-19T01:42:42+00:00",
+      "summary": "Como's Nico Paz has become one of the best young players in Europe, but now he faces the unenviable task of stepping into Lionel Messi's Argentina No. 10 shirt.",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "2d843f030c76",
       "title": "England defender Carter joins Bay FC after Gotham exit",
@@ -42,6 +79,42 @@
         "England"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "3991904212ee",
+      "title": "Pochettino gets a fitting, emotional send-off from USMNT",
+      "url": "https://www.espn.com/soccer/story/_/id/50516323/mauricio-pochettino-emotional-send-usmnt-manchester-united",
+      "source": "ESPN",
+      "published_at": "2026-11-18T19:24:08+00:00",
+      "summary": "No United States men's national team coach has ever left quite like this. Loved by players, celebrated by fans, and gone on his own terms.",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "3f5e5acfb6ff",
+      "title": "USMNT player ratings: Pulisic's stunning goal gives Poch the perfect farewell",
+      "url": "https://www.espn.com/soccer/story/_/id/50515831/usmnt-player-ratings-pulisic-haiti-pochettino-farewell",
+      "source": "ESPN",
+      "published_at": "2026-11-18T19:24:08+00:00",
+      "summary": "Christian Pulisic starred with a 9/10 rating as the USMNT gave Mauricio Pochettino a winning send-off.",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f602f82674b8",
+      "title": "Mr. Worldwide: Meet the Brazilian soccer star who's played for clubs on six continents",
+      "url": "https://www.espn.com/soccer/story/_/id/50461455/soccer-star-played-clubs-six-continents",
+      "source": "ESPN",
+      "published_at": "2026-11-18T19:23:29+00:00",
+      "summary": "Brazilian winger Sérgio Barboza has joined a very exclusive club by playing for teams in all six of world soccer's continental confederations.",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "e5c9f0f0e9f7",
@@ -93,6 +166,30 @@
       "is_injury_related": false
     },
     {
+      "id": "344f8f68a597",
+      "title": "Transfer rumors, news: Liverpool, Bayern battle for Gladbach teen Mohya",
+      "url": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya",
+      "source": "ESPN",
+      "published_at": "2026-11-18T16:43:20+00:00",
+      "summary": "Could Matthijs de Ligt end up leaving Manchester United for a move to Turkey? Transfer Talk has the latest.",
+      "teams": [
+        "Turkey"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ab55a505cd50",
+      "title": "Has Vini Jr. finally put summer transfer saga behind him? Real Madrid need him at his best",
+      "url": "https://www.espn.com/soccer/story/_/id/50505359/vinicius-junior-real-madrid-brazil-transfer",
+      "source": "ESPN",
+      "published_at": "2026-11-18T16:43:19+00:00",
+      "summary": "After a summer of transfer uncertainty and a sluggish start to the season, Vinícius Junior is on the comeback trail with Real Madrid and Brazil.",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
+    {
       "id": "77171583a222",
       "title": "USWNT squad: Emma Hayes names veteran group for Concacaf championship and World Cup qualifier",
       "url": "https://www.theguardian.com/football/2026/nov/18/uswnt-squad-concacaf-w-championship-world-cup-qualifier",
@@ -130,6 +227,20 @@
         "Scotland"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "fdd94ad1db5b",
+      "title": "World Cup 2030 Early Power Rankings: Spain still No. 1? No USMNT in top 15",
+      "url": "https://www.espn.com/soccer/story/_/id/50506499/soccer-world-cup-power-rankings-usmnt-spain",
+      "source": "ESPN",
+      "published_at": "2026-11-18T14:02:00+00:00",
+      "summary": "England's statement win over Spain has shaken up ESPN's World Cup Power Rankings, but our experts still back La Roja as the team to beat.",
+      "teams": [
+        "USA",
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "9776d7491306",
@@ -174,6 +285,30 @@
       "source": "The Guardian",
       "published_at": "2026-11-18T09:29:03+00:00",
       "summary": "Controversial breaks were financial boon for broadcasters Fifa flags possible benefits but says no decision made Fifa’s tender documents for TV rights for the 2030 World Cup include a provision for broadcasters to sell adverts during hydration breaks in a strong indication the co",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "5865e11fe2b4",
+      "title": "Why the USMNT doesn't need a Guardiola-tier manager after Pochettino",
+      "url": "https://www.espn.com/soccer/story/_/id/50502389/usmnt-pep-guardiola-mauricio-pochettino-manchester-city",
+      "source": "ESPN",
+      "published_at": "2026-11-18T08:59:30+00:00",
+      "summary": "The U.S. men say goodbye to Mauricio Pochettino and hope to attract Pep Guardiola as his replacement. But is a superstar coach what this team really needs?",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "2e4ea2ab1524",
+      "title": "Who should be the USMNT's coaching candidates to succeed Pochettino?",
+      "url": "https://www.espn.com/soccer/story/_/id/50464388/usmnt-coaching-candidates-replace-mauricio-pochettino",
+      "source": "ESPN",
+      "published_at": "2026-11-18T08:59:29+00:00",
+      "summary": "With Pochettino's USMNT tenure at an end, who should U.S. Soccer be eyeing to replace him?",
       "teams": [
         "USA"
       ],
@@ -433,6 +568,33 @@
       "is_injury_related": false
     },
     {
+      "id": "c299c530f2b1",
+      "title": "Thomas Frank’s to-do list: lift mood, fix defence and fire up Sarr and Mateta",
+      "url": "https://www.theguardian.com/football/2026/nov/17/thomas-frank-crystal-palace-pierre-sage-sacked-steve-parish",
+      "source": "The Guardian",
+      "published_at": "2026-11-17T08:00:08+00:00",
+      "summary": "Seeking redemption after failing at Spurs, newly installed Crystal Palace manager has a tough challenge ahead Thomas Frank promised his wife, Nanna, he would take a year’s sabbatical after being sacked by Tottenham in February , but he couldn’t wait that long. Having received a r",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "86d0cca05698",
+      "title": "Echoes of Azteca but not like Argentina: fearless England start afresh in Madrid",
+      "url": "https://www.theguardian.com/football/2026/nov/17/azteca-argentina-fearless-england-start-afresh-spain",
+      "source": "The Guardian",
+      "published_at": "2026-11-17T08:00:08+00:00",
+      "summary": "‘We will not go back on this way of playing,’ says Thomas Tuchel after he delivered response to World Cup critics Thomas Tuchel made defensive substitutions as England protected a lead. He finished with three centre-backs on the pitch. His team could not get out of their half in ",
+      "teams": [
+        "Mexico",
+        "Spain",
+        "Argentina",
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "e9be59f1580c",
       "title": "What's the story with Scotland boss Pocognoli - is it time to go?",
       "url": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o",
@@ -454,6 +616,21 @@
       "teams": [
         "Switzerland",
         "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "580c390138cb",
+      "title": "Spain in pain as historic run ends but De la Fuente feels best is yet to come",
+      "url": "https://www.theguardian.com/football/2026/nov/16/luis-de-la-fuente-spain-england-nations-league",
+      "source": "The Guardian",
+      "published_at": "2026-11-16T17:48:38+00:00",
+      "summary": "While the head coach, players and Spanish press were magnanimous in defeat, there was pride mixed in with disappointment – and confidence the future is still bright “With every game, defeat gets closer,” Luis de la Fuente had said and on Sunday night it finally came. Spain had lo",
+      "teams": [
+        "Scotland",
+        "Spain",
+        "Portugal",
+        "England"
       ],
       "is_injury_related": false
     },
@@ -508,15 +685,14 @@
       "is_injury_related": true
     },
     {
-      "id": "ddf9ab660cca",
-      "title": "How did England cling on against Spain and what did Tuchel do differently?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6742l4z91lwo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-16T00:02:22+00:00",
-      "summary": "Trying to protect a lead in the closing stages, England have been here before - so how did they cling on against Spain?",
+      "id": "dc8b7a5e1308",
+      "title": "Republic of Ireland have plenty of promise, but are unable to shake self-sabotage",
+      "url": "https://www.theguardian.com/football/2026/nov/16/republic-of-ireland-heimir-hallgrimsson-nations-league-kosovo",
+      "source": "The Guardian",
+      "published_at": "2026-11-16T11:30:56+00:00",
+      "summary": "Hopes of promotion remain alive, but another costly collapse has raised familiar questions before the decisive Nations League game with Kosovo The Republic of Ireland stand on the verge, although of what, nobody seems quite sure. Tuesday’s final Nations League group match, at hom",
       "teams": [
-        "Spain",
-        "England"
+        "Austria"
       ],
       "is_injury_related": false
     },
@@ -534,49 +710,12 @@
       "is_injury_related": false
     },
     {
-      "id": "d36d2aeea29b",
-      "title": "Three Lions’ win over Spain comes in two acts: the first superb, the second heroic | Sid Lowe",
-      "url": "https://www.theguardian.com/football/2026/nov/15/england-superb-heroic-spain-nations-league",
-      "source": "The Guardian",
-      "published_at": "2026-11-15T23:50:31+00:00",
-      "summary": "Visitors take game to world champions and, though their hold on possession plummets, their rearguard is outstanding In the final, absurdly tense moments before England finally did it and Spain finally fell, when Dan Burn had been sent on to do Dan Burn things, when the board had ",
-      "teams": [
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "dcf6746aea42",
-      "title": "Record-breaking Andy Robertson is Scotland’s finest captain",
-      "url": "https://www.theguardian.com/football/2026/nov/15/record-breaking-andy-robertson-is-scotlands-finest-captain",
-      "source": "The Guardian",
-      "published_at": "2026-11-15T12:00:16+00:00",
-      "summary": "As he passes Kenny Dalglish’s appearance total, it is important to remember that it is the left-back’s journey that sets him apart Andy Robertson may not be Scotland’s greatest player, but he is indisputably their finest captain. It counts as sacrilege, even to generations who ha",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "2a04d814d39f",
       "title": "Terry Butcher: ‘I’ve learned to live with the Hand of God goal better’",
       "url": "https://www.theguardian.com/football/2026/nov/15/terry-butcher-ive-learned-to-live-with-the-hand-of-god-goal-better",
       "source": "The Guardian",
       "published_at": "2026-11-15T08:00:09+00:00",
       "summary": "The former England centre-back answers your questions on Diego Maradona, Bobby Robson and on staying in strange places “Have you made up all these on your own?” asks Terry Butcher, sitting in a London office in the week he is presented with his England legacy cap. It turns out do",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "bdfd75bbc9ed",
-      "title": "AFC Wimbledon, a failed £87m investment bid and the challenge for fan ownership",
-      "url": "https://www.theguardian.com/football/2026/nov/15/afc-wimbledon-a-failed-87m-investment-bid-and-the-challenge-for-fan-ownership",
-      "source": "The Guardian",
-      "published_at": "2026-11-15T08:00:09+00:00",
-      "summary": "Clubs with wealthy proprietors can maintain a loss-making operation but things can be more complex when the supporters carry the can When you walk up from Haydons Road railway station to Plough Lane there is a blue AFC Wimbledon billboard that reads “Fan owned football”, directly",
       "teams": [
         "England"
       ],
