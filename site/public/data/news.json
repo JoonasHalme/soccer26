@@ -1,21 +1,82 @@
 {
-  "generated_at": "2026-11-20T20:03:26.039630+00:00",
+  "generated_at": "2026-11-21T01:26:47.001865+00:00",
   "sources": [
     "BBC Sport",
-    "The Guardian"
+    "The Guardian",
+    "ESPN"
   ],
   "items": [
     {
-      "id": "25b5938fe514",
-      "title": "Training hard and biding his time, Dele Alli has not given up on football yet",
-      "url": "https://www.theguardian.com/football/2026/nov/20/dele-alli-tottenham-mk-dons-england",
+      "id": "29180d0c950b",
+      "title": "Pochettino: 'Massive' pressure with USMNT makes me better coach for Man United",
+      "url": "https://www.espn.com/soccer/story/_/id/50542344/mauricio-pochettino-usa-man-united-coach",
+      "source": "ESPN",
+      "published_at": "2026-11-21T00:36:24+00:00",
+      "summary": "Mauricio Pochettino said the experience of coaching the U.S. at the World Cup stands him in good stead for taking over Manchester United.",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "42fc676772f7",
+      "title": "Nashville coach Callaghan '100%' focused on playoffs amid USMNT links",
+      "url": "https://www.espn.com/soccer/story/_/id/50543541/usa-soccer-coach-bj-callaghan-nashville-sc",
+      "source": "ESPN",
+      "published_at": "2026-11-21T00:36:24+00:00",
+      "summary": "BJ Callaghan said he remains fully focused on leading Nashville through the MLS playoffs amid links to replacing Mauricio Pochettino as USMNT head coach.",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "aefcb116a39e",
+      "title": "LA Galaxy pass on permanent move, send Lozano back to San Diego FC",
+      "url": "https://www.espn.com/soccer/story/_/id/50544018/hirving-lozano-returns-san-diego-fc-la-galaxy-loan-ends",
+      "source": "ESPN",
+      "published_at": "2026-11-21T00:36:24+00:00",
+      "summary": "The LA Galaxy declined to exercise their purchase option for Hirving 'Chucky' Lozano, sending the Mexican forward back to San Diego FC.",
+      "teams": [
+        "Mexico"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "13efc1c33b80",
+      "title": "Ronaldo edges closer to 1,000 goals but misses penalty in Al Nassr loss",
+      "url": "https://www.espn.com/soccer/story/_/id/50543354/cristiano-ronaldo-goal-1000-al-nassr-penalty-miss",
+      "source": "ESPN",
+      "published_at": "2026-11-21T00:36:24+00:00",
+      "summary": "Cristiano Ronaldo edged closer to his 1,000th career goal and missed a first-half penalty as Al Nassr slipped to a 3-1 defeat at Saudi Pro League rivals Al Ahli.",
+      "teams": [
+        "Saudi Arabia"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "cadb60dbb6eb",
+      "title": "Bayern Munich confirm Harry Kane ‘out for next few months’ with ankle injury",
+      "url": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
       "source": "The Guardian",
-      "published_at": "2026-11-20T19:00:37+00:00",
-      "summary": "The 30-year-old former England star combines Twitch streaming with working to return to the top as a player Consider the training regime Dele Alli has followed since he left Como 18 months ago and it becomes clear why he takes exception to suggestions he has given up on football ",
+      "published_at": "2026-11-20T22:43:40+00:00",
+      "summary": "England forward injured in Friday’s 1-1 draw with Cologne Club statement confirms ‘tear of ligament in left ankle’ Bayern Munich have confirmed Harry Kane will be “out for the next few months” with ankle ligament damage sustained in their 1-1 draw with Cologne on Friday. Kane was",
       "teams": [
         "England"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "f89f3cfe0649",
+      "title": "Cristiano Ronaldo goal tracker: 986 and counting on road to 1,000 career goals",
+      "url": "https://www.espn.com/soccer/story/_/id/46751020/cristiano-ronaldo-goal-tracker-road-1000-career-goals",
+      "source": "ESPN",
+      "published_at": "2026-11-20T22:38:44+00:00",
+      "summary": "With Cristiano Ronaldo on the quest to score 1,000 goals, ESPN provides goal-by-goal analysis of the Portuguese superstar's quest.",
+      "teams": [
+        "Portugal"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "f9d96e02927c",
@@ -26,6 +87,18 @@
       "summary": "Argentinian has excelled in man-management – but will need his powers to energise new squad and impress owners Mauricio Pochettino celebrated his 50th birthday in style. It was March 2022, he was in charge at Paris Saint-Germain and the venue was a stunning boutique hotel; the ki",
       "teams": [
         "Argentina"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "25b5938fe514",
+      "title": "Training hard and biding his time, Dele Alli has not given up on football yet",
+      "url": "https://www.theguardian.com/football/2026/nov/20/dele-alli-tottenham-mk-dons-england",
+      "source": "The Guardian",
+      "published_at": "2026-11-20T19:00:37+00:00",
+      "summary": "The 30-year-old former England star combines Twitch streaming with working to return to the top as a player Consider the training regime Dele Alli has followed since he left Como 18 months ago and it becomes clear why he takes exception to suggestions he has given up on football ",
+      "teams": [
+        "England"
       ],
       "is_injury_related": true
     },
@@ -50,6 +123,30 @@
       "summary": "Scottish fifth-tier club Johnstone Burgh are forced to play two cup ties on the same day, with the kick-offs only half an hour apart.",
       "teams": [
         "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "a585c3d5f333",
+      "title": "Estêvão is Brazil's brightest young talent. Is Chelsea the right place for him?",
+      "url": "https://www.espn.com/soccer/story/_/id/50523536/estevao-brazil-young-talent-chelsea",
+      "source": "ESPN",
+      "published_at": "2026-11-20T15:47:35+00:00",
+      "summary": "Estêvão is widely regarded as Brazil's brightest young talent, but he has struggled for playing time at Chelsea.",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "18f75f83c5c9",
+      "title": "Transfer rumors, news: Arsenal want World Cup winner Williams",
+      "url": "https://www.espn.com/soccer/story/_/id/50539252/transfer-rumors-news-arsenal-world-cup-nico-williams-spain",
+      "source": "ESPN",
+      "published_at": "2026-11-20T15:25:57+00:00",
+      "summary": "Real Madrid are looking to boost their attack by signing Como and Argentina international Nico Paz. Transfer Talk has the latest.",
+      "teams": [
+        "Argentina"
       ],
       "is_injury_related": false
     },
@@ -114,16 +211,40 @@
       "is_injury_related": false
     },
     {
-      "id": "c5fc4ed13264",
-      "title": "Bukayo Saka may not return for Arsenal before Christmas, Mikel Arteta admits",
-      "url": "https://www.theguardian.com/football/2026/nov/20/bukayo-saka-injury-may-not-play-arsenal-before-christmas-mikel-arteta",
-      "source": "The Guardian",
-      "published_at": "2026-11-20T10:46:32+00:00",
-      "summary": "Zubimendi also out of Saturday’s game at Newcastle Arteta imposes Fantasy Premier League ban after leak Mikel Arteta has said Bukayo Saka may not return before Christmas as the Arsenal forward continues his rehabilitation from a thigh injury . Saka has been out since limping off ",
+      "id": "c116cead20d4",
+      "title": "Which USMNT fringe players stand to benefit from Pochettino's exit?",
+      "url": "https://www.espn.com/soccer/story/_/id/50531656/usmnt-players-benefit-pochettino-exit",
+      "source": "ESPN",
+      "published_at": "2026-11-20T08:53:26+00:00",
+      "summary": "With Mauricio Pochettino now at Manchester United, there are a host of midfielders primed for a revival in fortunes with the U.S. men's national team.",
       "teams": [
-        "England"
+        "USA"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "3991904212ee",
+      "title": "Pochettino gets a fitting, emotional send-off from USMNT",
+      "url": "https://www.espn.com/soccer/story/_/id/50516323/mauricio-pochettino-emotional-send-usmnt-manchester-united",
+      "source": "ESPN",
+      "published_at": "2026-11-20T08:53:26+00:00",
+      "summary": "No USMNT coach has ever left quite like this. Loved by players, celebrated by fans and gone on his own terms.",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "ab55a505cd50",
+      "title": "Has Vini Jr. finally put summer transfer saga behind him? Real Madrid need him at his best",
+      "url": "https://www.espn.com/soccer/story/_/id/50505359/vinicius-junior-real-madrid-brazil-transfer",
+      "source": "ESPN",
+      "published_at": "2026-11-20T08:42:11+00:00",
+      "summary": "After a summer of transfer uncertainty and a sluggish start to the season, Vinícius Junior is on the comeback trail with Real Madrid and Brazil.",
+      "teams": [
+        "Brazil"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "20213a7f57ef",
@@ -285,6 +406,32 @@
         "USA"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "fdd94ad1db5b",
+      "title": "World Cup 2030 Early Power Rankings: Spain still No. 1? No USMNT in top 15",
+      "url": "https://www.espn.com/soccer/story/_/id/50506499/soccer-world-cup-power-rankings-usmnt-spain",
+      "source": "ESPN",
+      "published_at": "2026-11-18T14:02:00+00:00",
+      "summary": "England's statement win over Spain has shaken up ESPN's World Cup Power Rankings, but our experts still back La Roja as the team to beat.",
+      "teams": [
+        "USA",
+        "Spain",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "9776d7491306",
+      "title": "Netflix, Fox and the $2bn bid for the 2030 World Cup that could reshape live sports",
+      "url": "https://www.theguardian.com/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights",
+      "source": "The Guardian",
+      "published_at": "2026-11-18T12:01:00+00:00",
+      "summary": "The battle for the US TV rights to the tournament will pit the traditional broadcaster against the ‘whatever-it-takes’ streamer. It could be a tipping point in the industry The awarding of broadcast rights in the United States for this year’s World Cup was a cut-price deal to avo",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "ac52571effa2",
