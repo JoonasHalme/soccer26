@@ -1,58 +1,22 @@
 {
-  "generated_at": "2026-11-21T01:26:47.001865+00:00",
+  "generated_at": "2026-11-21T09:40:29.091880+00:00",
   "sources": [
     "BBC Sport",
-    "The Guardian",
-    "ESPN"
+    "The Guardian"
   ],
   "items": [
     {
-      "id": "29180d0c950b",
-      "title": "Pochettino: 'Massive' pressure with USMNT makes me better coach for Man United",
-      "url": "https://www.espn.com/soccer/story/_/id/50542344/mauricio-pochettino-usa-man-united-coach",
-      "source": "ESPN",
-      "published_at": "2026-11-21T00:36:24+00:00",
-      "summary": "Mauricio Pochettino said the experience of coaching the U.S. at the World Cup stands him in good stead for taking over Manchester United.",
+      "id": "9897f8b806dd",
+      "title": "Jeers, injuries and doubters - White's journey back to the top",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv7028xeler2o",
+      "source": "BBC Sport",
+      "published_at": "2026-11-21T06:17:32+00:00",
+      "summary": "When Ben White wheeled away after scoring England's third goal against world champions Spain, it was more than just a strike which ended up being the winner in a special win.",
       "teams": [
-        "USA"
+        "Spain",
+        "England"
       ],
-      "is_injury_related": false
-    },
-    {
-      "id": "42fc676772f7",
-      "title": "Nashville coach Callaghan '100%' focused on playoffs amid USMNT links",
-      "url": "https://www.espn.com/soccer/story/_/id/50543541/usa-soccer-coach-bj-callaghan-nashville-sc",
-      "source": "ESPN",
-      "published_at": "2026-11-21T00:36:24+00:00",
-      "summary": "BJ Callaghan said he remains fully focused on leading Nashville through the MLS playoffs amid links to replacing Mauricio Pochettino as USMNT head coach.",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "aefcb116a39e",
-      "title": "LA Galaxy pass on permanent move, send Lozano back to San Diego FC",
-      "url": "https://www.espn.com/soccer/story/_/id/50544018/hirving-lozano-returns-san-diego-fc-la-galaxy-loan-ends",
-      "source": "ESPN",
-      "published_at": "2026-11-21T00:36:24+00:00",
-      "summary": "The LA Galaxy declined to exercise their purchase option for Hirving 'Chucky' Lozano, sending the Mexican forward back to San Diego FC.",
-      "teams": [
-        "Mexico"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "13efc1c33b80",
-      "title": "Ronaldo edges closer to 1,000 goals but misses penalty in Al Nassr loss",
-      "url": "https://www.espn.com/soccer/story/_/id/50543354/cristiano-ronaldo-goal-1000-al-nassr-penalty-miss",
-      "source": "ESPN",
-      "published_at": "2026-11-21T00:36:24+00:00",
-      "summary": "Cristiano Ronaldo edged closer to his 1,000th career goal and missed a first-half penalty as Al Nassr slipped to a 3-1 defeat at Saudi Pro League rivals Al Ahli.",
-      "teams": [
-        "Saudi Arabia"
-      ],
-      "is_injury_related": false
+      "is_injury_related": true
     },
     {
       "id": "cadb60dbb6eb",
@@ -65,18 +29,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "f89f3cfe0649",
-      "title": "Cristiano Ronaldo goal tracker: 986 and counting on road to 1,000 career goals",
-      "url": "https://www.espn.com/soccer/story/_/id/46751020/cristiano-ronaldo-goal-tracker-road-1000-career-goals",
-      "source": "ESPN",
-      "published_at": "2026-11-20T22:38:44+00:00",
-      "summary": "With Cristiano Ronaldo on the quest to score 1,000 goals, ESPN provides goal-by-goal analysis of the Portuguese superstar's quest.",
-      "teams": [
-        "Portugal"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "f9d96e02927c",
@@ -123,30 +75,6 @@
       "summary": "Scottish fifth-tier club Johnstone Burgh are forced to play two cup ties on the same day, with the kick-offs only half an hour apart.",
       "teams": [
         "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "a585c3d5f333",
-      "title": "Estêvão is Brazil's brightest young talent. Is Chelsea the right place for him?",
-      "url": "https://www.espn.com/soccer/story/_/id/50523536/estevao-brazil-young-talent-chelsea",
-      "source": "ESPN",
-      "published_at": "2026-11-20T15:47:35+00:00",
-      "summary": "Estêvão is widely regarded as Brazil's brightest young talent, but he has struggled for playing time at Chelsea.",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "18f75f83c5c9",
-      "title": "Transfer rumors, news: Arsenal want World Cup winner Williams",
-      "url": "https://www.espn.com/soccer/story/_/id/50539252/transfer-rumors-news-arsenal-world-cup-nico-williams-spain",
-      "source": "ESPN",
-      "published_at": "2026-11-20T15:25:57+00:00",
-      "summary": "Real Madrid are looking to boost their attack by signing Como and Argentina international Nico Paz. Transfer Talk has the latest.",
-      "teams": [
-        "Argentina"
       ],
       "is_injury_related": false
     },
@@ -211,42 +139,6 @@
       "is_injury_related": false
     },
     {
-      "id": "c116cead20d4",
-      "title": "Which USMNT fringe players stand to benefit from Pochettino's exit?",
-      "url": "https://www.espn.com/soccer/story/_/id/50531656/usmnt-players-benefit-pochettino-exit",
-      "source": "ESPN",
-      "published_at": "2026-11-20T08:53:26+00:00",
-      "summary": "With Mauricio Pochettino now at Manchester United, there are a host of midfielders primed for a revival in fortunes with the U.S. men's national team.",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "3991904212ee",
-      "title": "Pochettino gets a fitting, emotional send-off from USMNT",
-      "url": "https://www.espn.com/soccer/story/_/id/50516323/mauricio-pochettino-emotional-send-usmnt-manchester-united",
-      "source": "ESPN",
-      "published_at": "2026-11-20T08:53:26+00:00",
-      "summary": "No USMNT coach has ever left quite like this. Loved by players, celebrated by fans and gone on his own terms.",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "ab55a505cd50",
-      "title": "Has Vini Jr. finally put summer transfer saga behind him? Real Madrid need him at his best",
-      "url": "https://www.espn.com/soccer/story/_/id/50505359/vinicius-junior-real-madrid-brazil-transfer",
-      "source": "ESPN",
-      "published_at": "2026-11-20T08:42:11+00:00",
-      "summary": "After a summer of transfer uncertainty and a sluggish start to the season, Vinícius Junior is on the comeback trail with Real Madrid and Brazil.",
-      "teams": [
-        "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "20213a7f57ef",
       "title": "Premier League: 10 things to look out for this weekend",
       "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-10-things-to-look-out-for-this-weekend",
@@ -282,18 +174,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "3d6d5baf1e9d",
-      "title": "OL Lyonnes show their class to hit Arsenal’s ambitions for a top-four WCL finish",
-      "url": "https://www.theguardian.com/football/2026/nov/19/arsenal-ol-lyonnes-womens-champions-league-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-11-19T22:05:36+00:00",
-      "summary": "Arsenal’s hopes of earning automatic progression to the Champions League quarter-finals were dashed by OL&nbsp;Lyonnes, as the French side continued their statement form in Europe. Goals in either half from Jule Brand and Melchie Dumornay were the ­difference at Meadow Park and L",
-      "teams": [
-        "France"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "d9d8445941d1",
@@ -404,20 +284,6 @@
       "summary": "The incoming Manchester United manager improved the US team’s culture and competitiveness, but could not bring about sea change in two years In a theater high up in a midtown Manhattan skyscraper built from lots of glass, a highlight reel played to deafening music. And then, on “",
       "teams": [
         "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "fdd94ad1db5b",
-      "title": "World Cup 2030 Early Power Rankings: Spain still No. 1? No USMNT in top 15",
-      "url": "https://www.espn.com/soccer/story/_/id/50506499/soccer-world-cup-power-rankings-usmnt-spain",
-      "source": "ESPN",
-      "published_at": "2026-11-18T14:02:00+00:00",
-      "summary": "England's statement win over Spain has shaken up ESPN's World Cup Power Rankings, but our experts still back La Roja as the team to beat.",
-      "teams": [
-        "USA",
-        "Spain",
-        "England"
       ],
       "is_injury_related": false
     },
