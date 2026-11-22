@@ -1,22 +1,71 @@
 {
-  "generated_at": "2026-11-22T03:09:34.482688+00:00",
+  "generated_at": "2026-11-22T12:29:50.872578+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
     {
-      "id": "a244b19114b2",
-      "title": "Washington Spirit v Kansas City Current: NWSL Championship – live updates",
-      "url": "https://www.theguardian.com/football/live/2026/nov/21/washington-spirit-kansas-city-current-nwsl-championship-live-updates",
-      "source": "The Guardian",
-      "published_at": "2026-11-22T02:54:37+00:00",
-      "summary": "⚽️ Trinity Rodman: We bring the fans into everything ⚽️ Where the final will be won and lost | Ticket prices ⚽️ Email Jeff | Newsletter sign-up | Instagram The KC Current posted their lineup first. Brazil netminder Lorena starts in goal behind a back-four of Izzy Rodriguez, Kayla",
+      "id": "a5168b5a3562",
+      "title": "Manager ins and outs - 2026-27",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-22T12:02:00+00:00",
+      "summary": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.",
       "teams": [
-        "Brazil",
-        "Scotland"
+        "Scotland",
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "1ec332e7048f",
+      "title": "Scottish Football Podcast",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pp1j7j",
+      "source": "BBC Sport",
+      "published_at": "2026-11-22T08:00:00+00:00",
+      "summary": "Scotland head coach Mel Andreatta on Scotland, Sweden and chasing her World Cup dream.",
+      "teams": [
+        "Scotland",
+        "Sweden"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f5d4b81c220f",
+      "title": "Argentina midfielder Paredes collapses during TV interview",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwnv45818z59o",
+      "source": "BBC Sport",
+      "published_at": "2026-11-22T07:13:34+00:00",
+      "summary": "World Cup winning midfielder Leandro Paredes collapses while giving a post-match interview minutes after winning a trophy with Boca Juniors.",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "8a2c0c094c34",
+      "title": "Wales boss Wilkinson rules out Fishlock return",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckzd9n5j9mj9o",
+      "source": "BBC Sport",
+      "published_at": "2026-11-22T05:12:04+00:00",
+      "summary": "Rhian Wilkinson has not considered asking Jess Fishlock to come out of retirement for the Women's World Cup play-off final against Norway.",
+      "teams": [
+        "Norway"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "02708ca4496c",
+      "title": "Lionel Messi at center of red-card controversy as Inter Miami face early MLS playoff exit",
+      "url": "https://www.theguardian.com/football/2026/nov/21/lionel-messi-red-card-controversy-inter-miami-columbus-crew-mls-playoffs",
+      "source": "The Guardian",
+      "published_at": "2026-11-22T03:01:55+00:00",
+      "summary": "Messi booked for throwing ball into opponent’s face Columbus coach insists Argentine deserved red card Defending champions thrashed 3-0 in series opener Columbus Crew coach Laurent Courtois said Lionel Messi should have been sent off after throwing a ball into an opponent’s face ",
+      "teams": [
+        "Argentina"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "75f03e96547d",
@@ -41,6 +90,18 @@
         "Scotland"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "64c07d378a5a",
+      "title": "‘Obviously it’s not good’: Arteta sweating over David Raya’s fitness after injury",
+      "url": "https://www.theguardian.com/football/2026/nov/21/david-raya-shoulder-injury-arsenal-newcastle-mikel-arteta",
+      "source": "The Guardian",
+      "published_at": "2026-11-21T21:48:21+00:00",
+      "summary": "Keeper close to tears at Newcastle after hurting shoulder Arsenal held 2-2, with Jaissle hailing ‘excellent’ display Arsenal were left sweating on the fitness of their goalkeeper David Raya after the Spaniard was forced off with a shoulder injury during the second half of the 2-2",
+      "teams": [
+        "Spain"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "11b8f2ef2b29",
@@ -91,19 +152,6 @@
       "is_injury_related": true
     },
     {
-      "id": "9897f8b806dd",
-      "title": "Jeers, injuries and doubters - White's journey back to the top",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cv7028xeler2o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-21T06:17:32+00:00",
-      "summary": "When Ben White wheeled away after scoring England's third goal against world champions Spain, it was more than just a strike which ended up being the winner in a special win.",
-      "teams": [
-        "Spain",
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "cadb60dbb6eb",
       "title": "Bayern Munich confirm Harry Kane ‘out for next few months’ with ankle injury",
       "url": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
@@ -140,18 +188,6 @@
       "is_injury_related": false
     },
     {
-      "id": "ca1ce2662d11",
-      "title": "Arsenal 'have ingredients' but Europe's elite on another level",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-19T23:57:54+00:00",
-      "summary": "In a difficult defeat by French giants Lyon, Arsenal were shown the gap they need to bridge to challenge for the Champions League.",
-      "teams": [
-        "France"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "d9d8445941d1",
       "title": "Summer signings join Lionel Messi among MLS’s top earners: Takeaways from the league’s salary release",
       "url": "https://www.theguardian.com/football/2026/nov/19/mls-salary-release-lionel-messi-spent-per-point",
@@ -174,32 +210,6 @@
         "Scotland"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "a5168b5a3562",
-      "title": "Manager ins and outs - 2026-27",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-19T16:45:46+00:00",
-      "summary": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.",
-      "teams": [
-        "Scotland",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "4ba158fe7607",
-      "title": "Five return for Wales' World Cup play-off final",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c620535y8zpjo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-19T13:40:43+00:00",
-      "summary": "Ceri Holland is in the Wales squad for next month's Women's World Cup play-off final against Norway despite being out since September through injury.",
-      "teams": [
-        "Netherlands",
-        "Norway"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "0992d1362863",
