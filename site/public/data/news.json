@@ -1,10 +1,59 @@
 {
-  "generated_at": "2026-11-22T12:29:50.872578+00:00",
+  "generated_at": "2026-11-22T20:18:07.173065+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "1d6375417fd5",
+      "title": "Liverpool hand Pochettino nightmare Manchester United start after Yoro sees red",
+      "url": "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-11-22T18:35:14+00:00",
+      "summary": "Green shoots of recovery have lasted longer in a blast-furnace than in the Mauricio Pochettino era at Manchester United. On another abysmal Anfield day for the fallen giants of Manchester, Pochettino’s debut descended into an ordeal after merely eight minutes when Leny Yoro was s",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "9c711cef1613",
+      "title": "Big wins as Celtic, Rangers, City & Hearts progress",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8zx91z9xe9yo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-22T17:53:41+00:00",
+      "summary": "Holders Celtic as well as Rangers, Glasgow City, Hearts, Montrose, Aberdeen and Falkirk progress with big wins in the Women's Scottish Cup.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "2d86ebd5795e",
+      "title": "'Rolls-Royce' Iqbal's 'dream' journey from Old Trafford to Tannadice",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwj05z6npze4o",
+      "source": "BBC Sport",
+      "published_at": "2026-11-22T17:00:01+00:00",
+      "summary": "Zidane Iqbal is starting to live up to his famous name and wowing Scottish Premiership fans after his move to Dundee United.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "7482522a5973",
+      "title": "The footballer-turned-BookTuber who made an obscure Tolstoy novella a belated bestseller",
+      "url": "https://www.theguardian.com/world/2026/nov/22/the-football-superstar-turned-booktuber-who-made-an-obscure-tolstoy-novella-a-belated-bestseller",
+      "source": "The Guardian",
+      "published_at": "2026-11-22T15:00:29+00:00",
+      "summary": "Once named the best player in Brazil, Gustavo Scarpa’s literature obsession has inspired thousands to become bookworms Julián Scatolaro noticed something odd was occurring when several people came into his bookshop over the space of a few days, all asking for Leo Tolstoy’s novell",
+      "teams": [
+        "Brazil",
+        "Argentina"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "a5168b5a3562",
       "title": "Manager ins and outs - 2026-27",
@@ -15,19 +64,6 @@
       "teams": [
         "Scotland",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "1ec332e7048f",
-      "title": "Scottish Football Podcast",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pp1j7j",
-      "source": "BBC Sport",
-      "published_at": "2026-11-22T08:00:00+00:00",
-      "summary": "Scotland head coach Mel Andreatta on Scotland, Sweden and chasing her World Cup dream.",
-      "teams": [
-        "Scotland",
-        "Sweden"
       ],
       "is_injury_related": false
     },
@@ -44,18 +80,6 @@
       "is_injury_related": false
     },
     {
-      "id": "8a2c0c094c34",
-      "title": "Wales boss Wilkinson rules out Fishlock return",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckzd9n5j9mj9o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-22T05:12:04+00:00",
-      "summary": "Rhian Wilkinson has not considered asking Jess Fishlock to come out of retirement for the Women's World Cup play-off final against Norway.",
-      "teams": [
-        "Norway"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "02708ca4496c",
       "title": "Lionel Messi at center of red-card controversy as Inter Miami face early MLS playoff exit",
       "url": "https://www.theguardian.com/football/2026/nov/21/lionel-messi-red-card-controversy-inter-miami-columbus-crew-mls-playoffs",
@@ -64,18 +88,6 @@
       "summary": "Messi booked for throwing ball into opponent’s face Columbus coach insists Argentine deserved red card Defending champions thrashed 3-0 in series opener Columbus Crew coach Laurent Courtois said Lionel Messi should have been sent off after throwing a ball into an opponent’s face ",
       "teams": [
         "Argentina"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "75f03e96547d",
-      "title": "Naderi's 'lucky punch' keeps Rangers in touch",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckzd930mjp1po",
-      "source": "BBC Sport",
-      "published_at": "2026-11-22T00:01:31+00:00",
-      "summary": "On a Saturday laden with Scottish Premiership goals, Ryan Naderi's was far from the most impressive - but vital for Rangers all the same.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -104,18 +116,6 @@
       "is_injury_related": true
     },
     {
-      "id": "11b8f2ef2b29",
-      "title": "Fifpro criticises Bayern Munich for Musiala comments",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9x2evr1rg85o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-21T17:43:44+00:00",
-      "summary": "Football players' union Fifpro says it is concerned by German club Bayern Munich's comments about Jamal Musiala's contract.",
-      "teams": [
-        "Germany"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "7a04c7e94b48",
       "title": "Evanilson and Kluivert sink Forest to earn Bournemouth ninth win in a row",
       "url": "https://www.theguardian.com/football/2026/nov/21/bournemouth-nottingham-forest-premier-league-match-report",
@@ -136,18 +136,6 @@
       "summary": "Manchester City are living in Premier League purgatory, without a win in four, but at least against Fulham they ended a three-game losing run. As they await their fate after being found guilty of financial breaches, their form has slumped. This passive draw was met with boos from",
       "teams": [
         "Norway"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "8bb12ad19b3b",
-      "title": "Bayern draw with Cologne as Kane picks up ankle injury",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ck7v2nz0lp32o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-21T13:29:40+00:00",
-      "summary": "England captain Harry Kane will be out \"for the next few months\" after undergoing surgery on torn ankle ligaments sustained during Bayern Munich's 1-1 Bundesliga draw with Cologne on Friday.",
-      "teams": [
-        "England"
       ],
       "is_injury_related": true
     },
@@ -174,18 +162,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "428f55d5c4c5",
-      "title": "Arsenal’s Lisa Baum: ‘I believe in us. I think it’s all about the small margins’",
-      "url": "https://www.theguardian.com/football/2026/nov/20/arsenal-lisa-baum-germany-brother-dennis",
-      "source": "The Guardian",
-      "published_at": "2026-11-20T13:00:29+00:00",
-      "summary": "Germany forward on her new life in London and drawing strength from the memory of her late brother, Dennis Lisa Baum is 19, for the next few days at least, but you wouldn’t know it. The Germany forward plays with a maturity that explains why she was handed her Arsenal debut in th",
-      "teams": [
-        "Germany"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "d9d8445941d1",
@@ -237,19 +213,6 @@
       "is_injury_related": false
     },
     {
-      "id": "7215b2e96025",
-      "title": "Inside women’s football’s difficult rise in Syria: ‘A joy that everyone in the country needed’",
-      "url": "https://www.theguardian.com/football/2026/nov/19/syria-womens-football",
-      "source": "The Guardian",
-      "published_at": "2026-11-19T11:00:26+00:00",
-      "summary": "A 14-year civil war ravaged the country and ground women’s football to a halt. Today, the first glimmers of hope are beginning to emerge amid difficulty In December 2024, Syria’s under-18 women’s football team boarded a last-minute bus at midnight from Aqaba, bound for Damascus. ",
-      "teams": [
-        "Saudi Arabia",
-        "Jordan"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "0f5ee0fc279d",
       "title": "Mauricio Pochettino’s USMNT time will be remembered fondly, but it wasn’t transformational",
       "url": "https://www.theguardian.com/football/2026/nov/18/pochettino-usmnt-manchester-united",
@@ -260,6 +223,18 @@
         "USA"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "9776d7491306",
+      "title": "Netflix, Fox and the $2bn bid for the 2030 World Cup that could reshape live sports",
+      "url": "https://www.theguardian.com/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights",
+      "source": "The Guardian",
+      "published_at": "2026-11-18T12:01:00+00:00",
+      "summary": "The battle for the US TV rights to the tournament will pit the traditional broadcaster against the ‘whatever-it-takes’ streamer. It could be a tipping point in the industry The awarding of broadcast rights in the United States for this year’s World Cup was a cut-price deal to avo",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "ac52571effa2",
@@ -378,18 +353,6 @@
         "Netherlands"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "dc8b7a5e1308",
-      "title": "Republic of Ireland have plenty of promise, but are unable to shake self-sabotage",
-      "url": "https://www.theguardian.com/football/2026/nov/16/republic-of-ireland-heimir-hallgrimsson-nations-league-kosovo",
-      "source": "The Guardian",
-      "published_at": "2026-11-16T11:30:56+00:00",
-      "summary": "Hopes of promotion remain alive, but another costly collapse has raised familiar questions before the decisive Nations League game with Kosovo The Republic of Ireland stand on the verge, although of what, nobody seems quite sure. Tuesday’s final Nations League group match, at hom",
-      "teams": [
-        "Austria"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "04190fbbc323",
