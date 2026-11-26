@@ -1,10 +1,119 @@
 {
-  "generated_at": "2026-11-26T15:03:44.134469+00:00",
+  "generated_at": "2026-11-26T23:47:42.689675+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "2ebec8490f2f",
+      "title": "Thomas Frank earns first Crystal Palace win as McNeil cuts down Real Sociedad",
+      "url": "https://www.theguardian.com/football/2026/nov/26/crystal-palace-real-sociedad-europa-league-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-11-26T22:10:14+00:00",
+      "summary": "Football seasons can pivot on certain moments and Thomas Frank will hope that Crystal Palace’s turning point came 17 minutes from full time here. Deservedly trailing to Mamadou Sarr’s goal having been second best throughout against Real Sociedad, this game – and perhaps the south",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "375a16c62329",
+      "title": "Pro-Palestinian banner as Besiktas face Israeli team causes delay and diplomatic incident",
+      "url": "https://www.theguardian.com/football/2026/nov/26/crowd-trouble-besiktas-hapoel-beer-sheva-diplomatic-incident-israel-palestine",
+      "source": "The Guardian",
+      "published_at": "2026-11-26T20:47:37+00:00",
+      "summary": "Turkey’s top diplomat speaks with Georgian counterpart Europa League match halted after police enter stands Turkey’s top diplomat has spoken with his Georgian counterpart after incidents at Besiktas’s Europa League match against Israeli club Hapoel Be’er-Sheva in Batumi, a foreig",
+      "teams": [
+        "Turkey"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "26e0bda7dcd9",
+      "title": "Éric Cantona: ‘If I regret something about the kung fu kick, it’s that I would love to kick him in another place’",
+      "url": "https://www.theguardian.com/football/2026/nov/26/eric-cantona-interview-new-documentary",
+      "source": "The Guardian",
+      "published_at": "2026-11-26T20:00:44+00:00",
+      "summary": "Before the release of a new documentary, the unrepentant Manchester United icon reflects on his deep bond with English football and his darker instincts “I’m an angel and a demon,” Éric Cantona says intently during a gripping new documentary about his life on and off the football",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "f8ab530f2031",
+      "title": "Carsley eyes Euros history with England U21s after draw",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c97726npre86o",
+      "source": "BBC Sport",
+      "published_at": "2026-11-26T19:35:17+00:00",
+      "summary": "England have won the past two European Under-21 Championships, and Lee Carsley says they will \"go all out\" for a hat-trick.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "9329f359de67",
+      "title": "Calvert-Lewin signs new Leeds deal until 2029",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o",
+      "source": "BBC Sport",
+      "published_at": "2026-11-26T18:00:31+00:00",
+      "summary": "England international Dominic Calvert-Lewin signs a new contract to stay with Leeds United until 2029.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "d9cb9589f89d",
+      "title": "Germany's Freigang given 16-month ban over drugs test issues",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqlym4rd3y52o",
+      "source": "BBC Sport",
+      "published_at": "2026-11-26T17:12:45+00:00",
+      "summary": "Germany international Laura Freigang is suspended from football for 16 months over issues relating to three drugs tests.",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "9481d6929332",
+      "title": "SFA to deliver revised proposal after young player vote delayed",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwlyl36my6m7o",
+      "source": "BBC Sport",
+      "published_at": "2026-11-26T16:49:44+00:00",
+      "summary": "The Scottish FA will continue consulting with SPFL clubs in a bid to get more game time for homegrown talent after initial plans put forward by the governing body failed to reach a member vote.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "66b0ef57758a",
+      "title": "Football Daily | Bayern Munich go from bad to worse with own goals on and off the pitch",
+      "url": "https://www.theguardian.com/football/2026/nov/26/football-daily-newsletter-bayern-munich",
+      "source": "The Guardian",
+      "published_at": "2026-11-26T15:48:28+00:00",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Bayern Munich’s 2-1 defeat to Lille was arguably the most eye-catching of Wednesday night’s Bigger Cup results, but anyone who tuned into proceedings at Stade Pierre-Mauroy will have been unsurprised by the outcome. Not so much ",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "ef72f60e087c",
+      "title": "Champions League review: Lille monster Bayern, De Bruyne’s sad return and more United chaos",
+      "url": "https://www.theguardian.com/football/2026/nov/26/champions-league-review-lille-bayern-munich-kevin-de-bruyne-napoli",
+      "source": "The Guardian",
+      "published_at": "2026-11-26T15:00:39+00:00",
+      "summary": "The French side earned their first group win over troubled German giants as Bellingham and Betis also caught the eye Bayern Munich have hit a snagging point, with injuries wracking Vincent Kompany’s squad just as the head coach returns to work following his own health scare. For ",
+      "teams": [
+        "Germany",
+        "France"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "3343f1e0d2c7",
       "title": "‘We are on the edge’: how Swedish league declined from summit of women’s game",
@@ -15,18 +124,6 @@
       "teams": [
         "Germany",
         "Sweden"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "62b0051e3bbf",
-      "title": "The Portuguese second-tier team hosting Celtic in Europe",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw99zxvyzj04o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-26T07:26:12+00:00",
-      "summary": "Portuguese second-tier side Torreense host Celtic in the Europa League. But how did they end up here?",
-      "teams": [
-        "Portugal"
       ],
       "is_injury_related": false
     },
@@ -55,36 +152,12 @@
       "is_injury_related": false
     },
     {
-      "id": "75277bbe78d5",
-      "title": "Regulator chief 'has stomach' to face Man City",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c65y10z8k59jo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-25T21:27:35+00:00",
-      "summary": "The chair of English football's independent regulator tells MPs he \"has the stomach\" to take potential action against Manchester City.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "7f7ed9eda133",
       "title": "Oliver Glasner criticises Nottingham Forest players for not learning English",
       "url": "https://www.theguardian.com/football/2026/nov/25/oliver-glasner-criticises-nottingham-forest-for-not-making-players-learn-english",
       "source": "The Guardian",
       "published_at": "2026-11-25T21:17:34+00:00",
       "summary": "‘Players are here for four years and can’t speak English’ Glasner has held talks with owner over January moves Nottingham Forest’s manager, Oliver Glasner, believes standards at the club were not good enough before his arrival as he questioned why some of his squad cannot speak E",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "c5939921f84d",
-      "title": "Raheem Sterling’s rise and fall: a sign football is broken? - The Latest",
-      "url": "https://www.theguardian.com/news/video/2026/nov/25/raheem-sterlings-rise-and-fall-a-sign-football-is-broken-the-latest",
-      "source": "The Guardian",
-      "published_at": "2026-11-25T18:48:50+00:00",
-      "summary": "Raheem Sterling has been handed a 12-month jail term, suspended for 18 months, for reckless driving and possession of nitrous oxide. It marks a remarkable fall from grace for the former England and Manchester City player, who was awarded an MBE in 2021. Sterling started playing p",
       "teams": [
         "England"
       ],
@@ -101,31 +174,6 @@
         "England"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "5cce90552928",
-      "title": "Peter Storey obituary",
-      "url": "https://www.theguardian.com/football/2026/nov/25/peter-storey-obituary",
-      "source": "The Guardian",
-      "published_at": "2026-11-25T17:40:02+00:00",
-      "summary": "Arsenal midfielder capped by England 19 times whose life after football suffered a drink-fuelled decline The footballer Peter Storey , who has died aged 81, was a tough-tackling midfielder for Arsenal when they won the double of the First Division championship and the FA Cup in 1",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "d90d74d711d5",
-      "title": "'Justice for sport' - Afcon reaction as Senegal reinstated as winners",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6vg2e32e7vno",
-      "source": "BBC Sport",
-      "published_at": "2026-11-25T17:32:30+00:00",
-      "summary": "Players and officials in Senegal have welcomed the decision to reinstate the West Africans as Afcon 2025 champions, but those in Morocco still contest the decision.",
-      "teams": [
-        "Morocco",
-        "Senegal"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "d8038c6f4eae",
@@ -160,18 +208,6 @@
       "summary": "While referees tend to reach for red early in the season before easing off, players are under increasing pressure to keep pace in a frenetic environment Off! Off! Off! The past three Premier League games have featured a red card, each for a different reason. Brighton’s Costinha w",
       "teams": [
         "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "1c3a215bc941",
-      "title": "Pep Guardiola says next coaching role will be with a national team amid USA links",
-      "url": "https://www.theguardian.com/football/2026/nov/25/pep-guardiola-coaching-job-usmnt-italy",
-      "source": "The Guardian",
-      "published_at": "2026-11-25T14:07:50+00:00",
-      "summary": "Coach turned down Italy offer, needing ‘time for myself’ Pochettino says he’d tell Guardiola to take USMNT job Pep Guardiola has said he doesn’t know when he’ll return to football but that his next coaching role will be with a national team. In an interview with former Barcelona ",
-      "teams": [
-        "USA"
       ],
       "is_injury_related": true
     },
@@ -214,30 +250,6 @@
       "is_injury_related": true
     },
     {
-      "id": "4a69bcaac460",
-      "title": "Will Hajime Moriyasu get a high-profile job in Europe after his eight years in charge of Japan?",
-      "url": "https://www.theguardian.com/football/2026/nov/25/hajime-moriyasu-leave-japan-world-cup-samurai-blue",
-      "source": "The Guardian",
-      "published_at": "2026-11-25T12:00:26+00:00",
-      "summary": "The coach will leave early after the postponement of the Asian Cup and, while there has been clear progress, some had hoped for better results at World Cups A popular Christmas tradition in Japan is to head to KFC but there is an unexpected item on the menu to chew over this year",
-      "teams": [
-        "Japan"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "8ace7448fb5e",
-      "title": "Raheem Sterling avoids jail over reckless driving while using nitrous oxide",
-      "url": "https://www.theguardian.com/football/2026/nov/25/raheem-sterling-avoids-jail-reckless-driving-nitrous-oxide-sentence",
-      "source": "The Guardian",
-      "published_at": "2026-11-25T11:34:10+00:00",
-      "summary": "He gets 12-month sentence suspended for 18 months Former England forward must do community service Raheem Sterling has avoided being sent to jail after he received a suspended sentence of 12 months for pleading guilty to a prolonged period of reckless driving while impaired by th",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "3244f5e8823e",
       "title": "David Squires on … Pochettino flying into a storm at Manchester United. Here we go again",
       "url": "https://www.theguardian.com/football/picture/2026/nov/24/david-squires-on-mauricio-pochettino-manchester-united-here-we-go-again",
@@ -262,6 +274,19 @@
         "Belgium"
       ],
       "is_injury_related": true
+    },
+    {
+      "id": "003aa60ba943",
+      "title": "Hosting World Cup means decade of excitement - Weir",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c95y1kjvxmdyo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-23T21:03:42+00:00",
+      "summary": "Scotland captain Caroline Weir says hosting the 2035 Women's World Cup along with England, Northern Ireland and Wales will usher in \"an amazing decade of excitement\" for the game in her homeland.",
+      "teams": [
+        "Scotland",
+        "England"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "58d2b952eef8",
@@ -336,19 +361,6 @@
         "Germany"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "47561550f72b",
-      "title": "Andreatta's masterplan to shock Sweden & take Scots to World Cup",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c94gn2mmjr4eo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-23T11:49:40+00:00",
-      "summary": "Scotland intend to bring fancied Sweden's World Cup dream \"crashing down - and do it in a truly Scottish way\", says manager Melissa Andreatta.",
-      "teams": [
-        "Scotland",
-        "Sweden"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "a5168b5a3562",
