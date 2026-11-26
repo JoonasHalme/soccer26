@@ -1,10 +1,46 @@
 {
-  "generated_at": "2026-11-25T22:27:32.804373+00:00",
+  "generated_at": "2026-11-26T04:58:04.597372+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "9d473561ee9a",
+      "title": "Championship roundup: Stoke rise to second, Birmingham condemn Burnley to record drought",
+      "url": "https://www.theguardian.com/football/2026/nov/25/championship-roundup-stoke-millwall-burnley-home-record-birmingham",
+      "source": "The Guardian",
+      "published_at": "2026-11-25T22:55:48+00:00",
+      "summary": "George Hirst double earns Potters 2-1 win over Millwall Burnley’s winless home run extends to 24 matches George Hirst scored both goals as Stoke secured a fifth successive Championship win by beating Millwall 2-1 to go level on points with Middlesbrough at the top. The Scotland i",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "014befb3f459",
+      "title": "Champions League: Lille comeback adds to Bayern woes, Gordon leads Barcelona rout",
+      "url": "https://www.theguardian.com/football/2026/nov/25/champions-league-barcelona-psg-roma-lille-bayern-munich-villarreal",
+      "source": "The Guardian",
+      "published_at": "2026-11-25T22:38:19+00:00",
+      "summary": "Lille 2-1 Bayern Munich, Sabah 1-4 Barcelona Malen penalty earns Roma 2-2 draw at PSG Bayern Munich endured their first defeat of the season on Wednesday, losing 2-1 at Lille in the Champions League as a tough week for the German giants worsened. Dayot Upamecano opened the scorin",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "bcb3b86bbda7",
+      "title": "Isak and Wirtz on target as resurgent Liverpool sweep aside Club Brugge",
+      "url": "https://www.theguardian.com/football/2026/nov/25/club-brugge-liverpool-champions-league-match-report",
+      "source": "The Guardian",
+      "published_at": "2026-11-25T22:04:10+00:00",
+      "summary": "Liverpool, from big money individuals to the collective, are building formidable momentum. On a bitterly cold night in Belgium, Andoni Iraola’s team delivered an accomplished away display to bring Club Brugge’s impressive run to a halt and step closer to automatic qualification f",
+      "teams": [
+        "Belgium"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "75277bbe78d5",
       "title": "Regulator chief 'has stomach' to face Man City",
@@ -25,19 +61,6 @@
       "published_at": "2026-11-25T21:17:34+00:00",
       "summary": "‘Players are here for four years and can’t speak English’ Glasner has held talks with owner over January moves Nottingham Forest’s manager, Oliver Glasner, believes standards at the club were not good enough prior to his arrival as he questioned why some of his squad cannot speak",
       "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "014befb3f459",
-      "title": "Champions League: Gordon twice on target in Barcelona’s cruise at Sabah",
-      "url": "https://www.theguardian.com/football/2026/nov/25/champions-league-barcelona-psg-roma-lille-bayern-munich-villarreal",
-      "source": "The Guardian",
-      "published_at": "2026-11-25T20:16:42+00:00",
-      "summary": "England forward scores two in 4-1 win in Azerbaijan Lamine Yamal left out of Barça squad with ankle injury Anthony Gordon scored twice as Barcelona cruised to a ⁠4-1 victory at Sabah in the Champions League on Wednesday, maintaining Hansi Flick’s ⁠side’s push for ⁠a ​top-eight fi",
-      "teams": [
-        "Spain",
         "England"
       ],
       "is_injury_related": true
@@ -116,6 +139,18 @@
       "is_injury_related": true
     },
     {
+      "id": "f02d5b3d7944",
+      "title": "Premier League’s burst of early sendings-off may not last – but red cards are on the rise for a reason",
+      "url": "https://www.theguardian.com/football/2026/nov/25/premier-league-red-cards-costinha-leny-yoro-james-tarkowski-referees",
+      "source": "The Guardian",
+      "published_at": "2026-11-25T14:46:33+00:00",
+      "summary": "While referees tend to reach for red early in the season before easing off, players are under increasing pressure to keep pace in a frenetic environment Off! Off! Off! The past three Premier League games have featured a red card, each for a different reason. Brighton’s Costinha w",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "1c3a215bc941",
       "title": "Pep Guardiola says next coaching role will be with a national team amid USA links",
       "url": "https://www.theguardian.com/football/2026/nov/25/pep-guardiola-coaching-job-usmnt-italy",
@@ -139,6 +174,18 @@
         "Senegal"
       ],
       "is_injury_related": false
+    },
+    {
+      "id": "0dae2e3ace90",
+      "title": "‘It threw me off my bowling a bit’: Isobel Goodwin living dream after England callup",
+      "url": "https://www.theguardian.com/football/2026/nov/25/isobel-goodwin-england-callup-london-city-lionesses-bowling",
+      "source": "The Guardian",
+      "published_at": "2026-11-25T12:24:49+00:00",
+      "summary": "London City striker, who was playing tenpin bowling when Wiegman called, says her journey has not been easy Not many phone calls are important enough to justify Isobel Goodwin missing her turn in a game of tenpin bowling. The England head coach ringing to tell her of a first seni",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
     },
     {
       "id": "fe37247e4b03",
@@ -227,17 +274,16 @@
       "is_injury_related": false
     },
     {
-      "id": "9e125a2b438d",
-      "title": "Dortmund’s Beier halts Arsenal charge after thunderbolt from Gyökeres",
-      "url": "https://www.theguardian.com/football/2026/nov/24/arsenal-borussia-dortmund-champions-league-match-report",
+      "id": "2fda23c17fe5",
+      "title": "Pochettino criticises Premier League officiating after Yoro red card overturned",
+      "url": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
       "source": "The Guardian",
-      "published_at": "2026-11-24T22:01:50+00:00",
-      "summary": "Arsenal’s sky-high standards are slipping. For the second time in four days, Mikel Arteta’s side found themselves a goal up at half-time and apparently coasting toward victory, only for their opponents to rouse themselves and earn a deserved draw. After Newcastle on Saturday , th",
+      "published_at": "2026-11-24T21:51:31+00:00",
+      "summary": "Manchester United defender wrongly sent off in 4-0 loss ‘If we have VAR, what were they doing?’ asks head coach Mauricio Pochettino has criticised officiating in English football, saying: “We have an unbelievable car, but we need to be in the level to drive [it],” after Leny Yoro",
       "teams": [
-        "Germany",
-        "Sweden"
+        "England"
       ],
-      "is_injury_related": true
+      "is_injury_related": false
     },
     {
       "id": "3244f5e8823e",
@@ -374,18 +420,6 @@
       "teams": [
         "Scotland",
         "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "d9d8445941d1",
-      "title": "Summer signings join Lionel Messi among MLS’s top earners: Takeaways from the league’s salary release",
-      "url": "https://www.theguardian.com/football/2026/nov/19/mls-salary-release-lionel-messi-spent-per-point",
-      "source": "The Guardian",
-      "published_at": "2026-11-19T18:01:17+00:00",
-      "summary": "How much in player salaries did it take to earn a point in the 2026 MLS regular season? The latest batch of salaries lends some insight Lionel Messi has closer company at the top of MLS’s list of highest-paid players, thanks to another pair of former Barcelona attackers. The Inte",
-      "teams": [
-        "Brazil"
       ],
       "is_injury_related": false
     },
