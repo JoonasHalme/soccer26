@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-11-26T23:47:42.689675+00:00",
+  "generated_at": "2026-11-27T08:15:38.680436+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "ef34bf5f2f57",
+      "title": "Goodwin backs Sapsford for Australia call-up - gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c95y127xxye5o",
+      "source": "BBC Sport",
+      "published_at": "2026-11-27T07:21:15+00:00",
+      "summary": "Dundee United manager backs striker for international call-up as Hibs boss offers advice to forward.",
+      "teams": [
+        "Australia"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "ed572e47dfe9",
+      "title": "Premier League: 10 things to look out for this weekend",
+      "url": "https://www.theguardian.com/football/2026/nov/27/premier-league-10-things-to-look-out-for-this-weekend",
+      "source": "The Guardian",
+      "published_at": "2026-11-27T00:00:48+00:00",
+      "summary": "Liam Delap can exploit Chelsea’s defensive woes while Senne Lammens is under pressure against Brentford Nottingham Forest’s last couple of seasons have been a story of good runs and bad runs, but it may help to know that last season’s encounters with Chelsea both presaged changes",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
     {
       "id": "2ebec8490f2f",
       "title": "Thomas Frank earns first Crystal Palace win as McNeil cuts down Real Sociedad",
@@ -164,30 +188,6 @@
       "is_injury_related": true
     },
     {
-      "id": "bb4f5c079680",
-      "title": "Glasner criticises Forest players yet to learn English",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-25T18:32:55+00:00",
-      "summary": "Nottingham Forest manager Oliver Glasner has questioned why some of his squad cannot speak English after being in the country for a number of years.",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "d8038c6f4eae",
-      "title": "Saudi Arabia’s PIF looking to sell 25% of Newcastle through share issue",
-      "url": "https://www.theguardian.com/football/2026/nov/25/saudi-arabia-pif-newcastle-share-issue",
-      "source": "The Guardian",
-      "published_at": "2026-11-25T15:36:32+00:00",
-      "summary": "PIF seeking investment to fund infrastructure projects JP Morgan appointed to handle the sale Newcastle United’s owner, Saudi Arabia’s Public Investment Fund (PIF), is looking to sell up to 25% of the club by issuing new shares. The New York-based bank JP Morgan, whose most recen",
-      "teams": [
-        "Saudi Arabia"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "7855e44defc5",
       "title": "Football Daily | Manchester City get that empty feeling as they fail to win again",
       "url": "https://www.theguardian.com/football/2026/nov/25/manchester-city-empty-feeling-football-daily-newsletter",
@@ -237,17 +237,29 @@
       "is_injury_related": true
     },
     {
-      "id": "fe37247e4b03",
-      "title": "Murrell flourishing at high-flying Falkirk after 'random' move",
-      "url": "https://www.bbc.co.uk/sport/articles/c6792q7gzeg8o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-25T12:03:34+00:00",
-      "summary": "Jacob Murrell took a big step out of his comfort zone leaving the United States for Falkirk and is enjoying a blistering run of form in Scotland, if not the food.",
+      "id": "4a69bcaac460",
+      "title": "Will Hajime Moriyasu get a high-profile job in Europe after his eight years in charge of Japan?",
+      "url": "https://www.theguardian.com/football/2026/nov/25/hajime-moriyasu-leave-japan-world-cup-samurai-blue",
+      "source": "The Guardian",
+      "published_at": "2026-11-25T12:00:26+00:00",
+      "summary": "The coach will leave early after the postponement of the Asian Cup and, while there has been clear progress, some had hoped for better results at World Cups A popular Christmas tradition in Japan is to head to KFC but there is an unexpected item on the menu to chew over this year",
       "teams": [
-        "Scotland",
-        "USA"
+        "Japan"
       ],
-      "is_injury_related": true
+      "is_injury_related": false
+    },
+    {
+      "id": "169af357f5fd",
+      "title": "The story of how Pelé and Maradona went from friends to bitter rivals",
+      "url": "https://www.theguardian.com/football/2026/nov/25/pele-diego-maradona-brazil-argentina-world-cup",
+      "source": "The Guardian",
+      "published_at": "2026-11-25T08:00:10+00:00",
+      "summary": "A new book charts the complicated relationship between the two legends, starting on a sunny afternoon in Rio in 1979 Pelé and Diego Maradona first met in April 1979, four months before the Argentinian led his country’s under-20 side to victory at the World Youth Cup. Maradona tol",
+      "teams": [
+        "Brazil",
+        "Argentina"
+      ],
+      "is_injury_related": false
     },
     {
       "id": "3244f5e8823e",
@@ -276,19 +288,6 @@
       "is_injury_related": true
     },
     {
-      "id": "003aa60ba943",
-      "title": "Hosting World Cup means decade of excitement - Weir",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c95y1kjvxmdyo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-23T21:03:42+00:00",
-      "summary": "Scotland captain Caroline Weir says hosting the 2035 Women's World Cup along with England, Northern Ireland and Wales will usher in \"an amazing decade of excitement\" for the game in her homeland.",
-      "teams": [
-        "Scotland",
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "58d2b952eef8",
       "title": "The 2035 Women’s World Cup has huge potential for women and girls in UK",
       "url": "https://www.theguardian.com/football/2026/nov/23/2035-womens-world-cup-potential-women-girls-uk",
@@ -314,18 +313,6 @@
       "is_injury_related": false
     },
     {
-      "id": "fb28f0efa6ae",
-      "title": "Football Daily | Neville, Keane and Manchester United meltdowns at world’s funniest comedy club",
-      "url": "https://www.theguardian.com/football/2026/nov/23/gary-neville-roy-keane-manchester-united-meltdown-comedy-club-football-daily-newsletter",
-      "source": "The Guardian",
-      "published_at": "2026-11-23T15:45:30+00:00",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Hoo-boy. Short of forgetting to put on his washable virgin wool navy trousers before striding towards the visitors’ dugout at Anfield, it’s difficult to imagine how Mauricio Pochettino’s spell in charge of Manchester United coul",
-      "teams": [
-        "Netherlands"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "3eb6c660e63d",
       "title": "England, Northern Ireland, Scotland & Wales to host 2035 Women's World Cup",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo",
@@ -349,18 +336,6 @@
         "France"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "a3418a536c9b",
-      "title": "Jamal Musiala controversy the nadir of Bayern Munich’s turbulent week",
-      "url": "https://www.theguardian.com/football/2026/nov/23/bayern-munich-jamal-musiala-controversy-bundesliga",
-      "source": "The Guardian",
-      "published_at": "2026-11-23T12:08:28+00:00",
-      "summary": "German giants’ treatment of midfielder has raised questions about how far the reputation of a family club still holds It was, on paper, a perfect Friday evening for Bayern to flex their muscles once again, in the chill of their intimidating Allianz Arena against struggling oppone",
-      "teams": [
-        "Germany"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "a5168b5a3562",
@@ -425,19 +400,6 @@
         "Ghana"
       ],
       "is_injury_related": false
-    },
-    {
-      "id": "c2e9b7b898a5",
-      "title": "Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes",
-      "url": "https://www.theguardian.com/football/2026/nov/17/reliving-the-drama-england-and-argentina-stars-watch-1986-classic-with-fresh-eyes",
-      "source": "The Guardian",
-      "published_at": "2026-11-17T15:00:16+00:00",
-      "summary": "A new film about the historic World Cup quarter-final clash finds new angles for a new generation “Is there anything new to say about it?” Gary Lineker asked the producer Flora Fernandez-Marengo when she first approached him to take part in The Match, a documentary about the 1986",
-      "teams": [
-        "Argentina",
-        "England"
-      ],
-      "is_injury_related": true
     },
     {
       "id": "5358792e523a",
