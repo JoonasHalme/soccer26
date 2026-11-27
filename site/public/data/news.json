@@ -1,10 +1,106 @@
 {
-  "generated_at": "2026-11-27T08:15:38.680436+00:00",
+  "generated_at": "2026-11-27T18:53:17.925435+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "8bafa1b35eef",
+      "title": "Nations Championship finale, Merseyside derby and Qatar GP – follow with us",
+      "url": "https://www.theguardian.com/sport/2026/nov/27/nations-championship-finale-merseyside-derby-and-qatar-gp-follow-with-us",
+      "source": "The Guardian",
+      "published_at": "2026-11-27T16:29:04+00:00",
+      "summary": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports Continue reading...",
+      "teams": [
+        "Qatar"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "bd13412a6772",
+      "title": "Falkirk chase seven in a row at Rangers & Celtic visit Hearts",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6x2wx4e90jeo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-27T14:37:51+00:00",
+      "summary": "Falkirk's trip to Ibrox and Hearts' home match with Celtic stand out in another crucial Scottish Premiership weekend.",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "3042fed64173",
+      "title": "Ipswich Women sign Ademiluyi for record fee",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3x29q4nwe1ko",
+      "source": "BBC Sport",
+      "published_at": "2026-11-27T12:10:39+00:00",
+      "summary": "Ipswich Town Women confirm the permanent signing of England youth international Princess Ademiluyi for a club record fee.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "b15644342e65",
+      "title": "Ross County have 102 goals and British football’s best start but is it a fairytale?",
+      "url": "https://www.theguardian.com/football/2026/nov/27/ross-county-british-football-best-start-102-goals",
+      "source": "The Guardian",
+      "published_at": "2026-11-27T12:00:10+00:00",
+      "summary": "There is cynicism and jealousy but one of County’s top scorers is 39 as club try to climb leagues again after tumbling It was a vidiprinter moment worthy of a double take. Ross County 1 Cove Rangers 1 (Keir 52). Would Cove, scrapping for survival in Scottish League One, put an un",
+      "teams": [
+        "Scotland"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "580ae072d807",
+      "title": "Clashes mar European games as Macron condemns violence",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-27T10:24:24+00:00",
+      "summary": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
+      "teams": [
+        "France"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "378d5d847a7b",
+      "title": "Can Borussia Dortmund finally end their title wait? Three big questions for Bundesliga leaders",
+      "url": "https://www.theguardian.com/football/2026/nov/27/borussia-dortmund-bundesliga",
+      "source": "The Guardian",
+      "published_at": "2026-11-27T10:00:01+00:00",
+      "summary": "Niko Kovac’s team lead the way and, with Bayern Munich wounded, have a golden chance to be German champions for the first time in 15 years Borussia Dortmund’s dreams have a habit of becoming nightmares, like when they somehow handed Bayern Munich the Bundesliga title on the final",
+      "teams": [
+        "Germany"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "47eaabdc3bdc",
+      "title": "Tarik Muharemovic: ‘Dad is at every Leeds game. I sometimes hear him shouting from the stands’",
+      "url": "https://www.theguardian.com/football/2026/nov/27/tarik-muharemovic-leeds-bosnia-dad-parents",
+      "source": "The Guardian",
+      "published_at": "2026-11-27T09:57:44+00:00",
+      "summary": "Bosnia centre-half on learning from Chiellini and Bonucci, his club’s European ambitions and the debt he owes his refugee parents Tarik Muharemovic is proving one of the best signings of this Premier League season and there will be special resonance when his upwardly mobile Leeds",
+      "teams": [
+        "Bosnia & Herzegovina"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "e243f9d67dc7",
+      "title": "Liam Delap’s struggles are symbolic of damaging Chelsea churn",
+      "url": "https://www.theguardian.com/football/2026/nov/27/liam-delap-struggles-damaging-chelsea-churn",
+      "source": "The Guardian",
+      "published_at": "2026-11-27T08:00:57+00:00",
+      "summary": "The constant turnover of players and staff has made consistency an elusive quality at Stamford Bridge Liam Delap came and went. He joined Chelsea in the summer of 2025 and was hailed by Enzo Maresca as the next Harry Kane. Fast forward a year, though, and there was no chance of D",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "ef34bf5f2f57",
       "title": "Goodwin backs Sapsford for Australia call-up - gossip",
@@ -42,36 +138,12 @@
       "is_injury_related": false
     },
     {
-      "id": "375a16c62329",
-      "title": "Pro-Palestinian banner as Besiktas face Israeli team causes delay and diplomatic incident",
-      "url": "https://www.theguardian.com/football/2026/nov/26/crowd-trouble-besiktas-hapoel-beer-sheva-diplomatic-incident-israel-palestine",
-      "source": "The Guardian",
-      "published_at": "2026-11-26T20:47:37+00:00",
-      "summary": "Turkey’s top diplomat speaks with Georgian counterpart Europa League match halted after police enter stands Turkey’s top diplomat has spoken with his Georgian counterpart after incidents at Besiktas’s Europa League match against Israeli club Hapoel Be’er-Sheva in Batumi, a foreig",
-      "teams": [
-        "Turkey"
-      ],
-      "is_injury_related": true
-    },
-    {
       "id": "26e0bda7dcd9",
       "title": "Éric Cantona: ‘If I regret something about the kung fu kick, it’s that I would love to kick him in another place’",
       "url": "https://www.theguardian.com/football/2026/nov/26/eric-cantona-interview-new-documentary",
       "source": "The Guardian",
       "published_at": "2026-11-26T20:00:44+00:00",
       "summary": "Before the release of a new documentary, the unrepentant Manchester United icon reflects on his deep bond with English football and his darker instincts “I’m an angel and a demon,” Éric Cantona says intently during a gripping new documentary about his life on and off the football",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "f8ab530f2031",
-      "title": "Carsley eyes Euros history with England U21s after draw",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c97726npre86o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-26T19:35:17+00:00",
-      "summary": "England have won the past two European Under-21 Championships, and Lee Carsley says they will \"go all out\" for a hat-trick.",
       "teams": [
         "England"
       ],
@@ -102,18 +174,6 @@
       "is_injury_related": true
     },
     {
-      "id": "9481d6929332",
-      "title": "SFA to deliver revised proposal after young player vote delayed",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwlyl36my6m7o",
-      "source": "BBC Sport",
-      "published_at": "2026-11-26T16:49:44+00:00",
-      "summary": "The Scottish FA will continue consulting with SPFL clubs in a bid to get more game time for homegrown talent after initial plans put forward by the governing body failed to reach a member vote.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "66b0ef57758a",
       "title": "Football Daily | Bayern Munich go from bad to worse with own goals on and off the pitch",
       "url": "https://www.theguardian.com/football/2026/nov/26/football-daily-newsletter-bayern-munich",
@@ -124,56 +184,6 @@
         "Germany"
       ],
       "is_injury_related": true
-    },
-    {
-      "id": "ef72f60e087c",
-      "title": "Champions League review: Lille monster Bayern, De Bruyne’s sad return and more United chaos",
-      "url": "https://www.theguardian.com/football/2026/nov/26/champions-league-review-lille-bayern-munich-kevin-de-bruyne-napoli",
-      "source": "The Guardian",
-      "published_at": "2026-11-26T15:00:39+00:00",
-      "summary": "The French side earned their first group win over troubled German giants as Bellingham and Betis also caught the eye Bayern Munich have hit a snagging point, with injuries wracking Vincent Kompany’s squad just as the head coach returns to work following his own health scare. For ",
-      "teams": [
-        "Germany",
-        "France"
-      ],
-      "is_injury_related": true
-    },
-    {
-      "id": "3343f1e0d2c7",
-      "title": "‘We are on the edge’: how Swedish league declined from summit of women’s game",
-      "url": "https://www.theguardian.com/football/2026/nov/26/damallsvenskan-swedish-league-decline-fans-attendances-media-coverage-finances",
-      "source": "The Guardian",
-      "published_at": "2026-11-26T11:00:32+00:00",
-      "summary": "The Damallsvenskan once mastered Europe and attracted the best players, but many are now worried for its future On 12 October 2003, Sweden stood still. The women’s football team were playing Germany in the World Cup final. TV4 set a new viewing record as almost half the nation wa",
-      "teams": [
-        "Germany",
-        "Sweden"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "9d473561ee9a",
-      "title": "Championship roundup: Stoke rise to second, Birmingham condemn Burnley to record drought",
-      "url": "https://www.theguardian.com/football/2026/nov/25/championship-roundup-stoke-millwall-burnley-home-record-birmingham",
-      "source": "The Guardian",
-      "published_at": "2026-11-25T22:55:48+00:00",
-      "summary": "George Hirst double earns Potters 2-1 win over Millwall Burnley’s winless home run extends to 24 matches George Hirst scored both goals as Stoke secured a fifth successive Championship win by beating Millwall 2-1 to go level on points with Middlesbrough at the top. The Scotland i",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "bcb3b86bbda7",
-      "title": "Isak and Wirtz on target as resurgent Liverpool sweep aside Club Brugge",
-      "url": "https://www.theguardian.com/football/2026/nov/25/club-brugge-liverpool-champions-league-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-11-25T22:04:10+00:00",
-      "summary": "Liverpool, from big money individuals to the collective, are building formidable momentum. On a bitterly cold night in Belgium, Andoni Iraola’s team delivered an accomplished away display to bring Club Brugge’s impressive run to a halt and step closer to automatic qualification f",
-      "teams": [
-        "Belgium"
-      ],
-      "is_injury_related": false
     },
     {
       "id": "7f7ed9eda133",
@@ -249,6 +259,18 @@
       "is_injury_related": false
     },
     {
+      "id": "433940e335ab",
+      "title": "Search for next USMNT head coach needs to prioritize competence over fame",
+      "url": "https://www.theguardian.com/football/2026/nov/25/usmnt-head-coach-search",
+      "source": "The Guardian",
+      "published_at": "2026-11-25T10:00:12+00:00",
+      "summary": "The job of Mauricio Pochettino’s successor is to fine-tune a team on the up. That requires a bureaucrat rather than a figurehead First, let’s get the Pep Exception out of the way. Or perhaps we’d better call it the Guardiola Caveat. Regardless, the point is the same. If US Soccer",
+      "teams": [
+        "USA"
+      ],
+      "is_injury_related": true
+    },
+    {
       "id": "169af357f5fd",
       "title": "The story of how Pelé and Maradona went from friends to bitter rivals",
       "url": "https://www.theguardian.com/football/2026/nov/25/pele-diego-maradona-brazil-argentina-world-cup",
@@ -309,19 +331,6 @@
       "summary": "Rivals have been heading in opposite directions in recent years but latest clash showed some things never change “If we didn’t celebrate a goal, especially in this game, that would be madness,” Kike Salas said. Instead, this was madness, the kind of moment a derby is meant to hav",
       "teams": [
         "Spain"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "3eb6c660e63d",
-      "title": "England, Northern Ireland, Scotland & Wales to host 2035 Women's World Cup",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-23T15:09:50+00:00",
-      "summary": "The United Kingdom will host a football World Cup for the first time since 1966.",
-      "teams": [
-        "Scotland",
-        "England"
       ],
       "is_injury_related": false
     },
