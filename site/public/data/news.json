@@ -1,10 +1,58 @@
 {
-  "generated_at": "2026-11-28T10:16:25.166804+00:00",
+  "generated_at": "2026-11-28T18:53:05.515040+00:00",
   "sources": [
     "BBC Sport",
     "The Guardian"
   ],
   "items": [
+    {
+      "id": "ec6d303da5ef",
+      "title": "Championship roundup: West Ham end winless run but lose Bowen to injury",
+      "url": "https://www.theguardian.com/football/2026/nov/28/championship-roundup-norwichs-clement-sent-off-in-bad-tempered-preston-draw",
+      "source": "The Guardian",
+      "published_at": "2026-11-28T17:32:46+00:00",
+      "summary": "Hammers beat Stoke 1-0 as Jarrod Bowen limps off Wolves held 0-0 at Lincoln; Birmingham 2-4 Bolton West Ham overcame the worrying loss of talisman Jarrod Bowen to beat Stoke 1-0 at the London Stadium and record their first win under their new manager Scott Parker. A powerful Kons",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "6332e12bbe5f",
+      "title": "Ashley Cole holds talks with Bristol Rovers for first management job in England",
+      "url": "https://www.theguardian.com/football/2026/nov/28/ashley-cole-bristol-rovers-manager-steve-evans-league-two",
+      "source": "The Guardian",
+      "published_at": "2026-11-28T15:29:35+00:00",
+      "summary": "Steve Evans on the brink after 3-1 home defeat Former England full-back last coached Serie B’s Cesena Ashley Cole is in talks with Bristol Rovers about taking his first management job in England, with Steve Evans on the brink of being sacked. Cole, whose sole senior coaching job ",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": false
+    },
+    {
+      "id": "30cfbae79898",
+      "title": "England call up Wubben-Moy for World Cup play-off",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwe9krv444mjo",
+      "source": "BBC Sport",
+      "published_at": "2026-11-28T13:41:04+00:00",
+      "summary": "Arsenal defender Lotte Wubben-Moy is called up to the England squad for next month's Women's World Cup play-off ties against Ukraine, with Lauren Hemp and Jess Carter withdrawing.",
+      "teams": [
+        "England"
+      ],
+      "is_injury_related": true
+    },
+    {
+      "id": "677f55b62477",
+      "title": "Jørgen Strand Larsen: ‘Dad and I have been best mates since I was a kid – that’s not going to change’",
+      "url": "https://www.theguardian.com/football/2026/nov/28/jorgen-strand-larsen-cancer-crystal-place-father-norway",
+      "source": "The Guardian",
+      "published_at": "2026-11-28T12:15:28+00:00",
+      "summary": "Striker determined to raise prostate cancer awareness after father, who scored goals for fun at amateur level in Norway, received terminal diagnosis It is a fresh Friday afternoon at Selhurst Park and, after posing for a couple of pictures in front of the red and blue Holmesdale ",
+      "teams": [
+        "Norway"
+      ],
+      "is_injury_related": true
+    },
     {
       "id": "d2eb623413ff",
       "title": "How a football team rebuilt after 19 players died in plane crash",
@@ -14,30 +62,6 @@
       "summary": "How a Brazilian football team rose again after a plane crash that killed most of their players and staff on the way to what should have been the biggest match of their lives.",
       "teams": [
         "Brazil"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "3a17b7369a2b",
-      "title": "USWNT seal Women’s World Cup qualification with 8-0 win over El Salvador",
-      "url": "https://www.theguardian.com/football/2026/nov/27/uswnt-el-salvador-womens-world-cup-qualifier",
-      "source": "The Guardian",
-      "published_at": "2026-11-28T04:14:42+00:00",
-      "summary": "US goes up 7-0 over El Salvador by half-time Win secures spot at 2027 World Cup and 2028 Olympics The United States’ place at a Women’s World Cup is treated as a foregone conclusion, but Friday’s all-or-nothing qualifier against El Salvador gave some reason for nerves. This was t",
-      "teams": [
-        "USA"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "68f1211ca840",
-      "title": "Ayr beat Largs to book place in Scottish Cup fourth round",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm62pw2e18dwo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-27T22:57:03+00:00",
-      "summary": "Watch the goals from Ayr United's Scottish Cup win over Largs Thistle.",
-      "teams": [
-        "Scotland"
       ],
       "is_injury_related": false
     },
@@ -66,18 +90,6 @@
       "is_injury_related": false
     },
     {
-      "id": "bd13412a6772",
-      "title": "Falkirk chase seven in a row at Rangers & Celtic visit Hearts",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6x2wx4e90jeo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-27T14:37:51+00:00",
-      "summary": "Falkirk's trip to Ibrox and Hearts' home match with Celtic stand out in another crucial Scottish Premiership weekend.",
-      "teams": [
-        "Scotland"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "3042fed64173",
       "title": "Ipswich Women sign Ademiluyi for record fee",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3x29q4nwe1ko",
@@ -102,18 +114,6 @@
       "is_injury_related": false
     },
     {
-      "id": "580ae072d807",
-      "title": "Clashes mar European games as Macron condemns violence",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo",
-      "source": "BBC Sport",
-      "published_at": "2026-11-27T10:24:24+00:00",
-      "summary": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
-      "teams": [
-        "France"
-      ],
-      "is_injury_related": false
-    },
-    {
       "id": "378d5d847a7b",
       "title": "Can Borussia Dortmund finally end their title wait? Three big questions for Bundesliga leaders",
       "url": "https://www.theguardian.com/football/2026/nov/27/borussia-dortmund-bundesliga",
@@ -134,30 +134,6 @@
       "summary": "Bosnia centre-half on learning from Chiellini and Bonucci, his club’s European ambitions and the debt he owes his refugee parents Tarik Muharemovic is proving one of the best signings of this Premier League season and there will be special resonance when his upwardly mobile Leeds",
       "teams": [
         "Bosnia & Herzegovina"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "ed572e47dfe9",
-      "title": "Premier League: 10 things to look out for this weekend",
-      "url": "https://www.theguardian.com/football/2026/nov/27/premier-league-10-things-to-look-out-for-this-weekend",
-      "source": "The Guardian",
-      "published_at": "2026-11-27T00:00:48+00:00",
-      "summary": "Liam Delap can exploit Chelsea’s defensive woes while Senne Lammens is under pressure against Brentford Nottingham Forest’s last couple of seasons have been a story of good runs and bad runs, but it may help to know that last season’s encounters with Chelsea both presaged changes",
-      "teams": [
-        "England"
-      ],
-      "is_injury_related": false
-    },
-    {
-      "id": "2ebec8490f2f",
-      "title": "Thomas Frank earns first Crystal Palace win as McNeil cuts down Real Sociedad",
-      "url": "https://www.theguardian.com/football/2026/nov/26/crystal-palace-real-sociedad-europa-league-match-report",
-      "source": "The Guardian",
-      "published_at": "2026-11-26T22:10:14+00:00",
-      "summary": "Football seasons can pivot on certain moments and Thomas Frank will hope that Crystal Palace’s turning point came 17 minutes from full time here. Deservedly trailing to Mamadou Sarr’s goal having been second best throughout against Real Sociedad, this game – and perhaps the south",
-      "teams": [
-        "France"
       ],
       "is_injury_related": false
     },
